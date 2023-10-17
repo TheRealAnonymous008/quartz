@@ -1,0 +1,3 @@
+* A collection of bad resources, archived here alongside a reason for being bad.
+
+* [Measuring the Importance of Smart E-Learning Education System by Chang, Chang, Chen, and Wu (September 15, 2022)](https://dl.acm.org/doi/pdf/10.1145/3568739.3568810) -  limited in scope, only surveying experts from the United States (and only 14 people for a quantitative study). Paper is poorly written. Scopus search on authors imply that this is their first publication.

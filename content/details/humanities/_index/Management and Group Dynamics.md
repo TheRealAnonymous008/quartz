@@ -1,0 +1,2 @@
+* The **Peter Principle** - When people in a sufficiently large hierarchy are promoted because of their competence, the end result will tend to put everyone into a position for which they are not competent.
+* The **Dilbert Principle** -  the least competent workers are systematically and swiftly moved to the position where they can do the least damage: management. In other words, the persons who least deserve promotion (or most deserve to be fired) will be promoted instead of the competent.
