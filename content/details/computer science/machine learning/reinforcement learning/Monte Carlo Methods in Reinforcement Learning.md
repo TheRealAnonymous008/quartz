@@ -66,14 +66,14 @@
 * **Weighted importance sampling** is done using a weighted average. $$V(s)=\frac{\sum_{t\in\mathcal{T}(s)} \ \rho_{t:T(t)-1} \ G_t}{\sum_{t\in\mathcal{T}(s)}  \ \rho_{t:T(t)-1}}$$Or $0$ if the denominator of $0$.
 
 
-* Ordinary and Weighted importance sampling for First-Visit MC are subject to [[Frequentist Statistics#Bias-Variance Tradeoff|the bias variance tradeoff]]. Ordinary has low bias, high variance (often infinite) Weighted has high bias, low variance (though the bias converges to $0$).
+* Ordinary and Weighted importance sampling for First-Visit MC are subject to [[Statistical Estimators#Bias-Variance Tradeoff|bias variance tradeoff]]. Ordinary has low bias, high variance (often infinite) Weighted has high bias, low variance (though the bias converges to $0$).
 * For Every-Visit MC, both methods are biased but this bias converges asymptotically to $0$.
 
 * In the context of discounted returns, we may make use of **discounting-aware importance**. 
 	* We interpret the discount rate as a *degree of partial termination*. The return can be written as $$G_{t} = (1-\gamma)\sum_{h=t+1}^{T-1}\gamma^{h-t-1}\bar{G}_{t:h} + \gamma^{T-t-1}\bar{G}_{t:T}$$Where $\bar{G}_{t:h}=R_{t+1}\dots+R_h$ is the **flat return**  (where discount rate is $1$ and the sum is up to horizon $h$).
 	* The estimator is then obtained by using the standard formula for importance sampling (see above), but where $\bar{G}_{t:h}$ is scaled by $\rho_{t:h-1}$ and $\bar{G}_{t:T}$ by $\rho_{t:\mathcal{T}(t)-1}$. $T(t)$ denotes the first termination time step after $t$.
 * We may also consider **per decision sampling** Based on the observation that $$\rho_{t:T-1}G_t=\rho_{t:T-1}(R_{t+1}+\gamma R_{t+2} + \dots +\gamma^{T-t-1}R_T)$$In place of $G_t$, we use the following in ordinary importance sampling $$\bar{G}_t = \rho_{t:t}R_{t+1} +\gamma\rho_{t:t+1} R_{t+2} + \dots + \gamma^{T-t-1}\rho_{t:T-1}R_T$$And $$V(s)=\frac{\sum_{t\in \mathcal{T}(s)} \bar{G_t}}{|\mathcal{T}(s)|}$$[^a]
-[^a]: Note: It is less clear if there is a weighted per-decision importance sampling. These estimators are [[Frequentist Statistics|inconsistent]]
+[^a]: Note: It is less clear if there is a weighted per-decision importance sampling. These estimators are [[Statistical Estimators#Properties of Good Estimators|inconsistent]]
 # Links
 * [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 5]] 
 	* 5.3 - more on Monte Carlo with Exploring Starts.

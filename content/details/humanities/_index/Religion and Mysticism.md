@@ -30,3 +30,6 @@
 # Topics
 * [[Kabbalah]]
 * [[Demonology]]
+
+# Links
+* [Sacred-Texts](https://www.sacred-texts.com/gno/index.htm)

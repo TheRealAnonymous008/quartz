@@ -2,7 +2,7 @@ A listing of common and interesting trade-offs that are noticeable in a variety 
 
 ### [[The Exploitation-Exploration Trade-Off|Exploration vs Exploitation]]
 
-* [[Frequentist Statistics#Bias-Variance Tradeoff|Bias vs Variance]] 
+### [[Statistical Estimators#Bias-Variance Tradeoff|Bias Variance Trade Off]]
 
 ### Accuracy / Optimality vs Computational Performance
 * To have a more accurate or optimal solution requires more time and computational resources to solve.
