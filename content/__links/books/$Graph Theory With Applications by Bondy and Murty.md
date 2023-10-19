@@ -1,6 +1,0 @@
----
-aliases: [Bondy and Murty]
----
-
-
-

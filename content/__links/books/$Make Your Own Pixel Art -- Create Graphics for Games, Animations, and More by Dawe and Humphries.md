@@ -1,4 +1,0 @@
----
-aliases:
-  - Dawe and Humphries
----
