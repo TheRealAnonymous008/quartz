@@ -46,5 +46,5 @@ The purpose of this Library is to archive and share my Second Brain to others.
 * [[Linear Algebra]]
 * [[Probability and Statistics]]
 
-## Psychology
+## [[Psychology]]
 * [[Human Biases]]

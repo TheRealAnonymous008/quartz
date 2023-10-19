@@ -14,6 +14,7 @@
 * **Cepheid** - any of a class of variable stars whose very regular light variations are related directly to their intrinsic luminosities and whose apparent luminosities are used to estimate distances in astronomy
 * **Corvid** - any of a family of stout-billed passerine birds which include crows, jays, ravens, and the raven.
 
+* **Dammerung** - (German) Dawn / Twilight.
 * **Despair** - the complete loss or absence of hope.
 
 * **Eigen** - (German) own, peculiar or private to someone. Idiosyncratic, Proper, or Proprietary
@@ -46,6 +47,8 @@
 * **Syzygy** - (Greek) Conjunction; Yoked Together. In astronomy, pertains to three celestial bodies aligning. In philosophy, interpreted as a union of opposites.
 
 * **Toska** - (Russian) Roughly translates to "Misery". At its deepest and most painful, it is a sensation of great spiritual anguish, often without any specific cause. At less morbid levels it is a dull ache of the soul, a longing with nothing to long for, a sick pining, a vague restlessness, mental throes, yearning. In particular cases it may be the desire for somebody of something specific, nostalgia, love-sickness. At the lowest level it grades into ennui, boredom.
+
+* **Ubermensch** - (German) Overman.  The goal that humanity should set for itself. The transvaluation of values from the traditional religious "other-worldly" values to more practical values derived from a love of the world and life experience.
 
 * **Zeitgeist** - "The Spirit of the Times". An invisible agent dominating the characteristics of a given epoch in world history.
 

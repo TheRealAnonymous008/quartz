@@ -15,7 +15,7 @@
 * Reinforcement learning has the following elements:
 	* A **policy** that defines the response of the agent given some environmental stimulus. The response comes as a probability distribution on the set of actions. The **actions** capture decisions to be learnt by the agent.
 	* A **reward signal** defines the goal of the agent.
-	  The reward signal is given by the environment and is agnostic to any prior knowledge. This is done so the agent does not "decree" that it has received a good reward.
+	  The reward signal is given by the environment and is agnostic to any agent's prior knowledge. This is done so the agent does not "decree" that it has received a good reward.
 	* A **value function** specifies a function that is being optimized in the long run. It encodes the total amount of reward that can be achieved on average. *The value function dictates how an agent is to be optimized*.
 		* *Domain knowledge is best put in the value function*. It can also be put in the initialization but note that the distribution may be nonstationary.
 

@@ -17,7 +17,7 @@
 * Modifies the Gradient Descent based approach by including only part of the gradient.
 * Suitable for bootstrapping since they take into account the effect of changing $w$ on the estimate, but ignore its effect on the target.
 * Convergence to global optima not guaranteed, but enables much faster learning, and allows continual, online learning.
-* An example is semi-gradient $\text{TD}-0$ where $$U_t=R_{t+1}+\gamma\hat{v}(S_{t+1},w)$$
+* An example is semi-gradient TD-0 where $$U_t=R_{t+1}+\gamma\hat{v}(S_{t+1},w)$$
 ### State Aggregation
 * Group states together with one estimated value (one component of $w$).
 * We typically see a **staircase effect** where the approximate value within a group abruptly changes.
