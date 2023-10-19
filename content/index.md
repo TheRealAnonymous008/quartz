@@ -4,6 +4,7 @@ title: The Library
 The purpose of this Library is to archive and share my Second Brain to others.
 # Personal Section
 * [[Beliefs and General Principles]]
+* [[Update Logs]]
 * [[Exploration Garden]]
 * [[Interesting People]]
 * [[Literature Index]]
