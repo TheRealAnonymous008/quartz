@@ -59,6 +59,6 @@
 	* *Optimization is moderately easy*. Aspects of the design can be approximately factorized such that it is possible to infer their effect on the quantity at the outcome somewhat independently.
 
 # Links
-* [[$Dive into Deep Learning by Zhang, Lipton, Li and Smola|Zhang et. al Ch. 7.1]] - for a full derivation of why we use convolutions. 
-* [[$Dive into Deep Learning by Zhang, Lipton, Li and Smola|Zhang et. al Ch. 7.6, Ch. 8]] - for a more in depth view on all the models discussed so far. 
+* [[Dive into Deep Learning by Zhang, Lipton, Li and Smola|Zhang et. al Ch. 7.1]] - for a full derivation of why we use convolutions. 
+* [[Dive into Deep Learning by Zhang, Lipton, Li and Smola|Zhang et. al Ch. 7.6, Ch. 8]] - for a more in depth view on all the models discussed so far. 
 

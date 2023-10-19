@@ -56,5 +56,5 @@
 	* Retain only when computing an action selection (I.e., [[Decision Time Planning#Heuristic Search|heuristic search]])
 * Use of [[Function Approximation in Reinforcement Learning|function approximation]].
 # Links
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 8.13]]
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 8.13]]
 * [[Backups in Reinforcement Learning]] - more on sample and expected updates.

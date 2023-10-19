@@ -20,4 +20,4 @@
   In fact, $\text{Corr}[X,Y]=1$ indicates that $Y=aX+b$. Correlation is a measure to the degree in which two variables are linearly related.
 
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]

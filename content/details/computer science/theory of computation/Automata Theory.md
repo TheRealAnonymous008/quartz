@@ -22,6 +22,6 @@
 * [[Deterministic Pushdown Automata and DCFLs]]
 * [[Pushdown Automata and Context Free Languages]]
 # Links
-* [[$Introduction to the Theory of Computation by Sipser]]
+* [[Introduction to the Theory of Computation by Sipser]]
 
 * [[Linguistics]] - Automata Theory is connected to Linguistics.

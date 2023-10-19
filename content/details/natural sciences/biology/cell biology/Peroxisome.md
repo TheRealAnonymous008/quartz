@@ -5,4 +5,4 @@
 * They also engage in aerobic metabolism.
 * During [[Chloroplasts and Photosynthesis#Photosynthesis|photosynthesis]], the peroxisome is involved in the shuttling of materials from the chloroplast (i.e., glycolate), to the mitochondrion (glyoxylate) and then from the mitochondrion (glycine and serine) back to the chloroplast (glycerate) for use in forming $3-\text{PGA}$.
 # Links
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 5.10 - 5.11]] 
+* [[Cell and Molecular Biology by Karp|Karp Ch. 5.10 - 5.11]] 

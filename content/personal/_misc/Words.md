@@ -53,4 +53,4 @@
 * **Zeitgeist** - "The Spirit of the Times". An invisible agent dominating the characteristics of a given epoch in world history.
 
 # Links
-* [[$The Dictionary of Obscure Sorrows by John Koenig]]
+* [[The Dictionary of Obscure Sorrows by John Koenig]]

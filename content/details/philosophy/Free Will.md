@@ -11,5 +11,5 @@
 * Assuming freedom requires awareness of one's options based on reasonable thoughts, how do we account for negligence when "a thought simply did not occur to the negligee".
 * What is the point of choice if everything has been predetermined anyway. Especially apparent when it comes to fate or inevitable death
 # Links
-* [[$Think- A Compelling Introduction to Philosophy by Blackburn|Blackburn Ch. 3]]
+* [[Think- A Compelling Introduction to Philosophy by Blackburn|Blackburn Ch. 3]]
 * [[Philosophy of the Mind]] - more on Cartesian Dualism

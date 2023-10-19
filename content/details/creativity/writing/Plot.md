@@ -3,7 +3,7 @@
 	* Another is pacing, how the story beats are laid out in a logical, engaging, and refreshing manner.
 	* The plot structure should suit the emotion you want to convey.
 # The Classic
-* All stories follow a **Quest** described as such (see [[$Story by Robert McKee|McKee Ch. 8]])
+* All stories follow a **Quest** described as such (see [[__links/books/Story by Robert McKee|McKee Ch. 8]])
 
 > For better or worse, an event throws a character's life out of balance, arousing in him the conscious and/or unconscious desire for that which he feels will restore balance, launching him on a Quest for his Object of Desire against forces of antagonism. He may or may not achieve it.
 

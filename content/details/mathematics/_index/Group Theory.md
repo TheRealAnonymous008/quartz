@@ -22,4 +22,4 @@
 # Links
 * [[Linear Algebra]] - for a related algebra to group theory.
 
-* [[$A First Course in Abstract Algebra 7th Edition by Fraleigh]]
+* [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

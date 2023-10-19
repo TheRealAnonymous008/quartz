@@ -47,7 +47,7 @@
 # Links
 * [[Metabolic Processes within the Cell]] - for more information on cellular processes.
 
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 3]] - select chapters for enzymes:
+* [[Cell and Molecular Biology by Karp|Karp Ch. 3]] - select chapters for enzymes:
 	* 3.2 - 3.3 - for the thermodynamics of the cell
 	* 3.5 - 3.6 - for understanding enzyme activity.
 	* 3.7 - for understanding inhibitors and enzyme kinetics.

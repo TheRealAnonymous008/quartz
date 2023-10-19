@@ -2,4 +2,4 @@
 # Topics
 * [[Clean Code Principles]]
 # Links
-* [[$Clean Code by Robert Martin]]
+* [[Clean Code by Robert Martin]]

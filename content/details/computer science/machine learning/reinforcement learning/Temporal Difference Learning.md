@@ -127,7 +127,7 @@ Q_1(S_t,A_t) &\gets Q_1(S_t,A_t) + \alpha \left[ R_{t+1} + \gamma Q_2 (S_{t+1}, 
 * [[Dynamic Programming for Reinforcement Learning]] - for more on Dynamic Programming in RL
 * [[Monte Carlo Methods in Reinforcement Learning]] - for  more on Monte Carlo in RL
 
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 6-7]]
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 6-7]]
 	* 6.4 - SARSA
 	* 6.5 - Q learning
 	* 6.6 - Expected SARSA

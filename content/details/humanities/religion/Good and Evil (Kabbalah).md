@@ -1,12 +1,12 @@
 * Kabbalah makes a deal of "anthropomorphizing" God in the sense that our body parts are symbols of the divine. To purify them is to move towards divinity in the aspect they represent.
 	* *Because man is made in God's image, he should not only be God in form but through action.*
-	* See more from [[$The Essential Kabbalah by Matt|The Palm Tree of Deborah]] -- do to others as God would the world.
+	* See more from [[The Essential Kabbalah by Matt|The Palm Tree of Deborah]] -- do to others as God would the world.
 	* Through good deeds we sanctify ourselves and make ourselves vessels of Shekhinah
 
 > “The righteous one is the foundation of the world.” If it weakens, the
 world cannot endure. So if the world contains just one righteous person, that person sustains the world. [^4]
 
-[^4]: The Righteous Pillar in [[$The Essential Kabbalah by Matt|Matt]].
+[^4]: The Righteous Pillar in [[The Essential Kabbalah by Matt|Matt]].
 
 # Evil in the Kabbalah
 * Kabbalah has the following views of evil as a recurrent theme (in particular it is mostly Positive, Monistic evil.)
@@ -59,7 +59,7 @@ world cannot endure. So if the world contains just one righteous person, that pe
 * Some theologians speculate that the serpent was **Lilith** who was born from Da'at and was Adam's first wife. After refusing to submit to Adam, God created **Eve** who embodies Malkuth--the fallen woman who submits to the man Tiphereth.
 	* Inside Malkuth broods Da'at as a dark alter-ego.
 
-[^1]: See [[$Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson]] for more.
+[^1]: See [[Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson]] for more.
 
 * God was separated from Shekhinah because of the sins of mankind.
 # The Qliphoth
@@ -90,7 +90,7 @@ world cannot endure. So if the world contains just one righteous person, that pe
 
 > In a world consisting solely of good instincts, no righteous man would be able to exist, since righteousness is measured in regard to resistance. Only in a world of injustice can a righteous man arise since he would choose the good and righteous [^3]
 
-[^3]: See [[$Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson p. 58]]
+[^3]: See [[Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson p. 58]]
 ### Tiphereth
 * An imbalance of Tiphereth is the origin of evil, **Sitra Ahra** (The Other Side). From this perspective, evil originates in divine thought which eliminates waste before emanating goodness.
 
@@ -110,4 +110,4 @@ world cannot endure. So if the world contains just one righteous person, that pe
 * [[The Sephirot]]
 * [[The Qliphoth]]
 
-* [[$Qabalah, Qliphoth and Goetic Magic by Karlsson]]
+* [[Qabalah, Qliphoth and Goetic Magic by Karlsson]]

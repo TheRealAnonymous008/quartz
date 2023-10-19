@@ -15,4 +15,4 @@
 * [[Religion and Mysticism]]
 * [[Stoicism]]
 # Links
-* [[$Think- A Compelling Introduction to Philosophy by Blackburn]]
+* [[Think- A Compelling Introduction to Philosophy by Blackburn]]

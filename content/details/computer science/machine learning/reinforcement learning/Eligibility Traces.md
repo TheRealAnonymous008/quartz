@@ -31,7 +31,7 @@
 * [[Temporal Difference Learning]] - for more info on the basic case $\text{TD}(0)$. 
 * [[Monte Carlo Methods in Reinforcement Learning]] - for more on Importance sampling
 
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 7]]
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 7]]
 	* 7.4 - explains why the two views of eligibility tracing are equivalent.
 	* 7.5 - covers $\text{SARSA}(\lambda)$
 	* 7.6 - covers Watkins' $Q(\lambda)$

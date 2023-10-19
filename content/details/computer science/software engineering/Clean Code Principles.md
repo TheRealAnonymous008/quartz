@@ -227,4 +227,4 @@
 12. Run on different platforms early and often.
 13. Instrument your code to try and force failures. Make it run code that forces it to execute threads in different orderings.
 # Links
-[[$Clean Code by Robert Martin]]
+[[Clean Code by Robert Martin]]

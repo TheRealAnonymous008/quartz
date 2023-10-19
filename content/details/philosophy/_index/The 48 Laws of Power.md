@@ -305,4 +305,4 @@
 * When locked in the past, the powerful look comical--they are overripe fruit waiting to fall from the tree.
 * See events through your own eyes and ignore the advice others constantly peddles.
 # Links
-* [[$48 Laws of Power by Robert Greene]]
+* [[48 Laws of Power by Robert Greene]]

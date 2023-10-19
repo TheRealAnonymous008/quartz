@@ -31,4 +31,4 @@
 * It challenges the notion of experiencing Absolute Forgiveness in the future in favor of Absolute Damnation.
 * It is to abandon all hope.
 # Links
-* [[$Killjoys - The Seven Deadly Sins by Segal]]
+* [[Killjoys - The Seven Deadly Sins by Segal]]

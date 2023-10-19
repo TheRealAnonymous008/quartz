@@ -55,6 +55,6 @@
 * [[Mitochondrion]] - a similar organelle. 
 * [[Cellular Respiration]] - for a related process to Photosynthesis
 
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 6]]
+* [[Cell and Molecular Biology by Karp|Karp Ch. 6]]
 	* 6.6 - 6.8 - specific operations of the two Photosystems and photophosphorylation.
 	* 6. 9 - 6.10 - specifics of the dark operations in C3 / C4 and CAM plants.

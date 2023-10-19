@@ -5,5 +5,5 @@
 * Genres are a constraint that boosts [[Creativity|creativity]]. Knowing the genre conventions will help in playing with audience expectations.
 	* All genres in a sense are **primal** they appeal to something fundamental about the human experience (adventure, companionship ,society ,etc)
 # Links
-* [[$Story by Robert McKee|McKee Ch. 4]] - contains a typology of Genres
-* [[$Save The Cat by Snyder|Snyder Ch. 2]] - another typology of genres.
+* [[__links/books/Story by Robert McKee|McKee Ch. 4]] - contains a typology of Genres
+* [[Save The Cat by Snyder|Snyder Ch. 2]] - another typology of genres.

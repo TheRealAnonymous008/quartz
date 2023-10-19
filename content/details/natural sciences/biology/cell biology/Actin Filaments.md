@@ -37,5 +37,5 @@
 * **Membrane-Binding Proteins** - Proteins that link the filaments to the plasma membrane by attaching to a plasma membrane indirectly. These control the contractile, expanding motion of the cell.
 	* Examples: **Vinculin, Ezrin, Radixin, Moesin, Spectrins**.
 # Links
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 9.10 - 9.14]]
+* [[Cell and Molecular Biology by Karp|Karp Ch. 9.10 - 9.14]]
 	* Ch. 9.12 - more on how actin and myosin are utilized in muscles

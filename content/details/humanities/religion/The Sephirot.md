@@ -373,10 +373,10 @@
 * The Union of Tif'eret and Shekhinah gives birth to the human soul, and thus derives the spiritual quest of Man.
 	* By knowing and withstanding the dark underside of wisdom, the spiritual seeker is refined.
 # Links
-* [[$The Essential Kabbalah by Matt]]
-* [[$Qabalah, Qliphoth and Goetic Magic by Karlsson]]
-* [[$The Mystical Qabalah by Fortune]] - goes over the association between Qabalah, Astrology, and the Tarot cards.
-* [[$The Tree of Evil by Gray]] - for the precepts of the Sephirot.
+* [[The Essential Kabbalah by Matt]]
+* [[Qabalah, Qliphoth and Goetic Magic by Karlsson]]
+* [[The Mystical Qabalah by Fortune]] - goes over the association between Qabalah, Astrology, and the Tarot cards.
+* [[The Tree of Evil by Gray]] - for the precepts of the Sephirot.
 
 * [Altmagick](https://www.shematria.com/altmagick) - for more on the virtues and vices of the Sephirot
 

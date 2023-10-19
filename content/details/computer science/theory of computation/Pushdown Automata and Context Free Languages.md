@@ -16,7 +16,7 @@
 * We may test if the machine reaches the end of the input string  by assuming the accept state only takes effect when the machine is at the end of the input.
 
 * *Sipser 2.20*: A Language is context free if and only if some PDA recognizes it. [^2]
-[^2]: [[$Introduction to the Theory of Computation by Sipser|Sipser]] provides a proof. The idea is to establish an algorithm to convert from PDA to CFG and vice versa. This boils down to mapping states with nonterminals, and symbols (Including those pushed into the stack) with the terminals plus the nonterminals.
+[^2]: [[Introduction to the Theory of Computation by Sipser|Sipser]] provides a proof. The idea is to establish an algorithm to convert from PDA to CFG and vice versa. This boils down to mapping states with nonterminals, and symbols (Including those pushed into the stack) with the terminals plus the nonterminals.
 # Context Free Grammar
 * A **context free grammar** is a $4$-tuple $(N,\Sigma, P,S)$ where the production rules are of the form $A\to (A\cup \Sigma)^\ast$, $A\in N$. 
 * A CFG is in **Chomsky Normal Form** if every rule is of the form $$\begin{split} A &\to BC \\ A &\to a \end{split}$$
@@ -31,4 +31,4 @@
 [^1]: Like the [[Finite Automata and Regular Languages#Nonregular Languages|Regular Language]] version, the pumping lemma holds because of the Pigeonhole Principle. The Pigeonhole Principle applies because every set in the Grammar is finite so we can simply use a string that is long enough such that in the parse tree, we have to use a production rule twice. Conditions 2 and 3 are there to make sure we don't have any pathologies when using the Pigeonhole Principle.
 
 # Links
-* [[$Introduction to the Theory of Computation by Sipser|Sipser Ch. 2]]
+* [[Introduction to the Theory of Computation by Sipser|Sipser Ch. 2]]

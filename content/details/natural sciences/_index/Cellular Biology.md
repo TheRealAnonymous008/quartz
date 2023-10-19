@@ -15,4 +15,4 @@
 * [[The Parts of the Cell and their Processes]]
 * [[Drugs and Medicine]]
 # Links
-* [[$Cell and Molecular Biology by Karp]]
+* [[Cell and Molecular Biology by Karp]]

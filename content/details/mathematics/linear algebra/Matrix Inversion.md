@@ -27,4 +27,4 @@
   \end{split}$$The first two are called the **Matrix Inversion Lemma** or the **Sherman-Morrison-Woodbury Formula**.  The last is called the **Matrix Determinant Lemma**.
 
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy 4.3.2.1]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 4.3.2.1]]

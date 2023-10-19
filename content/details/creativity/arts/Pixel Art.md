@@ -14,7 +14,7 @@
 		* Note: Maintain contrast between the base color and the outline to make it pop out of the background.
 * *Pixel art can be thought of as sculpting with color* - we assemble the forms through blobs of color.
 # Links
-* [[$Make Your Own Pixel Art -- Create Graphics for Games, Animations, and More by Dawe and Humphries]]
+* [[Make Your Own Pixel Art -- Create Graphics for Games, Animations, and More by Dawe and Humphries]]
 * [Lines and Curves](https://opengameart.org/content/chapter-2-lines-and-curves)
 
 * [[Creativity]]

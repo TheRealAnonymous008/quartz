@@ -132,4 +132,4 @@
 # Topics
 * [[Writing Story Scenes]]
 # Links
-* [[$Story by Robert McKee|McKee Ch. 2, 8, 13]] - primary source.
+* [[__links/books/Story by Robert McKee|McKee Ch. 2, 8, 13]] - primary source.

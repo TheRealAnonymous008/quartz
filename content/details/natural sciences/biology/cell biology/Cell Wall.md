@@ -21,6 +21,6 @@
 	* The transition from primary to secondary occurs due to an increase in cellulose.
 	* They often incorporate **lignin** for additional structural support.
 # Links
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 7.14]]
+* [[Cell and Molecular Biology by Karp|Karp Ch. 7.14]]
 
 * [[Extracellular Matrix and Extracellular Interactions]] - more on cell-cell interactions.

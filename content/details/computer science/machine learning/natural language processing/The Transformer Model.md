@@ -50,6 +50,6 @@
 
 * ⭐ The Evolved Transformer by So, Liang, Le (May 17, 2019)
 # Links
-* [[$Dive into Deep Learning by Zhang, Lipton, Li and Smola|Zhang et. al Ch. 11]] - for everything about the basics of the transformer model.
+* [[Dive into Deep Learning by Zhang, Lipton, Li and Smola|Zhang et. al Ch. 11]] - for everything about the basics of the transformer model.
 * [All about Attention](https://lilianweng.github.io/posts/2018-06-24-attention/) - more about attention
 

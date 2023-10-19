@@ -13,4 +13,4 @@
 * [[Book XII]]
 
 # Links
-* [[$Meditations by Marcus Aurelius]]
+* [[Meditations by Marcus Aurelius]]

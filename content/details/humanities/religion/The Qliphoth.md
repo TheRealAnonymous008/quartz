@@ -50,7 +50,7 @@
 	* **Citrinitas** - the mental level. / Briah
 	* **Rubedo** - the divine final goal. / Atziluth
 * It may also be divided into seven stages based on alchemic processes. It has 11 steps reflecting man's journey going beyond divinity. [^2]
-[^2[]: See [[$Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson p.109-110]]
+[^2[]: See [[Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson p.109-110]]
 
 # The Orders of Qliphoth [^3]
 ## Nahemo / Lilith
@@ -124,7 +124,7 @@
 	* Here one rebels and frees themselves from God and becomes the Lord of another universe. 
 	* Alternatively, here one can become one with God, at the risk of disintegrating the self.
 
-[^3]: [[$Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson]] has a dedicated chapter on the Qliphoth discussing incantations for contacting them.
+[^3]: [[Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson]] has a dedicated chapter on the Qliphoth discussing incantations for contacting them.
 
 # Qliphotic Paths
 * Like [[Creation (Kabbalah)|Hebrew's 22 letters and creation]] there are 22 Qliphothic Paths [^4]
@@ -174,7 +174,7 @@
 ### 22. Thantifaxath
 * Gamaliel - Lilith
 
-[^4]: See more in [[$Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson]]
+[^4]: See more in [[Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson]]
 # The Tree of Evil
 * The side pillars of the Tree of Evil correspond to Compulsion, Coercion, and Condemnation -- counteracting Severity, Mercy, and Moderation respectively in [[The Sephirot#The Tree Of Life (Otz Chiim)|The Tree of Life]].
 	* If Man's true nature is inherently Good, then the only ways to condemn him is through coercion or compulsion.
@@ -348,9 +348,9 @@
 10. Don't believe in God. Doubt Divinity.
 
 # Links
-* [[$Qabalah, Qliphoth and Goetic Magic by Karlsson]]
+* [[Qabalah, Qliphoth and Goetic Magic by Karlsson]]
 	* Contains a chapter on Qliphotic Invocations.
-* [[$The Tree of Evil by Gray]]
+* [[The Tree of Evil by Gray]]
 
 * [[The Sephirot]] 
 * [[Kabbalah]]

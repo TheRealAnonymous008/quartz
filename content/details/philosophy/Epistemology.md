@@ -9,4 +9,4 @@
 # Questions
 * For all we know, all our experiences may be a dream--disconnected from reality. There remains a challenge -- that we know nothing, and all our beliefs are delusions.
 # Links
-* [[$Think- A Compelling Introduction to Philosophy by Blackburn|Blackburn Ch. 1]]
+* [[Think- A Compelling Introduction to Philosophy by Blackburn|Blackburn Ch. 1]]

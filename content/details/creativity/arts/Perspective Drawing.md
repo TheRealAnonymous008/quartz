@@ -1,2 +1,2 @@
 # Links
-* [[$Perspective made Easy by Norling]]
+* [[Perspective made Easy by Norling]]

@@ -10,7 +10,7 @@
 	* At latitudes closer to the Equator, the insolation is more focused and comes at a direct angle and thus, they receive more insolation. 
 	* By contrast, at latitudes closer to the Poles, the insolation is spread out over a wider area and they receive less.
 	* The larger the **zenith angle**, the farther the energy has to travel through the atmosphere. *Thus, the atmosphere at higher latitudes absorb more of the energy*. 
-	* A more precise, empirical formulation of the above can be found in [[$Exploring Physical Geography by Reynolds|Reynolds Ch. 2.16]]
+	* A more precise, empirical formulation of the above can be found in [[Exploring Physical Geography by Reynolds|Reynolds Ch. 2.16]]
 # Insolation and Earth's Surface
 * Considering various natural mechanisms, the *Earth has a low average but highly variational surface albedo*. This albedo is important since it determines *heat balance*. 
 	* *Land gets warmer at a much faster rate than the ocean*. This is because of the specific heat capacity of water compared to rocks. Also, water tends to transfer this heat to latent heat (i.e., evaporation)
@@ -52,4 +52,4 @@
 	* *During the Summer Solstice*, the sun rises in the northeast and sets in the northwest. *This is the longest day and shortest night*.
 	* *During an equinox, every location on Earth has 12 hours of sunlight and darkness*.
 # Links
-* [[$Exploring Physical Geography by Reynolds|Reynolds Ch. 2.1 - 2.10, 2.13 - 2.17]]
+* [[Exploring Physical Geography by Reynolds|Reynolds Ch. 2.1 - 2.10, 2.13 - 2.17]]

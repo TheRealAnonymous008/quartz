@@ -13,6 +13,6 @@
 # Links
 * [[Data Visualization]] - for techniques on visualizing map data.
 
-* [[$Exploring Physical Geography by Reynolds]]
+* [[Exploring Physical Geography by Reynolds]]
 
 

@@ -92,7 +92,7 @@
 # Links
 * [[Enzymes as Machines for Cellular Processes]] - to see more about enzymes and metabolic processes.
 
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 4]]
+* [[Cell and Molecular Biology by Karp|Karp Ch. 4]]
 	* 4.5  - for a discussion on how Integral Proteins were studied.
 	* 4.7 - for more about membrane dynamics
 	* 4.11 - a discussion on the potassium ion channel and its parts.

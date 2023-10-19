@@ -31,4 +31,4 @@
 * [[Design In the World of Business]]
 
 # Links
-* [[$The Design of Everyday Things by Norman]]
+* [[The Design of Everyday Things by Norman]]

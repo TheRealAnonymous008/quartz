@@ -71,4 +71,4 @@
 	* *Black is associated with evil, darkness, and death.
 	* *White*  is associated with good, light, and purity.
 # Links
-* [[$The Illustrated Book of Signs and Symbols -- 1000s of Signs and Symbols from Around the World by Bruce-Mitford]]
+* [[The Illustrated Book of Signs and Symbols -- 1000s of Signs and Symbols from Around the World by Bruce-Mitford]]

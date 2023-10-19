@@ -3,7 +3,7 @@
 	* An **estimator** $\delta$ is applied to data $\mathcal{D}$ so that the **parameter estimate** $\hat{\theta}$ is obtained by $$\hat\theta=\delta(\mathcal{D})$$
 	* The sampling distribution is obtained by sampling many datasets $\mathcal{D}^{(s)}$ and computing parameter estimates. *The sampling distribution is the distribution of $\hat\theta$* 
 		* This can be obtained with **bootstrapping** where we sample many datasets and use the empirical distribution to estimate the sampling distribution. *The sampling distribution and the posterior distribution $P(\theta\mid\mathcal{D})$ are similar assuming a weak prior*.
-		* Under certain conditions, as the sample size tends to infinity, the sampling distribution of the MLE becomes Gaussian (see more in [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy 6.2.2]])
+		* Under certain conditions, as the sample size tends to infinity, the sampling distribution of the MLE becomes Gaussian (see more in [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 6.2.2]])
 
 * We use heuristics since we do not have an automatic way of choosing between estimators. 
 ### Properties of Good Estimators

@@ -34,14 +34,14 @@
 
 > A perfect world cannot  be created, for it would then be identical to God Himself, who cannot duplicate Himself, but only restrict Himself. [^5]
 
-[^5]: [[$Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson p. 63]]
+[^5]: [[Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson p. 63]]
 
 > In the bliss of contemplating the righteous, of imagining holy people—in this fluctuation, the power to create was born.  [^3] 
 
-[^3]: [[$The Essential Kabbalah by Matt|Matt]], Creative Arousal.
+[^3]: [[The Essential Kabbalah by Matt|Matt]], Creative Arousal.
 
 * Another proposed reason for creating the Universe is that Ein Sof wished to reach awareness of itself, which can only be done through shevirah.
-* The Sefirot gave rice to ten numbers (see [[$Sepher Yetzirah|Sepher Yetzrah Ch. 1]])
+* The Sefirot gave rice to ten numbers (see [[Sepher Yetzirah|Sepher Yetzrah Ch. 1]])
 	1) The *Spirit* of God of the Living (i.e., the Holy Spirit)
 	2) From the Spirit, He produced *Air* and formed in it twenty-two sounds (Hebrew)
 	3) From the Air, the *Waters* and the Surfaces.
@@ -87,11 +87,11 @@
 * From the 22 letters, everything was made.
 
 [^1]: Note, there are several ways to assign the attributes to the letters. The Sepher Yetzrah does not make an assignment explicit. Assignment for the Doubles are to what concepts they pertain to (i.e., Beth refers to Wisdom). Assignment for the Simples are to where they are predominant in (i.e. Heh is predominant in Speech). See more in [[#Links]]. 
-[^2]: Classifications are based on [[$Sepher Yetzirah|Sepher Yetzrah]], and [[$Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson]] respectively (separated by -)
+[^2]: Classifications are based on [[Sepher Yetzirah|Sepher Yetzrah]], and [[Qabalah, Qliphoth and Goetic Magic by Karlsson|Karlsson]] respectively (separated by -)
 
 > The production of all things from the twenty-two letters is the proof that they are all but part of one living body. [^4]
 
-[^4]: [[$Sepher Yetzirah|Sepher Yetzrah Ch. 2]]
+[^4]: [[Sepher Yetzirah|Sepher Yetzrah Ch. 2]]
 
 * The Existence stemming from God is divided into four divisions: 
 	* **Atsilut / Atziluth** (Emanation) - the ten emanated sefirot through which spreads the light of Ein Sof.
@@ -201,7 +201,7 @@
 31. *Perpetual Intelligence* - regulates the motions of the Sun and the Moon
 32. *Administrative Intelligence* - directing the motion of planets. 
 # Links
-* [[$Sepher Yetzirah|Sepher Yetzrah]]
+* [[Sepher Yetzirah|Sepher Yetzrah]]
 * [Hebrew Alphabet Letter Meanings](http://www.walkingkabbalah.com/hebrew-alphabet-letter-meanings/)
 * [Psalm 119 - the Greatness and Complete Glory of God's Work](https://enduringword.com/bible-commentary/psalm-119/) - contains an assignment of Hebrew based on Psalm 119.
-* [[$Qabalah, Qliphoth and Goetic Magic by Karlsson]] - also presents an assignment of the 22 letters at p. 33.
+* [[Qabalah, Qliphoth and Goetic Magic by Karlsson]] - also presents an assignment of the 22 letters at p. 33.

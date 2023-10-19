@@ -130,4 +130,4 @@
 * "So goes the world, there is no such thing as an honest man; that all are knaves alike."
 * He is the true demagogue, ever ready to head a licentious mob.
 # Links
-* [[$Characters by Theophrastus]]
+* [[Characters by Theophrastus]]

@@ -12,12 +12,12 @@
 * [[Linear Algebra]]
 * [[Probability and Statistics]]
 # Links
-* [[$Graph Theory With Applications by Bondy and Murty]]
-* [[$Introduction To Graph Theory by Wilson]]
-* [[$An Exploration of the Chromatic Polynomial by Aydelotte]]
+* [[Graph Theory With Applications by Bondy and Murty]]
+* [[Introduction To Graph Theory by Wilson]]
+* [[An Exploration of the Chromatic Polynomial by Aydelotte]]
 
-* [[$Understanding Analysis by Abbott]]
-* [[$Linear Algebra by Friedberg Insel and Spence]]
+* [[Understanding Analysis by Abbott]]
+* [[Linear Algebra by Friedberg Insel and Spence]]
 
 * [Infinite Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf) - a comprehensive explainer of high level mathematics targeted to a highschooler
 * [Visualizing Quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg)

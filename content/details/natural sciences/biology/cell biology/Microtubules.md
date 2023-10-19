@@ -52,7 +52,7 @@
 * Flagella and Cilia grow from their tips. This is done via movement of particles through the flagella via **intraflagellar transport**.
 	* Proteins form particles which form trains that are moved out to the tip of the cilium by a kinesin motor.
 # Links
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 9.4 - 9.7]]
+* [[Cell and Molecular Biology by Karp|Karp Ch. 9.4 - 9.7]]
 	* Ch 9.4 - discussion on the step size of kinesin.
 	* Ch 9.5 - discussion on how microtubules are formed from MTOCs.
 	* Ch 9.6 - more on microtubule dynamics.

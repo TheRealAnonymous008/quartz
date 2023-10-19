@@ -84,6 +84,6 @@
 	* People with weak hearts are more likely to have a heart attack when exposed to strong winds.
 * Winds also bring about storms by moving areas of high or low pressure. This is most apparent in midlatitude regions.
 # Links
-* [[$Exploring Physical Geography by Reynolds|Reynolds Ch. 3]] - discusses all of this in fuller detail.
+* [[Exploring Physical Geography by Reynolds|Reynolds Ch. 3]] - discusses all of this in fuller detail.
 	* 3.10 - 3.14 -  *supplementary*. Discusses the air flow over the Tropics, Polar regions and Mid-latitude regions.
 *  [A Brief Eerie History of how the wind makes us crazy](https://lithub.com/a-brief-eerie-history-of-how-the-wind-makes-us-crazy/)

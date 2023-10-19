@@ -140,4 +140,4 @@
 * The pumping lemma implies that *every finite language is regular*. 
 
 # Links
-* [[$Introduction to the Theory of Computation by Sipser|Sipser Ch. 1]]
+* [[Introduction to the Theory of Computation by Sipser|Sipser Ch. 1]]

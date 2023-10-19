@@ -28,7 +28,7 @@
 	* **Indirect Reinforcement Learning** pertains to improving the value function and policy by planning with the model.
 		* They make fuller use of a limited amount of experience.
 		* They achieve a better policy with fewer interactions. 
-[^1]: A diagram of the interactions can be found in [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 8]]
+[^1]: A diagram of the interactions can be found in [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 8]]
 
 * **Dyna-Q** is a simple model which integrates learning and planning.
 	* Planning is done by randomly sampling seen state-action pairs and performing Q-learning on simulated experiences
@@ -61,7 +61,7 @@
 
 
 # Links
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 8]]
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 8]]
 	* 8.2 - for more on DynaQ, an algorithm which presents a simple integration of planning and learning.
 
 * [[Dynamic Programming for Reinforcement Learning]] - for more on model-based methods

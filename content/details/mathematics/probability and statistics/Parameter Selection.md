@@ -70,6 +70,6 @@
 * The posterior marginal for $\mu$ follows a multivariate Student T distribution $$P(\mu\mid \mathcal{D})= \mathcal{T}\left(\mu\mid m_N,\frac{1}{\kappa_N(v_N-D+1)S_N}, v_N-D+1\right)$$
 * The posterior predictive is given by a Student-T distribution $$P\left(x\mid\mathcal{D})=\mathcal{T}(x\mid m_N,\frac{\kappa_N+1}{\kappa_N(v_N-D+1)}S_N,v_N-D+1\right)$$
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 4.6]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 4.6]]
 * [[Gaussian Models]] - more on Gaussian models
 * [[Probability Distributions Zoo]] - more on the Gaussian, Wishart, and Inverse Wishart. 

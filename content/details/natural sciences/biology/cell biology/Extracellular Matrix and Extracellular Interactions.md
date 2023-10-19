@@ -79,7 +79,7 @@
 ### Tunneling Nanotubes
 * Thin, highly elongated tubules that connect cells over long distances.
 # Links
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 7]] 
+* [[Cell and Molecular Biology by Karp|Karp Ch. 7]] 
 	* Ch. 7.3 - an overview for the components of the extracellular matrix.
 	* Ch. 7.6 - more on Hemidesmosomes and Focal Adhesions
 	* Ch. 7.7 - more on the proteins involved in Cell-Cell Adhesion

@@ -33,7 +33,7 @@
 
 
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 3.2 - 3.4]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 3.2 - 3.4]]
 	* Ch. 3.3 - discussion on the Beta Binomial Model
 	* Ch. 3.4 - discussion on the Dirichlet Multinomial Model
 

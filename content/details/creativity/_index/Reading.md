@@ -51,7 +51,7 @@
 * [Choose to Read only the best material](http://www.paulgraham.com/read.html) There are many readings out there and only finite time.
 * [There is such a thing as having good taste, so have good taste in what you read](http://www.paulgraham.com/goodtaste.html)
 # Links
-* [[$Improving Reading Skills by Spears]] - for more on reading skills. Consists of the bulk of the [[#Getting Better at Reading]] section.
+* [[Improving Reading Skills by Spears]] - for more on reading skills. Consists of the bulk of the [[#Getting Better at Reading]] section.
 
 * [The Need to Read by Paul Graham](http://www.paulgraham.com/read.html)
 * [Is There Such a Thing as Good Taste? by Paul Graham](http://www.paulgraham.com/goodtaste.html)

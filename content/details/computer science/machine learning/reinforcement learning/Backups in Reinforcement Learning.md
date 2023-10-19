@@ -39,6 +39,6 @@
 | [[Temporal Difference Learning#Q-Learning\|Q-learning]] | Sample update on $q_\ast(s,a)$ |
 * When performing an expected update on a stochastic problem, it is recommended to use [[A Unified View on Planning and Learning#Prioritized Sweeping]].
 # Links
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]
 	* Ch. 3 - introduction of Bellman backups
 	* Ch. 8.5 - Types of Backups

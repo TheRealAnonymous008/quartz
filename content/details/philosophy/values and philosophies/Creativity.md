@@ -59,5 +59,5 @@
 [^7]: For example [[Tropes|tropes are not inherently bad so long as they are used appropriately]].
 [^8]: [[101 Things I Learned in Architecture School]] Item 97
 [^9]: [[101 Things I Learned in Architecture School]] Item 98
-[^10]: [[$Story by Robert McKee|McKee Ch. 3]]
-[^11]: [[$Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman Ch. 1]] - they describe it as Rules, Play and Culture respectively.
+[^10]: [[__links/books/Story by Robert McKee|McKee Ch. 3]]
+[^11]: [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman Ch. 1]] - they describe it as Rules, Play and Culture respectively.

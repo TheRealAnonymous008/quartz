@@ -42,6 +42,6 @@
 * Thus, the **discounted return** $G_t$ with discount rate $\gamma$ is calculated as $$G_t=\sum_{k=0}^{\infty}\gamma^k R_{t+k+1}= R_{t+1}+\gamma G_{t+1}$$
 	* For episodic tasks, we simply set all rewards after the episode end $T$ as $0$.
 # Links
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 1 , 3 - 3.4]] - an introduction to Reinforcement Learning
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 1 , 3 - 3.4]] - an introduction to Reinforcement Learning
 * [[A Unified View on Reinforcement Learning Approaches]] - more on approaches to RL
 * [[Monte Carlo Methods in Reinforcement Learning]] - for more on Off-Policy methods which make use of importance sampling.

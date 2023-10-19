@@ -1,0 +1,4 @@
+---
+aliases:
+  - Ars Goetia
+---

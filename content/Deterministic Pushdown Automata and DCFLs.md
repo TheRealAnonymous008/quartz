@@ -24,5 +24,5 @@
 * An **endmarked input** is one where we have a special endmarker $\dashv$ that is appended to the input string and acts as a way to know when the string ends. An **endmarked language** is one where all strings are endmarked, and it is denoted $A\dashv$.
 * *Sipser 2.43*: $A$ is a DCFL if and only if $A\dashv$ is a DCFL.
 # Links
-* [[$Introduction to the Theory of Computation by Sipser|Sipser 2.4]]
+* [[Introduction to the Theory of Computation by Sipser|Sipser 2.4]]
 * [[Pushdown Automata and Context Free Languages]] - more on PDAs

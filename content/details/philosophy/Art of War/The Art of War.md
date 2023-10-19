@@ -8,7 +8,7 @@
 * [[On Excellence]]
 * [[On Strategy]]
 # Links
-* [[$The Art of War by Sun Tzu]]
+* [[The Art of War by Sun Tzu]]
 	* For more about natural advantages and using them in maneuvers see Ch. 9
 	* For more about the kinds of terrain see Ch. 10
 	* For more about the types of ground see Ch. 11.

@@ -22,4 +22,4 @@
 * One way to select the features is through **variable filtering**, that is by taking the top $K$ features that are relevant for the problem.
 * One way to do this is to measure the mutual information  between feature $X_j$ and label $Y$.
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 3.5]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 3.5]]

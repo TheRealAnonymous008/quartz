@@ -40,4 +40,4 @@
 * [[The Earth and Insolation]] - for more about Insolation
 * [[Illuminating Rendered Objects]] - for an adjacent topic on how light interacts with surfaces and how we can simulate this interaction.
 
-* [[$Exploring Physical Geography by Reynolds|Reynolds Ch. 2.11, 2.12]]
+* [[Exploring Physical Geography by Reynolds|Reynolds Ch. 2.11, 2.12]]

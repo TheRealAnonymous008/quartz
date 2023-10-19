@@ -48,4 +48,4 @@
 	* Importantly, have everything *be interconnected*. Run with the logical consequences of the core focus of the worldbuilding.
 
 # Links
-* [[$The Planet Construction Kit by Rosenfelder]]
+* [[The Planet Construction Kit by Rosenfelder]]

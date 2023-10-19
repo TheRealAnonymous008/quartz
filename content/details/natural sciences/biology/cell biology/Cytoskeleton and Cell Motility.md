@@ -30,5 +30,5 @@
 	* As a cell migrates, it generates pulling forces against its substrate.
 	* This causes a protrusion to form. Myosin then pulls the remaining parts of the cell.
 # Links
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 9]]
+* [[Cell and Molecular Biology by Karp|Karp Ch. 9]]
 

@@ -21,4 +21,4 @@
 * If we suppose substance dualism, what does consciousness do? If Minds do nothing, why do they evolve? If mental states don't do anything, how do they enter memory? 
 * Are you sure that the Mind you have today is the same as the Mind you had in the past?
 # Links
-* [[$Think- A Compelling Introduction to Philosophy by Blackburn|Blackburn Ch. 2]]
+* [[Think- A Compelling Introduction to Philosophy by Blackburn|Blackburn Ch. 2]]

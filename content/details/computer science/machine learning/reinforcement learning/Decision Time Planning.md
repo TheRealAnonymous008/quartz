@@ -34,7 +34,7 @@
 * The approach focuses on trajectories whose initial segments are common to high-return trajectories previously simulated.
 * By incrementally expanding the tree, it grows a lookup table to store a partial action-value function. Thus, it does not need to globally approximate the action-value function, while it can also use past experience.
 # Links
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] Ch. 8.8 - 8.11
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] Ch. 8.8 - 8.11
 * [[A Unified View on Planning and Learning]] - more on planning and learning algoritms.
 
 

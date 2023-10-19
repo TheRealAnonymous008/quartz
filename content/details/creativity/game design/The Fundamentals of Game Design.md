@@ -88,11 +88,11 @@
 * **Play** means that the game is an experiential system -- play exists only to be experienced.
 * **Culture** means that games are a contextual system. They overlap and interact with the real world.
 # Links
-* [[$Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman Ch. 3- 10]]
+* [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman Ch. 3- 10]]
 
 * [[Game Design]]
 * [[Games as Rules]]
 * [[Games as Play]]
 * [[Games as Culture]]
 
-[^1]: See more definitions in [[$Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman Ch. 7]]
+[^1]: See more definitions in [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman Ch. 7]]

@@ -40,7 +40,7 @@
 * These attributes of a character can change over the course of the story.
 * That said, **Iconic Heroes** are those that do not progress in any of these categories. They can work for a story, but *these characters tend to not grow or change significantly*.
 * This framework allows us to think about the characters and their role in the story and how its told.
-* An alternative framing is seen in [[Story by Robert McKee#Principles of Story Design|here]].
+* An alternative framing is seen in [[details/creativity/writing/Story by Robert McKee#Principles of Story Design|here]].
 # Character Arcs
 * Character **Arcs** should change the inner nature of the character. 
 * Generally they go as such:
@@ -108,7 +108,7 @@
 * *Fall in love with all your characters*. If the writer cannot love the character, how will the audience?
 * *The root of all fine character is self-knowledge*. The more you empathize, the better characters you write.
 # Links
-* [[Story by Robert McKee]]
+* [[details/creativity/writing/Story by Robert McKee]]
 	* Ch. 5 - discusses Story and Characters
 	* Ch. 7 - discusses the role of the Protagonist. 
 	* Ch. 14 - includes discussions on Contrary, Contradictory, and Negation of Negation

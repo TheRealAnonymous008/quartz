@@ -30,7 +30,7 @@
 	* It is now known that some bacteria can form complex membrane structures.
 	* Sequencing of ribosomal RNA (i.e., 165 rRNA in prokaryotes and 185 rRNA for Eukaryotes) show a match between chloroplasts and cyanobacteria.
 # Links
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 1.1 - 1.2]] - reading on Cell Theory and the properties of cells.
-* [[$Cell and Molecular Biology by Karp|Karp p. 37]] - the importance of water in life.
-* [[$Cell and Molecular Biology by Karp|Karp p. 56]] - Endosymbiont theory.
+* [[Cell and Molecular Biology by Karp|Karp Ch. 1.1 - 1.2]] - reading on Cell Theory and the properties of cells.
+* [[Cell and Molecular Biology by Karp|Karp p. 37]] - the importance of water in life.
+* [[Cell and Molecular Biology by Karp|Karp p. 56]] - Endosymbiont theory.
 

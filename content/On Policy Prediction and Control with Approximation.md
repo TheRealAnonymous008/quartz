@@ -27,6 +27,6 @@
 	* 
 
 # Links
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 9]]
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 9]]
 	* 9.3 - Gradient Monte Carlo Algorithm, and Semi-Gradient $\text{TD}(0)$.
 * [[Linear Models]] - more on basic supervised learning models.

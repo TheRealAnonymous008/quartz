@@ -31,7 +31,7 @@
 * [[Cellular Respiration]] - one of the most important roles of the mitochondrion.
 * [[Chloroplasts and Photosynthesis]] - a similar organelle.
 
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 5]]
+* [[Cell and Molecular Biology by Karp|Karp Ch. 5]]
 	* 5.1 - for the parts of the mitochondrion
 	* 5.7 - for a discussion on ATP synthase.
 	* 5.11 - for mitochondrion dysfunction

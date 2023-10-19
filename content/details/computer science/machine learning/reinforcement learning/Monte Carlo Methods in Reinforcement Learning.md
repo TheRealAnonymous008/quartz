@@ -54,7 +54,7 @@
 			* The $\epsilon$-greedy policy found through Monte Carlo policy iteration
 			* The regular greedy policy found through GPI, but where the environment is modified to "randomize" the actions of the policy chosen with $\epsilon$ probability. [^1]
 
-[^1]: See more at [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 5.4]]
+[^1]: See more at [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 5.4]]
 # Off-Policy Methods
 * See [[A Unified View on Planning and Learning|here]] for more on off-policy 
 
@@ -75,7 +75,7 @@
 * We may also consider **per decision sampling** Based on the observation that $$\rho_{t:T-1}G_t=\rho_{t:T-1}(R_{t+1}+\gamma R_{t+2} + \dots +\gamma^{T-t-1}R_T)$$In place of $G_t$, we use the following in ordinary importance sampling $$\bar{G}_t = \rho_{t:t}R_{t+1} +\gamma\rho_{t:t+1} R_{t+2} + \dots + \gamma^{T-t-1}\rho_{t:T-1}R_T$$And $$V(s)=\frac{\sum_{t\in \mathcal{T}(s)} \bar{G_t}}{|\mathcal{T}(s)|}$$[^a]
 [^a]: Note: It is less clear if there is a weighted per-decision importance sampling. These estimators are [[Statistical Estimators#Properties of Good Estimators|inconsistent]]
 # Links
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 5]] 
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 5]] 
 	* 5.3 - more on Monte Carlo with Exploring Starts.
 	* 5.4 - the mathematical formulation of Monte Carlo without Exploring Starts.
 	* 5.5 - more information about Information Sampling.

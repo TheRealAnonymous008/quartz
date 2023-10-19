@@ -8,4 +8,4 @@
 
 
 * [[Etymology]] - more on names
-* [[$Story by Robert McKee|McKee Ch. 18]] - more on naming titles
+* [[__links/books/Story by Robert McKee|McKee Ch. 18]] - more on naming titles

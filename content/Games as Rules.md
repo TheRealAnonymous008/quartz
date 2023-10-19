@@ -66,4 +66,4 @@
 
 ### Subverting Rules
 # Links
-* [[$Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman]]
+* [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman]]

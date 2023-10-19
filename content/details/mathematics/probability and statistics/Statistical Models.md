@@ -5,4 +5,4 @@
 * [[Parameter Selection]]
 * [[Linear Models]]
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 3-4]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 3-4]]

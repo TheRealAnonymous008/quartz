@@ -12,7 +12,7 @@
 * [[Puzzles]]
 
 # Links
-* [[$Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
+* [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
 * [[Creativity]]
 * [[Design of Everyday Things]] - more on design. In particular, focus on Iterative Design, wherein games are made as they are being playtested
 

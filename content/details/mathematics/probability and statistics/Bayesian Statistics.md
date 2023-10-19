@@ -135,7 +135,7 @@ $$\delta(x)=\underset{a\in\mathcal{A}}{\text{argmin}} \ \rho(a\mid x) $$
 * We can minimize the **false discovery rate** defined as $$FDR(\tau,\mathcal{D})=FD(\tau,\mathcal{D})/N(\tau,D)$$Where $N(\tau,\mathcal{D})$ is the number of positively classified items and $$FD(\tau,\mathcal{D})=\sum_{i}(1-p_i) \mathbb{I}(p_i>r)$$Where $p_i=P(y_i=1\mathcal{D})$ is the prior belief regarding the hypothesis. 
 * The **Direct Posterior Probability approach** involves modifying the decision threshold $\tau$.
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 5]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 5]]
 	* 5.6 - More on Hierarchical and Empirical Bayes
 	* 5.7.1 - Bayes estimators for common loss functions
 * [The Fisher Information](https://www.youtube.com/watch?v=pneluWj-U-o) - more on the Fisher information. Essentially it measures the amount of information a variable carries about a parameter.

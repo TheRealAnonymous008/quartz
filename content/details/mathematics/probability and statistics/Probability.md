@@ -42,4 +42,4 @@
 * [[Calculus]] - more on calculus, relevant for integrals and derivatives.
 
 * [How To Learn Probability Distributions](https://www.youtube.com/watch?v=mBCiKUzwdMs)
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]

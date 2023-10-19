@@ -49,7 +49,7 @@
 
 * The **Multivariate Gaussian / Multivariate Normal** is a generalization of the Gaussian over $D$ random variables. It is defined as $$\mathcal{N}(\mu,\Sigma)=\frac{1}{(2\pi)^{D/2}|\Sigma|^{1/2}}\text{exp}\left(-\frac{1}{2}(x-\mu)^T\Sigma^{-1}(x-\mu)\right)$$
 	* The expression in the exponent is the **Mahalanobis distance** between vector $x$ and mean $\mu$.
-	* This means that the contours of the probability distribution lie in ellipsoids (see [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 4.1.2]]). Informally, this means the distribution involves translating by $\mu$ and rotating by $\Sigma$.
+	* This means that the contours of the probability distribution lie in ellipsoids (see [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 4.1.2]]). Informally, this means the distribution involves translating by $\mu$ and rotating by $\Sigma$.
 	* The eigenvalues of $\Sigma$ determine how stretched the ellipsoid contours are. The eigenvectors determine the axes of the ellipsoid.
 
 * The **Multivariate Student $t$** is a generalization of the $t$ distribution over $D$ random variables. It is defined as $$T(\mu,\Sigma,v)=\frac{\Gamma(v/2 + D/2)}{\Gamma(v/2)}|\pi V|^{-1/2} \times \left[1+(x-\mu)^TV^{-1}(x-\mu\right)]^{-\frac{(v+D)}{2}}$$where $\Sigma$ is the scale matrix rather than the covariance matrix and $V=v\Sigma$
@@ -94,5 +94,5 @@
 	* $b_0$ is the shape parameter of the Wald distribution.
 # Links
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html) - a graph that shows probability distributions, and how and why they are related to each other.
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy 4.5]] - on the Wishart and Inverse Wishart
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 4.5]] - on the Wishart and Inverse Wishart

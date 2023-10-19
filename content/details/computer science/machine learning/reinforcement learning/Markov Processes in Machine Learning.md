@@ -34,6 +34,6 @@
 # Links
 * [[The Setting for Reinforcement Learning]] - for an overview of the relationship between Markov Processes and Reinforcement Learning.
 
-*  [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 3.5 - 3.6]]
+*  [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 3.5 - 3.6]]
 
 

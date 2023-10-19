@@ -39,7 +39,7 @@
 * [[Mitochondrion]] - for an overview of the mitochondrion's structure.
 * [[Chloroplasts and Photosynthesis]] - for a similar process to Cellular Respiration.
 
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 5.2 - 5.10]]
+* [[Cell and Molecular Biology by Karp|Karp Ch. 5.2 - 5.10]]
 	* 5.2  - details on TCA.
 	* 5.4 - 5.6 - details on ETC
 	* 5.8 - 5.9- for why the proton gradient drives ATP synthesis

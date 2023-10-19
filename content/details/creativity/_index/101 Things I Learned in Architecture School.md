@@ -9,5 +9,5 @@
 * [[Architectural Planning]]
 
 # Links
-* [[$101 Things I Learned In Architecture School by Frederick]]
+* [[101 Things I Learned In Architecture School by Frederick]]
 

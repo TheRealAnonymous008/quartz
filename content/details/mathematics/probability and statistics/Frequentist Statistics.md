@@ -18,7 +18,7 @@
 * Given two estimators $\delta_1$ and $\delta_2$, if $\forall \theta\in\Theta$, $$R(\theta,\delta_1)\le R(\theta,\delta_2)$$then $\delta_1$ **dominates** $\delta_2$ (strictly so if we replace $\le$ with $<$)
 * An estimator is **admissible** if it is not strictly dominated by any other estimator.
 	* In practice, *the sample median is often better than the sample mean because it is more robust to outliers*. 
-	* It is easy to construct an admissible estimator (see [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Thm. 6.3.3]]. Hence *admissibility is not sufficient for good estimators*.
+	* It is easy to construct an admissible estimator (see [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Thm. 6.3.3]]. Hence *admissibility is not sufficient for good estimators*.
 # Empirical Risk Minimization
 * We reframe the problem as follows. Let $L(y,\delta(x))$ be a loss function with $y$ being the true response, and $\delta(x)$ the prediction given the input $x$. Thus, we are *predicting observable quantities*
 * The **risk** is now defined as $$\begin{split}R(p_\ast,\delta)&=E_{(x,y)\sim p_\ast}\left[L(y,\delta(x)\right] \\ 
@@ -59,4 +59,4 @@
 # Topics
 * [[Statistical Estimators]]
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 6]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 6]]

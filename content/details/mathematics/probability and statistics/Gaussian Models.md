@@ -14,7 +14,7 @@
 # Gaussian Discriminant Analysis
 * **Gaussian Discriminant Analysis** is a generalization of the [[Naive Bayes]] classifier. It involves the following $$P(x\mid y=c,\theta)=\mathcal{N}(x\mid\mu_c, \Sigma_c)$$
 	* It becomes the Naive Bayes classifier if $\Sigma_c$ is diagonal since this implies feature independence.
-	* Its MLE for the mean and covariance matrix is equal to the sample mean and covariances for each class (see [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy 4.2.4]])
+	* Its MLE for the mean and covariance matrix is equal to the sample mean and covariances for each class (see [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 4.2.4]])
 
 * The **Nearest Centroids Classifier** is defined as follows: $$\hat{y}(x)=\underset{c}{\text{argmax}}(\log{P(y=c\mid\pi ) + \log{P(x\mid\theta_c)}})$$
 * **Quadratic Discriminant Analysis (QDA)** involves using the definition of Gaussian density for the posterior of class labels $P(y=c\mid x,\theta)$. That is $$P(y=c\mid x,\theta)=\frac{\pi_c|2\pi\Sigma_c|^{-\frac{1}{2}}\exp\left[-\frac{1}{2}(x-\mu_c)^T\Sigma_c^{-1}(x-\mu_c)\right]}{\sum_{i}\pi_i|2\pi\Sigma_i|^{-\frac{1}{2}}\exp\left[-\frac{1}{2}(x-\mu_i)^T\Sigma_i^{-1}(x-\mu_i)\right]}$$
@@ -130,7 +130,7 @@
 	* $y=x+\epsilon$ is the observed signal, where 
 	* $\epsilon\sim\mathcal{N}(0,\Sigma_y)$
 # Links
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 4]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 4]]
 	* [Theorem 4.1.2 quadratic form](https://stats.stackexchange.com/questions/194051/prove-that-the-maximum-entropy-distribution-with-a-fixed-covariance-matrix-is-a)
 	* 4.2 - more on QDA and LDA
 

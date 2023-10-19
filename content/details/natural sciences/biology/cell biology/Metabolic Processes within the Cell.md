@@ -23,6 +23,6 @@
 * [[Enzymes as Machines for Cellular Processes]] - describes enzymes as drivers for metabolism
 * [[Cellular Respiration]] - for an example of metabolic pathways.
 
-* [[$Cell and Molecular Biology by Karp|Karp Ch. 3]] - select sections
+* [[Cell and Molecular Biology by Karp|Karp Ch. 3]] - select sections
 	* 3.10 - 3.11 - for a detailed discussion on Metabolism
 	* 3.13 - for a discussion on separating catabolic and anabolic pathways

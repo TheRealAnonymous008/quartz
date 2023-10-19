@@ -116,7 +116,7 @@
 [^1]: Note: The validity of Priming theory has been called into question due to replicability. That said, priming is a really interesting fantastical concept 
 [^2]: The quotations at the end of each chapter are good ways to summarize the heart of the chapter. 
 # Links
-* [[$Thinking Fast and Slow by Kahneman]]
+* [[Thinking Fast and Slow by Kahneman]]
 
 * [[Human Biases]] - more on biases.
 * [The 4 things it takes to be an expert by Veritasium](https://www.youtube.com/watch?v=5eW6Eagr9XA) - an insight into intuition and what makes one an expert (and thus when can we trust their intuitions better)

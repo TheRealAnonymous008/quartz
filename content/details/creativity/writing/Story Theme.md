@@ -18,14 +18,14 @@
 		* Irony is the truest to reality, and it is also the most difficult to write, requiring dee  wisdom.
 		* It requires a climax that makes both a positive and negative statement, said clearly and unambiguously, and said so that the positives and negatives don't cancel each other out.
 # A Compelling Idea 
-* **Irony** makes the theme compelling. [[Plot Structure|Irony makes for a good hook as it shows]] [[Story by Robert McKee|the duality of life]] [^1]
+* **Irony** makes the theme compelling. [[Plot Structure|Irony makes for a good hook as it shows]] [[details/creativity/writing/Story by Robert McKee|the duality of life]] [^1]
 * A good log line makes [[Plot#Sanderson's Approach|a promise]]. 
 * A good log line considers its audience and cost of making (for marketability)
 * A good idea says what the story is about in a straightforward manner. Specificity is key.
 * It implies a good title that summarizes the scene [^2]
 * It is market-tested by pitching the idea to people. Gauge how interested people are from the idea of the story. 
 
-[^1]: The following are from [[$Save The Cat by Snyder|Snyder]]. Logline = Controlling Idea / Premise
+[^1]: The following are from [[Save The Cat by Snyder|Snyder]]. Logline = Controlling Idea / Premise
 [^2]: *Remark:* Disagree on this considering a title is secondary to the experience of creating a story. 
 # Conveying Meaning
 * We can view storytelling as the *creative demonstration of truth*--the story as a living proof of an idea, the conversion of idea to event. The event structure is the means to express and prove this idea [[Dialogue|without requiring exposition]].
@@ -41,6 +41,6 @@
 		* Thus, as a storyteller, *entertain the opposite idea to your premise.* The proof of your vision is not how well you assert the theme, but its victory over the enormously powerful forces you array against it.
 
 # Links
-* [[$Story by Robert McKee|McKee Ch. 6]]
+* [[__links/books/Story by Robert McKee|McKee Ch. 6]]
 
 * [[Theme Tropes]] - tropes relating to themes.

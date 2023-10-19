@@ -26,7 +26,7 @@
 		* **Improvement** consists of giving an improved policy given the value function.
 	* We evaluate each action taken on each state using the Q-Function. We then form a new policy by considering all states and *greedily* taking the actions that do well on each state. 
 		* In case of a tie, we need only ensure that all the suboptimal policies are given $0$ probability. That is, the new policy $\pi'$ is evaluated on state $s$ as $$\begin{split}\pi(s) &=\underset{a}{\text{argmax}}\ q_\pi(s,a) \\&= \underset{a}{\text{argmax}} \sum_{s',r} p(s',r\mid s,a) \left[r  + \gamma v_\pi (s')\right]\end{split}$$
-	* *This method of policy iteration is guaranteed to monotonically converge to the global optimum* (for a proof of why see [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barton Ch. 4.2]]). 
+	* *This method of policy iteration is guaranteed to monotonically converge to the global optimum* (for a proof of why see [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barton Ch. 4.2]]). 
 	* *This process is guaranteed to stop assuming a finite MDP*. This is because the value of the policy always monotonically increases, and there are only finitely many policies.
 
 ### Value Iteration
@@ -56,7 +56,7 @@
 # Links
 * [[Markov Processes in Machine Learning]] - for an overview of MDPs
 
-* [[$Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 3.7 - 3.9, Ch. 4]] - discussion on value functions and the Bellman Equation and approximately optimal solutions.
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 3.7 - 3.9, Ch. 4]] - discussion on value functions and the Bellman Equation and approximately optimal solutions.
 	* 4.1 - for Policy Evaluation
 	* 4.4 - for Value Iteration
 	* 8.7 - Real Time DP

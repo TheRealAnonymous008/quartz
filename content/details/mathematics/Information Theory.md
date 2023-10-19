@@ -30,4 +30,4 @@
 		* A MIC of $1$ represents a noise-free relationship of any form, not just linear.
 # Links
 * [[Probability]] - more on probability which is the basis of Information Theory.
-* [[$Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2.8]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2.8]]

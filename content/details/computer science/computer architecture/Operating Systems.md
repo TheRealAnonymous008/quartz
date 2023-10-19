@@ -46,6 +46,6 @@
 * [[Multiprogramming]]
 
 # Links
-* [[$Operating System Concepts by Silberschatz, Galvin, and Gagne|Silberschatz Ch. 1]]
+* [[Operating System Concepts by Silberschatz, Galvin, and Gagne|Silberschatz Ch. 1]]
 
 * [[Computer Organization]]

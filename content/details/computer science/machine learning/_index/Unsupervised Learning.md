@@ -4,4 +4,4 @@
 * [[Association Rule Mining]]
 * [[Dimensionality Reduction Models]]
 # Links
-* [[$Unsupervised Learning by Ghahramani]]
+* [[Unsupervised Learning by Ghahramani]]

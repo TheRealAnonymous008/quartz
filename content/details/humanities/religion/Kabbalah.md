@@ -38,7 +38,7 @@
 
 ## Meditation
 * It suggests meditating on the letters to unlock the power of Creation. Since Wisdom is something which the mind cannot grasp, *the Kabbalist makes use of meditation and symbols to make the unthinkable, thinkable so that a realization about the cosmos can be made.*
-	* One means of achieving this is through analogy. "As above so below", so that when A is of the same nature as B, they operate on the same first principles. *This analogy transcends religion*, which is evident in how Kabbalah can be associated with Norse myth, Indian Yoga, Tarot and Astrology (see [[$The Mystical Qabalah by Fortune|Fortune for more]]).
+	* One means of achieving this is through analogy. "As above so below", so that when A is of the same nature as B, they operate on the same first principles. *This analogy transcends religion*, which is evident in how Kabbalah can be associated with Norse myth, Indian Yoga, Tarot and Astrology (see [[The Mystical Qabalah by Fortune|Fortune for more]]).
 	* Meaningful meditation and ritual requires a thorough understanding, not only of the Sephira's nature, but of its implications in real life.
 
 > Thought is like a mirror. One looking at it sees his image inside and thinks that there are two images, but the two are really one. 
@@ -53,13 +53,13 @@
 * The goal of meditation is to practice humility, *to practice Aloneness* ([[Etymology|lit. All One. Becoming One]])
 * The more you fulfill yourself, the closer you approach your authentic self.
 
-* Kabbalah emphasizes studying the Torah. It is like a lover (see [[$The Essential Kabbalah by Matt|The Old Man and The Ravishing Maiden]]) that reveals itself to arouse love only to conceal itself again. In short, it is a [[Story by Robert McKee|metaphor]].
+* Kabbalah emphasizes studying the Torah. It is like a lover (see [[The Essential Kabbalah by Matt|The Old Man and The Ravishing Maiden]]) that reveals itself to arouse love only to conceal itself again. In short, it is a [[details/creativity/writing/Story by Robert McKee|metaphor]].
 
 > Whoever delves into mysticism cannot help but stumble, as it is written: “This stumbling block is in your hand.” You cannot grasp these things unless you stumble over them. [^6]
 
-[^5]: See [[$The Essential Kabbalah by Matt|Matt]]: The Mirror of Thought; The Annihilation of Thought; Mental Attachment; and Imagination
+[^5]: See [[The Essential Kabbalah by Matt|Matt]]: The Mirror of Thought; The Annihilation of Thought; Mental Attachment; and Imagination
 
-[^6]: See [[$The Essential Kabbalah by Matt|Matt]]: Stumbling.
+[^6]: See [[The Essential Kabbalah by Matt|Matt]]: Stumbling.
 
 ## Faith
 * The essence of faith is an awareness of the vastness of Infinity. 
@@ -77,7 +77,7 @@
 > 
 > The higher the aspiration, the greater the action; the deeper the insight, the higher the aspiration. [^7]
 
-[^7]: See [[$The Essential Kabbalah by Matt|Matt]] The Greatest Path; Raising the Sparks
+[^7]: See [[The Essential Kabbalah by Matt|Matt]] The Greatest Path; Raising the Sparks
 
 * God created nothing shameful or ugly.
 	* Thus there is nothing inherently wrong with (sexual) pleasure at the appropriate time. It is this pleasure that makes the act divine.
@@ -88,8 +88,8 @@
 * [[The Sephirot]]
 * [[The Qliphoth]]
 # Links
-* [[$The Essential Kabbalah by Matt]]
-* [[$Qabalah, Qliphoth and Goetic Magic by Karlsson]]
-* [[$The Mystical Qabalah by Fortune]] - a book on using the Kabalah and the Tree of Life as a tool for meditation.
-* [[$Sepher Yetzirah|Sepher Yetzrah]] - a prominent Kabbalistic book. The Book of Craetion.
+* [[The Essential Kabbalah by Matt]]
+* [[Qabalah, Qliphoth and Goetic Magic by Karlsson]]
+* [[The Mystical Qabalah by Fortune]] - a book on using the Kabalah and the Tree of Life as a tool for meditation.
+* [[Sepher Yetzirah|Sepher Yetzrah]] - a prominent Kabbalistic book. The Book of Craetion.
 * [What is Kabbalah?](https://www.youtube.com/watch?v=PLaE996B-lQ)

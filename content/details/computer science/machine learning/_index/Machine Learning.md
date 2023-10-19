@@ -25,7 +25,7 @@
 * [sentencepiece](https://github.com/google/sentencepiece)- a tokenizer that supports byte pair encoding. It allows ofr a purely end-to-end system that does not depend on language-specific pre/post-processing
 * [tiktoken](https://github.com/openai/tiktoken)- a fast byte pair encoding tokenzier
 # Links
-* [[$Dive into Deep Learning by Zhang, Lipton, Li and Smola]] - An excellent introductory book about deep learning. 
+* [[Dive into Deep Learning by Zhang, Lipton, Li and Smola]] - An excellent introductory book about deep learning. 
 
 * [Running Neural Networks on Meshes of Light](https://www.youtube.com/watch?v=t0yj4hBDUsc)
 
