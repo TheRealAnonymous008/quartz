@@ -6,8 +6,10 @@
 * [The Stacks Project](https://stacks.math.columbia.edu) - an open source resource for Algebraic Geometry.
 * [Nlab](https://ncatlab.org/nlab/show/HomePage) - wiki on mathematics, physics, and philosophy (from a pure math perspective)
 
-# Interesting Questions
+
+# Interesting Topics
 * [Double Speak](https://www.youtube.com/watch?v=qP07oyFTRXc)
+*  [Polymathy](https://en.wikipedia.org/wiki/Polymath)
 * Geometric Deep Learning
 
 # Utilities
