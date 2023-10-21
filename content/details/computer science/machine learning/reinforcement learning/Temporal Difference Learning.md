@@ -218,9 +218,11 @@
   $$
   G_{t:h}=R_{t+1} + \gamma\left(\sigma_{t+1}\rho_{t+1} + (1-\sigma_{t+1})\pi(A_{t+1}\mid S_{t+1})\right) \left(G_{t+1:h} -Q_{h-1} (S_{t+1},A_{t+1})\right) + \gamma \hat{V}_{h-1}(S_{t+1})
   $$
+  
   For $t<h<T$.
   
   If $h<T$, we end with $G_{t:h}=Q_{h-1}(S_h,A_h)$. 
+  
   If $h=T$, we end with $G_{T-1:T} = R_T$.
 
 * We then perform the update defined in [[#n-step SARSA]] except without importance sampling ratios. 

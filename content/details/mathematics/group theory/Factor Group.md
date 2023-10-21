@@ -1,4 +1,8 @@
-* Let $\phi: G\to G'$ be a homomorphism and $H$ a normal subgroup of $G$. The **factor group** of $G$ modulo $H$, denoted $G/H$ is the group formed from the cosets of $H$ where 
+* Let $\phi: G\to G'$ be a homomorphism 
+  
+  and $H$ a normal subgroup of $G$. 
+  
+  The **factor group** of $G$ modulo $H$, denoted $G/H$ is the group formed from the cosets of $H$ where 
   $$
   (aH)(bH)=(ab)H
   $$

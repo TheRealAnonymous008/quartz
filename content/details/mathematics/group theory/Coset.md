@@ -1,4 +1,6 @@
-* Let $H\le G$. The **left coset** of $H$ containing $a$ is defined as 
+* Let $H\le G$. 
+  
+  The **left coset** of $H$ containing $a$ is defined as 
   $$
   aH=\{ah \mid h\in H\}
   $$
@@ -19,7 +21,9 @@
 	  $$
 	  
 * Every coset of a subgroup $H\le G$ has the same number of elements as $H$.
-* Let $H,K\le G$. the **double coset** is the set defined as 
+* Let $H,K\le G$. 
+  
+  The **double coset** is the set defined as 
   $$
   HxK=\{hxh\mid h\in H, k\in K\}
   $$

@@ -1,4 +1,6 @@
-* Let $G$ be a group. An element $g\in G$ that can be expressed as 
+* Let $G$ be a group. 
+  
+  An element $g\in G$ that can be expressed as 
   $$
   g=aba^{-1}b^{-1}
   $$

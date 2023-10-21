@@ -9,7 +9,9 @@
 	* An initial state $q_0\in Q$
 	* A set of accept states $F\subseteq Q$.
 
-* Let $w=a_1a_2\dots a_n$ be a string over the alphabet $\Sigma$. The automaton **accepts** the string $w$ if a sequence of states $r_0, \dots, r_n \in Q$ satisfying the following conditions
+* Let $w=a_1a_2\dots a_n$ be a string over the alphabet $\Sigma$. 
+  
+  The automaton **accepts** the string $w$ if a sequence of states $r_0, \dots, r_n \in Q$ satisfying the following conditions
 	1. $r_0=q_0$
 	2. $r_{i+1}=\delta(r_i,a_{i+1})$ for  $i=0,\dots, n-1$
 	3. $r_n\in F$.

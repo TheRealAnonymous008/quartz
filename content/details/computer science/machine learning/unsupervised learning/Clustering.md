@@ -23,7 +23,11 @@
 * **Agglomerative Clustering** is *bottom up*--each observation starts in its own cluster and pairs of clusters are merged as one moves up the hierarchy.
 * **Divisive Clustering** is *top-down*--all observations start in one cluster, and splits are performed recursively as one moves down the hierarchy.
 ### Calculating Distance between Clusters
-For each of these, let $D(X,Y)$ denote the distance between two clusters $X,Y$, and $d(x,y)$ the distance between two data points.
+For each of these, 
+
+let $D(X,Y)$ denote the distance between two clusters $X,Y$, and 
+
+$d(x,y)$ the distance between two data points.
 * **Complete Linkage Clustering** - clusters based on the maximum distance between two elements of two clusters. 
   $$
   D(X,Y)=\max_{x\in X, y\in Y}d(x,y)
