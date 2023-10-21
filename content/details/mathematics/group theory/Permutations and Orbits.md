@@ -1,5 +1,9 @@
 * A **permutation** of a set refers to a bijective mapping from the set to itself. 
-* The **orbit** of an element of a set under the permutation $\sigma$ is the set defined as $$\mathcal{O}_{a.\sigma} = \{\sigma^k(a) \mid n \in \mathbb{Z}\}$$It is the set of all possible values that an element can be mapped to using only the permutation. 
+* The **orbit** of an element of a set under the permutation $\sigma$ is the set defined as
+  $$
+  \mathcal{O}_{a.\sigma} = \{\sigma^k(a) \mid n \in \mathbb{Z}\}
+  $$
+  It is the set of all possible values that an element can be mapped to using only the permutation. 
 	* The orbits of a permutation form an equivalence class.
 * A **cycle permutation** is a permutation with at most one orbit containing more than one element.
 	* All permutations can be expressed as the product of disjoint cycles.

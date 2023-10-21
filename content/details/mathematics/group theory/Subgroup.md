@@ -6,6 +6,10 @@
 	* $\forall x\in H$, $x^{-1}\in H$. 
 * The intersection of subgroups is also a subgroup. 
 * (*Fraleigh 10.10*) **Lagrange's Theorem** If $G$ is a finite group and $H\le G$, we have that $|H|$ divides $|G|$
-* A subgroup $H\le S_A$ is **transitive** on $A$ if for each $a,b\in A$, there exists $\sigma\in H$ such that $$\sigma(a)=b$$
+* A subgroup $H\le S_A$ is **transitive** on $A$ if for each $a,b\in A$, there exists $\sigma\in H$ such that
+  $$
+  \sigma(a)=b
+  $$
+  
 # Links
 * [[Group]] 

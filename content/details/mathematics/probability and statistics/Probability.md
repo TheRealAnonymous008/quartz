@@ -5,20 +5,60 @@
 # Probabilities
 * All probabilities range from $0$ to $1$.
 ### Basic Probabilities
-* The **Joint Probability** is defined as the probability of two events happening together. $$P(x,y)=P(x\mid y) \cdot P(y)$$
+* The **Joint Probability** is defined as the probability of two events happening together.
+  $$
+  P(x,y)=P(x\mid y) \cdot P(y)
+  $$
+  
    
-  The **Marginal Distribution** is defined as follows: $$P(a)=\sum_{b}P(a \mid b) \cdot P(b)$$
-	* This can be extended for continuous variables by evaluating the following integral $$P(a)=\int P(a\mid \theta) \ P(\theta) \ d\theta$$
+  The **Marginal Distribution** is defined as follows:
+  $$
+  P(a)=\sum_{b}P(a \mid b) \cdot P(b)
+  $$
+  
+	* This can be extended for continuous variables by evaluating the following integral
+	  $$
+	  P(a)=\int P(a\mid \theta) \ P(\theta) \ d\theta
+	  $$
+	  
 	* We may interpret the marginal distribution as aggregating all probabilities conditioned on $\theta$. 
 
-* The **Conditional Probability** is defined as the probability of $a$ given $b$ or $$P(a\mid b)=\frac{P(a,b)}{P(b)}$$
-	* Conditioning on another variable still gives the same definition as above. That is $$P(a,b\mid c)=P(a\mid b,c)\ P(b\mid c)$$
+* The **Conditional Probability** is defined as the probability of $a$ given $b$ or 
+  $$
+  P(a\mid b)=\frac{P(a,b)}{P(b)}
+  $$
+  
+	* Conditioning on another variable still gives the same definition as above. That is
+	  $$
+	  P(a,b\mid c)=P(a\mid b,c)\ P(b\mid c)
+	  $$
+	  
 ### Independence
-* Two random variables $X,Y$ are **independent** if the joint probability can be written as $$P(A,B)=P(A) \cdot P(B)$$ That is, the two variables do not depend on each other.
-* Two random variables $X,Y$ are **conditionally independent** given $Z$ if the conditional joint can be written as a product of conditional marginals, or $$P(X,Y\mid Z)=P(X\mid Z)\ \cdot P(Y \mid Z)$$Alternatively, it can be stated as $$P(X\mid Y,Z)=P(X\mid Z)$$
+* Two random variables $X,Y$ are **independent** if the joint probability can be written as 
+  $$
+  P(A,B)=P(A) \cdot P(B)
+  $$
+   That is, the two variables do not depend on each other.
+* Two random variables $X,Y$ are **conditionally independent** given $Z$ if the conditional joint can be written as a product of conditional marginals, or 
+  $$
+  P(X,Y\mid Z)=P(X\mid Z)\ \cdot P(Y \mid Z)
+  $$
+  Alternatively, it can be stated as 
+  $$
+  P(X\mid Y,Z)=P(X\mid Z)
+  $$
+  
 ### Theorems
-* The **Chain Rule of Probability** $$P(X_{1},X_2,\dots,X_n)=P(X_1) \cdot P(X_2\mid X_1)\dots P(X_n \mid X_1,X_2,\dots,X_{n-1})$$
-* **Bayes' Theorem** is defined as $$P(x\mid y)= \frac{P(x)\ P(y\mid x)}{P(y)}= \frac{P(x)\ P(y\mid x)}{\sum_{x'}P(x') \ P(y\mid x')}$$
+* The **Chain Rule of Probability**
+  $$
+  P(X_{1},X_2,\dots,X_n)=P(X_1) \cdot P(X_2\mid X_1)\dots P(X_n \mid X_1,X_2,\dots,X_{n-1})
+  $$
+  
+* **Bayes' Theorem** is defined as 
+  $$
+  P(x\mid y)= \frac{P(x)\ P(y\mid x)}{P(y)}= \frac{P(x)\ P(y\mid x)}{\sum_{x'}P(x') \ P(y\mid x')}
+  $$
+  
 	* $P(x)$ is the **prior** 
 		* A prior is **informative** if it significantly affects the posterior. It is **uninformative** otherwise.
 	* $P(y\mid x)$ is the **likelihood**
@@ -33,8 +73,16 @@
 * The implication is that *analysis using normal distributions are usually sufficient since many distributions tend to this in the limit*.
 # Monte Carlo Simulation
 * **Monte Carlo** is one approach to approximating a function of a random variable. This is done by approximating the probability distribution of the function by taking many samples and then taking the empirical probability distribution.
-* More formally, it approximates $$E[f(x)]=\int f(x)p(x)dx\approx \frac{1}{N}\sum_{n=1}^Sf(x_n)$$Where $x_n\sim P(X)$. 
-* By the Central Limit Theorem, t*he above approximation becomes better with more samples*. This can be quantified using the **standard error** computed as $$\sqrt{\frac{\sigma^2}{N}}$$
+* More formally, it approximates 
+  $$
+  E[f(x)]=\int f(x)p(x)dx\approx \frac{1}{N}\sum_{n=1}^Sf(x_n)
+  $$
+  Where $x_n\sim P(X)$. 
+* By the Central Limit Theorem, t*he above approximation becomes better with more samples*. This can be quantified using the **standard error** computed as 
+  $$
+  \sqrt{\frac{\sigma^2}{N}}
+  $$
+  
 # Topics
 * [[Probability Distributions Zoo]] - more on probability distributions and what they are measuring
 * [[Random Variables and Probability Distributions]] 

@@ -39,7 +39,11 @@
 		* With respect to a policy, the value at an action assumes that all future actions taken will be optimal.
 
 * *For episodic tasks, the calculation will terminate with an absorbing state which will continuously just give a reward of $0$. 
-* Thus, the **discounted return** $G_t$ with discount rate $\gamma$ is calculated as $$G_t=\sum_{k=0}^{\infty}\gamma^k R_{t+k+1}= R_{t+1}+\gamma G_{t+1}$$
+* Thus, the **discounted return** $G_t$ with discount rate $\gamma$ is calculated as
+  $$
+  G_t=\sum_{k=0}^{\infty}\gamma^k R_{t+k+1}= R_{t+1}+\gamma G_{t+1}
+  $$
+  
 	* For episodic tasks, we simply set all rewards after the episode end $T$ as $0$.
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 1 , 3 - 3.4]] - an introduction to Reinforcement Learning

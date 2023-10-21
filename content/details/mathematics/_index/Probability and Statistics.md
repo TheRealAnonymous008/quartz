@@ -8,7 +8,11 @@
 * The Bayesians see observations as fixed, and the parameters as being determined randomly sampled from a distribution of parameters.
 * It is more natural and optimal to be Bayesian than Frequentist.
 
-* **Boole's Inequality** or the **Union Bound**. Let $A_1,\dots$ be a countable set of events. We have that $$P\left(\bigcup_{i=1}^\infty A_i\right)\le \sum_{i=1}^\infty P(A_i)$$
+* **Boole's Inequality** or the **Union Bound**. Let $A_1,\dots$ be a countable set of events. We have that
+  $$
+  P\left(\bigcup_{i=1}^\infty A_i\right)\le \sum_{i=1}^\infty P(A_i)
+  $$
+  
 
 # Topics
 * [[Probability]]

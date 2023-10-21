@@ -50,7 +50,11 @@
 * **Event Story** - begin with the introduction of a new status quo due to an external threat or event, and end with the resolution of this event. The struggle is disrupting the status quo further.
 * Resolve the stories in the reverse order that they were introduced (i.e., start M, start I, end I, end M). 
 	* The rationale for this is that (1) it will fill weird for the audience to close something so abruptly and (2), since the order in which the stories are introduced is reflective of their importance, we want to spend time on the important, core stories so they must span the longest time in the storyline.
-* *Rule of thumb*. The number of words needed for a story, given $C$ characters, $S$ scenes, and $M$ mice threads is $$\frac{750(C+S)*M}{1.5}$$
+* *Rule of thumb*. The number of words needed for a story, given $C$ characters, $S$ scenes, and $M$ mice threads is 
+  $$
+  \frac{750(C+S)*M}{1.5}
+  $$
+  
 # Kishotenketsu
 * [See here](https://en.wikipedia.org/wiki/Kishōtenketsu)
 * Involves four phases
