@@ -132,6 +132,7 @@
 	  \delta'(q_i,q_j)=(R_1)(R_2)^\ast(R_3)\cup R_4
 	  $$
 	  Where [^2]
+	  
 	  $$
 	  \begin{equation}
 	  \begin{split}

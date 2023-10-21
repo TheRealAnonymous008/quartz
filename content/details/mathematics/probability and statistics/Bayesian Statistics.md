@@ -59,14 +59,14 @@
 
 ### Marginal Likelihood
 * Computing the Marginal likelihood. 
-  Let 
-  $Q$ be unnormalized distributions
-  $Z$ be normalization constants
-  $P(\theta)=Q(\theta)/Z_0$ be the prior
-  $P(\mathcal{D}\mid \theta) = Q(\mathcal{D}\mid \theta) / Z_l$ be the likelihood
-  $P(\theta\mid\mathcal{D}) = Q(\theta\mid \mathcal{D})/Z_N$ be the posterior.
-
-We have that the marginal likelihood $P(\mathcal{D})$ (the conditioning on $m$ omitted for convenience) is 
+	
+	Let 
+	$Q$ be unnormalized distributions
+	$Z$ be normalization constants$P(\theta)=Q(\theta)/Z_0$ be the prior
+	$P(\mathcal{D}\mid \theta) = Q(\mathcal{D}\mid \theta) / Z_l$ be the likelihood
+	$P(\theta\mid\mathcal{D}) = Q(\theta\mid \mathcal{D})/Z_N$ be the posterior.
+	
+	We have that the marginal likelihood $P(\mathcal{D})$ (the conditioning on $m$ omitted for convenience) is 
 $$
 \begin{split}P(\theta\mid\mathcal{D})&= \frac{P(D\mid\theta) P(\theta)}{P(\mathcal{D})} \\ 
 \frac{Q(\theta\mid\mathcal[D])}{Z_N} &= \frac{Q(\mathcal{D}\mid \theta) Q(\theta)}{Z_l Z_0P(\mathcal{D})} \\ 
