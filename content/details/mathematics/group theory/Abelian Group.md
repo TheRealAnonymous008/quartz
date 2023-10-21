@@ -1,5 +1,9 @@
-* An **Abelian Group** is a group that is **commutative**. That is $\forall x, y\in G$ $$x\ast y=y\ast x$$
-* **Fundamental Theorem of Finitely Generated Abelian Groups**: Every finitely generated Abelian group $G$ is isomorphic to the direct product of the form $$\mathbb{Z}_{(p_1)^{r_1}} \times \dots \times \mathbb{Z}_{(p_k)^{r_k}} \times \mathbb{Z}\times \dots\times \mathbb{Z}$$Where $p_i$ are primes, not necessarily distinct, and $r_i\in \mathbb{Z}^+$. 
+* An **Abelian Group** is a group that is **commutative**. That is $\forall x, y\in G$ 
+  $$x\ast y=y\ast x$$
+  
+* **Fundamental Theorem of Finitely Generated Abelian Groups**: Every finitely generated Abelian group $G$ is isomorphic to the direct product of the form 
+  $$\mathbb{Z}_{(p_1)^{r_1}} \times \dots \times \mathbb{Z}_{(p_k)^{r_k}} \times \mathbb{Z}\times \dots\times \mathbb{Z}$$
+  Where $p_i$ are primes, not necessarily distinct, and $r_i\in \mathbb{Z}^+$. 
   
   The direct product is unique except for rearrangement of the factors. The number of $\mathbb{Z}$ is a **Betti Number**. 
 

@@ -10,8 +10,8 @@
   q_\pi(s,a) &=  \sum_{s', r} p(s',r\mid s, a)\left[r + \gamma \sum_{a'\in\mathcal{A}} \pi(a'\mid s') \ q_\pi(s',a')\right] \\ 
   v_{\pi}(s) &= \sum_{a} \pi(a\mid s) \ q_\pi (s, a) \\ 
   q_{\pi}(s) &= \sum_{s',r} p(s',r\mid s,a)\left[ r+\gamma \cdot v_\pi(s')\right]
-  
   \end{split}$$
+  
   Where $p$ is the [[Markov Processes in Machine Learning|dynamics]] function
 
 * The **optimal Bellman equations** describe the optimal policy $\pi_\ast$. 
