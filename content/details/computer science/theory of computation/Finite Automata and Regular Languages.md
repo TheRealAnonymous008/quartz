@@ -119,18 +119,20 @@
 	* The accept state has incoming transitions from all states and no outgoing transitions.
 	* Except for the start and accept states, One arrow goes from every state to every other state and also from each state to itself 
 
-* GNFAs are used to convert a DFA into a regular expression. This is done as follows:
-		Let $G=(Q,\Sigma,\delta,q_s,q_a)$ be a GNFA
-		Let $k=|Q|$ 
-		If $k=2$, return the regular expression in the transition.
-		If $k>2$, select $q_r\in Q$ that is not $q_a$ or $q_s$. Let $G'=(Q',\Sigma,\delta',q_s,q_a)$ be the GNFA where 
+* GNFAs are used to convert a DFA into a regular expression. This is done as follows [^2]:
+	* Let $G=(Q,\Sigma,\delta,q_s,q_a)$ be a GNFA
+	* Let $k=|Q|$ 
+	* If $k=2$, return the regular expression in the transition.
+	* If $k>2$, select $q_r\in Q$ that is not $q_a$ or $q_s$. Let $G'=(Q',\Sigma,\delta',q_s,q_a)$ be the GNFA where 
 	  $$
 	  Q'=Q-\{q_r\}
 	  $$
+	  
 	  and for any non-accept state $q_i\in Q'-\{q_a\}$ and non-start state $q_j\in Q'-\{q_s\}$ we have that 
 	  $$
 	  \delta'(q_i,q_j)=(R_1)(R_2)^\ast(R_3)\cup R_4
 	  $$
+	  
 	  Where 
 	  $$
 	  \begin{equation}
@@ -143,7 +145,7 @@
 	  \end{split}
 	  \end{equation}
 	  $$
-	  Repeat until $k=2$. [^2]
+	  Repeat until $k=2$. 
 
 [^2]: The intuition is this: if we start at $q_i$ and end at $q_j$, either we can avoid passing through $q_r$ (expressed as $R_4$), or we do, in which case we have to: go $q_i\to q_r$, described by $R_1$,  possibly stay at $q_r$ described by $R_2$  then $q_r\to q_j$, described by $R_3$
 ### ANFA

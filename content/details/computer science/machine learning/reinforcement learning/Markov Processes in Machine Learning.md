@@ -11,10 +11,18 @@
 	* Each time step is associated with an environment **state** $S_t$.
 	* An agent performs an **action** $A_t$ in response to state $S_t$.
 	* A **reward** $R_{t+1}$ is given for $A_t$.
-	* The sequence $$S_0,A_0,R_1,S_1,A_1,\dots$$is called the **trajectory**.
+	* The sequence 
+	  $$
+	  S_0,A_0,R_1,S_1,A_1,\dots
+	  $$
+	  is called the **trajectory**.
 
 * An MDP is **finite** if the set of states, actions, and rewards are finite. 
-* The **dynamics** of the MDP is computed as a [[Probability|probability distribution]] on states and actions defined as $$p(s',r\mid s,a) = P(S_t=s', R_t=r\mid S_{t-1} =s, A_{t-1}=a)$$In an MDP, the probability above completely characterizes the dynamics of the environment.
+* The **dynamics** of the MDP is computed as a [[Probability|probability distribution]] on states and actions defined as 
+  $$
+  p(s',r\mid s,a) = P(S_t=s', R_t=r\mid S_{t-1} =s, A_{t-1}=a)
+  $$
+  In an MDP, the probability above completely characterizes the dynamics of the environment.
 
 * These are essential in the field of Reinforcement Learning (see [[The Setting for Reinforcement Learning|here]]). *Almost all Reinforcement Learning tasks can be understood as a Markov Decision Process*.
 * The value function in an MDP assuming the existence of a policy can be approximated in a variety of ways.
