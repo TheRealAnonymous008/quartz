@@ -25,7 +25,9 @@
 	* We call the second policy the **target policy** denoted $\pi$. This is the policy that will become the optimal policy 
 	* We require two assumptions
 		* **The Assumption of Coverage**:  Every action taken under $\pi$ is also taken occasionally under $\mu$ 
-		  $$\pi(a\mid s)>0\implies \beta(a\mid s)>0$$
+		  $$
+		  \pi(a\mid s)>0\implies \beta(a\mid s)>0
+		  $$
 		* **Soft Policy Assumption**: $\mu$ is a soft policy where all actions from all states may be taken. 
 	* Off-policy is analogous to *learning by imitation*.
 

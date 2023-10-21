@@ -7,12 +7,16 @@ Let $X\implies Y$ be a rule.
 * **Confidence** defines *how likely a rule is true* based on how many times it is found to be true within the item set. It is the probability $P(Y\mid X)$
 	* Thresholding the confidence lets us define which rules are interesting enough because the rule holds often.
 * **Lift** is used to compare the expected confidence with the actual confidence. It is defined as the quantity 
-  $$\frac{P(X,Y)}{P(X)P(Y)}$$
+  $$
+  \frac{P(X,Y)}{P(X)P(Y)}
+  $$
 	* A lift $=1$ implies no rule can be drawn since $X$ and $Y$ are independent.
 	* A lift $>1$ implies a *dependency* between $X$ and $Y$.
 	* A lift $<1$ implies $X$ can *substitute* with $Y$ or vice versa.
 * **Conviction** determines the ratio of the expected frequency that a rule makes an incorrect prediction if $X$ and $Y$ were independent, divided by the actual observed incorrect predictions. It is calculated as 
-  $$\frac{1-P(Y)}{1-P(Y\mid X)}$$
+  $$
+  \frac{1-P(Y)}{1-P(Y\mid X)}
+  $$
 # Apriori Algorithm
 * Identify frequent individual items and extend them to larger and larger item sets as long as they meet a support threshold.
 * *It relies on prior knowledge of frequent itemset properties*.

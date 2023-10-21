@@ -6,24 +6,25 @@
 	* Whether or not they operate on all possible successors (full / expected) or a sample of successors (sample backup).
 
 * The equation for performing a backup is as follows 
-  $$\begin{split}v_\pi(s)&=\sum_{a}\pi(a\mid s) \sum_{s',r}p(s',r\mid s,a)  \left[r + \gamma v_\pi(s')\right] \\ 
+  $$
+  \begin{split}v_\pi(s)&=\sum_{a}\pi(a\mid s) \sum_{s',r}p(s',r\mid s,a)  \left[r + \gamma v_\pi(s')\right] \\ 
   q_\pi(s,a) &=  \sum_{s', r} p(s',r\mid s, a)\left[r + \gamma \sum_{a'\in\mathcal{A}} \pi(a'\mid s') \ q_\pi(s',a')\right] \\ 
   v_{\pi}(s) &= \sum_{a} \pi(a\mid s) \ q_\pi (s, a) \\ 
   q_{\pi}(s) &= \sum_{s',r} p(s',r\mid s,a)\left[ r+\gamma \cdot v_\pi(s')\right]
-  \end{split}$$
+  \end{split}
+  $$
   
   Where $p$ is the [[Markov Processes in Machine Learning|dynamics]] function
 
-* The **optimal Bellman equations** describe the optimal policy $\pi_\ast$. 
-  $$\begin{split}
-  
-  v_\ast(s)&= \max_{a} \sum_{s',r} p(s',r\mid s, a) \ \left [r + \gamma v_\ast(s')\right] \\ 
-  
-  q_\ast(s,a) &=  \sum_{s', r} p(s',r\mid s, a)\left[r + \gamma \max_{a'} \  q_\ast(s',a')\right]   \\ 
-  v_\ast(s) &= \max_a  \ q_\ast(s,a) \\ 
-  q_\ast(s,a) &= \sum_{s', r} p(s',r\mid s, a)\left[r + \gamma \ v_\ast(s') \right]
-	  \end{split}$$
-	  
+* The **optimal Bellman equations** describe the optimal policy $\pi_\ast$.
+  $$
+	\begin{split}
+	v_\ast(s)&= \max_{a} \sum_{s',r} p(s',r\mid s, a) \ \left [r + \gamma v_\ast(s')\right] \\ 
+	q_\ast(s,a) &=  \sum_{s', r} p(s',r\mid s, a)\left[r + \gamma \max_{a'} \  q_\ast(s',a')\right]   \\ 
+	v_\ast(s) &= \max_a  \ q_\ast(s,a) \\ 
+	q_\ast(s,a) &= \sum_{s', r} p(s',r\mid s, a)\left[r + \gamma \ v_\ast(s') \right]
+	\end{split}
+	$$
 * **Full / Expected Backups** are more precise but at the cost of requiring more computations. For a given state, they backup based on all successors of this state.
 	* For stochastic models, we perform the backup using the expected values of the state / action. 
 	* These are what we use for [[Dynamic Programming for Reinforcement Learning|Dynamic Programming]]-based approaches
