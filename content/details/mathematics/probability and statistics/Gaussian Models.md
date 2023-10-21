@@ -229,6 +229,7 @@
     \mu&= \frac{N\lambda_y \bar{y} +\lambda_0\mu_0}{\lambda_N}
     \end{split}
     $$
+    
     That is, the posterior mean is a compromise between the MLE and the prior. The **signal strength** is determined by $\lambda_0/\lambda_y$, and it gives more weight to the prior.
 * We can also analyze *updating the posterior sequentially*. Let $\Sigma_y, \Sigma_0, \Sigma_1$ be the variances of the likelihood, prior, and posterior respectively. Then the updated posterior will have 
   $$
