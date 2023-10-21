@@ -44,7 +44,11 @@
 	* Additionally, we note that *light does not have global maximum brightness*, but this necessitates **tone mapping** from HDR to **Low Dynamic Range**. 
 
 * **Gamma Correction** involves controlling the overall brightness of the image to *account for non-linear color spaces in the display device*. 
-	* It involves a parameter $\gamma$. The correction simply involves doing the following for the linear color $c$ $$c^{-\gamma}$$
+	* It involves a parameter $\gamma$. The correction simply involves doing the following for the linear color $c$ 
+	  $$
+	  c^{-\gamma}
+	  $$
+	  
 	* Gamma encoding, where $\gamma < 1$ makes the dark regions lighter.
 	* Gamma decoding, where $\gamma >1$ makes the shadows darker.
 	* Without gamma correction, light sources tend to look extremely bright even when the rest of the scene is dark.

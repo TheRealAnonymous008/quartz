@@ -131,8 +131,7 @@
 	  $$
 	  \delta'(q_i,q_j)=(R_1)(R_2)^\ast(R_3)\cup R_4
 	  $$
-	  Where [^2]
-	  
+	  Where 
 	  $$
 	  \begin{equation}
 	  \begin{split}
@@ -144,8 +143,7 @@
 	  \end{split}
 	  \end{equation}
 	  $$
-	   
-	* Repeat until $k=2$. 
+	  Repeat until $k=2$. [^2]
 
 [^2]: The intuition is this: if we start at $q_i$ and end at $q_j$, either we can avoid passing through $q_r$ (expressed as $R_4$), or we do, in which case we have to: go $q_i\to q_r$, described by $R_1$,  possibly stay at $q_r$ described by $R_2$  then $q_r\to q_j$, described by $R_3$
 ### ANFA
