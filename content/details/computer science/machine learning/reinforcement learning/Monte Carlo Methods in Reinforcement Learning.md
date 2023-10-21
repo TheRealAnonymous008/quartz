@@ -16,7 +16,11 @@
 * Compared to [[Temporal Difference Learning]], Monte Carlo follows [[Frequentist Statistics]] hence it is only better on existing data but not future data.
 
 ### Estimating Action Values
-* Let $\pi$ be a policy and $q_{\pi}(s,a)$ be an estimator of the value of action $a$ at state $s$. We say $(s,a)$ is **visited** if during an episode, it has been encountered.
+* Let $\pi$ be a policy and 
+  
+  $q_{\pi}(s,a)$ be an estimator of the value of action $a$ at state $s$. 
+  
+  We say $(s,a)$ is **visited** if during an episode, it has been encountered.
 	* In **every visit Monte-Carlo**, estimate $q_{\pi}(s,a)$ as the average of the returns that have followed all the visits to $(s,a)$, counting all states. 
 	* In **first-visit Monte Carlo**, estimate $q_{\pi}(s,a)$ as the average of the returns but only after $(s,a)$ has been visited for the first time.
 

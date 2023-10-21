@@ -156,7 +156,11 @@
   \Lambda=L^TL
   $$
   
-* Let $x_2$ be the $N$ noise free observations and $x_1$ be the $D-N$ unknowns. Partition $L=[L_1, L_2]$ accordingly. Partition $\Lambda$ accordingly as well into a $2\times 2$ block matrix. 
+* Let $x_2$ be the $N$ noise free observations and 
+  
+  $x_1$ be the $D-N$ unknowns. 
+  
+  Partition $L=[L_1, L_2]$ accordingly. Partition $\Lambda$ accordingly as well into a $2\times 2$ block matrix. 
   
   The conditional now becomes 
   $$

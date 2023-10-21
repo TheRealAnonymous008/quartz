@@ -2,7 +2,9 @@
 	* $ex=x$
 	* $(g_1g_2)x = g_1(g_2x)$ 
 * $X$ in the above is called the $G$-**set**.
-* (*Fraleigh 16.3*) Let $X$ be a $G$-set. For each $g\in G$, the function $\sigma_g:X\to X$. defined $\forall x\in X$ as 
+* (*Fraleigh 16.3*) Let $X$ be a $G$-set. 
+  
+  For each $g\in G$, the function $\sigma_g:X\to X$. defined $\forall x\in X$ as 
   $$
   \sigma_g(x)=gx
   $$

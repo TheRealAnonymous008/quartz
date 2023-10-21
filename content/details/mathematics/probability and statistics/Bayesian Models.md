@@ -58,7 +58,9 @@
   $$
   P(x\mid \mathcal{D})=\text{Dir}(a_1+N_1,a_2+N-2,\dots,a_K + N_K)
   $$
-  Where $N_i$ denotes the number of times the $i$-th event occurs, and $a_i$ denotes the hyperparameters in the prior. That is, we assume a prior of $\text{Dir}(a_1,\dots, a_K)$
+  Where $N_i$ denotes the number of times the $i$-th event occurs, and 
+  
+  $a_i$ denotes the hyperparameters in the prior. That is, we assume a prior of $\text{Dir}(a_1,\dots, a_K)$
 * The MLE (assuming a uniform prior) and MAP estimates are just *extensions of the corresponding estimates for the Beta Binomial.*
 * The Posterior Distribution is characterized as an *extension of the posterior distribution of the beta binomial*.
 

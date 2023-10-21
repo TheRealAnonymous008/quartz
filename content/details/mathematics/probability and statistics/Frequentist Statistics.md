@@ -38,7 +38,10 @@
 	* In practice, *the sample median is often better than the sample mean because it is more robust to outliers*. 
 	* It is easy to construct an admissible estimator (see [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Thm. 6.3.3]]. Hence *admissibility is not sufficient for good estimators*.
 # Empirical Risk Minimization
-* We reframe the problem as follows. Let $L(y,\delta(x))$ be a loss function with $y$ being the true response, and $\delta(x)$ the prediction given the input $x$. Thus, we are *predicting observable quantities*
+* We reframe the problem as follows. 
+  Let $L(y,\delta(x))$ be a loss function with $y$ being the true response, and $\delta(x)$ the prediction given the input $x$. 
+  
+  Thus, we are *predicting observable quantities*
 * The **risk** is now defined as 
   $$
   \begin{split}R(p_\ast,\delta)&=E_{(x,y)\sim p_\ast}\left[L(y,\delta(x)\right] \\ 

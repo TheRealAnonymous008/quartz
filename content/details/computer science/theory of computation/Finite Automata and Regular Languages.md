@@ -125,7 +125,9 @@
 	* Let $G=(Q,\Sigma,\delta,q_s,q_a)$ be a GNFA
 	* Let $k=|Q|$ 
 	* If $k=2$, return the regular expression in the transition.
-	* If $k>2$, select $q_r\in Q$ that is not $q_a$ or $q_s$. Let $G'=(Q',\Sigma,\delta',q_s,q_a)$ be the GNFA where 
+	* If $k>2$, select $q_r\in Q$ that is not $q_a$ or $q_s$. 
+	  
+	  Let $G'=(Q',\Sigma,\delta',q_s,q_a)$ be the GNFA where 
 	  $$
 	  Q'=Q-\{q_r\}
 	  $$
