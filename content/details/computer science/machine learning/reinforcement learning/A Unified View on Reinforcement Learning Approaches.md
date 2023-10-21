@@ -2,8 +2,8 @@
 | Characterization | Approach |
 | --- | --- | 
 | Sample Updates, Uses Bootstrapping | [[Temporal Difference Learning]] |
-| Sample Updates, No Bootstrapping | [[Monte Carlo Methods in Reinforcement Learning|Monte Carlo]] |
-| Expected Updates, Uses Bootstrapping | [[Dynamic Programming for Reinforcement Learning|Dynamic Programming]]|
+| Sample Updates, No Bootstrapping | [[Monte Carlo Methods in Reinforcement Learning\|Monte Carlo]] |
+| Expected Updates, Uses Bootstrapping | [[Dynamic Programming for Reinforcement Learning\|Dynamic Programming]]|
 | Expected Updates, No Bootstrapping | Exhaustive Search
 * Note the above are extremes RL approaches are a spectrum (as seen in [[Temporal Difference Learning#N-Step Bootstrapping|n-step bootstrapping]]) approaches.
 * Regardless, all approaches make use of [[Dynamic Programming for Reinforcement Learning#Generalized Policy Iteration|Generalized Policy Iteration]]
@@ -24,7 +24,8 @@
 	* We call the first policy as the **behavior policy** denoted $\beta$. This is the policy that is used to generate behaviors
 	* We call the second policy the **target policy** denoted $\pi$. This is the policy that will become the optimal policy 
 	* We require two assumptions
-		* **The Assumption of Coverage**:  Every action taken under $\pi$ is also taken occasionally under $\mu$ $$\pi(a\mid s)>0\implies \beta(a\mid s)>0$$
+		* **The Assumption of Coverage**:  Every action taken under $\pi$ is also taken occasionally under $\mu$ 
+		  $$\pi(a\mid s)>0\implies \beta(a\mid s)>0$$
 		* **Soft Policy Assumption**: $\mu$ is a soft policy where all actions from all states may be taken. 
 	* Off-policy is analogous to *learning by imitation*.
 

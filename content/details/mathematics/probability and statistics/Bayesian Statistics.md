@@ -2,7 +2,8 @@
 * It assumes the dataset as fixed, and the parameters unknown.
 # Posteriors
 ### Maximum A Posteriori
-* *Make use of a point estimate for the posterior* (via mean, median or mode). $$\hat{\theta}=\underset{\theta}{\text{argmax}} \ P(\theta\mid\mathcal{D})$$
+* *Make use of a point estimate for the posterior* (via mean, median or mode).
+  $$\hat{\theta}=\underset{\theta}{\text{argmax}} \ P(\theta\mid\mathcal{D})$$
 * For MAP estimates, we make use of the mode because of algorithmic efficiency and ease of interpretability.
 * Some drawbacks.
 	* It is a point estimate so there is no measure of uncertainty. 
@@ -11,7 +12,8 @@
 	* The mode is a poor choice as a summary statistic since it is prone to extrema or skewed distributions. 
 		* Solution: Use Decision Theory-based methods.
 	* It is not invariant to reparameterization. Changing from one representation to another equivalent representation changes the MAP estimate.
-		* One solution to this is to optimize the following $$\hat{\theta}=\underset{\theta}{\text{argmax}} \ P(\theta\mid\mathcal{D}) \ P(\theta) \ |I(\theta)|^{-\frac{1}{2}}$$Where $|I(\theta)|$ is the determinant of the **Fisher Information Matrix** associated with $P(x\mid\theta)$ which is parameterization independent.
+		* One solution to this is to optimize the following 
+		  $$\hat{\theta}=\underset{\theta}{\text{argmax}} \ P(\theta\mid\mathcal{D}) \ P(\theta) \ |I(\theta)|^{-\frac{1}{2}}$$Where $|I(\theta)|$ is the determinant of the **Fisher Information Matrix** associated with $P(x\mid\theta)$ which is parameterization independent.
 		* Unfortunately, optimizing the above is difficult.
 ### Credible Intervals
 * *We can specify a width measured using a contiguous region* that contains $(1-\alpha)/2$ of the posterior distribution's mass in each tail (either side)
@@ -21,15 +23,20 @@
 * We can also use Monte Carlo approximation to draw $S$ samples form the from the posterior
 	* Sort the $S$ samples
 	* Then, find the entries that rank $\pm \alpha/S$ from the estimator.
-* We may also use the **highest posterior density region / interval** which contains the set of most probable points that in total constitute $1-\alpha$ mass. That is, if we find threshold $p^\ast$ such that for $$1-\alpha=\int_{\theta : P(\theta\mid\mathcal{D})>p^\ast}P(\theta\mid\mathcal{D})d\theta$$The HPD is then the set we integrated over $$C_{\alpha}(\mathcal{D}) =\{\theta:P(\theta\mid D) \ge p^{\ast}\}$$
+* We may also use the **highest posterior density region / interval** which contains the set of most probable points that in total constitute $1-\alpha$ mass. That is, if we find threshold $p^\ast$ such that for 
+  $$1-\alpha=\int_{\theta : P(\theta\mid\mathcal{D})>p^\ast}P(\theta\mid\mathcal{D})d\theta$$The HPD is then the set we integrated over 
+  $$C_{\alpha}(\mathcal{D}) =\{\theta:P(\theta\mid D) \ge p^{\ast}\}$$
 # Model Selection
 * *Problem*: Given a set of models of varying complexities, how should we choose the best model?
 ### Cross Validation 
 * Estimate the generalization error of all the candidate models, and pick the model that seems to be the best. 
 * Requires fitting $K$ times. 
 ### Bayesian Model Selection
-* Compute the posterior over models and use the MAP model. That is, calculate $$P(m\mid \mathcal{D})= \frac{P(\mathcal{D} \mid m) \ P(m)}{\sum_{m\in\mathcal{M}}P(m,\mathcal{D})}$$And choose $$\hat{m}=\underset{m\in\mathcal{M}}{\text{argmax}} \ P(m\mid\mathcal{D})$$
-* We can can use the **marginal likelihood** or the **evidence** for model $m$. This is the equivalent of an MLE. Assuming a uniform prior over models, we have $$P(\mathcal{D}\mid m)=\int P(D\mid \theta) \ P(\theta\mid m) d\theta$$
+* Compute the posterior over models and use the MAP model. That is, calculate 
+  $$P(m\mid \mathcal{D})= \frac{P(\mathcal{D} \mid m) \ P(m)}{\sum_{m\in\mathcal{M}}P(m,\mathcal{D})}$$And choose 
+  $$\hat{m}=\underset{m\in\mathcal{M}}{\text{argmax}} \ P(m\mid\mathcal{D})$$
+* We can can use the **marginal likelihood** or the **evidence** for model $m$. This is the equivalent of an MLE. Assuming a uniform prior over models, we have 
+  $$P(\mathcal{D}\mid m)=\int P(D\mid \theta) \ P(\theta\mid m) d\theta$$
 * The intuition behind the marginal likelihood is that *we want to prevent overfitting by suggesting that more parameters = better performance*. This is **Bayesian Occam's razor**.
 	* Complex models which can predict many things must spread its probability mass thinly so that it will not obtain as large a probability as simpler models. This is the **conservation of probability mass**. 
 
@@ -42,47 +49,65 @@
   $P(\mathcal{D}\mid \theta) = Q(\mathcal{D}\mid \theta) / Z_l$ be the likelihood
   $P(\theta\mid\mathcal{D}) = Q(\theta\mid \mathcal{D})/Z_N$ be the posterior.
 
-We have that the marginal likelihood $P(\mathcal{D})$ (the conditioning on $m$ omitted for convenience) is $$\begin{split}P(\theta\mid\mathcal{D})&= \frac{P(D\mid\theta) P(\theta)}{P(\mathcal{D})} \\ 
+We have that the marginal likelihood $P(\mathcal{D})$ (the conditioning on $m$ omitted for convenience) is 
+$$\begin{split}P(\theta\mid\mathcal{D})&= \frac{P(D\mid\theta) P(\theta)}{P(\mathcal{D})} \\ 
 \frac{Q(\theta\mid\mathcal[D])}{Z_N} &= \frac{Q(\mathcal{D}\mid \theta) Q(\theta)}{Z_l Z_0P(\mathcal{D})} \\ 
 P(\mathcal{D}) &= \frac{Z_N}{Z_0Z_l}
 
 \end{split}$$
 * Some useful marginal likelihoods
-	* **Beta Prior** $$P(\mathcal{D})=\frac{B(a+N_1,b+N_0)}{B(a,b)}$$
-	* **Dirichlet Prior** $$\begin{split}P(\mathcal{D}) &= \frac{B(N+\alpha)}{B(\alpha)} \\ 
+	* **Beta Prior** 
+	  $$P(\mathcal{D})=\frac{B(a+N_1,b+N_0)}{B(a,b)}$$
+	  
+	* **Dirichlet Prior** 
+	  $$\begin{split}P(\mathcal{D}) &= \frac{B(N+\alpha)}{B(\alpha)} \\ 
 	  
 	  &= \frac{\Gamma(\sum_ka_k)}{\Gamma(N+\sum_ka_k)}\prod_k\frac{\Gamma(N_k+a_k)}{\Gamma(a_k)}\\
 	  B(\alpha)&= \frac{\prod_{k=1}^K \Gamma(a_k)}{\Gamma(\sum_ka_k)} \\ 
 	  
 	  \end{split}$$
-	* **Gaussian-Gaussian-Wishart $$P(\mathcal{D}) = \frac{1}{\pi^{ND/2}}\left(\frac{\kappa_0}{\kappa_N}\right)^{D/2} \frac{|S_0|^{v_0/2} \Gamma_D(v_N/2)}{|S_N|^{v_N/2} \Gamma_D(v_0/2)}$$
+	  
+	* **Gaussian-Gaussian-Wishart** $$P(\mathcal{D}) = \frac{1}{\pi^{ND/2}}\left(\frac{\kappa_0}{\kappa_N}\right)^{D/2} \frac{|S_0|^{v_0/2} \Gamma_D(v_N/2)}{|S_N|^{v_N/2} \Gamma_D(v_0/2)}$$
+	  
 * The **Bayesian Information Criterion** is an approximation for the integral in the marginal likelihood. It is simply of a *penalized log likelihood* form, where the penalty depends on model complexity. That is $$\text{BIC}=\log P(\mathcal{D}\mid\hat\theta) -\frac{\text{dof}(\hat\theta)}{2}\log N \approx\log P(\mathcal{D})$$Where $\hat{\theta}$ is an estimate (MLE / MAP) and $\text{dof}(\hat\theta)$ is the degrees of freedom.
   
   We aim to *maximize the BIC score*.
 
-* We can also define a **BIC-cost** that we *minimize* $$\text{BIC-cost} = -2\log P(\mathcal{D}\mid\hat\theta) +\text{dof}(\hat\theta)\log N \approx -2\log P(\mathcal{D})$$
+* We can also define a **BIC-cost** that we *minimize* 
+  $$\text{BIC-cost} = -2\log P(\mathcal{D}\mid\hat\theta) +\text{dof}(\hat\theta)\log N \approx -2\log P(\mathcal{D})$$
+  
 	* The **minimum description length** principle is tied to this. It says the score of a model is *how well it fits the data minus how complex the model is to define*.
-* For complex models, we may use the **Akaike information criterion**. It has *smaller penalty than BIC* $$\text{AIC}(m,\mathcal{D}) = \log P(\mathcal{D}\mid\hat{\theta}_\text{MLE}) - \text{dof}(m)$$
+* For complex models, we may use the **Akaike information criterion**. It has *smaller penalty than BIC* 
+  $$\text{AIC}(m,\mathcal{D}) = \log P(\mathcal{D}\mid\hat{\theta}_\text{MLE}) - \text{dof}(m)$$
+  
 * *The prior has an effect on the marginal likelihood* since it is an average of likelihoods weighted by priors over the parameter. 
 	* *When the prior is uncertain, have a prior for the prior.* Usually uninformative priors suffice.
-	* We compute $$P(\mathcal{D}\mid m)=\iint P(\mathcal{D}\mid w) P (w\mid \alpha, m) P(\alpha \mid m)  \ dw \ d\alpha$$
+	* We compute 
+	  $$P(\mathcal{D}\mid m)=\iint P(\mathcal{D}\mid w) P (w\mid \alpha, m) P(\alpha \mid m)  \ dw \ d\alpha$$
+	  
 ### Hierarchical Bayes
 * In Hierarchical Bayes, we assume uncertainty about the priors. That is, *we put priors on the priors*. That is, for $P(\theta\mid\mathcal{D})$ we put the prior as $P(\theta\mid\eta)$ for hyperparameters $\eta$. 
-* In graphical form it is represented as $$\eta\to\theta\to\mathcal{D}$$
+* In graphical form it is represented as 
+  $$\eta\to\theta\to\mathcal{D}$$
+  
 * This can be coupled with **parameter tying** wherein we assume that parameters are shared across multiple distributions.
 	* In such a case, we assume $\theta$ is drawn from some distribution parameterized by $\eta$.
 	* This leads to **multi-task learning**.
 ### Empirical Bayes
-* We may also use **empirical Bayes** or **type II maximum likelihood** or the **evidence procedure**. Where via numerical optimization we optimize $$\begin{split}\hat\alpha& =\underset{\alpha}{\text{argmax}} \ P(\mathcal{D}\mid \alpha,m)  \\ 
+* We may also use **empirical Bayes** or **type II maximum likelihood** or the **evidence procedure**. Where via numerical optimization we optimize 
+  $$\begin{split}\hat\alpha& =\underset{\alpha}{\text{argmax}} \ P(\mathcal{D}\mid \alpha,m)  \\ 
   &= \underset{\alpha}{\text{argmax}}\int P(\mathcal{D}\mid w) \ P (w\mid \alpha,m) \ dw\\ 
   P(\mathcal{D}\mid m) &\approx \int P(\mathcal{D}\mid w) P(w\mid \hat{\alpha}, m)  \ dw
   \end{split}$$
+  
 * It is a computationally cheap approximation to inference in a hierarchical Bayes model. 
 * It makes use of a point estimate for the hyperparameter $\eta$. *Assuming the hyperparameters are smaller in dimensionality, this is less prone to overfitting*.
 * For deeper hierarchical models, the shallower the depth we perform empirical Bayes, the more Bayesian the model becomes.
 * *This gives a crude framework for why hyperparameter optimization works. We can simply use an estimate instead of integrating over hyperparameter space*.
 ### Bayes Factors
-* The **Bayes Factor** is the *ratio of marginal likelihoods* between $M_0$ and $M_1$. That is $$\text{BF}_{1,0}=\frac{P(\mathcal{D}\mid M_1)}{P(\mathcal{D}\mid M_0)} =  \frac{P(M_1 \mid \mathcal{D})}{P(M_0\mid \mathcal{D})} \frac{P(M_0)}{P(M_1)}$$When $\text{BF}_{1,0} > 1$, prefer $M_1$ else, prefer $M_0$.
+* The **Bayes Factor** is the *ratio of marginal likelihoods* between $M_0$ and $M_1$. That is 
+  $$\text{BF}_{1,0}=\frac{P(\mathcal{D}\mid M_1)}{P(\mathcal{D}\mid M_0)} =  \frac{P(M_1 \mid \mathcal{D})}{P(M_0\mid \mathcal{D})} \frac{P(M_0)}{P(M_1)}$$
+  When $\text{BF}_{1,0} > 1$, prefer $M_1$ else, prefer $M_0$.
 * The Bayes factor will always favor the simpler model since complex models will have a very small prior.
 # Priors
 * The **[Jeffreys-Lindley paradox](https://en.wikipedia.org/wiki/Lindley%27s_paradox)** arises from a poor choice of priors. 
@@ -127,12 +152,17 @@ $$\delta(x)=\underset{a\in\mathcal{A}}{\text{argmin}} \ \rho(a\mid x) $$
 * The **recall** measures what fraction of the ground truth positive samples are detected (i.e., $\frac{TP}{TP + FN}$)
 * The precision-recall curve can be plotted as a function of $\tau$. Better classifiers hug the top right.
 * The **average precision at $K$** is the precision at a fixed recall level.
-* The **F1 score** combines precision and recall. It is the harmonic mean of the two $$F_1=\frac{2}{1/P+1/R}$$
+* The **F1 score** combines precision and recall. It is the harmonic mean of the two 
+  $$F_1=\frac{2}{1/P+1/R}$$
+  
 	* For multi-class classification, we can generalize the $F_1$ score as a **macro-averaged** $F_1$ score defined as the average $F_1$ score where we identify a class $c$ from all other classes. That is $$\frac{1}{C}\sum_{c=1}^C F_1(c)$$
 	* Alternatively, we can use a **micro-averaged** $F_1$ score where we pool all counts from each class's contingency table (that is by pooling all $TP, FP$ and $FN$ across all classes)
 ### Multiple Hypothesis Testing
 * *Problem*: We need to classify using multiple hypotheses simultaneously.
-* We can minimize the **false discovery rate** defined as $$FDR(\tau,\mathcal{D})=FD(\tau,\mathcal{D})/N(\tau,D)$$Where $N(\tau,\mathcal{D})$ is the number of positively classified items and $$FD(\tau,\mathcal{D})=\sum_{i}(1-p_i) \mathbb{I}(p_i>r)$$Where $p_i=P(y_i=1\mathcal{D})$ is the prior belief regarding the hypothesis. 
+* We can minimize the **false discovery rate** defined as $$FDR(\tau,\mathcal{D})=FD(\tau,\mathcal{D})/N(\tau,D)$$
+  Where $N(\tau,\mathcal{D})$ is the number of positively classified items and  
+  $$FD(\tau,\mathcal{D})=\sum_{i}(1-p_i) \mathbb{I}(p_i>r)$$
+  Where $p_i=P(y_i=1\mathcal{D})$ is the prior belief regarding the hypothesis. 
 * The **Direct Posterior Probability approach** involves modifying the decision threshold $\tau$.
 # Links
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 5]]
