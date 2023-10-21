@@ -2,13 +2,13 @@
 
 * A quaternion $w+xi+yj+zk$ can be represented as the rotation corresponding to 
   $$
-  \cos{
-\left(\frac{w}{2}\right)} + \sin{\left(\frac{w}{2}\right)}(x\hat{i}+y\hat{j}+z\hat{k})
-$$
+  \cos{\left(\frac{w}{2}\right)} + \sin{\left(\frac{w}{2}\right)}(x\hat{i}+y\hat{j}+z\hat{k})
+  $$
 
 * **Jensen's Inequality** states that for any convex function 
   $$
-  f\left(\sum_{k=1}^n \lambda_ix_i\right)\le \sum_{k=1}^n\lambda_i f(x_i)
+  f\left(\sum_{k=1}^n \lambda_ix_i\right)\le
+  \sum_{k=1}^n\lambda_i f(x_i)
   $$
   Where $\lambda_i\ge 0$ and $\sum_{k=1}^n\lambda_i = 1$.
   
