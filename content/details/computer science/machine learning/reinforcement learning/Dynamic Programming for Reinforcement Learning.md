@@ -17,7 +17,15 @@
 * **Iterative policy evaluation** involves the use of approximate value functions $v_1,\dots, v_k$ and the Bellman equation as an update rule.
 	* The approximate value function is obtained iteratively through one **full backup** That is, starting with an arbitrary $v_0$ (except for terminal states which are initialized to $0$), obtain $v_{k+1}$ by performing a backup using the previous approximation $v_k$
 
-* **Policy Improvement Theorem**: Let $\pi$ and $\rho$ be deterministic policies such that $\forall s\in S$, $$q_{\pi}(s,\rho(s))\ge v_{\pi}(s)$$Then the policy $\rho$ must be as good as or better than $\pi$, or$$v_{\rho}(s)\ge v_{\pi}(s)$$Moreover, this result is monotonic. 
+* **Policy Improvement Theorem**: Let $\pi$ and $\rho$ be deterministic policies such that $\forall s\in S$, 
+  $$
+  q_{\pi}(s,\rho(s))\ge v_{\pi}(s)
+  $$
+  Then the policy $\rho$ must be as good as or better than $\pi$, or
+  $$
+  v_{\rho}(s)\ge v_{\pi}(s)
+  $$
+  Moreover, this result is monotonic. 
 
 # Policy Iteration
 * The optimal policy in an MDP can be obtained through **policy iteration** wherein the policy is incrementally improved until its value function can no longer be improved. *This method is supported by the policy improvement theorem*.
@@ -25,13 +33,19 @@
 		* **Evaluation** consists of computing the value function for a policy.
 		* **Improvement** consists of giving an improved policy given the value function.
 	* We evaluate each action taken on each state using the Q-Function. We then form a new policy by considering all states and *greedily* taking the actions that do well on each state. 
-		* In case of a tie, we need only ensure that all the suboptimal policies are given $0$ probability. That is, the new policy $\pi'$ is evaluated on state $s$ as $$\begin{split}\pi(s) &=\underset{a}{\text{argmax}}\ q_\pi(s,a) \\&= \underset{a}{\text{argmax}} \sum_{s',r} p(s',r\mid s,a) \left[r  + \gamma v_\pi (s')\right]\end{split}$$
+		* In case of a tie, we need only ensure that all the suboptimal policies are given $0$ probability. That is, the new policy $\pi'$ is evaluated on state $s$ as 
+		  $$
+		  \begin{split}\pi(s) &=\underset{a}{\text{argmax}}\ q_\pi(s,a) \\&= \underset{a}{\text{argmax}} \sum_{s',r} p(s',r\mid s,a) \left[r  + \gamma v_\pi (s')\right]\end{split}
+		  $$
 	* *This method of policy iteration is guaranteed to monotonically converge to the global optimum* (for a proof of why see [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barton Ch. 4.2]]). 
 	* *This process is guaranteed to stop assuming a finite MDP*. This is because the value of the policy always monotonically increases, and there are only finitely many policies.
 
 ### Value Iteration
 * A variation of policy iteration is called **value iteration** wherein we no longer perform a full backup in policy evaluation.  *This tends to be more efficient as it combines policy iteration and evaluation steps in one pass*. 
-	* This is done using a simple update function done as follows: $$v_{k+1}(s) = \max_a\sum_{s',r}p(s',r\mid s,a) \ \left[r+ \gamma v_k(s')\right]$$
+	* This is done using a simple update function done as follows: 
+	  $$
+	  v_{k+1}(s) = \max_a\sum_{s',r}p(s',r\mid s,a) \ \left[r+ \gamma v_k(s')\right]
+	  $$
 	* It combines policy evaluation and one step of [[#Policy Iteration]], leading to faster convergence.
 
 ### Generalized Policy Iteration

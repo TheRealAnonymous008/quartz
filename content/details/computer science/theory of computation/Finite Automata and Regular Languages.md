@@ -39,26 +39,36 @@
 	* $r$ is the reject state.
 
 * $\forall q\in Q$ 
-  $$\begin{split} \delta(q,L)&=(q', \text{right}) &
+  $$
+  \begin{split} \delta(q,L)&=(q', \text{right}) &
   \text{ for some } q'\in Q \\
   
   \delta(q, R) &= (q',\text{left}) & \text{ for some } q'\in Q
-  \end{split} $$
+  \end{split}
+  $$
   That is, a transition is possible when reaching either end of the input word. 
 * For all symbols $\sigma \in \Sigma \cup \{L\}$ 
-  $$\begin{split} \delta(t,\sigma)&=(t,R) \\ \delta(r,\sigma) &= (r,L) \\ \delta(t,R) &= (t,L) \\ \delta(r,R) &= (r,L) \end{split}$$
+  $$
+  \begin{split} \delta(t,\sigma)&=(t,R) \\ \delta(r,\sigma) &= (r,L) \\ \delta(t,R) &= (t,L) \\ \delta(r,R) &= (r,L) \end{split}
+  $$
   That is, once the automaton reaches the accept or reject state, it stays there forever, and the pointer goes tot he right most pointer and cycles there infinitely.
 # Regular Languages
 * A **regular language** is a language that is recognized by a finite automaton $M$.
 * We may define **regular operations**
 	* A **union** is defined as 
-	  $$A\cup B=\{w\mid w\in A \text{ or } w\in B\}$$
+	  $$
+	  A\cup B=\{w\mid w\in A \text{ or } w\in B\}
+	  $$
 	  
 	* A **concatenation** is defined as 
-	  $$A\circ B = AB =  \{xy \mid  x\in A. y\in B\}$$
+	  $$
+	  A\circ B = AB =  \{xy \mid  x\in A. y\in B\}
+	  $$
 	  
 	* A **star** operator is defined as 
-	  $$A^\ast = \{x_1,\dots x_k\ \mid \text{each } x_i\in A \text{ for } k\ge 0\}$$
+	  $$
+	  A^\ast = \{x_1,\dots x_k\ \mid \text{each } x_i\in A \text{ for } k\ge 0\}
+	  $$
 	  
 *  $R$ is a regular expression if $R$ is built from regular operations or symbols in the alphabet. That is, $R$ is: 
 	* $a\in \Sigma$
@@ -90,7 +100,9 @@
 * A **deterministic** machine necessitates that the next state is exactly determined by the input symbol and previous states. Otherwise, the machine is **nondeterministic**.
 	* In an NFA, a state may have zero, one, or many exiting arrows. We also allow a transition with input symbol $\lambda$.
 	* Compared to a DFA, an NFA has a transition function defined by
-	  $$\delta:Q\times\Sigma_\lambda\to \mathcal{P}(Q)$$
+	  $$
+	  \delta:Q\times\Sigma_\lambda\to \mathcal{P}(Q)
+	  $$
 	  
 * Every deterministic machine is nondeterministic.
 * *Sipser 1.39*: Every NFA has an equivalent DFA.
@@ -112,11 +124,16 @@
 		Let $k=|Q|$ 
 		If $k=2$, return the regular expression in the transition.
 		If $k>2$, select $q_r\in Q$ that is not $q_a$ or $q_s$. Let $G'=(Q',\Sigma,\delta',q_s,q_a)$ be the GNFA where 
-	  $$Q'=Q-\{q_r\}$$
+	  $$
+	  Q'=Q-\{q_r\}
+	  $$
 	  and for any non-accept state $q_i\in Q'-\{q_a\}$ and non-start state $q_j\in Q'-\{q_s\}$ we have that 
-	  $$\delta'(q_i,q_j)=(R_1)(R_2)^\ast(R_3)\cup R_4$$
-	  Where 
-	  $$\begin{equation}
+	  $$
+	  \delta'(q_i,q_j)=(R_1)(R_2)^\ast(R_3)\cup R_4
+	  $$
+	  Where [^2]
+	  $$
+	  \begin{equation}
 	  \begin{split}
 	  R_1&=\delta(q_i,q_r) \\
 	  R_2&=\delta(q_r,q_r) \\
@@ -124,13 +141,12 @@
 	  R_4&=\delta(q_i,q_j)
 	  
 	  \end{split}
-	  \end{equation}$$
-	   [^2]
+	  \end{equation}
+	  $$
+	   
 	* Repeat until $k=2$. 
-[^2]: The intuition is this: if we start at $q_i$ and end at $q_j$, either we can avoid passing through $q_r$ (expressed as $R_4$), or we do, in which case we have to:
-	go $q_i\to q_r$, described by $R_1$, 
-	possibly stay at $q_r$ described by $R_2$ 
-	then $q_r\to q_j$, described by $R_3$
+
+[^2]: The intuition is this: if we start at $q_i$ and end at $q_j$, either we can avoid passing through $q_r$ (expressed as $R_4$), or we do, in which case we have to: go $q_i\to q_r$, described by $R_1$,  possibly stay at $q_r$ described by $R_2$  then $q_r\to q_j$, described by $R_3$
 ### ANFA
 * An **all-NFA** is a five tuple $(Q,\Sigma, \delta, q_0, F)$ that accepts $x\in \Sigma^\ast$ if every possible state that $M$ could be in after reading input $x$ is a state from $F$.
 * *Sipser e1.38*: all-NFAs can recognize the class of regular languages. 

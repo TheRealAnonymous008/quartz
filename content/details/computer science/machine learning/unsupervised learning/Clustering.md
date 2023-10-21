@@ -25,13 +25,19 @@
 ### Calculating Distance between Clusters
 For each of these, let $D(X,Y)$ denote the distance between two clusters $X,Y$, and $d(x,y)$ the distance between two data points.
 * **Complete Linkage Clustering** - clusters based on the maximum distance between two elements of two clusters. 
-  $$D(X,Y)=\max_{x\in X, y\in Y}d(x,y)$$
+  $$
+  D(X,Y)=\max_{x\in X, y\in Y}d(x,y)
+  $$
   
 * **Single Linkage Clustering** - clusters based on the minimum distance between two elements of two clusters. 
-  $$D(X,Y)=\min_{x\in X,y\in Y}d(x,y)$$
+  $$
+  D(X,Y)=\min_{x\in X,y\in Y}d(x,y)
+  $$
   
 * **Unweighted Average Linkage Clustering** - clusters based on the average distance between all pairs of elements from $X,Y$. 
-  $$D(X,Y)=\frac{1}{|X|\cdot|Y|}\sum_{x\in X}\sum_{y\in Y}d(x,y)$$
+  $$
+  D(X,Y)=\frac{1}{|X|\cdot|Y|}\sum_{x\in X}\sum_{y\in Y}d(x,y)
+  $$
   
 # Gaussian Mixture Models
 * Assume all datapoints with a certain label are *distributed based on a Gaussian distribution* parameterized by label-specific mean $\mu_i$, covariance $\Sigma_i$ and label probability $\pi_i$.

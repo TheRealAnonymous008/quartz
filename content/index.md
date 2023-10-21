@@ -2,6 +2,8 @@
 title: The Library
 ---
 The purpose of this Library is to archive and share my Second Brain to others.
+
+If you see any formatting errors, please let me know. (Dataview tables are like that. I am awaiting a new push from quartz.)
 # Personal Section
 * [[Beliefs and General Principles]]
 * [[Update Logs]]
