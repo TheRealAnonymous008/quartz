@@ -7,8 +7,12 @@
 	* Mean vector $\mu$ 
 	* **Loading matrix** $W$ multiplied with $L$-dimensional **factors** $z$. 
 	* A diagonal covariance matrix $\psi$ which models observed noise in each dimension.
-* More formally, for data point $x$, we have $$x\sim \mathcal{N}(Wz+\mu, \psi)$$
-* The factors $z$ are latent variables which are not observed but used to formulate the model. If these were averaged out, we get that $$x\sim\mathcal{N}(\mu,WW^T + \psi)$$
+* More formally, for data point $x$, we have 
+  $$x\sim \mathcal{N}(Wz+\mu, \psi)$$
+  
+* The factors $z$ are latent variables which are not observed but used to formulate the model. If these were averaged out, we get that 
+  $$x\sim\mathcal{N}(\mu,WW^T + \psi)$$
+  
 ### Learning
 * $\mu$ is simply the average of the observed data.
 * $W$ and $\psi$ are iteratively estimated from each other using SVD with the goal of maximizing log-likelihood.

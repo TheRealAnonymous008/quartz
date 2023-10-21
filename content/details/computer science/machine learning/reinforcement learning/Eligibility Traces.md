@@ -1,17 +1,25 @@
 # Two Views of Eligibility Traces
 * One way to view this is as *an extension of Temporal Differencing towards becoming more like Monte Carlo* methods. This is done through $\text{TD-n}$ and $TD(\lambda)$
-	* $\text{TD-n}$ involves generalizing $R_{\Sigma}$ to include more terms. Namely $$R_{\Sigma,n}=R_{t+1}+\gamma R_{t+2}+\dots +\gamma^{n}V_t(S_{t+n})$$
+	* $\text{TD-n}$ involves generalizing $R_{\Sigma}$ to include more terms. Namely 
+	  $$R_{\Sigma,n}=R_{t+1}+\gamma R_{t+2}+\dots +\gamma^{n}V_t(S_{t+n})$$
+	  
 	* **On-line updates** perform the updates during the episode itself.
 	* **Off-line updates** perform the updates after the episode (possibly in batches of episodes). All updates are accumulated as they happen. 
 	* **Error reduction property**  With updates, the $n$-step return $R_{\Sigma}$ converges a better estimate of the value function
 * Another way is to view this as keeping a temporary record of **which events (state / action visitation) are eligible for learning changes.**
 # $\text{TD}(\lambda)$
-* $\text{TD}(\lambda)$ involves *updating based on a weighted average* of all the $\text{TD-n}$ $\forall n\in \mathbb{N}$. More formally the $\lambda$-return is defined as $$L_t=(1-\lambda)\sum_{n=1}^\infty\lambda^{n-1}R_{\Sigma,n}$$
+* $\text{TD}(\lambda)$ involves *updating based on a weighted average* of all the $\text{TD-n}$ $\forall n\in \mathbb{N}$. More formally the $\lambda$-return is defined as 
+  $$L_t=(1-\lambda)\sum_{n=1}^\infty\lambda^{n-1}R_{\Sigma,n}$$
+  
 * Mechanically, $\text{TD}(\lambda)$ is computed using the backward view of eligibility tracing. That is, we obey the following rules. The eligibility of state $s$ at time $t$ is given as $E_t(s)$, and is updated as follows:
 	* At each time step $E_t(s)=\gamma\lambda E_{t-1}(s)$ That is, *decay the eligibility trace*.
 	* When state $s$ is visited for the current time step *add a quantity to the eligibility trace*.
 		* The best one to use appears to be **Dutch Traces** with step size $\alpha=0.5$
-* $E_t(s)$ above is then used to update the value function as follows $$\delta=R_{t+1}+\gamma V(S_{t+1})-V(S_{t})$$And $\forall s\in S$$$V(s)\gets V(s)+\alpha\delta E_t(s)$$
+* $E_t(s)$ above is then used to update the value function as follows 
+  $$\delta=R_{t+1}+\gamma V(S_{t+1})-V(S_{t})$$
+  And $\forall s\in S$
+  $$V(s)\gets V(s)+\alpha\delta E_t(s)$$
+  
 * *In practice, we only ever really need to keep track of the eligibility of some states since most of the time, the eligibility is effectively $0$*. 
 # $\text{SARSA}(\lambda)$
 * An extension of SARSA but making use of Eligibility traces. We substitute the value function with a the state-action function $Q(s,a)$ and the eligibility traces are now over the space of state-action pairs.

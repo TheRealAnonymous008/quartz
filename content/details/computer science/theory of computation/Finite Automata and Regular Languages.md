@@ -3,11 +3,11 @@
 # Finite Automaton
 ### DFA
 * A **finite automaton** is a five tuple $(Q, \Sigma, \delta, q_0, F)$ consisting of 
-* A finite set of states $Q$
-* A finite set of input symbols called the alphabet $\Sigma$
-* A transition function $\delta: Q\times \Sigma\to Q$ 
-* An initial state $q_0\in Q$
-* A set of accept states $F\subseteq Q$.
+	* A finite set of states $Q$
+	* A finite set of input symbols called the alphabet $\Sigma$
+	* A transition function $\delta: Q\times \Sigma\to Q$ 
+	* An initial state $q_0\in Q$
+	* A set of accept states $F\subseteq Q$.
 
 * Let $w=a_1a_2\dots a_n$ be a string over the alphabet $\Sigma$. The automaton **accepts** the string $w$ if a sequence of states $r_0, \dots, r_n \in Q$ satisfying the following conditions
 	1. $r_0=q_0$
@@ -17,11 +17,11 @@
 
 ### Transducer
 * A **finite transducer** is a five tuple $(Q,\Sigma, \Gamma, \delta, q_0)$ consisting of: 
-* A finite set of states $Q$
-* An alphabet of input symbols $\Sigma$
-* An alphabet of output symbols $\Gamma$
-* A transition function $\delta: Q\times \Sigma \to Q\times \Gamma$
-* An initial state $q_0$.
+	* A finite set of states $Q$
+	* An alphabet of input symbols $\Sigma$
+	* An alphabet of output symbols $\Gamma$
+	* A transition function $\delta: Q\times \Sigma \to Q\times \Gamma$
+	* An initial state $q_0$.
 
 * The transducer behaves like a regular automaton, except after each transition, it outputs a symbol. (for the **Mealy variant**). It can be modified to a **Moore machine** if we have every output be on the state.
 
@@ -29,26 +29,37 @@
 
 ### Two-Way DFA
 * A **two-way DFA** is an $8$ tuple $(Q,\Sigma,L,R,\delta,s,t,r)$ where
-* $Q$ is the finite non-empty set of states.
-* $\Sigma$ is the alphabet.
-* $L$ is the left end marker
-* $R$ is the right end marker.
-* $\delta : Q\times (\Sigma \cup \{\text{L},\text{R}\})\to Q\times \{\text{left}, \text{right}\}$
-* $s$ is the start state.
-* $t$ is the accept state.
-* $r$ is the reject state.
-* $\forall q\in Q$ $$\begin{split} \delta(q,L)&=(q', \text{right}) &
+	* $Q$ is the finite non-empty set of states.
+	* $\Sigma$ is the alphabet.
+	* $L$ is the left end marker
+	* $R$ is the right end marker.
+	* $\delta : Q\times (\Sigma \cup \{\text{L},\text{R}\})\to Q\times \{\text{left}, \text{right}\}$
+	* $s$ is the start state.
+	* $t$ is the accept state.
+	* $r$ is the reject state.
+
+* $\forall q\in Q$ 
+  $$\begin{split} \delta(q,L)&=(q', \text{right}) &
   \text{ for some } q'\in Q \\
   
   \delta(q, R) &= (q',\text{left}) & \text{ for some } q'\in Q
-  \end{split} $$That is, a transition is possible when reaching either end of the input word. 
-* For all symbols $\sigma \in \Sigma \cup \{L\}$ $$\begin{split} \delta(t,\sigma)&=(t,R) \\ \delta(r,\sigma) &= (r,L) \\ \delta(t,R) &= (t,L) \\ \delta(r,R) &= (r,L) \end{split}$$That is, once the automaton reaches the accept or reject state, it stays there forever, and the pointer goes tot he right most pointer and cycles there infinitely.
+  \end{split} $$
+  That is, a transition is possible when reaching either end of the input word. 
+* For all symbols $\sigma \in \Sigma \cup \{L\}$ 
+  $$\begin{split} \delta(t,\sigma)&=(t,R) \\ \delta(r,\sigma) &= (r,L) \\ \delta(t,R) &= (t,L) \\ \delta(r,R) &= (r,L) \end{split}$$
+  That is, once the automaton reaches the accept or reject state, it stays there forever, and the pointer goes tot he right most pointer and cycles there infinitely.
 # Regular Languages
 * A **regular language** is a language that is recognized by a finite automaton $M$.
 * We may define **regular operations**
-	* A **union** is defined as $$A\cup B=\{w\mid w\in A \text{ or } w\in B\}$$
-	* A **concatenation** is defined as $$A\circ B = AB =  \{xy \mid  x\in A. y\in B\}$$
-	* A **star** operator is defined as $$A^\ast = \{x_1,\dots x_k\ \mid \text{each } x_i\in A \text{ for } k\ge 0\}$$
+	* A **union** is defined as 
+	  $$A\cup B=\{w\mid w\in A \text{ or } w\in B\}$$
+	  
+	* A **concatenation** is defined as 
+	  $$A\circ B = AB =  \{xy \mid  x\in A. y\in B\}$$
+	  
+	* A **star** operator is defined as 
+	  $$A^\ast = \{x_1,\dots x_k\ \mid \text{each } x_i\in A \text{ for } k\ge 0\}$$
+	  
 *  $R$ is a regular expression if $R$ is built from regular operations or symbols in the alphabet. That is, $R$ is: 
 	* $a\in \Sigma$
 	* $\lambda$
@@ -78,7 +89,9 @@
 ### NFA
 * A **deterministic** machine necessitates that the next state is exactly determined by the input symbol and previous states. Otherwise, the machine is **nondeterministic**.
 	* In an NFA, a state may have zero, one, or many exiting arrows. We also allow a transition with input symbol $\lambda$.
-	* Compared to a DFA, an NFA has a transition function defined by $$\delta:Q\times\Sigma_\lambda\to \mathcal{P}(Q)$$
+	* Compared to a DFA, an NFA has a transition function defined by
+	  $$\delta:Q\times\Sigma_\lambda\to \mathcal{P}(Q)$$
+	  
 * Every deterministic machine is nondeterministic.
 * *Sipser 1.39*: Every NFA has an equivalent DFA.
 
@@ -95,10 +108,15 @@
 	* Except for the start and accept states, One arrow goes from every state to every other state and also from each state to itself 
 
 * GNFAs are used to convert a DFA into a regular expression. This is done as follows:
-	* Let $G=(Q,\Sigma,\delta,q_s,q_a)$ be a GNFA
-	* Let $k=|Q|$ 
-	* If $k=2$, return the regular expression in the transition.
-	* If $k>2$, select $q_r\in Q$ that is not $q_a$ or $q_s$. Let $G'=(Q',\Sigma,\delta',q_s,q_a)$ be the GNFA where $$Q'=Q-\{q_r\}$$and for any non-accept state $q_i\in Q'-\{q_a\}$ and non-start state $q_j\in Q'-\{q_s\}$ we have that $$\delta'(q_i,q_j)=(R_1)(R_2)^\ast(R_3)\cup R_4$$Where $$\begin{equation}
+		Let $G=(Q,\Sigma,\delta,q_s,q_a)$ be a GNFA
+		Let $k=|Q|$ 
+		If $k=2$, return the regular expression in the transition.
+		If $k>2$, select $q_r\in Q$ that is not $q_a$ or $q_s$. Let $G'=(Q',\Sigma,\delta',q_s,q_a)$ be the GNFA where 
+	  $$Q'=Q-\{q_r\}$$
+	  and for any non-accept state $q_i\in Q'-\{q_a\}$ and non-start state $q_j\in Q'-\{q_s\}$ we have that 
+	  $$\delta'(q_i,q_j)=(R_1)(R_2)^\ast(R_3)\cup R_4$$
+	  Where 
+	  $$\begin{equation}
 	  \begin{split}
 	  R_1&=\delta(q_i,q_r) \\
 	  R_2&=\delta(q_r,q_r) \\
@@ -106,7 +124,8 @@
 	  R_4&=\delta(q_i,q_j)
 	  
 	  \end{split}
-	  \end{equation}$$ [^2]
+	  \end{equation}$$
+	   [^2]
 	* Repeat until $k=2$. 
 [^2]: The intuition is this: if we start at $q_i$ and end at $q_j$, either we can avoid passing through $q_r$ (expressed as $R_4$), or we do, in which case we have to:
 	go $q_i\to q_r$, described by $R_1$, 

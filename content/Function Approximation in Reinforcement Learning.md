@@ -6,9 +6,13 @@
 	* It also make RL extensible to **partially observable problems** where states are not fully visible to the agent.
 	* It cannot augment states with memories of past observations.
 # Prediction
-* Estimates and Update rules in Reinforcement learning can be formulated with the following formula (analogous to gradient descent): $$\text{New} = \text{Old} + \text{Step} \left[ \text{Target} - \text{Old} \right]$$We notate this with $\text{OLD}\mapsto \text{NEW}$ 
+* Estimates and Update rules in Reinforcement learning can be formulated with the following formula (analogous to gradient descent): 
+  $$\text{New} = \text{Old} + \text{Step} \left[ \text{Target} - \text{Old} \right]$$
+  We notate this with $\text{OLD}\mapsto \text{NEW}$ 
 
-* We represent the value function as a parameterized functional form with weight vector $w\in \mathbb{R}^d$. We denote $$\hat{v}(s,w)\approx v_\pi(s)$$ for the approximate function of state $s$ with weight vector $w$.
+* We represent the value function as a parameterized functional form with weight vector $w\in \mathbb{R}^d$. We denote 
+  $$\hat{v}(s,w)\approx v_\pi(s)$$
+   for the approximate function of state $s$ with weight vector $w$.
 	* Note, *assume we have more states than weights*. This assumption is founded on the fact *we have more states than actions*.
 * We specify a **state distribution** which specifies how much we care about errors in value estimates for state $s$. We denote this with $\mu(s)$. 
 	* We require this state distribution because state updates can affect other states. 
