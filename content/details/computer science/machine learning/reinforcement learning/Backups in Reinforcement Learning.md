@@ -43,6 +43,17 @@
 | [[Temporal Difference Learning#SARSA\|SARSA]] | Sample update on $q_\pi(s,a)$ | 
 | [[Temporal Difference Learning#Q-Learning\|Q-learning]] | Sample update on $q_\ast(s,a)$ |
 * When performing an expected update on a stochastic problem, it is recommended to use [[A Unified View on Planning and Learning#Prioritized Sweeping]].
+# Average Reward Bellman Equations
+* For the following, assume we are dealing with [[A Unified View on Reinforcement Learning Approaches#Average Reward Formulation|average reward context]]. *Notice; we just replaced all $r$ with $r-r(\pi)$. For the optimality equations, we replaced all discounting.*
+  
+  $$
+  \begin{split}
+  v_\pi(s)&=\sum_{a}\pi(a\mid s) \sum_{s',r}p(s',r\mid s,a)  \left[r-r(\pi) + \gamma v_\pi(s')\right] \\ 
+  q_\pi(s,a) &=  \sum_{s', r} p(s',r\mid s, a)\left[r - r(\pi) + \gamma \sum_{a'\in\mathcal{A}} \pi(a'\mid s') \ q_\pi(s',a')\right] \\
+  v_\ast(s)&= \max_{a} \sum_{s',r} p(s',r\mid s, a) \ \left [r - \max_\pi r(\pi) + v_\ast(s')\right] \\ 
+	q_\ast(s,a) &=  \sum_{s', r} p(s',r\mid s, a)\left[r -\max_\pi r(\pi)+ \  \max_{a'}q_\ast(s',a')\right]
+  \end{split}
+  $$
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]
 	* Ch. 3 - introduction of Bellman backups

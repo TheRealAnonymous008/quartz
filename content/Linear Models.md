@@ -1,3 +1,4 @@
+* We can think of linear models as operating on features, which are effectively **basis functions** that form a linear basis for a set appropriate functions.
 # Linear Regression
 ## Specifications
 * It is a model of the form 
@@ -94,6 +95,12 @@
   $$
 
 # Logistic Regression
+
+
+# Basis Functions
+### Polynomial Basis
+### Fourier Basis
+### Radial Basis Function
 
 # Links
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 7 - 9]]

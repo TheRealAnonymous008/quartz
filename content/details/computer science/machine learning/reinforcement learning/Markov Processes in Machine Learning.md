@@ -32,7 +32,7 @@
 
 * A **Markov Reward Process** is a Markov decision process without actions. 
 # Markov Decision Process Control
-* In an MDP, the existence of a discounted value function implies the existence of a deterministic optimal policy. The policy need not be unique. In addition to the polices defined [[The Setting for Reinforcement Learning#What are the Tasks and Goals in Reinforcement Learning?|here]], the following properties are observed:
+* In an MDP, the existence of a discounted value function implies the existence of a deterministic optimal policy. The policy need not be unique. In addition to the polices defined [[A Unified View on Reinforcement Learning Approaches|here]], the following properties are observed:
 	* The policy is deterministic.
 	* The policy is stationary (i.e., it does not depend on the time step. It is always applicable)
 * In an MDP, the actions that appear the best (with respect to an optimal policy) after searching for one step are indeed the best. 

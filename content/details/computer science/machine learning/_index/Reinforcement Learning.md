@@ -4,6 +4,7 @@
 * [[A Unified View on Reinforcement Learning Approaches]] - a broad overview on RL methods.
 * [[The Exploitation-Exploration Trade-Off]] - a trade-off central to RL.
 * [[Markov Processes in Machine Learning]] - perhaps the most common way to frame a reinforcement learning task. See also MDP Control for how optimal policies behave.
+* [[Backups in Reinforcement Learning]] - more on Bellman Equations
 * [[Dynamic Programming for Reinforcement Learning]] - for Dynamic Programming based methods on handling RL tasks.
 * [[Monte Carlo Methods in Reinforcement Learning]] - for methods based on partial information about the environment.
 * [[Temporal Difference Learning]] - for methods that combine DP (bootstrapping) and Monte Carlo (by learning from the environment)

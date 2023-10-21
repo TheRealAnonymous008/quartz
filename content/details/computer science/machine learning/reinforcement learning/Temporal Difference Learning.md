@@ -13,7 +13,8 @@
   $$
   V(S_t)\gets V(S_t) +\alpha [R_{t+1} +\gamma V(S_{t+1}) - V(S_t)]
   $$
-  
+
+## TD-errors
 * The target for updating is $R_\Sigma$ (i.e., the estimated discounted value when the agent takes $n$ steps from the current state).
 	* $R_\Sigma$ is the **target estimate**. In TD-0 this is given as 
 	  $$
@@ -33,6 +34,17 @@
   $$
   
 	* This identity is not exact if $V$ is updated during the episode, but if the step size is small then it may still hold approximately.
+
+* In an [[A Unified View on Reinforcement Learning Approaches#Average Reward Formulation|average reward context]] we have the TD-errors as 
+  
+  $$
+  \begin{split}
+  \delta_t&=R_{t+1}-r(\pi) + V(S_{t+1}) - V(S_t) \\
+  &= R_{t+1} -r(\pi) +Q(S_{t+1}, A_{t+1}) - Q(S_t,A_t)
+  \end{split}
+  $$
+  
+* Note we can replace everything in the TD-error formulae with estimates. 
 # TD Control
 ### SARSA
 * Stands for $(S_t, A_t, R_{t+1}, S_{t+1}, A_{t+1})$. 
@@ -231,7 +243,7 @@
 * [[Dynamic Programming for Reinforcement Learning]] - for more on Dynamic Programming in RL
 * [[Monte Carlo Methods in Reinforcement Learning]] - for  more on Monte Carlo in RL
 
-* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 6-7]]
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 6-7,10]]
 	* 6.4 - SARSA
 	* 6.5 - Q learning
 	* 6.6 - Expected SARSA
@@ -241,4 +253,5 @@
 	* 7.4 - Control Variates
 	* 7.5 - Tree Backup
 	* 7.6 - $Q(\sigma)$. 
+	* 10.3 - Average reward TD error.
 * [Q-Learning: Model Free Reinforcement Learning and Temporal Difference Learning](https://www.youtube.com/watch?v=0iqz4tcKN58) - supplementary material for Q-learning

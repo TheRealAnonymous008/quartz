@@ -5,6 +5,8 @@
 		* Nonstationarity comes in either because the environment is non-stationary or because of [[Dynamic Programming for Reinforcement Learning|bootstrapping]] which makes our estimates change.
 	* It also make RL extensible to **partially observable problems** where states are not fully visible to the agent.
 	* It cannot augment states with memories of past observations.
+
+* A tradeoff with functional approximation is we can no longer use the policy improvement theorem.
 # Prediction
 * Estimates and Update rules in Reinforcement learning can be formulated with the following formula (analogous to gradient descent): 
   $$
@@ -18,6 +20,12 @@
   $$
    for the approximate function of state $s$ with weight vector $w$.
 	* Note, *assume we have more states than weights*. This assumption is founded on the fact *we have more states than actions*.
+* We may do something similar for the action value function. That is 
+  
+  $$
+  \hat{q}(s,a,w) =\approx q_\pi(s,a)
+  $$
+  
 * We specify a **state distribution** which specifies how much we care about errors in value estimates for state $s$. We denote this with $\mu(s)$. 
 	* We require this state distribution because state updates can affect other states. 
 	* Making one state accurate makes the estimations for other states inaccurate.

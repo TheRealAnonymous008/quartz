@@ -32,10 +32,77 @@
 	* Off-policy is analogous to *learning by imitation*.
 
 * On-policy learning is the general case of off-policy learning where the target and behavior policies are exactly the same.
+
+# Tasks and Goals
+* *The goal of Reinforcement Learning is to maximize the expected return by changing the agent's policy*. 
+
+* The **return** is quantified as *a function of the reward* that the agent receives. *It is a measure of the cumulative performance of the agent on a particular task* 
+	* In **episodic tasks** the agent receives rewards in series before eventually the environment is reset to its starting state. One run is called an **episode**. The length of an episode is called its **horizon**.
+	* In **continuous tasks** the agent continually receives rewards and there is no reverting back to an original state. 
+
+## Discounted Formulation
+* The expected return makes use of a **discount** such that future rewards are worth less than current rewards. 
+* The value function that is being optimized, is the expected return (under a policy $\pi$)
+	* A **state-value function** is one that quantifies the expected return given the agent started at a particular state. This is also called the **V-function** (denoted with $v(s)$ or $V(s)$).
+	* An **state-action-value function** is one that quantifies the expected return given the agent started at a particular action and state. This is also called the **Q-function**  (denoted $q(s,a)$ or $Q(s,a)$)
+		* With respect to a policy, the value at an action assumes that all future actions taken will be optimal.
+	* We have the following for policy $\pi$
+	  $$
+	  \begin{split}
+	  v_\pi(s) &= E_\pi[G_t\mid S_t=s] \\ 
+	  q_\pi(s,a) &= E_\pi(G_t\mid S_t=s, A_t=a)
+	  \end{split}
+	  $$
+	  
+
+* *For episodic tasks, the calculation will terminate with an absorbing state which will continuously just give a reward of $0$. 
+* Thus, the **discounted return** $G_t$ with discount rate $\gamma$ is calculated as
+  $$
+  G_t=\sum_{k=0}^{\infty}\gamma^k R_{t+k+1}= R_{t+1}+\gamma G_{t+1}
+  $$
+  
+	* For episodic tasks, we simply set all rewards after the episode end $T$ as $0$.
+## Average Reward Formulation
+* Applies to continuing problems. However, there is no discounting. 
+* The quality of a policy is defined as the average rate of reward (i.e **average reward**) which is given as $r(\pi)$ 
+  
+  $$
+  \begin{split}
+  r(\pi)  &= \lim_{h\to \infty} \frac{1}{h} \sum_{k=1}^h E[R_t\mid S_0,A_{0:t-1}\sim \pi] \\
+  
+  &= \lim_{t\to \infty} E[R_t \mid S_0,A_{0:t-1} \sim \pi] \\ 
+  
+  &= \sum_{s}\mu_\pi(s) \ \sum_{a}\pi(a\mid s) \sum_{s',r} p(s',r\mid s.a) \ r
+  \end{split}
+  $$
+  
+  Where
+  
+  $S_0$ denotes the initial state
+  
+  $A_{0:t-1}$ denotes the sequence $A_0,A_1,\dots,A_{t-1}$. 
+  $\mu_\pi(s)$ is the steady-state distribution given by 
+  
+  $$
+  \mu_\pi(s)=\lim_{t\to\infty} P(S_t=s\mid A_{0:t-1}\sim\pi)
+  $$
+  
+  independent of $S_0$ (i.e., the [[Markov Processes in Machine Learning|Markov Process]] is ergodic).
+  
+  * The **steady-state distribution** is the special distribution $\mu_\pi$ under which selecting actions according to $\pi$ means we remain in the same distribution 
+    
+    $$
+    \sum_{s}\mu_\pi(s) \sum_a \pi(a\mid s) \ p(s'\mid s, a) = \mu_\pi(s)
+    $$
+
+* Returns are defined in terms of differences between rewards and average reward. This is called the **differential return** 
+  
+  $$
+  G_t = R_{t+1}-r(\pi) + R_{t+2}-r(\pi) + \dots
+  $$
+* The corresponding value functions are known as **differential value functions**, which we still denote $v_\pi$ and $q_\pi$. 
+	* *Notation*: We will be explicit when we are dealing with differential value functions, but by default assume we aren't in a average reward value function context
 # Other Dimensions
-* **Returns**: Are [[The Setting for Reinforcement Learning#Tasks and Goals|tasks]]:
-	* Continuing / Episodic
-	* Discounted / Undiscounted.
 * **Value Estimated**: Which do we estimate?
 	* Action values
 	* State values
@@ -60,4 +127,5 @@
 * Use of [[Function Approximation in Reinforcement Learning|function approximation]].
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 8.13]]
+	* 10.3 - on Average Reward Formulation
 * [[Backups in Reinforcement Learning]] - more on sample and expected updates.
