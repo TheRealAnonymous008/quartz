@@ -1,14 +1,49 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-article > p > strong,
-p > strong, 
-strong {
-    color: #C61746
-  }
 
-article > p > em,
-p > em, 
-em { 
-    color: #44D8BB
+.page {
+  & article {
+    p, li {
+      font-size: 1.25rem;
+      margin-top: 0.625rem;
+      margin-bottom: 0.625rem;
+    }
+
+    p,li {
+      & > strong {
+        color: #C61746
+      }
+      
+      & > em { 
+          color: #44D8BB
+      }
+    }
+  }
+}
+
+h1 {
+  font-size: 2.0rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+}
+
+h2 {
+  font-size: 1.85rem;
+  margin-top: 2.15rem;
+  margin-bottom: 1.25rem;
+}
+
+h3 {
+  font-size: 1.62rem;
+  margin-top: 1.87rem;
+  margin-bottom: 1.25rem;
+}
+
+h4,
+h5,
+h6 {
+  font-size: 1.51rem;
+  margin-top: 1.75rem;
+  margin-bottom: 1.25rem;
 }
