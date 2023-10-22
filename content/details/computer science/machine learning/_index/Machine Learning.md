@@ -9,8 +9,6 @@
 * [Silicon-based Photonics is a promising future for running large AI models in a more efficient way]((https://www.youtube.com/watch?v=t0yj4hBDUsc)
 
 * [As of June 2023, the development of LLMs has felt stifled due to alignment concerns. In my opinion that shouldn't be the case considering we are limiting the potential advancement of ML towards AGI](https://www.youtube.com/watch?v=WbruLepPZyU)
-
-
 # Topics
 * [[Low Level of Training a Model]]
 * [[Multimodal Models]]

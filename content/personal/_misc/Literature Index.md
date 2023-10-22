@@ -3,10 +3,10 @@
 * [[Moby Dick]]
 * [[The Stranger]]
 
-# NonFictionon
+# Non-Fiction
 * [[The 48 Laws of Power]]
 * [[Meditations]]
-* [[Paul Graham's Essays]]
+* [[Paul Graham Essays]]
 * [[The Art of War]]
 
 # Links

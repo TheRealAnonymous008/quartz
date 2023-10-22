@@ -34,5 +34,6 @@
 
 # Topics
 * [[On Policy Prediction and Control with Approximation ]]
+* [[Off Policy Prediction and Control with Approximation]]
 # Links
 * [[Reinforcement Learning]]
