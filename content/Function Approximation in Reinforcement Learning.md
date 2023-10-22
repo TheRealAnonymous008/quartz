@@ -1,5 +1,5 @@
 * *Rationale*: We often have memory constraints that do not allow us to explore large state spaces. Hence we sample from a small state space.
-	* However, we need a way to make decisions on unsampled states using those that we have sampled. This is done via **function approximation
+	* However, we need a way to make decisions on unsampled states using those that we have sampled. This is done via **function approximation**
 	* This is, in fact, [[Supervised Learning]]. It makes changes generalizable but controlling them more complex.
 		* *It should be noted, that we must make use of models that can handle non-stationarity.*
 		* Nonstationarity comes in either because the environment is non-stationary or because of [[Dynamic Programming for Reinforcement Learning|bootstrapping]] which makes our estimates change.

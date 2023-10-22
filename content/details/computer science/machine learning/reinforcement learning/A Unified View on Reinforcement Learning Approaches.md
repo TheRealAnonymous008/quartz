@@ -113,7 +113,7 @@
 	* How do we address [[The Exploitation-Exploration Trade-Off]]
 * **Synchronous / [[Dynamic Programming for Reinforcement Learning#Optimizing DP|Asynchronous]]**: 
 	* **Synchronous** - all updates are performed one by one in order.
-	* **Asynchronous*** - updates are performed simultaneously, using whatever approximations are appropriate.
+	* **Asynchronous** - updates are performed simultaneously, using whatever approximations are appropriate.
 * **Real / Simualted** - do we backup on [[A Unified View on Planning and Learning#Definition of Terms|Real or Simulated Experience]] and to what extent
 * **Location of Updates** - what should be updated? 
 	* For Model-free - we choose only among those states / state-action pairs encountered.
