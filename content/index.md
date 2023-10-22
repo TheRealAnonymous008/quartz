@@ -13,7 +13,7 @@ If you see any formatting errors, please let me know. (Dataview tables are like 
 * [[Software Tools]]
 * [[Words]]
 
-* [[__Skill Tree__]]
+* [Skill Tree](https://whimsical.com/ontology-tree-Q29jMHUucE2kwACJfxrp1n)
 
 # Knowledge
 ## Computer Science
