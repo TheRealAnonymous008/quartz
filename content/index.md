@@ -1,21 +1,12 @@
 ---
 title: The Library
 ---
-The purpose of this Library is to archive and share my Second Brain to others.
+The purpose of this Library is to archive and share my Second Brain to others. These notes were primarily written *for me*, but I figured that others can use these notes as well. [^1]
 
-If you see any formatting errors, please let me know. (Dataview tables are like that. I am awaiting a new push from quartz.)
-# Personal Section
-* [[Beliefs and General Principles]]
-* [[Update Logs]]
-* [[Exploration Garden]]
-* [[Interesting People]]
-* [[Literature Index]]
-* [[Software Tools]]
-* [[Words]]
+[^1]: If you see any formatting errors, please let me know. (Dataview tables are like that. I am awaiting a new push from quartz.)
+# Knowledge Index
+A broad listing of all the topics that I have made notes on. You can find more about the topics that I have deep dived on in this comprehensive [Skill Tree](https://whimsical.com/ontology-tree-Q29jMHUucE2kwACJfxrp1n). 
 
-* [Skill Tree](https://whimsical.com/ontology-tree-Q29jMHUucE2kwACJfxrp1n)
-
-# Knowledge
 ## Computer Science
 * [[Computer Graphics]]
 * [[Computer Organization]]
@@ -52,3 +43,18 @@ If you see any formatting errors, please let me know. (Dataview tables are like 
 
 ## [[Psychology]]
 * [[Human Biases]]
+
+# Personal Section
+A listing of personal thoughts and insights.
+
+* [[Beliefs and General Principles]]
+* [[Interesting People]]
+* [[Literature Index]]
+* [[Software Tools]]
+* [[Words]]
+
+# Miscellaneous 
+A listing of miscellaneous things in the Library.
+
+* [[Exploration Garden]] - some topics I may get to in the future.
+* [[Update Logs]] - Not yet functional, but serves as a listing of recently updated notes.
