@@ -1,11 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+article > p > strong,
 p > strong, 
 strong {
     color: #C61746
   }
 
+article > p > em,
 p > em, 
 em { 
     color: #44D8BB
