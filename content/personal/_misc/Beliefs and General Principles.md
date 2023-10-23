@@ -42,6 +42,18 @@ Without Power, You are Nothing.
 * *In learning, Understand the Definitions*. It is important to know exactly what is being referred to before understanding how they interact. It lets one communicate in the language of the experts; a more precise language.
 
 * [Motivation decreases as you talk about what it is you're trying to do. In general this translates to using the language as a substitute for action. If you have the urge to talk about it, channel that urge to action. If you talk about it reinternalize it](https://www.youtube.com/watch?v=uDDeves6Crs)
+
+# Machine Learning
+* It is interesting how most of the advances in Machine Learning try to copy the advances in [[Biology]] NNs simulate real biological networks; RNNs via LSTMs try to simulate our ability to remember; and Attention Mechanisms simulate our ability to focus on certain things. Even the manner of learning mimics real life.  This  leads to the conjecture that *The next advancements in AI as a whole will likely necessitate understanding and simulating our cognitive and human aspects*
+
+* As of writing (2023), this field has been rapidly growing. While there are ways for it to be used poorly, it can also finally bring about a better society overall--a change in values and way of thinking; more convenience, and more time for people to pursue their passions for their own sake, while letting machines do the rest. 
+
+* Automated Theorem Proving and [[Machine Learning and Mathematical Reasoning|Mathematical Reasoning]] is very interesting. Maybe we'll have an ML model that will be as good as a mathematician.
+
+* [Silicon-based Photonics is a promising future for running large AI models in a more efficient way]((https://www.youtube.com/watch?v=t0yj4hBDUsc)
+
+* [As of June 2023, the development of LLMs has felt stifled due to alignment concerns. In my opinion that shouldn't be the case considering we are limiting the potential advancement of ML towards AGI](https://www.youtube.com/watch?v=WbruLepPZyU)
+
 # Others
 * [Boredom is good for ideation](https://www.youtube.com/watch?v=aEU948cm2k8). In fact, [[Information Hazards#Distraction and Temptation Hazards|overstimulation can be considered a hazard]]
 
