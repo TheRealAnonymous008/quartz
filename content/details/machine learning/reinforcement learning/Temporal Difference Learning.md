@@ -169,13 +169,7 @@
 * If $s$ is a terminal state, then the expected approximate value is defined as $0$.
 
 ### $n$-step Off-Policy Learning
-* We extend [[Monte Carlo Methods in Reinforcement Learning#Importance Sampling|importance sampling]] to apply to $n$-step returns by using the following importance sampling ratio
-  $$
-  \rho_{t+h}=\prod_{k=t}^{\min(h,T-1)} \frac{\pi(A_k\mid S_k)}{\beta(A_t\mid S_t)}
-  $$
-  Where $\beta$ is the behavior function.
-	* When an action would never be taken by the policy $\pi$, we no longer explore it.
-	* When an action has $\pi>\beta$, it is characteristic of $\pi$ but is rarely explored. To compensate for the rare exploration, we give it higher weight (which is consistent with the importance sampling ratio's properties).
+* We make use of the [[Importance Sampling#N-step Returns|importance sampling ratio for n-step returns]] $\rho$.
 * The update rule then becomes weighted with $\rho$ as follows 
   $$
   V_{t+n}(S_t)=V_{t+n-1}(S_t)+\alpha \rho_{t:t+n-1}\left[ G_{t:t+n} -V_{t+n-1}(S_t)\right]
@@ -249,7 +243,6 @@
 	* 6.6 - Expected SARSA
 	* 6.7 - Double Learning
 	* 7.2 - n-step SARSA
-	* 7.3 - Importance Sampling for n-step Off-policy Learning.
 	* 7.4 - Control Variates
 	* 7.5 - Tree Backup
 	* 7.6 - $Q(\sigma)$. 

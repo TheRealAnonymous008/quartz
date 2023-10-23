@@ -30,8 +30,11 @@
 		  $$
 		* **Soft Policy Assumption**: $\mu$ is a soft policy where all actions from all states may be taken. 
 	* Off-policy is analogous to *learning by imitation*.
+	* *It allows the agent to learn from multiple sources in parallel*. By having many target policies that learn correspond to different things.
 
 * On-policy learning is the general case of off-policy learning where the target and behavior policies are exactly the same.
+
+* One disadvantage of this is *high variance* since we learn based on data that is cloesly related to the target.
 
 # Tasks and Goals
 * *The goal of Reinforcement Learning is to maximize the expected return by changing the agent's policy*. 

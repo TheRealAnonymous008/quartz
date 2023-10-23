@@ -23,6 +23,12 @@ A broad listing of all the topics that I have made notes on. You can find more a
 </div>
 
 <div class="custom-index-card">
+	<a href="/details/humanities/languages">Linguistics</a>
+	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
+	<div class="custom-index-title"><span>L</span><span>Linguistics</span></div>
+</div>
+
+<div class="custom-index-card">
 	<a href="/details/machine-learning">Machine Learning</a>
 	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
 	<div class="custom-index-title"><span>M</span><span>Machine Learning</span></div>

@@ -31,9 +31,74 @@
 	* Making one state accurate makes the estimations for other states inaccurate.
 	* We often choose $\mu(s)$ to be the fraction of time spent on $s$.
 
+# Objective
+* The objective function is called the **mean square value error (MSVE)** defined as 
+  $$
+  \overline{VE} = \sum_{s\in S}\mu(s) \left[v_\pi(s)-\hat{v}(s,w)\right]^2
+  $$
+  
+	* Note *minimizing MSVE does not necessarily give optimal policies* . Our goal is always to find the best policy, not the best value function.
+* We can generalize the notion of comparing policies with the following norm 
+  
+  $$
+  ||v||^2_\mu= \sum_{s\in S}\mu(s) \ v(s)^2
+  $$
+  
+* A geometric way to view things is where value functions are functions parameterized with weight vector $w$. *Different approaches implicitly make use of different characterizations for the solution*.
+	* In a geometric view, [[Monte Carlo Methods in Reinforcement Learning|Monte Carlo]]'s solution is found by using projections towards the closest policy (as defined below using projection matrix $\Pi$. 
+	  
+	  $$
+	  \Pi v = v_w \text{   where } w =\underset{w\in\mathbb{R}^d}{\text{argmin}}  \ ||v-v_w||^2_\mu
+	  $$
 
+	* An alternative is the **Bellman Error** obtained by substituting $v_w$ for $v_\pi$ in the [[Backups in Reinforcement Learning|Bellman equations]] and computing the difference 
+	  
+	  $$
+	  \delta_{w}(s) = E_\pi[R_{t+1} +\gamma v_w(S_{t+1}) - v_w(S_t) \mid S_t=s, A_t\sim \pi]
+	  $$
+	  
+	  Aka, *it is the expected [[Temporal Difference Learning|TD]]-error*.
+	  
+	* The vector of all Bellman errors at all states is the  **Bellman error vector**. It can be seen as a result of applying the Bellman operator to the approximate value function so that 
+	  
+	  $$
+	  \delta_w(s) = B_\pi v_w - v_w
+	  $$
+	  
+	* The norm of the Bellman Error vector can be used as a measure of error called the **Mean square Bellman error**
+	  
+	  $$
+	  \overline{\text{BE}}(w) = ||\delta_w||^2_\mu
+	  $$
+
+	* In an approximation context, we only deal with representable value functions. Those that cannot be represented are instead projected onto the subspace. The **mean square projected Bellman error** measures this
+	  
+	  $$
+	  \overline{\text{PBE}}(w) = || \Pi \delta_w||^2_\mu
+	  $$
+
+	* The **mean square return error** is the expectation, under $\mu$ of the square of the error between value estimate and return.
+	  
+	  $$
+	  \begin{split}
+	  \overline{\text{RE}}(w) &= E\left[(G_t-\hat{v}(S_t,w))^2\right] \\ 
+	  &= \overline{\text{VE}}(w) + E\left[(G_t-v_\pi(S_t))^2\right]
+	  \end{split}
+	  $$
+
+### Learnability
+* A value function is **learnable** if given any amount of experience, we converge to the optimal / true value function. 
+* 
+* *The Bellman Error is not learnable* unless we have access to the underlying model itself.
+* *The VE objective is not learnable* -  given two MDPs that give the same streams of experience, we cannot distinguish between them from the experience stream alone.
+	* *Still, the parameter that optimizes VE is learnable*.  This follows from using the mean square return error. Observe how RE is just VE but with a variance term independent of $w$.
+* *PBE and TDE are determined from data and are learnable*.  However, note they have different minima.
 # Topics
 * [[On Policy Prediction and Control with Approximation ]]
 * [[Off Policy Prediction and Control with Approximation]]
 # Links
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]
+	* 9.1 - 9.2 - the objectives of function approximation
+	* 11.4 - more on the geometry of the value function.
+	* 11.6 - why the Bellman Error is not learnable.
 * [[Reinforcement Learning]]

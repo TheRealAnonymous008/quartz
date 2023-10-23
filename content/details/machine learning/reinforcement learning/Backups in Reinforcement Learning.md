@@ -31,6 +31,12 @@
 * **Sample backups** are cheaper computationally, but at the cost of having sampling errors (i.e., they are inaccurate). For a given state, they backup based on a sample of the successor states.
 	* These are what we use for [[Temporal Difference Learning]] approaches.
 
+* The **Bellman operator** applies to a value function $v$ and is defined as 
+  
+  $$
+  (B_\pi v)(s) = \sum_a\pi(a\mid s) \sum_{s',r} p(s',r\mid s,a)\left[r + \gamma v(s')\right]
+  $$
+  
 # Typology of Updates
 | Approach | Description | 
 | --- | --- | 

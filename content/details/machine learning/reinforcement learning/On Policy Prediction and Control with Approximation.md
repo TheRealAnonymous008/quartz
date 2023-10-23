@@ -11,13 +11,6 @@
 	  $$
 	  \mu(s)=\frac{\eta(s)}{\sum_{s'} \eta(s')}
 	  $$
-	  
-* The objective function for On-Policy prediction is called the **mean square value error (MSVE)** defined as 
-  $$
-  \overline{VE} = \sum_{s\in S}\mu(s) \left[v_\pi(s)-\hat{v}(s,w)\right]^2
-  $$
-  
-	* Note *minimizing MSVE does not necessarily give optimal policies* .
 # Policy Prediction
 * Assume that states appear in distribution $\mu$.
 ### Gradient Descent
@@ -193,4 +186,5 @@
 	* 10.1 - Episodic Semi-Gradient SARSA
 * [Tile-Coding: An Efficient Sparse-Coding Method for Real-Valued Data](https://medium.com/criteo-engineering/tile-coding-an-efficient-sparse-coding-method-for-real-valued-data-e787eddf630a) 
 
+* [[A Unified View on Reinforcement Learning Approaches]] - more on On-Policy learning
 * [[Linear Models]] - more on basic supervised learning models.

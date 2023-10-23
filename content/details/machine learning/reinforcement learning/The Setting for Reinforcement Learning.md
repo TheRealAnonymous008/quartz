@@ -29,4 +29,3 @@
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 1 , 3 - 3.4]] - an introduction to Reinforcement Learning
 * [[A Unified View on Reinforcement Learning Approaches]] - more on approaches to RL
-* [[Monte Carlo Methods in Reinforcement Learning]] - for more on Off-Policy methods which make use of importance sampling.
