@@ -13,6 +13,7 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 * *For future*: Personal notes are my own thoughts and syntheses of certain topics. Feel free to ignore these.
 * Notes are organized in a directory structure corresponding to their broad categories. This is a fluid structure that is subject to change. Nevertheless, the search tool exists for a reason.
 
+* Have an issue? Place one [here](https://github.com/TheRealAnonymous008/library-questions/issues)
 # Knowledge Index
 A broad listing of all the topics that I have made notes on. You can find more about the topics that I have deep dived on in this comprehensive [Skill Tree](https://whimsical.com/ontology-tree-Q29jMHUucE2kwACJfxrp1n) or on the explorer on the left. [^2]
 
@@ -89,5 +90,3 @@ A listing of miscellaneous things in the Library.
 
 * [[Exploration Garden]] - some topics I may get to in the future.
 * [[Update Logs]] - Not yet functional, but serves as a listing of recently updated notes.
-
-

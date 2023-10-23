@@ -18,7 +18,7 @@ export default (() => {
     return (
       <head>
         <title>{title}</title>
-        <meta name="google-site-verification" content="jquULs5cZt8Y8yIbA0lkfxPl2S74-11v3-u1CUlievY" />
+        <meta name="google-site-verification" content="dzmgMVwufVfrD69AVtcj6MNR-kIYTWAOai4UDA3GwlI" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={title} />
