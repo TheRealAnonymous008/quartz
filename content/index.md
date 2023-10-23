@@ -5,10 +5,18 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 
 [^1]: If you see any formatting errors, please let me know. (Dataview tables are like that. I am awaiting a new push from quartz.)
 # Knowledge Index
-A broad listing of all the topics that I have made notes on. You can find more about the topics that I have deep dived on in this comprehensive [Skill Tree](https://whimsical.com/ontology-tree-Q29jMHUucE2kwACJfxrp1n) or on the explorer on the left.
+A broad listing of all the topics that I have made notes on. You can find more about the topics that I have deep dived on in this comprehensive [Skill Tree](https://whimsical.com/ontology-tree-Q29jMHUucE2kwACJfxrp1n) or on the explorer on the left. [^2]
+
+[^2]: Styles based on how the [ABCs of Death Anthology](https://scp-wiki.wikidot.com/scp-anthology-hub) were laid out.
 
 <div class="custom-index-container">
 
+    <div class="custom-index-card">
+	    <a href="/details/computer-science">Computer Science</a>
+        <img src=""  class="image">
+        <div class="custom-index-title"><span>C</span><span>Computer Science</span></div>
+    </div>
+    
     <div class="custom-index-card">
 	    <a href="/details/creativity/game-design">Game Design</a>
         <img src=""  class="image">
@@ -27,49 +35,31 @@ A broad listing of all the topics that I have made notes on. You can find more a
         <div class="custom-index-title"><span>M</span><span>Mathematics</span></div>
     </div>
 
+       <div class="custom-index-card">
+	    <a href="/natural-sciences">Natural Science</a>
+        <img src=""  class="image">
+        <div class="custom-index-title"><span>N</span><span>Natural Sciences</span></div>
+    </div>
+
     <div class="custom-index-card">
 	    <a href="/creativity/writing">Narrative</a>
         <img src=""  class="image">
         <div class="custom-index-title"><span>N</span><span>Narrative</span></div>
     </div>
+
+    <div class="custom-index-card">
+	    <a href="/philosophy">Philosophy</a>
+        <img src=""  class="image">
+        <div class="custom-index-title"><span>φ</span><span>Philosophy</span></div>
+    </div>
+
+    <div class="custom-index-card">
+	    <a href="/psychology">Psychology </a>
+        <img src=""  class="image">
+        <div class="custom-index-title"><span>Ψ</span><span>Psychology</span></div>
+    </div>
 </div>
 
-## Computer Science
-* [[Computer Graphics]]
-* [[Computer Organization]]
-	* [[Operating Systems]]
-* [[Machine Learning]]
-	* [[Computer Vision]]
-	* [[Natural Language Processing]]
-	* [[Reinforcement Learning]]
-	* [[Unsupervised Learning]]
-* [[Theory of Computation]]
-
-## Creativity
-* [[details/creativity/_index/Drawing|Drawing]]
-* [[Game Design]]
-* [[Writing]]
-
-## Humanities
-* [[Linguistics]]
-* [[Philosophy]]
-* [[Religion and Mysticism]]
-* [[Warfare]]
-
-## Natural Science and Technology
-* [[Engineering]]
-* [[Science]]
-	* [[Biology]]
-	* [[Geography]]
-
-## [[Mathematics]]
-* [[Calculus]]
-* [[Group Theory]]
-* [[Linear Algebra]]
-* [[Probability and Statistics]]
-
-## [[Psychology]]
-* [[Human Biases]]
 
 # Personal Section
 A listing of personal thoughts and insights.
