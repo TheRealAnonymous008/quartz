@@ -48,6 +48,7 @@
 * *Break the rules* when needed, especially to stand out. Take bold, but calculated, risks [^9]
 * *The whole is greater than the sum of its parts*. A piece is viewed as a whole, not just as a mish-mash of disjointed parts. A piece is viewed as part of the wider whole (its cultural context).
 * *Respect the audience's time and intelligence* lest the creative work comes off as pretentious or dull.
+* [[The Cult of Done Manifesto|Get Things Done]]
 
 
 [^1]: [[details/creativity/design/DOET/Design Thinking]]

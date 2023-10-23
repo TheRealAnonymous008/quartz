@@ -64,3 +64,5 @@ Without Power, You are Nothing.
 * [People who tell you what to do in a bad, unempathetic way are doing it for an ego boost. People who tell you what to do in an understanding and subtler way are much more convincing and persuasive. People tend to like those that are perceived as unselfish](https://www.youtube.com/watch?v=vB9wQt_l62w)
 
 * [[Realizations to Avoid Fallacious Thinking|Be wary of your own biases and lines of reasoning]].
+
+* [[The Cult of Done Manifesto|Get things done]].

@@ -30,9 +30,13 @@
 	* If a game simply isn't fun to play, it is often the core mechanic that is the problem.
 	* We may design the core mechanic by [[Creativity|breaking the rules]] or by taking inspiration from other core mechanics and varying them.
 	* Remember, the core mechanic should facilitate meaningful play.
-* *Game designers create activities for players* . Ask yourself what the palyer is actually doing when playing the game.
+* *Game designers create activities for players* . Ask yourself what the player is actually doing when playing the game.
 
 ### Play of Pleasure
+* *A game is a space in which a player's emotions and sense of desire undergoes manipulation and coercion*. 
+	* This means translating the formal rules into an engaging experience of play.
+	* Players accept rules not to restrict pleasure but to maximize them.
+
 ### Play of Meaning
 ### [[Story Writing|Narrative]] Play
 ### Play of Simulation
