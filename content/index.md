@@ -30,31 +30,31 @@ A broad listing of all the topics that I have made notes on. You can find more a
     </div>
 
     <div class="custom-index-card">
-	    <a href="/mathematics">Mathematics</a>
+	    <a href="/details/mathematics">Mathematics</a>
         <img src=""  class="image">
         <div class="custom-index-title"><span>M</span><span>Mathematics</span></div>
     </div>
 
        <div class="custom-index-card">
-	    <a href="/natural-sciences">Natural Science</a>
+	    <a href="/details/natural-sciences">Natural Science</a>
         <img src=""  class="image">
         <div class="custom-index-title"><span>N</span><span>Natural Sciences</span></div>
     </div>
 
     <div class="custom-index-card">
-	    <a href="/creativity/writing">Narrative</a>
+	    <a href="/details/creativity/writing">Narrative</a>
         <img src=""  class="image">
         <div class="custom-index-title"><span>N</span><span>Narrative</span></div>
     </div>
 
     <div class="custom-index-card">
-	    <a href="/philosophy">Philosophy</a>
+	    <a href="/details/philosophy">Philosophy</a>
         <img src=""  class="image">
         <div class="custom-index-title"><span>φ</span><span>Philosophy</span></div>
     </div>
 
     <div class="custom-index-card">
-	    <a href="/psychology">Psychology </a>
+	    <a href="/details/psychology">Psychology </a>
         <img src=""  class="image">
         <div class="custom-index-title"><span>Ψ</span><span>Psychology</span></div>
     </div>
