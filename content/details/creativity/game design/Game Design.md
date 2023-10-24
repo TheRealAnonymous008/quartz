@@ -6,6 +6,7 @@
 
 * [For interactive games, design the player characters not based on what they can do, but how they will be used](https://www.youtube.com/watch?v=7EpgjR-k3fE)
 
+* Design for player experience not realism. 
 # Topics
 * [[The Fundamentals of Game Design]]
 * [[Level Design Principles]]

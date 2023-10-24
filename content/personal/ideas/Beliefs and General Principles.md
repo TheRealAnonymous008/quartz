@@ -55,7 +55,6 @@ Without Power, You are Nothing.
 * [As of June 2023, the development of LLMs has felt stifled due to alignment concerns. In my opinion that shouldn't be the case considering we are limiting the potential advancement of ML towards AGI](https://www.youtube.com/watch?v=WbruLepPZyU)
 
 # Others
-* [Boredom is good for ideation](https://www.youtube.com/watch?v=aEU948cm2k8). In fact, [[Information Hazards#Distraction and Temptation Hazards|overstimulation can be considered a hazard]]
 
 * [Happiness is a byproduct of living well](https://www.youtube.com/watch?v=9nVL9nSix1A
 

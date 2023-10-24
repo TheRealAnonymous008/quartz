@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "the_library.xyz",
+    baseUrl: "library-sigma-mauve.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian", "__Gate__.md"],
     defaultDateType: "created",
     theme: {

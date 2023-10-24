@@ -6,7 +6,7 @@
 * [Consider the Style Sketchbook -- Write on a single topic but in different styles to refine your style](https://www.youtube.com/watch?v=tnmZmpopv6w)
 # Topics
 * [[Technical Writing Mistakes]]
-* [[Story Writing]]
+* [[Narrative]]
 # Links
 * [[Reading]] - study how to write by studying how to read
 

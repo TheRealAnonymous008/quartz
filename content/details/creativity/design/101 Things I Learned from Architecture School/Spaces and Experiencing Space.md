@@ -16,7 +16,7 @@
 9. **Genius loci** describes places that are deeply memorable for their architectural and experiential qualities.
 10. *How we arrive in an architectural space strongly influences our experience*. Use contrasts. Play to our [[Human Biases|biases]].
 11. Use **denial and reward** to enrich passage through the built environment. 
-	* Mimic [[Story Writing]] by setting and meeting viewer expectations.
+	* Mimic [[Narrative|story telling]] by setting and meeting viewer expectations.
 12. *Architectural spaces are utilitarian*. They are designed with a specific program, experience, or intent in mind.
 33. If you wish to imbue an architectural element with a quality, make sure the quality is really there. *Clearly demonstrate design intent*.
 34. *Frame a view, don't merely exhibit it*. Select the views you wish to give the viewer based on richness of experience. Less is more.

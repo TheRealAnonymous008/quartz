@@ -56,3 +56,4 @@ A listing of common and interesting trade-offs that are noticeable in a variety 
 ### Boring vs Overstimulating Tradeoff
 * Simplicity is pleasing to the eyes, but too much makes the subject feel boring or bland.
 * Dynamicity is pleasing to the eyes, but too much makes the subject feel confusing or jarring.
+* [Boredom is good for ideation](https://www.youtube.com/watch?v=aEU948cm2k8). In fact, [[Information Hazards#Distraction and Temptation Hazards|overstimulation can be considered a hazard]]

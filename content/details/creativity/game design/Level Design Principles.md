@@ -8,7 +8,7 @@
 	* Presentation and Story give rise to Worldbuilding. How does the level contribute to establishing a unique, cohesive, and meaningful world? Is the worldbuilding ubiquitous in the level? Does it define the characters of the game? 
 	* Gameplay and Story give rise to Interactive Narrative. Does the level tell the narrative through the strengths of the gaming medium? Does the level allow thee players to engage with and interact with the story? 
 
-* Levels should [[Story Writing|tell a story]]. They should convey something that is mechanically or narratively interesting about the game's world or rules.
+* Levels should [[Narrative|tell a story]]. They should convey something that is mechanically or narratively interesting about the game's world or rules.
 # Links
 * [Making of de_sparity by 3kliksphilip](https://www.youtube.com/watch?v=InmG615IgaA&list=PLfwtcDG7LpxG5QsLnW8FnuQXIVcIOOG0Y) - an example series for designing a map in Counter Strike.
 * [Why Speed Level Design videos are so misleading](https://www.youtube.com/watch?v=IcCFto0u_g4) - Level Design is about the layout of the level in relation to how it will be played. Level Art is about the look and feel of the level.

@@ -8,6 +8,7 @@
 * Remember: *There is no such thing as original*. 
 	* The trick to making something "original" is to take inspiration, to learn the history of the craft.
 	* *Understand the design decisions of others*. While [[The 48 Laws of Power#7. Get Others To Do The Work For You But Always Take The Credit|we may take inspiration from others]], when doing so take note of why those design or aesthetic decisions were made. [^7]
+	* *Give me the same thing but different*. 
 # The Process
 ## The Workflow
 * The best way to get started is to *just start*. You needn't wait for inspiration to hit. Keep going by creating what you would enjoy.

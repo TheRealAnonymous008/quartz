@@ -96,7 +96,7 @@
 
 * Two selves: The **experiencing self** is the one that assesses pain and pleasure moment to moment. The **remembering self** assesses the overall experience. We only think of the experience from the remembering self.
 	* *We confuse experience with memory of the experience*.
-	* *The remembering self constructs a [[Story Writing|narrative]] that bests captures the essence of the experience*.
+	* *The remembering self constructs a [[Narrative|narrative]] that bests captures the essence of the experience*.
 		* Empathy takes the form of concern for the quality of the story of people's lives rather than their feelings.
 		* We all care intensely for the narrative of our own life and very much want it to be a good story, with a decent hero
 	* The memory of an experience is influenced by its highest and lowest points, as well as the end. It is not influenced by duration.

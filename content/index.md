@@ -51,15 +51,15 @@ A broad listing of all the topics that I have made notes on. You can find more a
 </div>
 
 <div class="custom-index-card">
-	<a href="/details/natural-sciences">Natural Science</a>
-	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
-	<div class="custom-index-title"><span>N</span><span>Natural Sciences</span></div>
-</div>
-
-<div class="custom-index-card">
 	<a href="/details/creativity/writing">Narrative</a>
 	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
 	<div class="custom-index-title"><span>N</span><span>Narrative</span></div>
+</div>
+
+<div class="custom-index-card">
+	<a href="/details/natural-sciences">Natural Science</a>
+	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
+	<div class="custom-index-title"><span>N</span><span>Natural Sciences</span></div>
 </div>
 
 <div class="custom-index-card">

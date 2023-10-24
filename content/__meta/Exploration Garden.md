@@ -11,6 +11,7 @@
 * [Double Speak](https://www.youtube.com/watch?v=qP07oyFTRXc)
 *  [Polymathy](https://en.wikipedia.org/wiki/Polymath)
 * Geometric Deep Learning
+* [Principles of Learning](https://en.wikipedia.org/wiki/Principles_of_learning)
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 
