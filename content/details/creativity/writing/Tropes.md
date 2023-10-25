@@ -62,6 +62,7 @@
 * [[Setting Tropes]] - tropes relating to settings.
 
 * [[Narrative Tropes]] - tropes relating to the narrative and important story beats.
+	* [[Climactic Events]]
 
 * [[Theme Tropes]] - tropes relating to themes of the story, as well as morals.
 # Links

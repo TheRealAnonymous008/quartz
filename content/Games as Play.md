@@ -1,5 +1,6 @@
 * **Play** - pertains to the Experiential Systems of the game. It only occurs as players experience the [[Games as Rules|rules]] of the game in motion.
 * The structure of a digital game space always grows directly from the *formal system* that defines the game. However, the space that a player experiences is also a function of *representation* (how the space is displayed) and *interaction* (how the player navigates the space).
+* In understanding how games construct meaning, we are addressing the deeply felt ways that players engage with games and the emotional and social realities games reflect and construct.
 # What is Play?
 * ***Play** is free movement within a more rigid structure*. As an expression of the system, we take advantage of the space of possibility given by the system's structure.
 	* *Play both exists because of and opposes rigid structures*.
@@ -155,12 +156,16 @@
 	* *Games are not just plot, but activities that the player goes through. Hence, design what these activities are (the core mechanic) and fit them to the narrative context.*
 
 * *The space occupied by the game creates narrative* -- the characters are the game objects. The space is the context. The space patterns narrative experience over time for the player.
+
+* A **narrative descriptor** is any component that participates in the game's system of representation.
 * *Everything in a game is potentially a narrative descriptor*. Elements inside and outside of a game communicate a story.
 	* However, written descriptors for narrative are not always effective in creating a clear context for interaction, especially when they are disconnected from player interaction.
 	* Sometimes, narrative descriptors simply provide a more general narrative genre.
 	* They serve (1) to identify objects or events, and (2) to provide frameworks for interaction.
 
 * *Well designed games have many narrative descriptors to orient the player*. This is even if a player skips some of them.
+	* *Important*: Never assume the player will carefully examine every narrative descriptor. Make the story come alive through the gameplay itself. 
+
 * *Representations in games do not exist in isolation from [[Games as Culture|culture]]*. Conventions exist in particular narrative [[Genre|genre]] that guide player expectations.
 	* As cultural representations, game narratives have two components: **fictive worlds** -- the narrative context; and **story events** - the actual game incidents within the world.
 	* *Fictive worlds and story events shape each other.*
@@ -170,7 +175,69 @@
 	* Even when breaking the rules of narrative genre, games must incorporate this rule-breaking in a coherent way.
 
 * *Meaningful narrative play follows from bridging the formal system with the player experience* .
+
+* **Cutscenes** are a way of leading players through the narrative space of a game, highlighting key moments. As a kind of narrative in miniature, cutscenes help fill out the larger narrative frame of the game to establish the fictive world of a game's story.
+	* They can allow a player to glimpse another part of the game space.
+	* They can work to catapult a player into a new situation (i.e., starting [[Beginning the Story (Tropes)|in media res]])
+	* They can establish the mood of the game.
+	* They give designers the power to dramatically reveal the outcomes of a player's choices.
+	* They allow for [[Writing Story Scenes#Pacing|pacing and rhythm]], slowing down the action or hyping it up.
+	* They can be used to illustrate player success or failure.
+* *Narrative play can also occur in recounting a game's experience*, creating narratives that exist separately from the actual narrative of the game. This is the phenomenon of **retelling play**.
+	* **Replay mode** is one such example, making use of cinematography to cast game events in a particular light.
+	* **Recams** - involves altering the perspective after a replay. It allows players to experience the story from a different point of view.
 ### Play of Simulation
+* *Games are representational systems where representations can arise from the player interacting with the game systems itself*. 
+	* This type of representation is called **procedural representation** -- it is the kind of representation that emerges from a process. 
+	* *As a simulation, a game is a procedural representation of aspects of "reality". *
+	* The objects within a game gain their meanings and representations in part because of how they interact with the formal systems.
+	* Unlike other simulations, games are not beholden to a notion of representing empirical truth.
+	* Games as simulations also include the ways in which the system permits player action.
+
+* *Every game, on some level represents conflict*. Games simulate some form of conflict through its formal systems.
+	* **Territorial Conflict** - the play area dynamically represents the territory over which battle is waged.
+	* **Economic Conflict** - what is contested is not territory but a unit of value (money, points, etc). This is rooted in the fact that the thing of value is finite.
+	* **Conflict over Knowledge** - inherently cultural conflicts that engage with the cultural space outside of the game. They rely on information brought into the game from external sources.
+
+* *Simulation necessitates some form of simplification or stylization*. It is a process of abstracting away properties from a real world phenomenon.
+	* *Simulations are abstractions*. We can only approximate reality with simulations, nor do simulations attempt to do such a thing.
+	* *Simulations are systems* - the systemic aspect is harnessed directly for representational effect.
+	* *Simulations are numerical* - they are formal structures related to some mathematical structure.
+	* *Simulations are limited* - they can only depict a tiny slice of any real world or imagined phenomenon. 
+
+* As designers, we choose which aspects to simulate -- ultimately the goal is to simulate what would contribute to meaningful play. 
+	* *Promise the right amount of breadth* - if players expect the game to be an immersive simulation, they may be disappointed if their options are limited.
+	* [[Creativity#Principles|Limitation is not a bad thing]].
+	* *It is generally bad design to include information that does not contribute to an understanding of what is going on*> 
+
+* [[#Narrative Play]] can also be framed as a form of simulation -- players simulate the lived experiences of the player character. In turn, the simulation of the player character brings it to life as a representation of a character.
+	* *A player relates to a game character through the double consciousness of play*
+		* The protagonist is a persona through which the player exerts themselves on the imaginary world. 
+		* At the same time, the character is a puppet, and the player is fully aware they are artificial.
+		* The player consciousness has three levels -- *a character in a simulated world, a player in a game, a person in a larger social setting*.
+
+* **Case-based logic** implies creating simulations where the relationship between each element is specified in advanced. **Generalized Logic** replies on system elements sharing common attributes and relying on emergence.
+* *A case for generalized simulation*:
+	* It decreases work time because we do not need to specify all forms of interactions.
+	* It leads to more emergent games.
+	* It increases play options. More choices.
+* *However, no game can rely solely on generalized simulation*. Designers need to be able to craft some forms of interactions.
+	* The generalized approach may end up being too overcomplicated.
+	* It may introduce ambiguities.
+
+* **The Immersive Fallacy** -- the idea that pleasure of a media experience lies in its ability to sensually transport the participant into an illusory, simulated reality [^2].
+	* The cognitive frame falls away, and the player truly believes they are a part of an imaginary world.
+	* *Remember*: A game player can become engrossed in the game, but only through play itself.
+	* *Immersion is not just tied to the attributes of a game, but the way it functions with respect to the experience of the player* 
+	* Focus on the double consciousness of play rather than immersion.
+
+[^2]: We can argue through Bolter and Grusin's theory that all media operates this way -- through **immediacy** which promises true and authentic representation and **hypermediacy** which emphasizes the constructed nature of media representation. **Remediation** mediates both of these. 
+
 ### Social Play
+* *As players mingle with each other, their social interactions highlight aspects of the game's design. Meaningful play can be framed as a social phenomenon.*
+	* Social interactions can either take place within the magic circle or outside of it. 
+	* Social interactions can be modified by actions taken in the game. Social roles transform as the game proceeds.
+	* Games can facilitate symbolic communication.
+	* Within the system of social relationships, *players can assume a variety of roles*. 
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman]]

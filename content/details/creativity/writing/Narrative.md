@@ -10,7 +10,7 @@
 * From a pragmatic perspective, readers read the story because they perceive that it will give them something. Thus, *good stories are those that pique the reader's interest* by meeting, and occasionally playing with their expectations about the story.
 	* [“Your goal as a writer is to give your characters goals and then prevent them from reaching those goals. the goal is to be mean.”](https://www.youtube.com/watch?v=blehVIDyuXk&list=PLSH_xM-KC3Zv-79sVZTTj-YA6IAqh8qeQ&index=8) [[details/creativity/writing/Story by Robert McKee|The root of all interesting stories is the conflict between what is expected and what actually happens.]]
 
-* We can use **Miller's model** for narrative [[^1]] -- as a system consisting of:
+* We can use **Miller's model** for narrative [^1] -- as a system consisting of:
 	* **Situation** - an initial state, a change in that state, and insight brought about by that change.
 	* **Character** - a personification of events through a medium
 	* **Form** - concrete ways of representation.

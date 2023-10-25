@@ -16,7 +16,7 @@
 8. Don't ignore the compiler's warnings. They are trying to tell you something.
 9. Learn and understand the algorithms you are employing.
 10. **SOLID Principles** make code more flexible and maintainable.
-11. Use a version control system (i.e. Git).
+11. Use a version control system (i.e. [[Git]]).
 # Naming
 1. Use names which reveal intent. Names shouldn’t require comments to explain them.
 2. Avoid names which assume implicit knowledge of context. Don’t use colloquialisms or slang.

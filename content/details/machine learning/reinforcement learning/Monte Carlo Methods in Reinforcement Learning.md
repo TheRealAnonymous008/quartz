@@ -29,7 +29,7 @@
 	* For every visit, this would be all time steps where the state is visited.
 
 * Both First Visit and Every Visit Monte Carlo converge to the true value function $v_\pi$ as $t=\infty$ samples are chosen.
-* The[[Backups in Reinforcement Learning|backup]] for a Monte Carlo approach is just a straight path which follows the trajectory of an episode.
+* The [[Backups in Reinforcement Learning|backup]] for a Monte Carlo approach is just a straight path which follows the trajectory of an episode.
 
 * In a Monte Carlo approach, *it is better to use the action values* since state values are insufficient for determining the policy when the model is unknown. 
 

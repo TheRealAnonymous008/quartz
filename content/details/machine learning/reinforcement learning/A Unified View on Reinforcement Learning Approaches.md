@@ -24,11 +24,11 @@
 	* We call the first policy as the **behavior policy** denoted $\beta$. This is the policy that is used to generate behaviors
 	* We call the second policy the **target policy** denoted $\pi$. This is the policy that will become the optimal policy 
 	* We require two assumptions
-		* **The Assumption of Coverage**:  Every action taken under $\pi$ is also taken occasionally under $\mu$ 
+		* **The Assumption of Coverage**:  Every action taken under $\pi$ is also taken occasionally under $\beta$ 
 		  $$
 		  \pi(a\mid s)>0\implies \beta(a\mid s)>0
 		  $$
-		* **Soft Policy Assumption**: $\mu$ is a soft policy where all actions from all states may be taken. 
+		* **Soft Policy Assumption**: $\beta$ is a soft policy where all actions from all states may be taken. 
 	* Off-policy is analogous to *learning by imitation*.
 	* *It allows the agent to learn from multiple sources in parallel*. By having many target policies that learn correspond to different things.
 

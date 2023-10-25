@@ -15,3 +15,5 @@
 # Papers
 * Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
 # Links
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]
+* [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html) - has various modern algorithms

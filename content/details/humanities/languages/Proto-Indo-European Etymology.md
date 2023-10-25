@@ -111,11 +111,6 @@
 * [Ye](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) - to throw / impel
 	* *e / he / gi /  ja / je / jet* - throw against
 
-* [Wi-ro](https://www.etymonline.com/word/*wi-ro-?ref=etymonline_crossreference) - man
-* [Gwei](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) - to live
-* [Pag / Pak](https://www.etymonline.com/word/*pag-?ref=etymonline_crossreference) - to fasten
-* [Swep](https://www.etymonline.com/word/*swep-?ref=etymonline_crossreference) - sleep
-* [Do](https://www.etymonline.com/word/*do-?ref=etymonline_crossreference) - to give 
 
 ### Future PIE
 * [Al](https://www.etymonline.com/word/*al-?ref=etymonline_crossreference#etymonline_v_52550) - beyond / to grow, nourish
@@ -126,9 +121,11 @@
 * [Bha](https://www.etymonline.com/word/*bha-?ref=etymonline_crossreference#etymonline_v_52548) - to shine / to speak, tell or say
 * [Bher](https://www.etymonline.com/word/*bher-?ref=etymonline_crossreference#etymonline_v_52553) - to carry / bear children / bright / brown
 * [Bheudh](https://www.etymonline.com/word/*bheudh-?ref=etymonline_crossreference) - be aware / make aware
+* [Bhle](https://www.etymonline.com/word/*bhle-?ref=etymonline_crossreference) - to blow
 * [De](https://www.etymonline.com/word/de?ref=etymonline_crossreference) - to
 * [Dext](https://www.etymonline.com/word/*deks-?ref=etymonline_crossreference) - right or south
 * [Do](https://www.etymonline.com/word/*do-?ref=etymonline_crossreference) - to give
+
 * [Dhe](https://www.etymonline.com/word/*dhe-?ref=etymonline_crossreference) - to set / put
 * [Dhes](https://www.etymonline.com/word/*dhes-?ref=etymonline_crossreference) - pertaining to religious concepts
 * [Deru / Dreu](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference)- be firm or steadfast / pertaining to trees or wood
@@ -137,9 +134,14 @@
 * [Ei](https://www.etymonline.com/word/*ei-?ref=etymonline_crossreference) - to go
 * [En](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) - in
 * [Gene](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) - give birth / beget
+* [Ghel](https://www.etymonline.com/word/*ghel-?ref=etymonline_crossreference#etymonline_v_52720) - to call / to shine bright.
+* [Gher](https://www.etymonline.com/word/*gher-?ref=etymonline_crossreference#etymonline_v_52749) - to grasp / enclose / to like / want
 * [Ghere](https://www.etymonline.com/word/*ghere-?ref=etymonline_crossreference) - gut / entrail
 * [Ghwer](https://www.etymonline.com/word/*ghwer-?ref=etymonline_crossreference) - wild beast
 * [Gwa](https://www.etymonline.com/word/*gwa-?ref=etymonline_crossreference) - to go / come
+* [Gwei](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) - to live
+* [Gwele](https://www.etymonline.com/word/*gwele-?ref=etymonline_crossreference) - to throw / to reach / to pierce
+
 * [Kap](https://www.etymonline.com/word/*kap-?ref=etymonline_crossreference) - to grasp
 * [Kaput](https://www.etymonline.com/word/*kaput-?ref=etymonline_crossreference) - head
 * [Ked](https://www.etymonline.com/word/*ked-?ref=etymonline_crossreference) - to go / yield
@@ -151,29 +153,30 @@
 * [Legh](https://www.etymonline.com/word/*legh-?ref=etymonline_crossreference) - lie down / lay
 * [Legwh](https://www.etymonline.com/word/*legwh-?ref=etymonline_crossreference) - not heavy / little weight
 * [Leubh](https://www.etymonline.com/word/*leubh-?ref=etymonline_crossreference) - to care / desire / love
+* [Magh](https://www.etymonline.com/word/*magh-?ref=etymonline_crossreference) - to be able to have power.
+
 * [Me](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference#etymonline_v_52683) - to measure / to cut down grass or grain
 * [Mei](https://www.etymonline.com/word/*mei-?ref=etymonline_crossreference#etymonline_v_52688) - to change / to move / small
 * [Men](https://www.etymonline.com/word/*men-?ref=etymonline_crossreference#etymonline_v_53240) - to think, or pertaining to state of mind and thought / to project / to remain/ small, isolated
 * [Mer](https://www.etymonline.com/word/*(s)mer-?ref=etymonline_crossreference#etymonline_v_53456) - remember / to get a share of something
+* [Nau](https://www.etymonline.com/word/*nau-?ref=etymonline_crossreference) - boat
 * [Ner](https://www.etymonline.com/word/*ner-?ref=etymonline_crossreference#etymonline_v_52792) - man / vigorous, vital, strong
+* [Pag / Pak](https://www.etymonline.com/word/*pag-?ref=etymonline_crossreference) - to fasten
 * [Pau](https://www.etymonline.com/word/*pau-?ref=etymonline_crossreference#etymonline_v_52750) - few little / to cut / strike / stamp
 * [Pel](https://www.etymonline.com/word/*pel-?ref=etymonline_crossreference#etymonline_v_52783) - pale / to fold / skin / hide / to sell / to thrust / strike / drive
-* [Pere](https://www.etymonline.com/word/*pere-?ref=etymonline_crossreference#etymonline_v_52861) - to produce / procure / to grant / allot
+* [Penkwe](https://www.etymonline.com/word/*penkwe-?ref=etymonline_crossreference) - five
 * [Per](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference#etymonline_v_52579) - forward, first / to lead, pass over / to try, risk / to strike / to sell
+
+* [Pere](https://www.etymonline.com/word/*pere-?ref=etymonline_crossreference#etymonline_v_52861) - to produce / procure / to grant / allot
 * [Sem](https://www.etymonline.com/word/*sem-?ref=etymonline_crossreference#etymonline_v_52581) - one / as one / together with
 * [Sker](https://www.etymonline.com/word/*sker-?ref=etymonline_crossreference#etymonline_v_52632) - to cut / to turn / bend
 * [Skribh](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) - to cut / separate / sift
+* [Sta](https://www.etymonline.com/word/*sta-?ref=etymonline_crossreference) - to stand / set down / make or be firm / place or thing that is standing.
 * [Ster](https://www.etymonline.com/word/*ster-?ref=etymonline_crossreference#etymonline_v_52592) - stiff / star 
+* [Swep](https://www.etymonline.com/word/*swep-?ref=etymonline_crossreference) - sleep
 * [Ten](https://www.etymonline.com/word/*ten-?ref=etymonline_crossreference) - to stretch
 * [Tkei](https://www.etymonline.com/word/*tkei-?ref=etymonline_crossreference) - to settle / dwell / be home
 * [Trep](https://www.etymonline.com/word/*trep-?ref=etymonline_crossreference) - to turn
 * [Weg](https://www.etymonline.com/word/*weg-?ref=etymonline_crossreference) - to be strong / lively
+* [Wi-ro](https://www.etymonline.com/word/*wi-ro-?ref=etymonline_crossreference) - man
 
-* [Nau](https://www.etymonline.com/word/*nau-?ref=etymonline_crossreference) - boat
-* [Ghel](https://www.etymonline.com/word/*ghel-?ref=etymonline_crossreference#etymonline_v_52720) - to call / to shine bright.
-* [Gwele](https://www.etymonline.com/word/*gwele-?ref=etymonline_crossreference) - to throw / to reach / to pierce
-* [Bhle](https://www.etymonline.com/word/*bhle-?ref=etymonline_crossreference) - to blow
-* [Gher](https://www.etymonline.com/word/*gher-?ref=etymonline_crossreference#etymonline_v_52749) - to grasp / enclose / to like / want 
-* [Penkwe](https://www.etymonline.com/word/*penkwe-?ref=etymonline_crossreference) - five
-* [Sta](https://www.etymonline.com/word/*sta-?ref=etymonline_crossreference) - to stand / set down / make or be firm / place or thing that is standing.
-* [Magh](https://www.etymonline.com/word/*magh-?ref=etymonline_crossreference) - to be able to have power.
