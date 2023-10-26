@@ -238,6 +238,37 @@
 	* Social interactions can either take place within the magic circle or outside of it. 
 	* Social interactions can be modified by actions taken in the game. Social roles transform as the game proceeds.
 	* Games can facilitate symbolic communication.
-	* Within the system of social relationships, *players can assume a variety of roles*. 
+
+* Within the system of social relationships, *players can assume a variety of roles*.  Players may be actors or counteractors
+* *Play emerges directly from the relationships between players*.
+* Sutton-Smith gives the following motives and what the actors / counter-actors perform:
+	* **Race** - to overtake / stay ahead
+	* **Chase** - to catch / elude
+	* **Attack** - to overpower / defend
+	* **Capture** - to take / avoid being taken
+	* **Harassment** - to tease, taunt or lure / to see through, move suddenly, or bide time.
+	* **Search** - to find / to hide
+	* **Rescue** - to spring prisoner / to guard against escape
+	* **Seduction** - to tempt another forbidden action / to resist.
+* Another typology from Bartle, applicable especially in MUDs. 
+	* **Achievers** - have the goal of point-gathering and rising in levels.
+	* **Explorers** - delight in having the game expose its internal machinations to them.
+	* **Socializers** - to them, the game is a common backdrop that facilitates interaction with others.
+	* **Killers** - impose themselves on others. 
+
+
+* A **play community** occurs when a group of player gets together to play a game. The exact scale of the community depends on the game design problem you are trying to solve.
+	* Most play communities are informal, temporary affairs.
+	* The social boundaries of a play community are tied to the boundaries of its games.
+	* The play community emerges from the game system. At the same time, the game cannot have life without a play community. *This happens because games as play systems are both closed and open systems*. 
+* Within the bounded play community of a game, the community arises with the onset of the game and disappears when the game is finished.
+	* *There is a sense in which games create their own private social sphere*.
+	* *Bounded play implies a social contract* consisting of the rules, and the meanings and values the players give life through play. The social contract dictates what it means to enter the magic circle.
+	* Generally *players must feel a sense of safety and trust to be comfortable to enter into the social space of a game*. Such safety and trust relies on knowledge of the rules -- especially the implicit rules.
+		* Once the rules are known, a free decision can be reached through respectful mutual consent.
+
+* In **transformative social play**, players use the game context to transform social relationships.
+	* It forces us to reevaluate a formal understanding of rules as fixed, unambiguous and omnipotent authorities. The structures are reshaped by player action.
+	* The formal rules the game operates in may be different from the actual rules that players agree on. *Players can generate their own rules and propagate them in the player community*
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman]]
