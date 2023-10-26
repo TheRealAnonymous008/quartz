@@ -105,6 +105,10 @@
   $$
 * The corresponding value functions are known as **differential value functions**, which we still denote $v_\pi$ and $q_\pi$. 
 	* *Notation*: We will be explicit when we are dealing with differential value functions, but by default assume we aren't in a average reward value function context
+# Forward vs Backward
+* In the **forward view** we perform updates based on the next $n$ rewards and states $n$ steps ahead in the future. This is the approach in [[Temporal Difference Learning]].
+* In the **backward view**, we look backward to recently visited states. This is achieved via [[Eligibility Traces]].
+* Both views are equivalent and one can transform from one to the other
 # Other Dimensions
 * **Value Estimated**: Which do we estimate?
 	* Action values

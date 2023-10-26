@@ -270,5 +270,33 @@
 * In **transformative social play**, players use the game context to transform social relationships.
 	* It forces us to reevaluate a formal understanding of rules as fixed, unambiguous and omnipotent authorities. The structures are reshaped by player action.
 	* The formal rules the game operates in may be different from the actual rules that players agree on. *Players can generate their own rules and propagate them in the player community*
+	* The real rules of the game refer to a standard of social behavior that players had to accept and uphold if they were to remain a part of the game.
+	* In this sense, *the goal is not just to win, but to play the game in a way that embodies the proper spirit of play*, to play the game in a way that expresses their social being. In this sense, *players game the game itself* -- manipulating the boundaries established by the game.
+* Games can permit or encourage normally taboo behavior via **forbidden play** -- *games can subvert social norms since games can play with meaning itself*.
+	* The player is always at risk of overstepping boundaries and breaking the magic circle.
+	* However, even though the behavior is normally taboo, it exists within a restricted context.
+
+* **Metagaming** - refers to the relationship between the game and outside elements. According to Richard Garfield, it manifests as follows:
+	* What a player brings **to** a game
+		* Game resources - the necessary components for playing the game
+		* Strategic Preparation or training
+		* Peripheral Game Resources - optional elements like game guides.
+		* Player Reputation
+	* What a player takes away **from** a game
+		* The stakes of the game.
+		* The experience of the game itself
+		* The retelling of the game
+		* Some resources for future games.
+	* What happens **between** games
+		* Reflection of players regarding strategy, training or planning.
+		* Player communicating to each other about what happened last game
+		* Anything that add to the meaning of the play experience.
+	* What happens **during** a game other than the game itself.
+		* Any aspect of real life that influences a game in play -- competition and camaraderie for example.
+		* The physical environment of the play itself.
+
+* The emergence of a rich metagame comes from key game design decisions
+	* For example by *making many variants on a set of standard rules*
+	* However, at the same time, most metagaming comes from when play communicates with the outside context.
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman]]
