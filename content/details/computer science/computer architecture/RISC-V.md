@@ -5,7 +5,7 @@
 
 | Register Name | ABI | Name | Description | Saved by Calle- | 
 |---|---|---|---|
-| x0 | zero | Always Zero [^1] |  |
+| x0 | zero | Always Zero  |  |
 | x1 | ra | Return address | R |
 | x2 | sp | Stack Pointer | E |
 | x3 | gp | Global pointer |  |
@@ -19,7 +19,7 @@
 | x18 - x27 | s2 - s11 | Saved Register | E |
 | x28 - x31 | t3 - t6 | Temporary | R |
 
-[^1]: Hardwired to always be zero. Any value moved to this register is discarded and zero outputted in its place.
+* **Always Zero** is Hardwired to always be zero. Any value moved to this register is discarded and zero outputted in its place.
 
 ### Floating point registers
 | Register Name | ABI Name | Description | Owner | 

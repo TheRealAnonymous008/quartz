@@ -98,5 +98,4 @@ $$
 5. The `ESP` register cannot be used as an index register
 6. Scale factors can only be used with the index registers. 
 # Instructions
-* A complete instruction set is found [here](https://msyksphinz-self.github.io/riscv-isadoc/html/index.html). Pseudo-instructions [here](https://michaeljclark.github.io/asm.html).
-* Some additional standards to look out for: Multiplication, Division, and Floating Point.
+* A complete instruction set is found [here](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
