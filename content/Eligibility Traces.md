@@ -4,7 +4,7 @@
 * In practice, implementing eligibility traces are quite efficient since we only need to keep track of and update only the few traces that are significantly greater than $0$.
 	* And we use them to complement [[Function Approximation in Reinforcement Learning|function approximation]] for performance reasons.
 # Overview
-* The **eligibility trace*** $z_t\in \mathbb{R}^d$ acts as a *short-term memory vector* that parallels the weights in [[Function Approximation in Reinforcement Learning|function approximation]].
+* The **eligibility trace** $z_t\in \mathbb{R}^d$ acts as a *short-term memory vector* that parallels the weights in [[Function Approximation in Reinforcement Learning|function approximation]].
 * When a component in $w_t\in \mathbb{R}^d$ participates in estimation, the corresponding component to $z_t$ is bumped up and then begins to fade away based on parameter $\lambda$. 
 * Learning occurs in a component of $w_t$ if a non-zero TD-error occurs before the trace falls back to zero. 
 * Compared to [[N-step Bootstrapping]], Eligibility traces offer computational advantages. 
@@ -42,7 +42,9 @@ z_t &= \gamma \ \lambda z_{t-1} + \nabla \hat{v}(S_t,w_t) \ \ \ 0\le t\le T
 $$
 
 
-* The **action-value form** of the eligibility trace is defined as  $$
+* The **action-value form** of the eligibility trace is defined as  
+
+$$
 \begin{split}
 z_{-1}&=0 \\
 z_t &= \gamma \ \lambda z_{t-1} + \nabla \hat{q}(S_t,A_t, w_t) \ \ \ 0\le t\le T
