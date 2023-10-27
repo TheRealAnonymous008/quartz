@@ -283,7 +283,91 @@ $$
 	* It does not actually bootstrap since it cuts off estimation after the first non-greedy action is taken.
 # Tree Backup with Eligibility Traces
 * See [[N-step Bootstrapping#Tree Backup Algorithm|here]] for more on the tree backup algorithm.
+* The return is calculated as 
 
+$$
+\begin{split}
+G_{t}^{\lambda a} &= R_{t+1} +\gamma_{t+1} \left( \hat{V} _t(S_{t+1}) +\lambda_{t+1} \pi (A_{t+1}\mid S_{t+1})  \left(G_{t+1}^{\lambda a} -\hat{q} (S_{t+1}, A_{t+1}, w_t) \right)\right) \\
+&\approx \hat{q}(S_t,A_t, w_t) + \sum_{k=t}^\infty \delta_k^n \prod_{i=t+1} ^k \gamma_i\lambda_i \pi (A_i\mid S_i)
+\end{split}
+$$
+Where $\delta_k$ is the TD error defined [[#Using Action-Values|here]]. 
+
+* The eligibility trace update is defined using
+$$
+z_t =\gamma_t\lambda_t \pi(A_t\mid S_t) z_{t-1} + \nabla \hat{q} (S_t,A_t, w_t)
+$$
+* And then apply the usual update rule defined in $TD(\lambda)$.
+
+# Stable Off-Policy Methods
+### $GTD(\lambda)$
+* **$GTD(\lambda)$** is the counterpart to [[Off Policy Prediction and Control with Approximation#Gradient-TD Methods|TDC]] . The update rule is given as 
+
+$$
+\begin{split}
+w_{t+1} &= w_t  + \alpha \delta_t^s z_t -\alpha \gamma_{t+1} (1-\lambda_{t+1} ) (z_t^Tv_t)x_{t+1} \\
+v_{t+1} &= v_t + \beta\delta_t^s z_t -\beta (v_t^Tx_t)x_t
+\end{split}
+$$
+
+Where $v\in \mathbb{R}^d$ is a vector of the same dimension as $w$, initialized to $v_0$, and $\beta>0$ is a second step-size parameter.
+
+And we use $\rho$ as per-decision importance sampling
+$z_t$ is the general accumulating trace for state values
+$\delta_t^s$ is the TD-error is defined in [[#Using State-Values|here]].
+
+* $TD(\lambda)$ is often faster than $GTD(\lambda)$ when both algorithms converge.
+
+### $GQ(\lambda)$
+* The Gradient TD algorithm for action values with eligibility traces.
+* It learns $w_t$ such that $\hat{q}(s,a,w-t) = w_t^Tx(s,a) \approx q_\pi (s,a)$ from off-policy data. 
+* If the target policy is $\epsilon$-greedy or biased towards the greedy policy, then $GQ(\lambda)$ can be used for control.
+* The update is given as
+
+$$
+\begin{split}
+w_{t+1} &= w_t  + \alpha \delta_t^s z_t -\alpha \gamma_{t+1} (1-\lambda_{t+1} ) (z_t^Tv_t)\bar{x}_{t+1} \\
+\bar{x}_t &= \sum_a \pi(a\mid S_t) \ x(S_t,a) \\ 
+\delta_t^a &= R_{t+1} +\gamma_{t+1} w_t ^T \bar{x}_{t+1} -w_t^T x_t
+\end{split}
+$$
+
+Where $z_t$ is defined using the general accumulating trace for state values, and the rest follows from [[#$GTD( lambda)$|GTD]]$(\lambda)$ including updating $v_t$.
+
+### $HTD(\lambda)$
+* A hybrid state-value algorithm combining $GTD(\lambda)$ and $TD(\lambda)$. 
+* It is a *strict generalization of $TD(\lambda)$ to off policy learning* -- if the behavior happens to be the target policy, then $HTD(\lambda)$ is the same as $TD(\lambda)$.
+
+$$
+\begin{split}
+w_{t+1} &= w_t  + \alpha ((z_t-z_t^b)^Tv_t) (x_t-\gamma_{t+1}x_{t+1}) \\
+v_{t+1} &= v_t + \beta \gamma_t^s z_t - \beta ({z_t^b}^Tv_t)(x_t -\gamma_{t+1} x_{t+1}) & v_0 = 0 \\ 
+z_t &= \rho_t(\gamma_t \lambda z_{t-1} + x_t) & z_{-1} = 0 \\
+z_t^b &= \gamma_t \lambda_t z_{t-1}^b +x_t & z_{-1}^b =0
+\end{split}
+$$
+
+* We have $\beta>0$ as an additional step-size parameter and $v_t$ is a second set of weights.
+* $z_t^b$ acts as a second set of accumulating eligibility traces for the behavior policy. 
+	* $z_t^b=z_t$ if all $\rho_t=1$.
+
+### Emphatic $TD(\lambda)$
+* An extension of [[Off Policy Prediction and Control with Approximation#Emphatic TD Methods|Emphatic TD]] to eligibility traces. 
+* It retains strong off-policy convergence guarantees while allowing bootstrapping.
+* *Downsides*: High variance and slow convergence
+
+$$
+\begin{split}
+w_{t+1} &= w_t +\alpha \delta_t z_t \\
+\delta_t &= R_{t+1} +\gamma _{t+1} w_t^T x_{t+1} -w_t^Tx_t \\ 
+z_t &= \rho_t (\gamma_t\lambda_t z_{t-1} +M_tx_t) & z_{-1}=0 \\ 
+M_t &= \lambda_tI_t +(1-\lambda_t)F_t \\ 
+F_t &= \rho_{t-1}\gamma_t F_{t-1} + I_t & F_0 =v(S_0)
+\end{split}
+$$
+* [[Off Policy Prediction and Control with Approximation#Emphatic TD Methods|Emphasis]] is generalized with $M_t\ge 0$
+* $F_t\ge 0$ is termed the **followon trace**
+* $I_t\ge 0$ is the interest as defined [[Off Policy Prediction and Control with Approximation#Emphatic TD Methods|here]]. 
 # Links
 * [[Temporal Difference Learning]] - for more info on the basic case $\text{TD}(0)$. 
 * [[N-step Bootstrapping]] - another way to generalize temporal difference learning. 

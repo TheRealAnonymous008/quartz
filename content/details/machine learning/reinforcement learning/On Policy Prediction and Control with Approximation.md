@@ -98,7 +98,7 @@
   $$
   \begin{split}
   \hat{A_t} &= \sum_{k=0}^{t-1}x_k(x_k-\gamma x_{k+1})^T+\epsilon I \\
-  \hat{b_i} &= \sum_{k=0}^{t-1}R_{k+1}x_k 
+  \hat{b_t} &= \sum_{k=0}^{t-1}R_{k+1}x_k 
   \end{split}
   $$
   

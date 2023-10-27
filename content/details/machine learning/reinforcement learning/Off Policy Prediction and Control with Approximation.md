@@ -55,11 +55,13 @@
 * **GTD-2** is one such variant that performs the update as 
   $$w_{t+1}=w_t+\alpha\rho_t(x_t-\gamma x_{t+1})x_t^T) x_t^T v_t$$
 
-* **GTD-0** improves on GTD-2 by doing more analytic steps before substitution.
+* **GTD-0** (also called $TD(0)$ with gradient correction or **TDC**) improves on GTD-2 by doing more analytic steps before substitution.
 
 $$
 w_{t+1} = w_t+\alpha\rho_t (\delta_tx_t-\gamma x_{t+1} x_t^T v_t)
 $$
+
+* The goal of GTD-0 is to learn a parameter $w$ such that $\hat{v}(s,w) = w_t^Tx(s) \approx v_\pi(s)$ even from data that is due to following another policy.
 
 ### Emphatic TD Methods
 * The idea is to reweight the states to emphasize some and de-emphasize others so as to return the distribution of updates to the on-line policy distribution.

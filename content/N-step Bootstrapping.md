@@ -122,7 +122,7 @@
   
   If $h=T$, we end with $G_{T-1:T} = R_T$.
 
-* We then perform the update defined in [[#n-step SARSA]] except without importance sampling ratios. 
+* We then perform the update defined in [[#Control Variates|n-step SARSA with control variates]] except without importance sampling ratios. 
 
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 7]]

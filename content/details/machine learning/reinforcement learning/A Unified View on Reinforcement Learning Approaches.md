@@ -149,6 +149,12 @@ $$ And to assure all sums are finite, we have that $\prod_{k=t}^\infty \gamma_k 
 	* Permanent retention
 	* Retain only when computing an action selection (I.e., [[Decision Time Planning#Heuristic Search|heuristic search]])
 * Use of [[Function Approximation in Reinforcement Learning|function approximation]].
+# Prediction and Update
+* Estimates and Update rules in Reinforcement learning can be formulated with the following formula (analogous to gradient descent): 
+  $$
+  \text{New} = \text{Old} + \text{Step} \left[ \text{Target} - \text{Old} \right]
+  $$
+  We notate this with $\text{OLD}\mapsto \text{NEW}$ 
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 8.13]]
 	* 10.3 - on Average Reward Formulation

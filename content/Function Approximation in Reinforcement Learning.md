@@ -8,12 +8,6 @@
 
 * A tradeoff with functional approximation is we can no longer use the policy improvement theorem.
 # Prediction
-* Estimates and Update rules in Reinforcement learning can be formulated with the following formula (analogous to gradient descent): 
-  $$
-  \text{New} = \text{Old} + \text{Step} \left[ \text{Target} - \text{Old} \right]
-  $$
-  We notate this with $\text{OLD}\mapsto \text{NEW}$ 
-
 * We represent the value function as a parameterized functional form with weight vector $w\in \mathbb{R}^d$. We denote 
   $$
   \hat{v}(s,w)\approx v_\pi(s)
