@@ -101,7 +101,7 @@
 2. Hiding implementation is about  **abstraction**: expose abstract interfaces that allow clients to manipulate the data without knowing the implementation.
 3. Objects hide data and expose behaviors. Data structures expose data and have no behaviors.
 4. Procedural code (using data structures) makes it easy to add new functions without changing the existing data structures.
-5. Object Oriented Code code makes it easy to add new classes without changing existing functions.
+5. [[Object Oriented Programming|Object Oriented]] Code code makes it easy to add new classes without changing existing functions.
 6. Not everything should be an object.
 7. Avoid chains of calls. Split function calls apart.
 8. Avoid creating hybrids of data structures and objects. Creating an object means we want its functions to do something. Creating a data structure / procedural code means we want to ask about its internals.
@@ -227,4 +227,5 @@
 12. Run on different platforms early and often.
 13. Instrument your code to try and force failures. Make it run code that forces it to execute threads in different orderings.
 # Links
-[[Clean Code by Robert Martin]]
+* [[Clean Code by Robert Martin]]
+* [[Object Oriented Programming]]

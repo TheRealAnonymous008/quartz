@@ -1,41 +1,103 @@
+
+* *The need for eligibility traces arises in general whenever one tries to learn long-term predictions in an efficient manner*.
+* Every result below generalizes from state value functions to action-value functions with the appropriate replacements.
+* In practice, implementing eligibility traces are quite efficient since we only need to keep track of and update only the few traces that are significantly greater than $0$.
+	* And we use them to complement [[Function Approximation in Reinforcement Learning|function approximation]] for performance reasons.
 # Overview
 * The **eligibility trace*** $z_t\in \mathbb{R}^d$ acts as a *short-term memory vector* that parallels the weights in [[Function Approximation in Reinforcement Learning|function approximation]].
 * When a component in $w_t\in \mathbb{R}^d$ participates in estimation, the corresponding component to $z_t$ is bumped up and then begins to fade away based on parameter $\lambda$. 
 * Learning occurs in a component of $w_t$ if a non-zero TD-error occurs before the trace falls back to zero. 
-* Compared to [[Temporal Difference Learning#N-Step Bootstrapping|n-step bootstrapping]], Eligibility traces offer computational advantages. 
+* Compared to [[N-step Bootstrapping]], Eligibility traces offer computational advantages. 
 	* We no longer need to store $n$ feature vectors, just the $d$-dimensional trace.
 	* Learning occurs continually and uniformly rather than being delayed $n$ steps.
 
 * One way to view this is as *an extension of interpolating between Temporal Differencing  and Monte Carlo* methods
-	* **On-line updates** perform the updates during the episode itself.
-	* **Off-line updates** perform the updates after the episode (possibly in batches of episodes). All updates are accumulated as they happen. 
 	* **Error reduction property**  With updates, the $n$-step return $R_{\Sigma}$ converges a better estimate of the value function as $n\to\infty$.
 * Another way is to view this as keeping a temporary record of **which components ( states / actions / components in the weight vector) are eligible for learning changes.** 
 	* We are concerned with the TD errors in particular. 
 * Eligibility traces make use of **compound updates** -- averaging over simpler updates.
 
-# The $\lambda$ return and $\text{TD}(\lambda)$
-* $\lambda$ is called the **trace decay**. 
-	* $\lambda$ controls how much credit we give to earlier states when we perform updates
-* The **$\lambda$-return** is defined as 
+### $\lambda$-return
+The **$\lambda$-return** is defined as 
   $$
   G_t^\lambda=(1-\lambda)\sum_{n=1}^\infty\lambda^{n-1}G_{t,t+n}
   $$
   
-	* Each $n$-step return is weighted with $\lambda^{n-1}$. The whole some is renormalized using the $(1-\lambda)$ term.
-	* An alternative formulation if we terminate at time $T$ is as follows: 
+* Each $n$-step return is weighted with $\lambda^{n-1}$. The whole some is renormalized using the $(1-\lambda)$ term.
+* An alternative formulation if we terminate at time $T$ is as follows: 
 
 $$
-  G_t^\lambda=(1-\lambda)\sum_{n=1}^T\lambda^{n-1}G_{t,t+n} + \lambda^{T-t-1}G_t
+  G_t^\lambda=(1-\lambda)\sum_{n=1}^T\lambda^{n-1}G_{t:t+n} + \lambda^{T-t-1}G_t
 $$
-* In the **off-line update algorithm**, performing the updates follows the usual [[Off Policy Prediction and Control with Approximation#Semi-Gradient Methods|semi gradient approach]] with $G_t^\lambda$ as the target. 
-* In $TD(\lambda)$  the eligibility vector is computed as follows:
+* $\lambda$ is called the **trace decay**. 
+	* $\lambda$ controls how much credit we give to earlier states when we perform updates
 
+### Kinds of Traces
+* The **accumulating trace** is defined as 
 $$
 \begin{split}
 z_{-1}&=0 \\
 z_t &= \gamma \ \lambda z_{t-1} + \nabla \hat{v}(S_t,w_t) \ \ \ 0\le t\le T
 \end{split}
+$$
+
+
+* The **action-value form** of the eligibility trace is defined as  $$
+\begin{split}
+z_{-1}&=0 \\
+z_t &= \gamma \ \lambda z_{t-1} + \nabla \hat{q}(S_t,A_t, w_t) \ \ \ 0\le t\le T
+\end{split}
+$$
+
+* The **general accumulating trace update for state values** is of the form
+
+$$
+z_t = \rho_t (\gamma_t\lambda_t z_{t+1} + \nabla \hat{v} (S_t, w_t))
+$$
+
+Where $\rho_t$ is the importance sampling ratio and we assume varying trace decay $\lambda_t$ and discounting rate $\gamma_t$
+
+* The **general accumulating trace update for action values** is of the form 
+
+$$
+z_t = \gamma_t \lambda_t \rho_t z_{t-1} + \nabla\hat{q} (S_t,A_t,w_t)
+$$
+
+* The **Dutch Trace** is defined as
+$$
+z_t = \gamma \lambda z_{t-1} + (1-\alpha \gamma \lambda \ z_{t-1}^T x_t)  x_t
+$$
+* The **Replacing Trace** is defined on a component-by-component basis on whether the component of the feature vector was $1$ or $0$.
+
+$$
+z_{i,t} = 
+\begin{cases}
+1 & \text{if } x_{i,t} = 1 \\
+\gamma\lambda z_{i,t-1} & \text{otherwise}
+\end{cases}
+$$
+
+
+* We use replacing traces as approximations of Dutch Traces, which are generally preferred.
+* Accumulating Traces are used when there is no theoretical basis for Dutch Traces
+
+### Relation to Monte Carlo
+* Eligibility traces can arise even when we use [[Monte Carlo Methods in Reinforcement Learning|Monte Carlo]]. 
+* A backward view of Monte Carlo can be used to improve performance (for example by using Dutch traces).
+
+# $\text{TD}(\lambda)$  and its variants
+* In the **off-line update algorithm**, performing the updates follows the usual [[Off Policy Prediction and Control with Approximation#Semi-Gradient Methods|semi gradient approach]] with $G_t^\lambda$ as the target. 
+	* Updates are performed after the episode, possibly in batches.
+
+$$
+w_{t+1} = w_t + \alpha \left[G_t^\lambda - \hat{v} (S_t,w_t)\right] \ \nabla \hat{v} (S_t,w_t)
+$$
+
+* In $TD(\lambda)$  the eligibility vector is computed using the accumulating trace (see above).
+* The weight vector $w$ is then updated using the TD-error and the eligibility trace vector
+
+$$
+w_{t+1}=w_t+\alpha\delta_tz_t
 $$
 
 * $TD(\lambda)$ is more preferable than the off-line update algorithm because
@@ -51,26 +113,164 @@ $$
 $$
 
 
-
-
-
-* At each time step $E_t(s)=\gamma\lambda E_{t-1}(s)$ That is, *decay the eligibility trace*.
-* When state $s$ is visited for the current time step *add a quantity to the eligibility trace*.
-	* The best one to use appears to be **Dutch Traces** with step size $\alpha=0.5$
-* $E_t(s)$ above is then used to update the value function as follows 
+### Truncated return
+* In practice, because of the potentially infinite number of terms ,we cannot precisely calculate the above. To compensate, we may include the **truncated $\lambda$ return**. 
+  
   $$
-  \delta=R_{t+1}+\gamma V(S_{t+1})-V(S_{t})
+  G_{t:h}^\lambda = G_t^\lambda=(1-\lambda)\sum_{n=1}^{h-t-1}\lambda^{n-1}G_{t:t+n} + \lambda^{h-t-1}G_{t:h}
+  $$
+
+* It is the weighted average of the [[N-step Bootstrapping|n-step]] return, weighted with $\lambda^{n-1}$
+* We perform this using the following update rule 
+$$
+w_{t+n} = w_{t+n-1} +\alpha\left[G_{t:t+n}^\lambda - \hat{v}(S_t,w_{t+n-1})\right] \ \nabla \hat{v}(S_t,w_{t+n-1})
+$$
+
+* Note that no updates were made in the first $n-1$ steps and $n-1$ additional updates were made upon termination.
+* The following identity is used for efficient implementation
+
+$$
+\begin{split}
+G_{t:t+k}^\lambda &= \hat{v}(S_t,w_{t+1}) +\sum_{i=t}^{t+k-1} (\gamma\lambda)^{i-t} \delta'_t \\ 
+\delta_t' &= R_{t+1} + \gamma \hat{v} (S_{t+1},w_t) - \hat{v} (S_t,w_{t-1})
+\end{split}
+$$
+
+
+* *There is a tradeoff*: $n$ should be large to properly approximate $\lambda$-return, but also small so that updates can be made sooner.
+
+### Online $\lambda$-return 
+* We can make better approximations to the offline $\lambda$ update, while making them happen sooner, at the cost of computational complexity.
+	* Updates are performed during the episode.
+* *On each time step, go back and redo all updates since the beginning, accounting this time step's new data*. 
+* The **online $TD(\lambda)$ algorithm** Let $w_t^h$ denote the weights used to generate the value at time $t$ in the sequence up to horizon $h$. The update takes the form 
+  $$
+  \begin{split}
+  w_{t+1}^h &= w_t^h +\alpha\left[G_{t+h}^\lambda -\hat{v}(S_t,w_t^h)\right] \ \nabla \hat{v} (S_t,w_t^h), \ \ \ \ 0\le t <h\le T  \\
+  
+  w_t &= w_t^t
+  \end{split}
   $$
   
-  And $\forall s\in S$
-  $$
-  V(s)\gets V(s)+\alpha\delta E_t(s)
-  $$
-  
-* *In practice, we only ever really need to keep track of the eligibility of some states since most of the time, the eligibility is effectively $0$*. 
+* More computational complexity but at the same time more accurate than off-line updates because *it makes use of bootstrapping, that makes the weight vector used more informative*.
+* The **true online $TD(\lambda)$ algorithm** [^1] is derived by using the following update rule. Note that it works for the linear case where $\hat{v}(s,w)= w^T x(s)$. 
+
+$$
+\begin{split}
+w_{t+1} &= w_t + \alpha \delta_t z_t + \alpha (w_t^Tx_t - w_{t-1}^Tx_t)(z_t -x_t) \\ 
+x_t &= x(S_t) \\ 
+\delta_t &= R_{t+1} + \gamma \hat{v}(S_{t+1}, w_t) - \hat{v}(S_t, w_t) \\ 
+z_t &= \gamma \lambda z_{t-1}  + (1-\alpha\gamma z_{t-1}^T x_t) x_t
+\end{split}
+$$
+
+* The above algorithm gives the same results as the regular online $\lambda$-return algorithm but is less computationally expensive (in terms of performance. In terms of memory, they are still the same.)
+	* Note that *it makes use of Dutch traces*.
+
+
+[^1]: Derivation found in [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] but also in a paper by van Seijen et. al, 2016. The general ide ais that if we arrange all the $w_t^h$'s in a matrix, we see that only the diagonal terms of this matrix are important, and we represent each term with the previous diagonal term.
+
 # $\text{SARSA}(\lambda)$
-* An extension of SARSA but making use of Eligibility traces. We substitute the value function with a the state-action function $Q(s,a)$ and the eligibility traces are now over the space of state-action pairs.
-* Like SARSA, it is an **on-policy** algorithm.
+* An extension of [[Temporal Difference Learning#SARSA|SARSA]] but making use of Eligibility traces. We substitute the value function with the state-action function $Q(s,a)$ and the eligibility traces are now over the space of state-action pairs.
+* Like SARSA, it is an *on-policy* algorithm.
+* *We make use of the $n$-step return as defined in [[On Policy Prediction and Control with Approximation#Episodic Semi-Gradient Control|here]].*
+* We can form the **action-value form** of the $\lambda$-return (which just makes use of $q$ instead of $v$ but is otherwise the same as the off-line version)
+* The update rule is *mostly the same as the off-line $TD(\lambda)$*, except using the action value form of the TD-error and the action-value form of the eligibility trace,
+# Generalization
+## Varying $\lambda$. 
+* Another (*theoretical*) technique for generalizing the $\lambda$-return is by allowing $\lambda$  and $\gamma$ to vary from step to step. (see [[A Unified View on Reinforcement Learning Approaches#Generalized Discounted Return Formulation|here]] for more on this)
+* In this case, we set $\lambda_t$ and $\gamma_t$ as the values used at timestep $t$. The new $\lambda$-return is defined using the state and state-action formulations below
+
+$$
+\begin{split}
+G_t^{\lambda s} &= R_{t+1} +\gamma_{t+1} ((1-\lambda_{t+1}) \ \hat{v} (S_{t+1}, w_t) + \gamma_{t+1} G_{t+1}^{\lambda s}) \\
+G_t^{\lambda a} &= R_{t+1} +\gamma_{t+1} ((1-\lambda_{t+1}) \ \hat{q} (S_{t+1}, A_{t+1}, w_t) + \gamma_{t+1} G_{t+1}^{\lambda a})
+\end{split}
+$$
+
+* The [[Temporal Difference Learning#Expected SARSA|expected SARSA form]] is defined as follows (using [[Function Approximation in Reinforcement Learning|function approximation]])
+
+$$
+\begin{split}
+G_t^{\lambda a} &= R_{t+1} +\gamma_{t+1} ((1-\lambda_{t+1}) \ \hat{V} (S_{t+1}) + \gamma_{t+1} G_{t+1}^{\lambda a}) \\ 
+\hat{V}_t (s) &= \sum_{a} \pi(a\mid s) \ \hat{q} (s,a,w_t)
+\end{split}
+$$
+
+* One *rationale* for this is to give states whose value we are highly certain of, more credit (higher eligibility) for the return.
+
+## Incorporating Control Variates
+* See [[N-step Bootstrapping#Control Variates|here]] for more about control variates. 
+* *Rationale*: The result here gives us an eligibility trace which, when combined with semi-gradient descent, *forms a general $TD(\lambda)$ algorithm that can be applied to on/off-policy data*. 
+	* Caveat: It is not necessarily stable as an off-policy algorithm. It also has high variance even with importance sampling.
+* *Rationale*: We cannot directly apply [[Importance Sampling]] to $\lambda$-returns so instead we directly use control variates. 
+### Using State-Values 
+* Doing so generalizes the return as 
+
+$$
+G_t^{\lambda s} = \rho_t\left(R_{t+1} +\gamma_{t+1} ((1-\lambda_{t+1}) \ \hat{v} (S_{t+1}, w_t) + \gamma_{t+1} G_{t+1}^{\lambda s})\right) + (1-\rho_t) \hat{v} (S_t,w_t)
+$$
+
+Where $\rho_t$ is the single-step importance sampling ratio. 
+
+
+* The above can be *approximated using TD-errors*
+
+$$
+\begin{split}
+\delta_t^s &= R_{t+1} +\gamma_{t+1} \hat{v}(S_{t+1}, w_t) - \hat{v}(S_t,w_t) \\ 
+G_{t}^{\lambda s} &\approx \hat{v}(S_t,w_t) + \rho_t \sum_{k=t}^\infty \delta_k^s \prod_{i=t+1}^k \gamma_i\lambda_i \rho_i
+\end{split}
+$$
+
+Where the approximation becomes exact if the value function does not change. [^2]
+
+* A single step of a forward view is then given as 
+$$
+\begin{split}
+w_{t+1} &= w_t+\alpha (G_t^{\lambda s} - \hat{v} (S_t,w_t)) \nabla \hat{v} (S_t, w_t) \\ 
+&\approx w_t + \alpha \rho_t \left(\sum_{k=t}^\infty \delta_k^s \prod _{i=t+1}^k \gamma_i \lambda_i \rho_i \right) \nabla\hat{v} (S_t, w_t)
+\end{split}
+$$
+
+* The sum of the forward view updates is given as 
+
+$$
+\sum_{t=0}^\infty (w_{t+1}-w_t) = \sum_{k=0}^\infty \alpha\delta_k^s \sum_{t=0}^k \rho_t\nabla \hat{v} (S_t,w_t) \prod _{i=t+1}^k \gamma_i \lambda_i \rho_i 
+$$
+
+And this sum is *of the form a sum of a backward-view TD update* because we can perform the update as an eligibility trace using  the general accumulating trace update for state values. (see above). [^3] We get that for the general accumulating trace $z_k$
+
+$$
+\sum_{t=0}^\infty (w_{t+1} - w_t) = \sum_{k=0}^\infty \alpha\delta_k^s z_k
+$$
+
+
+[^2]: This follows just by expanding the recursive formula given from the exact value of $G_t^{\lambda s}$. 
+
+### Using Action-Values
+* For the action-value case the derivation is similar. We get that
+$$
+G_t^{\lambda a} = R_{t+1} + \gamma_{t+1} (\hat{V}_t(S_{t+1})+\lambda_{t+1}\rho_{t+1} \left[G_{t+1}^{\lambda a} -\hat{q}(S_{t+1},A_{t+1}, w_t) \right])
+$$
+
+Where $\hat{V}_t$ is given [[#Varying $ lambda$.|here]]. 
+
+* This gives an approximation using the expectation form of the action-based TD-error
+$$
+\begin{split}
+\delta_t^a &= R_{t+1} +\gamma_{t+1} \hat{V}(S_{t+1}, w_t) - \hat{q}(S_t, A_t,w_t) \\ 
+G_{t}^{\lambda a} &\approx \hat{q}(S_t,A_t,w_t) + \sum_{k=t}^\infty \delta_k ^n \prod_{i=t+1}^k \gamma_i \lambda_i \rho_i
+\end{split}
+$$
+
+* This approximation becomes exact if the approximate value function does not change.
+* Similar to the case for state-values, we can derive a form that uses the generalized eligibility trace for action values (see [[#Kinds of Traces|here ]])
+
+### Relation to Monte Carlo
+* At $\lambda=1$, it behaves like Monte-Carlo methods except that eligibility traces still perform bootstrapping. However, the dependence on estimates cancels out in the expected values.
+* Methods that achieve exact equivalence require **provisional weights** to keep track of updates made but may need to be retracted or emphasized depending on actions later. These are called **PTD algorithms**.
+* At $\lambda<1$, the [[Off Policy Prediction and Control with Approximation#Divergence|deadly triad]] applies.
 # Watkins' $Q(\lambda)$
 * Extends Q-learning to make use of eligibility traces. 
 * One caveat of this is that, instead of looking ahead all the way to the end, it only looks ahead *as far as the action after the first exploratory action* (or to the episode's end if none exist)
@@ -79,15 +279,18 @@ $$
 * *Watkins $Q(\lambda)$ is a crude way to perform off-policy tracing.* However, we must consider the following:
 	* Use Importance sampling to assign credit for actions, since actions are taken based on a probability distribution so following the greedy action is dependent on this probability.
 	* It does not actually bootstrap since it cuts off estimation after the first non-greedy action is taken.
-# Varying $\lambda$
-* Another (*theoretical*) technique for generalizing the $\lambda$-return is by allowing $\lambda$ to vary from step to step.
-* One rationale for this is to give states whose value we are highly certain of, more credit (higher eligibility) for the return.
+# Tree Backup with Eligibility Traces
+* See [[N-step Bootstrapping#Tree Backup Algorithm|here]] for more on the tree backup algorithm.
+
 # Links
 * [[Temporal Difference Learning]] - for more info on the basic case $\text{TD}(0)$. 
+* [[N-step Bootstrapping]] - another way to generalize temporal difference learning. 
 * [[Monte Carlo Methods in Reinforcement Learning]] - for more on Importance sampling
 * [[A Unified View on Reinforcement Learning Approaches]]
 
-* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 7]]
-	* 7.4 - explains why the two views of eligibility tracing are equivalent.
-	* 7.5 - covers $\text{SARSA}(\lambda)$
-	* 7.6 - covers Watkins' $Q(\lambda)$
+* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 12]]
+	* 12.2 - $TD(\lambda)$
+	* 12.5 - True online $TD(\lambda)$ 
+	* 12.6 - for a proof on backwards Monte Carlo
+	* 12.7 - SARSA$(\lambda)$ as well as True Online SARSA$(\lambda)$.
+	* 12.8 - a more detailed view in integrating Off-Policy traces with Control Variates

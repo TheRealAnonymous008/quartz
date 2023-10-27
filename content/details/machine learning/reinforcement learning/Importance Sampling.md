@@ -61,7 +61,7 @@
 [^a]: Note: It is less clear if there is a weighted per-decision importance sampling. These estimators are [[Statistical Estimators#Properties of Good Estimators|inconsistent]]
 
 ### N-step Returns 
-* We extend importance sampling to apply to $n$-[[Temporal Difference Learning|n-step returns]] by using the following importance sampling ratio
+* We extend importance sampling to apply to [[N-step Bootstrapping|n-step returns]] by using the following importance sampling ratio
   $$
   \rho_{t+h}=\prod_{k=t}^{\min(h,T-1)} \frac{\pi(A_k\mid S_k)}{\beta(A_t\mid S_t)}
   $$

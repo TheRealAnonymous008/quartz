@@ -17,7 +17,7 @@
 * **CS: Code Segment** - This holds the code segment in which the program runs. Changing this might cause a hang.
 * **DS: Data Segment** - This holds the data segment that your program accesses. Changing this might give erroneous data.
 * **ES, FS, GS: Extras** - Extra segment registers for pointer addressing (i.e., for VRAM). 
-* **SS: Stack Segment** Holds the [[Call Stack|stack]]segment that the program uses. 
+* **SS: Stack Segment** Holds the stack ]segment that the program uses. 
 
 ### Indexes and Pointers
 * These are registers that are an address. 
@@ -44,7 +44,7 @@
 | 8 | TF | Trap | 
 | 9 | IF | Interrupt Enable |
 | 10 | DF | Direction | Determines the direction in which string operations will occur. Set if it auto-decrements. Clear if auto-increments | 
-| 11 | OF | Overflow | Set if the signed result [[Integer Overflow\|overflows]] | 
+| 11 | OF | Overflow | Set if the signed result overflows | 
 | 12-13 | IOPL | I/O Privilege Label |
 | 14 | NT | Nested Task |
 | 15 | -- | -- |

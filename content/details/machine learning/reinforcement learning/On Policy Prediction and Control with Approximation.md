@@ -158,7 +158,7 @@
   $$
 ### Episodic Semi-Gradient Control
 * **Episodic, Semi-Gradient One-Step [[Temporal Difference Learning#SARSA|SARSA]]** The update rule makes use of $U_t=R_{t+1}+\gamma\hat{q}(S_{t+1},A_{t+1},w_t)$  
-* **Episodic, Semi-Gradient [[Temporal Difference Learning#n-step SARSA|n-step SARSA]]** is obtained by using the following as $U_t$
+* **Episodic, Semi-Gradient [[N-step Bootstrapping#n-step SARSA|n-step SARSA]]** is obtained by using the following as $U_t$
   
   $$
   G_{t:t+n} = R_{t+1}+\gamma R_{t+2} +\dots+\gamma^{n-1}R_{t+n} + \gamma^n \hat{q}(S_{t+n}, A_{t+n}, w_{t+n-1})

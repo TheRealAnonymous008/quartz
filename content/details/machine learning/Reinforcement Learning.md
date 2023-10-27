@@ -7,7 +7,8 @@
 * [[Backups in Reinforcement Learning]] - more on Bellman Equations
 * [[Dynamic Programming for Reinforcement Learning]] - for Dynamic Programming based methods on handling RL tasks.
 * [[Monte Carlo Methods in Reinforcement Learning]] - for methods based on partial information about the environment.
-* [[Temporal Difference Learning]] - for methods that combine DP (bootstrapping) and Monte Carlo (by learning from the environment)
+* [[Temporal Difference Learning]] - for methods that combine DP (bootstrapping) and Monte Carlo (by learning from the environment).
+* [[N-step Bootstrapping]] - generalizations of TD-learning
 * [[Eligibility Traces]] - generalizations of Temporal Difference Learning that involve giving a certain amount of credit to each state for the received return.
 * [[A Unified View on Planning and Learning]] - integrating dynamic programming techniques with Monte Carlo and Eligibility-traces.
 * [[Decision Time Planning]] - RL-adjacent algorithms that focus on applying MC techniques to tree search.
