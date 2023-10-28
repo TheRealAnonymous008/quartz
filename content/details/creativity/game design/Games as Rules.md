@@ -16,6 +16,11 @@
 	* **Implicit** - unwritten rules that concern etiquette, good sportsmanship and other implied rules of proper game behavior.
 		* It also includes underlying assumptions. *Questioning Implicit rules can give good design ideas*.
 	* *The Constitutive and Operational rules work together to generate the formal meaning of a game.*
+* In order to play even the simplest games, the players must know and understand the rules: 
+	* The traditions associated with the game
+	* How to interpret the written rules
+	* The conventions of playing any game according to the culture of the participants.
+	* The ability to respond to the real life context to which the game is being played.
 
 # Games as Formal Systems
 ### Emergent Systems

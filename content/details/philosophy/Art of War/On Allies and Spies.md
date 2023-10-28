@@ -7,7 +7,7 @@
 		* The wisdom to employ them properly
 		* The benevolence to positively motivate them.
 		* The critical mind to verify their information as being correct.
-		* The subtelty to not be exposed using them.
+		* The subtlety to not be exposed using them.
 		* The willingness to cut them off when they are no longer useful or are compromising secrecy.
 		* The willingness to employ the ordinary man who hears much and says little.
 	* *Be delicate in espionage*. 

@@ -111,7 +111,7 @@
 	* Meaning in a game sets up complex representational loops, generating *representations that affect and are affected by player interaction.*
 	* *Meaning emerges from play*.
 
-* Games create meaning through the interplay of system and context. In other words, *Meaning is emergent*. 
+* Games create meaning through the interplay of system and context. In other words, *Meaning is [[Games as Rules#Emergent Systems|emergent]]*. 
 	* Actions and outcomes are important. As players experience them, they develop rules about the game's universe. *Context establishes what actions mean*. 
 	* *When the meaning of an action is unclear or ambiguous, meaningful play breaks down*
 	* Structure and context organize what signs mean but also how they are used..
@@ -166,7 +166,7 @@
 * *Well designed games have many narrative descriptors to orient the player*. This is even if a player skips some of them.
 	* *Important*: Never assume the player will carefully examine every narrative descriptor. Make the story come alive through the gameplay itself. 
 
-* *Representations in games do not exist in isolation from [[Games as Culture|culture]]*. Conventions exist in particular narrative [[Genre|genre]] that guide player expectations.
+* *[[#Play of Meaning|Representations]] in games do not exist in isolation from [[Games as Culture|culture]]*. Conventions exist in particular narrative [[Genre|genre]] that guide player expectations.
 	* As cultural representations, game narratives have two components: **fictive worlds** -- the narrative context; and **story events** - the actual game incidents within the world.
 	* *Fictive worlds and story events shape each other.*
 
@@ -187,14 +187,14 @@
 	* **Replay mode** is one such example, making use of cinematography to cast game events in a particular light.
 	* **Recams** - involves altering the perspective after a replay. It allows players to experience the story from a different point of view.
 ### Play of Simulation
-* *Games are representational systems where representations can arise from the player interacting with the game systems itself*. 
+* *Games are [[#Play of Meaning|representation]] systems where representations can arise from the player interacting with the game systems itself*. 
 	* This type of representation is called **procedural representation** -- it is the kind of representation that emerges from a process. 
 	* *As a simulation, a game is a procedural representation of aspects of "reality". *
 	* The objects within a game gain their meanings and representations in part because of how they interact with the formal systems.
 	* Unlike other simulations, games are not beholden to a notion of representing empirical truth.
 	* Games as simulations also include the ways in which the system permits player action.
 
-* *Every game, on some level represents conflict*. Games simulate some form of conflict through its formal systems.
+* *Every game, on some level represents [[Games as Rules#Systems of Conflict|conflict]]*. Games simulate some form of conflict through its formal systems.
 	* **Territorial Conflict** - the play area dynamically represents the territory over which battle is waged.
 	* **Economic Conflict** - what is contested is not territory but a unit of value (money, points, etc). This is rooted in the fact that the thing of value is finite.
 	* **Conflict over Knowledge** - inherently cultural conflicts that engage with the cultural space outside of the game. They rely on information brought into the game from external sources.
