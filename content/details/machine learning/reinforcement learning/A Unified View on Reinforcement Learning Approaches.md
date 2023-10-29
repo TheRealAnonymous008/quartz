@@ -71,12 +71,15 @@
 * In this case, we vary $\gamma$ at each time step, denoting the particular value as $\gamma_t$. 
 
 * The return is defined more generally as 
+
 $$
 \begin{split}
 G_t &= R_{t+1} + \gamma_{t+1}G_{t+1} \\ 
 &= \sum_{k=t}^\infty \left(\prod_{i=t+1} ^k \gamma _i \right) R_{k+1}
 \end{split}
-$$ And to assure all sums are finite, we have that $\prod_{k=t}^\infty \gamma_k = 0$ with probability one.
+$$
+
+And to assure all sums are finite, we have that $\prod_{k=t}^\infty \gamma_k = 0$ with probability one.
 
 * *Rationale:* It enables episodic settings and algorithms to be presented in terms of a single stream of experience. 
 	* What would be terminating states are now states at which $\gamma(s)=0$ and which transitions to the start distribution.

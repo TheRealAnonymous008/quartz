@@ -45,12 +45,15 @@ J(\theta) &= E_{\pi_\theta}[r(\tau)] \\
 $$
 
 * If we take the expected reward to be the undiscounted value function $v_{\pi_\theta}$ we get the following (the gradient is with respect to $\theta$ as usual)
+
 $$
 \begin{split}
 J(\theta) &= v_{\pi_\theta}(s) \\ 
 \nabla J(\theta) &\propto \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)
 \end{split}
-$$$\mu$ is the on-policy distribution
+$$
+
+$\mu$ is the on-policy distribution
 
 The proportionality constant $c$ is the average length of an episode in the episodic case and $1$ in the continuous case. [^1]
 

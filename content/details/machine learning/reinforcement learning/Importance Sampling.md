@@ -17,7 +17,7 @@
   E[\rho _{t:T-1}G_t\mid S_t=s] = v_\pi(s)
   $$
   
-* We can perform **ordinary importance sampling** by taking a normal average. Let $T(t)$ denote the first time of termination after $t$  
+* We can perform **ordinary importance sampling** by taking a normal average. Let $\mathcal{T}(t)$ denote the first time of termination after $t$  
   $$
   V(s)=\frac{\sum_{t\in\mathcal{T}(s)} \ \rho_{t:T(t)-1} \ G_t}{|\mathcal{T}(s)|}
   $$

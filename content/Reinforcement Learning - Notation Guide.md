@@ -1,0 +1,69 @@
+* $S_t, s_t, s$ - state at time  $t$
+* $A_t, a_t, a$,- action at time $t$
+* $r_t$- reward at time $t$
+* $R(S_t,A_t,S_{t+1})$ - reward obtained by going from $S_t$ to $S_{t+1}$ via action $A_t$.
+* $R_t$ - estimate of a reward at time $t$.
+* $\mathcal{S}$ - set of all non-terminal states
+* $\mathcal{S}^+$ - set of all states (including terminal states).
+* $\mathcal{A}$ - set of all actions
+* $\mathcal{A}(s)$ - set of all actions available from state $s$.
+* $\mathcal{R}$ - set of all possible rewards.
+* $\tau$ - a trajectory.
+* $r(\tau)$ - total reward obtained in a trajectory
+* $r(\pi)$ - average reward from following policy $\pi$ 
+* $r(s,a)$ - expected immediate reward obtained from state $s$ taking action a$a$.
+* $r(s,a,s')$ - expected immediate reward obtained on transitioning from $s$ to $s'$ via $a$
+
+* $t$ - discrete time step
+* $T, \mathcal{T}(t)$ - final time step of an episode, or of the episode including time step $t$. 
+* $N_t(a)$ - number of times an action is taken prior to time $t$.
+* $\eta(s)$ - expected number of visits of to state $s$. 
+
+* $p(s',r\mid s, a)$ - (hidden) environment dynamics. The probability of going to $s'$ and receiving reward $r$ by taking action $a$ from state $s$.
+* $\pi$ - policy
+* $\pi(s)$ - \action taken under (deterministic) policy $\pi$ at state $s$
+* $\pi(a\mid s)$ - probability of taking action $a$ in state $s$.
+* $\pi_t(a)$ - probability of selecting action $a$ at time $t$.
+* $\pi_\ast$ - optimal policy
+* $\pi_\theta$ - policy parameterized by $\theta$.
+
+* $\epsilon$ - in an $\epsilon$-greedy policy, denotes the degree of exploration.
+* $\alpha,\beta$ - step size parameters
+* $\gamma$ - discount rate parameter
+* $\gamma_t$ - discount at time $t$.
+* $\lambda$ - trace decay rate for eligibility traces.
+* $\lambda_t$ - trace decay at time $t$.
+
+* $v_\pi(s)$ - state value function for policy $\pi$
+* $v_\ast(s)$ - optimal / true value function.
+* $q_\pi(s,a)$ state-action value function for policy $\pi$. 
+* $q_\ast(s,a)$ optimal / true state-action value function.
+* $(B_\pi v)(s)$ - Bellman operator for value function $v_\pi$
+* $V_t$ - estimate for state value function at time $t$
+* $\overline{V_t}$ - expected approximate action value
+* $Q_t$ - estimate for state-action value function at time $t$
+* $\hat{V}_t$ - expected approximate action value
+
+* $G_t$ - return at time $t$.
+* $h$ - horizon. the time step we look up to during a forward view.
+* $G_{t:t+n}$ - n-step return from $t+1$ to $t+n$.
+* $\overline{G_{t:h}}$ - flat return (undiscounted, uncorrected).
+* $G_t^\lambda$ - $\lambda$- return.
+* $G_{t:h}^\lambda$ - truncated , corrected $\lambda$ return.
+* $G_{t}^{\lambda s},G_{t}^{\lambda a}$ - $\lambda$-return, corrected by estimated state or action vlaue.
+
+* $\mu$ - on-policy distribution
+* $\rho_t$ - importance sampling ratio, taken to be the per-step importance sampling ratio.
+* $\rho_{t:T-1}$ - importance sampling ratio from time $t$ to $T-1$.
+
+
+* $U_t$ - target for estimate at time $t$.
+* $\delta_t$ - temporal difference error at $t$.
+* $\delta_t^a, \delta_t^s$ - state and action specific forms off the TD error
+
+* $\hat{v}(s,w)$ - approximate value of state $s$  given parameters $w$.
+* $\hat{q},(s,a, w)$ - approximate value of action pair $s,a$ given $w$.
+* $x(s)$ - vector of features visible when in state $s$.
+* $x(s,a)$ - vector of features visible when in state-action pair
+
+* $z_t$ - the eligibility trace $z_t$.

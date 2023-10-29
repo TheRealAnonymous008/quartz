@@ -15,7 +15,7 @@
   $$
   
   Where $p$ is the [[Markov Processes in Machine Learning|dynamics]] function
-0
+
 * The **optimal Bellman equations** describe the optimal policy $\pi_\ast$.
   $$
 	\begin{split}
