@@ -22,6 +22,10 @@
 * [ICML proceedings](https://icml.cc)  - also has Tutorials.
 * [ICLR proceedings](https://iclr.cc)  
 * [IJCAI proceedings](https://www.ijcai.org) 
-* [NeuroIPS](https://nips.cc) - another trusted conference for AI/ML matters.
+* [NeuroIPS](https://nips.cc) - another trustedconference for AI/ML matters.
+
+
 * [Notes on AI](https://notesonai.com/Notes+on+AI)  - a published obsidian vault containing notes on ML
+* [Lil'Log](https://lilianweng.github.io) - a knowledge vault containing detailed notes on ML from a member of the OpenAI safety team
+
 * [paperswithcode](https://paperswithcode.com) - A site that archives different ML research papers.

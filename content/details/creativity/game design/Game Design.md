@@ -18,4 +18,5 @@
 * [[Design of Everyday Things]] - more on design. In particular, focus on Iterative Design, wherein games are made as they are being playtested
 
 * The game of [Set](https://www.youtube.com/watch?v=EkFX9jUJPKk) for game design inspiration.
+* [Games in Powerpoint are a thing](https://www.youtube.com/watch?v=KDUiw2BHE5Y)
 * [[Unity]] - a game engine.

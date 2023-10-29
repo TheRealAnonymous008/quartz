@@ -14,8 +14,12 @@
 * In a Reinforcement Learning problem, agents always aim to maximize the reward even if they may not be able to achieve it.
 * Reinforcement learning has the following elements:
 	* A **policy** that defines the response of the agent given some environmental stimulus. The response comes as a probability distribution on the set of actions. The **actions** capture decisions to be learnt by the agent.
+		* The **on-policy distribution** $\mu$ is the distribution of the states that is obtained from following the current policy
 	* A **reward signal** defines the goal of the agent.
 	  The reward signal is given by the environment and is agnostic to any agent's prior knowledge. This is done so the agent does not "decree" that it has received a good reward.
+		* We denote the reward as $r$.
+		* If we are dealing with the reward from going from $s_t$ to $s_{t+1}$ by taking $a_t$, we have the reward as $R(s_t,a_t,s_{t+1})$
+		  
 	* A **value function** specifies a function that is being optimized in the long run. It encodes the total amount of reward that can be achieved on average. *The value function dictates how an agent is to be optimized*.
 		* *Domain knowledge is best put in the value function*. It can also be put in the initialization but note that the distribution may be nonstationary.
 

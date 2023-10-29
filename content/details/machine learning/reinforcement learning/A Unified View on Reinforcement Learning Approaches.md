@@ -126,6 +126,9 @@ $$ And to assure all sums are finite, we have that $\prod_{k=t}^\infty \gamma_k 
 * In the **forward view** we perform updates based on the next $n$ rewards and states $n$ steps ahead in the future. This is the approach in [[Temporal Difference Learning]].
 * In the **backward view**, we look backward to recently visited states. This is achieved via [[Eligibility Traces]].
 * Both views are equivalent and one can transform from one to the other
+# Action-Based vs Policy Based
+* **Action-value methods** learn the values of actions and then select actions based on the estimated values.
+* **Policy-Based methods** learn a parameterized policy that can select actions without consulting a value function (this is thee approach for [[Policy Gradient Methods]])
 # Other Dimensions
 * **Value Estimated**: Which do we estimate?
 	* Action values

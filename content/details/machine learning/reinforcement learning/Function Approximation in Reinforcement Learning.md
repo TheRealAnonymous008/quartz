@@ -91,6 +91,7 @@
 * [[On Policy Prediction and Control with Approximation ]]
 * [[Off Policy Prediction and Control with Approximation]]
 * [[Eligibility Traces]]  - a useful (most cases mandatory) construct when it comes to function approximation
+* [[Policy Gradient Methods]]
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]
 	* 9.1 - 9.2 - the objectives of function approximation
