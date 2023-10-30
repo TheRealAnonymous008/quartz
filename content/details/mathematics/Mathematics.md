@@ -1,7 +1,14 @@
 * In learning Mathematics, prioritize understanding the definitions first using examples if needed. Then, understand what the theorems are saying. Finally, understand the proofs on why a theorem should be true (analogous to the [[Reading#Three Pass Approach|three pass approach]])
-
-* [The Ansatz Technique](https://en.wikipedia.org/wiki/Ansatz) pertains to solving a problem using an educated guess or assumption  about the solution which may later be verified to be part of the solution.
+# Topics
+* [[Calculus]]
+* [[Graph Theory]]
+* [[Group Theory]]
+* [[Information Theory]]
+* [[Linear Algebra]]
+* [[Probability and Statistics]]
 # Unfiled Math Objects
+* [The Ansatz Technique](https://en.wikipedia.org/wiki/Ansatz) pertains to solving a problem using an educated guess or assumption  about the solution which may later be verified to be part of the solution.
+
 * A quaternion $w+xi+yj+zk$ can be represented as the rotation corresponding to 
   $$
   \cos{\left(\frac{w}{2}\right)} + \sin{\left(\frac{w}{2}\right)}(x\hat{i}+y\hat{j}+z\hat{k})
@@ -19,12 +26,7 @@
   f(E[X])\le E[f(x)]
   $$
   That is, the output of the average input from $X$ is smaller than the average output from $f(X)$.
-# Topics
-* [[Calculus]]
-* [[Group Theory]]
-* [[Information Theory]]
-* [[Linear Algebra]]
-* [[Probability and Statistics]]
+
 # Links
 * [[Graph Theory With Applications by Bondy and Murty]]
 * [[Introduction To Graph Theory by Wilson]]

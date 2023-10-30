@@ -1,5 +1,6 @@
 * *The world is nothing but change, our life nothing but perception.* Change your perception of things to change how you experience the world.
 	* *Think of yourself as dead*. You have lived your life. Now take what's left and live it properly.
+	* [By imagining a world without you, you realize how insignificant most of life's problems are](https://www.youtube.com/watch?v=1dTTknWgoZk)
 
 * Neither pleasure nor pain are inherently good or bad. *Good or bad is merely a human notion.* [^3]
 

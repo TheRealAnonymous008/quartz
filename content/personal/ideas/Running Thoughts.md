@@ -15,4 +15,4 @@
   Steelman argument -- respond to the strongest argument of the opposition. 
 
 
-* [By imagining a world without you, you realize how insignificant most of life's problems are](https://www.youtube.com/watch?v=1dTTknWgoZk)
+

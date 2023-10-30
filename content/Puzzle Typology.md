@@ -47,7 +47,6 @@
 * 
 # [[Grid Puzzles]]
 
-
 # Mechanical Puzzles
 ### Construction Puzzles and Packing Puzzles
 

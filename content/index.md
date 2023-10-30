@@ -77,16 +77,17 @@ A broad listing of all the topics that I have made notes on. You can find more a
 
 
 # Personal Section
-A listing of personal thoughts and insights.
+More about me.
 
 * [[Beliefs and General Principles]]
 * [[Interesting People]]
 * [[Literature Index]]
+* [[Running Thoughts]] - contains unfiled thoughts.
 * [[Software Tools]]
 * [[Words]]
 
 # Miscellaneous 
 A listing of miscellaneous things in the Library.
 
-* [[Exploration Garden]] - some topics I may get to in the future.
+* [[The Antilibrary]] - contains unread or interesting material for the very far future.
 * [[Update Logs]] - Not yet functional, but serves as a listing of recently updated notes.

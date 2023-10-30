@@ -2,6 +2,7 @@
 * Agrippa (The Book of the Dead)
 # Fiction
 * [[Hell Screen]]
+* [[Junji Ito's Works]]
 * [[Moby Dick]]
 * [[The Stranger]]
 
