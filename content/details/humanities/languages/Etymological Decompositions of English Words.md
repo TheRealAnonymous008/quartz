@@ -1,4 +1,3 @@
-
 ### A
 * **Abject** - to throw away (as in because of poor quality)
 * **Abolish** - away from growth / nourishment (to retard)
@@ -11,13 +10,17 @@
 * **Acrobat** - one who tiptoes / climbs up high.
 * **Acrostic** - (lit) outermost lines 
 * **Acuity / Acumen / Acute** - sharp like a needle
+* **Actuary** - (lit) a doing, pertaining to public businesses
 * **Adagio** - At leisure.
 * **Adjacence** - to throw at (in order to lay close to something)
 * **Adultery** - (lit) to alter / corrupt.
 * **Advice**  / **Advise** - "mi est visum" (in my view) 
 * **After** - off (later) farther in time
+* **Agency** - to incite to action , keep in movement
+* **Agenda** - things to be done
 * **Aggravate** - to weigh down or make heavy.
 * **Agree** - to please (pleasing)
+* **Agony** - a struggle for victory. In general, any struggle or trial
 * **Ahimsa** - Without injury
 * **Akron** - at the furthest point
 * **Alias** - in another way 
@@ -43,7 +46,9 @@
 * **Ancillary** -One who moves around (as in one who is subordinate or subservient)
 * **Anniversary** - returning annually
 * **Answer** - Swear Against (as in sworn statement rebutting a change)
+* **Antagonize** - to struggle against.
 * **Aorta** - a strap to hang something (the heart) by.
+* **Apagoge** - to drive / lead away
 * **Apanthropy** - away from man 
 * **Aperitif** - (lit) uncovering / opening. (pertaining to opening up one's appetite)
 * **Aperture** - (lit) opening (pertaining to holes)
@@ -59,11 +64,14 @@
 * **Atrabilious** - (lit) black bile, pertaining to melancholy. Can also be rooted in "blackened by fire"
 * **Atrocity** - To see fire
 * **Aura** - cool air in motion.
+* **Auriga** - one who puts the reins of a horse in motion (a.k.a a charioteer)
 * **Auspex** - (lit.) To observe birds (as in pertaining to forecasting omens)
-* **Avant** Garde - Advance Guard
+* **Auto da fe** - act of faith
+* **Avant Garde** - Advance Guard
 * **Avert** - to turn away from
 * **Award** - to watch out
 * **Awkward** - in a back-handed direction.
+* **Axiom** - worthy / worth of like value.
 ### B
 * **Baleen** - from swollen penis (pertaining to how whales are phallic shaped).
 * **Ballot** - (hist.) pertains to small balls used as counters in secret voting.
@@ -84,17 +92,22 @@
 * **Bulwark** - a construction of logs (lit. wood work).
 * **But** - near without (as in pertaining to something outside or an exception)
 ### C
+* **Cache** - (lit) to collect together
+* **Castigate** - (lit) to purify by driving away (evil)
 * **Catheter** - a tool to send down
 * **Cauliflower** - (lit) cabbage flower
+* **Caviar** - pertaining to eggs
 * **Clairvoyant** - (lit.) clear seeing.
 * **Coalesce** - (lit) grow together.
 * **Coelacanth** - hollow spine.
+* **Cockney** - cock's egg, derisively used for town dweller.
 * **Conjecture** - to throw together (as in for an interpretation of something)
 * **Controversy** - to turn against
 * **Covert** - (lit). covered / hidden
 ### D
 * **Daisy** - (lit.) sun's eye
 * **Defray**- to spend out (due to costs caused by damages). Alternatively, a cost for peace.
+* **Demagogue** - leader of the common people.
 * **Despicable**- (one deserving) to be looked down upon
 * **Diagnosis** - (lit) to know apart from another
 * **Discover** - (lit). to undo a covering / expose
@@ -111,6 +124,8 @@
 * **Enhance / Exalt** - (lit) to make high.
 * **Envy** - to look at and cast an evil eye upon (literally see upon)
 * **Ephor** - oversee
+* **Essay** - to set out in motion
+* **Exact / Examine** - (lit) to force out
 * **Excalibur** - (lit) hard-belly / voracious.
 * **Expect** - to thoroughly look at (with anticipation)
 * **Extrovert** - to turn outside 
@@ -123,6 +138,7 @@
 * **Follicle** - inflated bag
 * **Fool** - windbag / inflated (as in one's head is full of air / nothing).
 * **Fractal** - interrupted, literally broken.
+* **Fumigation** - (lit) to drive out smoke
 ### G
 * **Garment** / **Garnish** - (lit) covering
 * **Grief** - weighty (as in pertaining to a feeling)
@@ -132,6 +148,7 @@
 * **Haught** - (lit) high
 * **History** - an account of inquiries, something witnessed by an expert
 * **Hobnob** - To have or have not ; to take or not take ; To toast each other
+* **Hypnagogic** - (lit) driving towards sleep.
 ### I
 * **Influence** - flowing out of (the source pertains to something ethereal or vaporous).
 * **Inspect** - to look into 
@@ -142,6 +159,7 @@
 * **Kerchief** - (lit) head covering.
 ### L
 * **Legerdemain** - light handed
+* **Litigate** - (lit) to drive a suit
 * **Lonely** - A lonely heart ; A lonely-hearted person.
 * **Lord** - (lit) one who guards the loaves (pertaining to Yahweh)
 ### M
@@ -157,15 +175,21 @@
 * **Meridian** - Middle Day (as in of midday or noon)
 * **Meteor** - (lit) something high up.
 * **Milieu** - Middle place (as in the middle of the environment)
+* **Mitigate** - (lit) to make soft, to drive out softly
+* **Mystagogue** - leader of mystery
 ### N
+* **Navigate** - to lead / drive with a ship.
 * **Nefarious** - Not Lawfully or Divinely spoken
 * **Neglect** - Not Picked up or selected
 * **Nepenthe** - No Pain or Grief.
 ### O
 * **Oboe** - (lit) high pitched wood.
+* **Ocarina** - goose like
 * **Offal** - that which is not allowed to fall off the butcher's block as being of little use. (literally means fall off)
 * **Ombudsman** - man who is made aware of those in command.
 * **Ostracism** - Originated from an Athenian practice where the citizens each indicated the name of the man they wished banished by scratching it on a potsherd or tile (which comes from the PIE word for bone).
+* **Oval** - pertaining to an egg / egg-shape 
+* **Ovary** - egg
 * **Overt** - (lit) off cover (lit. uncover)
 * **Oxygen** - (lit) something that produces an acid.
 * **Oxymoron** - (lit) pointedly foolish.
@@ -175,23 +199,29 @@
 * **Parallax** - to change the other.
 * **Parallel** - beside on another
 * **Paramount** - Per Ad Montem / to the hill (as in, through upward)
+* **Pedagogue** - leader of the children (as in the schoolmastet)
 * **Perspective** - to look through
 * **Phlegm** - (lit) inflammation, flame, fire, heat
 * **Plain** - flat / smooth (as in pertaining to a dress, and later intonation and character).
 * **Planet** - wandering stars. 
 * **Plasma** - to spread thin  (in order to mold)
 * **Plebeian** - to be a part of the multitude (as in the common class)
+* **Plutogogue** - the leader of the wealth (one who justifies the interests of the wealthy)
 * **Prolific / Proliferation** - to have grown forth/ / the process of growing forth.
 * **Pole** - (as in a resident of Poland) field dwellers.
 * **Polyp** - filled foot (i.e., pertaining to a cuttlefish.)
 * **Portfolio** - (lit) leaf one carries (leaves pertain to documents)
+* **Prodigal** - to drive away or waste
 * **Prose** - turned forward (as in pertaining to straightforward speech)
 * **Prospect** - to look forward
+* **Protagonist** - first actor
 * **Prudent** - to look ahead (as in, someone who looks ahead or act deliberately with foresight)
+* **Purge** - to drive to purity
 * **Pylorus** - (lit) gate watcher / guardian
 * **Pyracanth** - fiery thorny plant.
 ### Q
 ### R
+* **Redact** - to force back to a certain state.
 * **Reject** - to throw away (as in to refuse)
 * **Religion** - To bind fast to an obligation (as in to God). 
 * **Rely** - (Archaic) To fasten or bind oneself to another thing. (Modern) Used as a notion of something to fall back on (as in to rally to)
@@ -207,9 +237,11 @@
 * **Somnambulism** - (lit) sleep walking
 * **Species** - a sight or outward appearance (and hence a means to classify things based on physical appearance)
 * **Spice** - a kind or sort of (applied in particular to medication or alchemy)
+* **Squat** - to bring together (as in to crush or crouch by bending one's legs together.)
 * **Stalwart** - to stand excellently.
 * **Steward** - (lit) guard of cattle / house
 * **Story** - a short history
+* **Strategy** - to lead a camping army / to lead that which is spread out
 * **Suffrage** - shout under (i.e., in support of someone).
 * **Supply** - to fill from below (as in to support)
 * **Synallagmatic** - (lit) together in thing taken in exchange (pertaining to a contract)

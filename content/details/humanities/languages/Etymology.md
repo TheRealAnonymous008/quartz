@@ -3,6 +3,7 @@
 # Topics
 * [[Etymological Decompositions of English Words]]
 * [[Proto-Indo-European Etymology]]
+* [[Greco-Latin Etymology]]
 
 ### Unknown Word Roots
 * [Otium](https://www.etymonline.com/word/negotiate?ref=etymonline_crossreference) - ease / leisure

@@ -190,6 +190,6 @@
 
 # Links
 * [Cracking the Cryptic](https://www.youtube.com/@CrackingTheCryptic) - really good channel that solves (primarily) variant sudoku and cryptic crosswords.
-* [Cross+A](https://www.cross-plus-a.com/puzzles.htm) - website with a typology of logic puzzles.
+* [Cross+A](https://www.cross-plus-a.com/puzzles.htm) - website with a typology of logic puzzles. Main source for other non-sudoku variants. 
 * [F-puzzles](https://f-puzzles.com) - for setting your own sudoku puzzles.
-* [Logic Puzzles Index](https://www.logic-puzzles.ropeko.ch/php/db/search.php) - main source for other non-sudoku variants. 
+* [Logic Puzzles Index](https://www.logic-puzzles.ropeko.ch/php/db/search.php) - 

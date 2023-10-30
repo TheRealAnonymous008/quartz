@@ -1,137 +1,154 @@
-* [Ad](https://www.etymonline.com/word/*ad-?ref=etymonline_crossreference) - to / near / at
-	* *a / ab / ad / ap* - to do something
-	* *adj / ad* (as in adjacent) - to put next to
-* [Aiw/Ayu](https://www.etymonline.com/word/*aiw-?ref=etymonline_crossreference) - vital force / life / long life / eternity
-	* *ae / e*- lifetime / age
-	* *ei*  (similar to each / ever) - always 
-	* *ewi / oyu* - eternity
-* [Ak](https://www.etymonline.com/word/*ak-?ref=etymonline_crossreference) - be sharp / rise out to a point / pierce
-	* *ac / acer / aci / acr / ag / ago / ako* - sharp
-	* *acr / acro* - highest, topmost at the extremes edges of.
-	* *acu* - sharp. pertaining to needles / pointed things specifically.
-	* *canth / kanth* - thorns / spine
-	* *oxy* - sharp / pointed acid. 
-* [Al](https://www.etymonline.com/word/*al-?ref=etymonline_crossreference#etymonline_v_52550) - beyond / to grow, nourish
-	* *al / ali / alu / ol / ul* - nourish or grow
-	* *al / ali / el  / out* - beyond / another
-	* *allo / ot* - other / different 
-	* *alt / alti / ha / hau / hei* - pertaining to height (as in grown tall)
-	* *eld / ol / old* - one who has grown
-	* *ul / ult* - beyond / extremely
-* [Ambhi](https://www.etymonline.com/word/*ambhi-?ref=etymonline_crossreference) - around / from both sides.
-	* *ab / amb / an / anci / be / bi / emb / um* -  around
-	* *ambi* - both or on both sides
-	* *amba / ambu / amble* - moving around
-	* *amph / amphi* - both kinds
-* [Ant](https://www.etymonline.com/word/*ant-?ref=etymonline_crossreference) - front / forehead / before/ end 
-	* *am / an / ant / ante / anti / avan* - before / in front of / previous  
-	* *andi / anti / un* - facing opposite or against
-	* *end / enti* - end / opposite site
-* [Apo](https://www.etymonline.com/word/*apo-?ref=etymonline_crossreference) - off / away 
-	* *ab / apo / aft / awk / of / ov* - away from / from off / down
-* [Ater](https://www.etymonline.com/word/*ater-?ref=etymonline_crossreference) - fire
-	* *atra / atri*- fire
-	* *atro* - fierce / cruel
-* [Bhel](https://www.etymonline.com/word/*bhel-?ref=etymonline_crossreference#etymonline_v_52668) - to shine / flash / burn/ to blow / swell / to thrive / bloom
-	* *bal / bale /  ball / blo /  bol / boll / boul / bowl / bul / phall* - to blow / swell / ball-shaped
-	* *bel / blan / blanc / blas / ble /  blu*  - white / pale / shining color
-	* *bell / bilg / bill / bols / boug / bulg / fol / foo / ful* - inflated (bag).
-	* *bla / blak / phle / phlo* - burned / scorched /  dark 
-	* *bla / feuille / foi / foli / phyllo* - bloom / thrive, pertaining to leaves or leaf-like things.
-	* *ble / blo*- bloom / spurt out (as in blood)
-	* *bli / blu / ful / fulg* - shining / flash
-	* *blo / blu / flav* - pale / light colored (blue or yellow colored)
-	* *flu / flue / flui / fluor / phlo* - flowing
-	* *fla / flag / flam* - burning / glowing
-	* *flo / flor / flou* - bloom / thrive, pertaining to flowers.
-* [Bhreg](https://www.etymonline.com/word/*bhreg-?ref=etymonline_crossreference) - to break
-	* *brak / brek / fra / fract / frag / frage / frang* - break / broken / split
-* [Dher](https://www.etymonline.com/word/*dher-?ref=etymonline_crossreference) - to hold firmly / support
-	* *farm / fer / ferm / firm* - firm
-	* *thr* (as in throne)
-* [Epi / Opi](https://www.etymonline.com/word/epi-?ref=etymonline_crossreference) - on / upon / above / near / at / against
-	* *ob* - towards
-* [Erkw](https://www.etymonline.com/word/Rig%20veda#etymonline_v_15075) - radiate / beam / praise
-* [Geus](https://www.etymonline.com/word/*geus-?ref=etymonline_crossreference) to taste / to choose 
-	* *gus* - relating to food and taste
-	* *keus* (root for choose and Valkyrie) - relating to choice
-* [Gno](https://www.etymonline.com/word/*gno-?ref=etymonline_crossreference) - to know
-	* *can / cogni / cogno / connai / conno /  cou / cun / gnos / kno / narr / qua*  - known / aware
-	* *gnor* - to make known
-	* *nob / noti / noto* - well known / prominent
-* [Gwere](https://www.etymonline.com/word/*gwere-?ref=etymonline_crossreference#etymonline_v_53052) - heavy / favor
-	* *bar / bri / bru / gra / grav / gri /  kri* - heavy
-	* *grac / grat* - favor
-* [Kom](https://www.etymonline.com/word/com-?ref=etymonline_crossreference) - with / together
-	* *co / cog / col / con / cor* - with or together 
-* [Ksun](https://www.etymonline.com/word/syn-#etymonline_v_24489) - with
-	* *sy / syl / sym / syn* - with, alike or at the same time. 
-* [Kwenth](https://www.etymonline.com/word/*kwent(h)-?ref=etymonline_crossreference) - to suffer
-	* *pathy* / *pathos* - pertaining to feelings 
-	* *pathos* (as in pathogenic) - pertaining to suffering and disease.
-* [Leig](https://www.etymonline.com/word/*leig-?ref=etymonline_crossreference) - to tie or bind.
-	* *lea / leg / lia / lier /  lig / loy* - bind to another
-* [Man](https://www.etymonline.com/word/*man-?ref=etymonline_crossreference#etymonline_v_52623) - man / hand 
-	* *mand / mend* - order or commit 
-	* *main* - hands
-* [Medhyo](https://www.etymonline.com/word/*medhyo-?ref=etymonline_crossreference) - middle
-	* *med / medi / mei / mesi / meso / mezzo / mi / mid*  - middle
-* [Ne](https://www.etymonline.com/word/*ne-?ref=etymonline_crossreference) - not
-	* *a* - prefix for negation / without
-	* *n / ne /  neg / no / non / un* - negate
-	* *nih / nil / nul* - nothing
-* [Oi-No](https://www.etymonline.com/word/*oi-no-?ref=etymonline_crossreference) one / unit (pertaining to inches or ounces)/ unique.
-	* *ein / on / one / un / unc / uni / unus* - one 
-* [Okw](https://www.etymonline.com/word/*okw-?ref=etymonline_crossreference) - to see
-	* *oc / ocu / oeg / oeil /  op / opt / oug / ow* - eye
-	* *ops / opto / optic* - sight 
-* [Ost](https://www.etymonline.com/word/*ost-?ref=etymonline_crossreference) - bone
-	* *oss / osteo / ostra* - pertaining to bones
-* [Pele](https://www.etymonline.com/word/*pele-?ref=etymonline_crossreference#etymonline_v_52732) - to fill / be filled or in abundance / flat / to spread out
-	* *fla / feld / fleur / pla / plan / plane / plani / plano / pol* - flat / level 
-	* *plasia / plasm / plasma / plast* - formation / growth / development / molded
-	* *ple / pli / ply* - fill or to be filled
-	* *pleio / pleo / plio* - more
-	* *plu / pluri / plus / poly / polys* - many 
-* [Spek](https://www.etymonline.com/word/*spek-#etymonline_v_52870) - to observe
-	* *spec / spect / spi / spic* - to look or observe.
-	* *scope* - instrument for observing
-* [Weid](https://www.etymonline.com/word/*weid-?ref=etymonline_crossreference) - to see 
-	* *eid / his / id /  wid / wis* - wise, perceptive, or knowing
-	* *gui* - to see (as in to guide someone)
-	* *gwyn* - visible (as in white, shining)
-	* *ide / idei / ideo* - to see (as in an idea or concept)
-	* *vede / vid / vis /  view / voy* - to see (as in a view or perspective)
-* [Wekti](https://www.etymonline.com/word/wight?ref=etymonline_crossreference) - thing / creature
-	* *wight*
-* [Wer](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference#etymonline_v_52647) - to raise, lift or hold suspended / to turn or bend / perceive, watch out for / to cover
-	* *aer / aero / air / ari / aura* - relating to air, that which rises.
-	* *aor / eor* - to hang / suspend
-	* *eri / ert / ker / ver / vert* - cover
-	* *gar / guar / warn / wehr* - cover / protect
-	* *gard / oran / orama / orus / ward / ware* - to watch
-	* *ouros / urus / uard / ward* - watcher / guardian
-	* *rhab / rhap* - bend / pertaining to rods / sewn together
-	* *ver / verg / vers / vert / vors / vort* - to turn / be converted / changed
-	* *vere* - to watch out for / perceive
-	* *verm / wrmi* - pertaining to worms or worm like things
-	* *ward* - to turn towards
-	* *ware* - goods.
-	* *warr* - to cover for via grants / guarantee
-	* *wor / wei / wort* - to turn
-	* *wra / wre* - to turn / wind / twist
-	* *wri* - to bend
-* [Were](https://www.etymonline.com/word/verb?ref=etymonline_crossreference) - to speak
-	* *verb / rhet* - pertaining to words
-* [Ye](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) - to throw / impel
-	* *e / he / gi /  ja / je / jet* - throw against
+# Listing
+* [Ad](https://www.etymonline.com/word/*ad-?ref=etymonline_crossreference) 
+	* to / to do something
+	* near  / to put next to
+	* at
+* [Ag](https://www.etymonline.com/word/*ag-?ref=etymonline_crossreference) 
+	* to drive to action / to lead 
+	* to draw out or forth 
+	* to drive away / to waste
+	* to move
+* [Aiw/Ayu](https://www.etymonline.com/word/*aiw-?ref=etymonline_crossreference)
+	* vital force / lifetime / age 
+	* long life / eternity / always-ness 
+* [Ak](https://www.etymonline.com/word/*ak-?ref=etymonline_crossreference) 
+	* be sharp (pertaining to pointed things, or metaphorically a bitter or sour taste) 
+	* rise out to a point / pierce
+* [Al](https://www.etymonline.com/word/*al-?ref=etymonline_crossreference#etymonline_v_52550) 
+	* beyond (other or different) 
+	* beyond (as in extremities) 
+	* to grow, nourish 
+	* pertaining to height (as in one who has grown tall)
+* [Ambhi](https://www.etymonline.com/word/*ambhi-?ref=etymonline_crossreference) 
+	* around 
+	* from both sides 
+	* moving around
+* [Ant](https://www.etymonline.com/word/*ant-?ref=etymonline_crossreference) 
+	* front / forehead 
+	* before 
+	* end / opposite or against
+* [Apo](https://www.etymonline.com/word/*apo-?ref=etymonline_crossreference)
+	* off / away from  
+	* down
+* [Ater](https://www.etymonline.com/word/*ater-?ref=etymonline_crossreference) 
+	* fire 
+	* fiery or cruel
+* [Awi](https://www.etymonline.com/word/*awi-?ref=etymonline_crossreference)
+	* pertaining to birds or bird-like things
+	* pertaining to eggs.
+* [Bhel](https://www.etymonline.com/word/*bhel-?ref=etymonline_crossreference#etymonline_v_52668) [^1]
+	* to blow or swell
+	* to become ball-shaped
+	* to inflate
+	* white / pale / shining color
+	* black / scorched / dark
+	* bloom / thrive (like leaves)
+	* bloom / spurt out (as in blood)
+	* shining / flash
+	* pale / light-colored (blue or yellow)
+	* to flow out
+	* burning / glowing
+	* to bloom like flowers.
+* [Bhreg](https://www.etymonline.com/word/*bhreg-?ref=etymonline_crossreference) 
+	* to break
+	* broken
+	* to split
+* [Dher](https://www.etymonline.com/word/*dher-?ref=etymonline_crossreference) 
+	* to hold firmly 
+	* to support
+	* something sturdy
+* [Epi / Opi](https://www.etymonline.com/word/epi-?ref=etymonline_crossreference) 
+	* on / upon / above 
+	* near / at 
+	* against
+	* towards
+* [Erkw](https://www.etymonline.com/word/Rig%20veda#etymonline_v_15075) 
+	* to radiate / beam / praise
+* [Geus](https://www.etymonline.com/word/*geus-?ref=etymonline_crossreference) 
+	* to taste / pertaining to taste.
+	* to choose / pertaining to choice
+* [Gno](https://www.etymonline.com/word/*gno-?ref=etymonline_crossreference) 
+	* to known
+	* to become known / aware
+	* to make known
+	* well-known
+* [Gwere](https://www.etymonline.com/word/*gwere-?ref=etymonline_crossreference#etymonline_v_53052) 
+	* heavy
+	* to favor
+* [Kom](https://www.etymonline.com/word/com-?ref=etymonline_crossreference) 
+	* with / together
+* [Ksun](https://www.etymonline.com/word/syn-#etymonline_v_24489) 
+	* with / alike or at the same time
+* [Kwenth](https://www.etymonline.com/word/*kwent(h)-?ref=etymonline_crossreference)
+	* to suffer (as in to feel)
+	* to suffer (as in disease)
+* [Leig](https://www.etymonline.com/word/*leig-?ref=etymonline_crossreference) 
+	* to tie or bind.
+* [Man](https://www.etymonline.com/word/*man-?ref=etymonline_crossreference#etymonline_v_52623) 
+	* man
+	* to order 
+	* to commit
+	* pertaining to hands
+* [Medhyo](https://www.etymonline.com/word/*medhyo-?ref=etymonline_crossreference) 
+	* middle
+* [Ne](https://www.etymonline.com/word/*ne-?ref=etymonline_crossreference)
+	* not / negation
+	* nothingness.
+* [Oi-No](https://www.etymonline.com/word/*oi-no-?ref=etymonline_crossreference) 
+	* one
+	* unit (pertaining to inches or ounces)
+	* unique.
+* [Okw](https://www.etymonline.com/word/*okw-?ref=etymonline_crossreference) 
+	* to see
+	* pertaining to the eyes
+	* pertaining to seeing / sight
+* [Ost](https://www.etymonline.com/word/*ost-?ref=etymonline_crossreference) 
+	* bone / pertaining to bones
+* [Pele](https://www.etymonline.com/word/*pele-?ref=etymonline_crossreference#etymonline_v_52732) 
+	* to fill 
+	* to flatten 
+	* to spread out 
+	* to level out
+	* pertaining to something flat
+	* pertaining to formation, growth or development
+	* to be filled / in abundance / more-ness / multitude / many-ness
+* [Spek](https://www.etymonline.com/word/*spek-#etymonline_v_52870) 
+	* to observe
+	* pertaining to instruments for observing
+* [Weid](https://www.etymonline.com/word/*weid-?ref=etymonline_crossreference) 
+	* to see (guide someone)
+	* to see (imagine) 
+	* to see (as in perceive or vview)
+	* visible (as in white / shining)
+	* wise / perceptive or knowing
+* [Wekti](https://www.etymonline.com/word/wight?ref=etymonline_crossreference) 
+	* thing / creature
+* [Wer](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference#etymonline_v_52647) 
+	* to raise or lift
+	* to hang suspended
+	* relating to air / that which rises
+	* to turn (as in bend)
+	* to turn (as in to change)
+	* to turn (towards)
+	* to turn (as in to wind or twist)
+	* pertaining to rods
+	* pertaining to worms
+	* perceive / watch / watch out for
+	* one who watches
+	* to cover
+	* to protect
+	* pertaining to goods
+* [Were](https://www.etymonline.com/word/verb?ref=etymonline_crossreference) 
+	* to speak
+	* to pertaining to words
+* [Ye](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) 
+	* to throw against
+	* to impel
 
-### Breakdowns
+[^1]: It's amusing how this PIE word corresponds to both white and black. 
+# Breakdowns
+# Future PIE
 
-
-### Future PIE
-* [Ag](https://www.etymonline.com/word/*ag-?ref=etymonline_crossreference) - to drive / draw out or forth / move
-* [Awi](https://www.etymonline.com/word/*awi-?ref=etymonline_crossreference) - pertaining to birds
 * [Bha](https://www.etymonline.com/word/*bha-?ref=etymonline_crossreference#etymonline_v_52548) - to shine / to speak, tell or say
 
 * [Bher](https://www.etymonline.com/word/*bher-?ref=etymonline_crossreference#etymonline_v_52553) - to carry / bear children / bright / brown
@@ -210,7 +227,10 @@
 * [Wi-ro](https://www.etymonline.com/word/*wi-ro-?ref=etymonline_crossreference) - man
 
 ## New Batch
+* [Bheidh](https://www.etymonline.com/word/*bheidh-) - to trust / confide / persuade
+* [Da](https://www.etymonline.com/word/*da-) - to divide
 * [Dhe](https://www.etymonline.com/word/*dhe-) - to set / put
+* [Dheu](https://www.etymonline.com/word/*dheu-#etymonline_v_53808) - dust, vapor, smoke
 * [Kel](https://www.etymonline.com/word/*kel-#etymonline_v_52556) - to cover / conceal / save / to be prominent / hill
 * [Keue](https://www.etymonline.com/word/*keue-) - to swell / vault / hole
 * [Kwo / Kwi](https://www.etymonline.com/word/*kwo-)  - stem of relative and interrogative pronouns
@@ -218,5 +238,6 @@
 * [Plak](https://www.etymonline.com/word/*plak-#etymonline_v_52839) - to be flat / to spread / to strike
 * [Reg](https://www.etymonline.com/word/*reg-) - to move in a straight line / to lead or to rule
 * [Stel](https://www.etymonline.com/word/*stel-) - to put / stand / put in order. derivatives pertain to a standing object in place
+* [Stere](https://www.etymonline.com/word/*stere-) - to spread
 * [Trep](https://www.etymonline.com/word/*trep-) - to turn
 * [Werg](https://www.etymonline.com/word/*werg-) - to do
