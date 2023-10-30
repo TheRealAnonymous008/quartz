@@ -1,62 +1,136 @@
 
+* Although they usually play in rectangular or square grids, most grid puzzles can generalize to non-rectangular grids.
+	* Orthogonal simply means parallel to the edges of the cell.
+	* Diagonal simply means a combination of two orthogonal movements.
+* Many of these puzzles are published by Nikoli.
 # Grid-Based Puzzles
-### Kakuro
-* *Board*: Consists of filled and empty cells.
-  
-  Some filled cells contain a diagonal slash from top left to bottom right. They contain numbers called "clues". The number in the top right corner relates to an across clue. The one in the bottom right is a down clue.
+## Doing
+### Tenner Grid
+### Hundred
+### Arrows
+### Mathrax
+### Straights
 
-* *Goal*: Insert the digits one 1-9 into the white cells
-* *Constraint*: Entries corresponding to a clue must sum to the clue. 
-* *Constraint*: Clues may not repeat within an entry.
-* *Extension*: A given combination of numbers can only be used once in the grid.
+### Linesweeper
+### Binairo
+### Walls
+### Dominosa
+### Patchwork
 
-### Hitori 
-* *Board*: Standard board. Each cell contains a number.
-* *Goal*: Shade some cells such that there are no duplicate numbers in any row or column. 
-* *Constraint*: Shaded cells may not touch each other orthogonally (but they can touch diagonally). 
-* *Constraint*: The remaining cells must all be connected to each other orthogonally.
+### Knossos
+### Rekuto
+### Neighbors
+### Four Winds
+### Shakashaka
 
-### Slitherlink
-* *Board*: The board consists of a lattice of dots.
-  
-  Cells (not necessarily square) may have numbers inside them.
+### Kakurasu
+### Mochikoro
+### Seethrough
+### Lighthouses
+### Lighthouses Battleships
 
-* *Goal*: Draw a loop connecting the dots. There may be no loose ends. 
-* *Constraint*: Numbers represent how many of its four sides are segments in the loop
-
-### Link-A-Pix
-* *Board*: Standard board. Cells may contain numbers
-* *Goal*: Shade some cells corresponding to lines drawn on the board. The solved board will form a picture
-* *Constraint*: The cells with clues are the endpoints of a path and they represent the length of the path containing them (1 clues count as 1)
-* *Constraint*: Both endpoints of a path must contain clues. All clues are given.
-* *Constraint*: Paths may not cross
-
-### Fill-a-Pix
-* *Board*: Standard board. Cells may contain numbers
-* *Goal*: Shade some cells on the board. The solved board will form a picture.
-* *Constraint*: The cells with clues represent how many of the nine squares around it (including itself) should be filled in.
+## Done
+### Akari
+* *Goal*: Place light bulbs in white cells and light up the grid.
+* *Constraint*: Light bulbs may not shine on each other. Bulbs illuminate in all orthogonal directions. 
+* *Constraint*: Light is obstructed by the black cells.
+* *Constraint*: Numbers in black cells indicate how many bulbs must be placed adjacent to it. 
 
 ### Battleships
-* *Board*: Consists of a grid of squares that hides ships of different sizes.
-  
-  Numbers are placed alongside the grid.
-* *Goal*: Find the location of all the ships.
+* *Goal*: Find the location of all the ships on the grid.
 * *Constraint*: Ships do not touch each other. Not even diagonally.
 * *Constraint*: Numbers MAY indicate the number of squares in that row or column are occupied by part of a ship.
 * *Constraint*: Numbers MAY indicate the number of water segments in the ship
 
+### Calcudoku / Kenken
+* *Goal*: Fill the grid with the digits $1$ to $N$, where $N$ is the number of rows or column in the grid.
+* *Constraint*: Each row and column contains exactly one of each digit
+* *Constraint*: Each bold outlined region of cells contain digits which achieve the specified result using the specified mathematical operation 
+* Digits may otherwise repeat within a region.
+
+### Clouds
+* *Goal*: Similar to [[#Battleships]]
+* *Constraint*: Clouds occupy an area of rectangular shape with width and height of at least two cells.
+* *Constraint*: No clouds may touch each other. Not even diagonally.
+
+### Easy as ABC
+* *Goal*: Place the letters on the square grid.
+* *Constraint*: Letters outside the grid indicate which letter will come across first from that direction.
+* *Variant*: Some cells in the solution will be empty. 
+
+### Fill-a-Pix
+* *Goal*: Shade some cells on the board. The solved board will form a picture.
+* *Constraint*: The cells with clues represent how many of the nine squares around it (including itself) should be filled in.
+
+### FIllomino 
+* *Goal*: Divide the grid into polyominoes by filling in the boundaries of the cells (i.e., the edges)
+* *Constraint*: Each clue $n$ given is part of a polyomino of size $n$. 
+* *Constraint*: No polyominoes of matching size are adjacent to each other (i.e., share a side).
+* It is possible for two givens with matching numbers to be part of the same polyomino
+* It is possible for a polyomino to have no given at all.
+
+### Futoshiki
+* *Goal*: Place the numbers such that each row and column contains only one of each digits.
+* *Constraint*: The inequality symbols that are given must be respected by the cells incident to it.
+
+### Galaxies / Tentai Show
+* *Goal*: Draw lines along the edges of the grid to divide the grid into regions representing galaxies
+* *Constraints*: All galaxies must have $180\degree$ rotational symmetry.
+* *Constraint*: All galaxies contain exactly one dot at its center. The dot, therefore acts as the center of the symmetry
+
+### Grand Tour
+* *Goal*: Connect the grid of points together to form a single loop.
+
+### Hakyuu
+* *Goal*: Each polyomino section (called rooms) must be filled with the numbers $1$ to $n$, where $n$ is the number of cells in the room. 
+* *Constraint*: If two identical numbers appear in the same row or column, at least that many cells with other numbers must separate them. (i.e., if two threes appear, they must be at least three apart).
+
 ### Hashiwokakero / Hashi
-* *Board*: Standard grid. Some cells start out with marked numbers from $1-8$ called islands. The rest of the cells are empty.
 * *Goal*: Connect all islands by drawing a series of bridges between islands.
 * *Constraint*: Bridges must begin and end at distinct islands, travelling a straight line in between.
 * *Constraint*: Bridges cannot cross other bridges or other islands.
 * *Constraint*: Bridges travel straight orthogonally (no diagonal movements).
 * *Constraint*: At most two bridges connect a pair of islands.
-* *Constraint*: The number of bridges connected to each island must match the number on that island.
+* *Constraint*: The number of bridges connected to each island must match the clue given on that island.
 * *Constraint*: The bridges must connect the islands into a single connected group.
 
+### Heyawake
+* *Goal*: Shade some cells in the puzzle. 
+* *Constraints*: The grid is divided into variously sized rectangular rooms. 
+* *Constraint*: Shaded cells cannot be orthogonally connected, although they can touch diagonally.
+* *Constraint*: All unshaded cells form a single connected region.
+* *Constraint*: Some rooms contain a single number.
+* *Constraint*: A number indicates how many painted cells there are in that room.
+* *Constraint*: A room which has no number may contain any number of painted cells or none.
+* *Constraint*: Any line of unshaded cells that connects three or more rooms is forbidden. No straight orthogonal line may contain unshaded cells from more than two rooms.
+
+### Hidato
+* *Goal*: Fill the grid with consecutive numbers that connect horizontally, vertically or diagonally.
+* *Constraint*: The smallest and highest number are presented in the grid. 
+	* *Variant*: They may only be given without being presented on the grid.
+
+### Hitori 
+* *Goal*: Shade some cells such that there are no duplicate numbers in any row or column. 
+* *Constraint*: Shaded cells may not touch each other orthogonally (but they can touch diagonally). 
+* *Constraint*: The remaining cells must all be connected to each other orthogonally.
+
+### Kakuro
+* *Goal*: Insert the digits one 1-9 into the white cells (like a crossword)
+* *Constraint*: Some shaded cells contain clues that pertain to a contiguous run of white cells 
+  
+  Entries corresponding to a clue must sum to the clue. Top-right clue is for "across". Bottom-left clue is for "down".
+* *Constraint*: Clues may not repeat within an entry.
+* *Extension*: A given combination of numbers can only be used once in the grid.
+
+### Kuromasu
+* *Goal*: Identify which cells on the grid are shaded
+* *Constraint*: The numbers on the board represent the number of unshaded cells that can be seen from that cell, including itself.  
+* *Constraint*: A cell can be seen from another cell if both cells are within the same row or column, and there are no shaded cells between them in that row or column.
+* *Constraint*: Numbered cells are always unshaded.
+* *Constraint*: No two shaded cells may be orthogonally adjacent.
+* *Constraint*: Unshaded cells must form a connected region.
+
 ### Masyu
-* *Board*: Standard grid. Some cells contain either empty / white or filled / black cells.
 * *Goal*: Draw a single continuous non-intersecting loop that properly passes through all circled cells.
 * *Constraint*: The loop enters each cell it passes through from the center and exits on a different side. In a rectangular grid, all turns are 90 degrees.
 * *Constraint*: White circles must be travelled straight through, but the loop must turn in the previous or next cell in its path.
@@ -65,29 +139,74 @@
 * *Variant*: Allowing wrap arounds from the edges of the board.
 * *Variant*: The board is divided into regions. The loop must turn in each region at least once.
 
-### Akari
-* *Board*: Grid consists of white and black cells. Some black cells have numbers on them
-* *Goal*: Place light bulbs in white cells and light up the grid.
-* *Constraint*: Light bulbs may not shine on each other. Bulbs illuminate in all orthogonal directions. Light is obstructed by the black cells.
-* *Constraint*: Numbers in black cells indicate how many bulbs must be placed adjacent to it. 
-### FIllomino 
-* *Board*: Standard grid. Some cells contain numbers.
-* *Goal*: Divide the grid into polyominoes by filling in the boundaries of the cells (i.e., the edges)
-* *Constraint*: Each clue $n$ given is part of a polyomino of size $n$. 
-* *Constraint*: No polyominoes of matching size are adjacent to each other (i.e., share a side).
-* It is possible for two givens with matching numbers to be part of the same polyomino
-* It is possible for a polyomino to have no given at all.
+### Minesweeper
+* *Goal*: Place mines into empty cells on the grid.
+* *Constraint*: Digits in the grid represent the number of mines in the neighboring cells, including diagonal neighbors.
 
-### Futoshiki
-### Kuromasu
-### Nurikabe
-### Sashikabe
-### Yajikabe
-### Tents
-### Calcudoku
-### Hidatu
+### Minesweeper Battleships
+* *Goal*: Similar to [[#Minesweeper]] but with [[#Battleships]] instead of mines.
+* *Constraint*: Clues indicate how many ship pieces are adjacent to it.
+* *Constraint*: Ships may not touch each other, not even diagonally.
+
 ### Numbrix
+* *Goal*: Similar to [[#Hidato]]
+* *Constraint*: No diagonal paths allowed.
+* *Constraint*: The grid is regular (a square).
+
+### Nurikabe
+* *Goal*: Shade some of the cells on the grid to form islands (connected regions of unshaded cells) and the sea (connected regions of shaded cells)
+* *Constraint*: Each numbered cell is part of an island. The number in it is the number of cells in that island.
+* *Constraint*: Each island contains exactly one numbered cell.
+* *Constraint*: There is only one sea.
+* *Constraint*: No pools. No $2x2$ areas of only shaded cells.
+
+### Link-A-Pix
+* *Goal*: Shade some cells corresponding to lines drawn on the board. The solved board will form a picture
+* *Constraint*: The cells with clues are the endpoints of a path and they represent the length of the path containing them (1 clues count as that cell being shaded.)
+* *Constraint*: Both endpoints of a path must contain clues. All clues are given.
+* *Constraint*: Paths may not cross
+
+### Sashikabe
+* *Goal*: Similar to [[#Nurikabe]] but with additional constraints
+* *Constraint*: All islands must be L shaped and one cell wide.
+* *Constraint*: Islands may not be connected.
+* *Constraint*: Arrows mark the end of the island's leg. The arrow points to the cell in which the L "bends". 
+
 ### Shikaku
+* *Goal*: Divide the grid into rectangular pieces.
+* *Constraint*: Each piece contains exactly one number, and that number represents the area of the rectangle.
+
+### Skyscrapers
+* *Goal*: Place the numbers $1...N$ on the regular (square) grid. 
+* *Constraint*: No number may repeat in any row or column.
+* *Constraint*: The numbers along the edge of the puzzle indicate the number of buildings which you would see from that direction if there was a series of skyscrapers with heights equal the entries in that row or column.
+* *Variant*: The grid can have a side length of more than $N$, meaning there will be empty cells.
+
+### Slitherlink
+* *Goal*: Draw a loop connecting the dots on the grid. There may be no loose ends. 
+* *Constraint*: Numbers represent how many of its four sides are segments in the loop
+
+### Tents
+* *Goal*: Place tents in some of the remaining squares on the grid.
+* *Constraint*: There are exactly as many tents as trees.
+* *Constraint*: Tents and trees can be matched up such that each tent is directly orthogonally adjacent to its own tree. A tent may be adjacent to other trees as well as its own.
+* *Constraint*: No two tents are adjacent orthogonally or diagonally.
+* *Constraint*: The number of tents in each row and column matches the numbers given.
+
+### Yaijlin
+* *Goal*: Draw a single, continuous, non-intersecting loop.
+* *Constraint*: Some cells are black. Not all black cells are given
+* *Constraint*: Some cells are indicative consisting of a number and an arrow pointing in an orthogonal direction.  The number tells you the count of the black cells that lie in that row or column in the direction of the arrow.
+* *Constraint*: Indicative cells are never black and do not count as black cells for the purposes of satisfying other indicative cells.
+* *Constraint*: Not all black cells may be accounted for by an indicative cell
+* *Constraint*: The loop may not pass through indicative cells 
+* *Constraint*: The loop may not pass through black cells.
+* *Constraint*: The loop must pass through all non-indicative, non-black cells.
+* *Constraint*: Loops must enter each cell from the center of one of the four sides and exit from a different side. All turns are orthogonal (90 degrees). 
+
+### Yajikabe
+* *Goal*: Similar to [[#Nurikabe]] except with additional constraints 
+* *Constraint*: A cell containing a number and an arrow represents how many unshaded cells are in the row or column pointed at by the arrow in the direction of the arrow.
 
 # Sudoku
 * The puzzle is played in a $9\times 9$ grid made of $3\times 3$ sub-grids called regions or blocks. 
