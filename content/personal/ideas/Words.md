@@ -49,6 +49,7 @@
 * **Syzygy** - (Greek) Conjunction; Yoked Together. In astronomy, pertains to three celestial bodies aligning. In philosophy, interpreted as a union of opposites.
 
 * **Toska** - (Russian) Roughly translates to "Misery". At its deepest and most painful, it is a sensation of great spiritual anguish, often without any specific cause. At less morbid levels it is a dull ache of the soul, a longing with nothing to long for, a sick pining, a vague restlessness, mental throes, yearning. In particular cases it may be the desire for somebody of something specific, nostalgia, love-sickness. At the lowest level it grades into ennui, boredom.
+* **Typology** - a classification according to a general type. 
 
 * **Ubermensch** - (German) Overman.  The goal that humanity should set for itself. The transvaluation of values from the traditional religious "other-worldly" values to more practical values derived from a love of the world and life experience.
 

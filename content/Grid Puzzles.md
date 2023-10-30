@@ -1,4 +1,94 @@
 
+# Grid-Based Puzzles
+### Kakuro
+* *Board*: Consists of filled and empty cells.
+  
+  Some filled cells contain a diagonal slash from top left to bottom right. They contain numbers called "clues". The number in the top right corner relates to an across clue. The one in the bottom right is a down clue.
+
+* *Goal*: Insert the digits one 1-9 into the white cells
+* *Constraint*: Entries corresponding to a clue must sum to the clue. 
+* *Constraint*: Clues may not repeat within an entry.
+* *Extension*: A given combination of numbers can only be used once in the grid.
+
+### Hitori 
+* *Board*: Standard board. Each cell contains a number.
+* *Goal*: Shade some cells such that there are no duplicate numbers in any row or column. 
+* *Constraint*: Shaded cells may not touch each other orthogonally (but they can touch diagonally). 
+* *Constraint*: The remaining cells must all be connected to each other orthogonally.
+
+### Slitherlink
+* *Board*: The board consists of a lattice of dots.
+  
+  Cells (not necessarily square) may have numbers inside them.
+
+* *Goal*: Draw a loop connecting the dots. There may be no loose ends. 
+* *Constraint*: Numbers represent how many of its four sides are segments in the loop
+
+### Link-A-Pix
+* *Board*: Standard board. Cells may contain numbers
+* *Goal*: Shade some cells corresponding to lines drawn on the board. The solved board will form a picture
+* *Constraint*: The cells with clues are the endpoints of a path and they represent the length of the path containing them (1 clues count as 1)
+* *Constraint*: Both endpoints of a path must contain clues. All clues are given.
+* *Constraint*: Paths may not cross
+
+### Fill-a-Pix
+* *Board*: Standard board. Cells may contain numbers
+* *Goal*: Shade some cells on the board. The solved board will form a picture.
+* *Constraint*: The cells with clues represent how many of the nine squares around it (including itself) should be filled in.
+
+### Battleships
+* *Board*: Consists of a grid of squares that hides ships of different sizes.
+  
+  Numbers are placed alongside the grid.
+* *Goal*: Find the location of all the ships.
+* *Constraint*: Ships do not touch each other. Not even diagonally.
+* *Constraint*: Numbers MAY indicate the number of squares in that row or column are occupied by part of a ship.
+* *Constraint*: Numbers MAY indicate the number of water segments in the ship
+
+### Hashiwokakero / Hashi
+* *Board*: Standard grid. Some cells start out with marked numbers from $1-8$ called islands. The rest of the cells are empty.
+* *Goal*: Connect all islands by drawing a series of bridges between islands.
+* *Constraint*: Bridges must begin and end at distinct islands, travelling a straight line in between.
+* *Constraint*: Bridges cannot cross other bridges or other islands.
+* *Constraint*: Bridges travel straight orthogonally (no diagonal movements).
+* *Constraint*: At most two bridges connect a pair of islands.
+* *Constraint*: The number of bridges connected to each island must match the number on that island.
+* *Constraint*: The bridges must connect the islands into a single connected group.
+
+### Masyu
+* *Board*: Standard grid. Some cells contain either empty / white or filled / black cells.
+* *Goal*: Draw a single continuous non-intersecting loop that properly passes through all circled cells.
+* *Constraint*: The loop enters each cell it passes through from the center and exits on a different side. In a rectangular grid, all turns are 90 degrees.
+* *Constraint*: White circles must be travelled straight through, but the loop must turn in the previous or next cell in its path.
+* *Constraint*: Black cells must be turned upon, but the loop must travel straight through the next and previous cells in its path.
+* *Variant*: Gray circles which MAY either be white or black. The solver must deduce their color.
+* *Variant*: Allowing wrap arounds from the edges of the board.
+* *Variant*: The board is divided into regions. The loop must turn in each region at least once.
+
+### Akari
+* *Board*: Grid consists of white and black cells. Some black cells have numbers on them
+* *Goal*: Place light bulbs in white cells and light up the grid.
+* *Constraint*: Light bulbs may not shine on each other. Bulbs illuminate in all orthogonal directions. Light is obstructed by the black cells.
+* *Constraint*: Numbers in black cells indicate how many bulbs must be placed adjacent to it. 
+### FIllomino 
+* *Board*: Standard grid. Some cells contain numbers.
+* *Goal*: Divide the grid into polyominoes by filling in the boundaries of the cells (i.e., the edges)
+* *Constraint*: Each clue $n$ given is part of a polyomino of size $n$. 
+* *Constraint*: No polyominoes of matching size are adjacent to each other (i.e., share a side).
+* It is possible for two givens with matching numbers to be part of the same polyomino
+* It is possible for a polyomino to have no given at all.
+
+### Futoshiki
+### Kuromasu
+### Nurikabe
+### Sashikabe
+### Yajikabe
+### Tents
+### Calcudoku
+### Hidatu
+### Numbrix
+### Shikaku
+
 # Sudoku
 * The puzzle is played in a $9\times 9$ grid made of $3\times 3$ sub-grids called regions or blocks. 
 * Place the numbers in the empty cells such that each row, column, and region contains  the numbers $1$ to $9$ exactly once. Some numbers are given.
@@ -99,6 +189,7 @@
 * **Wrogn Clues** - a number of the clues in the grid are wrogn -- that is, they are incorrect clues. 
 
 # Links
-* [Crypt+A](https://www.cross-plus-a.com/help.htm) - website with a typology of logic puzzles.
+* [Cracking the Cryptic](https://www.youtube.com/@CrackingTheCryptic) - really good channel that solves (primarily) variant sudoku and cryptic crosswords.
+* [Cross+A](https://www.cross-plus-a.com/puzzles.htm) - website with a typology of logic puzzles.
 * [F-puzzles](https://f-puzzles.com) - for setting your own sudoku puzzles.
-* [Logic Puzzles Index](https://www.logic-puzzles.ropeko.ch/php/db/search.php)
+* [Logic Puzzles Index](https://www.logic-puzzles.ropeko.ch/php/db/search.php) - main source for other non-sudoku variants. 
