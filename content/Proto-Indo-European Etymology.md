@@ -36,6 +36,16 @@
 * [Awi](https://www.etymonline.com/word/*awi-?ref=etymonline_crossreference)
 	* pertaining to birds or bird-like things
 	* pertaining to eggs.
+* [Bha](https://www.etymonline.com/word/*bha-?ref=etymonline_crossreference#etymonline_v_52548) 
+	* to shine  
+	* pertaining to light 
+	* pertaining to appearances, illusory or otherwise.
+	* to gesture or call attention to or to show
+	* to make appear
+	* to speak, tell or say
+	* to proclaim or speak in public. to declare
+	* pertaining to hearing voices
+	* pertaining to speaking voices or speech
 * [Bhel](https://www.etymonline.com/word/*bhel-?ref=etymonline_crossreference#etymonline_v_52668) [^1]
 	* to blow or swell
 	* to become ball-shaped
@@ -49,20 +59,47 @@
 	* to flow out
 	* burning / glowing
 	* to bloom like flowers.
+* [Bher](https://www.etymonline.com/word/*bher-?ref=etymonline_crossreference#etymonline_v_52553) -
+	* to carry
+	* to bear (as in a burden)
+	* to carry away or steal
+	* to bear children
+	* pertaining to fertility
+	* bright (as in like polished wood)
+	* brown
+* [Bheudh](https://www.etymonline.com/word/*bheudh-?ref=etymonline_crossreference) 
+	* to be aware, awakened or enlightened
+	* to make aware, awakened or enlightened
+* [Bhle](https://www.etymonline.com/word/*bhle-?ref=etymonline_crossreference) 
+	* to blow
+	* pertaining to smell
+	* to swell or puff up.
+	* pertaining to swelling
 * [Bhreg](https://www.etymonline.com/word/*bhreg-?ref=etymonline_crossreference) 
 	* to break
 	* broken
 	* to split
+* [Bhrengk](https://www.etymonline.com/word/bring) *** 
+	* To bring
+* [De](https://www.etymonline.com/word/de?ref=etymonline_crossreference)  *** 
+	* to. (in the prepositional sense pertaining down from or away from)
+* [Deks](https://www.etymonline.com/word/*deks-?ref=etymonline_crossreference) 
+	* pertaining to the right
+	* pertaining to skill
+	* pertaining southward
 * [Dher](https://www.etymonline.com/word/*dher-?ref=etymonline_crossreference) 
 	* to hold firmly 
 	* to support
 	* something sturdy
+* [Eis](https://www.etymonline.com/word/hierophant) *** 
+	* Sacred
+	* Pertaining to passion
 * [Epi / Opi](https://www.etymonline.com/word/epi-?ref=etymonline_crossreference) 
 	* on / upon / above 
 	* near / at 
 	* against
 	* towards
-* [Erkw](https://www.etymonline.com/word/Rig%20veda#etymonline_v_15075) 
+* [Erkw](https://www.etymonline.com/word/Rig%20veda#etymonline_v_15075)  ***
 	* to radiate / beam / praise
 * [Geus](https://www.etymonline.com/word/*geus-?ref=etymonline_crossreference) 
 	* to taste / pertaining to taste.
@@ -72,12 +109,14 @@
 	* to become known / aware
 	* to make known
 	* well-known
+* [Gwhedh](https://www.etymonline.com/word/bead#etymonline_v_8196) *** 
+	* To pray
 * [Gwere](https://www.etymonline.com/word/*gwere-?ref=etymonline_crossreference#etymonline_v_53052) 
 	* heavy
 	* to favor
-* [Kom](https://www.etymonline.com/word/com-?ref=etymonline_crossreference) 
+* [Kom](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)  *** 
 	* with / together
-* [Ksun](https://www.etymonline.com/word/syn-#etymonline_v_24489) 
+* [Ksun](https://www.etymonline.com/word/syn-#etymonline_v_24489) ***  
 	* with / alike or at the same time
 * [Kwenth](https://www.etymonline.com/word/*kwent(h)-?ref=etymonline_crossreference)
 	* to suffer (as in to feel)
@@ -121,7 +160,7 @@
 	* to see (as in perceive or vview)
 	* visible (as in white / shining)
 	* wise / perceptive or knowing
-* [Wekti](https://www.etymonline.com/word/wight?ref=etymonline_crossreference) 
+* [Wekti](https://www.etymonline.com/word/wight?ref=etymonline_crossreference) ***  
 	* thing / creature
 * [Wer](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference#etymonline_v_52647) 
 	* to raise or lift
@@ -138,7 +177,7 @@
 	* to cover
 	* to protect
 	* pertaining to goods
-* [Were](https://www.etymonline.com/word/verb?ref=etymonline_crossreference) 
+* [Were](https://www.etymonline.com/word/verb?ref=etymonline_crossreference)  *** 
 	* to speak
 	* to pertaining to words
 * [Ye](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) 
@@ -147,23 +186,24 @@
 
 [^1]: It's amusing how this PIE word corresponds to both white and black. 
 # Breakdowns
+### Names
+* **Aberdeen*** - (lit) mouth of the river Don.
+* **Barnard** - (lit) Bear-hold
+* **Berenice** - (lit) bringer of victory
+* **Bruin** - (lit) Brown
+* **Christopher** - (lit) Christ bearing
+* **Inverness** - (lit) in the mouth of the river Ness (the roaring one)
+* **Lucifer** - (lit) light bringer
+
+### The Rest
 # Future PIE
-
-* [Bha](https://www.etymonline.com/word/*bha-?ref=etymonline_crossreference#etymonline_v_52548) - to shine / to speak, tell or say
-
-* [Bher](https://www.etymonline.com/word/*bher-?ref=etymonline_crossreference#etymonline_v_52553) - to carry / bear children / bright / brown
-* [Bheudh](https://www.etymonline.com/word/*bheudh-?ref=etymonline_crossreference) - be aware / make aware
-* [Bhle](https://www.etymonline.com/word/*bhle-?ref=etymonline_crossreference) - to blow
-
-* [De](https://www.etymonline.com/word/de?ref=etymonline_crossreference) - to
-* [Dext](https://www.etymonline.com/word/*deks-?ref=etymonline_crossreference) - right or south
 * [Do](https://www.etymonline.com/word/*do-?ref=etymonline_crossreference) - to give
-
 * [Dhe](https://www.etymonline.com/word/*dhe-?ref=etymonline_crossreference) - to set / put
+
 * [Dhes](https://www.etymonline.com/word/*dhes-?ref=etymonline_crossreference) - pertaining to religious concepts
 * [Deru / Dreu](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference)- be firm or steadfast / pertaining to trees or wood
-
 * [Dwo](https://www.etymonline.com/word/*dwo-?ref=etymonline_crossreference) - two
+
 * [Dyeu](https://www.etymonline.com/word/*dyeu-?ref=etymonline_crossreference) - to shine / sky / heaven / god
 * [Ei](https://www.etymonline.com/word/*ei-?ref=etymonline_crossreference) - to go
 * [En](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) - in
@@ -227,17 +267,25 @@
 * [Wi-ro](https://www.etymonline.com/word/*wi-ro-?ref=etymonline_crossreference) - man
 
 ## New Batch
+* [Akwa](https://www.etymonline.com/word/*akwa-) - water
+* [Bhag](https://www.etymonline.com/word/*bhag-) - to share out, approtion; to get a share
 * [Bheidh](https://www.etymonline.com/word/*bheidh-) - to trust / confide / persuade
+* [Bhorh](https://www.etymonline.com/word/*bhorh-) - hole
 * [Da](https://www.etymonline.com/word/*da-) - to divide
 * [Dhe](https://www.etymonline.com/word/*dhe-) - to set / put
 * [Dheu](https://www.etymonline.com/word/*dheu-#etymonline_v_53808) - dust, vapor, smoke
+* [Es](https://www.etymonline.com/word/*es-) - to be
+* [Kakka](https://www.etymonline.com/word/*kakka-) - to defecate
 * [Kel](https://www.etymonline.com/word/*kel-#etymonline_v_52556) - to cover / conceal / save / to be prominent / hill
 * [Keue](https://www.etymonline.com/word/*keue-) - to swell / vault / hole
 * [Kwo / Kwi](https://www.etymonline.com/word/*kwo-)  - stem of relative and interrogative pronouns
+* [Leuk](https://www.etymonline.com/word/*leuk-) - light / brightness
+* [Mel](https://www.etymonline.com/word/*mel-#etymonline_v_53241) - soft / strong or great / false, bad, wrong
 * [No-men](https://www.etymonline.com/word/*no-men-) - name
 * [Plak](https://www.etymonline.com/word/*plak-#etymonline_v_52839) - to be flat / to spread / to strike
 * [Reg](https://www.etymonline.com/word/*reg-) - to move in a straight line / to lead or to rule
 * [Stel](https://www.etymonline.com/word/*stel-) - to put / stand / put in order. derivatives pertain to a standing object in place
 * [Stere](https://www.etymonline.com/word/*stere-) - to spread
 * [Trep](https://www.etymonline.com/word/*trep-) - to turn
+* [Wekw](https://www.etymonline.com/word/*wekw-) - to speak
 * [Werg](https://www.etymonline.com/word/*werg-) - to do
