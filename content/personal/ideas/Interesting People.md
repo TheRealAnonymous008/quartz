@@ -7,3 +7,7 @@
 	* Cut himself while asleep. 
 
 * [The Wandering Jew](https://en.wikipedia.org/wiki/Wandering_Jew)
+
+* [Saint Olga of Kiev](https://en.wikipedia.org/wiki/Olga_of_Kiev)
+	* Enacted revenge on the tribe who killed her husband (the former regent). 
+	* Part of the revenge plot involved  burning a city using pigeons from within the city that were coated in sulphur

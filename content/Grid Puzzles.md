@@ -17,18 +17,6 @@
 ### Dominosa
 ### Patchwork
 
-### Knossos
-### Rekuto
-### Neighbors
-### Four Winds
-### Shakashaka
-
-### Kakurasu
-### Mochikoro
-### Seethrough
-### Lighthouses
-### Lighthouses Battleships
-
 ## Done
 ### Akari
 * *Goal*: Place light bulbs in white cells and light up the grid.
@@ -307,7 +295,7 @@
 	* For example, a 1 may count as a 2 in a Killer Cage.
 * **Wrogn Clues** - a number of the clues in the grid are wrogn -- that is, they are incorrect clues. 
 
-# Links
+# Lihttps://www.youtube.com/@CrackingTheCrypticnks
 * [Cracking the Cryptic](https://www.youtube.com/@CrackingTheCryptic) - really good channel that solves (primarily) variant sudoku and cryptic crosswords.
 * [Cross+A](https://www.cross-plus-a.com/puzzles.htm) - website with a typology of logic puzzles. Main source for other non-sudoku variants. 
 * [F-puzzles](https://f-puzzles.com) - for setting your own sudoku puzzles.

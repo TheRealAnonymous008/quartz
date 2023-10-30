@@ -13,6 +13,8 @@
 *  [Polymathy](https://en.wikipedia.org/wiki/Polymath)
 * Geometric Deep Learning
 * [Principles of Learning](https://en.wikipedia.org/wiki/Principles_of_learning)
+* [HEMA](https://wiktenauer.com/wiki/Main_Page)
+
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 
