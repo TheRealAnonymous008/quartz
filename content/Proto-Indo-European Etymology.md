@@ -5,6 +5,19 @@
 	* *ae / e*- lifetime / age
 	* *ei*  (similar to each / ever) - always 
 	* *ewi / oyu* - eternity
+* [Ak](https://www.etymonline.com/word/*ak-?ref=etymonline_crossreference) - be sharp / rise out to a point / pierce
+	* *ac / acer / aci / acr / ag / ago / ako* - sharp
+	* *acr / acro* - highest, topmost at the extremes edges of.
+	* *acu* - sharp. pertaining to needles / pointed things specifically.
+	* *canth / kanth* - thorns / spine
+	* *oxy* - sharp / pointed acid. 
+* [Al](https://www.etymonline.com/word/*al-?ref=etymonline_crossreference#etymonline_v_52550) - beyond / to grow, nourish
+	* *al / ali / alu / ol / ul* - nourish or grow
+	* *al / ali / el  / out* - beyond / another
+	* *allo / ot* - other / different 
+	* *alt / alti / ha / hau / hei* - pertaining to height (as in grown tall)
+	* *eld / ol / old* - one who has grown
+	* *ul / ult* - beyond / extremely
 * [Ambhi](https://www.etymonline.com/word/*ambhi-?ref=etymonline_crossreference) - around / from both sides.
 	* *ab / amb / an / anci / be / bi / emb / um* -  around
 	* *ambi* - both or on both sides
@@ -14,6 +27,8 @@
 	* *am / an / ant / ante / anti / avan* - before / in front of / previous  
 	* *andi / anti / un* - facing opposite or against
 	* *end / enti* - end / opposite site
+* [Apo](https://www.etymonline.com/word/*apo-?ref=etymonline_crossreference) - off / away 
+	* *ab / apo / aft / awk / of / ov* - away from / from off / down
 * [Ater](https://www.etymonline.com/word/*ater-?ref=etymonline_crossreference) - fire
 	* *atra / atri*- fire
 	* *atro* - fierce / cruel
@@ -111,17 +126,18 @@
 * [Ye](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) - to throw / impel
 	* *e / he / gi /  ja / je / jet* - throw against
 
+### Breakdowns
+
 
 ### Future PIE
-* [Al](https://www.etymonline.com/word/*al-?ref=etymonline_crossreference#etymonline_v_52550) - beyond / to grow, nourish
-* [Ak](https://www.etymonline.com/word/*ak-?ref=etymonline_crossreference) - be sharp / rise out to a point / pierce
-* [Apo](https://www.etymonline.com/word/*apo-?ref=etymonline_crossreference) - off / away 
 * [Ag](https://www.etymonline.com/word/*ag-?ref=etymonline_crossreference) - to drive / draw out or forth / move
 * [Awi](https://www.etymonline.com/word/*awi-?ref=etymonline_crossreference) - pertaining to birds
 * [Bha](https://www.etymonline.com/word/*bha-?ref=etymonline_crossreference#etymonline_v_52548) - to shine / to speak, tell or say
+
 * [Bher](https://www.etymonline.com/word/*bher-?ref=etymonline_crossreference#etymonline_v_52553) - to carry / bear children / bright / brown
 * [Bheudh](https://www.etymonline.com/word/*bheudh-?ref=etymonline_crossreference) - be aware / make aware
 * [Bhle](https://www.etymonline.com/word/*bhle-?ref=etymonline_crossreference) - to blow
+
 * [De](https://www.etymonline.com/word/de?ref=etymonline_crossreference) - to
 * [Dext](https://www.etymonline.com/word/*deks-?ref=etymonline_crossreference) - right or south
 * [Do](https://www.etymonline.com/word/*do-?ref=etymonline_crossreference) - to give
@@ -129,28 +145,35 @@
 * [Dhe](https://www.etymonline.com/word/*dhe-?ref=etymonline_crossreference) - to set / put
 * [Dhes](https://www.etymonline.com/word/*dhes-?ref=etymonline_crossreference) - pertaining to religious concepts
 * [Deru / Dreu](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference)- be firm or steadfast / pertaining to trees or wood
+
 * [Dwo](https://www.etymonline.com/word/*dwo-?ref=etymonline_crossreference) - two
 * [Dyeu](https://www.etymonline.com/word/*dyeu-?ref=etymonline_crossreference) - to shine / sky / heaven / god
 * [Ei](https://www.etymonline.com/word/*ei-?ref=etymonline_crossreference) - to go
 * [En](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) - in
+
 * [Gene](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) - give birth / beget
 * [Ghel](https://www.etymonline.com/word/*ghel-?ref=etymonline_crossreference#etymonline_v_52720) - to call / to shine bright.
 * [Gher](https://www.etymonline.com/word/*gher-?ref=etymonline_crossreference#etymonline_v_52749) - to grasp / enclose / to like / want
+
 * [Ghere](https://www.etymonline.com/word/*ghere-?ref=etymonline_crossreference) - gut / entrail
 * [Ghwer](https://www.etymonline.com/word/*ghwer-?ref=etymonline_crossreference) - wild beast
 * [Gwa](https://www.etymonline.com/word/*gwa-?ref=etymonline_crossreference) - to go / come
+
 * [Gwei](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) - to live
 * [Gwele](https://www.etymonline.com/word/*gwele-?ref=etymonline_crossreference) - to throw / to reach / to pierce
 
 * [Kap](https://www.etymonline.com/word/*kap-?ref=etymonline_crossreference) - to grasp
 * [Kaput](https://www.etymonline.com/word/*kaput-?ref=etymonline_crossreference) - head
 * [Ked](https://www.etymonline.com/word/*ked-?ref=etymonline_crossreference) - to go / yield
+
 * [Ker](https://www.etymonline.com/word/*ker-?ref=etymonline_crossreference#etymonline_v_52641) - horn / horn-shaped objects / grow / heat / fire
 * [Kleu](https://www.etymonline.com/word/*kleu-?ref=etymonline_crossreference) - to hear
 * [Kwel](https://www.etymonline.com/word/*kwel-?ref=etymonline_crossreference#etymonline_v_52609) - revolve / move around / sojourn  / dwell / far (in space or time) / completion of a cycle
+
 * [Kwrep](https://www.etymonline.com/word/*kwrep-?ref=etymonline_crossreference) - body / form / appearance
 * [Leg](https://www.etymonline.com/word/*leg-?ref=etymonline_crossreference#etymonline_v_52572) - to collect / gather / to speak as in to gather words
 * [Legh](https://www.etymonline.com/word/*legh-?ref=etymonline_crossreference) - lie down / lay
+
 * [Legwh](https://www.etymonline.com/word/*legwh-?ref=etymonline_crossreference) - not heavy / little weight
 * [Leubh](https://www.etymonline.com/word/*leubh-?ref=etymonline_crossreference) - to care / desire / love
 * [Magh](https://www.etymonline.com/word/*magh-?ref=etymonline_crossreference) - to be able to have power.
@@ -158,25 +181,42 @@
 * [Me](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference#etymonline_v_52683) - to measure / to cut down grass or grain
 * [Mei](https://www.etymonline.com/word/*mei-?ref=etymonline_crossreference#etymonline_v_52688) - to change / to move / small
 * [Men](https://www.etymonline.com/word/*men-?ref=etymonline_crossreference#etymonline_v_53240) - to think, or pertaining to state of mind and thought / to project / to remain/ small, isolated
+
 * [Mer](https://www.etymonline.com/word/*(s)mer-?ref=etymonline_crossreference#etymonline_v_53456) - remember / to get a share of something
 * [Nau](https://www.etymonline.com/word/*nau-?ref=etymonline_crossreference) - boat
 * [Ner](https://www.etymonline.com/word/*ner-?ref=etymonline_crossreference#etymonline_v_52792) - man / vigorous, vital, strong
+
 * [Pag / Pak](https://www.etymonline.com/word/*pag-?ref=etymonline_crossreference) - to fasten
 * [Pau](https://www.etymonline.com/word/*pau-?ref=etymonline_crossreference#etymonline_v_52750) - few little / to cut / strike / stamp
 * [Pel](https://www.etymonline.com/word/*pel-?ref=etymonline_crossreference#etymonline_v_52783) - pale / to fold / skin / hide / to sell / to thrust / strike / drive
+
 * [Penkwe](https://www.etymonline.com/word/*penkwe-?ref=etymonline_crossreference) - five
 * [Per](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference#etymonline_v_52579) - forward, first / to lead, pass over / to try, risk / to strike / to sell
-
 * [Pere](https://www.etymonline.com/word/*pere-?ref=etymonline_crossreference#etymonline_v_52861) - to produce / procure / to grant / allot
+
 * [Sem](https://www.etymonline.com/word/*sem-?ref=etymonline_crossreference#etymonline_v_52581) - one / as one / together with
 * [Sker](https://www.etymonline.com/word/*sker-?ref=etymonline_crossreference#etymonline_v_52632) - to cut / to turn / bend
 * [Skribh](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) - to cut / separate / sift
+
 * [Sta](https://www.etymonline.com/word/*sta-?ref=etymonline_crossreference) - to stand / set down / make or be firm / place or thing that is standing.
 * [Ster](https://www.etymonline.com/word/*ster-?ref=etymonline_crossreference#etymonline_v_52592) - stiff / star 
 * [Swep](https://www.etymonline.com/word/*swep-?ref=etymonline_crossreference) - sleep
+
 * [Ten](https://www.etymonline.com/word/*ten-?ref=etymonline_crossreference) - to stretch
 * [Tkei](https://www.etymonline.com/word/*tkei-?ref=etymonline_crossreference) - to settle / dwell / be home
 * [Trep](https://www.etymonline.com/word/*trep-?ref=etymonline_crossreference) - to turn
+
 * [Weg](https://www.etymonline.com/word/*weg-?ref=etymonline_crossreference) - to be strong / lively
 * [Wi-ro](https://www.etymonline.com/word/*wi-ro-?ref=etymonline_crossreference) - man
 
+## New Batch
+* [Dhe](https://www.etymonline.com/word/*dhe-) - to set / put
+* [Kel](https://www.etymonline.com/word/*kel-#etymonline_v_52556) - to cover / conceal / save / to be prominent / hill
+* [Keue](https://www.etymonline.com/word/*keue-) - to swell / vault / hole
+* [Kwo / Kwi](https://www.etymonline.com/word/*kwo-)  - stem of relative and interrogative pronouns
+* [No-men](https://www.etymonline.com/word/*no-men-) - name
+* [Plak](https://www.etymonline.com/word/*plak-#etymonline_v_52839) - to be flat / to spread / to strike
+* [Reg](https://www.etymonline.com/word/*reg-) - to move in a straight line / to lead or to rule
+* [Stel](https://www.etymonline.com/word/*stel-) - to put / stand / put in order. derivatives pertain to a standing object in place
+* [Trep](https://www.etymonline.com/word/*trep-) - to turn
+* [Werg](https://www.etymonline.com/word/*werg-) - to do

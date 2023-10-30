@@ -48,7 +48,7 @@
 	* An alternative is the **Bellman Error** obtained by substituting $v_w$ for $v_\pi$ in the [[Backups in Reinforcement Learning|Bellman equations]] and computing the difference 
 	  
 	  $$
-	  \delta_{w}(s) = E_\pi[R_{t+1} +\gamma v_w(S_{t+1}) - v_w(S_t) \mid S_t=s, A_t\sim \pi]
+	  \overline{\delta_{w}}(s) = E_\pi[R_{t+1} +\gamma v_w(S_{t+1}) - v_w(S_t) \mid S_t=s, A_t\sim \pi]
 	  $$
 	  
 	  Aka, *it is the expected [[Temporal Difference Learning|TD]]-error*.

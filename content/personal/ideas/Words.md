@@ -4,6 +4,7 @@
 * **Anfractuous** - roundabout or winding.
 * **Anthropopathy** - ascription of human passions or feelings to a being not human, especially to a deity.
 * **Apathy**  - An absence of passion. A lack of feeling, emotion, interest, or concern about something. A state of indifference about emotional, social, spiritual, philosophical, virtual or physical life.
+* **Apanthropy** - aversion to human company, love or solitude.
 * **Apoptosis** - programmed cell death.
 * **Auteur** - an artist with a very distinct, recognizable approach.
 
@@ -20,6 +21,7 @@
 * **Eigen** - (German) own, peculiar or private to someone. Idiosyncratic, Proper, or Proprietary
 * **Emergence** - a phenomenon where a complex entity has properties or behaviors that its parts do not have on their own and emerge only when they interact in a whole.
 * **Ennui** - a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.
+* **Entropy** - a measure of randomness or disorder within a system.
 
 * **Fractal** - a never ending pattern.
 
