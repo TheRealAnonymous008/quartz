@@ -2,14 +2,13 @@
 * Although they usually play in rectangular or square grids, most grid puzzles can generalize to non-rectangular grids.
 	* Orthogonal simply means parallel to the edges of the cell.
 	* Diagonal simply means a combination of two orthogonal movements.
-* Many of these puzzles are published by Nikoli.
-	* Naoki Inaba is also someone to look for in the future.
+* Many of these puzzles are published by Nikoli or Naoki Inaba.
 # Grid-Based Puzzles
+* [[Connected Region Puzzles]]
 * [[Line Drawing Puzzles]]
 * [[Number Placement Puzzles]]
 * [[Object Placement Puzzles]]
 * [[Partitioning Puzzles]]
-* [[Connected Region Puzzles]]
 * [[Sudoku]] 
 
 ### Kurotto

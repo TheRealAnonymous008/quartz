@@ -23,24 +23,16 @@
 * An **[[Group Isomorphism|isomorphism]]** from $G$ to $H$ is a bijection $f:V(G)\to V(H)$ such that if $xy\in E(G)$ , then $f(x)f(y)\in E(H)$. 
 	* We say that if an isomorphism between $G$ and $H$ exists, then the two graphs are, which we denote as $G\cong H$ .
 	* Isomorphism is an equivalence class
+	* *Adjacency is preserved under isomorphism*.
+
 * Let $S\subset V$ be any subset of vertices of $G$. The **induced subgraph**, denoted $G[S]$ is the graph whose vertex set is $S$ and whose edge set consists of all the edges in $E$ that have endpoints in $S$.  More formally, for $u,v\in S$, 
   
   $u\leftrightarrow v$ in $G[S]$ if and only if $u\leftrightarrow v$ in $G$.  
 
-* The **complement** of $G$, denoted $\bar{G}$ is the graph obtained by 
-  $$
-  \begin{split}
-  V(\bar{G}) &= V(G) \\
-  E(\bar{G}) &= \{xy \mid x\in V, y\in V, xy\notin E(G)\}
-  \end{split}
-  $$
+* The graph $H$ is a **subgraph** of a graph $G$, denoted as $H\subseteq G$ if and only if $V(H)\subseteq V(G)$ and $E(G)\subseteq E(H)$.
 
-	* A graph is **self-complementary** if 
-$$
-G\cong \bar{G}
-$$
 
-* The graph $H$ is a **subgraph** of a graph $G$, denoted as $H\subseteq G$ if and only if $V(H)\subseteq V(G)$ and $E(G)\subseteq E(H)$. 
+* Two graphs are **disjoint** if they do not share any vertices.
 
 # Relations in Graphs
 * If $xy\in E$, we say that $x$ is **adjacent** to $y$. Denoted as $x\leftrightarrow y$. This is the **adjacency relation**.

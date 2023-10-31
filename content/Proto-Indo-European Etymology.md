@@ -91,6 +91,10 @@
 	* to hold firmly 
 	* to support
 	* something sturdy
+* [Do](https://www.etymonline.com/word/*do-?ref=etymonline_crossreference) 
+	* to give
+	* to publish
+	* pertaining to something given such as a gift or a portion
 * [Eis](https://www.etymonline.com/word/hierophant) *** 
 	* Sacred
 	* Pertaining to passion
@@ -111,6 +115,8 @@
 	* well-known
 * [Gwhedh](https://www.etymonline.com/word/bead#etymonline_v_8196) *** 
 	* To pray
+* [Ghwer](https://www.etymonline.com/word/*ghwer-?ref=etymonline_crossreference) 
+	* wild beast
 * [Gwere](https://www.etymonline.com/word/*gwere-?ref=etymonline_crossreference#etymonline_v_53052) 
 	* heavy
 	* to favor
@@ -121,8 +127,17 @@
 * [Kwenth](https://www.etymonline.com/word/*kwent(h)-?ref=etymonline_crossreference)
 	* to suffer (as in to feel)
 	* to suffer (as in disease)
+* [Kwrep](https://www.etymonline.com/word/*kwrep-?ref=etymonline_crossreference) 
+	* body, form or appearance
+	* to appear
+* [Legwh](https://www.etymonline.com/word/*legwh-?ref=etymonline_crossreference) 
+	* not heavy or having little weight
+	* pertaining to lifting or raising with relative ease.
 * [Leig](https://www.etymonline.com/word/*leig-?ref=etymonline_crossreference) 
 	* to tie or bind.
+* [Magh](https://www.etymonline.com/word/*magh-?ref=etymonline_crossreference)
+	* to be able to do something
+	* to have power
 * [Man](https://www.etymonline.com/word/*man-?ref=etymonline_crossreference#etymonline_v_52623) 
 	* man
 	* to order 
@@ -151,9 +166,18 @@
 	* pertaining to something flat
 	* pertaining to formation, growth or development
 	* to be filled / in abundance / more-ness / multitude / many-ness
+* [Penkwe](https://www.etymonline.com/word/*penkwe-?ref=etymonline_crossreference) 
+	* pertaining five
 * [Spek](https://www.etymonline.com/word/*spek-#etymonline_v_52870) 
 	* to observe
 	* pertaining to instruments for observing
+* [Swep](https://www.etymonline.com/word/*swep-?ref=etymonline_crossreference) 
+	* to sleep
+	* pertaining to sleep
+* [Tkei](https://www.etymonline.com/word/*tkei-?ref=etymonline_crossreference) 
+	* to settle 
+	* to dwell
+	* to be home
 * [Weid](https://www.etymonline.com/word/*weid-?ref=etymonline_crossreference) 
 	* to see (guide someone)
 	* to see (imagine) 
@@ -192,15 +216,27 @@
 * **Berenice** - (lit) bringer of victory
 * **Bruin** - (lit) Brown
 * **Christopher** - (lit) Christ bearing
+* **Dorian** - of Doris. 
+* **Dorothy** -  (lit) gift of God.
+* **Eudora** - generous / good giver
+* **Fedor** - (lit) gift of God
 * **Inverness** - (lit) in the mouth of the river Ness (the roaring one)
+* **Isidore** - (lit) Gift of Isis
+* **Levant** - rising. Pertaining to the region being in the direction of sunrise
 * **Lucifer** - (lit) light bringer
+* **Pandora** - (lit) giver of all. all gifted
+* **Pentecost** - the fiftieth day.
+* **Polydorus** - one who has many gifts
+* **Pompeii** - five (in reference to its five districts)
+* **Somnus** - sleep personified
+* **Theodore** - (lit) gift of god
+* **Theodosia** - (lit) gift of god
 
 ### The Rest
 # Future PIE
-* [Do](https://www.etymonline.com/word/*do-?ref=etymonline_crossreference) - to give
 * [Dhe](https://www.etymonline.com/word/*dhe-?ref=etymonline_crossreference) - to set / put
-
 * [Dhes](https://www.etymonline.com/word/*dhes-?ref=etymonline_crossreference) - pertaining to religious concepts
+
 * [Deru / Dreu](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference)- be firm or steadfast / pertaining to trees or wood
 * [Dwo](https://www.etymonline.com/word/*dwo-?ref=etymonline_crossreference) - two
 
@@ -213,7 +249,6 @@
 * [Gher](https://www.etymonline.com/word/*gher-?ref=etymonline_crossreference#etymonline_v_52749) - to grasp / enclose / to like / want
 
 * [Ghere](https://www.etymonline.com/word/*ghere-?ref=etymonline_crossreference) - gut / entrail
-* [Ghwer](https://www.etymonline.com/word/*ghwer-?ref=etymonline_crossreference) - wild beast
 * [Gwa](https://www.etymonline.com/word/*gwa-?ref=etymonline_crossreference) - to go / come
 
 * [Gwei](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) - to live
@@ -227,13 +262,10 @@
 * [Kleu](https://www.etymonline.com/word/*kleu-?ref=etymonline_crossreference) - to hear
 * [Kwel](https://www.etymonline.com/word/*kwel-?ref=etymonline_crossreference#etymonline_v_52609) - revolve / move around / sojourn  / dwell / far (in space or time) / completion of a cycle
 
-* [Kwrep](https://www.etymonline.com/word/*kwrep-?ref=etymonline_crossreference) - body / form / appearance
 * [Leg](https://www.etymonline.com/word/*leg-?ref=etymonline_crossreference#etymonline_v_52572) - to collect / gather / to speak as in to gather words
 * [Legh](https://www.etymonline.com/word/*legh-?ref=etymonline_crossreference) - lie down / lay
 
-* [Legwh](https://www.etymonline.com/word/*legwh-?ref=etymonline_crossreference) - not heavy / little weight
 * [Leubh](https://www.etymonline.com/word/*leubh-?ref=etymonline_crossreference) - to care / desire / love
-* [Magh](https://www.etymonline.com/word/*magh-?ref=etymonline_crossreference) - to be able to have power.
 
 * [Me](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference#etymonline_v_52683) - to measure / to cut down grass or grain
 * [Mei](https://www.etymonline.com/word/*mei-?ref=etymonline_crossreference#etymonline_v_52688) - to change / to move / small
@@ -247,7 +279,6 @@
 * [Pau](https://www.etymonline.com/word/*pau-?ref=etymonline_crossreference#etymonline_v_52750) - few little / to cut / strike / stamp
 * [Pel](https://www.etymonline.com/word/*pel-?ref=etymonline_crossreference#etymonline_v_52783) - pale / to fold / skin / hide / to sell / to thrust / strike / drive
 
-* [Penkwe](https://www.etymonline.com/word/*penkwe-?ref=etymonline_crossreference) - five
 * [Per](https://www.etymonline.com/word/*per-?ref=etymonline_crossreference#etymonline_v_52579) - forward, first / to lead, pass over / to try, risk / to strike / to sell
 * [Pere](https://www.etymonline.com/word/*pere-?ref=etymonline_crossreference#etymonline_v_52861) - to produce / procure / to grant / allot
 
@@ -257,10 +288,8 @@
 
 * [Sta](https://www.etymonline.com/word/*sta-?ref=etymonline_crossreference) - to stand / set down / make or be firm / place or thing that is standing.
 * [Ster](https://www.etymonline.com/word/*ster-?ref=etymonline_crossreference#etymonline_v_52592) - stiff / star 
-* [Swep](https://www.etymonline.com/word/*swep-?ref=etymonline_crossreference) - sleep
 
 * [Ten](https://www.etymonline.com/word/*ten-?ref=etymonline_crossreference) - to stretch
-* [Tkei](https://www.etymonline.com/word/*tkei-?ref=etymonline_crossreference) - to settle / dwell / be home
 * [Trep](https://www.etymonline.com/word/*trep-?ref=etymonline_crossreference) - to turn
 
 * [Weg](https://www.etymonline.com/word/*weg-?ref=etymonline_crossreference) - to be strong / lively

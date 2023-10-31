@@ -10,7 +10,7 @@
 # Topics
 * [[The Fundamentals of Game Design]]
 * [[Level Design Principles]]
-* [[Puzzles]]
+* [[Puzzle]]
 
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]

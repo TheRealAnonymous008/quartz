@@ -47,7 +47,7 @@
 	* Rules limit player behavior and define the game, and 
 	* Every game has a quantifiable outcome or goal.
 
-* *All [[Puzzles|puzzles]] are games.* Games, in turn, can be seen as lying in a spectrum of either being puzzle-like wherein there is a "correct" answer, or open-ended, where there is not.
+* *All [[Puzzle|puzzles]] are games.* Games, in turn, can be seen as lying in a spectrum of either being puzzle-like wherein there is a "correct" answer, or open-ended, where there is not.
 * The goal of a game may be as simple as a player-set goal determined session to session. *Players are free to construct their own goals--possibly even changing the game*.
  
 ### Entering the Game

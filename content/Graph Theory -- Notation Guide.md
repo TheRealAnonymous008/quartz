@@ -26,3 +26,8 @@
 * $N_n$ - null graph on $n$ vertices.
 * $K_n$ - complete graph on $n$ vertices.
 * $K_{r,s}$ - complete bipartite graph.
+
+* $G+F, G+e$ - edge addition
+* $G/e$ - edge contraction.
+* $G-F,G-e$ - edge deletion
+* $G-F, G-v$ - vertex deletion
