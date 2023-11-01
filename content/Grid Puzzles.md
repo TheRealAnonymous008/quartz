@@ -1,4 +1,3 @@
-
 * Although they usually play in rectangular or square grids, most grid puzzles can generalize to non-rectangular grids.
 	* Orthogonal simply means parallel to the edges of the cell.
 	* Diagonal simply means a combination of two orthogonal movements.
@@ -11,34 +10,56 @@
 * [[Partitioning Puzzles]]
 * [[Sudoku]] 
 
-### Hamle
-### Gyokuseki
-### Kin-Kon-Kan
-### Ichimaga
-### Shimaguni
+### Arofuro
+### Every Second Turn
+### Mobiriti
+### Mubunanba
+* *Variant*: **Mubunanba+**
+### Terra X
 
-### Meadows
-### Yajisan-Kazusan
-### Snake Pit
-### Hiroimono
-### Water Fun
+### Rimotoeiji
+### Double Back
+### Wamuzu
+### Kaero
+### Kapama
+* *Variant*: **Sunglasses**
 
-### Round Trip
-### Number Chaos
-### Santoitchi
-### Hamusando
-### Trace Numbers
+### Yunikumaka
+### Meandering Numbers
+### Yokibunkatsu
+### Scrin
+### From 1 to X
 
-### Area Division
-### Sukoro
-### Entry/Exit
-### Sign In
-### Kuroshiro
+### Shingoki
+### Neibadomino
+### Jemini
+### Double Choco
+### Konarupu
 
-### Moonsun
-### Rectslider
-### Stostone
-### Kohi Gyunyu
+### Gaidoaro
+### Mid Loop
+### Dutch Loop
+### Trinairo
+### Detour
+
+### Balance Loop
+### Turf
+### SquarO
+### Chiyotsui
+### Agre
+
+### Geradeweg
+### Kuroclone
+### Yajisan-Sokoban
+### Line Segement
+### Raneko
+
+### Factorism
+### Akiperago
+### Yakazu
+### Miraringutairu
+### Heyablock
+### Choco banana
 
 # Link
 * [Cross+A](https://www.cross-plus-a.com/puzzles.htm) - website with a catalog of logic puzzles. Main source for other non-sudoku variants. 

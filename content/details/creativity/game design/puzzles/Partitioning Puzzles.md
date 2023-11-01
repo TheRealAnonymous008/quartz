@@ -11,11 +11,22 @@
 * *Constraint*: Each region contains exactly two numbers.
 * *Constraint*: The area of each region must be between the two numbers inside it.
 
+### Area Division
+* *Goal*: Divide the grid into regions.
+* *Constraint*: Regions have letters in the given range.
+* *Constraint*: Regions contain each letter exactly once.
+* *Constraint*: Each letter is part of exactly one region.
+
 ### Bodaburokku
 * *Goal*: Divide the grid into regions.
 * *Constraint*: Cells with the same number belong to the same region.
 * *Constraint*: All points where three or four lines meet are given (indicated by dots).
 * *Constraint*: Every region contains at least one cell with a number.
+
+### Deddoanguru
+* *Goal*: Divide the grid into regions.
+* *Constraint*: Regions contain one black circle.
+* *Constraint*: The black circle is an eye that looks at all orthogonal directions until it hits a region border. The number in the eye represents how many cells in the region the eye doesn't see.
 
 ### Dominion
 * *Goal*: Shade some cells in the grid.
@@ -29,14 +40,27 @@
 * *Constraint*: The domino numbers are shown on the grid.
 * *Constraint*: No domino may repeat.
 
-
+### Doueieru
+* *Goal*:  Divide the grid into L shaped regions. The legs of these regions are one cell wide
+* *Constraint*: A circle represent a cell in which an "L" must bend. All circles are given.
+* *Constraint*: If a cell contains a double circle, the two legs of the region must have the same length.
+* *Constraint*: If a cell contains a black circle, the two legs must be different.
+* *Constraint*: If a cell contains a white circle, the ratio of the lengths of the two legs is unknown.
 
 ### FIllomino 
 * *Goal*: Divide the grid into polyominoes by filling in the boundaries of the cells (i.e., the edges)
 * *Constraint*: Each clue $n$ given is part of a polyomino of size $n$. 
 * *Constraint*: No polyominoes of matching size are adjacent to each other (i.e., share a side).
-* It is possible for two givens with matching numbers to be part of the same polyomino
-* It is possible for a polyomino to have no given at all.
+	* It is possible for two givens with matching numbers to be part of the same polyomino
+	* It is possible for a polyomino to have no given at all.
+* *Variant*: **No Rectangles** - no rectangular regions allowed.
+* *Variant*: **Only Rectangles** - only rectangles.
+* *Variant*: **No 2x2** - no 2x2 cell area can contain the same numbers.
+* *Variant*: **Non-Consecutive** - any two adjacent regions must differ in size by at least two.
+* *Variant*: **Consecutive** - any region of size $N$ must be orthogonally adjacent to at least one other region of size $N-1$ or $N+1$.
+* *Variant*: **Deadomino** - in each row and each column all cells with the same number must belong to the same region.
+* *Variant*: **All Odds** - all region sizes must be odd.
+* *Variant*: **All Evens** - all region sizes must be even
 
 ### Firumatto 
 * *Goal:* Divide the grid into rectangular regions.
@@ -62,6 +86,11 @@
 * *Constraints*: All galaxies must have $180\degree$ rotational symmetry.
 * *Constraint*: All galaxies contain exactly one dot at its center. The dot, therefore acts as the center of the symmetry
 
+### Heki
+* *Goal*: Divide the grid into regions  of exactly six sells
+* *Constraint*: Each region contains exactly two numbers.
+* *Constraint*: Numbers indicate how many cells of the same region are orthogonally adjacent to the cell with the number.
+
 ### Kapetto
 * *Goal*: Divide the grid into rectangular blocks.
 * *Constraint*: Each block contains exactly one number.
@@ -86,6 +115,11 @@
 * *Constraint*: Arrows on cells point to the greatest number among the four cells adjacent to it.
 * *Constraint*: Arrows are not part of a region.
 * *Constraint*: When two numbers are orthogonally adjacent across a region boundary, the numbers must be different.
+* *Variant*: **Masakuchi** - Arrows now have numbers. Numbers indicate the difference between the highest and second highest orthogonal neighbors around the black cells (excluding itself)
+
+### Meadows
+* *Goal*: Divide the grid into square blocks.
+* *Constraint*: Each block contains exactly one circle.
 
 ### Nawabari
 * *Goal*: Divide the grid into rectangular regions.
@@ -120,6 +154,11 @@
 * *Constraint*: A circle represents which cell in an L must bend. Not all regions have circles
 * *Constraint*: An arrow marks the end of the region's leg, pointing to the cell in which the L bends.
 
+### Sashikaku
+* *Goal*: Divide the grid into rectangular regions.
+* *Constraint*: Each region contains exactly one number.
+* *Constraint*; The number represents the difference between the width and length of the region.
+
 ### Sashikazune
 * *Goal*: Divide the grid into L shaped regions.
 * *Constraint*: The two legs of the region must be exactly one cell wide.
@@ -135,6 +174,23 @@
 ### Shikaku
 * *Goal*: Divide the grid into rectangular pieces.
 * *Constraint*: Each piece contains exactly one number, and that number represents the area of the rectangle.
+
+### Slash Pack
+* *Goal*: Divide the grid into regions by placing diagonal lines into empty cells.
+* *Constraint*: Each region must contain the numbers $1,\dots, N$ exactly once.
+* *Constraint*: Two diagonals cannot cross in one cell.
+* *Constraint*: No loose ends. Diagonals must to the edge of the grid.
+
+### Snake Pit
+* *Goal*: Divide the grid into regions called snakes.
+- *Constraint*: A snake is a one-cell-wide path at least two cells long. 
+- *Constraint*: A snake cannot touch itself, not even diagonally.
+- *Constraint*: A cell with a circle must be at one of the ends of a snake. 
+- *Constraint*: A snake may contain one circled cell, two circled cells, or no circled cells at all.
+- *Constraint*: A cell with a number must be part of a snake with a length of exactly that number of cells. 
+- *Constraint*: A snake may contain any amount of numbered cells.
+- *Constraint*: Two snakes of the same length must not be orthogonally adjacent.
+- *Constraint*: A cell with a cross cannot be the end of a snake.
 
 ### Star Battle
 * *Goal*: Place stars in some cells in the grid.
@@ -155,6 +211,12 @@
 * *Constraint*: Vertical bars indicate the region's height is greater than its width.
 * *Constraint*: Horizontal bars indicate the region's width is greater than its height.
 * *Constraint*: Grid dots are not shared by he corners of four regions
+
+### Tetoron
+* *Goal*: Divide the grid into regions of exactly four cells.
+* *Constraint*: Each region contains exactly two different symbols.
+* *Constraint*: Regions of the same shape must contain the same symbols.
+* *Constraint*: Tetrominoes can be rotated or mirrored. These count as having the same symbols.
 
 ### Tetroid
 * *Goal*: Divide the grid into regions of exactly four cells, forming tetrominoes

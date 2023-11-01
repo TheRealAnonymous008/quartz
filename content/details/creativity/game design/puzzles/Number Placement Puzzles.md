@@ -33,7 +33,11 @@
 ### Easy as ABC
 * *Goal*: Place the letters on the square grid.
 * *Constraint*: Letters outside the grid indicate which letter will come across first from that direction.
-* *Variant*: Some cells in the solution will be empty. 
+* *Variant*: **Empty** Some cells in the solution will be empty. 
+* *Variant*:  **Not as Easy**. 
+	* Fill in the first letters of the alphabet on every row and column exactly once.
+	* Numbers outside the grid indicate what position you come across this letter  when looking from that side.
+	* Some cells will be empty.
 
 ### Eulero
  * *Goal*: Fill in the grid with symbols 
@@ -45,10 +49,20 @@
 * *Goal*: Place the numbers such that each row and column contains only one of each digits.
 * *Constraint*: The inequality symbols that are given must be respected by the cells incident to it.
 
+### Grades
+* *Goal*: Place numbers in some cells of the grid.
+* *Constraint*: Numbered cells cannot touch orthogonally or diagonally
+- *Constraint*: The numbers on the top and left equal the number of numbered cells.
+- *Constraint*: The numbers on the bottom and right are the sums of numbers in the rows and columns.
+
 ### Hakyuu
 * *Goal*: Each polyomino section (called rooms) must be filled with the numbers $1$ to $n$, where $n$ is the number of cells in the room. 
 * *Constraint*: If two identical numbers appear in the same row or column, at least that many cells with other numbers must separate them. (i.e., if two threes appear, they must be at least three apart).
 
+### Hanare
+* *Goal*: Place a number in each region of the grid.
+* *Constraint*: A number is equal to the size of the region.
+* *Constraint*: The distance between two numbers that see each other orthogonally equals the difference of these two numbers 
 ### Hidato
 * *Goal*: Fill the grid with consecutive numbers that connect horizontally, vertically or diagonally.
 * *Constraint*: The smallest and highest number are presented in the grid. 
@@ -112,11 +126,20 @@
 * *Constraint*: No number may appear twice in any row, column or region.
 * *Constraint*: All numbers in a region must form a sequence of consecutive numbers in any order.
 
+### Sign In
+* *Goal*: Fill in each cell with the numbers $1\dots N$ where $N$ is the size of the puzzle.
+* *Constraint*: Numbers cannot repeat in each row and column.
+* *Constraint*: Cells with consecutive numbers are separated with either $+$ or $-$. 
+* *Constraint*: No other consecutive numbers exist in the grid.
+* *Constraint*: If a border between cells contains a $+$, a digit in the left or upper cell is one lower than a digit on the right or lower cell.
+* *Constraint*: If a border between cells contains a $-$, a digit in the left or upper cell is one higher than a digit on the right or lower cell.
+
 ### Skyscrapers
 * *Goal*: Place the numbers $1...N$ on the regular (square) grid. 
 * *Constraint*: No number may repeat in any row or column.
 * *Constraint*: The numbers along the edge of the puzzle indicate the number of buildings which you would see from that direction if there was a series of skyscrapers with heights equal the entries in that row or column.
-* *Variant*: The grid can have a side length of more than $N$, meaning there will be empty cells.
+* *Variant*: **Empty Cells** The grid can have a side length of more than $N$, meaning there will be empty cells.
+* *Variant*: **Sums**. Numbers outside the grid indicates the sum of the heights of the visible buildings.
 
 ### Str8ts
 * *Goal*: Place digits within the white cells.

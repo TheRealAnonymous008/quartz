@@ -20,4 +20,4 @@
 * [[Operating System]]
 * [[Instruction Set Architecture]]
 # Links
-* [Computer Organization and Architecture (RISC-V) EECS2021E by Amir Ashouri](https://www.youtube.com/watch?v=ucUHpSYm08U&list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW) - lecture series on computer organization and architecture
+* [Computer Organization and Architecture (RISC-V) EECS2021E by Amir Ashouri](https://www.youtube.com/watch?v=ucUHpSYm08U&list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW) - lecture series on computer organization and architecture. Includes topics discussions on ISA and [[Cache Memory]].

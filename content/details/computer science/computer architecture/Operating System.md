@@ -36,7 +36,7 @@
 * It manages *allocation* as processes require allocated memory to be loaded and executed. Memory must also be released when processes are finished.
 * It manages *files* which serve as means of storing data. This roles includes creating, and deleting files, as well as mapping them onto mass storage.
 * It manages the *mass storage* to store files on hardware.
-* It manages the *cache* to facilitate fast read and write operations using cache memory, which is inherently limited by size and so requires replacement. 
+* It manages the *[[Cache Memory]]* to facilitate fast read and write operations using cache memory, which is inherently limited by size and so requires replacement. 
 	* This includes **cache coherency** to maintain consistent copies of data across the memory hierarchy.
 * It manages *I/O systems* to abstract input and output via driver interfaces.
 * It maintains *security* by managing the allowed operations of users.
