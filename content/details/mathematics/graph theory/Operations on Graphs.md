@@ -1,3 +1,4 @@
+* We can usually use these operations to produce a proof by induction. 
 # Graph Operations
 * The **complement** of $G$, denoted $\overline{G}$ is a graph such that $V(G)=V(\overline{G})$  and the following holds: 
 $$
@@ -42,7 +43,7 @@ $$
 * If $F=\{e\}$ is singleton, then we denote this as $G-e$
 
 ### Edge Smoothing
-* **Edge Smoothing** is an operation on edges  Consider a [[Walks, Paths and Cycles|path contained]] in graph $P=u\to w\to v$ , where $w$ is adjacent to no other vertex.
+* **Edge Smoothing** is an operation on edges  Consider a [[Trails, Walks, Paths and Cycles|path contained]] in graph $P=u\to w\to v$ , where $w$ is adjacent to no other vertex.
   
   Delete vertex $w$ and connect $u$ and $v$. Essentially, replace $P$ with the edge $uv$.
   

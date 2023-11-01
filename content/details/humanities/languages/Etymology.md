@@ -1,5 +1,5 @@
 * Some words arise from contracting two words together (i.e., atone = at one).
-* Words that sound vaguely the same can have surprising connections that make sense when we think about the meaning of these words (however disparate they may be)
+* Words that sound vaguely the same can have surprising connections that make sense when we think about the meaning of these words or how they are interpreted (however disparate they may be)
 # Topics
 * [[Etymological Decompositions of English Words]]
 * [[Proto-Indo-European Etymology]]

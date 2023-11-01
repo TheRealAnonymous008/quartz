@@ -9,6 +9,7 @@
 * Design for player experience not realism. 
 # Topics
 * [[The Fundamentals of Game Design]]
+* [[Lenses for Game Design]]
 * [[Level Design Principles]]
 * [[Puzzle]]
 

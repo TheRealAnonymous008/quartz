@@ -14,7 +14,18 @@
   $$
   Here $r=|A|, s=|B|$
 
+* A **regular** graph is a graph where the [[Graph Connectivity|degree]] of each vertex in the graph is equal. If each vertex has degree $k$, then the graph is $k$-regular.
+  
+  More formally, if $G$ is the $k$-regular graph then 
+  
+  $$
+  \forall v\in V(G), \ \deg(v)=k
+  $$
+
 * **Cubic Graph** - a $3$-regular graph.
+
+* A **cycle** of $n$ vertices is denoted $C_n$ 
 
 # Links
 * [[Fundamental Constructs in Graph Theory]]
+* [[Trails, Walks, Paths and Cycles]]

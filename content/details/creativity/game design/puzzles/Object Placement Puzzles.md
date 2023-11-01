@@ -24,6 +24,24 @@
 * *Constraint*:  A star is visible from the black cell, if there is a straight orthogonal path to the star (i.e., horizontal or vertical)
 * *Constraint*: Black cells block visibility.
 
+### Chocona
+* *Goal*: Shade some cells in the grid
+* *Constraint*: A cell with a number indicates how many cells in the region must be shaded.
+* *Constraint*: Regions without numbers mean any number of cells may be blackened
+* *Constraint*: Black cells must form rectangles independent of region borders.
+* *Constraint*: Black rectangles are not orthogonally adjacent.
+
+### Dosun-Fuwari
+* *Goal*: Place one black and one white circle in each region.
+* *Constraint*: White circles (Balloons) must be placed either 
+	* Into the top cell of the grid 
+	* Into the cell right under black cells on the grid
+	* Under other white circles.
+* *Constraint*: Black circles (Iron balls) must be placed either
+	* Into the bottom cell of the grid.
+	* On the cell right over black cells on the grid.
+	* Over other black circles.
+
 ### Fill-a-Pix
 * *Goal*: Shade some cells on the board. The solved board will form a picture.
 * *Constraint*: The cells with clues represent how many of the nine squares around it (including itself) should be filled in.
@@ -88,10 +106,25 @@
 * *Constraint*: Each block must be a part of a domino, irrespective of region borders.
 * *Constraint*: No two dominoes may share an edge. They can touch diagonally.
 
+### Roma
+* *Goal*: Place arrows pointing in four orthogonal directions in each empty cell.
+* *Constraint*: Arrows cannot repeat in a region.
+* *Constraint*: Starting at any cell, going in the direction of the arrows, it is possible to reach the marked cell on the grid 
+
 ### Shakashaka
 * *Goal*: Place triangles in some of the white cells.
 * *Constraint* The white parts of the grid (that do not have black triangles) must form rectangular regions.
 * *Constraint*: Black cells with a number must be orthogonally adjacent to the specified number of black triangles.
+
+### Sun and Moon
+* *Goal*: Place exactly one star and one stardust cloud in each row and column.
+* *Constraint*: Stars illuminates planets, represented as circles, but only on the side that faces the star. Illumination is orthogonal until blocked.
+* *Constraint*: Stardust clouds and Planets block starlight.
+
+### Tairupeinto
+* *Goal*: Shade some cells on the grid.
+* *Constraint*: Each region is either completely filled or completely empty.
+* *Constraint*: Numbers outside the grid indicate the number of shaded cells in that direction.
 
 ### Tents
 * *Goal*: Place tents in some of the remaining squares on the grid.
@@ -100,12 +133,24 @@
 * *Constraint*: No two tents are adjacent orthogonally or diagonally.
 * *Constraint*: The number of tents in each row and column matches the numbers given.
 
+### Toichika
+* *Goal*: Place arrows in some of the cells.
+* *Constraint*: Each region contains exactly one arrow.
+* *Constraint*: Arrows are paired if they point to each other. No arrow is unpaired.
+* *Constraint*: Regions with paired arrows are not orthogonally adjacent (that is, they do not share edges)
+* *Constraint*: No arrows are placed in between two paired arrows.
+
 ### Tren
 * *Goal*: Locate some blocks in the grid. Blocks correspond to "cars".
 * *Constraint*: Blocks are either $1\times 2$ or $1\times 3$ in dimension.
 * *Constraint*:  Each numbered cell is a part of a block.
 * *Constraint*: Numbers indicate the amount of possible moves of the block. 
 * *Constraint*: Blocks only move in the direction of their short edge.
+
+### Triplets
+* *Goal*: Fill each square with figures (square, circle, triangle)
+* *Constraint*: Regions must either contain all identical or all different figures.
+* *Constraint*: When two figures are orthogonally adjacent across a region boundary, the figures must be different.
 
 ### Walls
 * *Goal*: Place a single orthogonal line in every blank cell.

@@ -11,36 +11,34 @@
 * [[Partitioning Puzzles]]
 * [[Sudoku]] 
 
-### Kurotto
-### Tasukeua
-### Star Battle
-### Araf
-### Kabingurodo
+### Hamle
+### Gyokuseki
+### Kin-Kon-Kan
+### Ichimaga
+### Shimaguni
 
-### Thermometers
-### Snake
-### Peintoeira
-### Irupu
-### Sashigane
+### Meadows
+### Yajisan-Kazusan
+### Snake Pit
+### Hiroimono
+### Water Fun
 
-### Sashikazune
-### Chocona
-### Different Neighbors
-### LITS
-### Nanbaboru
+### Round Trip
+### Number Chaos
+### Santoitchi
+### Hamusando
+### Trace Numbers
 
-### Tairupeinto
-### Yin-Yang
-### Nanro
-### Light and Shadow
-### Arukone
+### Area Division
+### Sukoro
+### Entry/Exit
+### Sign In
+### Kuroshiro
 
-### Tetroid
-### Sukima
-### Triplets
-### Korekutokonekuto
-### Doppelblock
-
+### Moonsun
+### Rectslider
+### Stostone
+### Kohi Gyunyu
 
 # Link
-* [Cross+A](https://www.cross-plus-a.com/puzzles.htm) - website with a typology of logic puzzles. Main source for other non-sudoku variants. 
+* [Cross+A](https://www.cross-plus-a.com/puzzles.htm) - website with a catalog of logic puzzles. Main source for other non-sudoku variants. 

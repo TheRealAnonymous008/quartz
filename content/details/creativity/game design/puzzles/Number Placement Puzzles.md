@@ -17,6 +17,19 @@
 * *Constraint*: Each bold outlined region of cells contain digits which achieve the specified result using the specified mathematical operation 
 * Digits may otherwise repeat within a region.
 
+### Different Neighbors
+[^different_neighbors]: This is an application of the [[Graph Coloring|Four Color Theorem]]
+
+* *Goal*: Place a number from 1-4 on each region.
+* *Constraint*: No two orthogonally or diagonally adjacent digits share the same digit [^different_neighbors]
+
+### Doppelblock
+* *Goal*: Shade some cells on the grid.
+* *Constraint*: Every row and column contains exactly two shaded cells.
+* *Constraint*: Unshaded cells contain numbers from $1,\dots,N-2$, where $N$ is the puzzle size 
+* *Constraint*: Each number appears once in every row and column.
+* *Constraint*: Numbers outside the grid show the sums of the numbers between two black cells in the row or column.
+
 ### Easy as ABC
 * *Goal*: Place the letters on the square grid.
 * *Constraint*: Letters outside the grid indicate which letter will come across first from that direction.
@@ -52,12 +65,32 @@
 * *Constraint*: Clues may not repeat within an entry.
 * *Extension*: A given combination of numbers can only be used once in the grid.
 
+### Kojun
+* *Goal*: Place the numbers $1,\dots,N$ where $N$ is the number of cells in the region.
+* *Constraint*: When two numbers are orthogonally adjacent, the numbers must be different
+* *Constraint*: The upper number of two numbers in the same region must be greater than the lower number.
+
 ### Mathrax
 * *Goal*: Fill in each cell with the numbers $1-N$, where $N$ is the puzzle's side.
 * *Constraint*: Numbers may not repeat in the rows or columns.
 * *Constraint*: A number and a mathematical operation indicates that the number is a result of executing the operation with numbers in diagonally adjacent cells.
 * *Constraint*: An "E" in the corner indicates all four cells incident to it have even numbers.
 * *Constraint*: An "O" in the corner indicates all four cells incident to it have odd numbers.
+
+### Nanbaboru
+* *Goal*: Fill some cells with numbers from the given range.
+* *Constraint*: No number appears twice in any row or column
+* *Constraint*: Circles must contain numbers
+* *Constraint*: Crosses must not contain numbers.
+
+### Nanro
+* *Goal*: Fill in some cells with numbers
+* *Constraint*: All numbers in the region must be the same.
+* *Constraint*: The given number in a region denotes how many cells in this region contain a number.
+* *Constraint*: All regions contain at least one number.
+* *Constraint*: When two numbers are orthogonally adjacent across a region boundary, the numbers must be different.
+* *Constraint*: No pools. No $2\times 2$ area contains only numbered digits.
+* *Constraint*: All cells with numbers form one orthogonally continuous region.
 
 ### Number Chain
 * *Goal*: Draw a single continuous line from the upper left to the lower right.
@@ -97,6 +130,13 @@
 * *Goal*: The grid is partitioned into regions. Fill in the grid with the numbers o from $1$ to the size of the region it belongs to (i.e., its number of cells)
 * *Constraint*: Cells with the same digits must not be orthogonally or diagonally adjacent.
 
+### Sukrokuro
+* *Goal*: Fill in the numbers in the white cells.
+* *Constraint*: [[Sudoku]] rules. Digits 1-9 must be placed on white cell with no repeats. 
+* *Constraint*: [[#Kakuro]] rules apply. These clues give the sum of numbers in consecutive cells right or downward
+* *Constraint*: Kropki rules apply. Digits separated by a white dot are consecutive. 
+* *Constraint*: All Kropki dots are given.
+
 ### Sutoreto
 * *Goal*: Place a number in every white cell on the grid.
 * *Constraint*: The numbers in a horizontal or vertical stripe of consecutive white cells must form a sequence of numbers without gaps but in any order.
@@ -105,3 +145,10 @@
 * *Goal*: Fill the grid so so that every row contains the digits $0-9$ (no repeats). Numbers in the columns may repeat.
 * *Constraint*: The numbers at the bottom give the sum of the numbers in the column
 * *Constraint*: Digits that are orthogonally or diagonally adjacent must be different.
+
+### Yin-Yang
+* *Goal*: Place a black or white circle in each empty cell.
+* *Constraint*: Cells with black circles form an orthogonally connected region.
+* *Constraint*: Cells with white circles form an orthogonally connected region.
+* *Constraint*: No pools. No $2\times 2$ group of cells contain circles of the same color.
+

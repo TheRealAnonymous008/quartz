@@ -5,13 +5,14 @@
   When the context is clear, we abbreviate with $V$, $E$ and $xy=(x,y)$. We also assume $V,E$ are finite
 
 * *Graphs abstract pairwise relations between objects*. 
+* *Graphs are recursive structures*. Manipulating a graph gives a smaller graph.
 # Topics
 * [[Graph Theory -- Notation Guide]]
 * [[Fundamental Constructs in Graph Theory]]
 * [[Families of Graphs]]
 * [[Operations on Graphs]]
 * [[Graph Connectivity]]
-* [[Walks, Paths and Cycles]]
+* [[Trails, Walks, Paths and Cycles]]
 * [[Trees]]
 * [[Graph Planarity]]
 * [[Graph Coloring]]
