@@ -123,7 +123,6 @@
 * **Terrorist** - irregular military force that targets non-combatants or civilians for political leverage.
 
 # Military Organization
-
 ### Air Force Organization
 | Unit Name                                    | No of personnel       | No of aircraft   | No of subordinate units   | Officers in command           |
 |--------------------------------------------|-----------------------|------------------|---------------------------|-------------------------------|
@@ -176,8 +175,10 @@
 
 
 
+[^2]
+
+[^2]: All tables from Wikipedia. 
 
 # Links
 * [Military Organization Wikipedia](https://en.wikipedia.org/wiki/Military_organization)
-	* [Air Force](https://en.wikipedia.org/wiki/Air_force)
 * [r/WarCollege - Why do we still have Military Branches?](https://www.reddit.com/r/WarCollege/comments/nf79ay/traditions_aside_what_is_the_point_of_separate/)
