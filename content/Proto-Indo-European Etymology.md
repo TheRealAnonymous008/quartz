@@ -91,10 +91,22 @@
 	* to hold firmly 
 	* to support
 	* something sturdy
+* [Dhe](https://www.etymonline.com/word/*dhe-?ref=etymonline_crossreference)
+	* to set
+	* to put
+	* to make or do something
+	* to make (as in to cause something to become something)
+	* to impose
+	* to place
+* [Dhes](https://www.etymonline.com/word/*dhes-?ref=etymonline_crossreference) 
+	* pertaining to religious concepts such as gods or sacred holidays
 * [Do](https://www.etymonline.com/word/*do-?ref=etymonline_crossreference) 
 	* to give
 	* to publish
 	* pertaining to something given such as a gift or a portion
+
+* [Eidh](https://www.etymonline.com/word/edifice) ***
+	* Burning
 * [Eis](https://www.etymonline.com/word/hierophant) *** 
 	* Sacred
 	* Pertaining to passion
@@ -210,33 +222,8 @@
 
 [^1]: It's amusing how this PIE word corresponds to both white and black. 
 # Breakdowns
-### Names
-* **Aberdeen*** - (lit) mouth of the river Don.
-* **Barnard** - (lit) Bear-hold
-* **Berenice** - (lit) bringer of victory
-* **Bruin** - (lit) Brown
-* **Christopher** - (lit) Christ bearing
-* **Dorian** - of Doris. 
-* **Dorothy** -  (lit) gift of God.
-* **Eudora** - generous / good giver
-* **Fedor** - (lit) gift of God
-* **Inverness** - (lit) in the mouth of the river Ness (the roaring one)
-* **Isidore** - (lit) Gift of Isis
-* **Levant** - rising. Pertaining to the region being in the direction of sunrise
-* **Lucifer** - (lit) light bringer
-* **Pandora** - (lit) giver of all. all gifted
-* **Pentecost** - the fiftieth day.
-* **Polydorus** - one who has many gifts
-* **Pompeii** - five (in reference to its five districts)
-* **Somnus** - sleep personified
-* **Theodore** - (lit) gift of god
-* **Theodosia** - (lit) gift of god
 
-### The Rest
 # Future PIE
-* [Dhe](https://www.etymonline.com/word/*dhe-?ref=etymonline_crossreference) - to set / put
-* [Dhes](https://www.etymonline.com/word/*dhes-?ref=etymonline_crossreference) - pertaining to religious concepts
-
 * [Deru / Dreu](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference)- be firm or steadfast / pertaining to trees or wood
 * [Dwo](https://www.etymonline.com/word/*dwo-?ref=etymonline_crossreference) - two
 
@@ -301,20 +288,26 @@
 * [Bheidh](https://www.etymonline.com/word/*bheidh-) - to trust / confide / persuade
 * [Bhorh](https://www.etymonline.com/word/*bhorh-) - hole
 * [Da](https://www.etymonline.com/word/*da-) - to divide
+* [Dek](https://www.etymonline.com/word/*dek-) - to take / accept
+* [Deu](https://www.etymonline.com/word/*deu-#etymonline_v_52723) - to do, perform, show favor, revere 
 * [Dhe](https://www.etymonline.com/word/*dhe-) - to set / put
 * [Dheu](https://www.etymonline.com/word/*dheu-#etymonline_v_53808) - dust, vapor, smoke
 * [Es](https://www.etymonline.com/word/*es-) - to be
 * [Kakka](https://www.etymonline.com/word/*kakka-) - to defecate
 * [Kel](https://www.etymonline.com/word/*kel-#etymonline_v_52556) - to cover / conceal / save / to be prominent / hill
+* [Kele](https://www.etymonline.com/word/*kele-#etymonline_v_52664) - warm. to shout
 * [Keue](https://www.etymonline.com/word/*keue-) - to swell / vault / hole
 * [Kwo / Kwi](https://www.etymonline.com/word/*kwo-)  - stem of relative and interrogative pronouns
 * [Leuk](https://www.etymonline.com/word/*leuk-) - light / brightness
 * [Mel](https://www.etymonline.com/word/*mel-#etymonline_v_53241) - soft / strong or great / false, bad, wrong
 * [No-men](https://www.etymonline.com/word/*no-men-) - name
+* [Op](https://www.etymonline.com/word/*op-) - to work, put in abundance
 * [Plak](https://www.etymonline.com/word/*plak-#etymonline_v_52839) - to be flat / to spread / to strike
 * [Reg](https://www.etymonline.com/word/*reg-) - to move in a straight line / to lead or to rule
+* [Sal](https://www.etymonline.com/word/*sal-) - salt
 * [Stel](https://www.etymonline.com/word/*stel-) - to put / stand / put in order. derivatives pertain to a standing object in place
 * [Stere](https://www.etymonline.com/word/*stere-) - to spread
 * [Trep](https://www.etymonline.com/word/*trep-) - to turn
 * [Wekw](https://www.etymonline.com/word/*wekw-) - to speak
+* [Were-o](https://www.etymonline.com/word/*were-o-) - true / trustworthhy
 * [Werg](https://www.etymonline.com/word/*werg-) - to do
