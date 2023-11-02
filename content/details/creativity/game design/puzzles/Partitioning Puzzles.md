@@ -28,17 +28,17 @@
 * *Constraint*: Regions contain one black circle.
 * *Constraint*: The black circle is an eye that looks at all orthogonal directions until it hits a region border. The number in the eye represents how many cells in the region the eye doesn't see.
 
-### Dominion
-* *Goal*: Shade some cells in the grid.
-* *Constraint*: Shaded cells form dominoes which can touch each other diagonally.
-* *Constraint*: Cells with letters are unshaded
-* *Constraint*: Cells with the same letter belong to the same region.
-* *Constraint*: Unshaded regions must contain at least one letter.
-
 ### Dominosa
 * *Goal*: Place borders to form dominoes within the grid.
 * *Constraint*: The domino numbers are shown on the grid.
 * *Constraint*: No domino may repeat.
+
+### Double Choco
+* *Goal*: Divide the grid into regions.
+* *Constraint*: Each region contains one contiguous area of white and one contiguous area of black cells.
+* *Constraint*: A pair of areas must be of the same shape and size (subject to rotation or mirroring)
+* *Constraint*: Numbers indicate the number of same colored cells in the region.
+* *Constraint*: Regions can contain more than one number.
 
 ### Doueieru
 * *Goal*:  Divide the grid into L shaped regions. The legs of these regions are one cell wide
@@ -91,6 +91,11 @@
 * *Constraint*: Each region contains exactly two numbers.
 * *Constraint*: Numbers indicate how many cells of the same region are orthogonally adjacent to the cell with the number.
 
+### Jemini
+* *Goal*: Divide the grid into regions
+* *Constraint*: Each region contains one letter.
+* *Constraint*: In regions of the same size, shape and orientation, the same letter must be at the same position.
+
 ### Kapetto
 * *Goal*: Divide the grid into rectangular blocks.
 * *Constraint*: Each block contains exactly one number.
@@ -101,13 +106,6 @@
 * *Goal*: Divide the grid into rooms.
 * *Constraint*: Each region contains exactly one number.
 * *Constraint*: The number represents the border's length of the region (sides of the board incident to the region count to the border length)
-
-### Light and Shadow
-* *Goal*: Divide the grid into gray and white regions
-* *Constraint*: Every region contains exactly one number
-* *Constraint*: The region must have the same number of cells as the number it contains
-* *Constraint*: Numbers in X colored cells are part of the region of color X
-* *Constraint*: Same colored regions cannot share an edge.
 
 ### Makaro
 * *Goal*: Divide the grid into regions.
@@ -121,10 +119,28 @@
 * *Goal*: Divide the grid into square blocks.
 * *Constraint*: Each block contains exactly one circle.
 
+### Mubunanba
+* *Goal*: Separate the grid into regions.
+* *Constraint*: Regions have exactly three cells in size.
+* *Constraint*: Not all cells have to be part of a region.
+* *Constraint*: Each region contains exactly one digit. 
+* *Constraint*: Digits indicate the number of possible directions the block can move. Movement is orthogonal.
+* *Variant*: **Mubunanba+** - allows for question marks as clues
+	* Regions include exactly one digit or question mark, which represents an unknown digit.
+	* All cells that are not part of any block must be connected orthogonally
+
 ### Nawabari
 * *Goal*: Divide the grid into rectangular regions.
 * *Constraint*: Each region contains exactly one digits.
 * *Constraint*: Digits in the cell represent how many sides of the  cell belongs to the border of the region. Edges of the grid are included.
+
+### Neibadomino
+* *Goal*: Locate the dominoes on the grid and fill these blocks with numbers.
+* *Constraint*: Not all cells belong to a domino
+* *Constraint*: Numbers in the grid should be part of a domino.
+* *Constraint*: Numbers indicate the number of orthogonally adjacent dominoes.
+* *Constraint*: Dominoes with the same numbers must not be orthogonally adjacent.
+* *Constraint*: No $2\times 2$ area can be covered by only dominoes.
 
 ### Neighbors
 * *Goal*: Divide the grid into regions.
@@ -132,12 +148,11 @@
 * *Constraint*: Regions contain exactly one number (or question mark).
 * *Constraint*: Regions have as many neighbors as their number indicates. Regions are neighbors when they share a part of their border.
 
-### Nuribou
-* *Goal*: Shade some cells on the grid.
-* *Constraint*: The black cells divide the grid in regions of white cells. Each region contains one cell with a number.
-* *Constraint*: The number in the region gives the number of cells in the region.
-* *Constraint*: Black cells form orthogonal stripes that are not orthogonally adjacent and are exactly one cell wide.
-* *Constraint*: If two stripes are connected diagonally, the length of the stripes must be different
+### Raneko
+* *Goal*: Divide the grid into regions
+* *Constraint*: Each region contains one circle (the cat)
+* *Constraint*: Numbered circles indicate the size of the region.
+* *Constraint*: The grid may contain black cells. Numbers in black cells indicate how many regions share an edge with that cell.
 
 ### Rekuto
 * *Goal*: Divide the grid into rectangular pieces.
@@ -166,11 +181,19 @@
 * *Constraint*: Numbers indicate the amount of cells up to a place where the L will bend (including the cell with the number)
 * *Constraint* 1's indicate where the L bends.
 
+### Scrin
+* *Goal*: Divide the grid into rectangular regions.
+* *Constraint*: Regions contain at most one circle.
+* *Constraint*: Regions must have the same number of cells as the number in the circle.
+* *Constraint*: Regions do not share edges.
+* *Constraint*: Regions form a single non-branching loop where all of them touch each other by the corners.
+
 ### Seethrough
 * *Goal*: Every cell denotes a room. Close some doors by placing edges. 
 * *Constraint*: Open doors allow looking into other rooms.
 * *Constraint*: The number in the cell indicates the total number of rooms visible orthogonally (excluding the room itself)
 * *Constraint*: All rooms must be connected (going through doors).
+
 ### Shikaku
 * *Goal*: Divide the grid into rectangular pieces.
 * *Constraint*: Each piece contains exactly one number, and that number represents the area of the rectangle.
@@ -191,11 +214,6 @@
 - *Constraint*: A snake may contain any amount of numbered cells.
 - *Constraint*: Two snakes of the same length must not be orthogonally adjacent.
 - *Constraint*: A cell with a cross cannot be the end of a snake.
-
-### Star Battle
-* *Goal*: Place stars in some cells in the grid.
-* *Constraint*: Each row, column and region contains the same number of stars.
-* *Constraint*: Stars cannot be orthogonally or diagonally adjacent.
 
 ### Sukima
 * *Goal*: Locate some regions on the grid.
@@ -230,6 +248,12 @@
 * *Constraint*: Blocks of the same size are not orthogonally adjacent.
 * *Constraint*: Each given number represents the size of the block to which it belongs.
 
+### Turf
+* *Goal*: Shade some cells in the grid to divide the grid into regions
+* *Constraint*: Regions must contain at least one number
+* *Constraint*: Numbers in the region indicate the size of the region.
+* *Constraint*: Additional numbers in the region indicate how many surrounding cells are white (counting itself, orthogonal, and diagonal neighbors)
+
 ### Usotatami
 * *Goal*: Divide the grid into rectangular regions.
 * *Constraint*: Regions contain exactly one number.
@@ -246,8 +270,20 @@
 * *Constraint*: Lines can cross each other, except at black dots.
 * *Constraint*: Not all black dots need to be used.
 
+### Yokibunkatsu
+* *Goal*: Divide the grid into regions of exactly five cells.
+* *Constraint*: Regions contain a star.
+* *Constraint*: The cells of a region must be foldable to a cube with the star at the bottom and without the top side.
+* *Constraint*: Some region borders are given.
+* *Constraint*; Not all cells have to be part of a region.
+
 ### Yonmasu
 * *Goal*: Divide the grid into regions
 * *Constraint*: Regions contain exactly four cells.
 * *Constraint*: Each region contains one circle.
 * *Constraint*: Black cells are not part of any region.
+
+### Yunikumaka
+* *Goal*: Divide the grid into regions of tetrominoes
+* *Constraint*: Each region contains exactly one dot either in the center of a cell or a border between the cells.
+* *Constraint*: Dots on the border between regions are ignored.

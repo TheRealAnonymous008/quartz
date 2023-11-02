@@ -45,6 +45,15 @@
  * *Constraint*: Every row and every column contains each letter and each digit exactly once.
  * *Constraint*: No two cells can contain the same pair of symbols.
 
+### Factorism
+* *Goal*: Place the numbers from $1\dots N$ where $N$ is the board size. The numbers are placed at the edges of the grid.
+* *Constraint*: Numbers on the grid correspond to the product of the number in the corresponding row and column.
+
+### From 1 to X
+* *Goal*: Place the numbers $1\dots N$, where $N$ is the size of the region.
+* *Constraint*: Same numbers are not orthogonally adjacent.
+* *Constraint*: Numbers outside the grid show the sums of the numbers in the corresponding row or column.
+
 ### Futoshiki
 * *Goal*: Place the numbers such that each row and column contains only one of each digits.
 * *Constraint*: The inequality symbols that are given must be respected by the cells incident to it.
@@ -91,6 +100,10 @@
 * *Constraint*: An "E" in the corner indicates all four cells incident to it have even numbers.
 * *Constraint*: An "O" in the corner indicates all four cells incident to it have odd numbers.
 
+### Meandering Numbers
+* *Goal*: Fill each region with the digits $1,\dots,N$ where $N$ is the size of the region.
+* *Constraint*: Cells with the same digit are not orthogonally or diagonally adjacent.
+* *Constraint*: Consecutive numbers within the region are orthogonally adjacent.
 ### Nanbaboru
 * *Goal*: Fill some cells with numbers from the given range.
 * *Constraint*: No number appears twice in any row or column
@@ -125,6 +138,14 @@
 * *Goal*: Fill in each cell in the grid with $1,\dots,N$ where $N$ is the size of the grid.
 * *Constraint*: No number may appear twice in any row, column or region.
 * *Constraint*: All numbers in a region must form a sequence of consecutive numbers in any order.
+
+### Shingoki
+* *Goal*: Draw a single continuous non-intersecting loop
+* *Constraint*: The loop must pass through all circles.
+* *Constraint*: The loop turns on a black circle.
+* *Constraint*: The loop travels straight through a white circle.
+* *Constraint*: The loop may or may not turn on a gray circle.
+* *Constraint*: If a circle contains a number, the number indicates the total length of the straight lines going out of the circle.
 
 ### Sign In
 * *Goal*: Fill in each cell with the numbers $1\dots N$ where $N$ is the size of the puzzle.
@@ -168,6 +189,15 @@
 * *Goal*: Fill the grid so so that every row contains the digits $0-9$ (no repeats). Numbers in the columns may repeat.
 * *Constraint*: The numbers at the bottom give the sum of the numbers in the column
 * *Constraint*: Digits that are orthogonally or diagonally adjacent must be different.
+
+### Terra X
+* *Goal*: Place digits from $0,\dots,9$ into each region once
+* *Constraint*: Regions with the same number cannot share an edge. They may touch at corners.
+* *Constraint*: For each grid point where four regions meet, the sum of the digits equal ten. Grid points are marked on the grid.
+### Yakazu
+* *Goal*: Fill the white cells with numbers.
+* *Constraint*: Compartments are runs of white cells going orthogonally. Compartments must contain consecutive numbers but in any order.
+* *Constraint*: Compartments must contain the number 1. 
 
 ### Yin-Yang
 * *Goal*: Place a black or white circle in each empty cell.

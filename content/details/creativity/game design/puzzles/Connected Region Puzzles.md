@@ -1,5 +1,12 @@
 * A subtype of [[Partitioning Puzzles]] where we must find one contiguous region of cells.
 
+### Agre
+* *Goal*: Shade some cells.
+* *Constraint*: Black cells form an orthogonally connected area.
+* *Constraint*: Cells with a number indicate how many cells in the region must be shaded.
+* *Constraint*: In regions without a number any amount may be shaded or none may be shaded.
+* *Constraint*: There cannot be a run of four or more black or white cells. 
+
 ### Canal View
 * *Goal*: Shade some cells on the grid.
 - *Constraint*: All black cells create a single connected group.
@@ -16,6 +23,14 @@
 * *Goal*: Place circles into empty cells.
 * *Constraint*: All circles form an orthogonally connected area
 * *Constraint*: Lines of connected circles must not contain more than $3$ circles.
+
+### Gaidoaro
+* *Goal*: Shade some cells on the grid.
+* *Constraint*: White cells form one orthogonally connected regions.
+* *Constraint*: Black cells are not orthogonally adjacent to each other.
+* *Constraint*: Cells with arrows cannot be blackened. The arrow indicates the direction to move to reach the star (following white cells). 
+* *Constraint*: Cells with the star cannot be blackened
+* *Constraint*: From any white cell, there must only be one way to reach the cell with a star
 
 ### Golem Grad
 * *Goal*: Shade some cells. Combines Nurikabe and Snake
@@ -37,6 +52,15 @@
 * *Constraint*: The numbers in the black cell indicate the length of the moves made.
 * *Constraint*: In the solved board, all white cells are interconnected.
 * *Constraint*: In the solved board, no black cell should share an edge.
+
+### Heyablock
+* *Goal*: Shade some cells on the grid.
+- *Constraint*: All black cells in a region must be connected.
+- *Constraint*: A cell with a number indicates how many cells in the region must be shaded.
+- *Constraint*: In regions without a number at least one cell must be shaded
+- *Constraint*: When two cells are orthogonally adjacent across a region boundary, at least one cell must be white.
+- *Constraint*: All white cells form one orthogonally connected area.
+- *Constraint*: A line of connected white cells cannot go through two or more region borders.
 
 ### Heyawake
 * *Goal*: Shade some cells in the puzzle. 
@@ -113,6 +137,15 @@
 * *Variant*: **Line Nurikabe** - grid cannot contain five consecutive black cells in a row or column. In return, pools are allowed.
 * *Variant*: **Pairs Nurikabe** - islands must contain exactly two numbers. The size of the island equals the sum of these numbers.
 
+### Nurimaze
+* *Goal*: Shade some regions.
+* *Constraint*: Cells with letters, circles or triangles are always white.
+- *Constraint*: White cells form a one-cell-wide path from a cell with S ("start") to a cell with G ("goal").
+- *Constraint*: A path from S to G includes all cells with circles and no cells with triangles.
+- *Constraint*: No pools. No $2\times 2$ cell area within the grid can have the same color.
+- *Constraint*: All white cells must form an orthogonally continuous area.
+- *Constraint*: White cells must not form a loop.
+
 ### Nurimisaki
 * *Goal*: Shade some cells
 - *Constraint*: White cells form a path exactly one cell wide.
@@ -122,15 +155,6 @@
 - *Constraint*: A number in a circle indicates how many white cells can be seen orthogonally from that cell, including the cell itself.
 - *Constraint* White cells form an orthogonally connected region.
 - *Constraint*: No $2\times 2$ cell area within the grid can have the same color.
-
-### Nurimaze
-* *Goal*: Shade some regions.
-* *Constraint*: Cells with letters, circles or triangles are always white.
-- *Constraint*: White cells form a one-cell-wide path from a cell with S ("start") to a cell with G ("goal").
-- *Constraint*: A path from S to G includes all cells with circles and no cells with triangles.
-- *Constraint*: No pools. No $2\times 2$ cell area within the grid can have the same color.
-- *Constraint*: All white cells must form an orthogonally continuous area.
-- *Constraint*: White cells must not form a loop.
 
 ### Oases
 * *Goal*: Shade some cells.
@@ -152,6 +176,12 @@
 * *Constraint*: All islands must be L shaped and one cell wide.
 * *Constraint*: Islands may not be connected.
 * *Constraint*: Arrows mark the end of the island's leg. The arrow points to the cell in which the L "bends". 
+
+### Stitches
+* *Goal*: Connect each region with exactly one line (the stitch).
+* *Constraint*: Each line is one cell long.
+* *Constraint*: Cells may be visited by at most one line.
+* *Constraint*: Numbers at the edge of the grid indicate how many end points must be placed in the row or column.
 
 ### Sukoro
 * *Goal*: Place the numbers $1$ to $4$.
