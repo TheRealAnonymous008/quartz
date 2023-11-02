@@ -13,5 +13,9 @@
 	* On one hand we can simply draw one part of the symmetry and apply repeated reflections.
 	* On the other hand, placing the copies relative to each other to maintain symmetry requires the use of guides and careful fine tuning.
 
+5. In some cases, it is infeasible to plot all the vertices first. In which case, we can build the figure gradually. *Start with a "loop" two vertices connected to each other*.  Then, keep adding vertices in between, following the outline. adjusting as needed
+	* It helps to have fill enabled for the shape to see the general figure better. Still, follow the lines and not the shape.
+	* To make protrusions, remember to create three points. Two points are where the protrusion joins the main "stem", and the other is the point at the apex of the protrusion.
+
 # Links
 * [[Creativity]]

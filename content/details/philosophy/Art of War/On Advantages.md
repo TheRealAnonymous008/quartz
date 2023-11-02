@@ -1,4 +1,6 @@
 * Learn to put yourself in an advantageous position over others.
+	* Do not engage an enemy that is uphill.
+	* Do not engage an enemy that is upstream.
 * *Learn to hide your advantages* [^1.18]. When strong, appear weak. When disciplined, appear disorderly. When courageous, appear fearful[^5.17]. In doing so, the enemy is kept on the move. Conversely, *scout the enemy for their advantages* [^6.22]. Seek to surprise the enemy and undermine their plans.
 * *Demoralize the enemy* "Supreme excellence consists of breaking the enemy's resistance without fighting" [^3.2]. This can come through deception. intimidation or making them feel desperate [^6.3][^6.23]. Learn to psychologically manipulate the enemy
 	* Be mindful of desperation. *Give the enemy some false hope*. [^3.36] Do not let the enemy realize that all hope is lost as this comes with the realization they will not have anything to lose.  

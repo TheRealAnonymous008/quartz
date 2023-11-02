@@ -1,5 +1,3 @@
-* Do not engage an enemy that is uphill.
-* Do not engage an enemy that is upstream.
 # Topics
 * [[The Art of War]]
 
