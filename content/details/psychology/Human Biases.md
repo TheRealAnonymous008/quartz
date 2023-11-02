@@ -52,3 +52,4 @@
 
 * [List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) 
 * [The Decision Lab](https://thedecisionlab.com/biases-index)
+* [Catalog Of Biases](https://catalogofbias.org/biases/)

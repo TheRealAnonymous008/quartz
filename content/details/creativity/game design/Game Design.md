@@ -9,14 +9,14 @@
 * Design for player experience not realism. 
 # Topics
 * [[The Fundamentals of Game Design]]
-* [[Lenses for Game Design]]
+* [[Lenses for Game Design - Notes]]
 * [[Level Design Principles]]
 * [[Puzzle]]
 
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
 * [[Creativity]]
-* [[Design of Everyday Things]] - more on design. In particular, focus on Iterative Design, wherein games are made as they are being playtested
+* [[Design]] - more on design. In particular, focus on Iterative Design, wherein games are made as they are being playtested
 
 * The game of [Set](https://www.youtube.com/watch?v=EkFX9jUJPKk) for game design inspiration.
 * [Games in Powerpoint are a thing](https://www.youtube.com/watch?v=KDUiw2BHE5Y)
