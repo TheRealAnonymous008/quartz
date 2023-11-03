@@ -74,7 +74,7 @@
   
 * Moves towards the expected value, taking into account how likely each action is under the current policy. That is, the rule becomes
   $$
-  \begin{split}Q(S_t,A_t)&\gets Q(S_t,A_t)+\alpha[R_{t+1} +\gamma E_\pi \left[Q(S_{t+1}, A_{t+1}) \mid S_{t+1} ] - Q(S_t,A_t)\right]  \\ &= Q(S_t, A_t) + \alpha\left[R_{t+1} +\gamma \left[\sum_{a} \pi(a\mid S_{t+1} ) \ Q(S_{t+1}, a)\right] - Q(S_t,A_t)\right] \end{split}
+  \begin{split}Q(S_t,A_t)&\gets Q(S_t,A_t)+\alpha[R_{t+1} +\gamma \mathbb{E}_\pi \left[Q(S_{t+1}, A_{t+1}) \mid S_{t+1} ] - Q(S_t,A_t)\right]  \\ &= Q(S_t, A_t) + \alpha\left[R_{t+1} +\gamma \left[\sum_{a} \pi(a\mid S_{t+1} ) \ Q(S_{t+1}, a)\right] - Q(S_t,A_t)\right] \end{split}
   $$
   
 * More computationally complex than SARSA, but *eliminates variance due to random selection* of $A_{t+1}$. 

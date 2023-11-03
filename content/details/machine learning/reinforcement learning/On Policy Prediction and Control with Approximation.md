@@ -43,7 +43,7 @@
 	  $$
 	  \begin{split}
 	  w_{\text{TD}}&=A^{-1}b \\ 
-	  b&=E[R_{t+1} \ x_t] \\
+	  b&=\mathbb{E}[R_{t+1} \ x_t] \\
 	  A&= E\left[x_t(x_t-\gamma x_{t+1})\right]
 	  \end{split}
 	  $$
@@ -89,7 +89,7 @@
 * Suppose we want to learn $\tau$ experiences with feature vector $x$. The step size should be set as 
   
   $$
-  \alpha = \left(\tau E[x^Tx]\right)^{-1}
+  \alpha = \left(\tau \mathbb{E}[x^Tx]\right)^{-1}
   $$
 * This method works best if the feature vectors do not vary greatly in length
 ### Least Squares TD

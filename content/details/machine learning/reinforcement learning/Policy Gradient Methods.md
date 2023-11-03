@@ -12,6 +12,7 @@ $$
 * **Actor-Critic methods** learn both the policy (actor) and the value function (critic) 
 ### Why Policy Gradient Methods?
 * *Sometimes the policy is a simpler function to approximate*.
+* We can also generalize well to *continuous actions* or stochastic policies.
 * It may also be a good way of injecting [[Bayesian Statistics#Priors|prior]] knowledge about the policy.
 * With a continuous parameterization, the action probabilities change smoothly so that there is less variance in the updating. We have *stronger convergence guarantees*. 
 ### Parameterization
@@ -35,45 +36,37 @@ $$
 * The Policy Gradient Theorem *guarantees that we can perform gradient ascent on the parameterized policy without any knowledge of the model's dynamics* or the initial distribution of states.
 	* This arises partly because when we calculate the gradient, any parameterization of the environment would not have a dependence on $\theta$
 
-* **The Policy Gradient Theorem**. Let $J(\theta)$ be the expected reward and $r(\tau)$ denote the total reward of trajectory $\tau$ following $\pi$, [^2] Then, we have 
-$$
-\begin{split}
-J(\theta) &= E_{\pi_\theta}[r(\tau)] \\ 
-\nabla J(\theta) &=  E_{\pi_\theta} [r(\tau) \nabla_\theta \log \pi_\theta (\tau)] \\ 
-&= E_{\pi_\theta} \left[r(\tau) \sum_{t=1}^T \nabla_\theta \log \pi_\theta(a_t\mid s_t)\right]
-\end{split}
-$$
-
-* If we take the expected reward to be the undiscounted value function $v_{\pi_\theta}$ we get the following (the gradient is with respect to $\theta$ as usual)
+* **The Policy Gradient Theorem**. Let $J(\theta)$ be the expected reward. If we take the expected reward using the undiscounted value function $v_{\pi_\theta}$ [^2]we get the following (the gradient is with respect to $\theta$ as usual)
 
 $$
 \begin{split}
-J(\theta) &= v_{\pi_\theta}(s) \\ 
-\nabla J(\theta) &\propto \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)
-\end{split}
+J(\theta) &= \sum_{s\in S} \mu(s) v_\pi(s)\\ 
+\nabla J(\theta) &\propto \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)\\ 
+&= \mathbb{E}[q_\pi(s,a) \nabla_\theta \ln \pi_\theta(a\mid s)]
+\end{split} 
 $$
-
 $\mu$ is the on-policy distribution
 
 The proportionality constant $c$ is the average length of an episode in the episodic case and $1$ in the continuous case. [^1]
 
 [^1]: In practice, we don't really care about this because it will be weighted by a step size $\alpha$ anyway.
-[^2]: Note, the presented formula generalizes whether or not we use discounting.
+[^2]: [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] use  but if we are measuring expected reward, we should average over all the states. 
+
 ### EGLP Lemma
 * The **Expected Grad-Log-Prob** lemma is an intermediate result that is applied extensively in policy gradients
 * Let $P_\theta$ be a parameterized probability distribution over a random variable $x$, then 
 $$
-E_{x\sim P_\theta} [\nabla_\theta \log P_\theta (x)] = 0
+\mathbb{E}_{x\sim P_\theta} [\nabla_\theta \log P_\theta (x)] = 0
 $$
 
 ### Baselines
 * We can generalize the policy gradient theorem to include comparison with a **baseline** $b(s)$
 
 $$
-\nabla J(\theta) =  E_{\pi_\theta} \left[\sum_{t=0}^T \nabla_\theta \log \pi_\theta (a_t\mid s_t) \ \left(\sum_{t'=t}^T R(s_{t'},a_{t'} ,s_{t'+1} ) - b(s_t)\right)\right]
+\nabla J(\theta) =  \mathbb{E}_{\pi_\theta} \left[\sum_{t=0}^T \nabla_\theta \log \pi_\theta (a_t\mid s_t) \ \left(\sum_{t'=t}^T R(s_{t'},a_{t'} ,s_{t'+1} ) - b(s_t)\right)\right]
 $$
 Where the baseline can be any function as long as it is not dependent on $a$.
-* The rationale with baselines is that *it reduces any variance of sample estimates* of the policy gradient
+* The rationale with baselines is that *it reduces any variance of sample estimates* of the policy gradient. [[Statistical Estimators#Bias-Variance Tradeoff|bias variance tradeoff]] applies.
 * *The usual choices are either the on-policy distribution $\mu$ or an estimated value $\hat{v}(s)$. 
 
 ### Continuing Cases
@@ -84,41 +77,36 @@ $$
 J(\theta) = \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)
 $$
 
-# Policy Gradient Algorithms
-* All of these algorithms rely on the Policy Gradient Theorem
-### All Actions Update
-* Update using the following rule
-$$
-\theta_{t+1} = \theta_t +\alpha \sum_a \hat{q}(S_t,a,w)\ \nabla \pi(a\mid S_t,\theta)
-$$
-### REINFORCE: Monte Carlo Policy Gradient
-* Update, at time $t$ only the action $A_t$.
-* We redefine $J(\theta)$ as follows. We replace $a$ by the sample $A_t\sim \pi$ and note that $q_\pi(S_t,A_t)$ is the expected return.
+# The General Policy Gradient Theorem
+* We can generalize the Policy Gradient Theorem as follows. Let $J(\theta)$ be the performance measure, specifically defined as the expected total reward
 
 $$
-\begin{split}
-\nabla J(\theta)
-&= E_{\pi_\theta} \left[\pi_\theta(a\mid S_t,\theta) \ q_{\pi_\theta}(S_t,a) \frac{\nabla\pi_\theta(a\mid S_t)}{\pi_\theta(a\mid S_t)}\right] \\ 
-&= E_{\pi_\theta}\left[q_{\pi_\theta} (S_t,A_t) \frac{\nabla\pi_\theta(a\mid S_t)}{\pi_\theta(a\mid S_t)} \right] \\ 
-&= E_{\pi_\theta}\left[G_t \frac{\nabla\pi_\theta(a\mid S_t)}{\pi_\theta(a\mid S_t)}\right] \\
-&= E_{\pi_\theta}\left[G_t \nabla \ln \pi_\theta(a\mid S_t)\right]
-\end{split}
-$$
-* The above approach makes it so that actions that are updated frequently are updated in small increments (to balance out the frequency).
-* The vector $\nabla \ln \left(\pi_\theta(a\mid S_t,\theta)\right)$ is called the **eligibility vector**
-* REINFORCE has *high variance and slow learning* being [[Monte Carlo Methods in Reinforcement Learning|Monte Carlo]]. However, it has convergence guarantees.
-	* We can add a [[#Baselines|baseline]] to the regular REINFORCE algorithm in order to reduce variance. 
-
-### Actor-Critic Methods
-* Act as analogues to [[Temporal Difference Learning]] and [[N-step Bootstrapping]] but for Policy Gradient Methods.
-* Rather than have an estimate that solely relies on the full return (as in Monte Carlo approaches such as [[#REINFORCE Monte Carlo Policy Gradient|REINFORCE]]), we instead have an n-step estimate coupled with a learned baseline.
-
-$$
-\theta_{t+1} = \theta_t + \alpha \left(G'_t -\hat{v} (S_t,w)\right) \frac{\nabla\pi_\theta(a\mid S_t)}{\pi_\theta(a\mid S_t)}
+J(\theta) = \nabla_\theta \mathbb{E} \left[\sum_{t=0}^\infty r_t\right]
 $$
 
-Where $G_t'$ is a generalization. It could be the one-step return from regular TD, or the n-step return $G_{t:t+n}$ or even an [[Eligibility Traces|eligibility trace]] $G_t^\lambda$. 
+* *All policy gradient theorems follow the following form*
 
+$$
+J(\theta) =  \mathbb{E} \left[ \sum_{t=0}^\infty \Psi \nabla_\theta \ln \pi_\theta (a_t\mid s_t) \right]
+$$
+$\Psi$ depends on our algorithm.
+* $\sum_{t=0}^\infty r_t$ - total reward of the trajectory.
+* $\sum_{k=t}^\infty r_k$ - reward following action $a_t$
+* $\sum_{k=t}^\infty r_k -b(s_t)$  - baselined reward after action $a_t$
+* $Q_\pi(s_t,a_t)$ - state-action value function
+* $A_\pi(s_t,a_t)$ - advantage function
+* $r_t+V_\pi(S_{t+1})-V_\pi(s_t)$ - TD residual.
+
+* The following is a comparison of different formulations
+
+| Formulation | Advantages | Disadvantages |
+| ---- | ---- | --- | 
+| Naive |  Simple   | High variance and High Instability| 
+| Baselined | Lower variance due to reducing variance of sample estimates | | 
+
+
+# Topics
+* [[Policy Gradient Method Algorithms]]
 
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 13]]
@@ -129,3 +117,5 @@ Where $G_t'$ is a generalization. It could be the one-step return from regular T
 * [Policy Gradients in a Nutshell](https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d)
 * [[A Unified View on Reinforcement Learning Approaches]]
 * [Spinningup -- Intro to Policy Optimization](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
+* [Going Deeper into Reinforcement Learning - Fundamentals of Policy Gradient Methods](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/)
+* [Lil'Log Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)

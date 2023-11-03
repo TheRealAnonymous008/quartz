@@ -12,10 +12,17 @@
 4.  *Handling symmetric figures* is both easy and difficult -- 
 	* On one hand we can simply draw one part of the symmetry and apply repeated reflections.
 	* On the other hand, placing the copies relative to each other to maintain symmetry requires the use of guides and careful fine tuning.
+	* Alternatively, use coordinates to do the positioning.
 
-5. In some cases, it is infeasible to plot all the vertices first. In which case, we can build the figure gradually. *Start with a "loop" two vertices connected to each other*.  Then, keep adding vertices in between, following the outline. adjusting as needed
-	* It helps to have fill enabled for the shape to see the general figure better. Still, follow the lines and not the shape.
-	* To make protrusions, remember to create three points. Two points are where the protrusion joins the main "stem", and the other is the point at the apex of the protrusion.
+5. Prefer to draw a coarse outline in one pass rather than starting with a blob and "sculpting it".
+	* It is much easier to visualize the figure when you can see the outline itself. 
+	* When doing this, remember the three kinds of transition points that exist on a Bezier curve.
+		* **Corner points** - are meant to join two segments together, but other than that the segments themselves are independent of each other.
+		* **Smooth points** - the tangent lines from this point have a common angle and form a straight line.
+		* **Symmetric Points** - the tangent lines from this point have a common angle, form a straight line, and have equal length. 
+
+
 
 # Links
+* [Intro to Bezier Curves in Krita](https://www.youtube.com/watch?v=cJUZDt1qNrg)
 * [[Creativity]]

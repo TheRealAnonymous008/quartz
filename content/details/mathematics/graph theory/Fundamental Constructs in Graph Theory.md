@@ -48,7 +48,7 @@
 \begin{equation}
 B_{ij} = 
 	\begin{cases}
-		1 & \text{if } v_i \text{ is incident with } e_j\\
+		1 & \text{if } v_i \text{ is incident with } \mathbb{E}_j\\
 		0 & \text{otherwise}
 	\end{cases} 
 \end{equation}

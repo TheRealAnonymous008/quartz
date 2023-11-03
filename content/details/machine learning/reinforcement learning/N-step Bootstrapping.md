@@ -22,7 +22,7 @@
 [^1]
 * **The Error Reduction Property** of $n$-step returns means that the worst error of the expectation of an $n$-step return is guaranteed to be a better estimate of $v_\pi$ than $V_{t+n-1}$ is. 
   $$
-  \max_s\left|E_\pi \left[ G_{t:t+n} \mid S_t=s\right] - v_\pi(s)\right| \le \gamma^n \max_s \left|V_{t+n-1}(s)-v_\pi (s)\right|
+  \max_s\left|\mathbb{E}_\pi \left[ G_{t:t+n} \mid S_t=s\right] - v_\pi(s)\right| \le \gamma^n \max_s \left|V_{t+n-1}(s)-v_\pi (s)\right|
   $$
   
 	* This implies convergence to correct predictions as our n-step returns get progressively closer to the true value.

@@ -36,27 +36,27 @@
   
 * The **mean** or **expectation** or **expected value**  is defined as the average value of the distribution.  
   $$
-  \mu = E[X]=\sum_{x\in X} x \ P(x)
+  \mu = \mathbb{E}[X]=\sum_{x\in X} x \ P(x)
   $$
   
-	* An alternative notation is $E_{P(Y)} [X]$  which is obtained as 
+	* An alternative notation is $\mathbb{E}_{P(Y)} [X]$  which is obtained as 
 	  $$
-	  E_{P(Y)}[X]=\sum_{y \in Y}x \ P(y) 
+	  \mathbb{E}_{P(Y)}[X]=\sum_{y \in Y}x \ P(y) 
 	  $$
 	  
 	* **Linearity of Expectation**. 
 	  $$
-	  E[aX+b]=aE[X]+b
+	  \mathbb{E}[aX+b]=a\mathbb{E}[X]+b
 	  $$
 	  
 * The **variance** is defined as the average spread of the distribution 
   $$
-  \sigma^2 =\text{Var}[X]=E[(X-\mu)^2]
+  \sigma^2 =\text{Var}[X]=\mathbb{E}[(X-\mu)^2]
   $$
   
 	* An important formulation of the variance is as follows: 
 	  $$
-	  \sigma^2=E[X^2]-(E[X])^2
+	  \sigma^2=\mathbb{E}[X^2]-(\mathbb{E}[X])^2
 	  $$
 	  
 	* The **standard deviation** is expressed in the same units of $X$. It is simply
@@ -66,7 +66,7 @@
 	  
 * The **covariance** between $X$ and $Y$ measure the degree to which they are linearly related. It is defined as 
   $$
-  \text{Cov}[X,Y]=E[(X-E[X]) (Y-E[Y])] =E[XY]-E[X]E[Y]
+  \text{Cov}[X,Y]=\mathbb{E}[(X-\mathbb{E}[X]) (Y-\mathbb{E}[Y])] =\mathbb{E}[XY]-\mathbb{E}[X]\mathbb{E}[Y]
   $$
   We may define a **covariance matrix** $\Sigma$ whose entries contain the pairwise covariances between variables. That is 
   $$

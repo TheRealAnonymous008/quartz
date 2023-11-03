@@ -23,7 +23,7 @@
   
   An alternative formulation is that if we have convex function $f$ and a random variable $X$, we have 
   $$
-  f(E[X])\le E[f(x)]
+  f(\mathbb{E}[X])\le \mathbb{E}[f(x)]
   $$
   That is, the output of the average input from $X$ is smaller than the average output from $f(X)$.
 

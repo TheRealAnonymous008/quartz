@@ -3,13 +3,13 @@
 * We choose any estimator or decision parameter that we want.
 * The **risk** of the estimator is defined as
   $$
-  \begin{split}R(\theta^\ast,\delta)&=E_{P(\hat{\mathcal{D}} \mid \theta^\ast)}\left[L(\theta^\ast,\delta(\hat{\mathcal{D}}))\right] \end{split}
+  \begin{split}R(\theta^\ast,\delta)&=\mathbb{E}_{P(\hat{\mathcal{D}} \mid \theta^\ast)}\left[L(\theta^\ast,\delta(\hat{\mathcal{D}}))\right] \end{split}
   $$
   
 * *The risk is not computable* since it relies on $\theta^\ast$. 
 * The **Bayes risk** of an estimator is defined as 
   $$
-  \begin{split}R_B(\delta)&=E_{P(\theta^\ast)}\left[R(\theta^\ast, \delta)\right] \end{split}
+  \begin{split}R_B(\delta)&=\mathbb{E}_{P(\theta^\ast)}\left[R(\theta^\ast, \delta)\right] \end{split}
   $$
   
 	* A **Bayes decision rule** minimizes the expected Bayes risk.
@@ -44,7 +44,7 @@
   Thus, we are *predicting observable quantities*
 * The **risk** is now defined as 
   $$
-  \begin{split}R(p_\ast,\delta)&=E_{(x,y)\sim p_\ast}\left[L(y,\delta(x)\right] \\ 
+  \begin{split}R(p_\ast,\delta)&=\mathbb{E}_{(x,y)\sim p_\ast}\left[L(y,\delta(x)\right] \\ 
   &= \sum_x\sum_yL(y,\delta(x)) p_\ast(x,y)
   \end{split}
   $$

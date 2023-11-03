@@ -18,11 +18,11 @@
   
 * The **bias** of an estimator is defined as
   $$
-  \text{bias}(\hat{\theta})=E_{P(\mathcal{D}\mid\theta^\ast)}\left[\hat\theta(\mathcal D) -\theta^{\ast}\right]
+  \text{bias}(\hat{\theta})=\mathbb{E}_{P(\mathcal{D}\mid\theta^\ast)}\left[\hat\theta(\mathcal D) -\theta^{\ast}\right]
   $$
   
 	* An estimator is **unbiased** if its bias is $0$. *This means the sampling distribution is centered on the true parameter*.
-	* Another way to say this is if $E[\hat{\theta}(\mathcal D)] = \theta^\ast$
+	* Another way to say this is if $\mathbb{E}[\hat{\theta}(\mathcal D)] = \theta^\ast$
 * Another consideration is **minimum variance**. 
 	* **Cramer-Rao lower bound**. Let $X_1,\dots, X_n\sim P(X\mid\theta_0)$ and $\hat{\theta}=\hat{\theta}(x_1,\dots, x_n)$ be an unbiased estimator of $\theta_0$. Then under various smoothness assumptions on $P(X\mid\theta_0)$, we have 
 	  $$

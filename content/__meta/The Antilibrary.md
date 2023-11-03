@@ -18,4 +18,7 @@
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 
-* [The Library of Babel Website](https://libraryofbabel.info)
+* [The Library of Babel Website](https://libraryofbabel.info) - for funsies
+
+# Knowledge Repositories
+* [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 

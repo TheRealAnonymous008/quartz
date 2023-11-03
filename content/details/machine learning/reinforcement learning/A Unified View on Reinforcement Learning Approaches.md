@@ -53,8 +53,8 @@
 	* We have the following for policy $\pi$
 	  $$
 	  \begin{split}
-	  v_\pi(s) &= E_\pi[G_t\mid S_t=s] \\ 
-	  q_\pi(s,a) &= E_\pi(G_t\mid S_t=s, A_t=a)
+	  v_\pi(s) &= \mathbb{E}_\pi[G_t\mid S_t=s] \\ 
+	  q_\pi(s,a) &= \mathbb{E}_\pi(G_t\mid S_t=s, A_t=a)
 	  \end{split}
 	  $$
 	  
@@ -91,9 +91,9 @@ And to assure all sums are finite, we have that $\prod_{k=t}^\infty \gamma_k = 0
   
   $$
   \begin{split}
-  r(\pi)  &= \lim_{h\to \infty} \frac{1}{h} \sum_{k=1}^h E[R_t\mid S_0,A_{0:t-1}\sim \pi] \\
+  r(\pi)  &= \lim_{h\to \infty} \frac{1}{h} \sum_{k=1}^h \mathbb{E}[R_t\mid S_0,A_{0:t-1}\sim \pi] \\
   
-  &= \lim_{t\to \infty} E[R_t \mid S_0,A_{0:t-1} \sim \pi] \\ 
+  &= \lim_{t\to \infty} \mathbb{E}[R_t \mid S_0,A_{0:t-1} \sim \pi] \\ 
   
   &= \sum_{s}\mu_\pi(s) \ \sum_{a}\pi(a\mid s) \sum_{s',r} p(s',r\mid s.a) \ r
   \end{split}

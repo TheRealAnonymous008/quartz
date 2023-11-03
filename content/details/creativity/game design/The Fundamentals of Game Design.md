@@ -42,7 +42,7 @@
 * A game is a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome.  [^1]
 	* A game is a system, 
 	* Players interact with the system and make decisions.
-	* A game is an instance of conflict
+	* A game is an instance of [[Games as Rules#Systems of Conflict|conflict]]
 	* The conflict in games is artificial,
 	* Rules limit player behavior and define the game, and 
 	* Every game has a quantifiable outcome or goal.

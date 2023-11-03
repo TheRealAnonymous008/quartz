@@ -182,7 +182,7 @@
   
 * Observe, *the above simply involves adding the loss (MSE) with a penalty term for the roughness of the estimate*. The second term is the regularization term
 # Information Form
-* Let $x\sim \mathcal{N}(\mu, \Sigma)$. We have that $E[x]=\mu$ and $\text{Cov}[x]=\Sigma$. These are the **moment parameters** of the distribution.
+* Let $x\sim \mathcal{N}(\mu, \Sigma)$. We have that $\mathbb{E}[x]=\mu$ and $\text{Cov}[x]=\Sigma$. These are the **moment parameters** of the distribution.
 * The **canonical parameters** are 
   $$
   \begin{split} \Lambda&=\Sigma^{-1} \\ \xi &= \Sigma^{-1}\mu \end{split}
@@ -251,7 +251,7 @@
   The third quantity above is called **shrinkage**. It is the reduction in the effects of sampling variation.
 * The shrinkage can be quantified using the **signal-to-noise** ratio, wherein 
   $$
-  \text{SNR}= \frac{E[X^2]}{E[\epsilon^2]} = \frac{\Sigma_0 +\mu_0^2}{\Sigma_y}
+  \text{SNR}= \frac{\mathbb{E}[X^2]}{\mathbb{E}[\epsilon^2]} = \frac{\Sigma_0 +\mu_0^2}{\Sigma_y}
   $$
   Where 
 	* $x\sim \mathcal{N}(\mu_0,\Sigma_0)$ is the true signal, and 

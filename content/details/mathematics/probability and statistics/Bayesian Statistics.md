@@ -189,7 +189,7 @@ $$
 * *The game*: Based on some unknown label $y\in\mathcal{Y}$, we are given observation $x\in\mathcal{X}$. We then make decision $a\in\mathcal{A}$ and incur an appropriate loss $L(y,a)$ which measures how compatible the action was with the label.
 * *The goal*: Make a **decision procedure** $\delta:\mathcal{X}\to\mathcal{A}$ which specifies the optimal action for each input [^1] such that *loss is minimized*. 
   $$
-  \delta(x)=\underset{a\in\mathcal{A}}{\text{argmin}} \ E[L(y,a)] 
+  \delta(x)=\underset{a\in\mathcal{A}}{\text{argmin}} \ \mathbb{E}[L(y,a)] 
   $$
   Or if we specify a **utility function** so that *utility is maximized* 
   $$
@@ -197,13 +197,13 @@ $$
   $$
   we get the equivalent **maximum expected utility principle**
   $$
-  \delta(x)=\underset{a\in\mathcal{A}}{\text{argmax}} \ E[U(y,a)] 
+  \delta(x)=\underset{a\in\mathcal{A}}{\text{argmax}} \ \mathbb{E}[U(y,a)] 
   $$
   
-* The expected value $E[X]$ is interpreted as the expected value of the label given the observations.
+* The expected value $\mathbb{E}[X]$ is interpreted as the expected value of the label given the observations.
 * For  Bayesian Decision Theory, we minimize the **posterior expected loss** 
   $$
-  \rho(a\mid x) = E_{P(y\mid x)} [L(y,a) = \sum_{y}L(y,a)P(y\mid x)
+  \rho(a\mid x) = \mathbb{E}_{P(y\mid x)} [L(y,a) = \sum_{y}L(y,a)P(y\mid x)
   $$
 * The **Bayes decision rule** is given as *minimizing the posterior expected loss*
   $$
@@ -217,7 +217,7 @@ $$
 	* The posterior median minimizes $L_1$ loss.
 * For supervised learning tasks, this rule can be translated to *minimizing generalization error*. Given unknown parameters $\theta$ and action $\delta$ with cost function $l(y,x)$ that determines how far $x$ is from ground truth $y$, we have
   $$
-  L(\theta,\delta)=E_{(x,y)\sim P(x,y\mid \theta)}[l(y,\delta(x)]=\sum_{x}\sum_y L(y,\delta(x)) \ P(x,y\mid \theta)
+  L(\theta,\delta)=\mathbb{E}_{(x,y)\sim P(x,y\mid \theta)}[l(y,\delta(x)]=\sum_{x}\sum_y L(y,\delta(x)) \ P(x,y\mid \theta)
   $$
   Which is the **generalization error**. 
 	* The goal becomes minimizing 

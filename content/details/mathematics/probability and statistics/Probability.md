@@ -75,7 +75,7 @@
 * **Monte Carlo** is one approach to approximating a function of a random variable. This is done by approximating the probability distribution of the function by taking many samples and then taking the empirical probability distribution.
 * More formally, it approximates 
   $$
-  E[f(x)]=\int f(x)p(x)dx\approx \frac{1}{N}\sum_{n=1}^Sf(x_n)
+  \mathbb{E}[f(x)]=\int f(x)p(x)dx\approx \frac{1}{N}\sum_{n=1}^Sf(x_n)
   $$
   Where $x_n\sim P(X)$. 
 * By the Central Limit Theorem, t*he above approximation becomes better with more samples*. This can be quantified using the **standard error** computed as 

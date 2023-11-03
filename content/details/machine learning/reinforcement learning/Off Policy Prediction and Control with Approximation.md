@@ -24,14 +24,14 @@
 * A similar "goal" is the **mean square TD error** defined as 
   
   $$
-  \overline{\text{TDE}} = E_b[\rho_t\delta_t^2]
+  \overline{\text{TDE}} = \mathbb{E}_b[\rho_t\delta_t^2]
   $$
   
   Where $b$ is the behavioral policy, and $\rho$ is the [[Importance Sampling|importance sampling constant]]. *This goal is naive because the policy that minimizes TDE is not necessarily the best policy*. 
 * The **residual gradient algorithm** is defined as follows 
   
   $$
-  w_{t+1} = w_t + \alpha\left[E_\beta\left[\rho_t (R_{t+1} - \gamma \beta (S_{t+1},w ) \right] - \hat{v}(S_t,w)\right] \left[ \nabla \hat{v}(S_t,w) - \gamma E_\beta\left[\rho_t \nabla \hat{v}(S_{t+1},w)\right]\right]
+  w_{t+1} = w_t + \alpha\left[\mathbb{E}_\beta\left[\rho_t (R_{t+1} - \gamma \beta (S_{t+1},w ) \right] - \hat{v}(S_t,w)\right] \left[ \nabla \hat{v}(S_t,w) - \gamma \mathbb{E}_\beta\left[\rho_t \nabla \hat{v}(S_{t+1},w)\right]\right]
   $$
   
 	* The problem with this is because we use $S_{t+1}$ in two different expectations, we have a biased estimator (for stochastic environments). 
@@ -47,7 +47,7 @@
 * The gradient of PBE is obtained as
   
   $$
-  \nabla \overline{\text{PBE}} (w) = 2 E[\rho_t (\gamma x_{t+1} -x_t)x_t^T] \ E[x_tx_t^T]^{-1} \ E[\rho_t\delta_tx_t]
+  \nabla \overline{\text{PBE}} (w) = 2 \mathbb{E}[\rho_t (\gamma x_{t+1} -x_t)x_t^T] \ \mathbb{E}[x_tx_t^T]^{-1} \ \mathbb{E}[\rho_t\delta_tx_t]
   $$
   
 * We can store some estimate, specifically the product of the second and third terms. In fact, this is just the analytical solution to the [[Linear Models|linear supervised problem]], so *the goal can then become minimizing Least Mean Square*.

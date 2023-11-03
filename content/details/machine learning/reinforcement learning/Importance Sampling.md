@@ -14,7 +14,7 @@
   
 * The importance sampling ratio is then applied to $G_t$, the returns in the behavior policy. We have that 
   $$
-  E[\rho _{t:T-1}G_t\mid S_t=s] = v_\pi(s)
+  \mathbb{E}[\rho _{t:T-1}G_t\mid S_t=s] = v_\pi(s)
   $$
   
 * We can perform **ordinary importance sampling** by taking a normal average. Let $\mathcal{T}(t)$ denote the first time of termination after $t$  
