@@ -22,6 +22,7 @@
 * [[Flow Networks]]
 * [[Graph Algorithms]]
 * [[Graph Duality]]
+* [[Quantities in Graph Theory]]
 * [[Matroids]]
 
 # Links

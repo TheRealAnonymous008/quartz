@@ -28,9 +28,6 @@
   That is, the output of the average input from $X$ is smaller than the average output from $f(X)$.
 
 # Links
-* [[Graph Theory With Applications by Bondy and Murty]]
-* [[Introduction To Graph Theory by Wilson]]
-* [[An Exploration of the Chromatic Polynomial by Aydelotte]]
 
 * [[Understanding Analysis by Abbott]]
 * [[Linear Algebra by Friedberg Insel and Spence]]

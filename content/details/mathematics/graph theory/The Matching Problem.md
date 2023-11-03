@@ -81,6 +81,9 @@
   $$
 
 # Konig-Egevary  Theorem
+* A **vertex cover** $V'$ is a subset of vertices such that every edge in the graph is incident to at least one vertex in $V'$
+* A **minimum vertex cover** is a vertex cover which contains as few vertices as possible.
+
 * In any bipartite graph, the number of edges in a maximum matching equals the number of vertices in a minimum vertex cover.
 
 * *Proof*:

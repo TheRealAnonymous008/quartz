@@ -90,6 +90,11 @@
 ### Directed
 * **Ghouila-Houri Criterion** Let $D$ be a strongly connected digraph with $n$ vertices. If $\text{outdeg}(v)\ge \frac{n}{2}$ and $\text{indeg}(2)\ge \frac{n}{2}$ for each vertex then $D$ is Hamiltonian
 
+# Shortest Paths
+* Let $G$ be a weighted graph. The **shortest path** is the path between two vertices $u$ and $v$ that has a minimum weight.
+  
+  In an unweighted graph, this reduces to the path with the minimum number of vertices.
+
 # Links
 * [[Graph Connectivity]]
 * [[Families of Graphs]]

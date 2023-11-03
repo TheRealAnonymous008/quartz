@@ -19,6 +19,34 @@
   $$
   w(G)=\sum_{e\in E(G)}w(e)
   $$
+# Degrees
+* The **degree** of a vertex $v\in V$ denotes the number of edges that are incident to it. This is denoted $\deg(v)$
+	* The minimum degree is denoted $\delta(G)$
+	* The maximum degree is denoted $\Delta(G)$
+* For a directed graph, we have: 
+	* The **out-degree** of a vertex $v$ as the number of arcs coming from $v$ (that is, arcs of the form $vu$). This is denoted $\deg^+$
+	* The **in-degree** of $v$ as the number of arcs coming to $v$ (that is, arcs of the form $uv$). This is denoted $\deg^-$
+	* The **degree** of a vertex in the digraph is the number of arcs incident to it. It is therefore calculated as 
+
+$$
+\deg (v) = \text{deg}^-(v) + \text{deg}^+(v)
+$$
+* Let $G$ be an undirected graph. A **degree sequence** is a monotonic non-increasing sequence of the vertex degrees of its graph vertices.
+
+* **Handshaking Lemma**. In an undirected graph, there must exist an even number of odd degree vertices.
+
+* **Degree Sum Formula (Undirected)**
+  
+  $$
+  \sum_{v\in V} \deg v = 2|E|
+  $$
+
+* **Degree Sum Formula (Directed)**
+  
+  $$
+  \sum_{v\in V} \deg^{-}(v) = \sum_{v\in V} \deg^{+}(v) = |E|
+  $$
+
 # Relations between Graphs
 * An **[[Group Isomorphism|isomorphism]]** from $G$ to $H$ is a bijection $f:V(G)\to V(H)$ such that if $xy\in E(G)$ , then $f(x)f(y)\in E(H)$. 
 	* We say that if an isomorphism between $G$ and $H$ exists, then the two graphs are, which we denote as $G\cong H$ .

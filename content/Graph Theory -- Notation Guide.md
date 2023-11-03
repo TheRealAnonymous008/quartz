@@ -42,6 +42,8 @@
 * $\deg(v)$ - degree of vertex $v$
 * $\delta(G), \delta$ - minimum degree of $G$.
 * $\Delta(G), \Delta$ - maximum degree of $G$.
+* $\deg^-(v)$ - indegree of vertex $v$
+* $\deg^+(v)$ - outdegree of vertex $v$
 * $\phi(v), \phi(A)$ - neighborhood of vertex $v$ or vertex set $A$.
 * $D(G), D$ - density of $G$.
 * $\omega(G), \omega$ - number of components of $G$
@@ -57,3 +59,13 @@
 * $\text{cr}(G)$ - crossing number
 * $g(G)$ - genus
 * $t(G)$ - thickness
+<br>
+* $P_G(k)$ - chromatic polynomial
+* $\xi(G)$ - chromatic number
+* $\chi'(G)$ - chromatic index.
+<br>
+* $d(u,v)$ - distance between $u$ and $v$.
+* $d_\text{max}$  - diameter of the graph
+* $g(v)$ - betweenness centrality of edge $v$.
+* $g(e)$ - link betweenness centrality of edge $e$
+* $C_v$ - clustering coefficient of vertex $v$

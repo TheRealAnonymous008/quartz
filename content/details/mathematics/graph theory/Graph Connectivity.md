@@ -1,8 +1,4 @@
-# Degree and Components
-* The **degree** of a vertex $v\in V$ denotes the number of edges that are incident to it. This is denoted $\deg(v)$
-	* The minimum degree is denoted $\delta(G)$
-	* The maximum degree is denoted $\Delta(G)$
-
+# Components
 * A **component** of a graph is a maximally connected subgraph of the particular graph. That is, we cannot add any more vertices and edges to the subgraph. The number of components is denoted $\omega(G)$
 	* (*Component-Edge Inequality*, *Wilson 5.2*) - Let $G$ be a simple graph with $n$vertices. If $G$ has $k$ components, then the number of edges $m$ satisfies:
 	  $$
@@ -79,24 +75,11 @@ $$
 * Graphs $G$ and $H$ are **disjoint** if they have no vertices in common 
 * Graphs $G$ and $H$ are **edge disjoint** if they have no edges in common
 
-# Density and Disjointedness
-* The **density** of a graph is the ratio of the number of edges with respect to the maximum number of edges. We denote this with $D$ , $D(G)$
-	* For undirected simple graphs, we have 
-	  
-	  $$
-	  D = \frac{2|E|}{|V|(|V|-1)}
-	  $$
-	  * For directed graphs, we have 
-	    
-	    $$
-	    D = \frac{|E|}{|V|(|V|-1)}
-	    $$
-	* A graph is **dense** if its density is as close to $1$ [^1]. Otherwise it is **sparse**
-
-[^1]: The definition of "closeness" is arbitrary.
 # Biconnectivity and Blocks
 * A graph is **biconnected** if it is $2$-connected
 * A connected graph that has no cut vertices is called a **block**.
+* A **biconnected component** is a maximal biconnected subgraph.
+
 * (*Bondy and Murty 3.2.1*) In a biconnected graph, any two distinct vertices lie in a common cycle.
 * (*Bondy and Murty 3.2.2*) If $G$ is a block with $|V(G)|\ge 3$, then any two edges of $G$ lie on a common cycle.
 * **Whitney's Theorem** A graph $G$ with $|V(G)|\ge 3$ is biconnected if and only if two vertices of $G$ are connected by at least two internally disjoint paths.
