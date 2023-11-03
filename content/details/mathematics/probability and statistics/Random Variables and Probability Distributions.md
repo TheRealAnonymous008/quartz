@@ -99,5 +99,29 @@
   
   In fact, $\text{Corr}[X,Y]=1$ indicates that $Y=aX+b$. Correlation is a measure to the degree in which two variables are linearly related.
 
+# Theorems
+* **Law of Total Expectation** also called the **Law of Iterated Expectations**. States that for random variables $X, Y$ we have
+
+$$
+\mathbb E[X] = \mathbb E[\mathbb E[X\mid Y]]
+$$
+* The following property applies to expectations. Let $P(x_1,\dots, x_n)$ be a joint distribution. We can write the expectation of $x$ sampled from this distribution as 
+
+$$
+\begin{split}
+\mathbb{E}[x] &= \sum_{x_1} \sum_{x_2} \dots \sum_{x_n} P(x_1,\dots x_n)  \ x \\
+&= \sum_{x_1} \dots \sum_{x_n} P(x_1) \ P(x_2\mid x_1) \dots P(x_n \mid x_1,\dots ,x_{n-1})  \ x \\ 
+&= \sum_{x_1} x \ P(x_1) \sum_{x_2} P(x_2\mid x_1) \dots \sum_{x_n} P(x_n\mid x_1,\dots,x_{n-1}) 
+\end{split}
+$$
+Observe we expanded the joint distribution according to the [[Probability|chain rule of probability]]. Then, we manipulated the internals sums by pushing them out.
+
+Remarkably, for a Markovian process, the expectation collapses simply as 
+
+$$
+E[x] = \sum_{x_1} x P(x_1)
+$$
+
+
 # Links
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]

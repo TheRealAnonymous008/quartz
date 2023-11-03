@@ -42,6 +42,7 @@
 * $q_\pi(s,a)$ - true state-action value function for policy $\pi$. 
 * $q_\ast(s,a)$ - true optimal state-action value function.
 * $(B_\pi v)(s)$ - Bellman operator for value function $v_\pi$
+* $A_\pi(s,a)$ - the advantage function for $\pi$.
 
 * $V_t, V^{\pi}_t$ - estimate for state value function at time $t$ for policy $\pi$
 * $\overline{V_t}, \overline{V_t^\pi}$ - expected approximate action value at time $t$ for policy $\pi$

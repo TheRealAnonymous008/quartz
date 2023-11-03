@@ -66,8 +66,22 @@ $$
 \nabla J(\theta) =  \mathbb{E}_{\pi_\theta} \left[\sum_{t=0}^T \nabla_\theta \log \pi_\theta (a_t\mid s_t) \ \left(\sum_{t'=t}^T R(s_{t'},a_{t'} ,s_{t'+1} ) - b(s_t)\right)\right]
 $$
 Where the baseline can be any function as long as it is not dependent on $a$.
-* The rationale with baselines is that *it reduces any variance of sample estimates* of the policy gradient. [[Statistical Estimators#Bias-Variance Tradeoff|bias variance tradeoff]] applies.
+* The rationale with baselines is that *it reduces any variance of sample estimates* of the policy gradient.
 * *The usual choices are either the on-policy distribution $\mu$ or an estimated value $\hat{v}(s)$. 
+
+* The baseline does not introduce bias precisely because of the [[#EGLP Lemma]]
+* The baseline reduces variance based on the [[Statistical Estimators#Bias-Variance Tradeoff|bias variance tradeoff]]. 
+	* In fact, we can view the variance of the above as a sum of squares that can be decomposed with the bias-variance decomposition. [^3].  
+	* In line with that, we have the common choice of $\hat{v}(s)$ as a sort of MLE.
+
+[^3]: see more [here](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/) and the relevant identity [[Probability|here]] for showing the baseline does not introduce bias.
+
+### Baselined Discounting 
+* If we want to apply discounting the baseline has to satisfy 
+
+$$
+b(s_t) \approx \mathbb E [r _1 + \gamma r_{t+1} + \dots +\gamma^{T-1-t}r_{T-1}]
+$$
 
 ### Continuing Cases
 * For the continuing case, we simply generalize by using the [[A Unified View on Reinforcement Learning Approaches#Average Reward Formulation|average reward formulation]].  The derivation is otherwise the same. 
@@ -76,6 +90,18 @@ Where the baseline can be any function as long as it is not dependent on $a$.
 $$
 J(\theta) = \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)
 $$
+### Advantage function
+* The **advantage function** is defined as 
+
+$$
+A_\pi (s,a) = q_\pi(s,a) - v_\pi (s) 
+$$
+Intuitively, it tells us how better action $a$ is compared to the average action taken on  state $s$.
+
+* We  can reformulate $J(\theta)$ using the advantage function (see [[#The General Policy Gradient Theorem]]). 
+* The advantage function formulation is equivalent to the [[#Baseline|baselined formulation]] because 
+	* $\mathbb E \left[ \sum_{t}^T r_{t}\right]= q_\pi(s_t,a_t)$  which follows by definition of $q_\pi$. 
+	* $\mathbb E \left[  \sum_{t}^T b(s_t)\right] = v_\pi(s_t)$  which must be asserted as true.
 
 # The General Policy Gradient Theorem
 * We can generalize the Policy Gradient Theorem as follows. Let $J(\theta)$ be the performance measure, specifically defined as the expected total reward
@@ -96,14 +122,6 @@ $\Psi$ depends on our algorithm.
 * $Q_\pi(s_t,a_t)$ - state-action value function
 * $A_\pi(s_t,a_t)$ - advantage function
 * $r_t+V_\pi(S_{t+1})-V_\pi(s_t)$ - TD residual.
-
-* The following is a comparison of different formulations
-
-| Formulation | Advantages | Disadvantages |
-| ---- | ---- | --- | 
-| Naive |  Simple   | High variance and High Instability| 
-| Baselined | Lower variance due to reducing variance of sample estimates | | 
-
 
 # Topics
 * [[Policy Gradient Method Algorithms]]

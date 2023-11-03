@@ -66,6 +66,13 @@
 		* We say that the prior is a **conjugate prior** if it is of the same form as the posterior. This is done for *mathematical convenience*.
 		* In many cases, it is desirable to have distributions that are amenable to being used as a conjugate prior (i.e., Gaussian, Beta, Inverse Wishart)
 	* $P(y)$ is the probability of the **evidence**.
+
+* **Boole's Inequality** or the **Union Bound**. Let $A_1,\dots$ be a countable set of events. We have that
+  $$
+  P\left(\bigcup_{i=1}^\infty A_i\right)\le \sum_{i=1}^\infty P(A_i)
+  $$
+  
+
 # Central Limit Theorem 
 * *Assumption*: We have $N$ random variables that are independent and identically distributed each with mean $\mu$ and $\sigma^2$.
 * The **Central Limit Theorem** states that as $N\to \infty$, then the distribution of the sum approaches the Normal Distribution. 
