@@ -87,6 +87,11 @@
 	* pertaining to the right
 	* pertaining to skill
 	* pertaining southward
+* [Deru / Dreu](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference)- 
+	* be firm, solid or steadfast
+	* pertaining to trees or wood
+	* wooden  things
+	* pertaining to truth
 * [Dher](https://www.etymonline.com/word/*dher-?ref=etymonline_crossreference) 
 	* to hold firmly 
 	* to support
@@ -104,12 +109,27 @@
 	* to give
 	* to publish
 	* pertaining to something given such as a gift or a portion
-
+* [Dwo](https://www.etymonline.com/word/*dwo-?ref=etymonline_crossreference) 
+	* two
+* [Dyeu](https://www.etymonline.com/word/*dyeu-?ref=etymonline_crossreference) 
+	* to shine
+	* pertaining to the sky or heavens
+	* pertaining to god
+	* pertaining to day
+* [Ei](https://www.etymonline.com/word/*ei-?ref=etymonline_crossreference)
+	* to go
+	* to enter or come in
+	* to begin
+	* to travel
 * [Eidh](https://www.etymonline.com/word/edifice) ***
 	* Burning
 * [Eis](https://www.etymonline.com/word/hierophant) *** 
 	* Sacred
 	* Pertaining to passion
+* [En](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) 
+	* in
+	* within
+	* pertaining to interiors
 * [Epi / Opi](https://www.etymonline.com/word/epi-?ref=etymonline_crossreference) 
 	* on / upon / above 
 	* near / at 
@@ -221,16 +241,8 @@
 	* to impel
 
 [^1]: It's amusing how this PIE word corresponds to both white and black. 
-# Breakdowns
 
 # Future PIE
-* [Deru / Dreu](https://www.etymonline.com/word/*deru-?ref=etymonline_crossreference)- be firm or steadfast / pertaining to trees or wood
-* [Dwo](https://www.etymonline.com/word/*dwo-?ref=etymonline_crossreference) - two
-
-* [Dyeu](https://www.etymonline.com/word/*dyeu-?ref=etymonline_crossreference) - to shine / sky / heaven / god
-* [Ei](https://www.etymonline.com/word/*ei-?ref=etymonline_crossreference) - to go
-* [En](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) - in
-
 * [Gene](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) - give birth / beget
 * [Ghel](https://www.etymonline.com/word/*ghel-?ref=etymonline_crossreference#etymonline_v_52720) - to call / to shine bright.
 * [Gher](https://www.etymonline.com/word/*gher-?ref=etymonline_crossreference#etymonline_v_52749) - to grasp / enclose / to like / want
@@ -281,6 +293,9 @@
 
 * [Weg](https://www.etymonline.com/word/*weg-?ref=etymonline_crossreference) - to be strong / lively
 * [Wi-ro](https://www.etymonline.com/word/*wi-ro-?ref=etymonline_crossreference) - man
+* [Wekw](https://www.etymonline.com/word/*wekw-) - to speak
+* [Were-o](https://www.etymonline.com/word/*were-o-) - true / trustworthhy
+* [Werg](https://www.etymonline.com/word/*werg-) - to do
 
 ## New Batch
 * [Akwa](https://www.etymonline.com/word/*akwa-) - water
@@ -289,7 +304,9 @@
 * [Bhorh](https://www.etymonline.com/word/*bhorh-) - hole
 * [Da](https://www.etymonline.com/word/*da-) - to divide
 * [Dek](https://www.etymonline.com/word/*dek-) - to take / accept
+* [Dekm](https://www.etymonline.com/word/*dekm-) - ten
 * [Deu](https://www.etymonline.com/word/*deu-#etymonline_v_52723) - to do, perform, show favor, revere 
+* [Deuk](https://www.etymonline.com/word/*deuk-) - to lead
 * [Dhe](https://www.etymonline.com/word/*dhe-) - to set / put
 * [Dheu](https://www.etymonline.com/word/*dheu-#etymonline_v_53808) - dust, vapor, smoke
 * [Es](https://www.etymonline.com/word/*es-) - to be
@@ -297,17 +314,22 @@
 * [Kel](https://www.etymonline.com/word/*kel-#etymonline_v_52556) - to cover / conceal / save / to be prominent / hill
 * [Kele](https://www.etymonline.com/word/*kele-#etymonline_v_52664) - warm. to shout
 * [Keue](https://www.etymonline.com/word/*keue-) - to swell / vault / hole
+* [Klau](https://www.etymonline.com/word/*klau-) - hook, crook or forked branch
 * [Kwo / Kwi](https://www.etymonline.com/word/*kwo-)  - stem of relative and interrogative pronouns
 * [Leuk](https://www.etymonline.com/word/*leuk-) - light / brightness
 * [Mel](https://www.etymonline.com/word/*mel-#etymonline_v_53241) - soft / strong or great / false, bad, wrong
+* [Mele](https://www.etymonline.com/word/*mele-) - to crush / grind
 * [No-men](https://www.etymonline.com/word/*no-men-) - name
 * [Op](https://www.etymonline.com/word/*op-) - to work, put in abundance
+* [Pekw](https://www.etymonline.com/word/*pekw-) - to cook / ripen
+* [Pet/Peta](https://www.etymonline.com/word/*pet-) - to rush / fly
 * [Plak](https://www.etymonline.com/word/*plak-#etymonline_v_52839) - to be flat / to spread / to strike
+* [Plek](https://www.etymonline.com/word/*plek-) - to plait. to fold
 * [Reg](https://www.etymonline.com/word/*reg-) - to move in a straight line / to lead or to rule
 * [Sal](https://www.etymonline.com/word/*sal-) - salt
+* [Sekw](https://www.etymonline.com/word/*sekw-#etymonline_v_52631) - to follow
+* [Spen](https://www.etymonline.com/word/*(s)pen-) - to draw, stretch, spin
 * [Stel](https://www.etymonline.com/word/*stel-) - to put / stand / put in order. derivatives pertain to a standing object in place
 * [Stere](https://www.etymonline.com/word/*stere-) - to spread
+* [Tem](https://www.etymonline.com/word/*tem-) - to cut
 * [Trep](https://www.etymonline.com/word/*trep-) - to turn
-* [Wekw](https://www.etymonline.com/word/*wekw-) - to speak
-* [Were-o](https://www.etymonline.com/word/*were-o-) - true / trustworthhy
-* [Werg](https://www.etymonline.com/word/*werg-) - to do

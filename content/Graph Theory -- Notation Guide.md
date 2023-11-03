@@ -53,3 +53,7 @@
 * $\xi(G)$ - cut-set rank
 * $\gamma(G)$ - cycle rank
 <br>
+* $G^\ast$ - algebraic dual
+* $\text{cr}(G)$ - crossing number
+* $g(G)$ - genus
+* $t(G)$ - thickness

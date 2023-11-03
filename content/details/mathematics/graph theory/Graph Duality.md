@@ -1,3 +1,12 @@
+# Duality
+* Given a plane drawing of a planar graph $G$, the **dual graph** $G^\ast$ is obtained as follows:
+  1. For each face $f$ of $G$ choose a point $v^\ast \in V(G^\ast)$
+  2.  For each edge $e\in E(G)$, draw a line $e^*\in E(G^*)$ that crosses edge $e$  and no other edge, and joint the vertices in the faces that the edge bounds.
+* Informally, *a dual graph is a graph that shows whether two faces are touching each other*
+
+* A graph $G^\ast$ is an **algebraic dual** of $G$ if there is a bijection $f:E(G)\to E(G^\ast)$ such that if the set $A\subseteq E(G)$ forms a cycle in $G$, then the corresponding set of edges $f(A)$ forms a cut in $G^\ast$. 
+  
+  This extends the notion of the dual graph. We assert that the bijection exists rather than say any arbitrary cycle is the dual of any arbitrary cut-set
 # Cycle and Cut-set
 
 * The **cut-set rank** is the number of edges in a spanning forest of a graph $G$.  If $G$ is a graph with $n$ vertices and $k$ components, we have the cut-set rank as 
@@ -47,6 +56,23 @@
 
 
 
+# Vertex and Face
+* (*Wilson 19.2*) Let $G$ be a Plane Graph without loops and $G^\ast$ be the dual graph. Then, $G$ is $k$-colorable if and only if $G^\ast$ is $k$-face colorable.
+* (*Wilson 15.1*) In the dual graph, we have that
+  $$
+  \begin{split}
+  V^\ast &= F \\
+  E^\ast &= E \\
+  F^\ast &= V \\ 
+  \end{split}
+  $$
+  Where $V,E,F$ denote the number of vertices, edges and faces
+* (*Wilsson 15.2*) - If $G$ is a connected planar graph, then 
+  $$
+  G^{\ast\ast} \cong G
+  $$
+* (*Wilson 15.5*) If $G^\ast$ is an algebraic dual of $G$, then $G$ is an algebraic dual of $G^\ast$
+ 
 # Links
 * [[Trails, Walks, Paths and Cycles]]
 * [[Graph Planarity]]
