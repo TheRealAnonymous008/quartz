@@ -16,6 +16,8 @@
 <br>
 * $A(G), A$ - adjacency matrix of $G$
 * $B(G), B$ - incidence matrix of $G$
+* $D(G), D$ - degree matrix of $G$
+* $M(G), M$ - Laplacian matrix of $G$
 * $w(G)$ - weight of the weighted graph $G$.
 <br>
 * $G\cong H$ - $G$ is isomorphic to $H$
@@ -29,6 +31,8 @@
 * $K_{r,s}$ - complete bipartite graph.
 * $P_n$ - path of $n$ vertices
 * $C_n$ - cycle of $n$ vertices
+* $C$ - generic cycle
+* $C^\ast$ - generic cut-set related to cycle $C$
 <br>
 * $G+F, G+e$ - edge addition
 * $G/e$ - edge contraction.
@@ -43,4 +47,9 @@
 * $\omega(G), \omega$ - number of components of $G$
 * $\kappa(G), \kappa$ - vertex connectivity of $G$.
 * $\lambda(G), \lambda$ - edge connectivity of $G$
+<br>
+* $T$ - generic tree.
+* $\overline{T}$ - cotree.
+* $\xi(G)$ - cut-set rank
+* $\gamma(G)$ - cycle rank
 <br>

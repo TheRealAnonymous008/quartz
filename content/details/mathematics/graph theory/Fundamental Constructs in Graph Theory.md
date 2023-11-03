@@ -54,3 +54,22 @@ B_{ij} =
 \end{equation}
 }
 $$We denote the incidence matrix of $G$ as $B(G)$.
+
+* The **Degree Matrix** is the diagonal matrix $D$ obtained by
+  $$
+  D_{ii}=\deg v_i
+  $$
+
+* The **Laplacian Matrix** of $G$ is the square matrix $M$ whose components are obtained as 
+  
+  $$
+  \begin{equation} \begin{split}
+  M_{ij} &= \begin{cases} 
+  \deg(v_i) & i=j \\
+  -1 & v_i \text{ is adjacent to } v_j \\
+  0 & \text{otherwise}
+  \end{cases}
+  \end{split}\end{equation}
+  $$
+  
+  It may also be obtained as $M=D-A$ 

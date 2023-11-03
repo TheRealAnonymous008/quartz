@@ -95,5 +95,10 @@
 44. *Lachance's Law* "Plenty of time" becomes "not enough time" in a very short time.
 
 45. Space is a completely unforgiving environment. If you screw up the engineering, somebody dies (and there's no partial credit because most of the analysis was right...)
+
+# Topics
+* [[Network Science]]
+* [[Urban Science]]
+
 # Links
 * [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)

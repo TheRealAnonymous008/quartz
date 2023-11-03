@@ -6,6 +6,7 @@
 * **Bipartite Graph** - it is possible to split the vertex set into two disjoint sets called the **bipartition** $A,B$ such that each edge is of the form $ab, a\in A, b\in B$ 
 	* $G$ is bipartite if it can be expressed as the union of disjoint, possibly empty independent sets
 	* $G$ is $2$-colorable.
+	* (*Wilson 5.1*) $G$ is bipartite if and only if every cycle has even length.
 
 * **Complete Bipartite Graph** - $K_{r,s}$ given the bipartition of the bipartite graph. $A,B$, all vertices from $A$ are adjacent to all vertices in $B$.
   

@@ -16,11 +16,13 @@
 * [[Trees]]
 * [[Graph Planarity]]
 * [[Graph Coloring]]
-* [[Bipartite Graph]]
+* [[The Matching Problem]]
 * [[Infinite Graph]]
 * [[Directed Graph]]
 * [[Flow Networks]]
 * [[Graph Algorithms]]
+* [[Graph Duality]]
+* [[Matroids]]
 
 # Links
 * [[Introduction To Graph Theory by Wilson]]

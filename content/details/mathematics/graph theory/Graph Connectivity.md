@@ -12,6 +12,9 @@
 	    $$
 	    \omega(G) \le \omega(H)
 	    $$
+	* (*Wilson 5.3*) Any simple graph with $n$ vertices and more than $\frac{(n-1)(n-2)}{2}$ edges is connected [^3]
+
+[^3]: Substitute $k=1$ to the Component-Edge inequality.
 
 * Two special cases of components
 	* An **isolated vertex** is a vertex with degree $0$.
