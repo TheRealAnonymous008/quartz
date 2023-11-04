@@ -16,6 +16,9 @@ export default ((opts?: Options) => {
         <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
+        <p>
+          Have an issue <a href="https://github.com/TheRealAnonymous008/library-questions"> Send an issue here</a>
+        </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

@@ -34,7 +34,7 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
             <head>
             <title>${ogSlug}</title>
             <link rel="canonical" href="${redirUrl}">
-            <meta name="robots" content="noindex">
+            <meta name="robots" content="noarchive">
             <meta charset="utf-8">
             <meta http-equiv="refresh" content="0; url=${redirUrl}">
             </head>
