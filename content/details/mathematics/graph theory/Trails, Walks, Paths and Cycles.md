@@ -76,7 +76,6 @@
 * A **Hamiltonian Graph** is a graph which contains a Hamiltonian Cycle
 * A graph is **Semi-Hamiltonian** if it contains a Hamiltonian Path but not a Hamiltonian Cycle
 
-### Undirected
 * (*Bondy and Murty 4.2*) If $G$ is Hamiltonian, then for every non-empty $S\subset V$. 
   $$
   \omega(G-S) \le |S|
@@ -86,9 +85,6 @@
 * *(Wilson 7.1)* **Ore's Theorem** [^2]. Let $G$ be a simple graph with $n\ge 3$ vertices. If $$\deg(v)+\deg(w)\ge n$$for each pair of non-adjacent vertices $v$ and $w$, then $G$ is Hamiltonian
 
 [^2]: Ore's Theorem generalizes Dirac's Theorem
-
-### Directed
-* **Ghouila-Houri Criterion** Let $D$ be a strongly connected digraph with $n$ vertices. If $\text{outdeg}(v)\ge \frac{n}{2}$ and $\text{indeg}(2)\ge \frac{n}{2}$ for each vertex then $D$ is Hamiltonian
 
 # Shortest Paths
 * Let $G$ be a weighted graph. The **shortest path** is the path between two vertices $u$ and $v$ that has a minimum weight.

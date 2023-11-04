@@ -6,6 +6,7 @@
 
 * *Graphs abstract pairwise relations between objects*. 
 * *Graphs are recursive structures*. Manipulating a graph gives a smaller graph.
+
 # Topics
 * [[Graph Theory -- Notation Guide]]
 * [[Fundamental Constructs in Graph Theory]]
@@ -16,10 +17,9 @@
 * [[Trees]]
 * [[Graph Planarity]]
 * [[Graph Coloring]]
-* [[The Matching Problem]]
+* [[The Matching Problem and Flow Networks]]
 * [[Infinite Graph]]
 * [[Directed Graph]]
-* [[Flow Networks]]
 * [[Graph Algorithms]]
 * [[Graph Duality]]
 * [[Quantities in Graph Theory]]

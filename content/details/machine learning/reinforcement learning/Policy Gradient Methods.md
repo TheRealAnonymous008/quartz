@@ -73,6 +73,7 @@ Where the baseline can be any function as long as it is not dependent on $a$.
 * The baseline reduces variance based on the [[Statistical Estimators#Bias-Variance Tradeoff|bias variance tradeoff]]. 
 	* In fact, we can view the variance of the above as a sum of squares that can be decomposed with the bias-variance decomposition. [^3].  
 	* In line with that, we have the common choice of $\hat{v}(s)$ as a sort of MLE.
+	* *The tradeoff applies, we reduce variance at the cost of adding bias*. 
 
 [^3]: see more [here](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/) and the relevant identity [[Probability|here]] for showing the baseline does not introduce bias.
 

@@ -12,6 +12,7 @@
 
 * **Blitzkrieg** - lighting warfare. Pertaining to rapid attack.
 
+* **Casus Belli** - an act or event that provokes or is used to justify declaring war
 * **Cepheid** - any of a class of variable stars whose very regular light variations are related directly to their intrinsic luminosities and whose apparent luminosities are used to estimate distances in astronomy
 * **Corvid** - any of a family of stout-billed passerine birds which include crows, jays, ravens, and the raven.
 
