@@ -2,7 +2,7 @@
 
 # Structure
 ![[Template Method.png]]
-<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * Implement the invariant parts of an algorithm once and leave it up to subclasses to implement behavior they can vary

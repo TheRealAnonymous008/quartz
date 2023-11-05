@@ -3,7 +3,7 @@
 
 # Structure
 ![[Bridge.png]]
-<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * You want to avoid a permanent binding between an abstraction and its implementation. This might be the case when implementation must be selected or switched at runtime.

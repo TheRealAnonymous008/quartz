@@ -1,1 +1,1 @@
-<center> Your Caption Here </center>
+<figcaption> Your Caption Here </figcaption>

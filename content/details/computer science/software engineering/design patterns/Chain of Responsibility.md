@@ -2,7 +2,7 @@
 
 # Structure
 ![[Chain of Responsibility.png]]
-<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * More than one object may handle a request and the handler isn’t known a priori.

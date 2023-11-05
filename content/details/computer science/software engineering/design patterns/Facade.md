@@ -2,7 +2,7 @@
 * *Intent*: Provide a unified interface to a set of interfaces in a subsystem and make it easier to use.
 # Structure
 ![[Facade.png]]
-<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * You want to provide a simple interface to a complex subsystem

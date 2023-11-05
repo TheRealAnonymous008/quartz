@@ -3,7 +3,7 @@
 
 # Structure
 ![[Memento.png]]
-<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * A snapshot of an object’s state must be saved so that it can be restored to that state later.

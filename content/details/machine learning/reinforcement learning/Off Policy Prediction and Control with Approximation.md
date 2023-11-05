@@ -103,7 +103,7 @@ Where $I_t$ is the interest and $M_t$ is the emphasis, initialized to $M_{-1} = 
 	* Actions are then selected via an $\epsilon$-greedy policy. 
 
 ![[DQN with Experience Replay.png]]
-<center>DQN with Experience Learning. Taken from (Minh, 2013) </center>
+<figcaption>DQN with Experience Learning. Taken from (Minh, 2013) </figcaption>
 
 ### Asynchronous Learning 
 * The aim is to speed up the process of [[#DQN]] using asynchronous methods -- that is, by running learning in [[Multiprogramming|parallel]].  [^cite-2 ]
@@ -112,7 +112,7 @@ Where $I_t$ is the interest and $M_t$ is the emphasis, initialized to $M_{-1} = 
 	* This allows us to instead use [[On Policy Prediction and Control with Approximation|On policy methods]] with stability guarantees
 
 ![[Asynchronous One-Step Q learning.png]]
-<center> Asynchronous Deep Learning. Taken from (Mnih et. al, 2016)</center>
+<figcaption > Asynchronous Deep Learning. Taken from (Mnih et. al, 2016)</figcaption>
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 11]]
 	* 11.1 - more on semi-gradient variants to off-policy methods. 

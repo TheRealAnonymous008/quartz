@@ -2,7 +2,7 @@
 
 # Structure
 ![[Flyweight.png]]
-<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * When all of the following hold:

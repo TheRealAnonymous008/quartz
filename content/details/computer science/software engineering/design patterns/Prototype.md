@@ -2,7 +2,7 @@
 
 # Structure
 ![[Prototype.png]]
-<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * When the classes to instantiate are specified at runtime (i.e. dynamic loading).

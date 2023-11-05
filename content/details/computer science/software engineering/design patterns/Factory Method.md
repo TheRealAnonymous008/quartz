@@ -2,7 +2,7 @@
 * *Intent*: Define an interface for creating an object, but let subclasses decide which class to instantiate. It lets a class defer instantiation to subclasses
 # Structure
 ![[Factory Method.png]]
-<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * A class can’t anticipate the class of objects it must create
