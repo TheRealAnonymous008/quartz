@@ -2,8 +2,7 @@
 * *Intent*: Without violating encapsulation, capture and externalize an object’s internal state so that the object can be restored to this state later
 
 # Structure
-![[Memento.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Memento.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * A snapshot of an object’s state must be saved so that it can be restored to that state later.

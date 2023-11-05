@@ -1,7 +1,6 @@
 * *Intent*: Ensure a class only has one instance, and provide a global point of access to it
 # Structure
-![[Singleton.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Singleton.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * There must be exactly one instance of a class accessible to clients from a well-known access point.

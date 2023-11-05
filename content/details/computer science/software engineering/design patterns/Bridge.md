@@ -2,8 +2,7 @@
 * *Intent*: Decouple an abstraction from its implementation so that the two can vary independently
 
 # Structure
-![[Bridge.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Bridge.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * You want to avoid a permanent binding between an abstraction and its implementation. This might be the case when implementation must be selected or switched at runtime.

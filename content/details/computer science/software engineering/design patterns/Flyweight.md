@@ -1,8 +1,7 @@
 * *Intent*: Use sharing to support large numbers of fine-grained objects efficiently.
 
 # Structure
-![[Flyweight.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Flyweight.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * When all of the following hold:

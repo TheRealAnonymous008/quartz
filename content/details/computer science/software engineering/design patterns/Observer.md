@@ -2,8 +2,7 @@
 * *Intent*: Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 
 # Structure
-![[Observer.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Observer.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * When an abstraction has two key aspects: one dependent on the other.

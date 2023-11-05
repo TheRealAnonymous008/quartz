@@ -1,8 +1,7 @@
 * *Intent*: Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. It lets subclasses redefine certain steps of an algorithm without changing its structure
 
 # Structure
-![[Template Method.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Template Method.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * Implement the invariant parts of an algorithm once and leave it up to subclasses to implement behavior they can vary

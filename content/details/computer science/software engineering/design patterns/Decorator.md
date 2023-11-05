@@ -2,8 +2,7 @@
 * *Intent*: Attach additional responsibilities to an object dynamically, providing a flexible alternative to subclassing for extending functionality.
 
 # Structure
-![[Decorator.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Decorator.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * Add responsibilities to individual objects dynamically and transparently without affecting other objects.

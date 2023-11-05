@@ -1,8 +1,7 @@
 * *Aka*: Action, Transaction
 * *Intent*: Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.
 # Structure
-![[Command.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Command.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * Parameterize objects by an action to perform

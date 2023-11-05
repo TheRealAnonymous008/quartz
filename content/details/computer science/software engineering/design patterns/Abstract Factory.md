@@ -1,8 +1,7 @@
 * *Aka*: Kit.
 * *Intent*: Provide an interface for creating families of related or dependent objects without specifying their concrete classes
 # Structure
-![[Abstract Factory.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Abstract Factory.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * A system should be independent of how its products are created, composed, and represented.

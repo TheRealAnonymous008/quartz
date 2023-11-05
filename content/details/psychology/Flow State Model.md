@@ -14,8 +14,7 @@
 
 * It is the emotional and psychological state of focused and engaged happiness.
 
-![[Flow State.png]]
-<figcaption> Flow State Model. Image from  Oliverbeatson. See https://en.wikipedia.org/wiki/File:Challenge_vs_skill.svg </figcaption>
+![[Flow State.png]]<figcaption> Flow State Model. Image from  Oliverbeatson. See https://en.wikipedia.org/wiki/File:Challenge_vs_skill.svg </figcaption>
 
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 24]]

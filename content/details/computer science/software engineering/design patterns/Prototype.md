@@ -1,8 +1,7 @@
 * *Intent*: Specify the kinds of objects to create using a prototypical instance and create new objects by copying this prototype
 
 # Structure
-![[Prototype.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Prototype.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * When the classes to instantiate are specified at runtime (i.e. dynamic loading).

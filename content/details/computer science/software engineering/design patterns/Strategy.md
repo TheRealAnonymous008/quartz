@@ -1,8 +1,7 @@
 * *Aka*: Policy
 * *Intent*: Define a family of algorithms, encapsulate each one and make them interchangeable. It lets the algorithm vary independently from clients that use it.
 # Structure
-![[Strategy.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Strategy.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * Many related classes differ only in their behavior.

@@ -1,12 +1,10 @@
 * *Aka*: Surrogate
 * *Intent*: Provide a surrogate or placeholder for another object to control access to it
 # Structure
-![[Proxy.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Proxy.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 
-![[Proxy (Runtime).png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Proxy (Runtime).png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * Applicable when there is a need for a more versatile or sophisticated reference to an object than a pointer

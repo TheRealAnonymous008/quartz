@@ -2,8 +2,7 @@
 * *Intent*: Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
 
 # Structure
-![[Iterator.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Iterator.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 
 # Applicability
 * There is a need to access an aggregate object’s contents without exposing its internal representation.

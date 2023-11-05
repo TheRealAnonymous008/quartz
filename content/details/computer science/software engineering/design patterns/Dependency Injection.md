@@ -1,7 +1,6 @@
 * **Dependency Injection** is a design pattern in which an entity receives any entities that it depends on.
 # Structure
-![[Dependency Injection.png]]
-<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
+![[Dependency Injection.png]]<figcaption> Image from: Venderjoe https://commons.wikimedia.org/wiki/File:W3sDesign_Dependency_Injection_Design_Pattern_UML.jpg </figcaption>
 
 # Motivation
 1. By using dependency injection we reduce the amount of coupling between entities. An object only needs to know about the interface it depends on.
