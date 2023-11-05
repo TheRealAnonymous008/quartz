@@ -84,3 +84,7 @@
 * $\overline{\text{PBE}}(w)$ - mean squared Projected Bellman error.
 * $\overline{\text{TDE}}(w)$ - mean squared Temporal Difference error.
 * $\overline{\text{RE}}(w)$ - mean squared Return Error.
+<br>
+* $D_t$ - experience replay.
+* $e_t$ - an episode step 
+* $\beta(s,a)$ - behavior distribution 

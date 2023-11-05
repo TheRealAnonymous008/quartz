@@ -42,28 +42,32 @@ $$
 \begin{split}
 J(\theta) &= \sum_{s\in S} \mu(s) v_\pi(s)\\ 
 \nabla J(\theta) &\propto \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)\\ 
-&= \mathbb{E}[q_\pi(s,a) \nabla_\theta \ln \pi_\theta(a\mid s)]
+&= \mathbb{E}_{s\sim \mu_(s), a\sim \pi_\theta}[q_\pi(s,a) \nabla_\theta \ln \pi_\theta(a\mid s)] \\ 
+&= \mathbb{E}_\pi [q_\pi(s,a) \nabla_\theta \ln \pi_\theta(a\mid s)]
 \end{split} 
 $$
 $\mu$ is the on-policy distribution
 
-The proportionality constant $c$ is the average length of an episode in the episodic case and $1$ in the continuous case. [^1]
+The proportionality constant $c$ is the average length of an episode in the episodic case and $1$ in the continuous case. [^1] [^2]  [^3]
+
+The last line is just a way to abbreviate the notation.
 
 [^1]: In practice, we don't really care about this because it will be weighted by a step size $\alpha$ anyway.
-[^2]: [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] use  but if we are measuring expected reward, we should average over all the states. 
+[^2]: [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] use $v_\pi$ but if we are measuring expected reward, we should average over all the states.  
+[^3]: The $\ln$ part of the formula follows by multiplying the RHS of the equation with $\frac{\pi_\theta(\alpha\mid s)}{\pi_\theta(\alpha\mid s)}$.
 
 ### EGLP Lemma
 * The **Expected Grad-Log-Prob** lemma is an intermediate result that is applied extensively in policy gradients
 * Let $P_\theta$ be a parameterized probability distribution over a random variable $x$, then 
 $$
-\mathbb{E}_{x\sim P_\theta} [\nabla_\theta \log P_\theta (x)] = 0
+\mathbb{E}_{x\sim P_\theta} [\nabla_\theta \ln P_\theta (x)] = 0
 $$
 
 ### Baselines
 * We can generalize the policy gradient theorem to include comparison with a **baseline** $b(s)$
 
 $$
-\nabla J(\theta) =  \mathbb{E}_{\pi_\theta} \left[\sum_{t=0}^T \nabla_\theta \log \pi_\theta (a_t\mid s_t) \ \left(\sum_{t'=t}^T R(s_{t'},a_{t'} ,s_{t'+1} ) - b(s_t)\right)\right]
+\nabla J(\theta) =  \mathbb{E}_{\pi_\theta} \left[\sum_{t=0}^T \nabla_\theta \ln \pi_\theta (a_t\mid s_t) \ \left(\sum_{t'=t}^T R(s_{t'},a_{t'} ,s_{t'+1} ) - b(s_t)\right)\right]
 $$
 Where the baseline can be any function as long as it is not dependent on $a$.
 * The rationale with baselines is that *it reduces any variance of sample estimates* of the policy gradient.
@@ -71,11 +75,11 @@ Where the baseline can be any function as long as it is not dependent on $a$.
 
 * The baseline does not introduce bias precisely because of the [[#EGLP Lemma]]
 * The baseline reduces variance based on the [[Statistical Estimators#Bias-Variance Tradeoff|bias variance tradeoff]]. 
-	* In fact, we can view the variance of the above as a sum of squares that can be decomposed with the bias-variance decomposition. [^3].  
+	* In fact, we can view the variance of the above as a sum of squares that can be decomposed with the bias-variance decomposition. [^4].  
 	* In line with that, we have the common choice of $\hat{v}(s)$ as a sort of MLE.
 	* *The tradeoff applies, we reduce variance at the cost of adding bias*. 
 
-[^3]: see more [here](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/) and the relevant identity [[Probability|here]] for showing the baseline does not introduce bias.
+[^4]: see more [here](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/) and the relevant identity [[Probability|here]] for showing the baseline does not introduce bias.
 
 ### Baselined Discounting 
 * If we want to apply discounting the baseline has to satisfy 
@@ -134,7 +138,9 @@ $\Psi$ depends on our algorithm.
 	* 13.4 - REINFORCE with Baseline
 
 * [Policy Gradients in a Nutshell](https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d)
-* [[A Unified View on Reinforcement Learning Approaches]]
 * [Spinningup -- Intro to Policy Optimization](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
 * [Going Deeper into Reinforcement Learning - Fundamentals of Policy Gradient Methods](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/)
 * [Lil'Log Policy Gradient Algorithms](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
+
+
+* [[A Unified View on Reinforcement Learning Approaches]]
