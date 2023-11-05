@@ -3,6 +3,7 @@
 
 # Structure
 ![[Decorator.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * Add responsibilities to individual objects dynamically and transparently without affecting other objects.

@@ -1,6 +1,7 @@
 * *Intent*: Represent an operation to be performed on the elements of an object structure. Lets you define a new operation without changing the classes of the elements on which it operates.
 # Structure
 ![[Visitor.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * An object structure contains many classes of objects with different interfaces and you want to perform operations on these objects that depend on their concrete classes.

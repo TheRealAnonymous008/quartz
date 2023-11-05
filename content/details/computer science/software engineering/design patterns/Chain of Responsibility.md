@@ -2,6 +2,8 @@
 
 # Structure
 ![[Chain of Responsibility.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+
 # Applicability
 * More than one object may handle a request and the handler isn’t known a priori.
 * The handler should be ascertained automatically

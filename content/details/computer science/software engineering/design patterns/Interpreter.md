@@ -1,6 +1,7 @@
 * *Intent*: Given a [[Automata Theory|language]], define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
 # Structure
 ![[Interpreter.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * When there is a language to interpret and they can be represented as Abstract Syntax Trees

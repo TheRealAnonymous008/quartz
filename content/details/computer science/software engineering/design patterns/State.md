@@ -1,6 +1,7 @@
 * *Intent*: Allow an object to alter its behavior when its internal state changes. The object will appear to change its class
 # Structure
 ![[State.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * An object’s behavior depends on its state and it must change its behavior at run time depending on that state.

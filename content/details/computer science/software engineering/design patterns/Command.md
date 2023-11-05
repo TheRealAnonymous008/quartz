@@ -2,6 +2,7 @@
 * *Intent*: Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.
 # Structure
 ![[Command.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * Parameterize objects by an action to perform

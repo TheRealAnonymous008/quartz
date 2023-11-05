@@ -4,9 +4,12 @@
 ## Variations
 * **Class Adapter** - Use of polymorphic interfaces which define the contracts that an adapter must adapt by. The adapter then inherits from these interfaces.
 ![[Class Adapter.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+
 
 * **Object Adapter** - the adapter maintains an instance of the class it is wrapping (like a [[Decorator]]).
 ![[Object Adapter.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * You want to use an existing class, and its interface does not match the one you need.

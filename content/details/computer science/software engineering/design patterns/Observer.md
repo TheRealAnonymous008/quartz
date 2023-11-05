@@ -3,6 +3,7 @@
 
 # Structure
 ![[Observer.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * When an abstraction has two key aspects: one dependent on the other.

@@ -2,9 +2,11 @@
 * *Intent*: Provide a surrogate or placeholder for another object to control access to it
 # Structure
 ![[Proxy.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 
 ![[Proxy (Runtime).png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * Applicable when there is a need for a more versatile or sophisticated reference to an object than a pointer

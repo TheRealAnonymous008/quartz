@@ -1,6 +1,7 @@
 * *Intent*:  Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 # Structure
 ![[Builder.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * The algorithm for creating a complex object should be independent of the parts that make up the object and how they’re assembled.

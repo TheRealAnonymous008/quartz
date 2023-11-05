@@ -3,6 +3,8 @@
 
 # Structure
 ![[Bridge.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+
 # Applicability
 * You want to avoid a permanent binding between an abstraction and its implementation. This might be the case when implementation must be selected or switched at runtime.
 * Both abstractions and implementations should be extensible by subclassing.

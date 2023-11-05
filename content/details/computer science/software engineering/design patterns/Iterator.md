@@ -3,6 +3,7 @@
 
 # Structure
 ![[Iterator.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * There is a need to access an aggregate object’s contents without exposing its internal representation.

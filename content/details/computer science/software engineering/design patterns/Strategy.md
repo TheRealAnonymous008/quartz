@@ -2,6 +2,7 @@
 * *Intent*: Define a family of algorithms, encapsulate each one and make them interchangeable. It lets the algorithm vary independently from clients that use it.
 # Structure
 ![[Strategy.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 # Applicability
 * Many related classes differ only in their behavior.

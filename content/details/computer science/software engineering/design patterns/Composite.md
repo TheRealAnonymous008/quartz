@@ -1,8 +1,10 @@
 * *Intent*: Compose objects into tree structures to represent part-whole hierarchies and let clients treat individual objects and compositions uniformly
 # Structure
 ![[Composite.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 
 ![[Composite Tree.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
 # Applicability
 * You want to represent part-whole hierarchies of objects.
 * You want clients to ignore the differences between compositions of objects and individual objects.

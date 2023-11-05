@@ -2,6 +2,8 @@
 
 # Structure
 ![[Flyweight.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+
 # Applicability
 * When all of the following hold:
 * An application uses a large number of objects.

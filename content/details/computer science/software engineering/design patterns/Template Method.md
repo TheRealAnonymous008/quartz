@@ -2,6 +2,8 @@
 
 # Structure
 ![[Template Method.png]]
+<center> Image from: Gamma, Helm, Johnson, and Vissides </center>
+
 # Applicability
 * Implement the invariant parts of an algorithm once and leave it up to subclasses to implement behavior they can vary
 * When common behavior among subclasses should be factored localized in a common class to avoid code duplication.
