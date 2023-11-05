@@ -179,10 +179,10 @@
       & > em { 
           color: $italicColor
       }
+    }
 
-      :has(img) {
-          text-align: center;
-      }
+    p:has(> img) {
+      text-align: center;
     }
   }
 }

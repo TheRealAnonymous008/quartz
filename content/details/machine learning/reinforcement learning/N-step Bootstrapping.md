@@ -124,6 +124,8 @@
 
 * We then perform the update defined in [[#Control Variates|n-step SARSA with control variates]] except without importance sampling ratios. 
 
+![[Qsigma.png]]<figcaption> General N-step bootstrapping. Image taken from Sutton and Barto (2017) </figcaption>
+
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 7]]
 	* 7.2 - n-step SARSA
