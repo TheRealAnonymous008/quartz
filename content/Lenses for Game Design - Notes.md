@@ -28,9 +28,21 @@
 * *Play is manipulation that indulges curiosity*. We play because we are willing to indulge in play, and we do it for its own sake.
 * *Games are problem solving activities approached with a playful attitude*. In a sense, all games are fundamentally [[Puzzle|puzzles]] and we get the satisfaction from having solved the puzzle.
 
-* Relevant lenses [[Lenses for Game Design - Lenses#4. Surprise|Surprise]], [[Lenses for Game Design - Lenses#5. Fun|Fun]], [[Lenses for Game Design - Lenses#6. Curiosity|Curiosity]], [[Lenses for Game Design - Lenses#7. Endogenous Value|Endogenous value]], [[Lenses for Game Design - Lenses#8 . Problem Solving|Problem Solving]] 
+* Relevant lenses [[Lenses for Game Design - Lenses#4. Surprise|Surprise]], [[Lenses for Game Design - Lenses#5. Fun|Fun]], [[Lenses for Game Design - Lenses#6. Curiosity|Curiosity]], [[Lenses for Game Design - Lenses#7. Endogenous Value|Endogenous value]], [[Lenses for Game Design - Lenses#8 . Problem Solving|Problem Solving]]
+
 ### The Game Consists of Elements
+* **Mechanics** - the [[Games as Rules|rules]] of the game that describe the goals, the constraints, and the outcomes. 
+* **Story** - the [[Narrative|sequence]] of events that unfolds in the game
+* **Aesthetics** -- how the game appeals to the sensation. 
+* **Technology** - any materials and interactions that make the game possible. It allows the game to do certain things and not do others.
+
+* All of the above are equally important and influence each other. All should work towards the same goal -- the player experience.
+	* Never forget the player experience. Not knowing the elements makes us ignorant to how we can improve the experience, but not knowing the experience can make the game [[The Psychology of Everyday Actions|horrible]].
+* Deficits in one element of the tetrad can inspire creative designs in another.
 * Relevant lenses: [[Lenses for Game Design - Lenses#9. Elemental Tetrad|Elemental Tetrad]], [[Lenses for Game Design - Lenses#10. Holographic Design|Holographic Design]]
+
+### The Elements Support a Theme 
+* Relevant lenses: [[Lenses for Game Design - Lenses#11. Unification|Unification]], [[Lenses for Game Design - Lenses#12. Resonance|resonance]].
 # Links
 * [[Lenses for Game Design - Lenses]] - a separate listing for the lenses.
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

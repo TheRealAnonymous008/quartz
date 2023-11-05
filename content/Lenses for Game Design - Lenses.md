@@ -57,9 +57,21 @@
 * How can my game generate new problems so that players keep coming back?
 
 ### 9. Elemental Tetrad
-* Games consist of Mechanics, Story, Aesthetics, and Technology
+* Games consist of Mechanics, Story, Aesthetics, and Technology. Consider them separately and then together
+
+* Is my game design using elements of all four types?
+* Could my design be improved by enhancing elements in one or more of the categories?
+* Are the four elements in harmony, reinforcing each other and working together toward a common theme?
 
 ### 10. Holographic Design
+* See everything in your game at once. The elements and the player experience and how they interrelate. 
 
+* What elements of the game make the experience enjoyable?
+* What elements of the game detract from the experience? 
+* How can I change game elements to improve the experience?
+
+### 11. Unification
+
+### 12. Resonance
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]]
