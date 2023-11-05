@@ -113,6 +113,7 @@ Where $I_t$ is the interest and $M_t$ is the emphasis, initialized to $M_{-1} = 
 
 ![[Asynchronous One-Step Q learning.png]]
 <figcaption > Asynchronous Deep Learning. Taken from (Mnih et. al, 2016)</figcaption>
+
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 11]]
 	* 11.1 - more on semi-gradient variants to off-policy methods. 
