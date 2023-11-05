@@ -52,6 +52,11 @@
 * **Generalized Policy Iteration** refers to the general idea of letting policy-evaluation and policy improvement processes interact. *As long as all states are continually evaluated and updated (that is updated an infinite number of times), convergence is guaranteed*.
 	* *This process can be viewed in adversarial light*. Changes in the value will make the policy wrong and vice versa. However, they both converge to both an optimal value and an optimal policy.
 	* The value function stabilizes only when it is consistent with the current policy, and the policy stabilizes only when it is greedy with respect to the current value function
+
+![[GPI.png|200]]
+<figcaption> GPI. Image from Sutton and Barto (2017) </figcaption>
+
+
 # Optimizing DP
 * It should be noted that *DP is already quite efficient as it is*. It takes polynomial time to complete which is much faster than the exponential time to search through the whole state space.
 * **Asynchronous Dynamic Programming** is a method where instead of performing systematic sweeps over the state set, backup is performed in any order using the values that happen to be available.

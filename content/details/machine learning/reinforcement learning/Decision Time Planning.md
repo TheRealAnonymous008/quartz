@@ -33,6 +33,9 @@
 * It benefits from online, incremental, sample-based value estimation, and policy improvement.
 * The approach focuses on trajectories whose initial segments are common to high-return trajectories previously simulated.
 * By incrementally expanding the tree, it grows a lookup table to store a partial action-value function. Thus, it does not need to globally approximate the action-value function, while it can also use past experience.
+
+![[MCTS.png]]<figcaption> Monte Carlo Tree Search. Image from Sutton and Barto (2017) </figcaption>
+
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] Ch. 8.8 - 8.11
 * [[A Unified View on Planning and Learning]] - more on planning and learning algoritms.

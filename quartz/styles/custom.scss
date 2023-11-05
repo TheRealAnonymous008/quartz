@@ -180,7 +180,7 @@
           color: $italicColor
       }
 
-      & > img {
+      :has(img) {
           text-align: center;
       }
     }
@@ -219,5 +219,5 @@ figcaption {
   margin: 10px auto 35px;
   line-height: 1.35;
   color: #888;
-  font-size: 15px;
+  font-size: 20px;
 }
