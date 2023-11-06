@@ -60,6 +60,20 @@
 	q_\ast(s,a) &=  \sum_{s', r} p(s',r\mid s, a)\left[r -\max_\pi r(\pi)+ \  \max_{a'}q_\ast(s',a')\right]
   \end{split}
   $$
+
+# Hamilton-Jacobi-Bellman Equations 
+* The **Hamilton-Jacobi-Bellman** (HJB) equations can be viewed as a generalization of the Bellman equations to the continuous case 
+
+$$
+\gamma v _\pi(s) = \max_{u\in U} \left( \ r(s,u) + \nabla v_\pi (s) \cdot g(s,u)\right)
+$$
+Where $r(s,u)$ is the instantaneous reward function given state $s$ and control vector $u$.
+
+And $g$ is the law of motion for the state (analogous to the environment's dynamics) [^1]
+
+
+[^1]: TODO: Move this to the appropriate location
+
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]
 	* Ch. 3 - introduction of Bellman backups

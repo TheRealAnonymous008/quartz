@@ -124,7 +124,7 @@ $\Psi$ depends on our algorithm.
 * $\sum_{t=0}^\infty r_t$ - total reward of the trajectory.
 * $\sum_{k=t}^\infty r_k$ - reward following action $a_t$
 * $\sum_{k=t}^\infty r_k -b(s_t)$  - baselined reward after action $a_t$
-* $Q_\pi(s_t,a_t)$ - state-action value function
+* $q_\pi(s_t,a_t)$ - state-action value function
 * $A_\pi(s_t,a_t)$ - advantage function
 * $r_t+V_\pi(S_{t+1})-V_\pi(s_t)$ - TD residual.
 

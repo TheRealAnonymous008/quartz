@@ -42,7 +42,13 @@
 * Relevant lenses: [[Lenses for Game Design - Lenses#9. Elemental Tetrad|Elemental Tetrad]], [[Lenses for Game Design - Lenses#10. Holographic Design|Holographic Design]]
 
 ### The Elements Support a Theme 
-* Relevant lenses: [[Lenses for Game Design - Lenses#11. Unification|Unification]], [[Lenses for Game Design - Lenses#12. Resonance|resonance]].
+* The **theme** is what your game is about. It is the idea that ties your entire game together
+* The primary benefit of basing your design around a single theme is that *all of the elements of your game will reinforce one another*, since they will all be working toward a common goal. 
+	* The sooner the theme is identified, the better
+	* When the theme is identified, reinforce it as much as possible.
+* *The best theme is a theme that [[details/creativity/writing/Story by Robert McKee|resonates]] with players*. Those that are archetypal and universal and they elevate the game.
+* Themes operate on the subconscious level. It is about focusing the experience to something important to the players. 
+* Relevant lenses: [[Lenses for Game Design - Lenses#11. Unification|Unification]], [[Lenses for Game Design - Lenses#12. Resonance|Resonance]].
 # Links
 * [[Lenses for Game Design - Lenses]] - a separate listing for the lenses.
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

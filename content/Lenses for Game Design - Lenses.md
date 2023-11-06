@@ -1,3 +1,5 @@
+* The lenses allow us to listen to our game better. 
+
 ### 1. Emotion
 * Make sure the [[Games as Play#Play of Pleasure|feelings]] you create are the right ones. 
 * But beware [[Confirmation Bias|Observer bias]] and how that influences analysis.
@@ -64,14 +66,24 @@
 * Are the four elements in harmony, reinforcing each other and working together toward a common theme?
 
 ### 10. Holographic Design
-* See everything in your game at once. The elements and the player experience and how they interrelate. 
+* See everything in your game at once. The [[#9. Elemental Tetrad|elements]] and the player experience and how they interrelate. 
 
 * What elements of the game make the experience enjoyable?
 * What elements of the game detract from the experience? 
 * How can I change game elements to improve the experience?
 
 ### 11. Unification
+* Works well with [[#9. Elemental Tetrad]] for dissecting the game and identifying how to unify them with a common theme. 
+
+* What is my theme?
+* Am I using every means possible to reinforce that theme?
 
 ### 12. Resonance
+* The best games are those that resonate with us deeply.
+
+* What is it about my game that feels powerful and special?
+* When I describe my game to people, what ideas get them really excited?
+* If I had no constraints of any kind, what would this game be like?
+* I have certain instincts about how this game should be. What is driving those instincts?
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]]

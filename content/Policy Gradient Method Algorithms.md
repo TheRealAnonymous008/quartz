@@ -32,8 +32,39 @@ $$
 Where $G_t'$ is a generalization for our return. It could be the one-step return from regular TD, or the n-step return $G_{t:t+n}$ or even an [[Eligibility Traces|eligibility trace]] $G_t^\lambda$. 
 
 # Off-Policy Methods 
+### Asynchronous Learning 
+* The aim is to speed up the process of [[Off Policy Prediction and Control with Approximation#DQN|DQN]] using asynchronous methods -- that is, by running learning in [[Multiprogramming|parallel]].  [^Minh_2016]
+* Instead of using replay memory, we rely on different threads running different policies and multiple actors perform exploration (via $\epsilon$-greedy policies where $\epsilon$ is sampled from some distribution)
+	* This reduces training time by exploiting parallelism.
+	* This allows us to instead use [[On Policy Prediction and Control with Approximation|On policy methods]] with stability guarantees
+
+![[Asynchronous One-Step Q learning.png|300]]<figcaption > Asynchronous Deep Learning. Taken from Mnih et. al (2016)</figcaption>
+
+### A3C - Asynchronous Advantage Actor-Critic
+
+![[A3C.png]]
+<figcaption> A3C. Taken from Algorithm S3 from Mnih et. al (2016) </figcaption>
+
+* Here, critics learn the value function while multiple actors are trained in parallel, and  accumulated updates are performed for more stable and robust training. 
+* In practice ,we share some parameters. 
+
+* Updates are performed as follows. Here we let $v(s,w)$ and $\pi_\theta(a_t\mid s_t)$ be the parameterized value and policy 
+  $$
+  \begin{split}
+  \nabla_{\theta} \log\pi(a_t\mid s_t,\theta) \ A(s_t,a_t\mid \theta,w) \\
+  A(s_t,a_t\mid \theta, w) = \sum_{i=0}^{k-1}{\gamma^i}R_{t+i} +\gamma^kv(s_{t+k},w) - v(s_t,w)
+  \end{split}
+  $$
+* We may also add the [[Information Theory|entropy]] as a regularization term.
+  $$
+  \nabla_{\theta} \log\pi(a_t\mid s_t,\theta) \ A(s_t,a_t\mid \theta,w)  + \beta \nabla_\theta H(\pi_\theta(s_t))
+  $$
+
+
+[^Minh_2016]: Volodymyr Mnih, et al. [Asynchronous methods for deep reinforcement learning.](http://proceedings.mlr.press/v48/mniha16.pdf) ICML. 2016.
 
 
 # Links
+* [[Off Policy Prediction and Control with Approximation]]
 * [[Policy Gradient Methods]]
 

@@ -2,7 +2,7 @@
 * *Tell with intent*. A mature artist never calls attention to himself, and a wise artist never does anything merely because it breaks convention. *Stories are your grand metaphors for life.*.
 	* Self-knowledge is the key to telling good stories -- experience with introspection. A good story necessitates an insightful author.
 	* Postmodernist skepticism and cynicism has made it harder to convey an idea--thus, there is a bigger need to dig deeper into life.
-	* The greatest stories are those that are always contemporary--that touch on a universal aspect of the human condition.
+	* *The greatest stories are those that are always contemporary*--that touch on a universal aspect of the human condition.
 
 * *For of all the reasons for wanting to write, the only one that nurtures us through time is love of the work itself*. 
 

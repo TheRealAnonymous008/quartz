@@ -44,10 +44,11 @@
 * $(B_\pi v)(s)$ - Bellman operator for value function $v_\pi$
 * $A_\pi(s,a)$ - the advantage function for $\pi$.
 
-* $V_t, V^{\pi}_t$ - estimate for state value function at time $t$ for policy $\pi$
+* $V_t, V^{\pi}_t$ - estimate for state value function at time $t$ for policy $\pi$ derived from bootstrapping
 * $\overline{V_t}, \overline{V_t^\pi}$ - expected approximate action value at time $t$ for policy $\pi$
-* $Q_t, Q_t^\pi$ - estimate for state-action value function at time $t$ for policy $\pi$
+* $Q_t, Q_t^\pi$ - estimate for state-action value function at time $t$ for policy $\pi$ derived from bootstrapping
 * $\hat{V}_t, \hat{V}_t^\pi$ - expected approximate action value at time $t$ for policy $\pi$
+* $A_t(s_t,a_t\mid\theta,w)$ - estimate of advantage function
 <br>
 * $G_t$ - return at time $t$.
 * $h$ - horizon. the time step we look up to during a forward view.

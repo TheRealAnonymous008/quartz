@@ -1,4 +1,4 @@
-* *[[details/creativity/writing/Story by Robert McKee|A story is not only what you have to stay but how you say it. After all, we tell stories as metaphors for some aspect of life as we believe it so.]]
+* *[[details/creativity/writing/Story by Robert McKee|A story is not only what you have to stay but how you say it. After all, we tell stories as metaphors for some aspect of life as we believe it so. The best stories are those that speak to some universal truth. "That lis life"]]
 
 * Writing is iterative. Write consistently. Write in small chunks.
 	* There are two kinds of writers: those who outline and those who do not. Regardless of one's preferences, both should engage in structured, deliberate writing
