@@ -114,6 +114,6 @@ Where $I_t$ is the interest and $M_t$ is the emphasis, initialized to $M_{-1} = 
 * [[Temporal Difference Learning]] - more on Off-Policy learning techniques.
 * [[A Unified View on Reinforcement Learning Approaches]] - more on off-policy
 
-[^Mnih_2013]: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). _Playing Atari with Deep Reinforcement Learning_ (arXiv:1312.5602). arXiv. [http://arxiv.org/abs/1312.5602](http://arxiv.org/abs/1312.5602)
+[^Mnih_2013]: Mnih, et al. (2013). [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)
 
-[^Mnih_2016]: Volodymyr Mnih, et al. [Asynchronous methods for deep reinforcement learning.](http://proceedings.mlr.press/v48/mniha16.pdf) ICML. 2016.
+[^Mnih_2016]: Mnih, et al. [Asynchronous methods for deep reinforcement learning.](http://proceedings.mlr.press/v48/mniha16.pdf) ICML. 2016.

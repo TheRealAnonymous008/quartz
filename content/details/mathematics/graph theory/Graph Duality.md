@@ -77,4 +77,4 @@
 * [[Trails, Walks, Paths and Cycles]]
 * [[Graph Planarity]]
 * [[Trees]]
-* [[Matroids]]
+* [[Matroid Theory]]

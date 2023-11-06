@@ -69,3 +69,9 @@
 * $g(v)$ - betweenness centrality of edge $v$.
 * $g(e)$ - link betweenness centrality of edge $e$
 * $C_v$ - clustering coefficient of vertex $v$
+
+* $f$ - in flow networks, denotes flow or pseudoflow (default is flow)
+* $c$ - in flow networks, denotes capacity 
+* $|f|$ - denotes the value of a flow 
+* $s$ - source vertex 
+* $t$ - sink vertex

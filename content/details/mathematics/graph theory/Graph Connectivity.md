@@ -38,7 +38,7 @@
 
 # Connectivity
 ### Vertices
-* A **separating set** in a connected graph $G$ is a set of vertices whose deletion disconnects $G$.
+* A **separating set** also called a **vertex cut**, in a connected graph $G$ is a set of vertices whose deletion disconnects $G$.
 	* In general it is the set of vertices that increase the number of components by $1$.
 * A **cut vertex** is a separating set with only one element.
 

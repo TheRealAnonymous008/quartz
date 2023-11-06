@@ -54,8 +54,9 @@
 	  
 	  Now $A$ has no cycles so there exists an edge in $C$ and by extension $B$, that is not in $A$. Call this edge $b\in E(B)$
 	  
-	  Now, in $B$ replace edge $b$ with edge $a$. Clearly $w(a)<w(b)$ so $w(B-b+a)<w(B)$ which is a contradiction since $B$ was an MST. 
+	  Now, in $B$ replace edge $b$ with edge $a$. Clearly $w(a)<w(b)$ so $w(B-b+a)<w(B)$ which is a contradiction since $B$ was an MST.
 
+* We can find the MST using [[Graph Algorithms#Kruskal's Algorithm|Kruskal's algorithm]]
 # Links
 * [[Trees]]
-* [[Matroids]]
+* [[Matroid Theory]]

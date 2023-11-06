@@ -15,6 +15,7 @@
 	* They are dependent on the ISA.
 	* Generally faster, requires less memory, and more flexible than high level programming languages.
 # Topics
+* [[Computer Number Formats]]
 * [[Computer Graphics]]
 * [[Computer Processors]]
 * [[Operating System]]

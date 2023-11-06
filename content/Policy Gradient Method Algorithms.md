@@ -46,24 +46,34 @@ Where $G_t'$ is a generalization for our return. It could be the one-step return
 <figcaption> A3C. Taken from Algorithm S3 from Mnih et. al (2016) </figcaption>
 
 * Here, critics learn the value function while multiple actors are trained in parallel, and  accumulated updates are performed for more stable and robust training. 
-* In practice ,we share some parameters. 
+* In practice ,we share some parameters. between the value function and the policy function.
 
-* Updates are performed as follows. Here we let $v(s,w)$ and $\pi_\theta(a_t\mid s_t)$ be the parameterized value and policy 
+* Updates are performed as follows. Here we let $v(s,w)$ and $\pi_\theta(a_t\mid s_t)$ be the parameterized value and policy respectively and $A_{\pi}(s_t,a_t)$ is the estimated advantage function 
   $$
   \begin{split}
-  \nabla_{\theta} \log\pi(a_t\mid s_t,\theta) \ A(s_t,a_t\mid \theta,w) \\
-  A(s_t,a_t\mid \theta, w) = \sum_{i=0}^{k-1}{\gamma^i}R_{t+i} +\gamma^kv(s_{t+k},w) - v(s_t,w)
+  \nabla_{\theta} \log\pi(a_t\mid s_t,\theta) \ A_\pi(s_t,a_t) \\
+  A_\pi(s_t,a_t) = \sum_{i=0}^{k-1}{\gamma^i}R_{t+i} +\gamma^kv(s_{t+k},w) - v(s_t,w)
   \end{split}
   $$
 * We may also add the [[Information Theory|entropy]] as a regularization term.
   $$
-  \nabla_{\theta} \log\pi(a_t\mid s_t,\theta) \ A(s_t,a_t\mid \theta,w)  + \beta \nabla_\theta H(\pi_\theta(s_t))
+  \nabla_{\theta} \log\pi(a_t\mid s_t,\theta) \ A_\pi(s_t,a_t)  + \beta \nabla_\theta H(\pi_\theta(s_t))
   $$
 
+### A2C - Advantage Actor-Critic
+* A synchronous version of [[#A3C - Asynchronous Advantage Actor-Critic|A3C]] that resolves data inconsistency.
+* It introduces a coordinator that waits for all parallel actors to finish their work before updating global parameters. Actors then start from the same policy.
+* It can utilize the GPU more efficiently while achieving comparable or better performance to A3C. 
 
-[^Minh_2016]: Volodymyr Mnih, et al. [Asynchronous methods for deep reinforcement learning.](http://proceedings.mlr.press/v48/mniha16.pdf) ICML. 2016.
+![[A2C.png]]<figcaption>  Image from Lilian Weng https://lilianweng.github.io/posts/2018-04-08-policy-gradient/</figcaption>
 
+[^Minh_2016]: Mnih, et al. (2016) [Asynchronous methods for deep reinforcement learning.](http://proceedings.mlr.press/v48/mniha16.pdf) 
 
+# Deterministic Policy Gradients 
+### DPG 
+* Introduces deterministic policy gradient algorithms for RL with continuous actions [^Silver_2014]
+
+[^Silver_2014]: Silver, et al. (2014) [“Deterministic policy gradient algorithms."](https://hal.inria.fr/file/index/docid/938992/filename/dpg-icml2014.pdf) 
 # Links
 * [[Off Policy Prediction and Control with Approximation]]
 * [[Policy Gradient Methods]]
