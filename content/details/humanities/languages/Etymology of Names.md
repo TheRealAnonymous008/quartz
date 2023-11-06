@@ -1,6 +1,11 @@
+* **Natialie** - pertaining to birth (particularly Christmas)
+* **Chloe** - young green shoot. 
+* **Cloris** - greenness or freshness. 
+* **Noel** - pertaining to birth (of Christ)
 * **Aberdeen*** - (lit) mouth of the river Don.
 * **Akron** - at the furthest point
 * **Alsace** - (lit) the other one who sits.
+* **Antigone** - opposite of childbirth -- in place of a mother.
 * **Apollyon** - to destroy utterly.
 * **Asmodeus** - "Aeshma the deceitful", Aeshma pertains to anger. So the name literally translates to "Anger demon"
 * **Barnard** - (lit) Bear-hold

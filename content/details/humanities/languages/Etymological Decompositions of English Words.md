@@ -84,6 +84,7 @@
 * **Apothecary** - (lit) a place where things are put away.
 * **Apotheosis** - (lit) make into god
 * **Aquifer** - (lit) one who carries water)
+* **Arsenic** - gold colored 
 * **Artery** - windpipe, pertaining to the observation of the ancients that they do not contain blood after death.
 * **Artifact** - a thing made by skill
 * **Atoll** - interior
@@ -120,6 +121,7 @@
 * **Beleaguer** - to camp around (in order to blockade or besiege)
 * **Beluga** - (lit.) white whale.
 * **Beneficial** - well doing, pertaining to a good deed
+* **Benign** - (lit) well born
 * **Berserk** - (lit) a warrior clothed in bearskin. 
 * **Betray** - to hand over.
 * **Betroth** - "be true". A thorough pledge
@@ -164,6 +166,9 @@
 * **Certify** - to make certain
 * **Chafe** - to make warm.
 * **Chauffer** - (lit) stroker. One who operates a steam engine by heating it up.
+* **Chlorine** - pale green 
+* **Cholera** - gall or bile. (hist) was attributed to be the cause of melancholy via the Four Humors 
+* **Cholesterol** - still bile (hist) originally found in gall stones
 * **Circadian** - round about the day
 * **Circuit** - to go around
 * **Circumference** - to lead around (in a circle).
@@ -172,6 +177,7 @@
 * **Coalesce** - (lit) grow together.
 * **Cockney** - cock's egg, derisively used for town dweller.
 * **Coelacanth** - hollow spine.
+* **Cognate** - born together
 * **Coitus** - to go together (sexually). 
 * **Combination** - put two together
 * **Commence** - (lit) a going in. To go into.
@@ -181,6 +187,7 @@
 * **Confer** - to bear together (pertaining to deliberating or talking over)
 * **Confess** - to admit together (aka to acknowledge)
 * **Conflate** - to blow together (originally pertained to casting something into molten metal).
+* **Congenital** - beget together 
 * **Conifer** - (lit) cone bearing
 * **Conjecture** - to throw together (as in for an interpretation of something)
 * **Constable** - (lit) count of the stable
@@ -190,6 +197,7 @@
 * **Corpulent** - (lit) full body. Pertaining to a body that is fully of flesh or fat
 * **Corpuscle** - small bodies
 * **Corset** - something wrapped around a body
+* **Cosmogony** - the birth of the universe 
 * **Counterfeit** - to make against (as in to imitate)
 * **Count** - (nobility) - to go with (as in a companion to) a great person 
 * **Covert** - (lit). covered / hidden
@@ -203,6 +211,7 @@
 * **Defect** - to make away (as in to flee)
 * **Defer** - to carry away from
 * **Defray**- to spend out (due to costs caused by damages). Alternatively, a cost for peace.
+* **Degenerate** - to be born off (as in to be inferior)
 * **Deify** - to put as a god. To make a god
 * **Demagogue** - leader of the common people.
 * **Deodand** - (lit) a thing to be given to God
@@ -265,6 +274,7 @@
 * **Envoy** - one sent on his way.
 * **Envy** - to look at and cast an evil eye upon (literally see upon)
 * **Ephor** - oversee
+* **Epigone** - born afterward. 
 * **Epiphany** - to manifest, display, show off, come to view suddenly
 * **Episode** - an addition
 * **Epithet** - to add on to something
@@ -272,6 +282,7 @@
 * **Esoteric** - belonging to an inner circle
 * **Essay** - to set out in motion
 ### EU - EZ
+* **Eugenics** - to be well-born (as in of noble race)
 * **Euphemism** - to speak with fair words
 * **Euphoria** - (lit) bearing well
 * **Exact** - (lit) to force out
@@ -320,9 +331,30 @@
 * **Fractal** - interrupted, literally broken.
 * **Fumigation** - (lit) to drive out smoke
 * **Furtive** - to steal / stolen
-### G
+### GA - GJ
 * **Garment** - (lit) covering
 * **Garnish** - (lit) covering
+* **Gendarme** - (lit) men at arms
+* **Gender** - kind
+* **General** - pertaining to a whole kind.
+* **Generous** - of noble birth
+* **Genital** - pertaining to the organs of generation
+* **Genius** - generative or inborn power.
+* **Genocide** - the killing of a kind
+* **Genteel** - high-born or noble.
+* **Gentle** - of noble or good birth.
+* **Gentry** - noble or of good family 
+* **Germ** - (pertaining to buds) - spring offshoot 
+* **Gingerly** - well-born / dainty
+### GJ - GZ
+* **Glad** - pertaining to smooth and bright. Pertaining to something shining 
+* **Glance** - to slip or make slippery
+* **Glare** - to shine
+* **Glass** - shining material. Also connotes materials that shine bright colors.
+* **Glee** - shining. joyous and radiant. 
+* **Glitch** - to slip or to glide. 
+* **Gonad** - seed that which engenders birth
+* **Gonorrhea** - flow of seed (hist. mucus discharge was mistaken for semen)
 * **Grief** - weighty (as in pertaining to a feeling)
 * **Guru** - someone venerable or worthy of honor
 ### H
@@ -349,6 +381,7 @@
 * **Impromptu** - (lit) in readiness
 * **Incumbent** - to recline on (pertaining to applying oneself)
 * **Indeed** - in reality
+* **Indigenous** - to be born in a place  
 * **Industry** - (lit) to build within. Diligent
 * **Ineffable** - cannot be uttered or spoken out
 * **Infamous** - not celebrated. to be without reputation
@@ -357,6 +390,8 @@
 * **Infect** - to put in to.
 * **Infer** - to draw in (as in to conclude)
 * **Influence** - flowing out of (the source pertains to something ethereal or vaporous).
+* **Ingenious** - that which is inborn. 
+* **Ingenuous** - born in a place. pertaining to a native
 * **Ingenuous** - (lit) born in a place. Pertaining to nobility in particular
 * **Ingest** - (lit) to carry into
 * **Initial** - (lit) to go into, to begin
@@ -373,10 +408,15 @@
 * **Itinerary** - a roadbook, a log of one's journey. 
 ### J
 * **Janitor** - doorkeeper
+* **Jaundice** - yellowness. 
+* **Jaunty** - genteel 
 * **Journal** - that which takes place daily.
 * **Journey** - a day's work or travel. Of one day.
 ### K
 * **Kerchief** - (lit) head covering.
+* **Kermes** - worm
+* **Kindergarten** - (lit) garden of children 
+* **King** - (possibly) leader of people; (possibly) noble birth 
 ### L
 * **Legerdemain** - light handed
 * **Leprechaun** - a very small body. Alternatively pertaining to "little Lupercus" or little wolf.
@@ -393,6 +433,7 @@
 * **Mahayana** - (lit) great vehicle
 * **Maintain** - hold in the hand
 * **Malaria** - (lit) bad air
+* **Malign** - badly born. 
 * **Malversation** - to turn wrongly (as in to behave ill).
 * **Mandate** - (lit) to give into one's hand. 
 * **Manifest**- caught by hand.
@@ -403,19 +444,26 @@
 * **Mauvais** - (lit) one with a bad lot.
 * **May** - "am able"
 * **Mediocre** - (fig.) Halfway up a mountain, (lit.) Middle of the peak point.
+* **Melancholy** - (lit) in excess of black bile 
 * **Mellifluous** - flowing with (or as if with) honey.
 * **Meridian** - Middle Day (as in of midday or noon)
 * **Metaphor** - (lit) a carrying over. a transfer of meaning from one word to a different word.
 * **Meteor** - (lit) something high up.
 * **Midriff** - middle of the body.
 * **Milieu** - Middle place (as in the middle of the environment)
+* **Miscegenation** - mixed race.
 * **Mitigate** - (lit) to make soft, to drive out softly
 * **Mystagogue** - leader of mystery
 ### N
+* **Nada** - thing (just) born. pertaining to a small ,insignificant thing.
+* **Naive** - not artificial; native; natural
+* **Nation** - that which has been born
+* **Nature** - birth (pertaining to the essence of life)
 * **Navigate** - to lead / drive with a ship.
 * **Nefarious** - Not Lawfully or Divinely spoken
 * **Neglect** - Not Picked up or selected
 * **Nepenthe** - No Pain or Grief.
+* **Nightingale** - one that calls at night. 
 * **Notify** - to make known
 ### O
 * **Obituary** - (lit) to go towards, pertaining to meeting the dead.
@@ -453,7 +501,7 @@
 * **Phlegm** - (lit) inflammation, flame, fire, heat
 * **Phoresy** - being carried around
 * **Phosphorus** - light bringing / torch-bearer (i.e., the morning star)
-### PK - PZ
+### PK - PO
 * **Plain** - flat / smooth (as in pertaining to a dress, and later intonation and character).
 * **Planet** - wandering stars. 
 * **Plasma** - to spread thin  (in order to mold)
@@ -463,14 +511,19 @@
 * **Polyp** - filled foot (i.e., pertaining to a cuttlefish.)
 * **Pontifex** - (lit) bridge maker. Bridge making is historically regarded as sacred.
 * **Portfolio** - (lit) leaf one carries (leaves pertain to documents)
+### PR - PT
 * **Praetor** - (lit) one who goes before
 * **Preface** - something that is said beforehand (pertaining to the opening of Mass)
 * **Prefer** - to put before or in front
+* **Pregnant** - with child / (lit) before birth
+* **Primogenitor** - first in order at time. First father
 * **Prodigal** - to drive away or waste
 * **Profane** -to render unholy. to desecrate
 * **Profess** - to declare openly, to speak forth
 * **Proficient** - to make progress / be useful
 * **Profit** - to make progress 
+* **Progenitor** - one that births forth (an  ancestor)
+* **Progeny** - one that is birthed forth (a child)
 * **Proliferation** - to have grown forth/ / the process of growing forth.
 * **Prolific** - to have grown forth/ / the process of growing forth.
 * **Prophet** - to speak before. Pertaining to someone who speaks before someone on behalf of a god.
@@ -479,7 +532,9 @@
 * **Prosthesis** - to put something additional
 * **Protagonist** - first actor
 * **Prudent** - to look ahead (as in, someone who looks ahead or act deliberately with foresight)
+### PU - PZ
 * **Punch** - (the drink). Five in reference to the five supposed ingredients (citrus juice, water, spirits, sugar and spice)
+* **Puny** - after this; hereafter (pertaining to being born after or younger)
 * **Purge** - to drive to purity
 * **Pylorus** - (lit) gate watcher / guardian
 * **Pyracanth** - fiery thorny plant.
@@ -503,7 +558,7 @@
 * **Revere** - to stand in awe. 
 * **Rhabdomancy** - divination by means of a rod
 * **Rhapsody** - (lit) stitched together songs.
-### S
+### SA - ST
 * **Sacrifice** - to do sacred rites
 * **Samadhi** - (lit) a putting or joining together
 * **Samizdat** - (lit) self giving / self publishing
@@ -532,6 +587,7 @@
 * **Suffrage** - shout under (i.e., in support of someone).
 * **Supply** - to fill from below (as in to support)
 * **Surrender** - to give back over (to give up)
+### SU - SZ
 * **Sycophant** - one who shows the fig (in the insulting sense)
 * **Synallagmatic** - (lit) together in thing taken in exchange (pertaining to a contract)
 * **Synopsis** - to view together (as in to get a general view or outline)
@@ -586,7 +642,11 @@
 * **Worth** - (lit) to turn into. 
 * **Wreath** - (lit) that which is wound around
 * **Wrist** - the turning joint.
+* **Wunderkind** - (lit) wonder-child 
 ### X
 ### Y
+* **Yellow** - shining 
+* **Yell** - to resound; to sing. 
+* **Yelp** - to cry out in arrogance.
 * **Yeoman** - young man / villager
 ### Z

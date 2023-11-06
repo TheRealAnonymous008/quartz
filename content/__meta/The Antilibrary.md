@@ -23,3 +23,4 @@
 
 # Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 
+* [Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)

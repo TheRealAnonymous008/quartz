@@ -1,5 +1,6 @@
 # Topics
 * [[The Art of War]]
+* [[The Clausewitzian War]]
 
 * [[The Military and its Organization]]
 * [[Military Battles]]

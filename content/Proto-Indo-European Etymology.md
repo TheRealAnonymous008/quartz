@@ -137,9 +137,20 @@
 	* towards
 * [Erkw](https://www.etymonline.com/word/Rig%20veda#etymonline_v_15075)  ***
 	* to radiate / beam / praise
+* [Gene](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) 
+	* To give birth. 
+	* Pertaining to birth and ancestry
+	* Pertaining to race and kind 
+	* To beget 
 * [Geus](https://www.etymonline.com/word/*geus-?ref=etymonline_crossreference) 
 	* to taste / pertaining to taste.
 	* to choose / pertaining to choice
+* [Ghel](https://www.etymonline.com/word/*ghel-?ref=etymonline_crossreference#etymonline_v_52720) 
+	* to call 
+	* to shine bright 
+	* pertaining to yellow and green. 
+	* pertaining to bile 
+	* pertaining to gold 
 * [Gno](https://www.etymonline.com/word/*gno-?ref=etymonline_crossreference) 
 	* to known
 	* to become known / aware
@@ -243,8 +254,6 @@
 [^1]: It's amusing how this PIE word corresponds to both white and black. 
 
 # Future PIE
-* [Gene](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) - give birth / beget
-* [Ghel](https://www.etymonline.com/word/*ghel-?ref=etymonline_crossreference#etymonline_v_52720) - to call / to shine bright.
 * [Gher](https://www.etymonline.com/word/*gher-?ref=etymonline_crossreference#etymonline_v_52749) - to grasp / enclose / to like / want
 
 * [Ghere](https://www.etymonline.com/word/*ghere-?ref=etymonline_crossreference) - gut / entrail
@@ -317,6 +326,7 @@
 * [Klau](https://www.etymonline.com/word/*klau-) - hook, crook or forked branch
 * [Kwo / Kwi](https://www.etymonline.com/word/*kwo-)  - stem of relative and interrogative pronouns
 * [Leuk](https://www.etymonline.com/word/*leuk-) - light / brightness
+* [Meik](https://www.etymonline.com/word/*meik-) - to mix
 * [Mel](https://www.etymonline.com/word/*mel-#etymonline_v_53241) - soft / strong or great / false, bad, wrong
 * [Mele](https://www.etymonline.com/word/*mele-) - to crush / grind
 * [No-men](https://www.etymonline.com/word/*no-men-) - name

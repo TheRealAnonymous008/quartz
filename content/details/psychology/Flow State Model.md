@@ -17,4 +17,4 @@
 ![[Flow State.png]]<figcaption> Flow State Model. Image from  Oliverbeatson. See https://en.wikipedia.org/wiki/File:Challenge_vs_skill.svg </figcaption>
 
 # Links
-* [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 24]]
+* [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]] - Ch. 24
