@@ -9,6 +9,8 @@
 	* The trick to making something "original" is to take inspiration, to learn the history of the craft.
 	* *Understand the design decisions of others*. While [[The 48 Laws of Power#7. Get Others To Do The Work For You But Always Take The Credit|we may take inspiration from others]], when doing so take note of why those design or aesthetic decisions were made. [^7]
 	* *Give me the same thing but different*. 
+* *Inspiration comes from everywhere else*. Which is to say, we may imitate others but we cannot imitate inspiration. Inspiration comes from one's own perspective and how one applies that perspective to their art.  [^12]
+	* Brainstorming tips are given [[Lenses for Game Design - Notes#The Game Begins with an Idea|here]]. 
 # The Process
 ## The Workflow
 * The best way to get started is to *just start*. You needn't wait for inspiration to hit. Keep going by creating what you would enjoy.
@@ -63,3 +65,4 @@
 [^9]: [[101 Things I Learned in Architecture School]] Item 98
 [^10]: [[__links/books/Story by Robert McKee|McKee Ch. 3]]
 [^11]: [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman Ch. 1]] - they describe it as Rules, Play and Culture respectively.
+[^12]: [[The Art of Game Design -- A Book of Lenses by Schell|Schell Ch. 7]] - begins with a recounting that changed the author's perspective on Creativity forever.

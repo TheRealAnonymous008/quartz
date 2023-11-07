@@ -85,5 +85,27 @@
 * When I describe my game to people, what ideas get them really excited?
 * If I had no constraints of any kind, what would this game be like?
 * I have certain instincts about how this game should be. What is driving those instincts?
+
+### 13. Infinite Inspiration 
+* What is an experience I have had in my life that I would want to share with others?
+* In what small way can I capture the essence of that experience and put it into my game?
+* Synergizes with [[#2. Essential Experience]]. 
+
+### 14. The Problem Statement 
+* Think of the game as the solution to a problem. 
+* Define the constraints and goals of the game. 
+
+* What problem, or problems, am I really trying to solve?
+* Have I been making assumptions about this game that really have nothing to do with its true purpose?
+* Is a game really the best solution? Why?
+* How will I be able to tell if the problem is solved?
+
+### 15. The Eight Filters 
+
+### 16. Risk Mitigation 
+
+### 17. The Toy
+
+### 18. Passion 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]]

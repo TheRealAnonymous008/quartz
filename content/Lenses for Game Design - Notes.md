@@ -49,6 +49,37 @@
 * *The best theme is a theme that [[details/creativity/writing/Story by Robert McKee|resonates]] with players*. Those that are archetypal and universal and they elevate the game.
 * Themes operate on the subconscious level. It is about focusing the experience to something important to the players. 
 * Relevant lenses: [[Lenses for Game Design - Lenses#11. Unification|Unification]], [[Lenses for Game Design - Lenses#12. Resonance|Resonance]].
+
+### The Game Begins with an Idea 
+* [[Creativity|Inspiration comes from everywhere else]]. Find one key emotional experience to build your game around.
+* Fall in love with the problem, not the solution. The first step to the game design problem is to recognize there is a problem.
+* Pay attention to your subconscious mind. It is your friend when it comes to creativity [^idea_1]
+	* Pay Attention to yourself -- your thoughts, feelings and dreams.
+	* Record your ideas all the time. 
+	* Manage the subconscious mind's appetites judiciously. It cannot operate when it obsesses over something extensively. 
+	* Sleep
+	* Don't Push Too Hard. Don't expect immediate answers from the subconscious. 
+* **Brainstorming Tips**
+	* Write down the solutions that immediately pop into your brain. This frees up mental bandwidth for other ideas. 
+	* Sketch. Draw some pictures and express your ideas visually. 
+	* Use toys. Play with toys to engage with creativity visually and in a tactile way.
+	* Change your perspective (i.e., your environment)
+	* Immerse yourself in the problem 
+	* Crack jokes to loosen your mind (but make sure to reorient yourself).
+	* Spare no expense. Don't let materials get in the way of brainstorming.
+	* Keep records of your ideas. That way they can easily be retrieved. Exploit the fact we have good spatial memory. 
+	* Don't wait for the "one" idea, write everything down, even the stupid ideas.
+	* Challenge and destroy your assumptions. Innovation can come from removing your assumptions. 
+	* Mix and match categories .
+	* Talk to yourself or with a partner. Bounce ideas off of someone. 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#13. Infinite Inspiration|Infinite Inspiration]], [[Lenses for Game Design - Lenses#14. The Problem Statement|Problem Statement]]
+
+[^idea_1]: The book alludes to a power nap technique by Dali who slept with a key in hand and a plate to catch the key. When the key dropped, it would make a sound to awake Dali. 
+### The Game Improves through Iteration 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#15. The Eight Filters|Eight Filters]], [[Lenses for Game Design - Lenses#16. Risk Mitigation|Risk Mitigation]], [[Lenses for Game Design - Lenses#17. The Toy|The Toy]], [[Lenses for Game Design - Lenses#18. Passion|Passion]]
+
 # Links
 * [[Lenses for Game Design - Lenses]] - a separate listing for the lenses.
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

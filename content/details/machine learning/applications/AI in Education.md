@@ -17,7 +17,7 @@
 * Deep Natural Language Understanding and Automatic Feedback Generation for Intelligent Tutoring in Basic Electricity and Electronics. [^Dzikovska_2014]
 	* Introduces Beetle II - a rule-based system that facilitates learning for a complex topic (electronics) by allowing students to experiment and by giving elaborative feedback via a symbolic NLP system coupled with domain knowledge.
 
-[^Dzikovska_2014]: Dzikovska, M., Steinhauser, N., Farrow, E., Moore, J., & Campbell, G. (2014). [BEETLE II: Deep Natural Language Understanding and Automatic Feedback Generation for Intelligent Tutoring in Basic Electricity and Electronics](https://doi.org/10.1007/s40593-014-0017-9)
+[^Dzikovska_2014]: Dzikovska, M., et al.  [BEETLE II: Deep Natural Language Understanding and Automatic Feedback Generation for Intelligent Tutoring in Basic Electricity and Electronics](https://doi.org/10.1007/s40593-014-0017-9)
 
 * Robot Tutoring: On the Feasibility of Using Cognitive Systems as Tutors in Introductory Programming Education: A Teaching Experiment [^Muller_2018]
 	* Cognitive systems like IBM Watson can only replace tutors (used to answer common questions) in a limited fashion, especially when they are deterministic, and unable to infer intent.
@@ -32,12 +32,12 @@
 * Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference [^Wu_2018]
 	* Introduces Rubric Sampling. It generatively infers how likely a student response is given some misconceptions about the topic.
 
-[^Wu_2018]: Wu, M., Mosse, M., Goodman, N., & Piech, C. (2018). [Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference](http://arxiv.org/abs/1809.01357)
+[^Wu_2018]: Wu, M., et al. (2018). [Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference](http://arxiv.org/abs/1809.01357)
 
 * Inferring Concept Prerequisite Relations from Online Educational Resources [^Roy_2019]
 	* PREREQ Paper. It aims to infer pre-requisite relations between particular concepts based on data gathered from MOOCs.
 
-[^Roy_2019]: Roy, S., Madhyastha, M., Lawrence, S., & Rajan, V. (2019). [Inferring Concept Prerequisite Relations from Online Educational Resources](http://arxiv.org/abs/1811.12640) 
+[^Roy_2019]: Roy, S., et al. (2019). [Inferring Concept Prerequisite Relations from Online Educational Resources](http://arxiv.org/abs/1811.12640) 
 
 * Generating Response-Specific Elaborated Feedback Using Long-Form Neural Question Answering [^Olney_2021]
 	* Studies how to retrieve documents to provide elaborative feedback to students, and how to post-process this feedback.
@@ -58,7 +58,7 @@
 * C3-IoC: A Career Guidance System for Assessing Student Skills using Machine Learning and Network Visualisation [^Garcia_2022]
 	* Introduces C3-IoC, a career guidance system for IT which enables users to identify their hard and soft skills as well as where they land in the job landscape.
 
-[^Garcia_2022]: José-García, A., Sneyd, A., Melro, A., Ollagnier, A., Tarling, G., Zhang, H., Stevenson, M., Everson, R., & Arthur, R. (2022). [C3-IoC: A Career Guidance System for Assessing Student Skills using Machine Learning and Network Visualisation](https://doi.org/10.1007/s40593-022-00317-y)
+[^Garcia_2022]: José-García, A., et al. [C3-IoC: A Career Guidance System for Assessing Student Skills using Machine Learning and Network Visualisation](https://doi.org/10.1007/s40593-022-00317-y)
 
 * Survey for Smart and Adaptative Education [^Bezerra_2022]
 	* Conducts a survey on how Artificial Intelligence has been used to make a smarter and more adaptive education system. AI allows education systems to be more adaptive and interactive.
