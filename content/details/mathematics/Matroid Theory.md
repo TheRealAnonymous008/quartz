@@ -13,7 +13,7 @@
 # Notation Guide 
 * $M$ - a generic matroid 
 * $M^\ast$ - matroid dual 
-<br>
+*****
 * $E$ - the underlying set of a matroid.
 * $C$ - cycle (default), co-independent set
 * $C^\ast$ - cocycle
@@ -23,12 +23,12 @@
 * $r(A)$ - rank of $A$.
 * $r$ - rank function 
 * $r^\ast$ - rank function of the dual 
-<br> 
+*****
 * $M(G)$ - graphic matroid
 * $M^\ast(G)$ - cographic matroid. 
 * $M(\mathcal{F})$ - Transversal Matroid 
 * $U_n^k$ - $k$-uniform matroid over a set of $n$ elements
-<br> 
+*****
 * $M.A$ - Matroid contraction 
 * $M\times A$ - Matroid restriction
 * $M_1\cup M_2$ - union of two matroids
