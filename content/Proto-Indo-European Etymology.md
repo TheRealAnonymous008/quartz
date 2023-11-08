@@ -151,6 +151,17 @@
 	* pertaining to yellow and green. 
 	* pertaining to bile 
 	* pertaining to gold 
+* [Gher](https://www.etymonline.com/word/*gher-?ref=etymonline_crossreference#etymonline_v_52749) 
+	* to grasp 
+	* to enclose 
+	* pertaining to gardening or gardens 
+	* pertaining to courts.
+	* to like 
+	* to want
+	* to urge
+* [Ghere](https://www.etymonline.com/word/*ghere-?ref=etymonline_crossreference) 
+	* guts / entrails
+	* pertaining to strings
 * [Gno](https://www.etymonline.com/word/*gno-?ref=etymonline_crossreference) 
 	* to known
 	* to become known / aware
@@ -254,9 +265,6 @@
 [^1]: It's amusing how this PIE word corresponds to both white and black. 
 
 # Future PIE
-* [Gher](https://www.etymonline.com/word/*gher-?ref=etymonline_crossreference#etymonline_v_52749) - to grasp / enclose / to like / want
-
-* [Ghere](https://www.etymonline.com/word/*ghere-?ref=etymonline_crossreference) - gut / entrail
 * [Gwa](https://www.etymonline.com/word/*gwa-?ref=etymonline_crossreference) - to go / come
 
 * [Gwei](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) - to live
@@ -329,6 +337,7 @@
 * [Meik](https://www.etymonline.com/word/*meik-) - to mix
 * [Mel](https://www.etymonline.com/word/*mel-#etymonline_v_53241) - soft / strong or great / false, bad, wrong
 * [Mele](https://www.etymonline.com/word/*mele-) - to crush / grind
+* [Mendg](https://www.etymonline.com/word/*mendh-) - to learn
 * [No-men](https://www.etymonline.com/word/*no-men-) - name
 * [Op](https://www.etymonline.com/word/*op-) - to work, put in abundance
 * [Pekw](https://www.etymonline.com/word/*pekw-) - to cook / ripen

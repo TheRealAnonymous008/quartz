@@ -1,3 +1,9 @@
+* **Asgard** - the garden of the gods. 
+* **Hilda** - (lit) battle maid
+* **Hildegard** - (lit) protecting battle maid
+* **Midgard** - middle enclosure -- pertaining to the world of men.
+* **Terpsichore** - (lit) enjoyment of the dance
+* **Hortense** - garden
 * **Natialie** - pertaining to birth (particularly Christmas)
 * **Chloe** - young green shoot. 
 * **Cloris** - greenness or freshness. 

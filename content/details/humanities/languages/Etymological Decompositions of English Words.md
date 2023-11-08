@@ -155,20 +155,27 @@
 * **Burden** - that which is borne
 * **But** - near without (as in pertaining to something outside or an exception)
 * **Cache** - (lit) to collect together
-### CA - CJ
+### CA - CE
 * **Cacophony** - evil sound
 * **Carnival** - (lit) raising flesh. Pertaining to merrymaking before Lent. Also pertains to a folk saying "Flesh, Farewell"
+* **Carol** - (perhaps) a dance to the flute. 
 * **Castigate** - (lit) to purify by driving away (evil)
 * **Catheter** - a tool to send down
 * **Cation** - to go down
 * **Cauliflower** - (lit) cabbage flower
 * **Caviar** - pertaining to eggs
 * **Certify** - to make certain
+### CF - CJ
 * **Chafe** - to make warm.
+* **Charisma** - favor or divine gift. To be rejoiced at.
 * **Chauffer** - (lit) stroker. One who operates a steam engine by heating it up.
 * **Chlorine** - pale green 
 * **Cholera** - gall or bile. (hist) was attributed to be the cause of melancholy via the Four Humors 
 * **Cholesterol** - still bile (hist) originally found in gall stones
+* **Chordata** - having a spinal cord
+* **Chord** - (structure in animals resembling a string) Gut-string.
+* **Chorus** - a dance in a circle, or pertaining to an enclosed dancing floor, or pertaining to rejoicing. 
+* **Chrestomathy** - (lit) useful learning.
 * **Circadian** - round about the day
 * **Circuit** - to go around
 * **Circumference** - to lead around (in a circle).
@@ -178,6 +185,7 @@
 * **Cockney** - cock's egg, derisively used for town dweller.
 * **Coelacanth** - hollow spine.
 * **Cognate** - born together
+* **Cohort** - enclosed group.
 * **Coitus** - to go together (sexually). 
 * **Combination** - put two together
 * **Commence** - (lit) a going in. To go into.
@@ -192,6 +200,7 @@
 * **Conjecture** - to throw together (as in for an interpretation of something)
 * **Constable** - (lit) count of the stable
 * **Controversy** - to turn against
+* **Cord** - cat-gut. Intestine.
 * **Corporate** - to make into a body (as in corporations). to make into a corpse (as in corporal punishment)
 * **Corps** - body (as in a body of soldiers that are lead by a head)
 * **Corpulent** - (lit) full body. Pertaining to a body that is fully of flesh or fat
@@ -200,8 +209,11 @@
 * **Cosmogony** - the birth of the universe 
 * **Counterfeit** - to make against (as in to imitate)
 * **Count** - (nobility) - to go with (as in a companion to) a great person 
+* **Courtesan** - (lit) woman of the court.
+* **Court** - those assembled in the yard together. 
 * **Covert** - (lit). covered / hidden
 * **Cumber** - that which is carried together (as in a burden)
+* **Curtsy** - courtesy
 ### DA - DJ
 * **Daisy** - (lit.) sun's eye
 * **Data** - something given
@@ -288,6 +300,7 @@
 * **Exact** - (lit) to force out
 * **Exalt** - (lit) to make high.
 * **Examine** - (lit) to force out
+* **Exhort** - to thoroughly urge
 * **Exit** - (lit) to go out
 * **Expect** - to thoroughly look at (with anticipation)
 * **Extrovert** - to turn outside 
@@ -346,6 +359,7 @@
 * **Gentry** - noble or of good family 
 * **Germ** - (pertaining to buds) - spring offshoot 
 * **Gingerly** - well-born / dainty
+* **Girdle** - to gird (aka to enclose)
 ### GJ - GZ
 * **Glad** - pertaining to smooth and bright. Pertaining to something shining 
 * **Glance** - to slip or make slippery
@@ -355,6 +369,7 @@
 * **Glitch** - to slip or to glide. 
 * **Gonad** - seed that which engenders birth
 * **Gonorrhea** - flow of seed (hist. mucus discharge was mistaken for semen)
+* **Greedy** - hungry. Eagerly. (German) A passion for having.
 * **Grief** - weighty (as in pertaining to a feeling)
 * **Guru** - someone venerable or worthy of honor
 ### H
@@ -362,7 +377,10 @@
 * **Hamadryad**- nymph who dies together with the wood (pertaining to wood nymph fabled to die with her tree)
 * **Hamlet** - dwelling
 * **Hammer** - tool with a stone head
+* **Hangar** - enclosure near a house. 
 * **Hangar** - home and yard. enclosure near a house
+* **Harpsichord** - (lit) harp string
+* **Haruspex** - that who beholds via entrails.
 * **Haught** - (lit) high
 * **Haunt** - to bring home
 * **Hierophant** - one who shows sacred things
@@ -473,6 +491,7 @@
 * **Offer** - to bring to (a.k.a. to bring forward)
 * **Office** - (lit) work doing. A place for doing work
 * **Ombudsman** - man who is made aware of those in command.
+* **Orchard** - (lit)  vegetable garden 
 * **Orifice** - (lit) mouth making
 * **Ostracism** - Originated from an Athenian practice where the citizens each indicated the name of the man they wished banished by scratching it on a potsherd or tile (which comes from the PIE word for bone).
 * **Oval** - pertaining to an egg / egg-shape 
@@ -511,7 +530,6 @@
 * **Polyp** - filled foot (i.e., pertaining to a cuttlefish.)
 * **Pontifex** - (lit) bridge maker. Bridge making is historically regarded as sacred.
 * **Portfolio** - (lit) leaf one carries (leaves pertain to documents)
-### PR - PT
 * **Praetor** - (lit) one who goes before
 * **Preface** - something that is said beforehand (pertaining to the opening of Mass)
 * **Prefer** - to put before or in front
@@ -531,10 +549,11 @@
 * **Prospect** - to look forward
 * **Prosthesis** - to put something additional
 * **Protagonist** - first actor
+### PR - PT
 * **Prudent** - to look ahead (as in, someone who looks ahead or act deliberately with foresight)
-### PU - PZ
 * **Punch** - (the drink). Five in reference to the five supposed ingredients (citrus juice, water, spirits, sugar and spice)
 * **Puny** - after this; hereafter (pertaining to being born after or younger)
+### PU - PZ
 * **Purge** - to drive to purity
 * **Pylorus** - (lit) gate watcher / guardian
 * **Pyracanth** - fiery thorny plant.
@@ -558,11 +577,11 @@
 * **Revere** - to stand in awe. 
 * **Rhabdomancy** - divination by means of a rod
 * **Rhapsody** - (lit) stitched together songs.
-### SA - ST
 * **Sacrifice** - to do sacred rites
 * **Samadhi** - (lit) a putting or joining together
 * **Samizdat** - (lit) self giving / self publishing
 * **Sassafras** - (lit) rock breaking herb. 
+### SA - ST
 * **Satisfy** - to make enough
 * **Saxifrage** - (lit) rock breaking herb. 
 * **Sedition** - (lit) a going apart

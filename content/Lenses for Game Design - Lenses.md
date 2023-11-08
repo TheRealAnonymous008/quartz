@@ -101,11 +101,44 @@
 * How will I be able to tell if the problem is solved?
 
 ### 15. The Eight Filters 
+* Think of the game design problem as a constraint satisfaction problem. We are done with our design when at the very least we can answer the following questions. 
+
+* *Artistic Impulse* Does this game feel right?
+* *Demographics* Will the intended audience like this game enough? 
+* *Experience Design* Is this a well-designed game?
+* *Innovation* Is this game novel enough?
+* *Business and Marketing* Will this game sell?
+* *Engineering* Is it technically possible to build this game?
+* *Social Community* Does this game meet our social and community goals?
+* *Playtesting* Do the playtesters enjoy this game enough?
 
 ### 16. Risk Mitigation 
+* Stop thinking positively and start considering things that could go horribly wrong with the game.
+
+* What could keep this game from being great?
+* How can we stop that from happening?
 
 ### 17. The Toy
+* Stop thinking about whether your game is fun to play, and start thinking about whether it is fun to play with.
+
+* If my game had no goal, would it be fun at all? If not, how can I change that?
+* When people see my game, do they want to start interacting with it, even before they know what to do? If not, how can I change that?
+
+* Use this lens to either: 
+	* Identify the toy-like qualities to the game. 
+	* Identify how to invent and create new toys before even making the game. 
 
 ### 18. Passion 
+* At the end of each prototype, when you are carefully mitigating risks and planning what to do next, don’t forget to check how you feel about the game. 
+
+* Am I filled with blinding passion about how great this game will be?
+* If I’ve lost the passion, can I find it again?
+* If the passion isn’t coming back, shouldn’t I be doing something else?
+
+### 19. The Player 
+
+### 20. Pleasure 
+
+
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]]

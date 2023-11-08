@@ -30,6 +30,8 @@
 * **Gesundheit** - (German) good health, said in response to sneezing (akin to Bless You)
 * **Gnosis** - knowledge of spiritual matters; mystical knowledge
 
+* **Habsuchtig** - (German) literally translates to the sickness (passion) for having. In other words, greed.
+
 * **Kafkaesque** - having a nightmarishly complex, bizarre, or illogical quality. Marked by surreal distortion and a sense of looming danger.
 
 * **Lament** - a passionate expression of grief or sorrow, often in music, poetry, or song form. The grief is born of regret or mourning.

@@ -14,7 +14,10 @@
   $$
   |A|\le |\phi(A)|
   $$
-  
+## [[Transversal Theory]] Formulation 
+* Let $E$ b a non-empty finite set and $\mathcal{F}=\{S_1,\dots,S_m\}$ be a family of non-empty subsets of $E$. Then $\mathcal{F}$ has a transversal if and only if the union of any $k$ of the subsets $S_i$ contain at least $k$ elements.
+
+
 ## Halmos-Vaughan Proof
 * Trivially, for any subset $A\subseteq V_1$ must correspond to at least one vertex in $\phi(A)$ so the condition holds.
   
