@@ -116,6 +116,7 @@
 * Relevant lenses: [[Lenses for Game Design - Lenses#19. The Player|The Player]], [[Lenses for Game Design - Lenses#20. Pleasure|Pleasure]]
 
 ### The Experience is in the Player's Mind 
+
 * Relevant lenses: [[Lenses for Game Design - Lenses#21. Flow|Flow]]. 
 # Links
 * [[Lenses for Game Design - Lenses]] - a separate listing for the lenses.
