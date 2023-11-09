@@ -1,4 +1,4 @@
-* The lenses allow us to listen to our game better. 
+* The lenses allow us to listen to ourselves, the game, the player, the team, and the general culture better.
 
 ### 1. Emotion
 * Make sure the [[Games as Play#Play of Pleasure|feelings]] you create are the right ones. 

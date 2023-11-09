@@ -7,13 +7,7 @@
 *  [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman]] provide a broad typology of three possible descriptors (from narrowest to broadest)
 	* **Game Play** - the formalized interaction that occurs when players follow the rules of a game and experience its system through play
 		* [[The Fundamentals of Game Design|Games are a subset of play. Play is an element of games]].
-	* **Ludic Activities** - play activities that include not only games, but also non-game behaviors we think of as playing. We may categorize them as follows according to Callois' typology
-		* **Agon** - competitive play. Combat is artificially created and adversaries confront each other.
-		* **Alea** - chance based play. All games that are based on a decision independent of the player.
-		* **Mimicry** - role playing and make-believe play. One becomes an illusory character. The play of representation
-		* **Ilinx** - playing with the physical sensation, with the goal of momentarily destroying the stability of perception.
-		* **Paida** - wild, free-from improvisational play. 
-		* **Ludus** - rule bound, regulated formalized play.
+	* **Ludic Activities** - play activities that include not only games, but also non-game behaviors we think of as playing. We may categorize them as follows according to [[Players and Why We Play Games#Callois' Typology of Ludic Activities|Callois' Typology]]
 	* **Being Playful** - the idea of being in a playful state of mind. 
 		* *Play is latent in every human activity*. You can take inspiration for play behavior and contexts anywhere. 
 * **Transformative Play**  - a special case of play that occurs when the free movement of play alters the more rigid structure in which it takes shape.
@@ -49,24 +43,9 @@
 	* Designers create not just the game, but *the ways players enter the game*. This is a hurdle as players must do things that lie on the border of the circle before they can enter.
 	* In considering this seduction, we must consider all the formal, social, and cultural factors that contribute to experience.
 * *What is fun is a complex phenomenon*. But, we have the following typologies of pleasures to understand it.
-	* Leblanc's Typology (a bit ambiguous but has merit as an analytical tool)
-		* **Sensation** - games as sense pleasure
-		* **Fantasy** - games as make-believe
-		* **Narrative** - games as drama
-		* **Challenge** - games as an obstacle course.
-		* **Fellowship** - games as a social framework.
-		* **Discovery** - games as uncharted territory.
-		* **Expression** - games as self-discovery
-		* **Submission** - games as masochism -- the pleasure of submitting to the formal system.
-	* Apter's Typology
-		* **Exposure to Arousing Stimulation** - intense and overwhelming sensation.
-		* **Fiction and Narrative** - emotional arousal from character identification
-		* **Challenge** - difficulties and frustrations arising from competition.
-		* **Exploration** - moving off into new territory.
-		* **Negativism** - deliberate rule-breaking.
-		* **Cognitive Synergy** - imaginative play.
-		* **Facing Danger** - risk within the protective framework of play.
-	* Callois' Typology (see above)
+	* [[Players and Why We Play Games#Apter's Typology of Fun|Apter]] and [[Players and Why We Play Games#Leblanc's Typology of Fun|Leblanc's]] typologies can be used to analyze what is "fun" 
+	* Callois' Typology also applies.
+
 * We may also *consider the [[Flow State Model]]*. Ideally, we aim to achieve a flow state, something which games tend to produce because *meaningful play creates flow. Flow is one indicator of meaningful play.*. 
 
 * **Same but different** principle [^1]. A game provides the same consistent structure each time but a different experience every time it is played.
@@ -239,23 +218,7 @@
 	* Social interactions can be modified by actions taken in the game. Social roles transform as the game proceeds.
 	* Games can facilitate symbolic communication.
 
-* Within the system of social relationships, *players can assume a variety of roles*.  Players may be actors or counteractors
-* *Play emerges directly from the relationships between players*.
-* Sutton-Smith gives the following motives and what the actors / counter-actors perform:
-	* **Race** - to overtake / stay ahead
-	* **Chase** - to catch / elude
-	* **Attack** - to overpower / defend
-	* **Capture** - to take / avoid being taken
-	* **Harassment** - to tease, taunt or lure / to see through, move suddenly, or bide time.
-	* **Search** - to find / to hide
-	* **Rescue** - to spring prisoner / to guard against escape
-	* **Seduction** - to tempt another forbidden action / to resist.
-* Another typology from Bartle, applicable especially in MUDs. 
-	* **Achievers** - have the goal of point-gathering and rising in levels.
-	* **Explorers** - delight in having the game expose its internal machinations to them.
-	* **Socializers** - to them, the game is a common backdrop that facilitates interaction with others.
-	* **Killers** - impose themselves on others. 
-
+* [[Players and Why We Play Games#Sutton-Smith's Typology|Sutton-Smith's]] and [[Players and Why We Play Games#Bartle's Player Typology|Bartle's]] typologies pply
 
 * A **play community** occurs when a group of player gets together to play a game. The exact scale of the community depends on the game design problem you are trying to solve.
 	* Most play communities are informal, temporary affairs.

@@ -109,7 +109,10 @@
 * Relevant lenses: [[Lenses for Game Design - Lenses#15. The Eight Filters|Eight Filters]], [[Lenses for Game Design - Lenses#16. Risk Mitigation|Risk Mitigation]], [[Lenses for Game Design - Lenses#17. The Toy|The Toy]], [[Lenses for Game Design - Lenses#18. Passion|Passion]]
 
 ### The Game is Made for a Player
+* Remember that the game is made for an audience, a particular [[Players and Why We Play Games|demographic]]. *To create a great experience, you must know what your audience will and will not like. 
+* The aim is to be empathic. Understand the game from the perspective of the player. Immerse yourself in the target demographic. 
 
+* [[Players and Why We Play Games]]
 * Relevant lenses: [[Lenses for Game Design - Lenses#19. The Player|The Player]], [[Lenses for Game Design - Lenses#20. Pleasure|Pleasure]]
 
 
