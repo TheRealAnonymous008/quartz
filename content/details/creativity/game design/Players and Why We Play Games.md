@@ -7,14 +7,15 @@
 * **Ludus** - rule bound, regulated formalized play.
 
 # Leblanc's Typology of Fun 
-* **Sensation** - games as sense pleasure
+* **Sensation** - games as sensory pleasure
 * **Fantasy** - games as make-believe
-* **Narrative** - games as drama
+* **[[Narrative]]** - games as drama
 * **Challenge** - games as an obstacle course.
-* **Fellowship** - games as a social framework.
-* **Discovery** - games as uncharted territory.
-* **Expression** - games as self-discovery
-* **Submission** - games as masochism -- the pleasure of submitting to the formal system.
+* **Fellowship** - games as a social framework for cooperation and community
+* **Discovery** - games as exploring uncharted territory.
+* **Expression** - games as self-discovery and as opportunities for creating things.
+* **Submission** - games as masochism -- the pleasure of submitting to the formal system of the [[The Fundamentals of Game Design|magic circle]].
+
 # Apter's Typology of Fun 
 * **Exposure to Arousing Stimulation** - intense and overwhelming sensation.
 * **Fiction and Narrative** - emotional arousal from character identification
@@ -38,11 +39,17 @@
 	* **Seduction** - to tempt another forbidden action / to resist.
 
 # Bartle's Player Typology  
-* Another typology from Bartle, applicable especially in MUDs. 
-	* **Achievers** - have the goal of point-gathering and rising in levels.
-	* **Explorers** - delight in having the game expose its internal machinations to them.
-	* **Socializers** - to them, the game is a common backdrop that facilitates interaction with others.
-	* **Killers** - impose themselves on others. 
+* Another typology from Bartle, applicable especially in MUDs.  Some can be related to [[#Leblanc's Typology of Fun]]
+* **Achievers** - have the goal of point-gathering and rising in levels. They want to achieve the goals of the game. Their primary pleasure is challenge
+* **Explorers** - delight in having the game expose its internal machinations to them. Their primary pleasure is discovery. 
+* **Socializers** - to them, the game is a common backdrop that facilitates interaction with others. Their primary pleasure is fellowship.
+* **Killers** - impose themselves on others. This includes destructive goals (i.e., griefing) but also helping others.
+
+|         | Acting    | Interacting |
+| ------- | --------- | ----------- |
+| World   | Achievers | Explorers   |
+| Players | Killers   | Socializers     |
+
 
 # Typology by Age 
 * All play activities are connected to childhood. Childhood is centered around play. To create games for a particular age, *you must speak the language of their childhood.*
@@ -75,6 +82,21 @@
 | Single tasking                   | Multitasking                               |
 
 
+# Additional Pleasures to Consider 
+* From [[The Art of Game Design -- A Book of Lenses by Schell|Schell]]. 
+* **Anticipation** -  when you know pleasure is coming, just waiting is a kind of pleasure 
+* **Completion** - the pleasure in finishing something
+* **Schadenfreude** - delighting in another's pleasure, particularly in competitive games. 
+* **Gift giving** - making others happy through gifts.
+* **Humor** - Two unconnected things are suddenly united by a paradigm shift. It is hard to describe, but we all know it when it happens. Weirdly, it causes us to make a barking noise. [^1]
+* **Possibility** - the pleasure of having many [[Free Will|choices]].
+* **Pride** - the pleasure that persists long after the achievement was made. 
+* **Surprise** - [[General Story Writing Principles#Problem Keeping the Audience Surprised|keep the audience surprised]]
+* **Thrill**  -the experience of terror juxtaposed with security.
+* **Triumph** - the pleasure of accomplishing something that was difficult. 
+* **Wonder** - overwhelming feeling of awe and amazement leading to curiosity.
+
+[^1]: Directly extracted from Schell. It is a very humorous description for humor.
 # Links 
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
 * [[The Art of Game Design -- A Book of Lenses by Schell|Schell]]

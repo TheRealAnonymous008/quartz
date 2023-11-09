@@ -112,10 +112,11 @@
 * Remember that the game is made for an audience, a particular [[Players and Why We Play Games|demographic]]. *To create a great experience, you must know what your audience will and will not like. 
 * The aim is to be empathic. Understand the game from the perspective of the player. Immerse yourself in the target demographic. 
 
-* [[Players and Why We Play Games]]
+* [[Players and Why We Play Games]] is a good reference to consider for this. 
 * Relevant lenses: [[Lenses for Game Design - Lenses#19. The Player|The Player]], [[Lenses for Game Design - Lenses#20. Pleasure|Pleasure]]
 
-
+### The Experience is in the Player's Mind 
+* Relevant lenses: [[Lenses for Game Design - Lenses#21. Flow|Flow]]. 
 # Links
 * [[Lenses for Game Design - Lenses]] - a separate listing for the lenses.
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

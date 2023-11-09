@@ -52,7 +52,7 @@
 * What is the relationship between value in the game and the players’ motivations?
 
 ### 8 . Problem Solving
-* Think about the problems your players must solve to succeed at the game.
+* Think about the [[Puzzle|problems]] your players must solve to succeed at the game.
 
 * What problems does my game ask the player to solve?
 * Are there hidden problems to solve that arise as part of gameplay?
@@ -136,9 +136,29 @@
 * If the passion isn’t coming back, shouldn’t I be doing something else?
 
 ### 19. The Player 
+* Stop thinking about the game and start thinking about the player. 
+
+* In general, what do they like?
+* What don’t they like? Why?
+* What do they expect to see in a game?
+* If I were in their place, what would I want to see in a game?
+* What would they like or dislike about my game in particular?
+
+* Synergizes with [[#10. Holographic Design|Holographic Design]]. 
+* Even more useful than thinking about the player, is watching them play -- the more you observe, the more easily you'll be able to predict what they are going to enjoy.
 
 ### 20. Pleasure 
+* Think about the kinds of pleasure the game does and does not provide. 
+* The goal of a game is [[Games as Play#Play of Pleasure|pleasure]].  Go through [[Players and Why We Play Games|paradigms for pleasure]] and reflect on the game. 
+* Alternatively, take inspiration from unique, unclassified pleasures.
+
+* What pleasures does your game give to players? Can these be improved?
+* What pleasures are missing from your experience? Why? Can they be added?
+
+
+### 21. Flow
+* From the [[Flow State Model]].
 
 
 # Links
-* [[The Art of Game Design -- A Book of Lenses by Schell]]]
+* [[The Art of Game Design -- A Book of Lenses by Schell]]
