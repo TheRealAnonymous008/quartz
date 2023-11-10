@@ -36,6 +36,8 @@
 	* Use **perspective** to obstruct certain parts of the piece or to give a rich view that entices the imagination. Use **level of detail** (i.e., layers) to hide or show appropriate details that adds to the appreciation of the craft
 		* Both techniques frame the user's experience with the piece. Multiple perspectives or levels of detail give richness and depth.
 	* For temporal art, use **pacing**. [[Framing Effect|Save the best for last]], control anticipation.
+		* It is common in design to introduce cycles of tension and relaxation.
+		* In particularly interactive media, pacing correlates to traversing the [[Flow State Model|flow channel]].
 
 * Do not underestimate the *first principles* and *primitives* available to you. They are composable and give rise to rich expressions.
 	* *Define* the design problem in terms of its primitives to understand the problem better.

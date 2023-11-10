@@ -54,7 +54,7 @@
 * Within unity, induce as much variety as possible to make the story feel fresh. Touch on different aspects. Explore different perspectives. Add humor.
 
 ### Pacing
-* Remember: too much tension, the story feels chaotic. Too much relaxation, the story feels boring.
+* Remember: too much tension, the story feels chaotic. Too much relaxation, the story feels boring. This appears to be a pattern in [[Creativity|general]]
 * Pacing means to alternate between dramatic tension and relaxation. The story should not run with dramatic pressure held constant. 
 
 ### Rhythm and Tempo

@@ -159,6 +159,15 @@
 ### 21. Flow
 * From the [[Flow State Model]].
 
+* Does my game have clear goals? If not, how can I fix that?
+* Are the goals of the player the same goals I intended?
+* Are there parts of the game that distract players to the point they forget their goal? If so, can these distractions be reduced or tied into the game goals?
+* Does my game provide a steady stream of not-too-easy, not-too-hard challenges, taking into account the fact that the player’s skills may be gradually improving?
+* Are the player’s skills improving at the rate I had hoped? If not, how can I change that?
 
+### 22. Needs
+### 23. Motivation 
+### 24. Novelty 
+### 25. Judgment 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]
