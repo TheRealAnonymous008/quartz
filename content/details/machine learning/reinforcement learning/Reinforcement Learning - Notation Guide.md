@@ -22,6 +22,7 @@
 * $r(s,a,s')$ - expected immediate reward obtained on transitioning from $s$ to $s'$ via $a$
 *****
 * $p(s',r\mid s, a)$ - (hidden) environment dynamics. The probability of going to $s'$ and receiving reward $r$ by taking action $a$ from state $s$.
+* $p(s\to s',t)$ - probability of transitioning from $s$ to $s'$ at time step $t$.
 * $\pi$ - policy
 * $\beta(a\mid s)$ - in the context of off-policy learning, the behavior policy.
 * $\pi(s)$ - \action taken under (deterministic) policy $\pi$ at state $s$
@@ -72,6 +73,7 @@
 * $w,v$ - $d$ dimensional vector underlying an approximate value function.
 * $\hat{v}(s,w)$ - approximate value of state $s$  given parameters $w$.
 * $\hat{q},(s,a, w)$ - approximate value of action pair $s,a$ given $w$.
+* $V^w, Q^w$ - estimate parameterized with $w$
 * $x(s)$ - feature vector visible when in state $s$.
 * $x(s,a)$ - feature vector visible when in state-action pair
 * $z_t$ - eligibility trace
@@ -84,7 +86,12 @@
 * $\overline{\text{PBE}}(w)$ - mean squared Projected Bellman error.
 * $\overline{\text{TDE}}(w)$ - mean squared Temporal Difference error.
 * $\overline{\text{RE}}(w)$ - mean squared Return Error.
+* $Q^w, \mu^\theta$ - a critic and an actor in an actor-critic model.
 *****
 * $D_t$ - experience replay.
 * $e_t$ - an episode step 
 * $\beta(s,a)$ - behavior distribution 
+*****
+* $\mu_\theta$ - a deterministic policy parameterized with $\theta$. 
+* $\rho_0(s)$ - initial distribution over states in the context of DPG
+* $\rho^\mu(s)$ - discounted state distribution

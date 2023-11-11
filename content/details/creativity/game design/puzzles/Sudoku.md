@@ -86,6 +86,7 @@
 * **Parity** - adjacent digits must alternate in parity (even/odd)
 * **Same Difference** - each pair of adjacent digits on this line has the same difference
 * **Thermometer** - cells along the thermo increase starting from the bulb end.
+* **Zipper** - digits an equal distance from the center of the line must sum to the digit in the middle of the linee
 
 ### Meta Constraints
 * **Dense Fog** - cells are obscured by fog which hides clues on the grid. Placing the correct digit on a cell will reveal only that cell.

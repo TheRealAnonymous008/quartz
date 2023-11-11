@@ -166,8 +166,62 @@
 * Are the player’s skills improving at the rate I had hoped? If not, how can I change that?
 
 ### 22. Needs
+* Stop thinking about the game and start thinking about what basic human [[Models for Human Needs|needs]] it fulfills. 
+
+* On which levels of Maslow’s hierarchy is my game operating?
+* Does it fill the needs of competence, autonomy, and relatedness?
+* How can I make my game fill more basic needs than it already does?
+* For the needs my game is already filling, how can it fill those needs even better?
+
+* The game cannot just promise the need, it must deliver fulfillment of the need. 
+
 ### 23. Motivation 
+* Every game is a complex ecosystem of motivations 
+
+* What motivations do players have to play my game?
+* Which motivations are most internal? Which are most external?
+* Which are pleasure seeking? Which are pain avoiding?
+* Which motivations support each other?
+* Which motivations are in conflict?
+
 ### 24. Novelty 
+* What is novel about my game?
+* Does my game have novelties throughout or just at the beginning?
+* Do I have the right mix of the novel and the familiar?
+* When the novelty wears off, will players still enjoy my game?
+
 ### 25. Judgment 
+* The game is a good judge of the players. 
+
+* What does your game judge about the players?
+* How does it communicate this judgment?
+* Do players feel the judgment is fair?
+* Do they care about the judgment?
+* Does the judgment make them want to improve?
+
+### 26. Functional Space 
+* [[Architecture]] principles may be helpful here.
+
+### 27. Time 
+
+### 28. State Machine 
+* [[Finite Automata and Regular Languages|More on state machines here]].
+
+### 29. Secrets 
+
+### 30. Emergence 
+
+### 31. Action 
+
+### 32. Goals 
+
+### 33. Rules 
+
+### 34. Skills 
+
+### 35. Expected Value 
+* [[Random Variables and Probability Distributions|See more here]]. 
+
+### 36. Chance
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

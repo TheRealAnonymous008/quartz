@@ -126,7 +126,32 @@
 * Relevant lenses: [[Lenses for Game Design - Lenses#21. Flow|Flow]]. 
 
 ### The Player's Mind is driven by the Player's Motivation
+* Motivation is tied to the magic circle and the lusory attitude. [[Models for Human Needs|Models of Human Needs]] are useful to apply here. 
+	* *Perhaps the most important level for game design in Maslow's hierarchy is self-esteem.* We want the game to judge 
+* Another thing to consider is where Motivation comes from.
+	* **Extrinsic Motivation** - not of one's own volition to do it for its own sake 
+		* **External** - for payment.
+		* **Introprojected** - "Because I said I would"
+		* **Identified** - "Because I think it's important"
+		* **Integrated** - "Because I'm that kind of person"
+	* **Intrinsic Motivation** - because I feel like doing it for its own sake. 
+
+	* The act of adding extrinsic motivation to something that is already intrinsically motivating slides it towards externally motivating, draining the intrinsic motivation. 
+	* We can also *distinguish pain avoidance from pleasure seeking* When a game becomes motivated by pain-avoiding, it tends to feel less fun. 
+
+|          | Pain avoiding    | Pleasure Seeking |
+| -------- | ---------------- | ---------------- |
+| External | Avoid punishment | For rewards      |
+| Internal | Avoid shame      | For fun                 |
+
+* Another motivation is *novelty*. In particular *the novelty that makes us think in a new way*. 
+	* Note there is such a thing as being too novel -- being too much ahead of its time without having something familiar to ground it on, and relying solely on novelty and nothing else. 
+
 * Relevant lenses: [[Lenses for Game Design - Lenses#22. Needs|Needs]], [[Lenses for Game Design - Lenses#23. Motivation|Motivation]], [[Lenses for Game Design - Lenses#24. Novelty|Novelty]], [[Lenses for Game Design - Lenses#25. Judgment|Judgment]] 
+
+### Some Elements are Game Mechanics
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#26. Functional Space|Functional Space]], [[Lenses for Game Design - Lenses#27. Time|Time]], [[Lenses for Game Design - Lenses#28. State Machine|State Machine]], [[Lenses for Game Design - Lenses#29. Secrets|Secrets]], [[Lenses for Game Design - Lenses#30. Emergence|Emergence]], [[Lenses for Game Design - Lenses#31. Action|Action]], [[Lenses for Game Design - Lenses#32. Goals|Goals]], [[Lenses for Game Design - Lenses#33. Rules|Rules]], [[Lenses for Game Design - Lenses#34. Skills|Skills]], [[Lenses for Game Design - Lenses#35. Expected Value|Expected Value]], [[Lenses for Game Design - Lenses#36. Chance|Chance]]. 
 # Links
 * [[Lenses for Game Design - Lenses]] - a separate listing for the lenses.
 * [[The Art of Game Design -- A Book of Lenses by Schell]]
