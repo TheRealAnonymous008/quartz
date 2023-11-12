@@ -54,17 +54,6 @@
 	
 	These variants are about the presentation of a choice that will meaningfully impact the character's life and characterization
 
-# Topics
-* [[Character Tropes]] - tropes relating to characters, their motivations, personalities, and developments
-
-* [[Game Specific Tropes]] - tropes apparent in video games and not in any other media.
-
-* [[Setting Tropes]] - tropes relating to settings.
-
-* [[Narrative Tropes]] - tropes relating to the narrative and important story beats.
-	* [[Climactic Events]]
-
-* [[Theme Tropes]] - tropes relating to themes of the story, as well as morals.
 # Links
 * [Trope Talk by Overly Sarcastic Productions](https://www.youtube.com/watch?v=CSSL_0ddi3s&list=PLDb22nlVXGgcljcdyDk80bBDXGyeZjZ5e) - good jumping off point for common tropes found in literature.
 * [tvtropes](https://tvtropes.org) - an entire archive of tropes from various media (with examples)

@@ -157,7 +157,7 @@
 
 * **Cutscenes** are a way of leading players through the narrative space of a game, highlighting key moments. As a kind of narrative in miniature, cutscenes help fill out the larger narrative frame of the game to establish the fictive world of a game's story.
 	* They can allow a player to glimpse another part of the game space.
-	* They can work to catapult a player into a new situation (i.e., starting [[Beginning the Story (Tropes)|in media res]])
+	* They can work to catapult a player into a new situation (i.e., starting in media res)
 	* They can establish the mood of the game.
 	* They give designers the power to dramatically reveal the outcomes of a player's choices.
 	* They allow for [[Writing Story Scenes#Pacing|pacing and rhythm]], slowing down the action or hyping it up.

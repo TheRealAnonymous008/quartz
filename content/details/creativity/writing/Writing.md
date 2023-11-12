@@ -14,5 +14,5 @@
 * [The Style Sketchbook](https://www.youtube.com/watch?v=tnmZmpopv6w) 
 * [Write Like You Talk by Paul Graham](http://www.paulgraham.com/talk.html)
 * [Writing, Briefly by Paul Graham](http://www.paulgraham.com/writing44.html)
-* [Writing](https://www.youtube.com/watch?v=tnmZmpopv6w) - 
+* [Springhole](https://springhole.net/index.html) - blog on writing.
 

@@ -27,7 +27,7 @@ A broad listing of all the topics that I have made notes on. You can find more a
 </div>
 
 <div class="custom-index-card">
-	 <a href="/details/creativity/game-design">Game Design</a>
+	 <a href="/details/game-design">Game Design</a>
 	 <img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
 	<div class="custom-index-title"><span>G</span><span>Game Design</span></div>
 </div>
@@ -74,6 +74,7 @@ A broad listing of all the topics that I have made notes on. You can find more a
 	<div class="custom-index-title"><span>Ψ</span><span>Psychology</span></div>
 </div>
 </div>
+
 
 
 # Personal Section

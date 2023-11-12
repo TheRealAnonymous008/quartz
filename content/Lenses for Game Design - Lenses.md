@@ -200,28 +200,152 @@
 * Does the judgment make them want to improve?
 
 ### 26. Functional Space 
-* [[Architecture]] principles may be helpful here.
+* Think about the space in which the game really takes pace in when all surface elements are stripped away. 
+
+* Is the space of this game discrete or continuous?
+* How many dimensions does it have?
+* What are the boundaries of the space?
+* Are there subspaces? How are they connected?
+* Is there more than one useful way to abstractly model the space of this game?
+
+* Works well with [[#10. Holographic Design]] since we can match the functional space with the aesthetic space the player will experience. [[Architecture]] principles apply.
 
 ### 27. Time 
+* Experiences can be spoiled if they are too fast, too slow, too long or too short. 
+
+* What is it that determines the length of my gameplay activities?
+* Are my players frustrated because the game ends too early? How can I change that?
+* Are my players bored because the game goes on too long? How can I change that?
+* Would clocks or races make my gameplay more exciting?
+* Time limits can irritate players. Would I better off without time limits?
+* Would a hierarchy of time structures help my game? That is, several short rounds that together comprise a larger round?
 
 ### 28. State Machine 
 * [[Finite Automata and Regular Languages|More on state machines here]].
+* Think about what information changes during the game. 
+
+* What are the objects in my game?
+* What are the attributes of the objects?
+* What are the possible states for each attribute?
+* What triggers the state changes for each attribute?
+
+* States and attributes present information which is core to the mechanics of any game. 
 
 ### 29. Secrets 
+* Change who has what information and you change your game completely. Think about who knows what and why 
+
+* What is known by the game only?
+* What is known by all players?
+* What is known by some or only one player?
+* Would changing who knows what information improve my game in some way?
+
+* Who knows about what attributes can change over the course of the game. 
 
 ### 30. Emergence 
+* How many verbs do my players have?
+* How many objects can each verb act on?
+* How many ways can players achieve their goals?
+* How many subjects do the players control?
+* How do side effects change constraints?
 
 ### 31. Action 
+* What can the player do and not do and why? 
+
+* What are the basic actions in my game?
+* What are the strategic actions?
+* What strategic actions would I like to see? How can I change my game in order to make those possible?
+* Am I happy with the ratio of strategic to basic actions?
+* What actions do players wish they could do in my game that they cannot?
+* Can I somehow enable these, either as basic or strategic actions?
 
 ### 32. Goals 
+* What is the ultimate goal of my game?
+* Is that goal clear to players?
+* If there is a series of goals, do the players understand that?
+* Are the different goals related to each other in a meaningful way?
+* Are my goals concrete, achievable, and rewarding?
+* Do I have a good balance of short- and long-term goals?
+* Do players have a chance to decide on their own goals?
+
+* Synergizes well with [[#17. The Toy]] and [[#6. Curiosity]]. 
 
 ### 33. Rules 
+* What are the foundational rules of my game? How do these differ from the operational rules?
+* Are there “laws” or “house rules” that are forming as the game develops? Should these be incorporated into my game directly?
+* Are there different modes in my game? Do these modes make things simpler, or more complex? Would the game be better with fewer modes? More modes?
+* Who enforces the rules?
+* Are the rules easy to understand, or is there confusion about them? If there is confusion, should I fix it by changing the rules or by explaining them more clearly?
 
-### 34. Skills 
+* Since games are defined by their rules, give them time and consideration. 
+* Experimentation is key. 
+
+### 34. Skill 
+* Start looking at the skills you are asking of the players 
+
+* What skills does my game require from the player?
+* Are there categories of skill that this game is missing?
+* Which skills are dominant?
+* Are these skills creating the experience I want?
+* Are some players much better at these skills than others? Does this make the game feel unfair?
+* Can players improve their skills with practice, leading to a feeling of mastery?
+* Does this game demand the right level of skill?
+
+* Use this as a window to define the player experience. The [[#2. Essential Experience]].
 
 ### 35. Expected Value 
 * [[Random Variables and Probability Distributions|See more here]]. 
+* Think about the chance of different events occurring and what those mean to the player. 
+
+* What is the actual chance of a certain event occurring?
+* What is the perceived chance?
+* What value does the outcome of that event have? Can the value be quantified? Are there intangible aspects of value that I am not considering?
+* Each action a player can take has a different expected value when I add up all the possible outcomes. Am I happy with these values? Do they give the player interesting choices? Are they too rewarding, or too punishing?
+
+* The challenge of using it is finding a way to numerically represent everything that can happen to a player.
 
 ### 36. Chance
+* Focus on the parts that involve randomness and risk, keeping in mind they are not the same. 
+
+* What in my game is truly random? What parts just feel random?
+* Does the randomness give the players positive feelings of excitement and challenge, or does it give them negative feelings of hopelessness and lack of control?
+* Would changing my probability distribution curves improve my game?
+* Do players have the opportunity to take interesting risks in the game?
+* What is the relationship between chance and skill in my game? Are there ways I can make random elements feel more like the exercise of a skill? Are there ways I can make exercising skills feel more like risk taking?
+
+### 37. Fairness 
+
+### 38. Challenge 
+
+### 39. Meaningful Choices 
+
+### 40. Triangularity 
+
+### 41. Skill vs Chance 
+
+### 42. Heads and Hands 
+
+### 43. Competition 
+
+### 44. Cooperation 
+
+### 45. Competition vs Cooperation 
+* Obviously synergizes with [[#43. Competition]] and [[#44. Cooperation]]
+
+### 46. Reward 
+
+### 47. Punishment 
+
+### 48. Simplicity / Complexity 
+
+### 49. Elegance
+
+### 50. Character 
+
+### 51. Imagination 
+
+### 52. Economy 
+
+### 53. Balance 
+
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

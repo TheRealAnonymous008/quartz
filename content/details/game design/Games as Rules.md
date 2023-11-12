@@ -8,14 +8,7 @@
 	* Fixed. They do not change as a game is played. If they are modified, they are done so in a regulated manner determined by other fundamental rules.
 	* Binding. They are meant to be followed over the course of the game.
 	* Repeatable. Portable between setups of different players.
-* There are three kinds of rules
-	* **Operational** - the guidelines player require in order to play. The rules written out.
-		* It concerns external, representational events that impact player interactivity.
-	* **Constitutive** - the formal, logical, and mathematical structures underlying the game. The need not correspond to material form, but most likely correspond to relationships between items. 
-		* They are concerned with the events corresponding to processing player choice rather than events that represent the choice.
-	* **Implicit** - unwritten rules that concern etiquette, good sportsmanship and other implied rules of proper game behavior.
-		* It also includes underlying assumptions. *Questioning Implicit rules can give good design ideas*.
-	* *The Constitutive and Operational rules work together to generate the formal meaning of a game.*
+* [[Models for Game Rules#Salen and Zimmerman's Model|Salen and Zimmerman's model]] applies 
 * In order to play even the simplest games, the players must know and understand the rules: 
 	* The traditions associated with the game
 	* How to interpret the written rules

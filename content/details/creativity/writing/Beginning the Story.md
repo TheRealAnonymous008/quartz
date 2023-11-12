@@ -67,6 +67,5 @@
 * The Call can be used to hammer home the themes of *destiny being changeable and how heroes are formed.*
 
 # Links
-* [[Beginning the Story (Tropes)]] - list of actual tropes
 * **[Beginning](https://tvtropes.org/pmwiki/pmwiki.php/Main/BeginningTropes)**  - TVTropes Index for tropes relating to the Beginning of the Story.
 * **[Call To Adventure](https://tvtropes.org/pmwiki/pmwiki.php/Main/CallToAdventure)** - index for tropes relating to the Call to Adventure

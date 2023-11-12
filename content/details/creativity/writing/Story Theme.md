@@ -42,5 +42,3 @@
 
 # Links
 * [[__links/books/Story by Robert McKee|McKee Ch. 6]]
-
-* [[Theme Tropes]] - tropes relating to themes.
