@@ -167,6 +167,21 @@
 	* to become known / aware
 	* to make known
 	* well-known
+* [Gwa](https://www.etymonline.com/word/*gwa-?ref=etymonline_crossreference) 
+	* to go 
+	* to arrive or come 
+	* to meet
+	* to walk or step over
+* [Gwei](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) 
+	* to live 
+	* pertaining to life
+* [Gwele](https://www.etymonline.com/word/*gwele-?ref=etymonline_crossreference) 
+	* to throw
+	* to reach
+	* to pierce
+	* to dance
+	* pertaining to projectiles
+	* pertaining to killing 
 * [Gwhedh](https://www.etymonline.com/word/bead#etymonline_v_8196) *** 
 	* To pray
 * [Ghwer](https://www.etymonline.com/word/*ghwer-?ref=etymonline_crossreference) 
@@ -174,6 +189,12 @@
 * [Gwere](https://www.etymonline.com/word/*gwere-?ref=etymonline_crossreference#etymonline_v_53052) 
 	* heavy
 	* to favor
+* [Kap](https://www.etymonline.com/word/*kap-?ref=etymonline_crossreference) 
+	* to grasp
+	* to take  or accept
+	* to seize or catch 
+	* to hold
+	* to acquire
 * [Kom](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)  *** 
 	* with / together
 * [Ksun](https://www.etymonline.com/word/syn-#etymonline_v_24489) ***  
@@ -265,12 +286,6 @@
 [^1]: It's amusing how this PIE word corresponds to both white and black. 
 
 # Future PIE
-* [Gwa](https://www.etymonline.com/word/*gwa-?ref=etymonline_crossreference) - to go / come
-
-* [Gwei](https://www.etymonline.com/word/*gwei-?ref=etymonline_crossreference) - to live
-* [Gwele](https://www.etymonline.com/word/*gwele-?ref=etymonline_crossreference) - to throw / to reach / to pierce
-
-* [Kap](https://www.etymonline.com/word/*kap-?ref=etymonline_crossreference) - to grasp
 * [Kaput](https://www.etymonline.com/word/*kaput-?ref=etymonline_crossreference) - head
 * [Ked](https://www.etymonline.com/word/*ked-?ref=etymonline_crossreference) - to go / yield
 
@@ -283,6 +298,7 @@
 
 * [Leubh](https://www.etymonline.com/word/*leubh-?ref=etymonline_crossreference) - to care / desire / love
 
+* [Mak](https://www.etymonline.com/word/*mak-) - long / thin
 * [Me](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference#etymonline_v_52683) - to measure / to cut down grass or grain
 * [Mei](https://www.etymonline.com/word/*mei-?ref=etymonline_crossreference#etymonline_v_52688) - to change / to move / small
 * [Men](https://www.etymonline.com/word/*men-?ref=etymonline_crossreference#etymonline_v_53240) - to think, or pertaining to state of mind and thought / to project / to remain/ small, isolated
@@ -327,6 +343,8 @@
 * [Dhe](https://www.etymonline.com/word/*dhe-) - to set / put
 * [Dheu](https://www.etymonline.com/word/*dheu-#etymonline_v_53808) - dust, vapor, smoke
 * [Es](https://www.etymonline.com/word/*es-) - to be
+* [Gwher](https://www.etymonline.com/word/*gwher-) - to heat or warm 
+
 * [Kakka](https://www.etymonline.com/word/*kakka-) - to defecate
 * [Kel](https://www.etymonline.com/word/*kel-#etymonline_v_52556) - to cover / conceal / save / to be prominent / hill
 * [Kele](https://www.etymonline.com/word/*kele-#etymonline_v_52664) - warm. to shout
@@ -334,12 +352,14 @@
 * [Klau](https://www.etymonline.com/word/*klau-) - hook, crook or forked branch
 * [Kwo / Kwi](https://www.etymonline.com/word/*kwo-)  - stem of relative and interrogative pronouns
 * [Leuk](https://www.etymonline.com/word/*leuk-) - light / brightness
+* [Mei](https://www.etymonline.com/word/*mei-#etymonline_v_52689) - to change, go or move / to exchange goods /  small
 * [Meik](https://www.etymonline.com/word/*meik-) - to mix
 * [Mel](https://www.etymonline.com/word/*mel-#etymonline_v_53241) - soft / strong or great / false, bad, wrong
 * [Mele](https://www.etymonline.com/word/*mele-) - to crush / grind
 * [Mendg](https://www.etymonline.com/word/*mendh-) - to learn
 * [No-men](https://www.etymonline.com/word/*no-men-) - name
 * [Op](https://www.etymonline.com/word/*op-) - to work, put in abundance
+
 * [Pekw](https://www.etymonline.com/word/*pekw-) - to cook / ripen
 * [Pet/Peta](https://www.etymonline.com/word/*pet-) - to rush / fly
 * [Plak](https://www.etymonline.com/word/*plak-#etymonline_v_52839) - to be flat / to spread / to strike

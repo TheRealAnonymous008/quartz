@@ -1,18 +1,12 @@
 ### AA - AJ
-* **Abandon**  - at will / discretion (pertaining to yielding at will)
+* **Abandon**  - (yielding) at will / discretion
 * **Abitur** - to go away. to wish to leave (pertaining to an exam)
 * **Abject** - to throw away (as in because of poor quality)
 * **Ablaut** - (lit.) off-sound.
 * **Abolish** - away from growth / nourishment (to retard)
 * **Acacia** - thorny Egyptian tree.
 * **Acanthus** - thorny flower
-* **Accipeter** - having pointed wings
-* **Acerbic** - sharp taste.
-* **Acid** - sharp taste.
-* **Acne** - points
-* **Acrid** - sharp taste.
 * **Acrobat** - one who tiptoes / climbs up high.
-* **Acrostic** - (lit) outermost lines 
 * **Actuary** - (lit) a doing, pertaining to public businesses
 * **Acuity** - sharp like a needle
 * **Acumen** - sharp like a needle
@@ -22,12 +16,12 @@
 * **Adjacence** - to throw at (in order to lay close to something)
 * **Adjourn** - to another day.
 * **Adultery** - (lit) to alter / corrupt.
+* **Advent** - Arrival (pertaining to the savior)
+* **Adventure** - to come to or to reach
 * **Advice**  - "mi est visum" (in my view)
 * **Advise** - "mi est visum" (in my view) 
 * **Affable** - (lit) who can be easily spoken to
-* **Affair** - to do
 * **Affection** - to make do, as in to act on.
-* **After** - off (later) farther in time
 * **Agency** - to incite to action , keep in movement
 * **Agenda** - things to be done
 * **Aggravate** - to weigh down or make heavy.
@@ -37,12 +31,10 @@
 ### AK - AO
 * **Alias** - in another way 
 * **Alibi** - somewhere else
-* **Alien** - another / other / different.
 * **Allegory** - another assembly (agora)
 * **Allele** - another form
-* **Allergy** - another activity (pertaining to the immune system being hypersensitive to normally harmless substanc
+* **Allergy** - another activity, pertaining to the immune system being hypersensitive to normally harmless substance
 * **Alleviate** - to lighten a burden
-* **Ally** - To Bind Together (as in bind people in marriage)es).
 * **Alma Mater** - (lit) nourishing Mother
 * **Alone** - All One; All by oneself
 * **Altercation** - to dispute with the other (as in to speak alternately)
@@ -50,7 +42,6 @@
 * **Alumnus** - (lit) foster son
 * **Ambassador**- one who moves around (as in a diplomat)
 * **Ambience** - to go around
-* **Ambiguous** - (lit) to wander or go around (in the context of a debate)
 * **Ambition** - a going around, especially to solicit votes (praise / flattery)
 * **Ambulance** - (lit) moving hospital
 * **Amphictyonic** - (lit) they that dwell round about.
@@ -64,18 +55,15 @@
 * **Ancillary** -One who moves around (as in one who is subordinate or subservient)
 * **Andante** - suggestive of walking (as in to go slow)
 * **Anecdote** - to not give out / publish
-* **Anion** - to go up
-* **Anniversary** - returning annually
 * **Answer** - Swear Against (as in sworn statement rebutting a change)
 * **Antagonize** - to struggle against.
+* **Anticipate** - (lit) to take into possession beforehand. 
 * **Antidote** - given against (pertaining to a disease)
 * **Antiphon** - the voice in return (pertaining to being responsive)
 * **Aorta** - a strap to hang something (the heart) by.
 * **Apagoge** - to drive / lead away
 * **Apanthropy** - away from man 
 ### AP - AT
-* **Aperitif** - (lit) uncovering / opening. (pertaining to opening up one's appetite)
-* **Aperture** - (lit) opening (pertaining to holes)
 * **Apocalpyse** - off cover (as in pertaining to uncover or reveal via a Revelation)
 * **Apology** - speech away from me (as in pertaining to an account or story said in one's defense)
 * **Apophasis** - to speak away from (as in to deny)
@@ -83,10 +71,12 @@
 * **Apostrophe** - (lit) to turn away from. 
 * **Apothecary** - (lit) a place where things are put away.
 * **Apotheosis** - (lit) make into god
-* **Aquifer** - (lit) one who carries water)
+* **Aquifer** - (lit) one who carries water
+* **Arbalest** - (lit) machine for throwing projectiles
 * **Arsenic** - gold colored 
 * **Artery** - windpipe, pertaining to the observation of the ancients that they do not contain blood after death.
 * **Artifact** - a thing made by skill
+* **Astrobleme** - (lit) star wound.
 * **Atoll** - interior
 * **Atone** - To bring at one to reconcile, and thence to suffer the pains of whatever sacrifice is necessary to bring about a reconciliation
 * **Atrabilious** - (lit) black bile, pertaining to melancholy. Can also be rooted in "blackened by fire"
@@ -97,6 +87,7 @@
 * **Auspex** - (lit.) To observe birds (as in pertaining to forecasting omens)
 * **Auto da fe** - act of faith
 * **Avant Garde** - Advance Guard
+* **Avenue** - to arrive 
 * **Avert** - to turn away from
 * **Award** - to watch out
 * **Awkward** - in a back-handed direction.
@@ -104,7 +95,9 @@
 ### BA - BE
 * **Balance** - of two pans (pertaining to a balancing scale)
 * **Baleen** - from swollen penis (pertaining to how whales are phallic shaped).
+* **Ballista** - to throw so as to be hit
 * **Ballot** - (hist.) pertains to small balls used as counters in secret voting.
+* **Ball** - (pertaining to a dance) (lit) to throw one's body, jump around. 
 * **Baluchitherium** - (lit) wild beat
 * **Bandit** - one who was proclaimed to be an outlaw
 * **Banish** - to proclaim an outlaw
@@ -118,7 +111,11 @@
 * **Bead** - to request via prayer.
 * **Bear** - (the animal) (lit) the brown animal. 
 * **Beckon** - to shine (as in to signal)
+* **Become** - to obtain
+* **Behave** - self restraint 
+* **Behoof** - that which binds. an obligation
 * **Beleaguer** - to camp around (in order to blockade or besiege)
+* **Belemnite** - dart-shaped object
 * **Beluga** - (lit.) white whale.
 * **Beneficial** - well doing, pertaining to a good deed
 * **Benign** - (lit) well born
@@ -129,7 +126,6 @@
 * **Beware** - to be on guard. to be aware
 * **Bezel** - (perhaps lit) a stone of two angles
 ### BF - BJ
-* **Bibliothec** - (lit) book repository
 * **Bid** - to ask, request or command
 * **Bifarious** - that which can be expressed in two ways.
 * **Birth** - the process of bearing children
@@ -154,31 +150,38 @@
 * **Buoy** - to shine (as in to signal)
 * **Burden** - that which is borne
 * **But** - near without (as in pertaining to something outside or an exception)
-* **Cache** - (lit) to collect together
+* **Cable** - something that takes or seizes (as in rope).
+* **Cacciatore** - (lit) hunter
 ### CA - CE
+* **Cache** - (lit) to collect together
 * **Cacophony** - evil sound
+* **Capable** - holding enough. 
+* **Capacity** - ability to hold much 
+* **Capiche** - grasp ( as in: do you grasp / understand? )
+* **Caption** - a catching or holding. historically pertains to documents involving seizure, and was placed at the beginning of a document. 
+* **Captivate** - something able to capture someone. 
+* **Captive** - someone held
 * **Carnival** - (lit) raising flesh. Pertaining to merrymaking before Lent. Also pertains to a folk saying "Flesh, Farewell"
 * **Carol** - (perhaps) a dance to the flute. 
+* **Case** - (as in a box) something for holding 
 * **Castigate** - (lit) to purify by driving away (evil)
+* **Cater** - one who acquires provisions / food. 
 * **Catheter** - a tool to send down
-* **Cation** - to go down
 * **Cauliflower** - (lit) cabbage flower
 * **Caviar** - pertaining to eggs
-* **Certify** - to make certain
+* **Cenobite** - common life. 
 ### CF - CJ
 * **Chafe** - to make warm.
 * **Charisma** - favor or divine gift. To be rejoiced at.
+* **Chase** - to seize or attempt to take hold of.
 * **Chauffer** - (lit) stroker. One who operates a steam engine by heating it up.
 * **Chlorine** - pale green 
 * **Cholera** - gall or bile. (hist) was attributed to be the cause of melancholy via the Four Humors 
 * **Cholesterol** - still bile (hist) originally found in gall stones
-* **Chordata** - having a spinal cord
 * **Chord** - (structure in animals resembling a string) Gut-string.
 * **Chorus** - a dance in a circle, or pertaining to an enclosed dancing floor, or pertaining to rejoicing. 
 * **Chrestomathy** - (lit) useful learning.
 * **Circadian** - round about the day
-* **Circuit** - to go around
-* **Circumference** - to lead around (in a circle).
 ### CK - CZ
 * **Clairvoyant** - (lit.) clear seeing.
 * **Coalesce** - (lit) grow together.
@@ -186,9 +189,9 @@
 * **Coelacanth** - hollow spine.
 * **Cognate** - born together
 * **Cohort** - enclosed group.
-* **Coitus** - to go together (sexually). 
-* **Combination** - put two together
+* **Coitus** - to go together (sexually).
 * **Commence** - (lit) a going in. To go into.
+* **Conceive** - to take in and hold / to become pregnant 
 * **Condiment** - something put together with something else.
 * **Condone** - to give as a gift.
 * **Confection** - to make with (as in to prepare).
@@ -199,7 +202,10 @@
 * **Conifer** - (lit) cone bearing
 * **Conjecture** - to throw together (as in for an interpretation of something)
 * **Constable** - (lit) count of the stable
+* **Contravene** - to come against
 * **Controversy** - to turn against
+* **Convent** - assembly. place where people come together
+* **Cop** - one who seizes. 
 * **Cord** - cat-gut. Intestine.
 * **Corporate** - to make into a body (as in corporations). to make into a corpse (as in corporal punishment)
 * **Corps** - body (as in a body of soldiers that are lead by a head)
@@ -211,32 +217,33 @@
 * **Count** - (nobility) - to go with (as in a companion to) a great person 
 * **Courtesan** - (lit) woman of the court.
 * **Court** - those assembled in the yard together. 
+* **Coven** - gathering (of witches)
 * **Covert** - (lit). covered / hidden
 * **Cumber** - that which is carried together (as in a burden)
 * **Curtsy** - courtesy
 ### DA - DJ
 * **Daisy** - (lit.) sun's eye
 * **Data** - something given
+* **Deceive** - to take in and ensnare
 * **Deed** - that which is done
 * **Deem** - to set (judgment)
 * **Defeat** - to undo
-* **Defect** - to make away (as in to flee)
-* **Defer** - to carry away from
 * **Defray**- to spend out (due to costs caused by damages). Alternatively, a cost for peace.
 * **Degenerate** - to be born off (as in to be inferior)
-* **Deify** - to put as a god. To make a god
 * **Demagogue** - leader of the common people.
 * **Deodand** - (lit) a thing to be given to God
 * **Despicable**- (one deserving) to be looked down upon
 * **Deva** - (lit) a god. Shining one.
+* **Devil** - to slander / attack. one thrown across. 
 * **Dexterity** - skillful with the (right) hand
+* **Diabetes** - to pass through, pertaining to an excessive discharge of urine.
 * **Diagnosis** - (lit) to know apart from another
 * **Dianthus** - flower of Zeus
 * **Diary** - a daily allowance, later meant just daily
 * **Dichotomy** - (lit) a cutting in half.
 * **Die** - (pertaining to dice) given (by Fate or by the act of playing). 
 * **Diet** - regimen for the day.
-* **Differ** - to carry away from (as in to disagree
+* **Differ** - to carry away from (as in to disagree)
 * **Dignify** - to make worthy.
 * **Diploma** - paper that is folded over twice.
 * **Discover** - (lit). to undo a covering / expose
@@ -248,13 +255,11 @@
 * **Dose** - (lit) a giving, pertaining to a portion prescribed
 * **Doubt** - a sense of two minds, uncertain between two things
 * **Dour** - firm and solid, pertaining to severity or boldness.
-* **Dowager** - pertaining to a dower / dowry
 * **Dowry** - something that is given (for marriage)
 * **Dozen** - two and ten
 * **Druid** - They who know he Oak (in allusion to divination from mistletoe)
 * **Drupe** - tree-ripened
 * **Dubious** - moving two ways - undecided between two things
-* **Duplicate** - two fold. Pertaining to an exact copy.
 * **Dura mater** - from "dura mater cerebri" or "hard mother of the brain"
 * **During** - a shortening of "enduring"
 * **Dysentery** - bad bowels
@@ -266,13 +271,15 @@
 * **Effect** - to work out.
 * **Efferent** - to bring out or carry forth
 * **Effleurage** - to level out (lightly) 
-* **Eglantine** - rick in prickles / thorns.
+* **Eglantine** - rich in prickles / thorns.
 ### EK - ET
 * **Eldritch** - (lit) beyond the realm
 * **Emancipate** - to put out of paternal authority (in Roman law, this was applied to sons and wives.)
+* **Emancipate** - to take away from one's ownership or hand.
 * **Embargo** - to bar in (as in to contain inside)
 * **Embarrass** - (lit) to block
 * **Embassy**- one who moves around (as in a diplomat)
+* **Emblem** - (lit) to throw in, as in to inset or insert
 * **Embryo** - (lit) that which grows
 * **Emphasis** - to show from (as in to make visible)
 * **Empire** - to order all inside. to command.
@@ -297,9 +304,11 @@
 * **Eugenics** - to be well-born (as in of noble race)
 * **Euphemism** - to speak with fair words
 * **Euphoria** - (lit) bearing well
+* **Event** - something coming out. 
 * **Exact** - (lit) to force out
 * **Exalt** - (lit) to make high.
 * **Examine** - (lit) to force out
+* **Except** - to take out or to leave out. 
 * **Exhort** - to thoroughly urge
 * **Exit** - (lit) to go out
 * **Expect** - to thoroughly look at (with anticipation)
@@ -340,6 +349,7 @@
 * **Fool** - windbag / inflated (as in one's head is full of air / nothing).
 * **Forbear** - to bear up against.
 * **Forbid** - (lit) to command against
+* **Forceps** - thing for grasping warms things
 * **Forfeit** - to do outside (as in outside the law)
 * **Fractal** - interrupted, literally broken.
 * **Fumigation** - (lit) to drive out smoke
@@ -353,7 +363,6 @@
 * **Generous** - of noble birth
 * **Genital** - pertaining to the organs of generation
 * **Genius** - generative or inborn power.
-* **Genocide** - the killing of a kind
 * **Genteel** - high-born or noble.
 * **Gentle** - of noble or good birth.
 * **Gentry** - noble or of good family 
@@ -374,6 +383,7 @@
 * **Guru** - someone venerable or worthy of honor
 ### H
 * **Hacienda** - things to be done (pertaining to the plantations where things had to be done)
+* **Haft** - thing that is seized or grasped. 
 * **Hamadryad**- nymph who dies together with the wood (pertaining to wood nymph fabled to die with her tree)
 * **Hamlet** - dwelling
 * **Hammer** - tool with a stone head
@@ -383,9 +393,14 @@
 * **Haruspex** - that who beholds via entrails.
 * **Haught** - (lit) high
 * **Haunt** - to bring home
+* **Have** - something grasped, and hence something you possess.
+* **Heave** - to take hold of in order to lift.
 * **Hierophant** - one who shows sacred things
 * **History** - an account of inquiries, something witnessed by an expert
 * **Hobnob** - To have or have not ; to take or not take ; To toast each other
+* **Hyperbaton** - (lit) overstepping
+* **Hyperbola** - (lit) a throwing beyond others
+* **Hyperbole** - (lit) a throwing beyond 
 * **Hypnagogic** - (lit) driving towards sleep
 * **Hypnotic** - to put to sleep
 * **Hypothesis** - (lit) a placing under, pertaining to being placed under a main argument
@@ -397,6 +412,7 @@
 * **Important** - to bring into.
 * **Impostor** - to put upon (as in to disguise)
 * **Impromptu** - (lit) in readiness
+* **Inception** - to take in hand (as in to begin)
 * **Incumbent** - to recline on (pertaining to applying oneself)
 * **Indeed** - in reality
 * **Indigenous** - to be born in a place  
@@ -417,10 +433,13 @@
 * **Innuendo** - giving a nod to
 * **Inspect** - to look into 
 * **Insufflation** - to blow from below
+* **Intercept** - to take in between (as in to cut off)
+* **Intervene** - to come in between
 * **Intrinsic** - (lit) from within
 * **Introduce** - (lit) to lead in
 * **Introspect** - to look inward
 * **Introvert** - to turn inside
+* **Invent** - to come in, to acquire
 * **Isinglass** - (lit) sturgeon's bladder
 * **Issue** - (lit) to go forth (as in to the public)
 * **Itinerary** - a roadbook, a log of one's journey. 
@@ -430,9 +449,11 @@
 * **Jaunty** - genteel 
 * **Journal** - that which takes place daily.
 * **Journey** - a day's work or travel. Of one day.
+* **Juggernaut** - (lit) Lord of the World. He goes. The moving; all that moves. 
 ### K
 * **Kerchief** - (lit) head covering.
 * **Kermes** - worm
+* **Kill** - to cause pain. to torture or torment
 * **Kindergarten** - (lit) garden of children 
 * **King** - (possibly) leader of people; (possibly) noble birth 
 ### L
@@ -453,6 +474,7 @@
 * **Malaria** - (lit) bad air
 * **Malign** - badly born. 
 * **Malversation** - to turn wrongly (as in to behave ill).
+* **Manciple**- a taking in hand 
 * **Mandate** - (lit) to give into one's hand. 
 * **Manifest**- caught by hand.
 * **Manipulate**- to fill one's hand (i.e., skillfully handling something)
@@ -471,6 +493,7 @@
 * **Milieu** - Middle place (as in the middle of the environment)
 * **Miscegenation** - mixed race.
 * **Mitigate** - (lit) to make soft, to drive out softly
+* **Municipal** - to assume or take in a particular duty for the community.
 * **Mystagogue** - leader of mystery
 ### N
 * **Nada** - thing (just) born. pertaining to a small ,insignificant thing.
@@ -503,6 +526,7 @@
 * **Pantheon** - of or for all the gods
 * **Pant** - (pertaining to quick breathing) - to be oppressed with a nightmare to the point of struggling to breathe -- literally to have visions.
 ### PA - PJ
+* **Parable** - (lit) a throwing beside of in order to compare. a juxtaposition
 * **Paragon** - to sharpen on the side of a whetstone
 * **Parallax** - to change the other.
 * **Parallel** - beside on another
@@ -510,7 +534,10 @@
 * **Paraphernalia** - beside the dowry (in Roman Law, pertains to a woman's property besides her dowry)
 * **Pardon** - to give wholeheartedly or remit
 * **Parenthesis** - (lit) to put beside something
+* **Parliament** - originally, a speaking / talk
+* **Parole** - a comparison. a word of honor.
 * **Pedagogue** - leader of the children (as in the schoolmastet)
+* **Perceive** - to grasp in the mind. 
 * **Perfect** - completely done
 * **Periphery** - (lit) a carrying around
 * **Perish** - to go through (as in to be lost or destroyed)
@@ -531,17 +558,19 @@
 * **Pontifex** - (lit) bridge maker. Bridge making is historically regarded as sacred.
 * **Portfolio** - (lit) leaf one carries (leaves pertain to documents)
 * **Praetor** - (lit) one who goes before
+* **Precept** - something taken beforehand, pertaining to maxims or advise
 * **Preface** - something that is said beforehand (pertaining to the opening of Mass)
 * **Prefer** - to put before or in front
 * **Pregnant** - with child / (lit) before birth
+* **Prevent** - to come before (in order to hinder).
 * **Primogenitor** - first in order at time. First father
+* **Prince** - that which takes first
+* **Problem** - a thing that was put forward
 * **Prodigal** - to drive away or waste
 * **Profane** -to render unholy. to desecrate
 * **Profess** - to declare openly, to speak forth
 * **Proficient** - to make progress / be useful
 * **Profit** - to make progress 
-* **Progenitor** - one that births forth (an  ancestor)
-* **Progeny** - one that is birthed forth (a child)
 * **Proliferation** - to have grown forth/ / the process of growing forth.
 * **Prolific** - to have grown forth/ / the process of growing forth.
 * **Prophet** - to speak before. Pertaining to someone who speaks before someone on behalf of a god.
@@ -549,6 +578,7 @@
 * **Prospect** - to look forward
 * **Prosthesis** - to put something additional
 * **Protagonist** - first actor
+* **Provenance** - to come forth or arise. 
 ### PR - PT
 * **Prudent** - to look ahead (as in, someone who looks ahead or act deliberately with foresight)
 * **Punch** - (the drink). Five in reference to the five supposed ingredients (citrus juice, water, spirits, sugar and spice)
@@ -560,7 +590,11 @@
 * **Pyschedelic** - something that makes the mind visible or clear.
 ### Q
 *  **Qualify** - to attribute a quality -- to answer "of what sort?" something is
+* **Quell** - to kill. 
+* **Quick** - lively, bright, sprightly, alive
+* **Quicksilver** - (lit) living silver. 
 ### R
+* **Receive** - to take back 
 * **Rectify** - to make straight
 * **Redact** - to force back to a certain state.
 * **Refectory** - to refresh (via food)
@@ -574,6 +608,8 @@
 * **Rent** - to give back (payment)
 * **Replenish** - to fill repeatedly, thus to fill completely.
 * **Respect** - to look back at (as in regard someone highly)
+* **Revenant**  - (lit) one who returns
+* **Revenue** - (lit) to come back
 * **Revere** - to stand in awe. 
 * **Rhabdomancy** - divination by means of a rod
 * **Rhapsody** - (lit) stitched together songs.
@@ -590,10 +626,9 @@
 * **Shelter** - (possibly) roof or wall formed by interlocked shields
 * **Skeptic** - one who looks back (as in someone reflective, and hence critical)
 * **Sojourn** - to spend the day
-* **Somnambulism** - (lit) sleep walking
-* **Somniloquy** - (lit) sleep talking
 * **Soporific** - pertaining to deep sleep.
 * **Souffle** - to puff up from underneath. 
+* **Souvenir** - (lit) to come to mind
 * **Species** - a sight or outward appearance (and hence a means to classify things based on physical appearance)
 * **Spice** - a kind or sort of (applied in particular to medication or alchemy)
 * **Squat** - to bring together (as in to crush or crouch by bending one's legs together.)
@@ -601,13 +636,16 @@
 * **Steward** - (lit) guard of cattle / house
 * **Story** - a short history
 * **Strategy** - to lead a camping army / to lead that which is spread out
+* **Subvention** - to come up to in order to support.
 * **Sudden** - (lit) to go under stealthily
 * **Suffer** - to carry up.
 * **Suffrage** - shout under (i.e., in support of someone).
 * **Supply** - to fill from below (as in to support)
 * **Surrender** - to give back over (to give up)
+* **Susceptible** - that which can be taken from under.
 ### SU - SZ
 * **Sycophant** - one who shows the fig (in the insulting sense)
+* **Symbol** - that which is thrown or cast together. 
 * **Synallagmatic** - (lit) together in thing taken in exchange (pertaining to a contract)
 * **Synopsis** - to view together (as in to get a general view or outline)
 ### T
@@ -640,13 +678,16 @@
 * **Utopia** - Nowhere, not on your life
 ### V
 * **Valkyrie** - Chooser of the slain
+* **Venire** - from venire facias (lit) that you cause to come.
 * **Verboten** - forbidden
 * **Verify** - to make true
 * **Versatile** keep turning (pertaining to inconstancy, or in modern usage, being able to do / turn many things.)
 * **Verse** - to turn (metaphorically of plowing or turning from one line to another)
 * **Vertebra** - joint or articulation of the body (notion of spine as hinge of the body)
 * **Vertigo** - turning (pertaining to spinning movement or dizziness)
+* **Viand** - things for living, to be lived upon 
 * **Vinegar** - wine turned sharp / sour
+* **Vivid** - alive. full of life.
 * **Vociferous** - to carry with one's voice (as in to shout or yell)
 ### W
 * **Wardrobe** - (lit) guard of clothes / robes
@@ -655,6 +696,8 @@
 * **Warren** - land for protecting fowl / game
 * **Wehrmacht** - (lit) defensive might. 
 * **Weird** - winding (pertaining to bending Fate).
+* **Welcome** - one whose coming suits another's will or wish (i.e., come well)
+* **Whiskey** - (lit) water of life. 
 * **Window** - (lit) Wind's eye / eye door
 * **Wise** - seeing (as in someone who knows or is prudent)
 * **World** - (lit) age of man. Other etymologies give "seed of man", "abode", "foundation" and "under the sun".
@@ -662,6 +705,7 @@
 * **Wreath** - (lit) that which is wound around
 * **Wrist** - the turning joint.
 * **Wunderkind** - (lit) wonder-child 
+* **Wyvern** - snake / viper 
 ### X
 ### Y
 * **Yellow** - shining 
@@ -669,3 +713,4 @@
 * **Yelp** - to cry out in arrogance.
 * **Yeoman** - young man / villager
 ### Z
+* **Zodiac** - (lit) circle of little animals

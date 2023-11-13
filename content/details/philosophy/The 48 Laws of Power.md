@@ -1,3 +1,13 @@
+* *Remark*: The Laws of Power can be summed up by recognizing the following: 
+	1. You are nothing without power. You cannot do anything without power. 
+	2. If you do not seek power over others, others will seek power over you. 
+	3. People want to experience power, whether it be true power, in the sense of being in a position of power, or the feeling of power, in the sense of a delusion or the illusion of control. 
+	4. Conversely, people do not like to feel like they are not in control. People do not like to be wrong. People see themselves as right (intellectually or morally).
+	5. The [[Egocentric Biases|ego]] of others stands in the way of the feeling of power. People impose their wills, their ego, on other people, and in turn there is [[The Clausewitzian War|friction]] among them. 
+	6. Your own ego stands in the way of you achieving power. Hence, to seek power is to let go of your own ego. 
+	7. The quest for power is neither good nor bad, if anything morals are another form of ego -- they are a way to impose a form of superiority upon others. 
+	8. To seek power is to be more mindful of others' egos and to adapt accordingly. 
+
 ### 1. Never Outshine The Master
 * Always make those above you feel comfortably superior. All Masters want to appear more superior than other people.
 * Be not yourself in front of an insecure Master; Never imagine that just because you have the Master's favor you can do anything.

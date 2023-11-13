@@ -4,6 +4,7 @@
 * **Midgard** - middle enclosure -- pertaining to the world of men.
 * **Terpsichore** - (lit) enjoyment of the dance
 * **Hortense** - garden
+* **Zoe** - (lit) life 
 * **Natialie** - pertaining to birth (particularly Christmas)
 * **Chloe** - young green shoot. 
 * **Cloris** - greenness or freshness. 

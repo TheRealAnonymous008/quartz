@@ -88,6 +88,7 @@ $$
   $$
 
 ![[DDPG.png]]
+<figcaption> DDPG. Image taken from Lillicrap, et al. (2019) </figcaption>
 
 [^Lillicrap_2015]: Lillicrap, et al. (2019) [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf)
 [^ddpg-a]: The authors make use of an Ornstein-Uhlenbeck process to generate temporally correlated exploration for exploration efficiency in physical control problems with inertia. 

@@ -11,6 +11,7 @@
 *****
 * $N_t(a)$ - number of times an action is taken prior to time $t$.
 * $\eta(s)$ - expected number of visits of to state $s$. 
+* $\mu_\pi(s)$ - probability of visiting $s$ under policy $\pi$
 *****
 * $r_t$- reward at time $t$
 * $R(S_t,A_t,S_{t+1})$ - reward obtained by going from $S_t$ to $S_{t+1}$ via action $A_t$.
@@ -57,6 +58,7 @@
 * $G_t^\lambda$ - $\lambda$- return.
 * $G_{t:h}^\lambda$ - truncated , corrected $\lambda$ return.
 * $G_{t}^{\lambda s},G_{t}^{\lambda a}$ - $\lambda$-return, corrected by estimated state or action vlaue.
+* $\eta(\pi)$ - expected return of policy $\pi$
 *****
 * $\mu(s)$ - on-policy distribution over state $s$.
 * $\mu$ - vector of all $\mu$'s. 

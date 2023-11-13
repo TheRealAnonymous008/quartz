@@ -108,6 +108,19 @@ Intuitively, it tells us how better action $a$ is compared to the average action
 	* $\mathbb E \left[ \sum_{t}^T r_{t}\right]= q_\pi(s_t,a_t)$  which follows by definition of $q_\pi$. 
 	* $\mathbb E \left[  \sum_{t}^T b(s_t)\right] = v_\pi(s_t)$  which must be asserted as true.
 
+* In general [^Kakade_Langford_2002], we can frame the expected return of a policy $\bar{\pi}$ in terms of  the advantage over $\pi$ accumulated over time steps. 
+  
+  $$
+  \eta(\bar\pi) = \eta(\pi)+ \sum_{s} \mu_\pi(s)\sum_{a} \bar{\pi} (a\mid s) A_\pi (s,a)
+  $$
+
+	* An important corollary: *Any policy that has a non-negative advantage at every state is guaranteed to increase the policy performance or leave it constant*
+  
+  
+  
+
+[^Kakade_Langford_2002]: Kakade and Langdord (2002). [Approximately optimal approximate reinforcement learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
+
 # The General Policy Gradient Theorem
 * We can generalize the Policy Gradient Theorem as follows. Let $J(\theta)$ be the performance measure, specifically defined as the expected total reward
 
