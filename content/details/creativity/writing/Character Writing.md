@@ -104,8 +104,6 @@
 * Note: *The depth of a character is proportional to their role in the story*.
 * **Comic characters** are marked with a blind obsession -- a mania that the character does not see. In this mania we see the ridiculousness of the character.
 * *Sympathetic villains are memorable* - we can understand their motivations, and why they act the way they do.
-# Writing Groups of Interest 
-
 
 # Other Tips
 * *Fall in love with all your characters*. If the writer cannot love the character, how will the audience?
@@ -116,3 +114,5 @@
 	* Ch. 7 - discusses the role of the Protagonist. 
 	* Ch. 14 - includes discussions on Contrary, Contradictory, and Negation of Negation
 	* Ch. 17 - discusses Characters.
+
+* [[Writing Groups of Interest]]

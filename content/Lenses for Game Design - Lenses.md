@@ -313,25 +313,89 @@
 * What is the relationship between chance and skill in my game? Are there ways I can make random elements feel more like the exercise of a skill? Are there ways I can make exercising skills feel more like risk taking?
 
 ### 37. Fairness 
+* Take into account the players' skill level. Give each player a chance of winning each will consider fair. 
+
+* Should my game be symmetrical? Why?
+* Should my game be asymmetrical? Why?
+* Which is more important: that my game is a reliable measure of who has the most skill or that it provide an interesting challenge to all players?
+* If I want players of different skill levels to play together, what means will I use to make the game interesting and challenging for everyone?
+
+* There are some cases where one side has an advantage over the other and the game still seems fair. Sometimes this is so that players of unequal skill can play together, but there can be other reasons.
 
 ### 38. Challenge 
+* A game is defined by its goals and challenges 
+
+* What are the challenges in my game?
+* Are they too easy, too hard, or just right?
+* Can my challenges accommodate a wide variety of skill levels?
+* How does the level of challenge increase as the player succeeds?
+* Is there enough variety in the challenges?
+* What is the maximum level of challenge in my game?
 
 ### 39. Meaningful Choices 
+* We should feel like the things we do matter. 
+
+* What choices am I asking the player to make?
+* Are they meaningful? How? 
+* Am I giving the player the right number of choices? Would more make them feel more powerful? Would less make the game clearer?
+* Are there any dominant strategies in my game?
 
 ### 40. Triangularity 
+* Give safe choices a low reward. Give high risk choices a high reward. 
+
+* Do I have triangularity now? If not, how can I get it?
+* Is my attempt at triangularity balanced? That is, are the rewards commensurate with the risks?
+
+* We can make use of [[#35. Expected Value]]
 
 ### 41. Skill vs Chance 
+* Consider the lens of [[#19. The Player]] when balancing between the two.  
+
+* Are my players here to be judged (skill) or to take risks (chance)?
+* Skill tends to be more serious than chance: is my game serious or casual?
+* Are parts of my game tedious? If so, will adding elements of chance enliven them?
+* Do parts of my game feel too random? If so, will replacing elements of chance with elements of skill or strategy make the players feel more in control?
 
 ### 42. Heads and Hands 
+* Are my players looking for mindless action or an intellectual challenge?
+* Would adding more places that involve puzzle solving in my game make it more interesting?
+* Are there places where the player can relax their brain and just play the game without thinking?
+* Can I give the player a choice— succeed either by exercising a high level of dexterity or by finding a clever strategy that works with a minimum of physical skill?
+* If “1” means all physical and “10” means all mental, what number would my game get?
+
+* Use [[#34. Skill]] to understand the different skills of the game, and then this lens to balance the skills. 
+* Use [[#19. The Player]] for analyzing the player's preferences. 
 
 ### 43. Competition 
+* Games satisfy the urge to see who is more skilled at something 
+
+* Does my game give a fair measurement of player skill?
+* Do people want to win my game? Why?
+* Is winning this game something people can be proud of? Why?
+* Can novices meaningfully compete at my game?
+* Can experts meaningfully compete at my game?
+* Can experts generally be sure they will defeat novices?
 
 ### 44. Cooperation 
+* Games satisfy the urge or collaborating and succeeding as a team. 
+
+* Cooperation requires communication. Do my players have enough opportunity to communicate? How could communication be enhanced?
+* Are my players friends already, or are they strangers? If they are strangers, can I help them break the ice?
+* Is there synergy (2 + 2 = 5) or antergy (2 + 2 = 3) when the players work together? Why?
+* Do all the players have the same role, or do they have special jobs?
+* Cooperation is greatly enhanced when there is no way an individual can do a task alone. Does my game have tasks like that?
+* Tasks that force communication inspire cooperation. Do any of my tasks force communication?
 
 ### 45. Competition vs Cooperation 
-* Obviously synergizes with [[#43. Competition]] and [[#44. Cooperation]]
+* Balance between  [[#43. Competition]] and [[#44. Cooperation]]
+
+* If “1” is competition and “10” is cooperation, what number should my game get?
+* Can I give players a choice whether to play cooperatively or competitively?
+* Does my audience prefer competition, cooperation, or a mix?
+* Is team competition something that makes sense for my game? Is my game more fun with team competition or with solo competition?
 
 ### 46. Reward 
+
 
 ### 47. Punishment 
 
