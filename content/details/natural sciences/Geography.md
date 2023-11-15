@@ -7,6 +7,10 @@
 * Much of geography can be abstracted by simply considering the root physical causes of certain phenomena like wind flow.
 
 * [Earthquake Lights](https://en.wikipedia.org/wiki/Earthquake_light) - an interesting phenomenon.
+
+
+* [Grindavik is an interesting place](https://www.youtube.com/watch?v=_Pio8BYI9pg)
+
 # Topics
 * [[The Earth and Insolation]]
 * [[The Atmosphere]]
@@ -14,5 +18,4 @@
 * [[Data Visualization]] - for techniques on visualizing map data.
 
 * [[Exploring Physical Geography by Reynolds]]
-
 

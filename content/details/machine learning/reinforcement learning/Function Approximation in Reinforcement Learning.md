@@ -10,14 +10,14 @@
 # Prediction
 * We represent the value function as a parameterized functional form with weight vector $w\in \mathbb{R}^d$. We denote 
   $$
-  \hat{v}(s,w)\approx v_\pi(s)
+  \hat{v}_w = \hat{v}(s,w)\approx v_\pi(s) 
   $$
    for the approximate function of state $s$ with weight vector $w$.
 	* Note, *assume we have more states than weights*. This assumption is founded on the fact *we have more states than actions*.
 * We may do something similar for the action value function. That is 
   
   $$
-  \hat{q}(s,a,w) =\approx q_\pi(s,a)
+  \hat{q}_w = \hat{q}(s,a,w) =\approx q_\pi(s,a)
   $$
   
 * We specify a **state distribution** which specifies how much we care about errors in value estimates for state $s$. We denote this with $\mu(s)$. 

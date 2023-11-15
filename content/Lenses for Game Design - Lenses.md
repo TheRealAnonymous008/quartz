@@ -395,21 +395,77 @@
 * Is team competition something that makes sense for my game? Is my game more fun with team competition or with solo competition?
 
 ### 46. Reward 
-
+* What rewards is my game giving out now? Can it give out others as well?
+* Are players excited when they get rewards in my game, or are they bored by them? Why?
+* Getting a reward you don’t understand is like getting no reward at all. Do my players understand the rewards they are getting?
+* Are the rewards my game gives out too regular? Can they be given out in a more variable way?
+* How are my rewards related to one another? Is there a way that they could be better connected?
+* How are my rewards building? Too fast, too slow, or just right?
 
 ### 47. Punishment 
+* Use punishment delicately. 
+
+* What are the punishments in my game?
+* Why am I punishing the players? What do I hope to achieve by it?
+* Do my punishments seem fair to the players? Why or why not?
+* Is there a way to turn these punishments into rewards and get the same or a better effect?
+* Are my strong punishments balanced against commensurately strong rewards?
 
 ### 48. Simplicity / Complexity 
+* Strike a balance between simplicity and complexity. 
+
+* What elements of innate complexity do I have in my game?
+* Is there a way this innate complexity could be turned into emergent complexity?
+* Do elements of emergent complexity arise from my game? If not, why not?
+* Are there elements of my game that are too simple?
+
+* Synergizes with [[#30. Emergence]]. 
 
 ### 49. Elegance
+* What are the elements of my game?
+* What are the purposes of each element? Count these up to give the element an “elegance rating.”
+* For elements with only one or two purposes, can some of these be combined into each other or removed altogether?
+* For elements with several purposes, is it possible for them to take on even more?
+
+* Opposes [[#50. Character]]
 
 ### 50. Character 
+* Is there anything strange in my game that players talk about excitedly?
+* Does my game have funny qualities that make it unique?
+* Does my game have flaws that players like?
+
+* Opposes [[#49. Elegance]]
 
 ### 51. Imagination 
+* Balance between a connection to reality and imagination. 
+
+* What must the player understand to play my game?
+* Can some element of imagination help them understand that better?
+* What high-quality, realistic details can we provide in this game?
+* What details would be low quality if we provided them? Can imagination fill the gap instead?
+* Can I give details that the imagination will be able to reuse again and again?
+* What details I provide inspire imagination?
+* What details I provide stifle imagination?
 
 ### 52. Economy 
+* Economies give depth to the game. 
+* They apply not just to money but any resource. 
+
+* How can my players earn money? Should there be other ways?
+* What can my players buy? Why?
+* Is money too easy to get? Too hard? How can I change this?
+* Are choices about earning and spending meaningful ones?
+* Is a universal currency a good idea in my game, or should there be specialized currencies?
 
 ### 53. Balance 
+* The simple lens that helps us balance the game in the big picture. 
 
+* Does my game feel right? Why or why not?
+
+### 54.  Accessibility 
+### 55. Visible Progress 
+### 56. Parallelism 
+### 57. The Pyramid
+### 58. The Puzzle 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

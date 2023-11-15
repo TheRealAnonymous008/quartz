@@ -17,6 +17,7 @@
 * [[Function Approximation in Reinforcement Learning]] - how can we generalize experience with a limited subset of the state space? 
 * [[Policy Gradient Methods]] - instead of optimizing value functions, we optimize parameterized policies.
 
+* [[Applications of Reinforcement Learning ]]
 # Papers
 * Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
 # Links

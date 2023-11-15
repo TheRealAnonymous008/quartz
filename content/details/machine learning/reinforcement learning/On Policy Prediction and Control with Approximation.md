@@ -17,7 +17,7 @@
 * We can use gradient descent methods (specifically Stochastic Gradient Descent) to adjust the weight vector at each step. 
 	* In supervised learning terms: *Treat the estimate $\hat{v}$ as the predicted value and $v_\pi$ as the ground truth value.*
 	* $$
-	  w_{t+1}=w_t+\alpha\left[U_t-\hat{v}(S_t,w_t)\right]\nabla\hat{v}(S_t,w_t)
+	  w_{t+1}=w_t+\alpha\left[U_t-\hat{v}_{w_t}(S_t)\right]\nabla\hat{v}_{w_t}(S_t)
 	  $$
 	  Where $U_t$ denotes some  to the true value $v_\pi(S_t)$ (i.e., one obtained from bootstrapping using $\hat{v}$ or it may be $v_\pi + \epsilon$ )
 	* If $U_t$ is [[Statistical Estimators#Properties of Good Estimators|unbiased]] then we can guarantee convergence via SGD.
@@ -29,7 +29,7 @@
 * Convergence to global optima not guaranteed, but enables much faster learning, and allows continual, online learning.
 * An example is semi-gradient TD-0 where
   $$
-  U_t=R_{t+1}+\gamma\hat{v}(S_{t+1},w)
+  U_t=R_{t+1}+\gamma\hat{v}_w(S_{t+1})
   $$
   
 ### State Aggregation
@@ -140,7 +140,7 @@
 * The *update rule with emphasis* becomes 
   
   $$
-  w_{t+1}=w_t+\alpha M_t\left[U_t-\hat{v}(S_t,w_t)\right]\nabla\hat{v}(S_t,w_t)
+  w_{t+1}=w_t+\alpha M_t\left[U_t-\hat{V}_{w_t}(S_t)\right]\nabla\hat{v}_{w_t}(S_t)
   $$
 
 * The emphasis is related to the interest with the formula 
@@ -154,7 +154,7 @@
 * Update rules are based on $\hat{q}(s,a,w)$.  
   
   $$
-  w_{t+1}=w_t+\alpha\left[U_t-\hat{q}(S_t,A_t,w_t)\right] \nabla \hat{q}(S_t,A_t,w_t)
+  w_{t+1}=w_t+\alpha\left[U_t-\hat{q}_{w_t}(S_t,A_t)\right] \nabla \hat{q}_{w_t}(S_t,A_t)
   $$
 ### Episodic Semi-Gradient Control
 * **Episodic, Semi-Gradient One-Step [[Temporal Difference Learning#SARSA|SARSA]]** The update rule makes use of $U_t=R_{t+1}+\gamma\hat{q}(S_{t+1},A_{t+1},w_t)$  

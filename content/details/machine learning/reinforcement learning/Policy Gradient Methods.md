@@ -115,6 +115,23 @@ Intuitively, it tells us how better action $a$ is compared to the average action
   $$
 
 	* An important corollary: *Any policy that has a non-negative advantage at every state is guaranteed to increase the policy performance or leave it constant*
+	* In an approximate setting, we may encounter errors for which the expected advantage of some state is negative. A local approximation is then given as follows 
+	  
+	  $$
+	  L(\bar{\pi}) = \eta(\pi)+ \sum_{s} N(s)\sum_{a} \bar{\pi} (a\mid s) A_\pi (s,a)
+	  $$
+	  
+	  If $\pi_\theta$ is parameterized and differentiable on $\theta$, then we have that 
+	  
+	  $$
+	  \begin{split}
+	  L_{\pi_\theta}(\pi_\theta) &= \eta(\pi_\theta) \\ 
+	  \nabla_\theta L_{\pi_\theta} &= \nabla \eta(\pi_\theta)
+	  \end{split}
+	  $$
+	  
+	  Which means that a sufficiently small step that improves $L$ will also improve $\eta$.
+	  
   
   
   

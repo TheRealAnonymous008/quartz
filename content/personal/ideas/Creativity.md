@@ -35,6 +35,8 @@
 		* Beware rigidity that implies the work is boring or unengaging.
 	* Use **perspective** to obstruct certain parts of the piece or to give a rich view that entices the imagination. Use **level of detail** (i.e., layers) to hide or show appropriate details that adds to the appreciation of the craft
 		* Both techniques frame the user's experience with the piece. Multiple perspectives or levels of detail give richness and depth.
+		* Level of detail also allows us to leave some things to the player and their imagination.
+		* Additional tips are given in [[Lenses for the Game#Detail vs Imagination|here]]. 
 	* For temporal art, use **pacing**. [[Framing Effect|Save the best for last]], control anticipation.
 		* It is common in design to introduce cycles of tension and relaxation.
 		* In particularly interactive media, pacing correlates to traversing the [[Flow State Model|flow channel]].

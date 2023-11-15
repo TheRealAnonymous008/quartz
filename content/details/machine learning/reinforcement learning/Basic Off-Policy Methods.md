@@ -34,3 +34,5 @@
 ![[A2C.png]]<figcaption>  Image from Lilian Weng https://lilianweng.github.io/posts/2018-04-08-policy-gradient/</figcaption>
 
 [^Minh_2016]: Mnih, et al. (2016) [Asynchronous methods for deep reinforcement learning.](http://proceedings.mlr.press/v48/mniha16.pdf) 
+
+# ACER 

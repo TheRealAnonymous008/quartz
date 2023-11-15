@@ -39,17 +39,18 @@
 * $\lambda$ - trace decay rate for eligibility traces.
 * $\lambda_t$ - trace decay at time $t$.
 *****
-* $v_\pi(s)$ - true state value function for policy $\pi$
-* $v_\ast(s)$ - optimal true value function.
-* $q_\pi(s,a)$ - true state-action value function for policy $\pi$. 
-* $q_\ast(s,a)$ - true optimal state-action value function.
+* $v_\pi(s), V_\pi(s,a)$ - true state value function for policy $\pi$. 
+* $v_\ast(s), V_\ast(s,a)$ - optimal true value function.
+* $q_\pi(s,a), Q_\pi(s,a)$ - true state-action value function for policy $\pi$. 
+* $q_\ast(s,a), Q_\ast(s,a)$ - true optimal state-action value function. 
 * $(B_\pi v)(s)$ - Bellman operator for value function $v_\pi$
 * $A_\pi(s,a)$ - the advantage function for $\pi$ 
+* $\hat{A}_\pi(s,a)$ - estimated advantage. [^1]
+
+[^1]: Capital letters typically indicate that the estimate operates on an entire vector. But, the logic should remain the same. 
 *****
-* $V_t, V^{\pi}_t$ - estimate for state value function at time $t$ for policy $\pi$ derived from bootstrapping
 * $\overline{V_t}, \overline{V_t^\pi}$ - expected approximate action value at time $t$ for policy $\pi$
-* $Q_t, Q_t^\pi$ - estimate for state-action value function at time $t$ for policy $\pi$ derived from bootstrapping
-* $\hat{V}_t, \hat{V}_t^\pi$ - expected approximate action value at time $t$ for policy $\pi$
+* $\hat{V}_t, \hat{V}_t^\pi$ - estimated approximate action value at time $t$ for policy $\pi$
 *****
 * $G_t$ - return at time $t$.
 * $h$ - horizon. the time step we look up to during a forward view.
@@ -57,8 +58,7 @@
 * $\overline{G_{t:h}}$ - flat return (undiscounted, uncorrected).
 * $G_t^\lambda$ - $\lambda$- return.
 * $G_{t:h}^\lambda$ - truncated , corrected $\lambda$ return.
-* $G_{t}^{\lambda s},G_{t}^{\lambda a}$ - $\lambda$-return, corrected by estimated state or action vlaue.
-* $\eta(\pi)$ - expected return of policy $\pi$
+* $G_{t}^{\lambda s},G_{t}^{\lambda a}$ - $\lambda$-return, corrected by estimated state or action value.
 *****
 * $\mu(s)$ - on-policy distribution over state $s$.
 * $\mu$ - vector of all $\mu$'s. 
@@ -73,14 +73,16 @@
 * $\delta_w, \text{BE}$ - Bellman error vector
 *****
 * $w,v$ - $d$ dimensional vector underlying an approximate value function.
-* $\hat{v}(s,w)$ - approximate value of state $s$  given parameters $w$.
-* $\hat{q},(s,a, w)$ - approximate value of action pair $s,a$ given $w$.
-* $V^w, Q^w$ - estimate parameterized with $w$
+* $\hat{v}(s,w), \hat{v}_w$ - approximate value of state $s$  given parameters $w$.
+* $\hat{q},(s,a, w), \hat{q}_w$ - approximate value of action pair $s,a$ given $w$.
+* $V_w, Q_w$ - estimate parameterized with $w$
 * $x(s)$ - feature vector visible when in state $s$.
 * $x(s,a)$ - feature vector visible when in state-action pair
 * $z_t$ - eligibility trace
 *****
-* $J(\theta)$ - performance measure using the parameter vector $\theta$.
+* $J(\theta), J_t(\theta)$ - performance measure using the parameter vector $\theta$ at time $t$. Typically, this denotes the expected return
+* $\eta(\pi)$ - expected return of policy $\pi$
+* $J_\pi(\bar{\pi})$ - approximation to $\eta(\bar\pi)$ using $\pi$ for generating samples.
 * $b(s_t)$ - baseline function. Assumed to only be dependent on the state estimate.
 * $\overline{VE}$ - mean square value error.
 * $||v||_\mu^2$ - $\mu$ weighted square norm of the value function $\sum_{s\in S}\mu(s) \ v(s)^2$
@@ -97,3 +99,6 @@
 * $\mu_\theta$ - a deterministic policy parameterized with $\theta$. 
 * $\rho_0(s)$ - initial distribution over states in the context of DPG
 * $\rho^\mu(s)$ - discounted state distribution
+* $r_t(\theta)$ - probability ratio (in the context of TRPO and PPO)
+* $J_t^\text{CLIP}$ - clip surrogate objective at time $t$ (see PPO) 
+* $J_t^\text{KLPEN}$ - KL divergence penalty objective (see PPO) at time $t$

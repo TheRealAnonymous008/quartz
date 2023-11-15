@@ -97,6 +97,26 @@
 * **Wonder** - overwhelming feeling of awe and amazement leading to curiosity.
 
 [^1]: Directly extracted from Schell. It is a very humorous description for humor.
+
+# Rewards and Punishments 
+* *Games can judge us and give us rewards* which players will find pleasing 
+* *Games can also judge us and give us punishment.
+	* [[Lenses for Game Design - Lenses#7. Endogenous Value|Endogenous value]] is created when rewards can be taken away from us. 
+	* Risks are exciting
+	* The possibility of punishment invites challenge. 
+
+| Rewards                                                     | Punishments                                    |
+| ----------------------------------------------------------- | ---------------------------------------------- |
+| Praise                                                      | Shame                                          |
+| Points                                                      | Loss of Points                                 |
+| Prolonged Play (i.e., more time, more stamina, extra lives) | Shortened Play (losing time, stamina, or life) |
+| Gateway for Exploration                                     | Termination of Play                            |
+| Spectacle                                                   |                                                |
+| Expression within the Game                                  |                                                |
+| Additional Powers                                           | Removal of Powers                              |
+| More in--game resources                                     | Resource depletion                             |
+| Status in leaderboard rankings or achievements              |                                                |
+| Completion of all goals                                     | Setbacks                                       |
 # Links 
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
 * [[The Art of Game Design -- A Book of Lenses by Schell|Schell]]
