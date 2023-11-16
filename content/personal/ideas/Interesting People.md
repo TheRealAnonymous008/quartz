@@ -11,3 +11,7 @@
 * [Saint Olga of Kiev](https://en.wikipedia.org/wiki/Olga_of_Kiev)
 	* Enacted revenge on the tribe who killed her husband (the former regent). 
 	* Part of the revenge plot involved  burning a city using pigeons from within the city that were coated in sulphur
+
+* [Faith Ali Shah Qajar](https://en.wikipedia.org/wiki/Fath-Ali_Shah_Qajar)
+	* "Most Formidable Lord and Master of the Encyclopedia Britannica". 
+	* First recorded person to have read the whole encyclopedia.

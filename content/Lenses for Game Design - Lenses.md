@@ -463,9 +463,97 @@
 * Does my game feel right? Why or why not?
 
 ### 54.  Accessibility 
+* Players should be able to clearly visualize what the first few steps should be. The [[#32. Goals]] should be clear and the puzzle should  be like [[#17. The Toy]].
+
+* How will players know how to begin solving my puzzle or playing my game? Do I need to explain it, or is it self-evident?
+* Does my puzzle or game act like something they have seen before? If it does, how can I draw attention to that similarity. If it does not, how can I make them understand how it does behave?
+* Does my puzzle or game draw people in and make them want to touch it and manipulate it? If not, how I can I change it so that it does?
+
 ### 55. Visible Progress 
+* Players need to see that they are making progress when solving a difficult problem
+
+* What does it mean to make progress in my game or puzzle?
+* Is there enough progress in my game? Is there a way I can add more interim steps of progressive success?
+* What progress is visible, and what progress is hidden? Can I find a way to reveal what is hidden?
+
 ### 56. Parallelism 
+* **Parallelism** pertains to the principle that players gravitate towards answering the questions that are easiest for them.
+
+* Are there bottlenecks in my design where players are unable to proceed if they cannot solve a particular challenge? If so, can I add parallel challenges for a player to work on when this challenge stumps them?
+* If parallel challenges are too similar, the parallelism offers little benefit. Are my parallel challenges different enough from each other to give players the benefit of variety?
+* Can my parallel challenges be connected somehow? Is there a way that making progress on one can make it easier to solve the others?
+
 ### 57. The Pyramid
+* **The Pyramid** pertains to a series of small puzzles that give a clue to a larger puzzle .
+
+* Is there a way all the pieces of my puzzle can feed into a singular challenge at the end?
+* Big pyramids are often made of little pyramids—can I have a hierarchy of ever more challenging puzzle elements, gradually leading to a final challenge?
+* Is the challenge at the top of my pyramid interesting, compelling, and clear? Does it make people want to work in order to get to it?
+
 ### 58. The Puzzle 
+* What are the puzzles in my game?
+* Should I have more puzzles, or less? Why?
+* Which of the ten puzzle principles apply to each of my puzzles?
+* Do I have any incongruous puzzles? How can I better integrate them into the game? (Use Lens #49: Elegance, to help do this).
+
+### 59. Control
+* Meaningful control is essential for immersive interactivity.
+
+* When players use the interface, does it do what is expected? If not, why not?
+* Intuitive interfaces give a feeling of control. Is your interface easy to master or hard to master?
+* Do your players feel they have a strong influence over the outcome of the game? If not, how can you change that?
+* Feeling powerful = feeling in control. Do your players feel powerful? Can you make them feel more powerful somehow?
+
+### 60. Physical Interface 
+* The **physical interface** entails physical interaction with the game (i.e., buttons, touch controls)
+
+* What does the player pick up and touch? Can this be made more pleasing?
+* How does this map to the actions in the game world? Can the [[Knowledge in the Head and In the World#Natural Mappings|mappings]] be more direct?
+* If you can’t create a custom physical interface, what metaphor are you using when you map the inputs to the game world?
+* How does the physical interface look under [[#17. The Toy]]?
+* How does the player see, hear, and touch the world of the game? Is there a way to include a physical output device that will make the world become more real in the player’s imagination?
+
+### 61. Virtual Interface 
+* The **virtual interface** pertain to interfaces that allow for indirect control over the game world. 
+	* Done poorly, they become a wall between the player and the game world. 
+	* Done well, they amplify the power and control a player has in the game world.
+
+* What information does a player need to receive that isn’t obvious just by looking at the game world?
+* When does the player need this information? All the time? Only occasionally? Only at the end of a level?
+* How can this information be delivered to the player in a way that won’t interfere with the player’s interactions with the game world?
+* Are there elements of the game world that are easier to interact with using a virtual interface (like a pop-up menu, for instance) than they are to interact with directly?
+* What kind of virtual interface is best suited to my physical interface? 
+
+### 62. Transparency 
+* The ideal interface becomes invisible to the player. 
+
+* What are the player’s desires? Does the interface let the players do what they want?
+* Is the interface simple enough that with practice, players will be able to use it without thinking?
+* Do new players find the interface intuitive? If not, can it be made more intuitive, somehow? Would allowing players to customize the controls help or hurt?
+* Does the interface work well in all situations, or are there cases (near a corner, going very fast, etc.) when it behaves in ways that will confuse the player?
+* Can players continue to use the interface well in stressful situations, or do they start fumbling with the controls or missing crucial information? If so, how can this be improved?
+* Does anything confuse players about the interface? On which of the six [[Games and Interfaces.png|interface arrows]] is it happening?
+* Do players feel a sense of immersion when using the interface?
+
+### 63. Feedback 
+* The feedback a player gets from the game is many things -- judgment, reward, instruction, encouragement, and challenge .
+* Make sure the feedback loop in the game is creating the desired experience. 
+
+* What do players need to know at this moment?
+* What do players want to know at this moment?
+* What do you want players to feel at this moment? How can you give feedback that creates that feeling?
+* What do the players want to feel at this moment? Is there an opportunity for them to create a situation where they will feel that?
+* What is the player’s goal at this moment? What feedback will help them toward that goal?
+
+### 64. Juiciness
+* **Juicy** interfaces are fun the moment they are picked up. 
+* Is my interface giving the player continuous feedback for their actions? If not, why not?
+* Is second-order motion created by the actions of the player? Is this motion powerful and interesting?
+* Juicy systems reward the player many ways at once. When I give the player a reward, how many ways am I simultaneously rewarding them? Can I find more ways?
+
+### 65. Primality
+### 66. Channels and Dimensions
+### 67. Modes
+### 68. Metaphor
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

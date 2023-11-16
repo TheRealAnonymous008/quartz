@@ -10,12 +10,12 @@
 
 # Interesting Topics
 * [Double Speak](https://www.youtube.com/watch?v=qP07oyFTRXc)
-*  [Polymathy](https://en.wikipedia.org/wiki/Polymath)
+* [Polymathy](https://en.wikipedia.org/wiki/Polymath)
 * Geometric Deep Learning
 * [Principles of Learning](https://en.wikipedia.org/wiki/Principles_of_learning)
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
 * Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
-* Pain Compliance
+* [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 

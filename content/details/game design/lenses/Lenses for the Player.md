@@ -6,6 +6,7 @@
 * Relevant lenses: [[Lenses for Game Design - Lenses#19. The Player|The Player]], [[Lenses for Game Design - Lenses#20. Pleasure|Pleasure]]
 
 ### The Experience is in the Player's Mind 
+* *The player puts their mind inside the game world, but the game world only exists in the player's mind*.
 * The mind is the place where the game experience begins. 
 * There are four mental abilities that make gameplay possible .
 	* **Modeling** - games are models of the real world that are easy to absorb and manipulate.

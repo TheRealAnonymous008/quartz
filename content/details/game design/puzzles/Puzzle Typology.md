@@ -45,8 +45,6 @@
 	* *Variant*: Make a pattern such that the "rows", "columns" or both satisfied an arithmetical constraint (i.e., same sums)
 	* *Extension*: Whether or not to allow dominoes with blank half-tiles and how to handle them exactly.
 
-* 
-
 # Logic Puzzles
 * Any form of mathematical puzzle counts here.
 ## [[Grid Puzzles]]
@@ -91,8 +89,6 @@
 	* *Example*: Sokoban
 
 # Mechanical Puzzles
-
-
 * **Packing Puzzle** - the goal is to fit two items together, but the way they fit together is not as straightforward. The solver must determine how to fit them together.
 	* *Example*: The Melting Block
 	* *Example*: Conway's Packing Problem
