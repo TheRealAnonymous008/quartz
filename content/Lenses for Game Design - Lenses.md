@@ -552,8 +552,81 @@
 * Juicy systems reward the player many ways at once. When I give the player a reward, how many ways am I simultaneously rewarding them? Can I find more ways?
 
 ### 65. Primality
+* Some actions and interfaces are so intuitive that animals were doing them hundreds of millions of years ago. 
+
+* What parts of my game are so primal an animal could play? Why?
+* What parts of my game could be more primal?
+
 ### 66. Channels and Dimensions
+* What data need to travel to and from the player?
+* Which data are most important?
+* What channels do I have available to transmit these data?
+* Which channels are most appropriate for which data? Why?
+* Which dimensions are available on the different channels?
+* How should I use those dimensions?
+
 ### 67. Modes
-### 68. Metaphor
+* Make sure your modes make the player feel powerful and in control, and do not confuse or overwhelm.
+
+* What modes do I need in my game? Why?
+* Can any modes be collapsed or combined?
+* Are any of the modes overlapping? If so, can I put them on different input channels?
+* When the game changes modes, how does the player know that? Can the game communicate the mode change in more than one way?
+
+### 67.5 Metaphor
+* Game interfaces often mimic interfaces to things that are already familiar to players
+
+* Is my interface already a metaphor for something else?
+* If it is a metaphor, am I making the most of that metaphor? Or is the metaphor getting in the way?
+* If it isn’t a metaphor, would it be more intuitive if it were?
+
+### 68. Moments 
+* Memorable moments are stars that make up the constellation of your interest curve.
+
+* What are the key moments in my game?
+* How can I make each moment as powerful as possible?
+
+### 69. The Interest Curve 
+* If I draw an interest curve of my experience, how is it generally shaped?
+* Does it have a hook?
+* Does it have gradually rising interest, punctuated by periods of rest?
+* Is there a grand finale, more interesting than everything else?
+* What changes would give me a better interest curve?
+* Is there a fractal structure to my interest curve? Should there be?
+* Do my intuitions about the interest curve match the observed interest of the players? If I ask playtesters to draw an interest curve, what does it look like?
+
+* Augment with [[#19. The Player]].
+
+### 70. Inherent Interest 
+* What aspects of my game will capture the interest of a player immediately?
+* Does my game let the player see or do something they have never seen or done before?
+* What base instincts does my game appeal to? Can it appeal to more of them?
+* What higher instincts does my game appeal to? Can it appeal to more of those?
+* Does dramatic change and anticipation of dramatic change happen in my game? How can it be more dramatic?
+
+* Augment with [[#6. Curiosity]].
+
+### 71. Beauty 
+* What elements make up my game? How can each one be  more beautiful?
+* Some things are not beautiful in themselves, but are beautiful in combination. How can the elements of my game be composed in a way that is poetic and beautiful?
+* What does beauty mean within the context of my game?
+
+### 72. Projection 
+* One key indicator that someone is enjoying an experience is that they have projected their imaginations into it.
+
+* What is there in my game that players can relate to? What else can I add?
+* What is there in my game that will capture a player’s imagination? What else can I add? Are there places in the game that players have always wanted to visit?
+* Does the player get to be a character they could imagine themselves to be?
+* Are there other characters in the game that the players would be interested to meet (or to spy on)?
+* Do the players get to do things that they would like to do in real life, but can’t?
+* Is there an activity in the game that once a player starts doing, it is hard to stop?
+
+### 73. The Story Machine 
+### 74. The Obstacle 
+### 75. Simplicity and Transcendence
+### 76. The Hero's Journey
+### 77. The Weirdest Thing
+### 78. Story 
+
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

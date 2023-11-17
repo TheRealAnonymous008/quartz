@@ -26,7 +26,7 @@
 [^idea_1]: The book alludes to a power nap technique by Dali who slept with a key in hand and a plate to catch the key. When the key dropped, it would make a sound to awake Dali. 
 
 ### The Game Improves through Iteration 
-* **The Rule of the Loop** The process of game design and development is necessarily iterative, or looping. *The more you test and improve your design, the better your game will be*.
+* **The Rule of the Loop** The process of game design and development is necessarily [[details/creativity/design/DOET/Design Thinking|iterative]], or looping. *The more you test and improve your design, the better your game will be*.
 	* The goal should be to maximize each loop and to make the loop as fast as possible. [[Software Engineering]] techniques apply.
 	* Identify risks -- problems within the current design. Eliminate risk as soon as possible via prototyping.
 

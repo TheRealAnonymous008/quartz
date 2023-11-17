@@ -65,3 +65,5 @@ Without Power, You are Nothing.
 * [[Realizations to Avoid Fallacious Thinking|Be wary of your own biases and lines of reasoning]].
 
 * [[The Cult of Done Manifesto|Get things done]].
+
+* Subjectivity is baked into human intelligence because if intelligence requires discernment, and humans are incapable of building a perfect model of the world, then inherently we are making judgments based on imperfect models (i.e., discernment implies subjectivity).

@@ -231,3 +231,53 @@
 	* *Players improve with practice*.
 
 * Relevant Lenses: , [[Lenses for Game Design - Lenses#52. Economy|Economy]] [[Lenses for Game Design - Lenses#53. Balance|Balance]]
+
+### Game Mechanics Support Puzzles 
+* More on [[Puzzle|puzzles]] here.  The principles for making [[Puzzle Design|good puzzles]] also apply. 
+* Implicit puzzles satisfy the lens of [[Lenses for Game Design - Lenses#49. Elegance|elegance]] because they stimulate the head and serve additional purposes in game. 
+
+* Relevant Lenses: [[Lenses for Game Design - Lenses#54. Accessibility|Accessibility]], [[Lenses for Game Design - Lenses#55. Visible Progress|Visible Progress]], [[Lenses for Game Design - Lenses#56. Parallelism|Parallelism]], [[Lenses for Game Design - Lenses#57. The Pyramid|The Pyramid]], [[Lenses for Game Design - Lenses#58. The Puzzle|The Puzzle]]. 
+
+### Players Play games through an interface
+* The **interface** is anything between the player and the game world.
+![[Games and Interfaces.png]]
+<figcaption> Physical Interfaces and Virtual Interfaces from Schell. </figcaption>
+
+* The less abstraction to our interface, the more we feel an emotional connection to the content. 
+* The goal of the interface is for the player to feel in control of the experience. 
+	* If the interface becomes second nature to the player, the player will project themselves into the game itself while ignoring the interface.
+	* Touch controls tend to feel the most intuitive. 
+* *The quality of the [[Knowing What To Do -- Constraints, Discoverability and Feedback|feedback]] provided by the interface determines how much the player understands the game*
+	* **Tenth of a Second Rule**  If there is no immediate feedback (within a tenth of a second), the player will assume there is something wrong with the interface.
+* Favor juicy systems - just a little interaction gives a continuous flow of reward.
+
+* An important goal of the interface is to *communicate information*. Consider the following in establishing channels of information 
+	* List and prioritize information 
+	* List the channels of information (i.e., how they are communicated)
+	* Map information to channels 
+	* Review the dimensions (i.e., attributes) of each channel.
+		* *Some dimensions can reinforce the information*
+		* Other dimensions can give additional information. However, you have to tell the player what these extra dimensions mean. 
+
+* Consider **modes** - which are changes in the mapping of controls under certain contexts. *Consider the following to make the game less confusing*. 
+	* Use as few modes as possible. 
+	* Avoid overlapping modes. If modes have to overlap, make sure they use different channels. 
+	* Make different modes look as different as possible. Consider the feedback and transparency of each mode. 
+		* Change something large and visible on screen.
+		* Change the action the avatar is taking. 
+		* Change the on-screen data. 
+		* Change the camera perspective. 
+
+* Other tips for interfaces. 
+	* **Top Down Approach** Steal from another well known interface. 
+	* **Bottom Up Approach** Design the interface from scratch by listing out information, channels, and dimensions.
+	* Design around physical interfaces. That is, design with a physical interface (i.e., keyboard, controller) in mind.
+	* Theme the interface. [[Lenses for Game Design - Lenses#11. Unification|Unification]] applies. 
+	* Remember that sound maps to touch. 
+	* Balance [[Trade Offs#Freedom of Choice Trade-Off|options and simplicity]] with layers of interfaces of increasing detail.
+	* Use metaphors - make the interface resemble something the player has seen before.
+	* If it looks different, it should act different. 
+	* Repeatedly Test and refine. The [[details/creativity/design/DOET/Design Thinking|iterative process]] applies. 
+	* Break the rules to help the player. 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#59. Control|Control]],  [[Lenses for Game Design - Lenses#60. Physical Interface|Physical Interface]],  [[Lenses for Game Design - Lenses#61. Virtual Interface|Virtual Interfaces]],  [[Lenses for Game Design - Lenses#62. Transparency|Transparency]],  [[Lenses for Game Design - Lenses#63. Feedback|Feedback]],  [[Lenses for Game Design - Lenses#64. Juiciness|Juiciness]],  [[Lenses for Game Design - Lenses#65. Primality|Primality]],  [[Lenses for Game Design - Lenses#66. Channels and Dimensions|Channels and Dimensions]],  [[Lenses for Game Design - Lenses#67. Modes|Modes]],  [[Lenses for Game Design - Lenses#67.5 Metaphor|Metaphor]]. 

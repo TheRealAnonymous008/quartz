@@ -24,3 +24,18 @@
 * *Games are problem solving activities approached with a playful attitude*. In a sense, all games are fundamentally [[Puzzle|puzzles]] and we get the satisfaction from having solved the puzzle.
 
 * Relevant lenses [[Lenses for Game Design - Lenses#4. Surprise|Surprise]], [[Lenses for Game Design - Lenses#5. Fun|Fun]], [[Lenses for Game Design - Lenses#6. Curiosity|Curiosity]], [[Lenses for Game Design - Lenses#7. Endogenous Value|Endogenous value]], [[Lenses for Game Design - Lenses#8 . Problem Solving|Problem Solving]]
+
+### Experiences Can Be Judged by Their Interest Curve 
+* Any entertainment experience is a series of moments.  *The quality of an experience can be measured by the extent to which its unfolding sequence of events is able to hold [[General Story Writing Principles#Problem Keeping the Audience Interested|interest]]*. 
+	* Techniques in [[Writing Story Scenes]] are applicable here. 
+	* Applying the analogy of story scenes -- games are entire stories. Levels are their own mini-arcs.
+	* The level of challenge also follows an interest curve. 
+	* *What we care more about is relative changes in interest*.
+
+* Consider the following when analyzing interest 
+	* **Inherent interest** - some events are more interesting than others. For example, risky, fancy, and unusual events. Dramatic changes and events. 
+	* **Poetry of Presentation** - the aesthetics of the experience.  
+	* **Projection** - the extent to which you compel a guest to use empathy to put themselves into the experience. The suspension of disbelief is powerful. 
+		* [[Games as Play#Narrative Play|Games have the advantage of having the player as the main character]].
+
+* Relevant Lenses: [[Lenses for Game Design - Lenses#68. Moments|Moments]], [[Lenses for Game Design - Lenses#69. The Interest Curve|The Interest Curve]], [[Lenses for Game Design - Lenses#70. Inherent Interest|Inherent Interest]], [[Lenses for Game Design - Lenses#71. Beauty|Beauty]], [[Lenses for Game Design - Lenses#72. Projection|Projection]] 
