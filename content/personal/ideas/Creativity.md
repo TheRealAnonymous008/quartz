@@ -5,10 +5,12 @@
 * Remember: *Artforms are nothing but substance* given meaning by humans. Strip away the meaning we imbue them and they are [[Stoicism|nothing]] but words on a page, or sounds, or pixels on a screen.
 	* Thus, break creative works down to their simple parts. They are not complicated in so far as the ability to have a keen aesthetic sense and direction.
 	* Art is good in so much as it fulfills or conveys something meaningful to the audience. 
+	* *Art shouldn't aim to be real, but rather to provide an experience*. 
 * Remember: *There is no such thing as original*. 
 	* The trick to making something "original" is to take inspiration, to learn the history of the craft.
 	* *Understand the design decisions of others*. While [[The 48 Laws of Power#7. Get Others To Do The Work For You But Always Take The Credit|we may take inspiration from others]], when doing so take note of why those design or aesthetic decisions were made. [^7]
 	* *Give me the same thing but different*. 
+
 * *Inspiration comes from everywhere else*. Which is to say, we may imitate others but we cannot imitate inspiration. Inspiration comes from one's own perspective and how one applies that perspective to their art.  [^12]
 	* Brainstorming tips are given [[Lenses for the Process#The Game Begins with an Idea|here]]. 
 # The Process

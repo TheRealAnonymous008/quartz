@@ -39,3 +39,55 @@
 		* [[Games as Play#Narrative Play|Games have the advantage of having the player as the main character]].
 
 * Relevant Lenses: [[Lenses for Game Design - Lenses#68. Moments|Moments]], [[Lenses for Game Design - Lenses#69. The Interest Curve|The Interest Curve]], [[Lenses for Game Design - Lenses#70. Inherent Interest|Inherent Interest]], [[Lenses for Game Design - Lenses#71. Beauty|Beauty]], [[Lenses for Game Design - Lenses#72. Projection|Projection]] 
+
+
+### One Kind of Experience is the Story 
+* [[Narrative]] techniques apply here. The challenge is that we must adapt storytelling techniques to non-linear stories. *It is a myth that interactivity nullifies the need for learning about traditional storytelling techniques*.  [^story]
+* Some techniques 
+	* **String of Pearls** - a completely non-interactive story is present in the game via the text. 
+	* **Story Machine** - a good game generates a series of interesting events. when people play it.
+* We must consider the following problems in writing a story for a game. 
+	* *Good stories have unity*. The problem presented at the beginning of the story has an impact all throughout. This makes writing a branching story difficult. 
+	* *Combinatorial Explosion*. Each choice leads to an additional count. The total count of branches to consider grows exponentially with each new choice. 
+	* *Multiple Endings disappoint*. The player ends up feeling either of the following:
+		* "Is this the real ending?". The happiest ending is the one with the most unity, which is unlikely to happen. 
+		* "Do I have to play the whole thing again to see another ending?" Gameplay is rarely different when the player has to make different choices just to achieve the ending. 
+	* *Not enough verbs*. Videogame characters are limited in their ability to do something. 
+	* *Time Travel makes Tragedy Obsolete*. Tragic stories are generally off limits to the interactive story teller. The control that comes with interactivity also means that we cannot have a sense of inevitability in the game. 
+
+* Some tips for making the story elements in the game as interesting and involving as possible. 
+	* *Respect the story stack*. - when developing a game that you hope has a compelling story, *do not fall for the temptation of writing the story first*.  The story stack dictates that, from least flexibility to most we have:
+		* **Fantasy** - a fantasy must appeal to the player, and this is done through the mechanics.
+		* **Action** - dictates what the players do to fulfill the fantasy. 
+		* **[[Lenses for the Game#Game Mechanics Must Be in Balance|Economy]]** - dictates a system of progress that will reward actions, especially those that fulfill the fantasy. 
+		* **World** - you need a world to make the economy, action, and fantasy make sense. This creates a place where the rules of the economy make sense. 
+		* **Story** - a story makes the world itself make sense, and it gives importance to action and economy. 
+	* *Put your story to work* - the story is a flexible tool which can be used to augment the technology, aesthetics or mechanics. 
+	* *Consider, goals, obstacles and conflict*. The obstacles of the player character are the obstacles faced by the player. The obstacles should be meaningful and dramatic. 
+	* *Make it real*. Imagine you are one of the characters living in the world. Use [[Worldbuilding]] and [[General Story Writing Principles#Exposition|Exposition]] accordingly. 
+	* *Provide Simplicity and Transcendence*. The game world is simpler than the real world. The player is more powerful in the game world than the real world.
+	* *Consider the [[Plot#Hero's Journey|Hero's Journey]]*. Use it as an inspiration, or rather, use it as a lens to see if parts of your story can be improved. 
+	* *Keep the world consistent*. [[General Story Writing Principles#Problem Plot Holes|Plot holes]] and worldbuilding inconsistencies are a problem. One flaw and the world cannot be taken seriously again. 
+	* *Make the story world accessible*. 
+		* Realism is second to the experience. What the player will believe and enjoy is more important than what is physically accurate.
+		* However, sometimes the game requires strange and novel things. Call attention to these and make the players understand how they work.
+	* *Use cliches judiciously*. [[Tropes|Tropes are tools]] but make sure to use them effectively
+	* *Sometimes a map brings a story to life*. Remember that games happen in a space so having a visual map will bring the world to life even more. 
+	* *Remember surprise and emotion*. [[Lenses for Game Design - Lenses#1. Emotion|Emotion]] and [[Lenses for Game Design - Lenses#4. Surprise|Surprise]] apply here as lenses. Also, [[General Story Writing Principles#Problem Keeping the Audience Surprised|advice from here]].  
+
+* Relevant Lenses [[Lenses for Game Design - Lenses#73. The Story Machine|The Story Machine]], [[Lenses for Game Design - Lenses#74. The Obstacle|The Obstacle]], [[Lenses for Game Design - Lenses#75. Simplicity and Transcendence|Simplicity and Transcendence]], [[Lenses for Game Design - Lenses#76. The Hero's Journey|The Hero's Journey]], [[Lenses for Game Design - Lenses#77. The Weirdest Thing|The Weirdest Thing]], [[Lenses for Game Design - Lenses#78. Story|Story]].
+
+[^story]: Advice from [[details/creativity/writing/Story by Robert McKee|Story by Robert McKee]] apply here as well. 
+
+### Story and Game Structures Can Be Artfully Merged with Indirect Control 
+* We don't have to give the player freedom. The feeling of freedom is enough. 
+* By very subtle means, the designer can exert control over the player. The [[Trade Offs#Freedom of Choice Trade-Off|freedom of choice trade-off applies]] and the [[Trade Offs#The Paradox of Choice|paradox of choice]] applies here as motivators for creating a structured experience. 
+	* *[[Knowing What To Do -- Constraints, Discoverability and Feedback|Constraints]]* act as a form of indirect control. By constraining the choices, you ensure the players make a guided choice.
+	* *Establish goals*. Players will very likely only do things they think will help fulfill their goals. 
+		* Important to this is the player's confidence in the goal and their ability to pursue it, similar to how [[Flow State Model|flow]] works.
+	* *The interface can establish indirect control*. It sets up expectations on what the player can and cannot do. The limitations of the system do not cross their mind.
+	* Consider [[Visual Design]]. If you *control where the player looks*, you control where they go and what they are going to do.
+	* *Computer controlled characters provide indirect control through empathy*. The key, then, is to get the player to empathize with these characters
+	* *[[Music]]* speaks to the players on a deep level that it can change their mood unconsciously
+
+* Relevant Lenses [[Lenses for Game Design - Lenses#79. Freedom|Freedom]], [[Lenses for Game Design - Lenses#80. Help|Help]], [[Lenses for Game Design - Lenses#81. Indirect Control|Indirect Control]], [[Lenses for Game Design - Lenses#82. Collusion|Collusion]] 

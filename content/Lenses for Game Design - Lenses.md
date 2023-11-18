@@ -622,11 +622,92 @@
 * Is there an activity in the game that once a player starts doing, it is hard to stop?
 
 ### 73. The Story Machine 
+* A good game is a machine that generates stories when people play it.
+* When players have different choices about how to achieve goals, new and different stories can arise. How can I add more of these choices?
+* Different conflicts lead to different stories. How can I allow more types of conflict to arise from my game?
+* When players can personalize the characters and setting, they will care more about story outcomes, and similar stories can start to feel very different. How can I let players personalize the story?
+* Good stories have good [[#69. The Interest Curve|interest curves]]. Do my rules lead to stories with good interest curves?
+* A story is only good if you can tell it. Who can your players tell the story to that will actually care?
+
 ### 74. The Obstacle 
+* [[#32. Goals]] with no obstacles are not worth pursuing. 
+
+* What is the relationship between the main character and the goal? Why does the character care about it?
+* What are the obstacles between the character and the goal?
+* Is there an antagonist who is behind the obstacles? What is the relationship between the protagonist and the antagonist?
+* Do the obstacles gradually increase in difficulty?
+* Some say “the bigger the obstacle, the better the story.” Are your obstacles big enough? Can they be bigger?
+* Great stories often involve the protagonist transforming in order to overcome the obstacle. How does your protagonist transform?
+
 ### 75. Simplicity and Transcendence
+* How is my world simpler than the real world? Can it be simpler in other ways?
+* What kind of transcendent power do I give to the player? How can I give even more without removing challenge from the game?
+* Is my combination of simplicity and transcendence contrived, or does it provide my players with a special kind of wish fulfillment?
+
 ### 76. The Hero's Journey
+* See [[Plot#Hero's Journey|here]] for more. 
+
+* Does my story have elements that qualify it as a heroic story?
+* If so, how does it match up with the structure of the hero’s journey?
+* Would my story be improved by including more archetypical elements?
+* Does my story match this form so closely that it feels hackneyed?
+
 ### 77. The Weirdest Thing
+* Having weird things in your story can help give meaning to unusual game mechanics—it can capture the interest of the player, and it can make your world seem special. 
+* Too many things that are too weird, though, will render your story puzzling and inaccessible.
+
+* What’s the weirdest thing in my story?
+* How can I make sure that the weirdest thing doesn’t confuse or alienate the player?
+* If there are multiple weird things, should I maybe get rid of, or coalesce, some of them?
+* If there is nothing weird in my story, is the story still interesting?
+
 ### 78. Story 
+* Does my game really need a story? Why?
+* Why will players be interested in this story?
+* How does the story support the other parts of the tetrad (aesthetics, technology, gameplay)? Can it do a better job?
+* How do the other parts of the tetrad support the story? Can they do a better job?
+* How can my story be better?
+
+### 79. Freedom 
+* A feeling of freedom is one of the things that separates games from other forms of entertainment. 
+
+* When do my players have freedom of action? Do they feel free at these times?
+* When are they constrained? Do they feel constrained at these times?
+* Are there any places I can let them feel freer than they do now
+* Are there any places where they are overwhelmed by too much freedom?
+
+### 80. Help 
+* Within the context of the game, who is the player helping?
+* Can I make the player feel more connected to the characters who need help?
+* Can I better tell the story of how meeting game goals helps someone?
+* How can the helped characters show their appreciation?
+
+### 81. Indirect Control 
+* Ideally, what would I like the players to do?
+* Can constraints get players to do it?
+* Can goals get players to do it?
+* Can interface get players to do it?
+* Can visual design get players to do it?
+* Can game characters get players to do it?
+* Can music or sound get players to do it?
+* Is there some other method I can use to coerce players toward ideal behavior without impinging on their feeling of freedom?
+* Is my design inducing desires I’d rather the player not have?
+
+### 82. Collusion 
+* The principle of **collusion** is when characters have more than one goal, which is then used to exert indirect control on the player and make the experience more interesting. 
+
+* What do I want the player to experience?
+* How can the characters help fulfill this experience, without compromising their goals in the game world?
+
+### 83. Fantasy
+### 84. The World 
+### 85. The Avatar 
+### 86. Character Function 
+### 87. Character Trait
+### 88. The Interpersonal Circumplex 
+### 89. Character Web
+### 90. Status
+### 91. Character Transformation
 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

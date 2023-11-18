@@ -46,5 +46,7 @@
 
 * [[details/creativity/writing/Story by Robert McKee]] - more on story, including the principles of story writing.
 * [[Save The Cat by Snyder]] - more on screenwriting, but still about writing. 
+* [[Lenses for the Experience#One Kind of Experience is the Story|Lenses for the Experience]] - contains tips for writing stories for games. 
+
 * [[Creativity]] - more on creativity techniques.
 

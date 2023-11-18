@@ -92,8 +92,46 @@
 	* *Do not dive*. Allow the forward momentum to bring you up. 
 
 ## Chokes 
+* Chokes render the aggressor unconscious by either the following methods:
+	* **Blood Chokes** - target the carotid artery to cut off oxygen from the brain. This is preferred since it takes 8-13 seconds for the aggressor to lose consciousness.
+	* **Air choke** - target the trachea to cut off air to the lungs. It takes 2-3 minutes so it is not preferred. 
+
+### Blood Chokes 
+* **Rear Choke** - performed when behind the aggressor. 
+	* Pressure is applied by the biceps and forearms on both sides of the neck, along with additional pressure applied to the back of the aggressor's head using your own neck. 
+	* If the aggressor is taller, bring them down by pushing on their foot. 
+	* **Figure four variation** - allows more leverage by using the body as additional leverage, and instead of pushing with the head, push with the other arm. 
+
+### Air Chokes 
 
 ## Throws 
+* Brings the aggressor to the floor to gain a tactical advantage.
+* It is important to control your own balance while preventing the aggressor from countering or escaping. 
+* Every throw consists of three parts 
+	* **Entry** - should be quick and untelegraphed. The goal is to position the body to allow for execution of off balancing
+	* **Off Balancing** - use the momentum of the aggressor to move or throw them.  
+		* Some techniques include pushing, pulling, or bumping with the body or legs. 
+		* In general it relies on the momentum of the aggressor as well as the power of the aggressor, making sure to use as little effort as possible. 
+	* **Execution** - the aggressor is taken to the floor. 
+
+* **Leg Sweep** - in a standing position, sweep the aggressor's leg with your feet, using the aggressor's arm as a lever. 
+# Counters 
+### Strikes 
+* **Move** - move away from the impact of the strike.  Prefer to move away if possible. 
+* **Block** - block the strike with your arms. Make sure to protect your target spots (head, soft tissue, fleshy parts of the extremities)
+* **Strike** - execute another strike to counter an aggressor's strike. 
+
+### Chokes and Holds 
+* **Clear the airway** - the first movement to counter a choke is to clear the airway to be able to breathe. 
+	* Use distractions on the aggressor by striking them.
+	* Soften the hold to loosen it. 
+* **Tuck the chin** - tuck your chin inside to prevent reapplication of the choke. 
+* Once the hold has been released, aim to counter attack -- usually by throwing the enemy of balance. 
+
+# Manipulation 
+## Unarmed 
+
+## Armed
 
 # Bayonets 
 * Keep movements of the bayonet blade within a box, shoulder width across from the neck down to the waistline. *Any wider, and the aggressor can block.*
@@ -114,8 +152,7 @@
 	* Aim to redirect the weapon away from your body by using your weapon as a tool to exert pressure on the enemy's. Add additional momentum with hip and shoulder rotation.
 	* Do not overexert it. *The aim is solely to make the enemy's weapon miss your body*. 
 
-# Counters 
- 
+# Knife 
 
 # Links 
 * [[United States Marine Corps Martial Arts Instruction Manual]]
