@@ -14,8 +14,10 @@
 * [[Eligibility Traces]] - generalizations of Temporal Difference Learning that involve giving a certain amount of credit to each state for the received return.
 * [[A Unified View on Planning and Learning]] - integrating dynamic programming techniques with Monte Carlo and Eligibility-traces.
 * [[Decision Time Planning]] - RL-adjacent algorithms that focus on applying MC techniques to tree search.
+
 * [[Function Approximation in Reinforcement Learning]] - how can we generalize experience with a limited subset of the state space? 
 * [[Policy Gradient Methods]] - instead of optimizing value functions, we optimize parameterized policies.
+* [[Multi-Agent Reinforcement Learning]]
 
 * [[Applications of Reinforcement Learning ]]
 # Papers

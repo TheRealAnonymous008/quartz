@@ -72,6 +72,7 @@ $$
 
 [^Silver_2014]: Silver, et al. (2014) [“Deterministic policy gradient algorithms."](https://hal.inria.fr/file/index/docid/938992/filename/dpg-icml2014.pdf) 
 # DDPG
+* **Deep Deterministic Policy Gradient**.
 * Presents an actor-critic model free algorithm using DPGs operating on continuous action spaces. [^Lillicrap_2015]. 
 * We make use of **soft target updates**. This is done by creating a copy of the actor and critic networks $Q^w(s,a)$ and $\mu^\theta(s)$. The weights are then updated by having them slowly track the learned networks. 
   
@@ -92,5 +93,48 @@ $$
 
 [^Lillicrap_2015]: Lillicrap, et al. (2019) [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf)
 [^ddpg-a]: The authors make use of an Ornstein-Uhlenbeck process to generate temporally correlated exploration for exploration efficiency in physical control problems with inertia. 
-# D4PG
 # TD3
+* **Twin Delayed Deep Deterministic** [^Fujimoto_2018].
+* It aims to address issues with overestimation for Q-learning, which is exaggerated during in a [[Off Policy Prediction and Control with Approximation|function approximation with bootstrapping]] setting, behavior which is characteristic of the Deadly Triad. ]
+* It proposes the following changes to augment DDPG and to improve on [[Temporal Difference Learning#Double Learning|double learning]]. 
+	* **Clipped Double Q Learning**. We make use of two deterministic actors $\pi_{\theta_1}, \pi_{\theta_2}$ and two critics $Q_{w_1}, Q_{w_2}$. We optimize $\pi_{\theta_1}$ with respect to $Q_{w_1}$ and $\pi_{\theta_2}$ with $Q_{w_2}$. 
+	  
+	  Because the policy may change slowly, using the regular approach for double learning may mean the networks are too similar. So, we use a minimum estimation instead. Where $i\in \{1,2\}$ 
+	  
+	  $$
+	  y_i = r+ \gamma \min_{k=1,2} Q_{w_k} (s',\mu_{\theta_i} (s'))
+	  $$
+	  
+	  Another side effect of this approach is that we favor safer, more stable learning since we give more value to states with lower variance estimation error. 
+
+	 * Another key observation is that *value estimates are coupled with policies* so that value estimates diverge because of poor policies which become poorer due to inaccurate value functions. 
+	   
+	   The trick, therefore, is to update the policy network at a lower frequency than the value network, more specifically, only update when the value error is as small as possible. The updates become much slower but, theoretically, of higher quality. 
+
+	* Finally, we perform **target policy smoothing**. Since we can overfit on narrow peaks in the value function, we introduce a smoothing regularization strategy on the value function to reduce the variance caused by function approximation. 
+	  
+	  We fit the value of a small area around the target action
+	  
+	  $$
+	  y = r+ \mathbb{E}_\epsilon\left[ Q_{\theta'} (s', \pi_{\phi'} (s') +\epsilon\right]
+	  $$
+	  
+	  To bootstrap off of similar state-action value estimates. 
+	  
+	  In practice, we can approximate this by *adding a random amount of noise to the target policy* and averaging over minibatches.
+	  
+	  $$
+	  \begin{split}
+	  y&=r + \gamma Q_{\theta'} (s', \pi_{\phi'}(s') + \epsilon) \\ 
+	  \epsilon &\sim \text{clip} (\mathcal{N}(0,\sigma), \ -c, \ c)
+	  \end{split}	  
+	  $$
+	  
+	  This is to enforce the idea that *similar actions should have similar values*, akin to [[Temporal Difference Learning#Expected SARSA|Expected SARSA]].
+	  
+
+![[TD3.png]]
+<figcaption> TD3. Taken from Fujimoto et al. (2018)</figcaption>
+
+
+[^Fujimoto_2018]: Fujimoto, van Hoof, and Meger (2018) [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/pdf/1802.09477.pdf)

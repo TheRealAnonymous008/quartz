@@ -24,17 +24,18 @@ $$
 # Actor-Critic Methods
 * Act as analogues to [[Temporal Difference Learning]] and [[N-step Bootstrapping]] but for Policy Gradient Methods.
 * Rather than have an estimate that solely relies on the full return (as in Monte Carlo approaches such as [[#REINFORCE Monte Carlo Policy Gradient|REINFORCE]]), we instead have an n-step estimate coupled with a learned baseline.
-
-$$
-\theta_{t+1} = \theta_t + \alpha \left(G'_t -\hat{v} (S_t,w)\right) \nabla \ln \pi_\theta(a\mid S_t)
-$$
-
-Where $G_t'$ is a generalization for our return. It could be the one-step return from regular TD, or the n-step return $G_{t:t+n}$ or even an [[Eligibility Traces|eligibility trace]] $G_t^\lambda$. 
+  $$
+  \theta_{t+1} = \theta_t + \alpha \left(G'_t -\hat{v} (S_t,w)\right) \nabla \ln \pi_\theta(a\mid S_t)
+  $$
+  Where $G_t'$ is a generalization for our return. It could be the one-step return from regular TD, or the n-step return $G_{t:t+n}$ or even an [[Eligibility Traces|eligibility trace]] $G_t^\lambda$. 
 
 # Topics 
-* [[Basic Off-Policy Methods]]
+* [[Basic Methods]]
 * [[Deterministic Policy Gradient]]
-* [[Proximal Policies]]
+* [[Trust Region Policies]]
+* [[Energy-Based Models]]
+* [[Distributional Reinforcement Learning]]
+	* D4PG
 
 # Links
 * [[Function Approximation in Reinforcement Learning]]

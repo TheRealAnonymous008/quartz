@@ -57,5 +57,40 @@
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#15. The Eight Filters|Eight Filters]], [[Lenses for Game Design - Lenses#16. Risk Mitigation|Risk Mitigation]], [[Lenses for Game Design - Lenses#17. The Toy|The Toy]], [[Lenses for Game Design - Lenses#18. Passion|Passion]]
 
+# Prototyping Tips 
+* Taken from [[How to Prototype a Game in Under 7 Days by Gabler, Gray, and Kucic|Gabler, Gray, Kucic]]
+### Setup: Rapid is a State of Mind  
+* [[The Cult of Done Manifesto|Embrace the possibility of failure]] -- it encourages creative risk taking. 
+* Enforce short development cycles More time != More quality. One week is good for quick prototyping 
+* Constrain creativity to make you want it even more. 
+* Gather a kickass team and an objective advisor -- Mindset is as important as talent. 
+* Develop in parallel for maximum splatter. During the middle stretch of a development cycle, Do not collaborate for the following reasons. 
+	* Risk mitigation - you have more prototypes
+	* Friendly competition 
+	* Wider thematic exploration 
+	* Sharing understanding into a common knowledge pool. 
+### Design: Creativity and the Myth of Brainstorming
+* Formal brainstorming has a $0\%$ success rate. You cannot expect [[Creativity]] to run on a schedule. But ... 
+	* It gets you thinking about the problem.
+	* It helps you critique a concrete feature of the game. 
+* Gather concept art and music to create an emotional target. 
+* Simulate in your head - Pre-prototype the prototype. Know the idea before even starting a prototype. 
+### Development: Nobody Knows How You Made it, and Nobody Cares 
+* Build the toy first. Start with the core mechanic of the game. 
+* If you can get away with it, fake it. It will [[Minimal Effort, Maximal Impact|save]] you time and money. 
+* Cut your losses and learn when to shoot your baby in the crib. 
+* Heavy theming will not salvage bad design. 
+* But overall aesthetic matters. Apply a healthy spread of art, sound, and music.  Have a sense of art direction. 
+* Nobody cares about your great engineering. By overengineering, you can come up with generic tools that never translate into something playable. 
+### General Gameplay: Sensual Lessons in Juicy Fun 
+* [[Lenses for Game Design - Lenses#48. Simplicity / Complexity|Complexity is not necessary for fun]]. Prove the mechanic works and then make it pretty. 
+* Create a sense of ownership to keep them crawling back for more. The games with the greatest replay value had a sort of creation or customization aspect.
+* Experimental does not mean complex. It is possible to be experimental but have intuitive UI. 
+* Build towards a [[Lenses for Game Design - Lenses#32. Goals|Goal]]. The best goals are an innate part of the gameplay. 
+* Make it [[Lenses for Game Design - Lenses#64. Juiciness|juicy]]. 
+
+
 # Links
 * [[Design]] - processes in iterative design apply, particularly here [[details/creativity/design/DOET/Design Thinking|Design Thinking]] 
+
+* [[How to Prototype a Game in Under 7 Days by Gabler, Gray, and Kucic]]

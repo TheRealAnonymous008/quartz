@@ -51,7 +51,7 @@
 * **Proximal Policy Optimization** [^Schulman_2017]. These alternate between sampling data through interaction with the environment, and optimizing a “surrogate” objective function using SGD.
 * The goal is scalability since [[#TRPO]] is complicated and not good for noisy architectures. 
 
-
+### PPO-CLIP
 * It introduces the **clipped surrogate objective**. Let $r_t(\theta)$ denote the probability ratio 
   
   $$
@@ -70,6 +70,7 @@
   
   Thus, we ignore $r_t$ when it makes the objective better and include it when it makes the objective worse. 
 
+### PPO-KL 
 * An alternative is **KL Penalization**  -- *we use a penalty on the KL divergence* and adapt the penalty based on a targeted KL divergence.  This can be done by alternating between the following
 	* Use Minibatch SGD to optimize 
 	  
@@ -83,7 +84,7 @@
 
 	* We use the updated $\beta$ for the next policy update. The constants are magic but the algorithm is not sensitive to them.
 	* Note that we can alternatively use the backward version which involves $\text{KL}(\pi_{\theta_\text{old}}, \pi_\theta)$. This yields no difference. 
-	* Techniques presented [[Basic Off-Policy Methods#A3C - Asynchronous Advantage Actor-Critic|here]] may be combined with the loss function above. For example , introducing entropy loss $H(s,\pi_\theta)$. as a penalty term, or using [[Off Policy Prediction and Control with Approximation#DQN|Experience replay]].  
+	* Techniques presented [[Basic Methods#A3C - Asynchronous Advantage Actor-Critic|here]] may be combined with the loss function above. For example , introducing entropy loss $H(s,\pi_\theta)$. as a penalty term, or using [[Off Policy Prediction and Control with Approximation#DQN|Experience replay]].  
 	* Using entropy loss gives us this loss function 
 	  
 	  $$
@@ -120,11 +121,55 @@
 [^Hsu_2020]: Hsu, Mendler-Dummer, and Hardt (2020) [Revisiting Design Choices in Proximal Policy Optimization](https://arxiv.org/pdf/2009.10897.pdf)
 
 # PPG
-* **Phasic Policy Gradient** [^Cobbe_2020] extends PPO to have two separate training phases for policy and value functions. 
+* **Phasic Policy Gradient** [^Cobbe_2020] extends PPO to have two separate training phases for policy and value functions. This leads to significant improvements on sample efficiency .
+* It provides an alternative to sharing network parameters which have the disadvantages of: 
+	* Being hard to balance so that competing objectives do not interfere with each other. *This interference can impact performance*. 
+	* Enforcing a hard restriction that policy and value function objectives are trained on the same data subject to the same sample reuse. *Value functions tend to tolerate a higher level of sample reuse*
+
+* In PPG, we have disjoint policy and value networks. 
+	* The policy network has policy $\pi_\theta$ and auxiliary value head $V_{w}$ .
+	* The value network has a value head of $V_{\theta}(s)$ 
+* PPG introduces two training phases. Learning proceeds by alternating between them. 
+
+	* **Policy Phase** - train the agent with PPO using $J^{\text{CLIP}}$ for the policy, and $J^{\text{value}}$ for the value function of the policy network 
+	  
+	  $$
+	  J^\text{aux}= \frac{1}{2} \cdot \hat{\mathbb{E}}\left[(V_{\theta} -\hat{V}_t ^\text{targ} )^2\right] 
+	  $$
+	  
+	* **Auxiliary Phase** - distill features from the value function into the policy network for training future policy phases. We use the following loss function 
+	  
+	  $$
+	  \begin{split}
+	  J^{\text{joint}} = J^{\text{aux}} + \beta_\text{clone} \cdot \hat{\mathbb{E}}_t \left[\text{KL}(\pi_{\theta_\text{old}}\ , \ \pi_\theta)\right] 
+	  \end{split} 
+	  $$
+	  
+	  Where $\pi_{\theta_\text{old}}$ is the policy before the auxiliary begins.
+	  $\beta_\text{clone}$ is a hyperparameter controlling the tradeoff between the auxiliary objective and the original policy
+	  $J^\text{aux}$ is the auxiliary objective, which can be anything. The paper gives the following 
+	  
+	  $$
+	  J^\text{aux}= \frac{1}{2} \cdot \hat{\mathbb{E}}\left[(V_{w} -\hat{V}_t ^\text{targ} )^2\right] 
+	  $$
+
+![[PPG.png]]
+<figcaption> PPG. Image taken from Cobbe et al. (2020) </figcaption>
+
+* In the figure
+  $N_\pi$ controls the number of policy updates performed in each policy phase 
+  $E_\pi$ controls sample reuse for the policy 
+  $E_V$ controls sample reuse for the true value function 
+  $E_\text{aux}$ controls the sample reuse during the auxiliary phase. We increase this to increase sample reuse for the value function. 
 
 [^Cobbe_2020]: Cobbe et al. (2020) [Phasic Policy Gradient](https://arxiv.org/pdf/2009.04416.pdf)
 
-
-# PPO-Penalty
 # ACKTR
-# SAC
+* **Actor Critic using Kronecker-factored trust region**  [^Yuhai_Wu_2017] 
+
+* It builds upon [[#TRPO]]. It Proposes to use the Kronecker-factored approximation curvature (K-FAC) to perform the gradient updates for both the actor and the critic. 
+
+* We make use of natural gradients rather than our usual gradients. This means that our step sizes are based on the KL divergence from the current network. 
+* KFAC approximates the gradient using Kronecker products between smaller matrices 
+
+[^Yuhai_Wu_2017]:  Wu et al. (2017) [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf)

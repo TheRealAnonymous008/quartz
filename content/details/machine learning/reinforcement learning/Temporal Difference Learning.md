@@ -106,7 +106,18 @@
   Where we alternate between using this and swapping the roles of $Q_1$ and $Q_2$. 
 * We may also base the policy on the average or sum of $Q_1$ and $Q_2$.
 
+### Retrace 
+* Retrace [^Munos_2016] is an off-policy Q-value estimation algorithm with guaranteed convergence. 
+* It addresses how importance weights on their own can introduce high variance 
+* The estimation involves using **truncated importance weights**, which means that the importance weights should be no more than $c$. 
+  
+  This means that to improve the estimate $Q(S_t,A_t)$ we increment by 
+  
+  $$
+  \gamma^t \min (c, \rho_t) \delta_t
+  $$
 
+[^Munos_2016]: Munos et al. (2016) [Safe and efficient off-policy reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2016/file/c3992e9a68c5ae12bd18488bc579b30d-Paper.pdf) 
 
 # Links
 * [[Dynamic Programming for Reinforcement Learning]] - for more on Dynamic Programming in RL

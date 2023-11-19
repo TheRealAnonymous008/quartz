@@ -68,6 +68,7 @@
   Where $\beta$ is the behavior function.
 	* When an action would never be taken by the policy $\pi$, we no longer explore it.
 	* When an action has $\pi>\beta$, it is characteristic of $\pi$ but is rarely explored. To compensate for the rare exploration, we give it higher weight (which is consistent with the importance sampling ratio's properties).
+
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 5, 7]]
 	* 5.5 - more information about Information Sampling.
