@@ -49,6 +49,15 @@
   \end{split}
   $$
   Where $p_\ast$ represents the true distribution approximated by real data through the empirical distribution.
+  
+  We can define something similar by replacing the summations with integrals. 
+  
+  * The **Risk Identity** is defined as  (for continuous case) 
+    $$
+    \int\int L(f(x),y) \ p(y|x) p(x) \ dxdy = \int\int L(f(x),y) q(y|x) q(x) \frac{p(x)}{q(x)} \ dxdy
+    $$
+    
+  
 * The **empirical risk** is then defined as 
   $$
   \begin{split}R_\text{emp}(\mathcal D, \mathcal D) &=R(p_{emp}, \delta) \\ &= \frac{1}{N}\sum_{i=1}^N L(y_i,\delta(x_i))\end{split}

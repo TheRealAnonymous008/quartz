@@ -16,6 +16,7 @@
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
 * Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
 * [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))
+* [Von Neumann Morgenstern Utility Theorem](https://en.wikipedia.org/wiki/Von_Neumann–Morgenstern_utility_theorem)
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 

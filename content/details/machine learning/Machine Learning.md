@@ -1,4 +1,9 @@
-
+* Machine Learning Methods generally require the following four components: Data, Models, Objectives, and Optimization Algorithms. 
+* The three classic paradigms are suited for different problems:
+	* **Supervised Learning** - for finding functional mappings between features and labels. 
+	* **Unsupervised Learning** - for understanding the underlying structure of the data . 
+	* **Reinforcement Learning** - for developing policies and behaviors. 
+# Unfiled
 * The methods of Neural Style Transfer probably indicate that neural networks can extract the "essence" of an image in the same manner humans recognize an object even if it is rendered or perceived differently.
 # Topics
 * [[Low Level of Training a Model]]
@@ -6,6 +11,7 @@
 * [[Supervised Learning]]
 * [[Unsupervised Learning]]
 * [[Reinforcement Learning]]
+
 * [[AI in Education]]
 * [[Machine Learning and Mathematical Reasoning]]
 # Tools

@@ -20,6 +20,7 @@
 		  $$
 		  Where $|I(\theta)|$ is the determinant of the **Fisher Information Matrix** associated with $P(x\mid\theta)$ which is parameterization independent.
 		* Unfortunately, optimizing the above is difficult.
+
 ### Credible Intervals
 * *We can specify a width measured using a contiguous region* that contains $(1-\alpha)/2$ of the posterior distribution's mass in each tail (either side)
 	* Hence why in Normal Distributions, we report $\mu \pm \sigma$. 
@@ -231,6 +232,18 @@ $$
 	* Good classification systems will hug the left axis and then the top axis.
 	* The quality is quantified as **Area Under the Curve** (AUC). Higher = better. 
 	* The **Equal Error Rate** is the value of $\tau$ such that $FPR=FNR$. Lower = better.
+
+### Accuracy
+* **Accuracy** measures the proportion of correct predictions over all classifications performed
+  
+  $$
+  \text{accuracy} = \frac{\text{correct classifications}}{\text{all classifications}}
+  $$
+
+* Although accuracy can give an idea for a model's performance, *it may not necessarily reflect whether or not the model has truly learned patterns in the data*.
+* It is also prone to the fact we weight each correct classification correctly, which *assumes that the population proportion for each class is roughly equal* ,which does always not hold
+
+
 ### Precision-Recall
 * The **precision** measures what fraction of positive labels are actually positive (i.e. $\frac{TP}{TP + FP}$)
 * The **recall** measures what fraction of the ground truth positive samples are detected (i.e., $\frac{TP}{TP + FN}$)

@@ -1,5 +1,6 @@
+# Topics 
+* [[Object Detection]]
 # Papers
-
 * *Spatial Transformer Networks by Jaderberg, Simonyan, Zisserman, and Kavukcuoglu (Feb 4, 2016)* - introduces the Spatial Transformer architecture, which minimizes the number of parameters and layers DCNNs need to be spatially invariant by having an attention mechanism derive parameterized transformations from feature maps, and using a sample of these on the feature map. It can be used to augment existing models to achieve SOTA performance, and generalization to other tasks.
 
 * *You Only Look Once -- Unified, Unified, Real-Time Object Detection by Redmon, Divvala, Girshick, and Farhadi (May 9, 2016)* - introduces the YOLO model which reformulates the object detection task as a regression task where the bounding box and the probability of an object class are predicted. YOLO achieves SOTA real-time object detection and is in general faster and easier to train than previous models since it makes use of a single pipeline for bounding box and class prediction.

@@ -1,7 +1,11 @@
 * A [[Machine Learning]] paradigm which takes in labelled data in order to output a label. 
+
 # Topics
 * [[Bayesian Models]]
 * [[Linear Models]]
+* [[Pathologies of Deep Learning]]
+* [[Loss Function]]
+* [[Neural Network]]
 * [[The Evolution of Convolutional Neural Networks]]
 * [[Computer Vision Models]]
 * [[Sequence Based Algorithms]]

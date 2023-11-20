@@ -32,3 +32,4 @@
 * It is to abandon all hope.
 # Links
 * [[Killjoys - The Seven Deadly Sins by Segal]]
+* [The Six Other Deadly Sins by Dorothy Sayers](https://mygospelblog.wordpress.com/2017/10/03/the-other-six-deadly-sins/)
