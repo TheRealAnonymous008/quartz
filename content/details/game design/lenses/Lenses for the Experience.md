@@ -91,3 +91,33 @@
 	* *[[Music]]* speaks to the players on a deep level that it can change their mood unconsciously
 
 * Relevant Lenses [[Lenses for Game Design - Lenses#79. Freedom|Freedom]], [[Lenses for Game Design - Lenses#80. Help|Help]], [[Lenses for Game Design - Lenses#81. Indirect Control|Indirect Control]], [[Lenses for Game Design - Lenses#82. Collusion|Collusion]] 
+
+
+### Stories and Games Take Place in Worlds 
+* **Transmedia worlds** refer to fantasy worlds that can be entered through many different media. *These worlds can become more real than the media that defines them. We want them to be real* 
+	* *Transmedia worlds are powerful.* It is as if the world becomes a personal utopia players fantasize visiting. Successful transmedia worlds tend to promote hardcore fandoms. 
+	* *Transmedia worlds are long lived*. Especially worlds that appeal to children where they can experience the world as children and adults. 
+	* *Transmedia worlds evolve over time*. As people provide new gateways to the world, the world itself changes to accommodate them. It is, in a sense, an emergent system as people "decide" what fits in the world.
+* Successful transmedia worlds have the following: 
+	* They are rooted in a single medium. They are at their strongest at this specific medium. 
+	* They are intuitive. 
+	* They have a creative individual at their core. An auteur with a single creative vision. 
+	* They facilitate the telling of many stories. 
+	* They make sense through any of their gateways. 
+	* They are often about discovery, and hence they encourage visiting from many gateways. 
+	* They are about wish fulfillment. 
+* Relevant Lenses: [[Lenses for Game Design - Lenses#83. Fantasy|Fantasy]], [[Lenses for Game Design - Lenses#84. The World|The World]]. 
+
+
+### World Contain Characters
+* [[Character Writing|Characters]] from traditional forms of narrative are different from characters to games. 
+	* Novel characters have more mental struggles, are more grounded in reality, and are more complex .
+	* Game characters tend to have more physical struggles, are more rooted in fantasy, and are simpler.  *It becomes more challenging to make a game character feel like a novel character*. 
+
+* Players project themselves onto the Avatar. *Players play games, not to play as themselves, but as the people they wish they could be*.
+* Some tips for writing the other characters are provided in [[Character Design]]. 
+
+* Consider the power of *voice acting and facial expressions*. Voices give life to the characters. Faces, in particular the eyes,  allow the characters to express their emotions. 
+* However, beware the uncanny valley, if you do not want to unintentionally creep the players out. 
+
+* Relevant Lenses: [[Lenses for Game Design - Lenses#85. The Avatar|The Avatar]], [[Lenses for Game Design - Lenses#86. Character Function|Character Function]], [[Lenses for Game Design - Lenses#87. Character Traits|Character Traits]], [[Lenses for Game Design - Lenses#88. The Interpersonal Circumplex|The Interpersonal Circumplex]], [[Lenses for Game Design - Lenses#89. Character Web|Character Web]], [[Lenses for Game Design - Lenses#90. Status|Status]], [[Lenses for Game Design - Lenses#91. Character Transformation|Character Transformation]] 

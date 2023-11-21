@@ -27,4 +27,4 @@
 # Links
 * [I have no fucking clue how to write good dialogue](https://www.reddit.com/r/writing/comments/bxqzcf/i_have_no_fucking_clue_how_to_write_good_dialogue/)
 * [Bad Dialogue vs Good Dialogue ROUND 3 (Writing Advice)](https://www.youtube.com/watch?v=RlJBshzgJ1w)
-* [[__links/books/Story by Robert McKee|McKee Ch. 18]]
+* [[__books/Story by Robert McKee|McKee Ch. 18]]

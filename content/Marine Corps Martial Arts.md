@@ -59,24 +59,39 @@
 * **Eye Gouge** - used to attack the aggressor's eyes to blind them and so that follow up can be executed. The hand is thrust into the aggressor's eyes.
 	* Aim for the nose and let the hand slide on the nose to the eye socket.
 * **Elbow Strike** - inflicts damage due to the leverage. The striking surface is the elbow area. 
-	* **Vertical Elbow Strike**: The target is usually the chin. The elbow is driven up using hip-shoulder rotation. 
-	* **Forward Horizontal Elbow Strike**: The target is the temple, spine, jaw or face. The elbow is driven sideways using hip-shoulder rotation. 
+	* **Vertical (Low to High)** -  The target is usually the chin. The elbow is driven up using hip-shoulder rotation. 
+	* **Vertical ( High To Low)** - used if the aggressor is bent over. The target is the back of the neck. Body weight provides additional power.  
+	* **Forward Horizontal** -  The target is the temple, spine, jaw or face. The elbow is driven sideways using hip-shoulder rotation. 
+	* **Rear Horizontal** - used when being attacked from the rear to stun the aggressor. The elbow is driven backwards using hip-shoulder rotation.
+* **Chin Jab** - immediately renders an aggressor unconscious and causes damage to the neck and spine. The palm's heel is struck on the aggressor's chin.
+* **Knife Hand Strike** - used when the target area is narrow (for example the exposed flesh is only small). It involves using the meaty portion of the hand below the little finger. 
+	* It can be executed going outside / forward, inside / reverse, or vertically
+	* The **vertical** knife hand strike involves using the body as additional weight to drive the hand. 
 
 ## Lower Body Strikes 
 * Their purpose is to stop an attack or create an opening using the legs and the knees. 
+* *Never kick high* as you will be thrown off balance. 
+* *Kicks with the rear leg have more power* because they can be rotated back. 
 
 * **Vertical Knee Strike**: used to maximize damage to the aggressor using the top of the knee. Aim for the head, sternum or groin. 
 	* *Do not use the knee cap* as this is a bone. 
 	* Do not interlace your fingers when grabbing the enemy so they cannot break out. 
 	* Momentum is driven from both pulling the aggressor down and raising the knee. 
+* **Horizontal Knee Strike** - target the inner or outer thigh. The knee strikes the aggressor in an oblique motion.
+
 * **Front Kick** - stops the aggressor's forward momentum by a strike using the toes. Aim for the groin, knee, shin, or inner thigh
 	* Shift weight to the non-kicking leg to maintain balance. 
 	* Never extend the foot above the waist because it is difficult to maintain power. 
 	* You are somewhat open when you perform the kick since you cannot change direction. 
 * **Round Kick** - a kick that makes use of the bottom half of the shins. Aim for the outer portion of the leg, femur, knee, calf or Achilles tendon. 
 	* The round house motion is driven by hip-shoulder rotation. 
+* **Side Kick** - executed when the aggressor is on either side. Aim for the knee. 
+	* Note this requires shifting your weight to maintain balance.
+
 * **Vertical Stomp** - allows you to remain upright and balanced to deliver multiple blows with either foot on a downed aggressor using the bootheel. 
 	* Aim for the head or other extremities and drop your weight, concentrated on the bootheel, on the enemy. 
+* **Axe Stomp** - performed when the aggressor is prone and you are standing. The blow is using the cutting edge of the heel aimed for the head.
+	* Power comes from raising the leg higher. However, this requires more balance. 
 
 # Maneuver 
 ## Break Fall 
@@ -96,13 +111,11 @@
 	* **Blood Chokes** - target the carotid artery to cut off oxygen from the brain. This is preferred since it takes 8-13 seconds for the aggressor to lose consciousness.
 	* **Air choke** - target the trachea to cut off air to the lungs. It takes 2-3 minutes so it is not preferred. 
 
-### Blood Chokes 
 * **Rear Choke** - performed when behind the aggressor. 
 	* Pressure is applied by the biceps and forearms on both sides of the neck, along with additional pressure applied to the back of the aggressor's head using your own neck. 
 	* If the aggressor is taller, bring them down by pushing on their foot. 
 	* **Figure four variation** - allows more leverage by using the body as additional leverage, and instead of pushing with the head, push with the other arm. 
-
-### Air Chokes 
+* **Front Choke** - executed when you and the aggressor are facing each other. It makes use of the aggressor's collar to choke them.
 
 ## Throws 
 * Brings the aggressor to the floor to gain a tactical advantage.
@@ -115,23 +128,67 @@
 	* **Execution** - the aggressor is taken to the floor. 
 
 * **Leg Sweep** - in a standing position, sweep the aggressor's leg with your feet, using the aggressor's arm as a lever. 
+* **Hip Throw** - used when the aggressor is moving towards or pushing you. It makes use of the a aggressor's forward momentum to throw them off balance by grabbing them, lifting them, and throwing them over your shoulder. 
 # Counters 
 ### Strikes 
-* **Move** - move away from the impact of the strike.  Prefer to move away if possible. 
-* **Block** - block the strike with your arms. Make sure to protect your target spots (head, soft tissue, fleshy parts of the extremities)
-* **Strike** - execute another strike to counter an aggressor's strike. 
+* **Move** - move away from the impact of the strike.  *Prefer to move away if possible*. 
+* **Block** - block the strike with your arms. Make sure to protect your target spots (head, soft tissue, fleshy parts of the extremities). Deflect the attack with fleshy portions of your body as needed. 
+* **Strike** - execute another strike to counter an aggressor's strike.  Alternatively, perform a throw to off-balance the enemy. 
+
+* After moving away, or blocking, try to move to a more advantageous position. 
 
 ### Chokes and Holds 
 * **Clear the airway** - the first movement to counter a choke is to clear the airway to be able to breathe. 
 	* Use distractions on the aggressor by striking them.
 	* Soften the hold to loosen it. 
+	* Apply pressure to the aggressor's fingers or hand to get them to loosen their grip.
+	* Strike the enemy off balance. 
 * **Tuck the chin** - tuck your chin inside to prevent reapplication of the choke. 
-* Once the hold has been released, aim to counter attack -- usually by throwing the enemy of balance. 
+* Once the hold has been released, aim to counter attack -- usually by throwing the enemy of balance or striking them .
 
 # Manipulation 
 ## Unarmed 
+* **Pain Compliance** - the initiation of pain to gain compliance on the part of the subject
+* **Distractor Techniques** - a strike or kick to a pressure point to get the subject to loosen his grip. 
+	* Strike the joint to manipulate the joint more easier. Full force is not required.
+	* Distract the subject
+	* Redirect movement of the subject or break him down. This allows you to control their direction. 
+	* Knock a subject off balance with a kick to the thigh or a knee strike. 
+* **Joint Manipulation** - initiates pain compliance, applying the principles of off-balancing for better control. 
+	* Target the joints and apply pressure to them. 
+		* Apply direction in which the joint will not bend.
+		* Apply pressure up to the point where the joint stops naturally in its range of movement. Continued pressure will break the joint. 
+	* **Wristlock** - joint manipulation where the wrist is rotated beyond its natural ability to twist. 
+		* Execute when someone tries to grab you or to initiate control of someone.
+		* Apply slowly to gain compliance. 
+		* A wristlock can also be used to throw someone off balance since they are forced to rotate. 
+		* **Come Along** - in addition to a wrist lock, apply pressure on the elbow. 
+
+	* **Takedown** - sed to bring the subject to the floor to gain further control.
+		* A come along wrist cuff can be used as a precursor to a takedown by pulling the target by their wrist. After taking them down, apply pressure to the target's back and put their hands at the center of their backs.
+
+	* **Ambar Takedown** - a joint manipulation in which pressure is applied on a locked elbow or above the joint. Apply slowly to gain compliance.
+		* The arm is used as a lever to topple the opponent and apply pain on the elbow. 
+
+	* **Escort Position** - used, when necessary, to transport a subject from one location to another. Grab the aggressor's arm and hand. 
+		* Hand should be in the armpit, on the brachial plexus tie for enhanced pain compliance. 
+		* A takedown can be executed from this position by rotating the wrist in such a way the subject from bending their elbow 
 
 ## Armed
+* Used to counter opponents grabbing the weapon. The goal is to both retain the weapon, apply pain compliance, and (if needed) gain distance from the enemy.  
+* *Weapon grabs can be countered* by rotating the muzzle of the weapon against the opponent and slashing downwards.  We may additionally step back to double the distance. 
+	* If the aggressor pushes, use their momentum to throw them off balance.
+	* Another way to do this is to throw the aggressor off balance by pivoting your hips (and by proxy the weapon) or by sweeping them off balance. 
+
+* *Blocks* can be made using the rifle itself. 
+	* Prefer to hold the small of the stock of the weapon. 
+	* Block by thrusting the weapon out firmly, with elbows still bent. This absorbs the impact. 
+	* Do not hit with the rifle, use the rifle as a barrier. 
+	* Blocks can be 
+		* High - for attacks from high to low 
+		* Low - for attacks from low to high 
+		* Mid - for attacks against a linear direction. 
+		* Left / Right - against slashes in the perpendicular direction. 
 
 # Bayonets 
 * Keep movements of the bayonet blade within a box, shoulder width across from the neck down to the waistline. *Any wider, and the aggressor can block.*
@@ -151,8 +208,27 @@
 * **Disrupt** - a defensive technique to redirect or deflect an attack in preparation for a follow up. It is a slight redirection of a linear attack. 
 	* Aim to redirect the weapon away from your body by using your weapon as a tool to exert pressure on the enemy's. Add additional momentum with hip and shoulder rotation.
 	* Do not overexert it. *The aim is solely to make the enemy's weapon miss your body*. 
+	* By deflecting an attack, *we create an opening and we can also close on the aggressor*. Rely on hip / torso for generating power. 
+		* When doing this, move at a fast pace but do not run. Juke the enemy (i.e.,)
+		* Also, make sure to parry first and then close in. Doing the parry and thrust at the same time will cause you to become entangled with the aggressor.
+		* Thrusting while closing makes it even deadlier. 
 
 # Knife 
+* Causes trauma and damage to an aggressor by attacking soft body vital targets with a knife. 
+### General Principles 
+* Always execute movements with the knife blade within a box, shoulder width across from the neck down to the waist. A wider sweep gives more time to block. 
+* Keep the knife blade tip forward and pointed towards the aggressor. 
+* Apply full body weight and power. 
+* Attacks can either be vertical, diagonal, horizontal or a thrust. 
+* Attack soft body, vital targets that are easily accessible -- the face, neck, lower abdomen or groin. 
+* Treat extremities as secondary targets -- they will sever an artery and cause severe bleeding. 
+* The worst place to be in a confrontation is directly in front as the aggressor can rely on his forward momentum and linear power to create a tactical advantage. 
+* Moving at a 45 degree angle is the best way to avoid an aggressor's attack and puts you in the best position to attack. 
+* The knife is to be worn where it is easily accessible and best retained (for example, the weak side hip, behind the magazine pouch). Do not place it on something that can cover it. 
+* Grip the knife in a natural manner (hammer grip) with the blade end facing the aggressor. 
+### Techniques 
+* **Vertical Slash** - use when to close the distance with the aggressor. 
+* **Vertical Thrust** - more effective because of damage potential. 
 
 # Links 
 * [[United States Marine Corps Martial Arts Instruction Manual]]

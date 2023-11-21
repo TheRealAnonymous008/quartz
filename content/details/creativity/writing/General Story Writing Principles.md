@@ -93,7 +93,7 @@
 	* We may make use of existing imagery (**external**) or use a usually mundane piece of imagery given new life (**internal**)
 * *[[Symbolism|Symbols]] move us as long as we don't recognize them as symbols*> 
 # Links
-* [[__links/books/Story by Robert McKee|McKee]]
+* [[__books/Story by Robert McKee|McKee]]
 	* Ch. 15 - Exposition
 	* Ch. 16 - Various Problems and Solutions to Writing
 	* Ch. 18 - On Text

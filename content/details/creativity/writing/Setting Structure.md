@@ -15,5 +15,5 @@
 		* **Research From Fact** - Research from the world around you. Add to your working knowledge.
 	* However, constrain yourself. Research is not an end but a means. Do not get worldbuilding sickness.
 # Links
-* [[__links/books/Story by Robert McKee|McKee Ch. 3]]
+* [[__books/Story by Robert McKee|McKee Ch. 3]]
 * [[Worldbuilding]]

@@ -105,7 +105,7 @@
 	* On one hand, it can feel like the system cheating as players no longer have agency.
 	* On the other hand, it can be seen as a way for all players to have an optimal experience.
 
-### Game Theory Systems
+### [[Game Theory]] Systems
 * *Games are systems that involve rational choice that involve strategic decisions and outcomes*. 
 * Game states can be mapped out using decision trees. For real world, continuous cases, or unruly cases we can deal with discrete approximations to map out relationships between game states.
 * A **strategy** [^1] is a methodology for navigating the decision trees towards a desirable outcome, based on a state's **utility** (quantified preference)

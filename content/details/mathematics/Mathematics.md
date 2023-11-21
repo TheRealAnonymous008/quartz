@@ -1,6 +1,7 @@
 * In learning Mathematics, prioritize understanding the definitions first using examples if needed. Then, understand what the theorems are saying. Finally, understand the proofs on why a theorem should be true (analogous to the [[Reading#Three Pass Approach|three pass approach]])
 # Topics
 * [[Calculus]]
+* [[Game Theory]]
 * [[Graph Theory]]
 * [[Group Theory]]
 * [[Information Theory]]

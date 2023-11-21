@@ -69,10 +69,10 @@
 * **Social Progression** - widen the impact of the character actions into the story. *Progress from personal to societal / universal*. 
 * **Personal Progression** - drive actions deeply into the intimate relationships and inner lives of the characters.  *Progress from outer self to inner self*. 
 * **[[Symbolism|Symbolic]] Ascension** - build the symbolic change of the story's imagery from the particular to the universal. *Progress from having symbolic elements stand for literal ideas towards universal ideas*.  
-* **Ironic Ascension** - turn progression into irony. *Progression comes from showcasing the duality of existence. A reminder life is fickle and complex.*.  Some examples are found in [[__links/books/Story by Robert McKee|McKee Ch. 12]]
+* **Ironic Ascension** - turn progression into irony. *Progression comes from showcasing the duality of existence. A reminder life is fickle and complex.*.  Some examples are found in [[__books/Story by Robert McKee|McKee Ch. 12]]
 ### Principle of Transition
 * Stories without a sense of progression stumble from one scene to the next -- there is little continuity.
 * The **transition** is a hinge between two scenes -- something held in common by them or counterpointed between them (characterizations, actions, objects, words, atmosphere, setting, ideas).
 
 # Links
-* [[__links/books/Story by Robert McKee|McKee Ch 10 - 12]]
+* [[__books/Story by Robert McKee|McKee Ch 10 - 12]]

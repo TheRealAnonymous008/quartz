@@ -70,6 +70,6 @@
 * Expand the draft from the treatment step further through dialogue, exposition, and description.
 * *Put off dialogue for as soon as possible*. 
 # Links
-* [[__links/books/Story by Robert McKee]]
+* [[__books/Story by Robert McKee]]
 	* Chapter 1 Reads like an Essay on why we read stories and why mass production of stories has led to its decline.
 * [A brief summary of Story by Robert McKee on Reddit](https://www.reddit.com/r/Screenwriting/comments/ugwm3p/a_brief_summary_of_the_key_points_in_robert/)

@@ -700,14 +700,73 @@
 * How can the characters help fulfill this experience, without compromising their goals in the game world?
 
 ### 83. Fantasy
+* What fantasy does my world fulfill?
+* Who does the player fantasize about being?
+* What does my player fantasize about doing there?
+
 ### 84. The World 
+* How is my world better than the real world?
+* Can there be multiple gateways to my world? How do they differ? How do they support each other?
+* Is my world centered on a single story, or could many stories happen here?
+
 ### 85. The Avatar 
+*  Is my avatar an ideal form likely to resonate with my players?
+* Does my avatar have iconic qualities that let a player project themselves into the character?
+
 ### 86. Character Function 
-### 87. Character Trait
+* What are the roles I need the characters to fill?
+* What characters have I already imagined?
+* Which characters map well to which roles?
+* Can any characters fill more than one role?
+* Do I need to change the characters to better fit the roles?
+* Do I need any new characters?
+
+### 87. Character Traits
+* What traits define my character?
+* How do these traits manifest themselves in the words, actions, and appearance of my character?
+
 ### 88. The Interpersonal Circumplex 
+* Pick a character and place them in the center of a graph. One axis is labeled hostile / friendly, the other as submissive / dominant. 
+* Plot where other characters lie in the graph and ask these questions 
+
+* Are there any gaps in the chart? Why are they there? Would it be better if the gaps were filled?
+* Are there “extreme characters” on the graph? If not, would it be better if there were?
+* Are the character’s friends in the same quadrant, or different quadrants? What if that were different?
+
 ### 89. Character Web
+* List all the characters and for each one, consider the following 
+
+* How, specifically, does each character feel about each of the others?
+* Are there any connections unaccounted for? How can I use those?
+* Are there too many similar connections? How can they be more different?
+
 ### 90. Status
+* When people interact, they take on different behaviors depending on their status levels
+
+* What are the relative status levels of the characters in my game?
+* How can they show appropriate status behaviors?
+* Conflicts of status are interesting—how are my characters vying for status?
+* Changes of status are interesting—where do they happen in my game? [[#69. The Interest Curve]] applies.
+* How am I giving the player a chance to express status?
+
 ### 91. Character Transformation
+* We pay attention to character transformation, because we care about what might change us.
+
+* How does each of my characters change throughout the game?
+* How am I communicating those changes to the player? Can I communicate them more clearly, or more strongly?
+* Is there enough change?
+* Are the changes surprising and interesting?
+* Are the changes believable?
+
+### 92. Inner Contradiction
+### 93. The Nameless Quality 
+### 93.5 Presence 
+* Supplements [[#62. Transparency]]
+
+### 94. Atmosphere
+
+### 95. Spectation 
+### 96. Cheatability 
 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

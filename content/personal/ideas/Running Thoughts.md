@@ -12,7 +12,9 @@
   
   Empathize with the opposition. Understand where they are coming from.
   
-  Steelman argument -- respond to the strongest argument of the opposition. 
+  Steelman argument -- respond to the strongest argument of the opposition.
+
+* Every story is , in a sense, a self-insert story. However, the besttstories are those that hide this fact. Similar to a good [[Design of Everyday Things|interface]].
 
 
 

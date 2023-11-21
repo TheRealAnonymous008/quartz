@@ -41,4 +41,4 @@
 		* Thus, as a storyteller, *entertain the opposite idea to your premise.* The proof of your vision is not how well you assert the theme, but its victory over the enormously powerful forces you array against it.
 
 # Links
-* [[__links/books/Story by Robert McKee|McKee Ch. 6]]
+* [[__books/Story by Robert McKee|McKee Ch. 6]]

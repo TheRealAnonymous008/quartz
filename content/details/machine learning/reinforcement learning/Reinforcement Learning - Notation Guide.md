@@ -103,3 +103,10 @@
 * $r_t(\theta)$ - probability ratio (in the context of TRPO and PPO)
 * $J_t^\text{CLIP}$ - clip surrogate objective at time $t$ (see PPO) 
 * $J_t^\text{KLPEN}$ - KL divergence penalty objective (see PPO) at time $t$
+*****
+* $\mathcal{A}^i$ - for MARL, denotes the action set of the $i$-th agent. 
+* $\mathbb{A}$ - denotes the Cartesian product of all $\mathcal{A}^i$. 
+* $p:S\times\mathbb{A}\to S$ - denotes the environmental dynamics of the MARL environment. 
+* $R^i$ - denotes the reward function for the $i$-th agent. 
+* $^{-i}$ - superscript denotes that it is for all other agents except the $i$-th agent. 
+* $^i$ - superscript applies specifically for the $i$-th agent. 

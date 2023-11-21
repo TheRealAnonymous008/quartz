@@ -75,44 +75,18 @@
 	* The **Contrary** is a situation that is somewhat the opposite of $P$ but not fully the opposite. 
 	* The **Contradictory** is the direct opposite of $P$.
 	* The **Negation of the Negation**  - the direct opposite of $P$, but qualitatively worse that the contradictory.
-	* *Conflict progress through a pattern that includes the Contrary, Contradictory, and Negation of Negation*. 
-# Character Design
-* Characters are not humans. *Characters are a metaphor for human nature*. 
-* The inner workings of the character's minds are knowable. Humans aren't.
-### Characterization
-* Characterization is the assemblage of traits for each character.
-	* *Remember*: True character is revealed in the choices made under pressure and risk -- the greater the risk, the deeper the revelation, the truer the choice to the character's essential nature.
-	* The **revelation** of true character in contrast or contradiction to characterization is fundamental to fine storytelling -- *Remember: What seems is not what is*.
-
-* There are four ways to characterize:
-	* [[Dialogue]]
-	* **Descriptions**, both of the character and how they see the world.
-		* Use descriptive establishing shots--from the wide setting to the specific characters and scene.
-		* Almost always authors rely on sight, but remember there are other senses that characters can feel from. Description should not just be limited on visual features but also those derived from other senses (sound, smell, temperature, etc..)
-	* **[[Plot Structure|Beats]]**
-	* **Introspection** - where characters ruminate
-		* Break it up to small chunks so the reader can easily digest it.
-		* Make the introspection purposeful. That is, make it advance or reinforce the character's motivations or arc. 
-### True Character
-* **True Character** can only be expressed through choice in dilemma. How the person choses to act under pressure is who he is -- the greater the pressure, the truer and deeper the choice of character.
-* *What makes a character interesting is the contrast between what they seem to be, what they think they are, and what their true character is. This is what we mean by character depth*. 
-	* Consistent contradictions give rise to the dimensions of the character.
-### Casting
-* All other characters in a story exist in relation to the protagonist(s). 
-* The cast of characters delineate and distinguish the protagonist's (and each other's) dimensions through their [[Dialogue|dialogue]] and actions.
-* This illustrates: *Dimension can be created from simple counterpoint*. 
-* Note: *The depth of a character is proportional to their role in the story*.
-* **Comic characters** are marked with a blind obsession -- a mania that the character does not see. In this mania we see the ridiculousness of the character.
-* *Sympathetic villains are memorable* - we can understand their motivations, and why they act the way they do.
+	* *Conflict progress through a pattern that includes the Contrary, Contradictory, and Negation of Negation*.  
 
 # Other Tips
 * *Fall in love with all your characters*. If the writer cannot love the character, how will the audience?
 * *The root of all fine character is self-knowledge*. The more you empathize, the better characters you write.
+# Topics 
+* [[Writing Groups of Interest]]
+* [[Character Design]]
+
 # Links
 * [[details/creativity/writing/Story by Robert McKee|Story by Robert McKee]]
 	* Ch. 5 - discusses Story and Characters
 	* Ch. 7 - discusses the role of the Protagonist. 
 	* Ch. 14 - includes discussions on Contrary, Contradictory, and Negation of Negation
 	* Ch. 17 - discusses Characters.
-
-* [[Writing Groups of Interest]]
