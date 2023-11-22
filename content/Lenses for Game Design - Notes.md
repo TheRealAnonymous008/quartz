@@ -6,6 +6,7 @@
 * [[Lenses for the Experience]]
 
 ### Worlds Contain Spaces 
+* Principles in [[Architecture]] may be useful here. 
 * Relevant Lenses: [[Lenses for Game Design - Lenses#92. Inner Contradiction|Inner Contradiction]], [[Lenses for Game Design - Lenses#93. The Nameless Quality|The Nameless Quality]]. 
 
 ### Some Interfaces Create a Feeling of Presence
