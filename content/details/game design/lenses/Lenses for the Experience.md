@@ -121,3 +121,50 @@
 * However, beware the uncanny valley, if you do not want to unintentionally creep the players out. 
 
 * Relevant Lenses: [[Lenses for Game Design - Lenses#85. The Avatar|The Avatar]], [[Lenses for Game Design - Lenses#86. Character Function|Character Function]], [[Lenses for Game Design - Lenses#87. Character Traits|Character Traits]], [[Lenses for Game Design - Lenses#88. The Interpersonal Circumplex|The Interpersonal Circumplex]], [[Lenses for Game Design - Lenses#89. Character Web|Character Web]], [[Lenses for Game Design - Lenses#90. Status|Status]], [[Lenses for Game Design - Lenses#91. Character Transformation|Character Transformation]] 
+
+### Worlds Contain Spaces 
+* Principles in [[Architecture]] may be useful here. 
+* Five common ways of organizing game spaces. We can combine these as well. 
+	* **Linear** - player only moves forward or back along a 1D line .
+	* **Grid** - player moves in a grid pattern (i.e., a 2D plane)
+	* **Web** - player moves along a [[Graph Theory|graph]] or a network.
+	* **Points in Space** - player moves freely in a 3D space. This is used to evoke a feeling of wandering and exploration. 
+	* **Divided Space** - players move along a map consisting of sections. 
+
+* *Good game spaces have good landmarks* for both the player's convenience and to serve as set pieces. 
+* [[Christopher Alexander]] provides additional advice on architecture.
+* It is hard for the human mind to map 3D into 2D. Hence, *it's not important that 3D spaces have realistic 2D blueprints*, only that the space feels good when the player is in it
+	* *Know how big the space is*. Have a sense of scale. Usually things look out of scale because of:
+		* Eye height. People assume they are at eye height similar to their own. 
+		* Doorways. Doorways are 1 person high. In general, you should have an object that's 1 person high for reference. 
+		* [[Texturing in Computer Graphics|Texture]] scaling. 
+	* *Remember the third dimension*. Interior spaces tend to feel crowded if you look from the third dimension.
+		* For interior spaces, the best solution is to scale the room, the elements in the room and spread them out. 
+
+* Relevant Lenses: [[Lenses for Game Design - Lenses#92. Inner Contradiction|Inner Contradiction]], [[Lenses for Game Design - Lenses#93. The Nameless Quality|The Nameless Quality]]. 
+
+### The Look and Feel of a World is Defined by Its Aesthetics 
+* Good artwork benefits the game because ... 
+	* It can draw players in 
+	* It makes the world feel solid. 
+	* Aesthetic pleasure is a reward in itself. 
+	* It creates a certain atmosphere when it harmonizes with the rest of the game. 
+	* Players may tolerate imperfections in the design if it has a beautiful surface. 
+
+* *Complementary to deep listening is deep seeing*. See more than the surface level to better appreciate and analyze the game's aesthetic. 
+* *Aesthetics can guide design*. It can help, for example, to have concept art in the game. 
+	* [[details/creativity/Drawing|Draw]] but if that's not possible, have an artistic partner you can communicate with. 
+		* *Let the artists govern the aesthetic vision. Let the engineers govern the technology to match the aesthetic vision. But the ideal is to bridge between the two by having an understanding of the two*.
+
+	* *A well-rendered image of a good idea is compelling in a way that few people can resist*
+	* This has the following benefits:
+		* It makes the idea clearer to everyone 
+		* It lets people imagine entering the game world 
+		* It gets people excited about playing and working on the game 
+		* It allows you to secure funding. 
+	* *An illustration is a [[details/creativity/design/DOET/Design Thinking|prototype]] for how the game should look*. 
+	* **Tolkien's Distant Mountains Trick** - make the game deeper and richer by creating distant mountains -- give names to things that are never seen but give the world an illusion of breadth. 
+
+* Aside from visuals, audio is just as important. If, by the beginning of the game, you are able to select the kind of music you want the game to have, you have efficiently made a subconscious decision on what you want the game to feel like -- its atmosphere. 
+
+* Relevant Lenses: [[Lenses for Game Design - Lenses#94. Atmosphere|Atmosphere]]. 

@@ -14,7 +14,7 @@
 
 * What experience do I want the player to have?
 * What is essential to that experience?
-* How can my game capture that essence?
+* How can my game capture that essence via the game's mechanics and artwork? 
 
 ### 3. Venue
 * The places that we play exert tremendous influence on the design of our games.
@@ -43,6 +43,7 @@
 * What questions does my game put into the player’s mind
 * What am I doing to make them care about these questions
 * What can I do to make them invent even more questions?
+* Can I use the game's artwork to evoke a sense of curiosity? 
 
 ### 7. Endogenous Value
 * A game’s success hinges on the players’ willingness to [[The Fundamentals of Game Design#Entering the Game|pretend]] it is important, and by proxy how willing they are to succeed in the game.
@@ -127,6 +128,7 @@
 * Use this lens to either: 
 	* Identify the toy-like qualities to the game. 
 	* Identify how to invent and create new toys before even making the game. 
+	* Identify what aesthetic qualities please the player.
 
 ### 18. Passion 
 * At the end of each prototype, when you are carefully mitigating risks and planning what to do next, don’t forget to check how you feel about the game. 
@@ -146,6 +148,7 @@
 
 * Synergizes with [[#10. Holographic Design|Holographic Design]]. 
 * Even more useful than thinking about the player, is watching them play -- the more you observe, the more easily you'll be able to predict what they are going to enjoy.
+* You can apply this for aesthetics as well.
 
 ### 20. Pleasure 
 * Think about the kinds of pleasure the game does and does not provide. 
@@ -219,6 +222,7 @@
 * Would clocks or races make my gameplay more exciting?
 * Time limits can irritate players. Would I better off without time limits?
 * Would a hierarchy of time structures help my game? That is, several short rounds that together comprise a larger round?
+* Ask the above again, but for the aesthetic aspects of the game. 
 
 ### 28. State Machine 
 * [[Finite Automata and Regular Languages|More on state machines here]].
@@ -400,7 +404,8 @@
 * Getting a reward you don’t understand is like getting no reward at all. Do my players understand the rewards they are getting?
 * Are the rewards my game gives out too regular? Can they be given out in a more variable way?
 * How are my rewards related to one another? Is there a way that they could be better connected?
-* How are my rewards building? Too fast, too slow, or just right?
+* How are my rewards building? Too fast, too slow, or just right? 
+* Rewards can also be the aesthetic experience. Repeat the above question but for the aesthetics.
 
 ### 47. Punishment 
 * Use punishment delicately. 
@@ -420,9 +425,10 @@
 * Are there elements of my game that are too simple?
 
 * Synergizes with [[#30. Emergence]]. 
+* The principles above also apply to the game's aesthetic.
 
 ### 49. Elegance
-* What are the elements of my game?
+* What are the elements (mechanical or aesthetic) of my game?
 * What are the purposes of each element? Count these up to give the element an “elegance rating.”
 * For elements with only one or two purposes, can some of these be combined into each other or removed altogether?
 * For elements with several purposes, is it possible for them to take on even more?
@@ -446,6 +452,7 @@
 * Can I give details that the imagination will be able to reuse again and again?
 * What details I provide inspire imagination?
 * What details I provide stifle imagination?
+* How does the aesthetics of the game influence the player's imagination. Repeat the questions above but for the aesthetics
 
 ### 52. Economy 
 * Economies give depth to the game. 
@@ -466,8 +473,8 @@
 * Players should be able to clearly visualize what the first few steps should be. The [[#32. Goals]] should be clear and the puzzle should  be like [[#17. The Toy]].
 
 * How will players know how to begin solving my puzzle or playing my game? Do I need to explain it, or is it self-evident?
-* Does my puzzle or game act like something they have seen before? If it does, how can I draw attention to that similarity. If it does not, how can I make them understand how it does behave?
-* Does my puzzle or game draw people in and make them want to touch it and manipulate it? If not, how I can I change it so that it does?
+* Does my puzzle or game act like something they have seen before? If it does, how can I draw attention to that similarity. If it does not, how can I make them understand how it does behave? Can I use aesthetics or mechanics for this?
+* Does my puzzle or game draw people in and make them want to touch it and manipulate it? If not, how I can I change it so that it does? Can I use aesthetics or mechanics to draw them in? 
 
 ### 55. Visible Progress 
 * Players need to see that they are making progress when solving a difficult problem
@@ -475,6 +482,7 @@
 * What does it mean to make progress in my game or puzzle?
 * Is there enough progress in my game? Is there a way I can add more interim steps of progressive success?
 * What progress is visible, and what progress is hidden? Can I find a way to reveal what is hidden?
+* Can I use aesthetics to show visible progress.
 
 ### 56. Parallelism 
 * **Parallelism** pertains to the principle that players gravitate towards answering the questions that are easiest for them.
@@ -507,7 +515,7 @@
 ### 60. Physical Interface 
 * The **physical interface** entails physical interaction with the game (i.e., buttons, touch controls)
 
-* What does the player pick up and touch? Can this be made more pleasing?
+* What does the player pick up and touch? Can this be made more pleasing (aesthetically or experientially)?
 * How does this map to the actions in the game world? Can the [[Knowledge in the Head and In the World#Natural Mappings|mappings]] be more direct?
 * If you can’t create a custom physical interface, what metaphor are you using when you map the inputs to the game world?
 * How does the physical interface look under [[#17. The Toy]]?
@@ -523,6 +531,7 @@
 * How can this information be delivered to the player in a way that won’t interfere with the player’s interactions with the game world?
 * Are there elements of the game world that are easier to interact with using a virtual interface (like a pop-up menu, for instance) than they are to interact with directly?
 * What kind of virtual interface is best suited to my physical interface? 
+* Can I consider the aesthetics of the virtual interface? 
 
 ### 62. Transparency 
 * The ideal interface becomes invisible to the player. 
@@ -564,6 +573,7 @@
 * Which channels are most appropriate for which data? Why?
 * Which dimensions are available on the different channels?
 * How should I use those dimensions?
+* How are the channels like, aesthetics wise?
 
 ### 67. Modes
 * Make sure your modes make the player feel powerful and in control, and do not confuse or overwhelm.
@@ -584,7 +594,7 @@
 * Memorable moments are stars that make up the constellation of your interest curve.
 
 * What are the key moments in my game?
-* How can I make each moment as powerful as possible?
+* How can I make each moment as powerful as possible? Can I use aesthetics? Narrative? Mechanics? What else? 
 
 ### 69. The Interest Curve 
 * If I draw an interest curve of my experience, how is it generally shaped?
@@ -620,6 +630,7 @@
 * Are there other characters in the game that the players would be interested to meet (or to spy on)?
 * Do the players get to do things that they would like to do in real life, but can’t?
 * Is there an activity in the game that once a player starts doing, it is hard to stop?
+* Ask the above questions but with a focus on the aesthetics of the game.
 
 ### 73. The Story Machine 
 * A good game is a machine that generates stories when people play it.
@@ -643,6 +654,7 @@
 * How is my world simpler than the real world? Can it be simpler in other ways?
 * What kind of transcendent power do I give to the player? How can I give even more without removing challenge from the game?
 * Is my combination of simplicity and transcendence contrived, or does it provide my players with a special kind of wish fulfillment?
+* The wish fulfillment can simply be living in an aesthetically pleasing world. How does my game fulfill that? Can I ask the above questions but with aesthetics in mind?
 
 ### 76. The Hero's Journey
 * See [[Plot#Hero's Journey|here]] for more. 
@@ -689,6 +701,7 @@
 * Can interface get players to do it?
 * Can visual design get players to do it?
 * Can game characters get players to do it?
+* Can aesthetics get players to do it?
 * Can music or sound get players to do it?
 * Is there some other method I can use to coerce players toward ideal behavior without impinging on their feeling of freedom?
 * Is my design inducing desires I’d rather the player not have?
@@ -703,15 +716,18 @@
 * What fantasy does my world fulfill?
 * Who does the player fantasize about being?
 * What does my player fantasize about doing there?
+* How does aesthetics contribute to the fantasy? 
 
 ### 84. The World 
 * How is my world better than the real world?
 * Can there be multiple gateways to my world? How do they differ? How do they support each other?
 * Is my world centered on a single story, or could many stories happen here?
+* Is my world aesthetically pleasing compared to the real world? 
 
 ### 85. The Avatar 
 *  Is my avatar an ideal form likely to resonate with my players?
 * Does my avatar have iconic qualities that let a player project themselves into the character?
+* Can I analyze the avatar from the lens of aesthetics.
 
 ### 86. Character Function 
 * What are the roles I need the characters to fill?
@@ -748,6 +764,7 @@
 * Conflicts of status are interesting—how are my characters vying for status?
 * Changes of status are interesting—where do they happen in my game? [[#69. The Interest Curve]] applies.
 * How am I giving the player a chance to express status?
+* Can we convey status using aesthetic elements within the game?
 
 ### 91. Character Transformation
 * We pay attention to character transformation, because we care about what might change us.
@@ -759,14 +776,43 @@
 * Are the changes believable?
 
 ### 92. Inner Contradiction
+* A good game cannot contain properties that defeat the game’s very purpose.
+
+* What is the purpose of my game?
+* What are the purposes of each subsystem in my game?
+* Is there anything at all in my game that contradicts these purposes?
+* If so, how can I change that?
+* Repeat the above questions but for the aesthetics of the game.
+
 ### 93. The Nameless Quality 
+* Does my design have a special feeling of life, or do parts of my design feel dead? What would make my design feel more alive?
+* Refer to the list [[Christopher Alexander|here]].  Which of these attributes does my design  have? 
+* Could it have more of them, somehow?
+* Where does my design feel like myself?
+* Repeat the above questions but for the aesthetics of the game instead.
+
 ### 93.5 Presence 
-* Supplements [[#62. Transparency]]
+* Supplements [[#62. Transparency]] especially in the context of VR / AR 
+
+* Is my player experiencing a sense of presence? Could it be stronger?
+* What in my game is diminishing or breaking presence?
+* What in my game is building or strengthening presence?
 
 ### 94. Atmosphere
+* Atmosphere is invisible and intangible. But somehow it envelops us, permeates us, and makes us part of the world.
+
+* Without using words, how can I describe the atmosphere of my game?
+* How can I use artistic content (both visual and audible) to deepen that atmosphere?
 
 ### 95. Spectation 
-### 96. Cheatability 
+### 95.5. Cheatability 
+### 96 Friendship
+### 97. Expression 
+### 98. Community 
+### 99. Griefing 
+### 100. Love 
+### 101. The Team
+### 102. Documentation
 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

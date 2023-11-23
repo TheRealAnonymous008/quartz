@@ -281,3 +281,45 @@
 	* Break the rules to help the player. 
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#59. Control|Control]],  [[Lenses for Game Design - Lenses#60. Physical Interface|Physical Interface]],  [[Lenses for Game Design - Lenses#61. Virtual Interface|Virtual Interfaces]],  [[Lenses for Game Design - Lenses#62. Transparency|Transparency]],  [[Lenses for Game Design - Lenses#63. Feedback|Feedback]],  [[Lenses for Game Design - Lenses#64. Juiciness|Juiciness]],  [[Lenses for Game Design - Lenses#65. Primality|Primality]],  [[Lenses for Game Design - Lenses#66. Channels and Dimensions|Channels and Dimensions]],  [[Lenses for Game Design - Lenses#67. Modes|Modes]],  [[Lenses for Game Design - Lenses#67.5 Metaphor|Metaphor]]. 
+
+### Some Interfaces Create a Feeling of Presence
+* The magic of VR and AR interfaces comes, not in fooling the mind, but fooling the mind's sense of the body -- *fooling proprioception*.  It is the feeling that you are present within the simulation itself. 
+
+|            | Here    | There        |
+| ---------- | ------- | ------------ |
+| Real World | Reality | Telepresence |
+| Simulation | AR      | VR             |
+
+* *Game designers create new realities*. 
+	* **Logical Reality** - the [[Games as Rules|rules]] of cause and effect. 
+	* **Spatial Reality** - how I move through space.
+	* **Proprioceptive Reality** - where it feels like my body is
+	* **Social Reality** - how I interact with others. 
+
+* *The heart of AR and VR is presence*. Here are six ways to break presence. 
+	* *Motion sickness*. Some tips to prevent this are as follows:
+		* *Keep the framerate up.* 60 fps at minimum. 
+		* *Avoid virtual camera movement.* Spatial motion risks creating motion sickness.
+		* If the camera must move, *don't accelerate* it. 
+		* *Hide the edges of the visual field* (i.e., the vignette). The brain uses peripheral vision to determine motion. 
+		* *Teleport sparingly*. The mind creates a 3D model but only when it has looked at the space.
+		* *Keep the horizon level*. Avoid any form of virtual rotation (i.e., having the game rotate). Let the players do the rotation. 
+	* *Counterintuitive interactions.* Interactions must match with what the players expect as reality. 
+	* *Intensity overload*. This is when the experience becomes "too real" that the players want to stop. The player's mind is fighting against the presence. 
+	* *Unrealistic audio*. Hearing is believing. You use your sound to decide where your body is. 
+	* *Proprioceptive Disconnect*. When the virtual avatar has a disconnect with the physical avatar. When the player can see their virtual avatar, it feels uncanny. 
+	* *Lack of identity*. If the NPCs do not address your presence in the world, the player will realize they aren't really there.
+
+* Here are six presence builders
+	* *Hand presence*. Something about seeing your hand convinces you the world is solid and real. When using tools in the virtual environment, most players can't remember. 
+	* *Social presence*. Being able to speak and gesture with VR and AR creates a special experience. You feel that you are part of a social space. 
+	* *Familiarity*. Have set pieces that the player can recognize. 
+	* *Realistic Audio*. This includes spatialized sound and proper acoustics. 
+	* *Proprioceptive alignment*. The real life body and the virtual body are strongly aligned. 
+	* *Comedy*. It is easier to build a presence in a comedic world than in a serious world. Discovering the crazy rules of the world is the delight. 
+
+* *Encourage Looking around*. Give the player reasons to look around by making some items invisible to the player's immediate FOV. 
+* *Consider brownboxing*. Build an experience in reality to simulate a VR scene in the real world. This is the VR counter part to testing on pen and paper. 
+* *Inputs are important in VR / AR*. Design your game around these input mechanisms. 
+
+* Relevant Lenses: [[Lenses for Game Design - Lenses#93.5 Presence|Presence]]. 

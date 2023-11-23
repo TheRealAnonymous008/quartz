@@ -16,5 +16,8 @@
 
 * Every story is , in a sense, a self-insert story. However, the besttstories are those that hide this fact. Similar to a good [[Design of Everyday Things|interface]].
 
+# Trivia
+* The toxicology hypothesis -- Vomiting while motion sick can be traced back to the same sensors for motion sickness being associated with detecting if we are poisoned (since this also causes nausea). Hence, the response is to throw up the poisoned food.
 
+* [Penguin, Depressed](https://www.reddit.com/r/todayilearned/comments/1tjusn/til_that_penguins_when_depressed_or_had_enough/?rdt=38134)
 

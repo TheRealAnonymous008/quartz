@@ -87,13 +87,15 @@
 	* The round house motion is driven by hip-shoulder rotation. 
 * **Side Kick** - executed when the aggressor is on either side. Aim for the knee. 
 	* Note this requires shifting your weight to maintain balance.
+* **Push Kick** - executed when the aggressor is in front of you and you need to stop the attack or create an opening in his defense. Strike with the ball of the foot. 
+	* The main targets are the upper torso, and any targets below the waistline
 
 * **Vertical Stomp** - allows you to remain upright and balanced to deliver multiple blows with either foot on a downed aggressor using the bootheel. 
 	* Aim for the head or other extremities and drop your weight, concentrated on the bootheel, on the enemy. 
 * **Axe Stomp** - performed when the aggressor is prone and you are standing. The blow is using the cutting edge of the heel aimed for the head.
 	* Power comes from raising the leg higher. However, this requires more balance. 
 
-# Maneuver 
+# Maneuvers
 ## Break Fall 
 * The aim is to reduce injury by absorbing impact in case of a fall or throw and to quickly get back up. 
 * Keep the head away from the floor by tucking it in and raising it away from the floor. 
@@ -116,6 +118,7 @@
 	* If the aggressor is taller, bring them down by pushing on their foot. 
 	* **Figure four variation** - allows more leverage by using the body as additional leverage, and instead of pushing with the head, push with the other arm. 
 * **Front Choke** - executed when you and the aggressor are facing each other. It makes use of the aggressor's collar to choke them.
+* **Side Choke** - effective when deflecting a punch thrown by an aggressor. The punch s blocked, and the aggressor's extended arm is used as an additional hold. 
 
 ## Throws 
 * Brings the aggressor to the floor to gain a tactical advantage.
@@ -128,7 +131,8 @@
 	* **Execution** - the aggressor is taken to the floor. 
 
 * **Leg Sweep** - in a standing position, sweep the aggressor's leg with your feet, using the aggressor's arm as a lever. 
-* **Hip Throw** - used when the aggressor is moving towards or pushing you. It makes use of the a aggressor's forward momentum to throw them off balance by grabbing them, lifting them, and throwing them over your shoulder. 
+* **Hip Throw** - used when the aggressor is moving towards or pushing you. It makes use of the a aggressor's forward momentum to throw them off balance by grabbing them, lifting them, and throwing them over your body (but while bending down so it is over your hip)
+* **Shoulder Throw** - used to take the aggressor to the ground while you remain standing. It is similar to a hip throw except you can remain standing and throw the aggressor over your shoulder.
 # Counters 
 ### Strikes 
 * **Move** - move away from the impact of the strike.  *Prefer to move away if possible*. 
@@ -145,6 +149,15 @@
 	* Strike the enemy off balance. 
 * **Tuck the chin** - tuck your chin inside to prevent reapplication of the choke. 
 * Once the hold has been released, aim to counter attack -- usually by throwing the enemy of balance or striking them .
+
+### Ground Fighting 
+* Provides techniques for getting back on your feet. 
+
+* *If you are lying on your back* and the aggressor is on top of you, the aggressor has a tactical advantage. 
+	* The counter is to bring the aggressor in closer and roll them over. At the same time, roll alongside them and get on top of them. 
+* *If the aggressor is lying on their back* and you are kneeling on the ground between their legs wrapped around you. The counter involves striking the femoral nerve and groin, at the same time throwing the aggressor's leg over your head.
+
+* An armbar can be used to cause damage to the aggressor's arm. 
 
 # Manipulation 
 ## Unarmed 
@@ -163,9 +176,12 @@
 		* Apply slowly to gain compliance. 
 		* A wristlock can also be used to throw someone off balance since they are forced to rotate. 
 		* **Come Along** - in addition to a wrist lock, apply pressure on the elbow. 
+		* Additional pressure can be applied to the radial nerve and ulnar nerve by moving out and down in a circular motion.
+		* Pushing up on the elbow in the opposite direction of the hand also adds pressure. 
 
-	* **Takedown** - sed to bring the subject to the floor to gain further control.
-		* A come along wrist cuff can be used as a precursor to a takedown by pulling the target by their wrist. After taking them down, apply pressure to the target's back and put their hands at the center of their backs.
+* **Takedown** - sed to bring the subject to the floor to gain further control.
+	* A come along wrist cuff can be used as a precursor to a takedown by pulling the target by their wrist. After taking them down, apply pressure to the target's back and put their hands at the center of their backs.
+		* More pain can be applied by applying pressure to the finger joints and bending them away from each other.
 
 	* **Ambar Takedown** - a joint manipulation in which pressure is applied on a locked elbow or above the joint. Apply slowly to gain compliance.
 		* The arm is used as a lever to topple the opponent and apply pain on the elbow. 
@@ -174,6 +190,7 @@
 		* Hand should be in the armpit, on the brachial plexus tie for enhanced pain compliance. 
 		* A takedown can be executed from this position by rotating the wrist in such a way the subject from bending their elbow 
 
+* **Same / Opposite Side Grab** - use when someone grabs your wrist. Trap the aggressor's hand with the palm of your same / other hand, rotate and aim to grasp at the right forearm. 
 ## Armed
 * Used to counter opponents grabbing the weapon. The goal is to both retain the weapon, apply pain compliance, and (if needed) gain distance from the enemy.  
 * *Weapon grabs can be countered* by rotating the muzzle of the weapon against the opponent and slashing downwards.  We may additionally step back to double the distance. 
@@ -190,8 +207,12 @@
 		* Mid - for attacks against a linear direction. 
 		* Left / Right - against slashes in the perpendicular direction. 
 
-# Bayonets 
+# Weaponry
+## Bayonets 
 * Keep movements of the bayonet blade within a box, shoulder width across from the neck down to the waistline. *Any wider, and the aggressor can block.*
+* *When turning the weapon, turn with your torso, not with your arms. That way the weapon is facing the same way you are*. 
+	* When approaching a target, lock on the aggressor and move fast 
+	* When closing in on the target, perform closing, rapidly moving towards them to gain a psychological and tactical advantage. 
 * The goal of these techniques is to disable or kill the aggressor. 
 
 * **Straight Thrust** - the deadliest technique. It causes the most trauma to the aggressor. 
@@ -200,6 +221,7 @@
 	* Best executed after a thrust, but should always be followed by a slash or thrust. 
 	* The momentum comes from rotation of the hip and shoulder as well as the swinging motion of the arms.
 * **Vertical Buttstroke** - similar to the horizontal buttstroke but the strike runs vertically, going upwards.
+* **Buttstroke Offline** - involves moving forward while also executing a vertical or horizontal buttstroke when your weapons touch.
 * **Smash** - used as a follow-on technique to a buttstroke, when the target was missed or to gain proper striking distance. 
 	* The goal is to strike the enemy with the buttstock of the rifle. When retracting, step forward and close the distance. 
 	* Momentum comes from thrusting the rifle's butt to the aggressor.
@@ -213,7 +235,7 @@
 		* Also, make sure to parry first and then close in. Doing the parry and thrust at the same time will cause you to become entangled with the aggressor.
 		* Thrusting while closing makes it even deadlier. 
 
-# Knife 
+## Knife 
 * Causes trauma and damage to an aggressor by attacking soft body vital targets with a knife. 
 ### General Principles 
 * Always execute movements with the knife blade within a box, shoulder width across from the neck down to the waist. A wider sweep gives more time to block. 
@@ -227,9 +249,34 @@
 * The knife is to be worn where it is easily accessible and best retained (for example, the weak side hip, behind the magazine pouch). Do not place it on something that can cover it. 
 * Grip the knife in a natural manner (hammer grip) with the blade end facing the aggressor. 
 ### Techniques 
-* **Vertical Slash** - use when to close the distance with the aggressor. 
-* **Vertical Thrust** - more effective because of damage potential. 
+* **Vertical Slash** - use when to close the distance with the aggressor, specifically targeting the limbs. It goes high to low, using body weight.  
+* **Vertical Thrust** - more effective because of damage potential.  The thrust goes low to high following a vertical line straight up the target.
+* **Forward Thrust** - follows a linear line straight into the aggressor's neck (high) or abdominal region (low)
+	* Twist the knife once it is inserted to cut the aggressor further.
+	* When pulling the knife, cut your way out rather than pulling straight to cause more damage.
+* **Forward Slash** - used to close the distance with the aggressor targeting either the neck (high) or abdominal region (low) 
+* **Reverse Slash** - similar to the forward slash but in the reverse direction (if a forward slash is right to left, a reverse is left to right.)
+* **Bulldogging** - incorporates a thrust / slash with movement and open hand strike. 
+	* While moving forward, perform a thrust or slash. 
+	* After a strike, perform a strike to the face to stun the aggressor.
 
+* We can counter attacks with follow up techniques using the knife.
+	* Move forward inside the arc of the attack.  Block the attack with the left arm and execute a killing technique.
+
+### Weapons of Opportunity 
+* Pertains to weapons found on the field. *Anything can be a weapon*. 
+* Some weapons can be used like a knife or a bayonet. But regardless, the general principles are still applicable. 
+
+* **Straight Thrust** - effective for executing a frontal attack or a quick poke to keep the subject away, puncture the abdomen, break the ribcage, or cause damage to the neck. 
+* **Vertical Strike** - effective for  executing a frontal attack from high to low. The weapon is brought down on the aggressor using weight distribution. 
+* **Forward Strike** - executes a frontal attack at a 45 degree angle or horizontally. Movement is made in the direction of the strike. The strike itself is powered by hip / shoulder rotation going high to low
+* **Reverse Strike** - like the forward strike but in the opposite direction going high to low (if a forward strike is right to left, a reverse strike is left to right) 
+
+* We can counter attacks with follow on strikes. 
+	* Move forward in the direction of the swing. For thrusts, strike the arm and step out of the way. 
+	* Use the weapon itself to block the attack. Make sure it is perpendicular to the aggressor's weapon so it doesn't slip You may also block the arm if it is closer. 
+	* Make sure the block has two points of contact to disperse the impact. 
+	* Follow up with a lethal strike. 
 # Links 
 * [[United States Marine Corps Martial Arts Instruction Manual]]
 * [[Weapons]]
