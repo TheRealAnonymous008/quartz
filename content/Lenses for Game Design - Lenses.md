@@ -805,14 +805,50 @@
 * How can I use artistic content (both visual and audible) to deepen that atmosphere?
 
 ### 95. Spectation 
+* Make the game spectator worthy 
+
+* Is my game interesting to watch? Why or why not?
+* How can I make it more interesting to watch?
+
 ### 95.5. Cheatability 
+* Can players cheat at my game? How?
+* If players can cheat, will anyone notice?
+* Do players trust my game?
+
 ### 96 Friendship
+* What kind of friendships are my players looking for?
+* How do my players break the ice?
+* Do my players have enough chance to talk to each other? Do they have enough to talk about?
+* When is the moment they become friends?
+* What tools do I give the players to maintain their friendships?
+
 ### 97. Expression 
+* How am I letting players express themselves?
+* What ways am I forgetting?
+* Are players proud of their identity? Why or why not?
+
+* Synergizes with [[#71. Beauty]] and [[#90. Status]].
+
 ### 98. Community 
+* What conflict is at the heart of my community?
+* How does architecture shape my community?
+* Does my game support three levels of experience?
+* Are there community events?
+* Why do players need each other?
+
 ### 99. Griefing 
+* What systems in my game are easy to grief?
+* How can I make my game boring to grief?
+* Am I ignoring any loopholes?
+
 ### 100. Love 
 ### 101. The Team
 ### 102. Documentation
+### 103. Playtesting 
+### 104. Technology 
+### 105. The Crystal Ball 
+### 106. Utopia
+
 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

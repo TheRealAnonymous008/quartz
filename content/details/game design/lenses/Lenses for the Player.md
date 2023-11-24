@@ -39,3 +39,57 @@
 	* Note there is such a thing as being too novel -- being too much ahead of its time without having something familiar to ground it on, and relying solely on novelty and nothing else. 
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#22. Needs|Needs]], [[Lenses for Game Design - Lenses#23. Motivation|Motivation]], [[Lenses for Game Design - Lenses#24. Novelty|Novelty]], [[Lenses for Game Design - Lenses#25. Judgment|Judgment]] 
+
+### Some Games Are Played with Other Players 
+* [[Players and Why We Play Games#The Social Reasons for Play|The Social Reasons for Play]] are important to consider in our design. [[Games as Play#Social Play|Social Play]] as a schema also applies here. 
+* One risk of games in particular is [[Games as Rules#Subverting Rules|cheating]]. 
+* *Rule of thumb*: A multiplayer game will take four times the effort and expense to create than a single player game due to balancing. 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#95. Spectation|Spectation]], [[Lenses for Game Design - Lenses#95.5. Cheatability|Cheatability]]
+
+
+### Other Players Sometimes Form Communities
+* *A community is a group of people with a shared interest, purpose or goal who get to know each other better over time.*  Communities have:
+	* **Membership** to define its members 
+	* **Influence** to give its members power over something 
+	* **Integration and Fulfillment of Needs** to give the members something 
+	* **Shared Emotional Connection** where members can share emotions about certain events. 
+* As game designers, we may want to form communities because:
+	* It feels a social needs 
+	* It allows the game to spread by recommendation.
+	* More hours of play. A game that can engender a community will get played for a long long time, no matter how lacking its other qualities may be. 
+
+* Tips for strong communities. 
+	* *Foster friendships*.  Friendship is the glue that holds communities together. 
+		* A friendship requires three things -- the ability to talk freely, someone worth talking to based on the player's interests, and something worth talking about -- something derived from the game itself. 
+		* Friendships have three distinct phases that games must support
+			* *Breaking the Ice* -- make it easy to find and engage with the kind of people the player would like to be friends with
+			* *Becoming Friends* -- give players an opportunity to chat after an intense play experience. Give a ritual such as adding people to a friends list 
+			* *Staying Friends* -- friends must find each other again.  
+	* *Put conflict at heart*. Either conflict against other players or against the game. 
+	* *Use [[Architecture]]* . Create places where people are likely to see each other again and again and still have time to talk. 
+	* *Create Community Property*. Encourage players to band together by owning an item or status shared by the collective.
+	* *Let players express themselves*. Expression conveys status.
+	* *Support three levels of experience*. At minimum we have three levels 
+		* The **newbie** who is learning to play the game. Design the game to be easy for them to learn, especially through interacting with more experienced players. Incentivize experienced players to teach newbies. 
+		* The **player** who understands the game and are immersed in the game activities. 
+		* The **elder** who has mastered the game and unlocked all its secrets but are still retained by the game. They are the experts who can often teach you how to improve it. They stay because 
+			* The game is difficult to the point no one can consistently master it. 
+			* The game gives them governance privileges (being moderators or dungeon masters)
+			* The game has mod support, allowing the elders to add content to the game. 
+			* They manage and organize guilds. 
+			* They are encouraged to teach newbies and are rewarded for doing so.
+	* *Force players to depend on each other*. When you create a game that can be mastered while playing solo, you diminish the value of a community. 
+	* *Manage the community* via community managers to encourage the community to grow. 
+	* *Obligation to others is powerful*. Create situations where players can make promises or favors to one another. This gives incentive to play the game on a regular basis. 
+	* *Create Community Events*. 
+
+* Griefing presents a challenge to game designers. One approach to this is banning griefers but this is not necessarily elegant. Another approach is to *remove systems that make griefing easy while not adding to the main loop or focus of the game*
+	* Player vs Player 
+	* Stealing 
+	* Trading -- this gives the potential for unfair trades or misrepresent items. 
+	* Obscenities. 
+	* Blocking the Way (i.e., player collision). This also includes the ability to push players around. 
+	* Loopholes. 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#96 Friendship|Friendship]], [[Lenses for Game Design - Lenses#97. Expression|Expression]], [[Lenses for Game Design - Lenses#98. Community|Community]], [[Lenses for Game Design - Lenses#99. Griefing|Griefing]] 

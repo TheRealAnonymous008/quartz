@@ -117,6 +117,27 @@
 | More in--game resources                                     | Resource depletion                             |
 | Status in leaderboard rankings or achievements              |                                                |
 | Completion of all goals                                     | Setbacks                                       |
+# The Social Reasons for Play 
+* From [[The Art of Game Design -- A Book of Lenses by Schell|Schell]]. 
+
+* **Competition** - It fill several kinds of needs 
+	* Allows for a balanced playing field 
+	* Provides a worthy opponent 
+	* Gives an interesting problem to solve 
+	* Fulfills a deep inner need to determine our skill relative to someone else in our social circle.
+	* Allows for games involving complex strategy, choices, and psychology made possible by the intelligence of the opponent 
+* **Collaboration** 
+	* Allows partaking in game actions and strategies that are impossible with just one person. 
+	* Let us enjoy the deep pleasure that comes from group problem solving. 
+* **Meeting Up** 
+	* Gives a convenient reason for people to be together 
+	* Gives something to share 
+	* Gives focus on things that won't make everyone uncomfortable. 
+* **Exploring Our Friends** - when we play a game, we get a glimpse of the depths of our friends. 
+* **Exploring Ourselves** - we also get to see how we would behave in a social situation under stress. 
+
+* **Spectation** - games provide good social connection simply by watching people playing.
+
 # Links 
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
 * [[The Art of Game Design -- A Book of Lenses by Schell|Schell]]

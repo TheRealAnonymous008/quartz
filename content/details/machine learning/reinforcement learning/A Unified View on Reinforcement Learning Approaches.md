@@ -20,7 +20,7 @@
 
 * **Off-policy learning** creates an optimal policy by learning from another policy. This is despite the current policy or value function being suboptimal.
 	* Off-policy learning *provide a solution to the Exploration-Exploitation trade-off* by having the behavior policy explore, and the target policy exploit.
-	* Generally more complex, and subject to high variance.
+	* Generally more complex, and subject to high variance since we learn based on data that is closely related to the target..
 	* We call the first policy as the **behavior policy** denoted $\beta$. This is the policy that is used to generate behaviors
 	* We call the second policy the **target policy** denoted $\pi$. This is the policy that will become the optimal policy 
 	* We require two assumptions
@@ -32,9 +32,7 @@
 	* Off-policy is analogous to *learning by imitation*.
 	* *It allows the agent to learn from multiple sources in parallel*. By having many target policies that learn correspond to different things.
 
-* On-policy learning is the general case of off-policy learning where the target and behavior policies are exactly the same.
-
-* One disadvantage of this is *high variance* since we learn based on data that is cloesly related to the target.
+* Off-policy learning is the general case of on-policy learning where the target and behavior policies are exactly the same.
 
 # Tasks and Goals
 * *The goal of Reinforcement Learning is to maximize the expected return by changing the agent's policy*. 
@@ -154,7 +152,8 @@ And to assure all sums are finite, we have that $\prod_{k=t}^\infty \gamma_k = 0
 * **Memory for updates** - how long should we retain update values.
 	* Permanent retention
 	* Retain only when computing an action selection (I.e., [[Decision Time Planning#Heuristic Search|heuristic search]])
-* Use of [[Function Approximation in Reinforcement Learning|function approximation]].
+* Use of [[Function Approximation in Reinforcement Learning|function approximation]] 
+* Use of [[Policy Gradient Methods]] and extensions of the Policy Gradient Theorem .
 # Prediction and Update
 * Estimates and Update rules in Reinforcement learning can be formulated with the following formula (analogous to gradient descent): 
   $$

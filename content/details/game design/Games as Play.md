@@ -213,6 +213,7 @@
 [^2]: We can argue through Bolter and Grusin's theory that all media operates this way -- through **immediacy** which promises true and authentic representation and **hypermediacy** which emphasizes the constructed nature of media representation. **Remediation** mediates both of these. 
 
 ### Social Play
+* Consider [[Players and Why We Play Games#The Social Reasons for Play|the social dimension of play]]. 
 * *As players mingle with each other, their social interactions highlight aspects of the game's design. Meaningful play can be framed as a social phenomenon.*
 	* Social interactions can either take place within the magic circle or outside of it. 
 	* Social interactions can be modified by actions taken in the game. Social roles transform as the game proceeds.
