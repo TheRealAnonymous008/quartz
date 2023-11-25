@@ -33,3 +33,6 @@
 # Links
 * [[Killjoys - The Seven Deadly Sins by Segal]]
 * [The Six Other Deadly Sins by Dorothy Sayers](https://mygospelblog.wordpress.com/2017/10/03/the-other-six-deadly-sins/)
+
+* [Why Pride is the Worst by Einzelganger](https://www.youtube.com/watch?v=W6eLkFr9yzE)
+
