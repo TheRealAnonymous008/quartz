@@ -34,7 +34,9 @@
 * The Ozone layer effectively shields the surface from UV light by *acting as a regenerative buffer that can absorb the energy from UV*. 
 * *Human activity has accelerated the depletion of Ozone*. This has caused a hole in the ozone layer.
 # Topics
+* [[The Earth and Insolation]]
 * [[Winds and Atmospheric Kinetics]]
+* [[Atmospheric Moisture]]
 
 # Links
 * [[The Earth and Insolation]] - for more about Insolation

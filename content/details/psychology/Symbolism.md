@@ -3,7 +3,7 @@
 # Archetypal Symbols
 ## Nature and Religion
 * Most of what is found in [[Religion and Mysticism]] can be said to be archetypal
-	* Mythical beasts that are amalgamations of animal features indicate the beast has *pluralistic aspects* based on these animals (i.e., half human half animal indicates a mix of anima instinct and human intellect.l)
+	* Mythical beasts that are amalgamations of animal features indicate the beast has *pluralistic aspects* based on these animals (i.e., half human half animal indicates a mix of anima instinct and human intellect.)
 		* Common is the idea of *woman as temptress / evil* - embodied by sirens and harpies.
 		* Another common symbols is the dragon -- embodying *the unification of duality*, of both good and evil. 
 		* *To triumph against the mythical beast is to triumph against evil.*
@@ -72,3 +72,5 @@
 	* *White*  is associated with good, light, and purity.
 # Links
 * [[The Illustrated Book of Signs and Symbols -- 1000s of Signs and Symbols from Around the World by Bruce-Mitford]]
+
+* [[Mythological Motifs]]

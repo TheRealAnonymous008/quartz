@@ -5,9 +5,6 @@
 * [[Lenses for the Player]]
 * [[Lenses for the Experience]]
 
-### The Designer Usually Works With a Team 
-* Relevant lenses: [[Lenses for Game Design - Lenses#100. Love|Love]], [[Lenses for Game Design - Lenses#101. The Team|The Team]] 
-
 ### The Team Sometimes Communicates through Documents
 * Relevant lenses: [[Lenses for Game Design - Lenses#102. Documentation|Documentation]]
 
@@ -16,6 +13,9 @@
 
 ### The Team Builds a Game with Technology
 * Relevant lenses: [[Lenses for Game Design - Lenses#104. Technology|Technology]], [[Lenses for Game Design - Lenses#105. The Crystal Ball|The Crystal Ball]], [[Lenses for Game Design - Lenses#106. Utopia|Utopia]] 
+
+### Your Game will Probably Have a Client
+* Relevant lenses: [[Lenses for Game Design - Lenses#107. The Client|The Client]].
 
 # Links
 * [[Lenses for Game Design - Lenses]] - a separate listing for the lenses.

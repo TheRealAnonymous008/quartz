@@ -842,13 +842,29 @@
 * Am I ignoring any loopholes?
 
 ### 100. Love 
+* Do I love my project? If not, how can I change that?
+* Does everyone on the team love the project? If not, how can that be changed?
+
 ### 101. The Team
+*  Is this the right team for this project? Why?
+* Is the team communicating objectively?
+* Is the team communicating clearly?
+* Is the team comfortable with each other?
+* Is there an air of trust and respect among the team? 
+* Is the team ultimately able to unify around decisions?
+
 ### 102. Documentation
 ### 103. Playtesting 
 ### 104. Technology 
 ### 105. The Crystal Ball 
 ### 106. Utopia
-
+### 107. The Client
+### 108 . The Pitch
+### 109. Profit
+### 110. Transformation
+### 111. Responsibility
+### 112. The Raven 
+### $\infty$. Your Secret Purpose
 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]

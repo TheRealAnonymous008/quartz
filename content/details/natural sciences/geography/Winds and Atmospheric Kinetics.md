@@ -5,7 +5,7 @@
 	* The above also results in **pressure gradients**. *Wind is primarily driven by pressure gradients*
 # Rules for Wind Flow
 ### Pressure Gradients
-* Winds flow from areas of *high pressure (low temperature) to low pressure (high temperature). *
+* Winds flow from areas of *high pressure (low temperature) to low pressure (high temperature).*
 * *Warmer winds flow up* due to the expansion of the gas. Conversely, *colder winds flow down*.
 * The strength of wind flow is directly proportional to the *magnitude of the pressure gradient*
 * High pressure zones are formed when wind is flowing downwards. Conversely, low pressure zones are formed when wind is flowing upwards.
@@ -31,7 +31,7 @@
 
 * Applying friction to the rules above results in winds that converge rotating towards the center. *This also explains the formation of cyclones and anticyclones*. 
 # Major Wind Belts
-* **Circulation Cells**
+* **Circulation Cells** - systems which involve the circulation of wind across the depth of the troposphere
 	* [Hadley Cells](https://en.wikipedia.org/wiki/Hadley_cell) - these span the Equator
 	* [Polar Cells](https://en.wikipedia.org/wiki/Atmospheric_circulation#Polar_cell) - these span the Poles
 		* These winds rotate around the poles due to the strong Coriolis effect.
@@ -40,12 +40,15 @@
 		* They are created due to the shearing force of the Hadley cells and Polar cells.
 		* However, they do not have a stable temperature gradient that can sustain their existence.
 * [Jet Streams](https://en.wikipedia.org/wiki/Jet_stream) - very fast flows of air along the boundaries of some circulation cells that form due to shearing of their circulation cells and the Coriolis effect.
+	* They do not track perfectly circular routes. The contour has **ridges** (towards the poles) and **troughs** (towards the equator). 
+	* The ridges and troughs are not constant and can change over time
+	* **Rossby Waves** - bends in the polar jet stream influence the weather. When a trough moves farther away from the pole, *the cold Arctic air extends farther away from the pole.* 
 * **Westerlies and Easterlies** - are winds that generally come from the West and East respectively. 
 	* [Westerlies](https://en.wikipedia.org/wiki/Westerlies)
 	* [Polar Easterlies](https://en.wikipedia.org/wiki/Polar_easterlies)
 	* [Horse Latitudes](https://en.wikipedia.org/wiki/Horse_latitudes) - these are regions at $30\degree$ N and S with no wind due to high pressure.
 	* [Roaring Forties](https://en.wikipedia.org/wiki/Roaring_Forties) - strong Westerlies at $40\degree-50\degree$ S. These winds are strong because there are no wind-blocking continents.
-[Trade Winds](https://en.wikipedia.org/wiki/Trade_winds)- winds that generally blow from the northeast or the southeast and are found in the tropics.  They blow eastward due to the Coriolis effect.
+* [Trade Winds](https://en.wikipedia.org/wiki/Trade_winds)- winds that generally blow from the northeast or the southeast and are found in the tropics.  They blow eastward due to the Coriolis effect.
 	* [Intertropical Convergence Zone](https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone) - the boundary where trade winds meet.
 # Kinds of Winds
 ### Sea and Land Breezes
