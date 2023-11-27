@@ -157,6 +157,24 @@
 	* $V_0$ is a scaling factor to the variance of the Normal Distribution
 	* $a_0$ is the mean of the Wald distribution
 	* $b_0$ is the shape parameter of the Wald distribution.
+
+* The **Boltzmann** is a probability distribution that gives the probability of a certain state as a function of energy and temperature
+  
+  $$
+  \begin{split}
+  p_i &= \frac{1}{Q} \exp \left(-\frac{\varepsilon_i}{kT}\right) \\ 
+  Q &= \sum_{j=1}^M \exp \left(-\frac{\varepsilon_i}{kT}\right) 
+  \end{split}
+  $$
+  Where 
+  $p_i$ is the probability of state $i$
+  $\varepsilon_i$ is the energy of state $i$
+  $k$ is the Boltzmann constant 
+  $T$ is the absolute temperature of the system 
+  $M$ is the number of states accessible to the system 
+  $Q$ is the normalization constant. 
+  
+  The Boltzmann distribution is the distribution that maximizes [[Information Theory|entropy]]. 
 # Links
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html) - a graph that shows probability distributions, and how and why they are related to each other.
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]

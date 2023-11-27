@@ -22,6 +22,8 @@
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 
 * [The Library of Babel Website](https://libraryofbabel.info) - for funsies
 
+* [[Bad Sources]] - dump for bad sources. 
+
 # Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 
 * [Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)

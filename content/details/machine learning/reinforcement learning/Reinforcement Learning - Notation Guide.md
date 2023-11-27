@@ -102,7 +102,12 @@
 * $\rho^\mu(s)$ - discounted state distribution
 * $r_t(\theta)$ - probability ratio (in the context of TRPO and PPO)
 * $J_t^\text{CLIP}$ - clip surrogate objective at time $t$ (see PPO) 
-* $J_t^\text{KLPEN}$ - KL divergence penalty objective (see PPO) at time $t$
+* $J_t^\text{KLPEN}$ - KL divergence penalty objective (see PPO) at time $t+1$ 
+***** 
+* $Q_\text{soft}, V_\text{soft}$ - denotes soft value functions. 
+* $\alpha$ - (in the context of energy-based RL), denotes temperature hyperparameter. 
+* $\mathcal{T}^\pi$ - soft Bellman operator
+
 *****
 * $\mathcal{A}^i$ - for MARL, denotes the action set of the $i$-th agent. 
 * $\mathbb{A}$ - denotes the Cartesian product of all $\mathcal{A}^i$. 

@@ -59,4 +59,4 @@
 * [tvtropes](https://tvtropes.org) - an entire archive of tropes from various media (with examples)
 	* [Forgotten Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/ForgottenTrope) - tropes that have fallen out of favor due to the times (assuming a story set in modern times)
 
-* [[Mythological Motifs]] - tropes but as applied to mythology.
+* [[Motifs of Folk Literature]] - tropes but as applied to mythology.

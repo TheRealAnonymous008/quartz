@@ -33,7 +33,7 @@ $$
 * [[Basic Methods]]
 * [[Deterministic Policy Gradient]]
 * [[Trust Region Policies]]
-* [[Energy-Based Models]]
+* [[Energy-Based Reinforcement Learning Models]]
 * [[Distributional Reinforcement Learning]]
 	* D4PG
 
