@@ -41,6 +41,7 @@
 	* This comes at the cost that this very rarely happens in practice due to complexity and performance costs.
 # Links
 * [[The Setting for Reinforcement Learning]] - for an overview of the relationship between Markov Processes and Reinforcement Learning.
+* [[Characterizing the Decision Problem]] - MDPs are a special case of the Decision Problem 
 
 *  [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 3.5 - 3.6]]
 

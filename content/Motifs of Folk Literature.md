@@ -382,6 +382,56 @@
 | C980  | Miscellaneous punishments for breaking taboo                                           |
 
 # Magic 
-
+| Index | Name                                                                    |
+| ----- | ----------------------------------------------------------------------- |
+| D0    | Transformation (general)                                                |
+| D10   | Transformation to person of different sex                               |
+| D20   | Transformation to person of different social class                      |
+| D30   | Transformation to person of different race                              |
+| D40   | Transformation to likeness of another person                            |
+| D50   | Magic changes in man himself                                            |
+| D90   | Transformation: man to different man -- miscellaneous                   |
+| D100  | Transformation: man to animal                                           |
+| D110  | Transformation: man to wild beast (mammal)                              |
+| D130  | Transformation: man to domestic beast (mammal)                          |
+| D150  | Transformation: man to bird                                             |
+| D170  | Transformation: man to fish                                             |
+| D180  | Transformation: man to insect                                           |
+| D190  | Transformation: man to reptiles and miscellaneous animals               |
+| D200  | Transformation: man to object                                           |
+| D210  | Transformation: man to vegetable form                                   |
+| D230  | Transformation: man to a mineral form                                   |
+| D250  | Transformation: man to manufactured object                              |
+| D270  | Transformation: man to object - miscellaneous                           |
+| D300  | Transformation: animal to person                                        |
+| D310  | Transformation: wild beast (mammal) to person                           |
+| D330  | Transformation: domestic beast (mammal) to person                       |
+| D350  | Transformation: bird to person                                          |
+| D370  | Transformation: fish to man                                             |
+| D380  | Transformation: insect to person                                        |
+| D390  | Transformation: reptiles and miscellaneous animals to persons           |
+| D400  | Other forms of transformation                                           |
+| D410  | Transformation: one animal to another                                   |
+| D420  | Transformation: animal to object                                        |
+| D430  | Transformation: object to person                                        |
+| D440  | Transformation: object to animal                                        |
+| D450  | Transformation: object to another object                                |
+| D470  | Transformation: material of object changed                              |
+| D480  | Size of object transformed                                              |
+| D490  | Miscellaneous forms of transformation                                   |
+| D500  | Means of transformation in general                                      |
+| D510  | Transformation by breaking taboo                                        |
+| D520  | Transformation through power of the word                                |
+| D530  | Transformation by putting on skin, clothing, etc                        |
+| D550  | Transformation by eating or drinking                                    |
+| D560  | Transformation by various means                                         |
+| D600  | Miscellaneous transformation incidents                                  |
+| D610  | Repeated transformation - transformation into one form after another    |
+| D620  | Periodic transformation - a person is transformed at definite intervals |
+| D630  | Transformation and disenchantment at will                               |
+| D640  | Reasons for voluntary transformation                                    |
+| D660  | Motive for transformation of others                                     |
+| D670  | Magic flight                                                            |
+| D680  | Miscellaneous circumstances of transformation                                                                         |
 # Links
 * [[Motif Index of Folk Literature by Thompson]]

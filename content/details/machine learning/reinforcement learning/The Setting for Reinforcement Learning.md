@@ -8,6 +8,7 @@
 	* The consequences of actions play out over extended periods of time. 
 	* The Exploitation-Exploration Tradeoff (see more [[The Exploitation-Exploration Trade-Off|here]]).
 	* Use of [[Markov Processes in Machine Learning|Markov Processes]].
+	* Agents can take states and actions. Hence, we can apply some form of [[Game Theory|game theoretic lens]].
 
 * Tasks in reinforcement learning are closer to the intended goal. *Rather than understanding the structure of the problem, we focus on achieving the task itself*. 
 
@@ -22,6 +23,7 @@
 		  
 	* A **value function** specifies a function that is being optimized in the long run. It encodes the total amount of reward that can be achieved on average. *The value function dictates how an agent is to be optimized*.
 		* *Domain knowledge is best put in the value function*. It can also be put in the initialization but note that the distribution may be nonstationary.
+		* This is analogous to the [[Characterizing the Decision Problem#Payoffs|payoff]]. 
 
 	* An **environmental model**.  The environment consists of anything the agent has no direct absolute control over. The environment has **states** which influence the actions that the agents will take, 
 		* *Learning is done while interacting with the environment* 
