@@ -16,6 +16,7 @@
 * There is a [[Trade Offs#Knowledge in the World vs Head Tradeoff|tradeoff]] between keeping knowledge in the head and knowledge in the world
 # Memory
 ### Memory Mechanisms
+* See more in [[Thinking Fast And Slow]]
 * **Short Term Memory** retains the most recent experiences or material that is currently being thought about. It is the memory of the immediate present. 
 	* It has fast retrieval but only a small amount of information can be retained.
 	* It is prone to being lost when one is distracted. Thus *Don't count on much being retained in STM*.
@@ -43,8 +44,7 @@
 		* When a problem arises, the memorized sequences of actions gives no hint of what has gone wrong.
 	* *We learn arbitrary associations by artificially providing structure*. Artificial structure simplifies the memory task.
 		* Part of this is the use of **[[The Psychopathology of Everyday Things|conceptual models]]**.
-		* Thus,
-	* It is easier to remember things when there is a *meaningful relationship* between them.
+		* Thus, It is easier to remember things when there is a *meaningful relationship* between them.
 * *Approximations are good enough for practical use*. 
 * Models need not be accurate as long as they lead to he correct behavior in the desired situation.
 # Design Implications
