@@ -24,12 +24,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Graph(),
+    Component.Backlinks(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Leave intentionally blank
   ],
 }
 
