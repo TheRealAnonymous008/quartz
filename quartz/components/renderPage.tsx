@@ -123,7 +123,6 @@ export function renderPage(
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
-            {LeftComponent}
             <div class="center">
               <div class="page-header">
                 <Header {...componentData}>
