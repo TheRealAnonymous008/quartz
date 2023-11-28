@@ -1,17 +1,12 @@
-# Notation Guide 
-* $x\succeq y$ -  preference relation. $x$ is at least as good as $y$. 
-* $x\succ y$ - strict preference relation. $x$ is strictly better than $y$.
-* $x\sim y$ - indifference relation. $x$ and $y$ are equally good. 
-* $u(x)$ - the payoff function over outcomes 
-* $v(a)$ - the payoff function over actions
-* $A$ - set of actions 
-* $X$ - set of outcomes
-* $a$ - generic action
-* $x(a)$ - the outcome of action $a$
-* $\gamma$ - discounting factor
 
+* The way we configure our payoffs captures our underlying assumptions about the rationality and decision making processes of the players involved.
+	* *Institutional design which changes the game the players play is useful for affecting the well-being of players*. Modifying the payoffs lets us encourage potentially better behaviors.
 # Topics 
+* [[Game Theory - Notation Guide]]
+
 * [[Characterizing the Decision Problem]]
+* [[Fundamental Constructs in Game Theory]] - discusses games and some aspects of games. 
+
 * [[Static Games of Complete Information]]
 * [[Dynamic Games of Complete Information]]
 # Links 

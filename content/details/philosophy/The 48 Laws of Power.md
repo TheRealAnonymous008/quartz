@@ -414,3 +414,5 @@
 * *Reversal*: When you play with formlessness, keep on top of the process, and keep your long-term strategy in mind. When you assume a form, use concentration speed and power
 # Links
 * [[48 Laws of Power by Robert Greene]]
+
+* [[Persuasion]] - these techniques are crucial for power.

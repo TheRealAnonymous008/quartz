@@ -61,3 +61,33 @@
 	* **Love** - when you have all other qualities, the love will shine through.
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#100. Love|Love]], [[Lenses for Game Design - Lenses#101. The Team|The Team]] 
+
+### The Team Sometimes Communicates through Documents
+* *The magic template does not exist*. Game Design Documents are out of date the moment you write them. *GDDs are theories not specifications*. 
+* GDDs have two purposes [[Knowledge in the Head and In the World|memory]] and communication. They record the design decisions that went into the game. 
+
+| Document                  | Source     | Target                    | Description                                                                                           |
+| ------------------------- | ---------- | ------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Game Design Overview      | Design     | Production and Management | Overview of what the game is and who it is for                                                        |
+| Detailed Design Document  | Design     | Engineers and Artists     | Messy and not intended for outsiders. Details all the mechanics and interfaces                        |
+| Story Overview            | Design     | Writing                   | Describes the narrative elements                                                                      |
+| Technical Design Document | Engineers  | Engineer                  | Deal with the technical non-formal needs to get the game to operate                                   |
+| Pipeline Overview         | Engineers  | Artists                   | Impose restrictions to properly integrate art assets. Should be simple and brief                      |
+| System limitations        | Engineers  | Designers                 | Establishes certain technical limitations that should not be crossed.                                 |
+| Art Bible                 | Artists    | Artists                   | Establishes guidelines to maintain aesthetic consistency                                              |
+| Concept Art Overview      | Artists    | Designers                 | Gives a prototype vision of what the game looks like aesthetically                                    |
+| Game budget               | Production | Production                | Establishes game costs. Typically a spreadsheet                                                       |
+| Asset tracker             | Production | Production                | Keeps track of what has been created and what state it is in                                          |
+| Project Schedule          | Production | Design                    | Frequently updated. Lists all pending tasks, how long they take and who will do them                  |
+| Story bible               | Writing    | Writing                   | Lays down what is and is not possible in the story world.                                             |
+| Script                    | Writing    | Design                    | Lays out the dialog of the NPCs. The designers review this to check for inconsistencies with gameplay |
+| Game Tutorial and Manual  | Writing    | Players                   | Helps players understand the game.  Should be accurate to the current game implementation             |
+| Game Walkthrough          | Players    | Players                   | Study what players write about the game to gain additional feedback.                                                                                                      |
+
+* Each document should fit with the needs of the game. Remember each game is unique. 
+* The document grows as follows 
+	* Start with bullet points 
+	* Raise questions and write down your design decisions and the rationale for them 
+	* Categorize the document into sections. 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#102. Documentation|Documentation]]

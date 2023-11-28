@@ -80,6 +80,8 @@
   v(x_1,\dots,x_T) = \sum_{t=1}^T \gamma^{t-1} u(x_t)
   $$
 # Applications and Practice
+* *The decision problem can be extended to games* wherein there is more than one agent within the environment.
+
 * [[Reinforcement Learning]] relies on this. 
 * When a decision maker is faced with the option of whether or not to acquire information and how much to pay for it, then by comparing the decision problem with the added information to the decision problem without the additional information, the player will be able to *calculate the value of the information*.
 * [[Thinking Fast And Slow]] illustrates that people do not behave rationally, so while the rational paradigm works in theory as a model for decision making, in practice, *due to [[Human Biases|biases]], we do not make the rational choice*

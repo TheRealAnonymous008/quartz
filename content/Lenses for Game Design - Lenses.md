@@ -854,6 +854,9 @@
 * Is the team ultimately able to unify around decisions?
 
 ### 102. Documentation
+* What do we need to remember while making this game?
+* What needs to be communicated while making this game?
+
 ### 103. Playtesting 
 ### 104. Technology 
 ### 105. The Crystal Ball 

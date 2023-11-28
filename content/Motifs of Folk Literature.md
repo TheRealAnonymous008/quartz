@@ -432,6 +432,158 @@
 | D640  | Reasons for voluntary transformation                                    |
 | D660  | Motive for transformation of others                                     |
 | D670  | Magic flight                                                            |
-| D680  | Miscellaneous circumstances of transformation                                                                         |
+| D680  | Miscellaneous circumstances of transformation                           |
+| D700  | Person disenchanted                                                     |
+| D710  | Disenchantment by rough treatment                                       |
+| D720  | Disenchantment by removing or destroying covering of enchanted person   |
+| D730  | Disenchantment by submission                                            |
+| D750  | Disenchantment by faithfulness of others                                |
+| D760  | Disenchantment by miscellaneous means                                   |
+| D790  | Attendant circumstances of disenchantment                               |
+| D800  | Magic object                                                            |
+| D810  | Magic object as a gift                                                  |
+| D830  | Magic object acquired by trickery                                       |
+| D840  | Magic object found                                                      |
+| D850  | Magic object otherwise obtained                                         |
+| D860  | Loss of magic object                                                    |
+| D880  | Recovery of magic object                                                |
+| D900  | Magic weather phenomena                                                 |
+| D910  | Magic body of water                                                     |
+| D930  | Magic land features                                                     |
+| D940  | Magic forests                                                           |
+| D950  | Magic tree                                                              |
+| D960  | Magic garden and plants                                                 |
+| D980  | Magic fruits and vegetables                                             |
+| D990  | Magic bodily members -- human                                           |
+| D1010 | Magic bodily members -- animal                                          |
+| D1030 | Magic food                                                              |
+| D1040 | Magic drink                                                             |
+| D1050 | Magic clothes                                                           |
+| D1070 | Magic ornaments                                                         |
+| D1080 | Magic weapons                                                           |
+| D1110 | Magic conveyances and buildings                                         |
+| D1150 | Magic furniture                                                         |
+| D1170 | Magic utensils and implements                                           |
+| D1210 | Magic musical instruments                                               |
+| D1240 | Magic water and medicines                                               |
+| D1250 | Miscellaneous magic objects                                             |
+| D1300 | Magic object gives supernatural wisdom                                  |
+| D1310 | Magic object gives supernatural information                             |
+| D1330 | Magic object works physical change                                      |
+| D1350 | Magic object changes person's disposition                               |
+| D1360 | Magic object effects temporary change in person                         |
+| D1380 | Magic object protects                                                   |
+| D1390 | Magic object rescues person                                             |
+| D1400 | Magic object overcomes person                                           |
+| D1410 | Magic object renders person helpless                                    |
+| D1420 | Magic object draws person (thing) to it                                 |
+| D1430 | Magic object pursues or captures                                        |
+| D1440 | Magic object gives power over animals                                   |
+| D1450 | Magic object furnishes treasure                                         |
+| D1470 | Magic object as provider                                                |
+| D1500 | Magic object controls disease                                           |
+| D1520 | Magic object affords miraculous transportation                          |
+| D1540 | Magic object controls the elements                                      |
+| D1550 | Magic object miraculously opens and closes                              |
+| D1560 | Magic object performs other services for owner                          |
+| D1600 | Automatic object                                                        |
+| D1610 | Magic speaking objects                                                  |
+| D1620 | Magic automata - statues or images that act as if alive                 |
+| D1640 | Other automatic objects                                                 |
+| D1650 | Other characteristics of magic objects                                  |
+| D1700 | Magic powers                                                            |
+| D1710 | Possession of magic powers                                              |
+| D1720 | Acquisition of magic powers                                             |
+| D1740 | Loss of magic power                                                     |
+| D1750 | Other characteristics of magic power                                    |
+| D1760 | Means of producing magic power                                          |
+| D1800 | Manifestations of Magic Power                                           |
+| D1810 | Magic Knowledge                                                         |
+| D1820 | Magic sight and hearing                                                 |
+| D1830 | Magic strength                                                          |
+| D1840 | Magic invulnerability                                                   |
+| D1850 | Immortality                                                             |
+| D1860 | Magic beautification                                                    |
+| D1870 | Magic hideousness                                                       |
+| D1880 | Magic rejuvenation                                                      |
+| D1890 | Magic aging                                                             |
+| D1900 | Magic induced by magic                                                  |
+| D1910 | Magic memory                                                            |
+| D1920 | Other permanent magic characteristics                                   |
+| D1960 | Magic sleep                                                             |
+| D1980 | Magic invisibility                                                      |
+| D2000 | Magic forgetfulness                                                     |
+| D2020 | Magic dumbness                                                          |
+| D2030 | Other temporary magic characteristics                                   |
+| D2050 | Destructive magic power                                                 |
+| D2060 | Death or bodily injury by magic                                         |
+| D2070 | Bewitching                                                              |
+| D2080 | Magic used against property                                             |
+| D2090 | Other destructive magic powers                                          |
+| D2100 | Magic wealth                                                            |
+| D2120 | Magic transportation                                                    |
+| D2140 | Magic control of the elements                                           |
+| D2150 | Miscellaneous magic manifestations                                      |
+# The Dead 
+| Index | Name                                                                                                                   |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- |
+| E0    | Resuscitation                                                                                                          |
+| E10   | Resuscitation by rough treatment                                                                                       |
+| E30   | Resuscitation by arrangement of members - parts of a dismembered corpse are brought together and resuscitation follows |
+| E50   | Resuscitation by magic                                                                                                 |
+| E80   | Water of life - resuscitation by water                                                                                 |
+| E90   | Tree of life - resuscitation by touching its branches                                                                  |
+| E100  | Resuscitation by medicines                                                                                             |
+| E120  | Other means of resuscitation                                                                                           |
+| E150  | Circumstances of resuscitation                                                                                         |
+| E200  | Malevolent return from the dead                                                                                        |
+| E210  | Dead lover's malevolent return                                                                                         |
+| E220  | Dead relative's malevolent return                                                                                      |
+| E230  | Return from dead to inflict punishment                                                                                 |
+| E250  | Bloodthirsty revenants                                                                                                 |
+| E260  | Other malevolent revenants                                                                                             |
+| E280  | Ghosts haunt buildings                                                                                                 |
+| E290  | Malevolent return from the dead - miscellaneous                                                                        |
+| E300  | Friendly return from the dead                                                                                          |
+| E310  | Dead lover's friendly return                                                                                           |
+| E320  | Dead relative's friendly return                                                                                        |
+| E330  | Locations haunted by non-malevolent dead                                                                               |
+| E340  | Return from dead to repay obligation                                                                                   |
+| E360  | Other reasons for friendly return from the dead                                                                        |
+| E380  | Ghost summoned                                                                                                         |
+| E390  | Friendly return from the dead - miscellaneous                                                                          |
+| E400  | Ghosts and revenants - miscellaneous                                                                                   |
+| E410  | The unquiet grave - dead unable to rest in peace.                                                                      |
+| E420  | Appearance of revenant                                                                                                 |
+| E430  | Defense against ghosts and the dead                                                                                    |
+| E440  | Walking ghost "laid"                                                                                                   |
+| E460  | Revenants in conflict                                                                                                  |
+| E470  | Intimate relations of dead and living                                                                                  |
+| E480  | Abode of the dead                                                                                                      |
+| E490  | Meetings of the dead                                                                                                   |
+| E500  | Phantom hosts                                                                                                          |
+| E510  | Phantom sailors and travelers                                                                                          |
+| E520  | Animal ghosts                                                                                                          |
+| E530  | Ghosts of objects                                                                                                      |
+| E540  | Miscellaneous actions of revenants                                                                                     |
+| E600  | Reincarnation - return from the dead in another form                                                                   |
+| E610  | Reincarnation as animal                                                                                                |
+| E630  | Reincarnation in object                                                                                                |
+| E650  | Reincarnation: other forms                                                                                             |
+| E670  | Repeated reincarnation                                                                                                 |
+| E690  | Reincarnation: miscellaneous                                                                                           |
+| E700  | The Soul                                                                                                               |
+| E710  | External soul - a person (often a giant or ogre) keeps his soul or life separate from the rest of his body             |
+| E720  | Soul leaves or enters the body                                                                                         |
+| E730  | Soul in animal form                                                                                                    |
+| E740  | Other forms of the soul                                                                                                |
+| E750  | Perils of the soul                                                                                                     |
+| E760  | Life index - object or animal has mystic connection with person. Changes in one correspond to changes in the other     |
+| E770  | Vital objects - objects that have life in them                                                                         |
+| E780  | Vital bodily members - members possess life independent of the rest of the body                                        |
+| E790  | The soul - miscellaneous                                                                                               |
+
+# The Marvels 
+
 # Links
 * [[Motif Index of Folk Literature by Thompson]]
