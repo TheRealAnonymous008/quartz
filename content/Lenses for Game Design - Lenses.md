@@ -858,6 +858,13 @@
 * What needs to be communicated while making this game?
 
 ### 103. Playtesting 
+* Why are we doing a playtest?
+* Who should be there?
+* When should we test?
+* Where should we hold it?
+* What will we look for?
+* How will we get the information we need?
+
 ### 104. Technology 
 ### 105. The Crystal Ball 
 ### 106. Utopia

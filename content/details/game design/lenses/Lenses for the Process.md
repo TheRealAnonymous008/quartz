@@ -57,6 +57,85 @@
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#15. The Eight Filters|Eight Filters]], [[Lenses for Game Design - Lenses#16. Risk Mitigation|Risk Mitigation]], [[Lenses for Game Design - Lenses#17. The Toy|The Toy]], [[Lenses for Game Design - Lenses#18. Passion|Passion]]
 
+### Good Games Are Created Through Playtesting 
+* Playtesting is about getting people to come play the game to see if it engenders the experience for which it was designed. 
+* Playtesting may seem like an invitation for others to hate on your game. However, it is necessary to find the flaws of the game as soon as possible.
+
+* *It is a prototype for the game experience*. 
+	* Because it is a prototype, aim to ask specific questions to get more out of it. Understand why you are conducting a play test to begin with. 
+	* Use the lenses to come up with good questions.  
+* *Once a why for playtesting is established, determine who your target subjects will be*. The choice is determined by what you would like to learn 
+
+| Candidate      | Pros                                                                   | Cons                                                                                   |
+| -------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Developers     | Always available                                                       | Too attached to the game                                                               |
+| Friends        | Highly available                                                       | May not want to hurt your feelings                                                     |
+| Expert Gamers  | Gives detailed account using technical terms                           | May demand more complex and difficult gameplay than what an average gamer would expect |
+| Tissue Testers | Can offer a fresh viewpoint. Good for questions of initial impressions | Designing for only them may make the game too boring beyond its initial appeal                                                                                       |
+
+* *Playtest as soon as possible to know whether the game is on the right track*. You can playtest at any stage of the development process. 
+	* *Playtest when it is useful but at least every week*. 
+* *Consider where the playtest session will happen*. 
+
+| Candidate            | Pros                                                                                       | Cons                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Workplace            | Developers are right there and can observe                                                 | Playtester may feel uncomfortable. Asking the testers to bring friends may help          |
+| Playtesting lab      | The lab is designed for playtesting.                                                       | Very expensive                                                                           |
+| Public venue         | Low cost and you can have many testers.                                                    | Harder time to find the right playtesters fitting the demographic. Also high distraction |
+| At playtester's home | Can observe the game being played in its natural habitat                                   | Playtest may be limited. Limited observation.                                            |
+| Online               | Can playtest on many machines with different configurations. Natural for multiplayer games | Quality of playtesting may drop. May risk leaking the game.                                                                                          |
+
+* *Know what you will look for in playtesting* 
+	* What you know you will test is derived from the purpose of the test. 
+	* What you don't know that you are looking for come with experience and being open to surprises, which implies that you have an idea of what the player's experience.
+
+* *Consider how you will conduct the playtest*. 
+	* If you cannot stay objective during the playtest and properly police your behavior so that playtesters can remain “pure,” you definitely should not be there. Find a way to be objective. 
+	* Begin with the right words. Do not nudge the player when it is not needed. Running multiple sessions lets you tune the instructions you give (just make sure to write it down). *This can be the foundation of an in game tutorial*.
+	* Look not just at the screen but at the players and their reactions as well. Get cameras to get more eyes. 
+	* Gather additional game-related data (such as game events). Be mindful of the danger that relying only on quantitative design can dull the design. 
+	* Balance between getting the players to think aloud and letting them play.
+		* *Do not interrupt when the player is doing something surprising*.
+		* *Think aloud protocol*. Encourage the person to verbalize their internal thoughts. However, this may taint thought patterns. 
+
+* *Consider what data you will collect*. 
+	* **Surveys** - great for getting straightforward, quantifiable answers. 
+		* Use pictures whenever possible to refer to game elements 
+		* Use online surveys to save time. 
+		* Don't ask a rating from 1 - 10. Give more decsriptive labels (Good, bad, excellent)
+		* Don't put too many question 
+		* Give the survey right after the game is played.
+		* Have someone on hand to answer clarifying questions 
+		* Note the age and gender for demographics purposes .
+		* Don't take survey data as gospel. It may not be scientific. 
+
+	* **Interviews** - great for asking questions that are too complex such as sentiment. 
+		* Have a script of questions ready. Take notes, especially when the conversation takes an unexpected turn. 
+		* Interview privately whenever possible (prefer one-on-one). Group interviews come after private interviews. 
+		* Playtesters will avoid hurting your feelings. Give them permission to speak honestly
+		* Avoid memory tests. Do not ask players to remember. 
+		* Don't expect play testers to be game designer. In general, players want the game to be easier. Instead, ask for sentiment and general experience-based questions. 
+		* Ask more than what you need (instead of asking to enumerate one thing that stood out, ask three). 
+		* Consider a video closet.  People will say thing on camera that they would never say face to face. 
+		* [[The 48 Laws of Power|Set your ego aside]]. Resist the urge by asking clarifying questions.
+
+* Another set of questions from Shawn Patton. Ask in order
+	* What was the most **frustrating** moment of what you just played?  
+		* This lets the player vent.
+	* What was your **favorite** moment of what you just played ? 
+		* This tells you the high points of the experience 
+	* Was there anything you **wanted** to do but couldn't
+		* This tells you about the player's small desires
+	* If you had a magic **wand** to wave and could change, add, or remove anything from the experience, what would it be?
+		* This tells you about the player's bigger desires for the game. 
+	* What were you **doing** in the experience 
+		* This tells you the player's goal.
+	* How would you **describe** the game to family and friends? 
+		* This tells you an overview of the player's perception of the overall experience
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#103. Playtesting|Playtesting]].
+
+
 # Prototyping Tips 
 * Taken from [[How to Prototype a Game in Under 7 Days by Gabler, Gray, and Kucic|Gabler, Gray, Kucic]]
 ### Setup: Rapid is a State of Mind  

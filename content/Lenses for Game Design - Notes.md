@@ -5,9 +5,6 @@
 * [[Lenses for the Player]]
 * [[Lenses for the Experience]]
 
-### Good Games Are Created Through Playtesting 
-* Relevant lenses: [[Lenses for Game Design - Lenses#103. Playtesting|Playtesting]].
-
 ### The Team Builds a Game with Technology
 * Relevant lenses: [[Lenses for Game Design - Lenses#104. Technology|Technology]], [[Lenses for Game Design - Lenses#105. The Crystal Ball|The Crystal Ball]], [[Lenses for Game Design - Lenses#106. Utopia|Utopia]] 
 
