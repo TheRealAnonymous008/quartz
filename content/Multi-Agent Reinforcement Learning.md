@@ -1,6 +1,6 @@
 # Problem Statement 
 * [^Yang_2021] We formulate the MARL problem using an extension of [[Markov Processes in Machine Learning|MDPs]]. 
-* A **stochastic game** is defined as a set of key elements $(N, s, \{A^i\}_{i\in \{1,\dots, N\}}, \  p \ , \{R^i\}_{i\in \{1,\dots, N\}}, \gamma)$
+* A **stochastic [[Game Theory|game]] is defined as a set of key elements $(N, s, \{A^i\}_{i\in \{1,\dots, N\}}, \  p \ , \{R^i\}_{i\in \{1,\dots, N\}}, \gamma)$
   
   $N$ is the number of agents. 
   $S$ is the set of environmental states shared by all agents. 

@@ -16,6 +16,18 @@
 	* *Rows* represent one player 1's strategies.  
 	* *Columns* represent one of  2's strategies 
 	* Entries represent a two element vector $(v_1,v_2)$ representing the players' payoffs. 
+
+## Incorporating Beliefs 
+* A strategy $s_i\in S_i$ is player $i$'s **best response** to his opponents' strategies $s_{-i}$ if 
+  
+  $$
+  v_i(s_i,s_{-i}) \ge v(s_i', s_{-i}) \ \ \ \ \ \forall s_i'\in S_i
+  $$
+* A rational player who believes his opponents are playing some $s_{-i}$ will always choose a best response to $s_{-i}$. 
+
+* A **belief** of player $i$ is a possible profile of his opponents' strategies $s_{-i}\in S_{-i}$,
+* The **best response correspondence** of player $i$, selects for each $s_i\in S_{-i}$ a subset $\text{BR}_i (s_{-i})\subseteq S_i$ where each strategy $s_i\in \text{BR}_i(s_{-i})$ is a best response to $s_{-i}$ based on the player's beliefs.
+* A strategy $s_i\in S$ is **never a best response** if there are no beliefs $s_{-i}\in S_{-i}$ for player $i$ for which $s_i\in \text{BR}_i(s_{-i})$
 # Static vs Dynamic 
 * A **static game** is a game where players simultaneously and independently make a once and for all decision, after which all outcomes are realized and payoffs are distributed to each player. 
 
@@ -63,6 +75,7 @@
   A strategy profile is **Pareto optimal** if it is not Pareto dominated by any other strategy profile. 
 	* *Pareto optimality does not necessarily leave all players equally happy*
 	* Pareto optimality is not guaranteed in noncooperative settings. 
+
 
 # Links 
 * [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 3]]
