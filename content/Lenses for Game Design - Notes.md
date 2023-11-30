@@ -5,11 +5,6 @@
 * [[Lenses for the Player]]
 * [[Lenses for the Experience]]
 
-### The Team Builds a Game with Technology
-* Relevant lenses: [[Lenses for Game Design - Lenses#104. Technology|Technology]], [[Lenses for Game Design - Lenses#105. The Crystal Ball|The Crystal Ball]], [[Lenses for Game Design - Lenses#106. Utopia|Utopia]] 
-
-### Your Game will Probably Have a Client
-* Relevant lenses: [[Lenses for Game Design - Lenses#107. The Client|The Client]].
 
 ### The Designer Gives the Client a Pitch 
 * Relevant lenses: [[Lenses for Game Design - Lenses#108 . The Pitch|Pitch]]

@@ -1,11 +1,18 @@
 * A **game** is a [[Characterizing the Decision Problem|decision process]] which involves multiple players that affect the environment and each other. 
 
 # Fundamentals 
+## Strategies 
 * A **pure strategy** for player $i$ is a *deterministic plan of action*. The set of all pure strategies of player $i$ is denoted $S_i$.
 	* Strategies are distinct from actions. The outcomes may be conditioned on the choice of actions but not the strategy. 
   
   A **profile of pure strategies**, $s=(s_1,\dots, s_n)$ describes a particular combination of pure strategies chosen by all $n$ players of the game 
 
+### Substitutes and Complements 
+* A game with **strategic substitutes** is a game where the best response of one player decreases in the choice of the other.  That is, *they mutually reinforce each other*. 
+* A game with **strategic complements** is a game where the best response of one player increases the choice of the other. That is *they mutually offset one another*. 
+
+
+## Games 
 * The **normal-form game** is a tuple $(N,S,v)$
 	* A finite set of players $N = \{1,\dots, n\}$ 
 	* A set of actions for each player $S=\{S_1, \dots, S_n\}$
@@ -16,6 +23,9 @@
 	* *Rows* represent one player 1's strategies.  
 	* *Columns* represent one of  2's strategies 
 	* Entries represent a two element vector $(v_1,v_2)$ representing the players' payoffs. 
+
+### Static vs Dynamic  
+* A **static game** is a game where players simultaneously and independently make a once and for all decision, after which all outcomes are realized and payoffs are distributed to each player. 
 
 ## Incorporating Beliefs 
 * A strategy $s_i\in S_i$ is player $i$'s **best response** to his opponents' strategies $s_{-i}$ if 
@@ -28,9 +38,6 @@
 * A **belief** of player $i$ is a possible profile of his opponents' strategies $s_{-i}\in S_{-i}$,
 * The **best response correspondence** of player $i$, selects for each $s_i\in S_{-i}$ a subset $\text{BR}_i (s_{-i})\subseteq S_i$ where each strategy $s_i\in \text{BR}_i(s_{-i})$ is a best response to $s_{-i}$ based on the player's beliefs.
 * A strategy $s_i\in S$ is **never a best response** if there are no beliefs $s_{-i}\in S_{-i}$ for player $i$ for which $s_i\in \text{BR}_i(s_{-i})$
-# Static vs Dynamic 
-* A **static game** is a game where players simultaneously and independently make a once and for all decision, after which all outcomes are realized and payoffs are distributed to each player. 
-
 
 # Information
 * An event $E$ is **common knowledge** if:
@@ -75,6 +82,7 @@
   A strategy profile is **Pareto optimal** if it is not Pareto dominated by any other strategy profile. 
 	* *Pareto optimality does not necessarily leave all players equally happy*
 	* Pareto optimality is not guaranteed in noncooperative settings. 
+	* *In general, maximizing the sum of utility functions or maximizing total welfare will result in a Pareto optimal outcome*. However, it need not be the unique one. 
 
 
 # Links 

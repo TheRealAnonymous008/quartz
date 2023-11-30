@@ -91,3 +91,18 @@
 	* Categorize the document into sections. 
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#102. Documentation|Documentation]]
+
+### Your Game will Probably Have a Client
+* *Unless you are making a game as a hobby, or are independently wealthy, the client is paying to make the game*. 
+* Most of the time, the client will have very strong opinions about how the game should look, act, and play. 
+	* There are two kinds of game designers -- happy and cranky. The happy ones are either independently wealthy or good at dealing with the strong opinions of their clients. The cranky ones are not good at dealing with strong opinions. 
+
+* *[[The 48 Laws of Power|Learn to deal with your client's strong opinions]]*.  
+	* The key is empathy. Understand why the client is making the suggestion. 
+	* It is safe to assume the client has no incentive to make the game bad, especially when they are financially invested. 
+	* *Figure out what problem the client is trying to solve.*
+
+* Sometimes, even the client will not be able to figure out what they want. Thus, *know the client better than the client knows themselves*. 
+	* Understand what is important to the client. [[Psychology|Profiling them]] may prove beneficial. 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#107. The Client|The Client]].

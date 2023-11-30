@@ -866,9 +866,32 @@
 * How will we get the information we need?
 
 ### 104. Technology 
+* What technologies will help deliver the experience I want to create?
+* Am I using these technologies in ways that are foundational or decorational?
+* If I’m not using them foundationally, should I be using them at all?
+* Is this technology as cool as I think it is?
+* Is there a “disruptive technology” I should consider instead?
+
 ### 105. The Crystal Ball 
+* If you would like to know the future of a particular game technology, ask yourself these questions, and make your answers as concrete as possible:
+
+* What will ___ be like two years from now? Why?
+* What will ___ be like four years from now? Why?
+* What will ___ be like ten years from now? Why?
+
 ### 106. Utopia
+* Am I creating something that feels magical?
+* Do people get excited just hearing about what I am making? Why or why not?
+* Does my game advance the state of the art in a meaningful way?
+* Does my game make the world a better place?
+
 ### 107. The Client
+* If you are making a game for someone else, you should know what they want
+
+* What does the client say they want?
+* What does the client think they want?
+* What does the client really want, deep down in their heart?
+
 ### 108 . The Pitch
 ### 109. Profit
 ### 110. Transformation

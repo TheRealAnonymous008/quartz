@@ -23,8 +23,9 @@
 * $v_i(s)$ - the payoff received by player $i$ under strategy profile $s$. 
 * $s_i \succ_i s_i'$ - strictly dominance relation. $s_i$ strictly dominates $s_i'$. 
 * $s_i\succeq_i s'_i$ - weak dominance relation. $s_i$ weakly dominates $s_i$'.
+
 * $s^D$ - strictly dominant strategy profile
 * $s^W$ - weakly dominant strategy profile
-* $s^\text{ES}$ - iterated-elimination equilibrium
-* $s_i^\text{ES}$ - strategy of $i$-th player in iterated-elimination equilibrium.
+* $s^\text{ES}$ - iterated-elimination equilibrium 
 * $\text{BR}_i$ - best response correspondence.
+* $s^\ast$ - Nash equilibrium. 

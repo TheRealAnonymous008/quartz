@@ -323,3 +323,32 @@
 * *Inputs are important in VR / AR*. Design your game around these input mechanisms. 
 
 * Relevant Lenses: [[Lenses for Game Design - Lenses#93.5 Presence|Presence]]. 
+
+### The Team Builds a Game with Technology
+* Technology, among the other elements of the tetrad, is the most dynamic, volatile and unpredictable.  The **technology** of the game pertains to its medium. 
+	* **Foundational Technology** - the ones that make a new kind of experience possible. 
+	* **Decorational Technology** - makes an existing experience better.
+* Because of the pressure for novelty, *it can be easy to get swept away in the possibilities of what technology can do* and forget that our purpose is to create a great game.
+* When encountering a new technology, *ask your self how you can make it foundational to your game*. 
+
+* It is best to understand the [[Hype Cycle]] because:
+	* **Immunity** - you can avoid risking your career on a technology you haven't seen work. 
+	* **Inoculation** - if you can make others understand the Hype Cycle, you may be able to save your team from making a dangerous decision 
+	* **Fund raising** - get the money before the trough of disillusionment then make something great despite the technology. 
+
+* Be aware of the **Innovator's Dilemma** - *Technology companies fail because they make the mistake of listening to their customers*. 
+	* This situation is when new technology has appeared that is different and not yet good enough to replace the old one. 
+	* The oversight comes from sticking to the old technology because the new technology is not good enough. But, this doesn't take into account innovations in the new technology.
+* **The Law of Divergence** - as more technology emerges, we expect them to diverge, manifesting in different devices that let you mix and match. 
+	* *Exception*: Pocket-held technologies that are convergent for convenience. 
+
+* *Don't just understand what is new, understand what is coming next*. The predictions aren't important, rather they let you develop instincts for how technology fits with the human experience. 
+
+* According to [[The Art of Game Design -- A Book of Lenses by Schell|Schell]], there are five types of technology that will lead to a better world. 
+	* **Magical Interface** - players want interfaces that feel magical. 
+	* **Fair Payment** - payment systems that players find fair while sustaining the ability to create great games. 
+	* **Less A more I** - improvements to [[Artificial Intelligence]] technology to make them more natural. 
+	* **Family and Friends** - games that are meant to be played with the family. 
+	* **Transformation** - games that help people change into people they truly want to be. 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#104. Technology|Technology]], [[Lenses for Game Design - Lenses#105. The Crystal Ball|The Crystal Ball]], [[Lenses for Game Design - Lenses#106. Utopia|Utopia]] 
