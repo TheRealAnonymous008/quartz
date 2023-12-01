@@ -155,7 +155,7 @@ And to assure all sums are finite, we have that $\prod_{k=t}^\infty \gamma_k = 0
 * Use of [[Function Approximation in Reinforcement Learning|function approximation]] 
 * Use of [[Policy Gradient Methods]] and extensions of the Policy Gradient Theorem .
 # Prediction and Update
-* Estimates and Update rules in Reinforcement learning can be formulated with the following formula (analogous to gradient descent): 
+* Estimates and Update rules in Reinforcement learning can be formulated with the following formula (analogous to [[Optimization Algorithm#Gradient Descent|Gradient Descent]]): 
   $$
   \text{New} = \text{Old} + \text{Step} \left[ \text{Target} - \text{Old} \right]
   $$

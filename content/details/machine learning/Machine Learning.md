@@ -3,14 +3,25 @@
 	* **Supervised Learning** - for finding functional mappings between features and labels. 
 	* **Unsupervised Learning** - for understanding the underlying structure of the data . 
 	* **Reinforcement Learning** - for developing policies and behaviors. 
+
+
 # Unfiled
 * The methods of Neural Style Transfer probably indicate that neural networks can extract the "essence" of an image in the same manner humans recognize an object even if it is rendered or perceived differently.
+
+* Machine Learning models have **inductive biases** - assumptions that the model uses to perform a prediction task wherein the model prefers a certain class of solutions. 
+* The **No Free Lunch Theorem** - any learning algorithm generalizes better on data with certain distributions and worse with other distributions. 
 # Topics
-* [[Low Level of Training a Model]]
-* [[Multimodal Models]]
+
 * [[Supervised Learning]]
 * [[Unsupervised Learning]]
 * [[Reinforcement Learning]]
+*  [[Low Level of Training a Model]]
+* [[Model Performance]]
+* [[Multimodal Models]]
+
+
+* [[Loss Function]]
+* [[Optimization Algorithm]]
 
 * [[AI in Education]]
 * [[Machine Learning and Mathematical Reasoning]]

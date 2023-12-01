@@ -1,0 +1,2 @@
+* A **Database Management System** is software that interacts with clients (i.e., users and other applications), and the [[Database]] itself in order to capture and analyze the database, as well as to manage data resources.
+* A Database Management System provides a way to perform CRUD as well as Administration functions such as registering and monitoring users, enforcing data security, monitoring performance, maintaining data integrity, concurrency control and error handling.

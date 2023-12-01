@@ -1,6 +1,12 @@
 # Learning Variants 
 * **Classification** involves identifying the group that an entity belongs in given its features. It has important variants. 
+	* **Binary** - only two labels 
+	* **Multiclass** - more than two labels 
+	* **Multilabel** - can predict more than two labels. 
 * In **batch learning**, we have access to the features and the labels, which we may use to train a model.  *When we then deploy this model, we no longer retrain or update the model* barring extreme circumstances (and we do updates in batches).
+* In **online learning** we have data points $(x^{(i)}, y^{(i)})$ that arrive *one sample at a time*. More specifically, we formulate an estimation and only when we have done this can we observe $y^{(i)}$.
+  
+  We follow a cycle where we have to continuously improve the model given new observations
 
 # Distribution Shift
 * A **distribution shift** pertains to a problem in making a model wherein the assumption that the [[Random Variables and Probability Distributions|distribution]] of the problem domain being stationary does not hold. 
@@ -12,7 +18,7 @@
 * *Assume:* that each data has a nonzero probability of occurring during training time. 
 * We can mitigate as follows. Let $q(x)$ be the source distribution and $p(x)$ the target. By definition $p(y\mid x) = q(y\mid x)$ did not change.
   
-  We correct using [[Frequentist Statistics#Empirical Risk Minimization|the risk identity]] but using the a modified Empirical risk instead
+  We correct using [[Model Performance|the risk identity]] but using the a modified Empirical risk instead
   
   Let$$\beta_i=\frac{p(x^{(i)})}{q(x^{(i)})}$$So that the empirical risk becomes $$\frac{1}{n}{\sum_{i=1}^n \ \beta_i \ L\left(f(X^{(i)}, y^{(i)})\right)} $$
   All that is left is to actually estimate the $\beta_i$ term. This will require sampling from both $p(x)$ and $q(x)$. [^cov_shift]
@@ -124,7 +130,20 @@
   $$
   
 # Gradients and Learning Rate 
+* The **Exploding Gradient Problem** is an issue in deep learning.  Because we perform successive multiplications, we may encounter *gradients (and thus parameter updates) that are excessively large*, which means each parameter drastically updates, and this can lead to the existing model being destroyed since we cannot achieve 
 
+* The **Vanishing Gradient Problem** is a problem in deep learning. Because we perform successive multiplications, we may encounter *gradients (and thus parameter updates) that are excessively small*, which means each parameter hardly updates.
+	* Aside from the inherent numerical instability, this is influenced by the choice of [[Neural Network|activation functions]]. 
+	* For example, using sigmoid tends to cause gradients to vanih
+
+
+* The **learning rate** is a hyperparameter that defines the step size at each iteration when moving towards the minimum of a loss function. Typically denoted $\gamma$.
+	* *Too low of a learning rate* means the model gets stuck on local minima and will converge must slower. 
+	* *Too high of a learning rate* will jump over the minima
+
+# Test Set Reuse 
+* We must be careful when we reuse the test set for testing another model since we cannot guarantee that the next model will receive a misleading prediction score
 # Links
 * [Understanding Double Descent](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
 * [[Neural Network]]
+* [[Optimization Algorithm]]

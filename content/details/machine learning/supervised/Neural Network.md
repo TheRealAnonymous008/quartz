@@ -68,7 +68,7 @@
 	  $$
 	  Where $\text{prod}$ is simply an abstraction to the multiplication operator for the corresponding tensors.
 	  
-	  We then perform updates via gradient descent. 
+	  We then perform updates via [[Optimization Algorithm#Gradient Descent|Gradient Descent]]. 
 
 * There is significant memory overhead when it comes to backpropagation since we have to store intermediate values. As such, applying backpropagation to deep networks or to very big batch sizes may give out of memory errors.
 

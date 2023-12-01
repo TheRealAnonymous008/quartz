@@ -584,6 +584,225 @@
 | E790  | The soul - miscellaneous                                                                                               |
 
 # The Marvels 
+| Index | Name                                                  |
+| ----- | ----------------------------------------------------- |
+| F0    | Journey to Other world                                |
+| F10   | Journey to upper world                                |
+| F30   | Inhabitant of upper world visits earth                |
+| F50   | Access to upper world                                 |
+| F60   | Transportation to or from upper world                 |
+| F80   | Journey to lower world                                |
+| F90   | Access to lower world                                 |
+| F100  | Visit to lower world - miscellaneous outfits          |
+| F110  | Journey to terrestrial otherworlds                    |
+| F130  | Location of otherworld                                |
+| F140  | Bounds of the otherworld                              |
+| F150  | Access to otherworld                                  |
+| F160  | Nature of the otherworld                              |
+| F170  | Otherworld - miscellaneous motifs                     |
+| F200  | Fairies and elves                                     |
+| F210  | Fairyland                                             |
+| F220  | Dwelling of fairies                                   |
+| F230  | Appearance of fairies                                 |
+| F240  | Possessions of fairies                                |
+| F250  | Other characteristics of fairies                      |
+| F260  | Behavior of fairies                                   |
+| F300  | Marriage of liaison with fairy                        |
+| F310  | Fairies and human children                            |
+| F320  | Fairies carry people away to fairyland                |
+| F330  | Grateful fairies                                      |
+| F340  | Gifts from fairies                                    |
+| F350  | Theft from fairies                                    |
+| F360  | Malevolent or destructive fairies or pixies           |
+| F370  | Visit to fairyland                                    |
+| F380  | Defeating or riddling oneself of fairies              |
+| F390  | Fairies - miscellaneous motifs                        |
+| F400  | Spirits and demons in general                         |
+| F420  | Water spirits                                         |
+| F430  | Weather spirits                                       |
+| F440  | Vegetation spirits                                    |
+| F450  | Underground spirits                                   |
+| F460  | Mountain spirits                                      |
+| F470  | Night spirits                                         |
+| F480  | House spirits                                         |
+| F490  | Other spirits and demons                              |
+| F500  | Remarkable persons                                    |
+| F510  | Monstrous persons                                     |
+| F530  | Exceptionally large or small men                      |
+| F540  | Remarkable physical organs                            |
+| F560  | Unusual manner of life                                |
+| F570  | Other extraordinary human beings                      |
+| F600  | Persons with extraordinary powers                     |
+| F610  | Remarkable strong man                                 |
+| F640  | Extraordinary powers of perception                    |
+| F660  | Remarkable skill                                      |
+| F680  | Other marvelous power                                 |
+| F700  | Extraordinary places                                  |
+| F710  | Extraordinary bodies of water                         |
+| F720  | Submarine and subterranean world                      |
+| F730  | Extraordinary islands                                 |
+| F750  | Extraordinary mountains and other land features       |
+| F760  | Extraordinary cities                                  |
+| F770  | Extraordinary buildings and furnishings               |
+| F790  | Extraordinary sky and weather phenomena               |
+| F800  | Extraordinary rocks and stones                        |
+| F810  | Extraordinary trees, plants, fruits, etc              |
+| F820  | Extraordinary clothing and ornaments                  |
+| F830  | Extraordinary weapons                                 |
+| F840  | Other extraordinary objects and places                |
+| F900  | Extraordinary occurrences                             |
+| F910  | Extraordinary swallowings                             |
+| F930  | Extraordinary occurrences concerning seas or water    |
+| F940  | Extraordinary underground (underwater) disappearances |
+| F950  | Marvelous cures                                       |
+| F960  | Extraordinary nature phenomena - elements and weather |
+| F970  | Extraordinary behavior of trees and plants            |
+| F980  | Extraordinary occurrences concerning animals          |
+| F990  | Inanimate objects act as if living                    |
+| F1010 | Other extraordnary events                             |
+# Ogres 
+| Index | Name                                    |
+| ----- | --------------------------------------- |
+| G0    | Ogres                                   |
+| G10   | Regular Cannibalism                     |
+| G20   | Ghouls - Persons eat corpses            |
+| G30   | Person becomes cannibal                 |
+| G50   | Occasional cannibalism                  |
+| G60   | Human flesh eaten unwittingly           |
+| G70   | Occasional cannibalism - deliberate     |
+| G80   | Other motifs dealing with cannibals     |
+| G100  | Giant ogre                              |
+| G110  | Possessions of giant ogres              |
+| G120  | Physical characteristics of giant ogres |
+| G130  | Customs of giant ogres                  |
+| G150  | Giant ogres - miscellaneous             |
+| G200  | Witch                                   |
+| G210  | Form of witch                           |
+| G220  | Characteristics of witches              |
+| G230  | Habitat of witches                      |
+| G240  | Habits of witches                       |
+| G250  | Recognition of witches                  |
+| G260  | Evil deeds of witches                   |
+| G270  | Witch overcome or ecaped                |
+| G280  | Witch - miscellaneous motifs            |
+| G300  | Other ogres                             |
+| G310  | Ogres with characteristic methods       |
+| G350  | Animal ogres                            |
+| G360  | Ogres with monstrous features           |
+| G370  | Ogres - miscellaneous                   |
+| G400  | Person falls into ogre's power          |
+| G410  | Person betrayed into ogre's power       |
+| G420  | Capture by ogre                         |
+| G440  | Ogre abducts person                     |
+| G450  | Falling into ogre's power-miscellaneous |
+| G500  | Ogre defeated                           |
+| G510  | Ogre killed, maimed, or captured        |
+| G520  | Ogre deceived into self-injury          |
+| G530  | Ogre's relative aids hero               |
+| G550  | Rescue from ogre                        |
+| G560  | Ogre deceived into releasing prisoner   |
+| G570  | Ogre overawed                           |
+| G580  | Ogre otherwise subdued                  |
+| G610  | Theft from ogre                         |
+| G630  | Characteristics of ogres                |
+| G650  | Unclassified ogre motifs                |
+
+# Tests 
+| Index | Name                                                                                                                                   |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| H0    | Identity Tests                                                                                                                         |
+| H10   | Recognition through common knowledge                                                                                                   |
+| H20   | Recognition by resemblance                                                                                                             |
+| H30   | Recognition through personal peculiarities                                                                                             |
+| H50   | Recognition by bodily marks or physical attributes                                                                                     |
+| H80   | Identification by tokens                                                                                                               |
+| H90   | Identification by ornaments                                                                                                            |
+| H100  | Identification by matching parts of divided token                                                                                      |
+| H110  | Identification by cloth or clothing                                                                                                    |
+| H120  | Identification by tokens - miscellaneous                                                                                               |
+| H150  | Circumstances of recognition                                                                                                           |
+| H200  | Tests of Truth                                                                                                                         |
+| H210  | Test of guilt or innocence                                                                                                             |
+| H220  | Ordeals                                                                                                                                |
+| H240  | Other tests of truth                                                                                                                   |
+| H300  | Tests connected with marriage                                                                                                          |
+| H310  | Suitor tests - suitor is put to severe tests by his prospective bride or father-in-law                                                 |
+| H360  | Bride test                                                                                                                             |
+| H400  | Chastity test                                                                                                                          |
+| H410  | Chastity test by magic objects or ordeals                                                                                              |
+| H430  | Chastity index - objects indicate faithfulness of separate spouse                                                                                                                         |
+| H440  | Other indications of chastity                                                                                                          |
+| H460  | Wife test                                                                                                                              |
+| H480  | Father tests - test as to who is unknown father of child                                                                               |
+| H490  | Other marriage tests                                                                                                                   |
+| H500  | Test of cleverness or ability                                                                                                          |
+| H510  | Test in guessing                                                                                                                       |
+| H530  | Riddles                                                                                                                                |
+| H540  | Propounding of riddles                                                                                                                 |
+| H570  | Means of solving riddles                                                                                                               |
+| H580  | Enigmatic statements - apparently senseless remarks or acts interpreted figuratively prove wise                                        |
+| H600  | Symbolic interpretations                                                                                                               |
+| H620  | The unsolved problem -- enigmatic ending of tale                                                                                       |
+| H630  | Riddles of the superlative                                                                                                             |
+| H660  | Riddles of comparison                                                                                                                  |
+| H680  | Riddles of distance                                                                                                                    |
+| H690  | Riddles of weight and measure                                                                                                          |
+| H700  | Riddles of numbers                                                                                                                     |
+| H710  | Riddles of value                                                                                                                       |
+| H720  | Metaphorical riddles                                                                                                                   |
+| H770  | Riddles of explanation                                                                                                                 |
+| H790  | Riddle-based on unusual circumstances                                                                                                  |
+| H810  | Riddles based on the Bible or legend                                                                                                   |
+| H840  | Other riddles                                                                                                                          |
+| H900  | Assignment of tasks - person's prowess is tested by assigning him certain tasks to be performed to escape punishment or receive reward |
+| H910  | Assignment of tasks in response to suggestion                                                                                          |
+| H920  | Assigners of tasks                                                                                                                     |
+| H940  | Assignment of task - miscellaneous                                                                                                     |
+| H950  | Task evaded by subterfuge                                                                                                              |
+| H960  | Tasks performed through cleverness or intelligence                                                                                     |
+| H970  | Help in performing tasks                                                                                                               |
+| H990  | Performance of tasks - miscellaneous                                                                                                   |
+| H1000 | Nature of tasks                                                                                                                        |
+| H1010 | Impossible tasks                                                                                                                       |
+| H1020 | Tasks contrary to laws of nature                                                                                                       |
+| H1030 | Other impossible tasks                                                                                                                 |
+| H1050 | Paradoxical tasks                                                                                                                      |
+| H1090 | Tasks requiring miraculous speed                                                                                                       |
+| H1110 | Tedious tasks                                                                                                                          |
+| H1130 | Superhuman tasks                                                                                                                       |
+| H1150 | Tasks -- stealing, capturing or slaying                                                                                                |
+| H1180 | Miscellaneous tasks                                                                                                                    |
+| H1200 | Quest                                                                                                                                  |
+| H1210 | Quest assigned                                                                                                                         |
+| H1220 | Quest voluntarily undertaken                                                                                                           |
+| H1230 | Accomplishment of quests 
+| H1240 | Other circumstances of quests                                                                                                          |
+| H1250 | Quests to the other world                                                                                                              |
+| H1260 | Quests to the upper world                                                                                                              |
+| H1270 | Quest to lower world                                                                                                                   |
+| H1280 | Quests to other realms                                                                                                                 |
+| H1290 | Quests to the other world - miscellaneous motifs                                                                                       |
+| H1300 | Quests for the unique                                                                                                                  |
+| H1320 | Quest for the marvelous objects or animals                                                                                             |
+| H1360 | Quest for dangerous animals                                                                                                            |
+| H1370 | Miscellaneous quests                                                                                                                   |
+| H1400 | Fear test - a person is put to various tests in the attempt to make him show fear                                                                                                                              |
+| H1410 | Fear test -- staying in frightful place                                                                                                |
+| H1420 | Fearless traffic with devils                                                                                                           |
+| H1430 | Fearless traffic with ghosts                                                                                                           |
+| H1440 | The learning of fear                                                                                                                   |
+| H1450 | Vigilance test                                                                                                                         |
+| H1460 | Test -- vigil at tomb                                                                                                                  |
+| H1470 | Other vigilance tests                                                                                                                  |
+| H1480 | Accomplishment of vigilance test                                                                                                       |
+| H1500 | Tests of endurance                                                                                                                     |
+| H1510 | Tests of power to survive                                                                                                              |
+| H1540 | Contests in endurance                                                                                                                  |
+| H1550 | Test of character                                                                                                                      |
+| H1570 | Miscellaneous tests                                                                                                                    |
+
+# The Wise and The Foolish 
+
 
 # Links
 * [[Motif Index of Folk Literature by Thompson]]

@@ -226,50 +226,10 @@ $$
 	  P(\delta\mid\mathcal{D})=\int P(\theta\mid\mathcal{D})L(\theta,\delta) \ d\theta
 	  $$
 [^1]: Not unlike [[Reinforcement Learning]]
-# Confusion Matrices
-* See [Here](https://en.wikipedia.org/wiki/Confusion_matrix) for all the entries in the confusion matrix (i.e., TPR, FPR).
-* The **Receiver Operating Characteristic** curve shows the $FPR$ and $TPR$ as a function of the classification boundary $\tau$.
-	* Good classification systems will hug the left axis and then the top axis.
-	* The quality is quantified as **Area Under the Curve** (AUC). Higher = better. 
-	* The **Equal Error Rate** is the value of $\tau$ such that $FPR=FNR$. Lower = better.
 
-### Accuracy
-* **Accuracy** measures the proportion of correct predictions over all classifications performed
-  
-  $$
-  \text{accuracy} = \frac{\text{correct classifications}}{\text{all classifications}}
-  $$
+# Topics 
+* [[Model Performance]] - specifically Generalization Error and Confusion Matrices .
 
-* Although accuracy can give an idea for a model's performance, *it may not necessarily reflect whether or not the model has truly learned patterns in the data*.
-* It is also prone to the fact we weight each correct classification correctly, which *assumes that the population proportion for each class is roughly equal* ,which does always not hold
-
-
-### Precision-Recall
-* The **precision** measures what fraction of positive labels are actually positive (i.e. $\frac{TP}{TP + FP}$)
-* The **recall** measures what fraction of the ground truth positive samples are detected (i.e., $\frac{TP}{TP + FN}$)
-* The precision-recall curve can be plotted as a function of $\tau$. Better classifiers hug the top right.
-* The **average precision at $K$** is the precision at a fixed recall level.
-* The **F1 score** combines precision and recall. It is the harmonic mean of the two 
-  $$
-  F_1=\frac{2}{1/P+1/R}
-  $$
-  
-	* For multi-class classification, we can generalize the $F_1$ score as a **macro-averaged** $F_1$ score defined as the average $F_1$ score where we identify a class $c$ from all other classes. That is $$\frac{1}{C}\sum_{c=1}^C F_1(c)$$
-	* Alternatively, we can use a **micro-averaged** $F_1$ score where we pool all counts from each class's contingency table (that is by pooling all $TP, FP$ and $FN$ across all classes)
-### Multiple Hypothesis Testing
-* *Problem*: We need to classify using multiple hypotheses simultaneously.
-* We can minimize the **false discovery rate** defined as 
-  $$
-  FDR(\tau,\mathcal{D})=FD(\tau,\mathcal{D})/N(\tau,D)
-  $$
-  
-  Where $N(\tau,\mathcal{D})$ is the number of positively classified items and  
-  $$
-  FD(\tau,\mathcal{D})=\sum_{i}(1-p_i) \mathbb{I}(p_i>r)
-  $$
-  
-  Where $p_i=P(y_i=1\mathcal{D})$ is the prior belief regarding the hypothesis. 
-* The **Direct Posterior Probability approach** involves modifying the decision threshold $\tau$.
 # Links
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 5]]
 	* 5.6 - More on Hierarchical and Empirical Bayes

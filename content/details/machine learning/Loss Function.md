@@ -1,4 +1,5 @@
 * The **confidence score** represents the probability that the output of the model is correct.
+* A **loss function** is a way to quantify the accuracy of a certain model. More specifically it *associates a prediction with a score that denotes how far it is from the ground truth.* 
 
 # Cross-Entropy Loss 
 * The **cross entropy loss** takes in a probability vector as input. 
@@ -41,5 +42,26 @@
   
   Now take the second derivative. We get $$\frac{\partial^2}{\partial^2 x_j} L(y,\hat{y})=S(x)_j \left(1-S(x)_j\right)$$As it turns out, this is equal to the variance of the Softmax function.
 
+# Mean Square Error 
+* The **Mean Squared Error**, denoted $MSE$ is defined as: 
+  $$
+  {MSE=\frac{1}{n}{\sum_{i=1}^n (Y-\hat{Y})^2}}
+  $$
+* A convention is to multiply the above quantity by $\frac{1}{2}$ since it makes the derivative more mathematically convenient
+
+# Smooth L1- Loss 
+* Defined as 
+  $$
+  \begin{equation} \begin{split}
+  \text{smooth}_L1 &= \begin{cases}
+  |x| & \text{if } |x | >\alpha \\
+  \frac{1}{|\alpha|}x^2 & \text{otherwise}  
+  \end{cases}
+  \end{split}\end{equation}
+  $$
+
+* The $\frac{1}{|\alpha|}$ term is present to make the function continuous. 
+* This acts as a combination of L1 and L2 [[Linear Models|regression]]
 # Links 
 * [[Differential Calculus]]
+* [[Optimization Algorithm]] - how to actually minimize or maximize the loss.
