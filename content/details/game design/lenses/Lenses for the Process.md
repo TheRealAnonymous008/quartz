@@ -58,7 +58,7 @@
 * Relevant lenses: [[Lenses for Game Design - Lenses#15. The Eight Filters|Eight Filters]], [[Lenses for Game Design - Lenses#16. Risk Mitigation|Risk Mitigation]], [[Lenses for Game Design - Lenses#17. The Toy|The Toy]], [[Lenses for Game Design - Lenses#18. Passion|Passion]]
 
 ### Good Games Are Created Through Playtesting 
-* Playtesting is about getting people to come play the game to see if it engenders the experience for which it was designed. 
+* Playtesting is about getting people to come [[Lenses for the Player|play]] the game to see if it engenders the experience for which it was designed. 
 * Playtesting may seem like an invitation for others to hate on your game. However, it is necessary to find the flaws of the game as soon as possible.
 
 * *It is a prototype for the game experience*. 

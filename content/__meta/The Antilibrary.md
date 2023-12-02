@@ -10,9 +10,7 @@
 
 # Interesting Topics
 * [Double Speak](https://www.youtube.com/watch?v=qP07oyFTRXc)
-* [Polymathy](https://en.wikipedia.org/wiki/Polymath)
 * Geometric Deep Learning
-* [Principles of Learning](https://en.wikipedia.org/wiki/Principles_of_learning)
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
 * Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
 * [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))
@@ -24,7 +22,7 @@
 
 * [[Bad Sources]] - dump for bad sources. 
 
-# Knowledge Repositories
+# General Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 
 * [Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)
 * [Kevin's Habits](https://kevinhabits.com)

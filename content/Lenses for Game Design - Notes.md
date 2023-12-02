@@ -5,10 +5,6 @@
 * [[Lenses for the Player]]
 * [[Lenses for the Experience]]
 
-
-### The Designer Gives the Client a Pitch 
-* Relevant lenses: [[Lenses for Game Design - Lenses#108 . The Pitch|Pitch]]
-
 ### The Designer and Client Want the Game to Make a Profit
 * Relevant lenses: [[Lenses for Game Design - Lenses#109. Profit|Profit]]
 

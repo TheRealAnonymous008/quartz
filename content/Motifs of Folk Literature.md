@@ -802,7 +802,517 @@
 | H1570 | Miscellaneous tests                                                                                                                    |
 
 # The Wise and The Foolish 
+| Index | Name                                                                      |
+| ----- | ------------------------------------------------------------------------- |
+| J0    | Acquisition and possession of wisdom (knowledge)                          |
+| J10   | Wisdom (knowledge) acquired from experience                               |
+| J30   | Wisdom (knowledge) acquired from inference                                |
+| J50   | Wisdom (knowledge) acquired from observation                              |
+| J80   | Wisdom (knowledge) taught by parable                                      |
+| J100  | Wisdom (knowledge) taught by necessity                                    |
+| J120  | Wisdom learned from children                                              |
+| J130  | Wisdom (knowledge) acquired from animals                                  |
+| J140  | Wisdom (knowledge) through education                                      |
+| J150  | Other means of acquiring wisdom (knowledge)                               |
+| J180  | Possession of wisdom                                                      |
+| J200  | Choices                                                                   |
+| J210  | Choice between rolls                                                      |
+| J230  | Choice between real and apparent values                                   |
+| J240  | Choice between useful and ornamental                                      |
+| J260  | Choice between worth and appearance                                       |
+| J280  | Quality preferred to quantity                                             |
+| J300  | Present values chosen                                                     |
+| J310  | The present preferred to the past                                         |
+| J320  | Present values preferred to future                                        |
+| J330  | Gains and losses                                                          |
+| J340  | Choices -- little gain, big loss                                          |
+| J350  | Choices -- small inconvenience, large gain                                |
+| J370  | Choices -- important and unimportant work                                 |
+| J390  | Choices -- kind strangers, unkind relatives                               |
+| J400  | Choice of associates                                                      |
+| J410  | Association of equals and of unequals                                     |
+| J420  | Association of strong and weak                                            |
+| J440  | Association of young and old                                              |
+| J450  | Association of the good and the evil                                      |
+| J460  | Unnecessary choices                                                       |
+| J480  | Other choices                                                             |
+| J500  | Prudence and discretion                                                   |
+| J510  | Prudence in ambition                                                      |
+| J530  | Prudence in demands                                                       |
+| J550  | Zeal - temperate and intemperate                                          |
+| J570  | Wisdom of deliberation                                                    |
+| J580  | Wisdom of caution                                                         |
+| J600  | Forethought                                                               |
+| J610  | Forethought in conflicts with others                                      |
+| J620  | Forethought in prevention of others' plans                               |
+| J640  | Avoidance of others' power                                                |
+| J670  | Forethought in defences against others                                    |
+| J680  | Forethought in alliances                                                  |
+| J700  | Forethought in provision for life (general)                               |
+| J710  | Forethought in provision for food                                         |
+| J730  | Forethought in provision for clothing                                     |
+| J740  | Forethought in provision for shelter                                      |
+| J750  | Forethought - miscellaneous                                               |
+| J800  | Adaptability                                                              |
+| J810  | Policy in dealing with the great                                          |
+| J830  | Adaptability to overpowering force                                        |
+| J850  | Consolation in misfortune                                                 |
+| J860  | Consolation by a trifle                                                   |
+| J870  | Consolation by pretending that one does not want the thing he cannot have |
+| J880  | Consolation by thought of others worse placed                             |
+| J890  | Consolation in misfortune - miscellaneous                                 |
+| J900  | Humility                                                                  |
+| J910  | Humility of the great                                                     |
+| J950  | Presumption of the lowly                                                  |
+| J1000 | Other aspects of wisdom                                                   |
+| J1010 | Value of industry                                                         |
+| J1020 | Strength in unity                                                         |
+| J1030 | Self-dependences                                                          |
+| J1040 | Decisiveness of conduct                                                   |
+| J1050 | Attention to warnings                                                     |
+| J1060 | Miscellaneous aspects of wisdom                                           |
+| J1100 | Cleverness                                                                |
+| J1110 | Clever persons and acts                                                   |
+| J1130 | Cleverness in law court - general                                         |
+| J1140 | Cleverness in detection of truth                                          |
+| J1150 | Cleverness connected with the giving of evidence                          |
+| J1160 | Clever pleading                                                           |
+| J1170 | Clever judicial decisions                                                 |
+| J1180 | Clever means of avoiding legal punishment                                 |
+| J1190 | Cleverness in the law court - miscellaneous                               |
+| J1210 | Clever man puts another out of countenance                                |
+| J1230 | Clever dividing                                                           |
+| J1250 | Clever verbal retorts (repartee) - general                                |
+| J1260 | Repartee based on church or clergy                                        |
+| J1270 | Repartee concerning the parentage of children                             |
+| J1280 | Repartee with ruler                                                       |
+| J1290 | Reductio ad absurdum of question or proposal                              |
+| J1300 | Officiousness or foolish questions rebuked                                |
+| J1310 | Repartee concerning wine                                                  |
+| J1320 | Repartee concerning drunkenness                                           |
+| J1330 | Repartee concerning beggars                                               |
+| J1340 | Retorts from hungry persons                                               |
+| J1350 | Rude retorts                                                              |
+| J1370 | Cynical retorts concerning honesty                                        |
+| J1380 | Retorts concerning debts                                                  |
+| J1390 | Retorts concerning thefts                                                 |
+| J1400 | Repartee concerning false reform                                          |
+| J1410 | Repartee concerning fatness                                               |
+| J1420 | Animal retort concerning their dangers                                    |
+| J1430 | Repartee concerning doctors and patients                                  |
+| J1440 | Repartee - miscellaneous                                                  |
+| J1500 | Clever practical retort                                                   |
+| J1510 | The cheater cheated                                                       |
+| J1530 | One absurdity rebukes another                                             |
+| J1540 | Retorts between husband and wife                                          |
+| J1550 | Practical retorts: borrower and lenders                                   |
+| J1560 | Practical retorts: hosts and guests                                       |
+| J1580 | Practical retorts connected with almsgiving                               |
+| J1600 | Practical retorts - miscellaneous                                         |
+| J1650 | Miscellaneous clever acts                                                 |
+| J1700 | Fools                                                                     |
+| J1710 | Association with fools                                                    |
+| J1730 | Absurd ignorance                                                          |
+| J1750 | One animal mistaken for another                                           |
+| J1760 | Animal or person mistaken for something else                              |
+| J1770 | Objects with mistaken identity                                            |
+| J1780 | Things thought to be devils, ghosts, etc                                  |
+| J1790 | Shadow mistaken for substance                                             |
+| J1800 | One thing mistaken for another - miscellaneous                            |
+| J1810 | Physical phenomena misunderstood                                          |
+| J1820 | Inappropriate action from misunderstanding                                |
+| J1850 | Gift or sale to animal or object                                          |
+| J1860 | Animal or object absurdly punished                                        |
+| J1870 | Absurd sympathy for animals or objects                                    |
+| J1880 | Animals or objects treated as if human - miscellaneous                    |
+| J1900 | Absurd disregard or ignorance of animal's nature or habits                |
+| J1910 | Fatal disregard of anatomy                                                |
+| J1920 | Absurd searches for the lost                                              |
+| J1930 | Absurd disregard of natural laws                                          |
+| J1960 | Other absurd disregard of facts                                           |
+| J2000 | Absurd absent-mindedness                                                  |
+| J2010 | Uncertainty about own identity                                            |
+| J2020 | Inability to find own members, etc                                        |
+| J2030 | Absurd inability to count                                                 |
+| J2040 | Absurd absent-mindedness miscellaneous                                    |
+| J2050 | Absurd short-sightedness                                                  |
+| J2060 | Absurd plans -- air castles                                               |
+| J2070 | Absurd wishes                                                             |
+| J2080 | Foolish bargains                                                          |
+| J2100 | Remedies worse than the disease                                           |
+| J2120 | Disregard of danger to object or animals                                  |
+| J2130 | Foolish disregard of personal danger                                      |
+| J2160 | Other short-sighted acts                                                  |
+| J2200 | Absurd lack of logic - general                                            |
+| J2210 | Logical absurdity based upon certain false assumptions                    |
+| J2220 | Other logical absurdities                                                 |
+| J2260 | Absurd scientific theories -- general                                     |
+| J2270 | Absurd astronomical theories                                              |
+| J2280 | Other absurd scientific theories                                          |
+| J2300 | Gullible fools                                                            |
+| J2310 | Nature of gullibility                                                     |
+| J2350 | Talkative fools                                                           |
+| J2370 | Inquisitive fools                                                         |
+| J2400 | Foolish invitation                                                        |
+| J2410 | Types of foolish imitation                                                |
+| J2420 | Foolish imitation - miscellaneous                                         |
+| J2450 | Literal fool                                                              |
+| J2460 | Literal obedience                                                         |
+| J2470 | Metaphors literally interpreted                                           |
+| J2490 | Literal fool - miscellaneous                                              |
+| J2500 | Foolish extremes                                                          |
+| J2550 | Thankful fools                                                            |
+| J2600 | Cowardly fools                                                            |
+| J2650 | Bungling fools                                                            |
+| J2700 | The easy problem made hard                                                |
+| J2750 | Other aspects of wisdom and foolishness                                                                          |
 
+# Deceptions 
+| Index | Name                                                                                                            |
+| ----- | --------------------------------------------------------------------------------------------------------------- |
+| K0    | Contest won by deception--general                                                                               |
+| K10   | Athletic contest won by deception                                                                               |
+| K30   | Hunting contest won by deception                                                                                |
+| K40   | Labor contest won by deception                                                                                  |
+| K50   | Endurance contest won by deception                                                                              |
+| K60   | Absurd contest won by deception                                                                                 |
+| K70   | Contest in strength won by deception                                                                            |
+| K80   | Contests in other physical accomplishments won by deception                                                     |
+| K90   | Other contests won by deception                                                                                 |
+| K100  | Deceptive bargain                                                                                               |
+| K110  | Sale of pseudo-magic objects                                                                                    |
+| K120  | Sale of false treasure                                                                                          |
+| K130  | Sale of worthless animals                                                                                       |
+| K140  | Sale of other worthless objects                                                                                 |
+| K150  | Sale of other worthless services                                                                                |
+| K170  | Deception through pseudo-simple bargain                                                                         |
+| K200  | Deception in payment of debt                                                                                    |
+| K210  | Devil cheated of his promised soul - The man saves it through deceit.                                           |
+| K220  | Payment precluded by terms of the bargain                                                                       |
+| K230  | Other deceptions in the payment of debt                                                                         |
+| K250  | Other deceptive bargains                                                                                        |
+| K300  | Thefts and cheats--general                                                                                      |
+| K310  | Means of entering house or treasury                                                                             |
+| K330  | Means of hoodwinking the guardian or owner                                                                      |
+| K360  | Other means of theft                                                                                            |
+| K400  | Thief escapes detection                                                                                         |
+| K420  | Thief loses his goods or is detected                                                                            |
+| K440  | Other cheats                                                                                                    |
+| K500  | Escape from death or danger by deception                                                                        |
+| K510  | Death order evaded                                                                                              |
+| K520  | Death escaped through disguise, shamming, or substitution                                                       |
+| K540  | Escape by overawing captor                                                                                      |
+| K550  | Escape by false plea - A captive makes a request or proposes an action that permits him to eventually to escape |
+| K580  | Captor persuaded into illusory punishment                                                                       |
+| K600  | Murderer or captor otherwise beguiled                                                                           |
+| K620  | Escape by deceiving the guard                                                                                   |
+| K630  | Escape by disarming (making pursuit difficult)                                                                  |
+| K640  | Escape by help of confederate                                                                                   |
+| K650  | Other means of escape                                                                                           |
+| K700  | Capture by deception                                                                                            |
+| K710  | Victim enticed into voluntary captivity or helplessness                                                         |
+| K730  | Victim trapped                                                                                                  |
+| K750  | Capture by decoy                                                                                                |
+| K770  | Other deceptive captures                                                                                        |
+| K800  | Fatal deception                                                                                                 |
+| K810  | Fatal deception into trickster‘s power                                                                          |
+| K840  | Deception into fatal substitution                                                                               |
+| K850  | Fatal deceptive game                                                                                            |
+| K870  | Fatal deception by narcotic (intoxication)                                                                      |
+| K890  | Dupe tricked into killing himself                                                                               |
+| K910  | Murder by strategy                                                                                              |
+| K930  | Treacherous murder of enemy’s children or charges                                                               |
+| K940  | Deception into killing own children or animals                                                                  |
+| K950  | Various kinds of treacherous murder                                                                             |
+| K960  | Other fatal deceits                                                                                             |
+| K1000 | Deception into self-injury                                                                                      |
+| K1010 | Deception through false doctoring                                                                               |
+| K1020 | Deception into disastrous attempt to procure food                                                               |
+| K1040 | Dupe otherwise persuaded to voluntary self-injury                                                               |
+| K1080 | Persons duped into injuring each other                                                                          |
+| K1110 | Deceptions into self-injury--miscellaneous                                                                      |
+| K1200 | Deception into humiliating position                                                                             |
+| K1210 | Humiliated or baffled lovers                                                                                    |
+| K1240 | Deception into humiliating position--miscellaneous                                                              |
+| K1300 | Seduction                                                                                                       |
+| K1310 | Seduction by disguise or substitution                                                                           |
+| K1330 | Girl tricked into man‘s room (or power)                                                                         |
+| K1340 | Entrance into girl’s (man‘s) room (bed) by trick                                                                |
+| K1350 | Woman persuaded (or wooed) by trick                                                                             |
+| K1380 | Seduction--miscellaneous                                                                                        |
+| K1400 | Dupe‘s property destroyed                                                                                       |
+| K1410 | Dupe’s goods destroyed                                                                                          |
+| K1440 | Dupe‘s animals destroyed or maimed                                                                              |
+| K1460 | Members of dupe’s family killed                                                                                 |
+| K1500 | Deception connected with adultery                                                                               |
+| K1510 | Adulteress outwits husband                                                                                      |
+| K1550 | Husband outwits adulteress and paramour                                                                         |
+| K1570 | Trickster outwits adulteress and paramour                                                                       |
+| K1580 | Other deceits connected with adultery                                                                           |
+| K1600 | Deceiver falls into own trap                                                                                    |
+| K1610 | Deceiver falls into his own trap--miscellaneous incidents                                                       |
+| K1700 | Deception through bluffing                                                                                      |
+| K1710 | Ogre (large animal) overawed                                                                                    |
+| K1760 | Other bluffs                                                                                                    |
+| K1800 | Deception by disguise or illusion                                                                               |
+| K1810 | Deception by disguise                                                                                           |
+| K1840 | Deception by substitution                                                                                       |
+| K1860 | Deception by feigned death (sleep)                                                                              |
+| K1870 | Illusions                                                                                                       |
+| K1890 | Other deceptions by disguise or illusion                                                                        |
+| K1900 | Impostures                                                                                                      |
+| K1910 | Marital impostures                                                                                              |
+| K1920 | Substituted children                                                                                            |
+| K1930 | Treacherous impostors                                                                                           |
+| K1950 | Sham prowess                                                                                                    |
+| K1970 | Sham miracles                                                                                                   |
+| K1980 | Other impostures                                                                                                |
+| K2000 | Hypocrites                                                                                                      |
+| K2010 | Hypocrite pretends friendship but attacks                                                                       |
+| K2030 | Double dealers                                                                                                  |
+| K2050 | Pretended virtue                                                                                                |
+| K2060 | Detection of hypocrisy                                                                                          |
+| K2090 | Other hypocritical acts                                                                                         |
+| K2100 | False accusations                                                                                               |
+| K2110 | Slanders                                                                                                        |
+| K2130 | Trouble-makers                                                                                                  |
+| K2150 | Innocent made to appear guilty                                                                                  |
+| K2200 | Villains and traitors                                                                                           |
+| K2210 | Treacherous relatives - relatives whose treachery seems to be uppermost than their cruelty                      |
+| K2220 | Treacherous rivals                                                                                              |
+| K2230 | Treacherous lovers                                                                                              |
+| K2240 | Treacherous officers and tradesmen                                                                              |
+| K2250 | Treacherous servants and workmen                                                                                |
+| K2260 | Dark traitors - persons dark by race, habitual occupation, or complexion or even marvelously colored            |
+| K2270 | Deformed villains                                                                                               |
+| K2280 | Treacherous churchmen                                                                                           |
+| K2290 | Other villains and traitors                                                                                     |
+| K2300 | Other deceptions                                                                                                |
+| K2310 | Deception by equivocation                                                                                       |
+| K2320 | Deception by frightening                                                                                        |
+| K2350 | Military strategy                                                                                               |
+| K2370 | Miscellaneous deceptions                                                                                        |
+
+# Reversal of Fortune 
+| Index | Name                                      |
+| ----- | ----------------------------------------- |
+| L0    | Victorious youngest child                 |
+| L10   | Victorious youngest son                   |
+| L50   | Victorious youngest daughter              |
+| L70   | Youngest of group victorious              |
+| L100  | Unpromising hero (heroine)                |
+| L110  | Types of unpromising heroes (heroines)    |
+| L130  | Abode of unpromising hero (heroine)       |
+| L140  | The unpromising surpasses the promising   |
+| L160  | Success of the unpromising hero (heroine) |
+| L200  | Modesty brings reward                     |
+| L210  | Modest choice best                        |
+| L220  | Modest request best                       |
+| L250  | Modest business plans best                |
+| L290  | Modesty brings reward - miscellaneous     |
+| L300  | Triumph of the weak                       |
+| L310  | Weak overcomes strong in conflict         |
+| L330  | Easy escape of weak (small)               |
+| L350  | Mildness triumphs over violence           |
+| L390  | Triumph of the weak--miscellaneous        |
+| L400  | Pride brought low                         |
+| L410  | Proud ruler (deity) humbled               |
+| L420  | Overweening ambition punished             |
+| L430  | Arrogance repaid                          |
+| L450  | Proud animal less fortunate than humble   |
+| L460  | Pride brought low--miscellaneous          |
+
+# Ordaining The Future 
+| Index | Name                                            |
+| ----- | ----------------------------------------------- |
+| M0    | Judgments and decrees                           |
+| M10   | Irrevocable judgments                           |
+| M20   | Short-sighted judgments                         |
+| M50   | Other judgments and decrees                     |
+| M90   | Judgments and decrees--miscellaneous motifs     |
+| M100  | Vows and oaths                                  |
+| M110  | Taking of vows and oaths                        |
+| M120  | Vows concerning personal appearance             |
+| M130  | Vows concerning sex                             |
+| M150  | Other vows and oaths                            |
+| M200  | Bargains and promises                           |
+| M210  | Bargain with devil                              |
+| M220  | Other bargains                                  |
+| M250  | Promises connected with death                   |
+| M260  | Other promises                                  |
+| M290  | Bargains and promises--miscellaneous            |
+| M300  | Prophecies                                      |
+| M310  | Favorable prophecies                            |
+| M340  | Unfavorable prophecies                          |
+| M360  | Other prophecies                                |
+| M370  | Vain attempts to escape fulfillment of prophecy |
+| M390  | Prophecies--miscellaneous motifs                |
+| M400  | Curses                                          |
+| M410  | Pronouncement of curses                         |
+| M420  | Enduring and overcoming curses                  |
+| M430  | Curses on persons                               |
+| M460  | Curses on families                              |
+| M470  | Curses on objects or animals                    |
+| M490  | Curses--miscellaneous                           |
+
+# Chance and Fate
+| Index | Name                                          |
+| ----- | --------------------------------------------- |
+| N0    | Wagers and gambling                           |
+| N10   | Wagers on wives, husbands, or servants        |
+| N50   | Other wagers                                  |
+| N90   | Wagers and gambling--miscellaneous            |
+| N100  | Nature of luck and fate                       |
+| N110  | Luck and fate personified                     |
+| N120  | Determination of luck or fate                 |
+| N130  | Changing of luck or fate                      |
+| N140  | Nature of luck and fate--miscellaneous motifs |
+| N170  | The capriciousness of luck                    |
+| N200  | The good gifts of fortune                     |
+| N250  | Persistent bad luck                           |
+| N270  | Crime inevitably comes to light               |
+| N300  | Unlucky accidents                             |
+| N310  | Accidental separations                        |
+| N320  | Person unwittingly killed                     |
+| N330  | Accidental killing or death                   |
+| N340  | Hasty killing or condemnation                 |
+| N350  | Accidental loss of property                   |
+| N360  | Man unwittingly commits crime                 |
+| N380  | Other unlucky accidents                       |
+| N400  | Lucky accidents                               |
+| N410  | Lucky business ventures                       |
+| N440  | Valuable secrets learned                      |
+| N450  | Secrets overheard                             |
+| N500  | Treasure trove                                |
+| N510  | Where treasure is found                       |
+| N530  | Discovery of treasure                         |
+| N550  | Unearthing hidden treasure                    |
+| N570  | Guardian of treasure                          |
+| N590  | Treasure trove--miscellaneous motifs          |
+| N600  | Other lucky accidents                         |
+| N610  | Accidental discovery of crime                 |
+| N620  | Accidental success in hunting or fishing      |
+| N630  | Accidental acquisition of treasure or money   |
+| N640  | Accidental healing                            |
+| N650  | Life saved by accident                        |
+| N660  | Accidental escapes                            |
+| N680  | Lucky accidents--miscellaneous                |
+| N700  | Accidental encounters                         |
+| N710  | Accidental meeting of hero and heroine        |
+| N730  | Accidental reunion of families                |
+| N760  | Other accidental encounters                   |
+| N770  | Experiences leading to adventures             |
+| N800  | Helpers                                       |
+| N810  | Supernatural helpers                          |
+| N820  | Human helpers                                 |
+
+# Society 
+| Index | Name                                |
+| ----- | ----------------------------------- |
+| P0    | Royalty and nobility                |
+| P10   | Kings                               |
+| P20   | Queens                              |
+| P30   | Princes                             |
+| P40   | Princesses                          |
+| P50   | Noblemen (knights)                  |
+| P60   | Noble (gentle) ladies               |
+| P90   | Royalty and nobility--miscellaneous |
+| P100  | Other social orders                 |
+| P110  | Royal ministers                     |
+| P120  | Church dignitaries                  |
+| P150  | Rich men                            |
+| P160  | Beggars                             |
+| P170  | Slaves                              |
+| P190  | Other social orders--miscellaneous  |
+| P200  | The family                          |
+| P210  | Husband and wife                    |
+| P230  | Parents and children                |
+| P250  | Brothers and sisters                |
+| P260  | Relations by law                    |
+| P270  | Foster relatives                    |
+| P280  | Steprelatives                       |
+| P290  | Other relatives                     |
+| P300  | Other social relationships          |
+| P310  | Friendship                          |
+| P320  | Hospitality                         |
+| P340  | Teacher and pupil                   |
+| P360  | Master and servant                  |
+| P400  | Trades and professions              |
+| P410  | Laborers                            |
+| P420  | Learned professions                 |
+| P430  | Financiers and merchants            |
+| P440  | Artisans                            |
+| P460  | Other trades and professions        |
+| P500  | Government                          |
+| P510  | Law courts                          |
+| P550  | Military affairs                    |
+| P600  | Customs                             |
+| P700  | Society--miscellaneous motifs       |
+| P710  | Nations                             |
+| P720 | Population | 
+
+# Rewards and Punishments 
+| Index | Name                                  |
+| ----- | ------------------------------------- |
+| Q0    | Rewards and punishments               |
+| Q10   | Deeds rewarded                        |
+| Q20   | Piety rewarded                        |
+| Q40   | Kindness rewarded                     |
+| Q60   | Other good qualities rewarded         |
+| Q80   | Rewards for other causes              |
+| Q100  | Nature of rewards                     |
+| Q110  | Material rewards                      |
+| Q140  | Miraculous or magic rewards           |
+| Q150  | Immunity from disaster as reward      |
+| Q170  | Religious rewards                     |
+| Q190  | Rewards--miscellaneous                |
+| Q200  | Deeds punished                        |
+| Q210  | Crimes punished                       |
+| Q220  | Impiety punished                      |
+| Q240  | Sexual sins punished                  |
+| Q260  | Deceptions punished                   |
+| Q270  | Misdeeds concerning property punished |
+| Q280  | Unkindness punished                   |
+| Q300  | Contentiousness punished              |
+| Q320  | Evil personal habits punished         |
+| Q330  | Overweening punished                  |
+| Q340  | Meddling punished                     |
+| Q380  | Deeds punished--miscellaneous         |
+| Q400  | Kinds of punishment                   |
+| Q410  | Capital punishment                    |
+| Q430  | Abridgement of freedom as punishment  |
+| Q450  | Cruel punishments                     |
+| Q470  | Humiliating punishments               |
+| Q500  | Tedious punishments                   |
+| Q520  | Penances                              |
+| Q550  | Miraculous punishments                |
+| Q560  | Punishments in hell                   |
+| Q570  | Punishment and remission              |
+| Q580  | Punishment fitted to crime            |
+| Q590  | Miscellaneous punishments             |
+
+# Captives and Fugitives 
+| Index | Name                                |
+| ----- | ----------------------------------- |
+| R0    | Captivity                           |
+| R10   | Abduction                           |
+| R40   | Places of captivity                 |
+| R50   | Conditions of captivity             |
+| R70   | Behavior of captives                |
+| R100  | Rescues                             |
+| R110  | Rescue of captive                   |
+| R130  | Rescue of abandoned or lost persons |
+| R150  | Rescuers                            |
+| R170  | Rescue--miscellaneous motifs        |
+| R200  | Escapes and pursuits                |
+| R210  | Escapes                             |
+| R220  | Flights                             |
+| R260  | Pursuits                            |
+| R300  | Refuges and recapture               |
+| R310  | Refuges                             |
+| R350  | Recapture of fugitive               |
+
+# Unnatural 
 
 # Links
 * [[Motif Index of Folk Literature by Thompson]]

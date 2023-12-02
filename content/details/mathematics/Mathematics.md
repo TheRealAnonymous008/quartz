@@ -28,6 +28,14 @@
   $$
   That is, the output of the average input from $X$ is smaller than the average output from $f(X)$.
 
+* **Brouwer's Fixed Point Theorem** - If $f(x)$ is a continuous function from the domain $[0,1]$ to itself, then there exists at least one value $x^\ast \in [0,1]$ for which $f(x^\ast)=x^\ast$. 
+
+* **Kakutani's Fixed Point Theorem** - A correspondence $C: X\mapsto X$ has a fixed point $x\in C(x)$ if four conditions are satisfied 
+	* $X$ is a non-empty, compact, and convex subset of $\mathbb{R}^n$
+	* $C(x)$ is non-empty for all $x$
+	* $C(x)$ is convex for all $x$
+	* $C$ has a closed graph. 
+
 # Links
 
 * [[Understanding Analysis by Abbott]]

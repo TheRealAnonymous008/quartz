@@ -893,6 +893,11 @@
 * What does the client really want, deep down in their heart?
 
 ### 108 . The Pitch
+* Why are you pitching this game to this client?
+* What will you consider “a successful pitch”?
+* What's in it for the people you are pitching to?
+* What do the people you are pitching to need to know about your game?
+
 ### 109. Profit
 ### 110. Transformation
 ### 111. Responsibility

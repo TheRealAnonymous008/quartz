@@ -106,3 +106,48 @@
 	* Understand what is important to the client. [[Psychology|Profiling them]] may prove beneficial. 
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#107. The Client|The Client]].
+
+### The Designer Gives the Client a Pitch 
+* As the game’s designer, you should know the game and why it is great better than anyone else. 
+	* However, even within the team, you must be able to pitch your ideas. 
+	* *The foundation of a good pitch is knowing what you want and knowing what they want*. 
+	* Ideas are not judged on merit, rather they are judged on how useful they are, right now, to the person they are pitching it to. 
+
+* Tips from [[The 48 Laws of Power]] apply here because it involves persuasion. 
+
+* [[The Art of Game Design -- A Book of Lenses by Schell|Schell]] gives the following tips for a successful pitch 
+	* *Get in the door* - have an audience with the client. Use the back door -- someone on the inside who can vouch for you. Get the audience's trust. 
+	* *Show you are serious* - when you pitch a game, you have to show you are serious about building it. Make a [[Lenses for the Process|prototype]]. Believing is not enough, you must show you've done the work. 
+	* *Be organized* - make sure the pitch is well planned. The more organized, the more serious, calmer, and in-control you appear. 
+	* *Be Passionate* - be genuinely excited about the game. Passion represents drive to deliver a good game at any cost. 
+	* *Assume their point of view* - listen and try to solve the audience's problem. Make sure to explain the game in a way they can easily understand. Make your audience a fan of the project 
+		* Get straight to the point. Start by stating your platform, audience and genre. 
+		* Do not begin by telling a story. Tell them what fantasy the game fulfills. 
+		* Give your ideas handles -- make short phrases that summarize the idea. 
+		* [[General Story Writing Principles|Show don' tell]]
+		* Make it easy for them to pitch. Use pitch materials that speak for themselves. 
+	* *Design the Pitch* - the pitch is an experience so any advice about making a good [[Lenses for the Experience|experience]]. 
+	* *Know all the details* - be prepared to be asked questions. The audience will ask questions about things they think are important. You should know the following: 
+		* Design details  - What are the game's features? 
+		* Schedule details - How long will it take? What's the fastest it can be done?
+		* Financial details - How much will it cost? How much money will this make?
+		* Risks - What are the biggest risks on the project? 
+	* *Exude Confidence* - being confident means that you are sure the game will be perfect for the client. 
+	* *Rehearse* - the more comfortable you are talking about your game, the more natural your pitch will be. The chain of ideas need to be able to spring forth naturally. Rehearse any demos as well. Don't play while pitching. Don't expect executives to play the prototype. 
+	* *Get Them to Own It* - make the audience come away from the pitch thinking of the game as "their game". Have someone presold on the audience or integrate the client's ideas into the pitch. 
+	* *Follow Up* - within a few days of the pitch, find an excuse to follow up. Subtly remind them they owe you feedback. However, do so with patience and understanding. 
+
+* The same principles apply when crowdfunding. However there are some more things to keep in mind 
+	* *It is a lot of work* - expect to take months to design the crowdfunding campaign. 
+	* *It's a preorder system* - Most people who fund something are doing so because they are excited about getting something special, getting it before everyone else, and getting it at a good price. 
+		* Crowdfunding works best with things that have a physical component or with games that have a high fixed price.
+	* *Ask for as little as possible*. Set the lowest funding target you can manage. If your campaign takes off, you can always get more
+	* *Shorter is better* - You get the most funding the first week and the last week. 
+	* *Keep rewards simple* - reduce your workload and don't overwhelm funders with too many choices
+	* *Show don't tell* - give a taste of the game in action. Show them a slice of the game in action. 
+	* *Hustle* - do anything you can get the word out about the game. The campaign will not take care of itself. 
+	* *Have stretch goals* - stretch goals help with virality. If people can get others to pledge money, then they'll get more for the money needed at no cost. 
+	* *Be famous* - the most likely games to get funded are the ones by people who already have a following. 
+
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#108 . The Pitch|Pitch]]

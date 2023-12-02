@@ -38,7 +38,12 @@
 * *Proposition 4.4*. If in a finite normal-form game $s^\ast$ is a strict dominant strategy equilibrium or if it uniquely survives IESDS, then $s_i^\ast$ is a best response to $s_{-i}^\ast$  $\forall i\in N$. 
 * A rational player will always play $s_i'$ only when their beliefs about other players' behavior justify the use of $s_i'$.
 
-* We can incorporate IESDS to find the set of **rationalizable strategies** but applied to eliminating strategies that are never a best response. In other words, we ask *what might a rational player do?*. 
+* We can incorporate IESDS to find the set of **rationalizable strategies** but applied to eliminating strategies that are never a best response. In other words, we ask *what might a rational player do?*.  
+	* *Tadelis 6.2*. For any two-player game, a strategy $\sigma_i$ is strictly dominated if and only if it is never a best response. 
+
+## Mixed Strategies 
+* With  mixed strategies, we effectively have an infinite number of columns derived from all possible $\sigma_i\in \Delta S_i$. 
+* The goal is to identify the useful columns to eliminate the existing Pure Strategy columns (or to find Equilibrium). 
 # Weak Dominance 
 * Let $s_i, s_i' \in S_i$ be possible strategies. $s_i'$ is **weakly dominated** by $s_i$ if, for any possible combination of other players' strategies $s_{-i}\in S_{-i}$ , player $i$'s payoff from $s_i'$ is strictly less than that from $s_i$. That is 
 
@@ -66,6 +71,7 @@
   $$
   v_i(s_i^\ast, s_{-i}^\ast) \ge v_i (s'_i ,s^\ast_{-i}) \ \ \ \ \ \forall s_i'\in S_i \ \wedge \ i \in N 
   $$
+	* In other words, a Nash equilibrium *is a strategy profile when all players prefer the current outcome and do not want to change their preferences*.
 
 * *Tadelis 5.1*. Let $s^\ast$ be a strategy profile. If $s^\ast$ is either 
   
@@ -83,8 +89,23 @@
 
 * *Nash Equilibrium does not guarantee Pareto optimality*.
 
+### Mixed Strategy Nash Equilibrium 
+* We can generalize the Nash equilibrium to apply to a mixed strategy context 
+* A mixed strategy profile $\sigma^\ast = (\sigma_1^\ast, \sigma_2^\ast, \dots, \sigma_n^\ast)\in S$ is a Nash Equilibrium if $\sigma_i^\ast$ is a best response to $\sigma_{-i}^\ast$ for all $i\in N$. That is
+  
+  $$
+  \overline{v_i}(\sigma_i^\ast, \sigma_{-i}^\ast) \ge \overline{v_i} (\sigma'_i ,\sigma^\ast_{-i}) \ \ \ \ \ \forall \sigma_i'\in \Delta S_i \ \wedge \ i \in N 
+  $$
+
+* Because the Nash Equilibrium can capture beliefs about the opponents $\pi_i$, the profile of mixed strategies $\sigma_{-i}^\ast$ *captures the uncertain belief over all pure strategies* that player $i$'s opponents can play.
+
 ### Conditions for Nash Equilibrium 
-* Under certain conditions, the Nash Equilibrium will exist. For most games, these conditions will hold. 
+* Under certain conditions, the Nash Equilibrium will exist. For most games, these conditions will hold.
+* **Nash's Existence Theorem** Any $n$-player normal form game with finite strategy sets $S_i$ for all players has a Nash equilibrium in mixed strategies .
+	* This is contingent on Kakutani's Fixed Point Theorem . Nash showed that continuity is satisfied for a mapping that uses the best-response correspondences of all players 
+	* The **collection of best responses** $\text{BR} \equiv \text{BR}_1 \times \dots \times \text{BR}_n$  maps $\Delta S = \Delta S_1 \times \Delta S_n$ the set of profiles of mixed strategies onto itself. 
+
+* A mixed strategy profile $\sigma^\ast$ is a Nash equilibrium if and only if it is a fixed point of the collection of best-response correspondences 
 
 # Example Games 
 * The **Stag Hunt Game** involves two players. They can choose to either hunt a stag or a hare. The stag gives a better bounty, but it requires both players. Hunting a hare can be done with one player but is less filling. The payoff matrix is given as 
