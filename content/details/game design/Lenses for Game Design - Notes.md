@@ -1,5 +1,6 @@
 ![[The lenses.png]]
 <figcaption> The Lenses of Game Design taken from Schell </figcaption>
+
 # Topics 
 * [[Lenses for the Designer]] 
 * [[Lenses for the Process]]
