@@ -1312,7 +1312,282 @@
 | R310  | Refuges                             |
 | R350  | Recapture of fugitive               |
 
-# Unnatural 
+# Unnatural Cruelty 
+| Index | Name                                            |
+| ----- | ----------------------------------------------- |
+| S0    | Cruel relatives                                 |
+| S10   | Cruel parents                                   |
+| S20   | Cruel children and grandchildren                |
+| S30   | Cruel step- and foster relatives                |
+| S40   | Cruel grandparents                              |
+| S50   | Cruel relatives-in-law                          |
+| S60   | Cruel spouse                                    |
+| S70   | Other cruel relatives                           |
+| S100  | Revolting murders or mutilations                |
+| S110  | Murders                                         |
+| S140  | Cruel abandonments and exposures                |
+| S160  | Mutilations                                     |
+| S180  | Wounding or torturing                           |
+| S200  | Cruel sacrifices                                |
+| S210  | Children sold or promised                       |
+| S220  | Reasons for promise (sale) of child             |
+| S240  | Children unwittingly promised (sold)            |
+| S250  | Saving the promised child                       |
+| S260  | Sacrifices                                      |
+| S300  | Abandoned or murdered children                  |
+| S310  | Reasons for abandonment of children             |
+| S330  | Circumstances of murder or exposure of children |
+| S350  | Fate of abandoned child                         |
+| S400  | Cruel persecutions                              |
+| S410  | Persecuted wife                                 |
+| S430  | Disposal of cast-off wife                       |
+| S450  | Fate of outcast wife                            |
+| S460  | Other cruel persecutions                        |
+
+# Sex 
+| Index | Name                                           |
+| ----- | ---------------------------------------------- |
+| T0    | Love                                           |
+| T10   | Falling in love                                |
+| T30   | Lovers’ meeting                                |
+| T50   | Wooing                                         |
+| T70   | The scorned lover                              |
+| T80   | Tragic love                                    |
+| T90   | Love--miscellaneous motifs                     |
+| T100  | Marriage                                       |
+| T110  | Unusual marriage                               |
+| T130  | Marriage customs                               |
+| T150  | Happenings at weddings                         |
+| T160  | Consummation of marriage                       |
+| T190  | Marriage - miscellaneous motifs                |
+| T200  | Married life                                   |
+| T210  | Faithfulness in marriage                       |
+| T230  | Faithlessness in marriage                      |
+| T250  | Characteristics of wives and husbands          |
+| T280  | Other aspects of married life                  |
+| T300  | Chastity and celibacy                          |
+| T310  | Celibacy and continence                        |
+| T320  | Escape from undesired lover                    |
+| T330  | Anchorites under temptation                    |
+| T350  | Chaste sleeping together                       |
+| T360  | Chastity and celibacy--miscellaneous           |
+| T400  | Illicit sexual relations                       |
+| T410  | Incest                                         |
+| T450  | Prostitution and concubinage                   |
+| T460  | Sexual perversions                             |
+| T470  | Illicit sexual relations--miscellaneous motifs |
+| T500  | Conception and birth                           |
+| T510  | Miraculous conception                          |
+| T540  | Miraculous birth                               |
+| T550  | Monstrous births                               |
+| T570  | Pregnancy                                      |
+| T580  | Childbirth                                     |
+| T590  | Conception and birth--miscellaneous motifs     |
+| T600  | Care of children                               |
+| T610  | Nurture and growth of children                 |
+| T640  | Illegitimate children                          |
+| T670  | Adoption of children                           |
+| T680  | Care of children--miscellaneous motifs         |
+
+# The Nature of Life 
+| Index | Name                                         |
+| ----- | -------------------------------------------- |
+| U0    | Life’s inequalities                          |
+| U10   | Justice and injustice                        |
+| U30   | Rights of the strong                         |
+| U60   | Wealth and poverty                           |
+| U100  | Nature of life--miscellaneous motifs         |
+| U110  | Appearances deceive                          |
+| U120  | Nature will show itself                      |
+| U130  | The power of habit                           |
+| U140  | One man‘s food is another man’s poison       |
+| U150  | Indifference of the miserable                |
+| U160  | Misfortune with oneself to blame the hardest |
+| U170  | Behavior of the blind                        |
+| U180  | In vino veritas                              |
+| U210  | Bad ruler, bad subject                       |
+| U220  | Forced peace valueless                       |
+| U230  | The nature of sin                            |
+| U240  | Power of mind over body                      |
+| U250  | Shortness of life                            |
+| U260  | Passage of time                              |
+| U270  | Security breeds indifference                 |
+
+# Religion 
+| Index | Name                                             |
+| ----- | ------------------------------------------------ |
+| V0    | Religious services                               |
+| V10   | Religious sacrifices                             |
+| V20   | Confession of sins                               |
+| V30   | Sacrament                                        |
+| V40   | Mass                                             |
+| V50   | Prayer                                           |
+| V60   | Funeral rites                                    |
+| V70   | Religious feasts and fasts                       |
+| V80   | Religious services--miscellaneous                |
+| V100  | Religious edifices and objects                   |
+| V110  | Religious buildings                              |
+| V120  | Images                                           |
+| V130  | Other sacred objects connected with worship      |
+| V140  | Sacred relics                                    |
+| V150  | Sacred objects--miscellaneous                    |
+| V200  | Sacred persons                                   |
+| V210  | Religious founders                               |
+| V220  | Saints                                           |
+| V230  | Angels                                           |
+| V250  | The Virgin Mary                                  |
+| V290  | Other sacred persons                             |
+| V300  | Religious beliefs                                |
+| V310  | Particular dogmas                                |
+| V320  | Heretics                                         |
+| V330  | Conversion from one religion to another          |
+| V340  | Miracle manifested to non-believers              |
+| V350  | Conflicts between religions                      |
+| V360  | Christian and Jewish traditions about each other |
+| V380  | Religious beliefs--miscellaneous                 |
+| V400  | Charity                                          |
+| V410  | Charity rewarded                                 |
+| V420  | Reward of the uncharitable                       |
+| V430  | Charity--miscellaneous motifs                    |
+| V440  | Other religious virtues                          |
+| V450  | Religious orders                                 |
+| V460  | Clerical virtues and vices                       |
+| V470  | Clerical vows                                    |
+| V500  | Religious motifs--miscellaneous                  |
+| V510  | Religious visions                                |
+| V520  | Salvation                                        |
+| V530  | Pilgrimages                                      |
+| V540  | Intervention of Providence saves person‘s life   |
+
+# Traits of Character 
+| Index | Name                                      |
+| ----- | ----------------------------------------- |
+| W0    | Favorable traits of character             |
+| W10   | Kindness                                  |
+| W20   | Other favorable traits of character       |
+| W100  | Unfavorable traits of character           |
+| W110  | Unfavorable traits of character--personal |
+| W150  | Unfavorable traits of character--social   |
+| W200  | Traits of character--miscellaneous        |
+
+# Humor 
+| Index | Name                                                  |
+| ----- | ----------------------------------------------------- |
+| X0    | Humor of discomfiture                                 |
+| X100  | Humor of disability                                   |
+| X110  | Humor of deafness                                     |
+| X120  | Humor of bad eyesight                                 |
+| X130  | Other physical disabilities                           |
+| X200  | Humor of social classes                               |
+| X210  | Jokes about millers                                   |
+| X220  | Jokes about tailors                                   |
+| X230  | Jokes about butchers                                  |
+| X240  | Jokes about cobblers (shoemakers)                     |
+| X250  | Jokes about other artisans and tradesmen              |
+| X300  | Humor dealing with professions                        |
+| X310  | Jokes on lawyers                                      |
+| X330  | Jokes on magistrates                                  |
+| X350  | Jokes on teachers                                     |
+| X370  | Jokes on scholars                                     |
+| X410  | Jokes on parsons                                      |
+| X460  | Humor concerning other professions                    |
+| X500  | Humor concerning other social classes                 |
+| X510  | Jokes concerning usurers                              |
+| X520  | Jokes concerning prostitutes                          |
+| X530  | Jokes concerning beggars                              |
+| X540  | Jokes on madmen                                       |
+| X550  | Jokes on secret societies                             |
+| X600  | Humor concerning races or nations                     |
+| X610  | Jokes concerning Jews                                 |
+| X650  | Jokes concerning other races or nations               |
+| X680  | Jokes concerning various cities                       |
+| X700  | Humor concerning sex                                  |
+| X750  | Jokes on old maids                                    |
+| X760  | Jokes on courtship                                    |
+| X800  | Humor based on drunkenness                            |
+| X910  | Lie: the remarkable man                               |
+| X920  | Lie: the large man                                    |
+| X930  | Lie: remarkable person’s physical powers and habits   |
+| X940  | Lie: remarkably strong man                            |
+| X960  | Lie: remarkable person’s skills                       |
+| X980  | Lie: occupational or professional skills              |
+| X1010 | Lie: remarkable mental skills                         |
+| X1020 | Lie: remarkable possessions of remarkable man         |
+| X1030 | Lie: remarkable buildings                             |
+| X1060 | Lie: other possessions of remarkable man              |
+| X1070 | Extraordinary man’s family                            |
+| X1080 | Lie: occupations of remarkable man                    |
+| X1100 | Lie: the remarkable hunter                            |
+| X1110 | Lie: the wonderful hunt                               |
+| X1120 | Lie: the great marksman                               |
+| X1130 | Lie: hunter's unusual experiences                     |
+| X1150 | Lies about fishing                                    |
+| X1200 | Lie: remarkable animals                               |
+| X1210 | Lies about mammals                                    |
+| X1250 | Lies about birds                                      |
+| X1280 | Lies about insects                                    |
+| X1300 | Lies about fish                                       |
+| X1320 | Lies about reptiles                                   |
+| X1340 | Lie: extraordinary amphibia and other animals         |
+| X1370 | Lies about imaginary animals                          |
+| X1400 | Lies about plants, fruits, vegetables and trees       |
+| X1410 | Lies about fruits                                     |
+| X1420 | Lies about vegetables                                 |
+| X1450 | Lies about field crops                                |
+| X1470 | Lies about trees                                      |
+| X1480 | Lies about flowers                                    |
+| X1490 | Lie: miscellaneous plant motifs                       |
+| X1500 | Lies about geography and topography                   |
+| X1510 | Lies about land features                              |
+| X1520 | Lies about mountains and hills                        |
+| X1530 | Lies about remarkable soil                            |
+| X1540 | Lies about water features                             |
+| X1550 | Geography and topography--miscellaneous motifs        |
+| X1560 | Lies about cities                                     |
+| X1600 | Lies about weather and climate                        |
+| X1610 | Lies about winds and storms                           |
+| X1620 | Lies about cold weather                               |
+| X1630 | Lies about hot weather                                |
+| X1640 | Lies about dry weather                                |
+| X1650 | Lies about precipitation and dampness                 |
+| X1660 | Lies about climate                                    |
+| X1700 | Lies: logical absurdities                             |
+| X1710 | Lies about numbers                                    |
+| X1720 | Absurd disregard of anatomy                           |
+| X1740 | Absurd disregard of natural laws                      |
+| X1750 | Absurd disregard of the nature of objects             |
+| X1760 | Absurd disregard of the nature of non-material things |
+| X1780 | Absurdity based on the nature of the object           |
+| X1790 | Other logical absurdities                             |
+| X1800 | Miscellaneous lies and exaggerations                  |
+| X1810 | Tall tales about miscellaneous objects                |
+| X1850 | Other tall tales                                      |
+
+# Miscellaneous Groups of Motifs 
+
+| Index | Name                                                                                     |
+| ----- | ---------------------------------------------------------------------------------------- |
+| Z0    | Formulas                                                                                 |
+| Z10   | Formulistic framework for tales                                                          |
+| Z20   | Cumulative tales - tales arranged in chains                                              |
+| Z30   | Chains involving a single scene or event without interdependence among individual actors |
+| Z40   | Chains with interdependent members                                                       |
+| Z50   | Cumulative tales--miscellaneous                                                          |
+| Z60   | Other formulistic motifs                                                                 |
+| Z80   | Formulistic Rimes                                                                        |
+| Z90   | Miscellaneous formulas                                                                   |
+| Z100  | Symbolism                                                                                |
+| Z110  | Personifications                                                                         |
+| Z140  | Color symbolism                                                                          |
+| Z150  | Other symbols                                                                            |
+| Z200  | Heroes                                                                                   |
+| Z210  | Brothers as heroes                                                                       |
+| Z230  | Extraordinary exploits of hero                                                           |
+| Z300  | Unique exceptions                                                                        |
+| Z310  | Unique vulnerability                                                                     |
+| Z320  | Object will fit only one thing (or person)                                               |
+| Z350  | Other unique exceptions                                                                  |
+
 
 # Links
 * [[Motif Index of Folk Literature by Thompson]]

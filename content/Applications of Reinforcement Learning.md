@@ -10,8 +10,6 @@
 	* Spatial segregation diminishes as more interdependencies among agents of different kinds are added in the same fashion as if agents are tolerant to one another
 	* Older agents tend to be more segregated than younger agents. 
 
-* 
-
 
 [^Sert_2020]: Sert, Bar-Yam, Morales (2020). [Segregation dynamics with reinforcement learning and agent based modeling](https://www.nature.com/articles/s41598-020-68447-8)
 

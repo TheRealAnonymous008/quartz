@@ -148,6 +148,126 @@
 	* *Hustle* - do anything you can get the word out about the game. The campaign will not take care of itself. 
 	* *Have stretch goals* - stretch goals help with virality. If people can get others to pledge money, then they'll get more for the money needed at no cost. 
 	* *Be famous* - the most likely games to get funded are the ones by people who already have a following. 
-
-
+ 
 * Relevant lenses: [[Lenses for Game Design - Lenses#108 . The Pitch|Pitch]]
+
+### The Designer and Client Want the Game to Make a Profit
+* *Form follows funding* - decisions that the people [[Economics|funding]] the game make impact the game design. Conversely, game design decisions impact profitability. 
+
+* *To understand any business, follow the money--where it goes and why*. 
+	* **Retail** - most of the money goes to things that are not related to the game. 
+	* **Direct Download** - what Steam uses. Although most profits go to the game (with some going to the service), if the game costs more than the income, there would be no profit. 
+	* **Free-To-Play** - get more players by selling the game for free. Microtransactions are essential to gain money from this model. 
+		* Many won't pay, but some will pay a lot. 
+		* As a consequence of supply and demand in terms of marketing costs, the cost a game is sold was driven toward 0. Hence, the rise of the F2P model
+
+* *Know your competition*. Make sure the game fills a gap in the market. 
+	* *The challenge isn't to get the game to the store, it's to stand out from the rest*. 
+	* Marketing has become more important.
+		* **Red Ocean Markets** - bigger competitors survive. The small fish are driven away 
+		* **Blue Ocean Markets** - relatively few competitors. Very new but sometimes there are barriers for entry. 
+
+* *Know your audience, how they pay and why*. Consider if you are making a hardcore or a casual game. 
+	* Hardcore gamers are willing to pay a high price for content that means a lot to them. 
+	* The casual market is hard to appeal to, although there are a lot of casual gamers. 
+
+* The lingo of general business terms applicable for games. 
+	* **SKU** - stock keeping unit. Unique inventory item for a store. Each console release and language version is a SKU 
+	* **COGS** - cost of goods sold. What does it cost per unit to make the game 
+	* **Burn Rate** - what does it cost to keep the studio open (i.e., due to salaries and rent)
+	* **Sold in** - the retailer buys the game and sells them in the store 
+	* **Sold through** - the customer buys the game. In the end, only sold-through matters .
+	* **Units sold** - how many times the game has been purchased
+	* **Breakeven** - how many units have to be sold before the publisher makes back the money invested into the game 
+	* **Churn** - what percent of players do you lose each month. Bigger churn = worse retention 
+	* **Cost of Acquisition** - how much do you have to get someone to download the game 
+	* **Daily Active Users** - how many people played the game in the last 24 hours. More = better. 
+	* **Monthly Active Users** - how many people played the game in the last month. High churn means that MAU is higher than DAU. Look at the ratio between MAU and DAU to measure the game's long-term retention 
+	* **ARPU** - Average revenue per user. Calculated by money made in the month divided by MAU 
+	* **ARPPU** - Average revenue per paying user. We look at only the paying users. 
+	* **LTV** - lifetime value. How much money are you making from the average player from when they first try the game until they quit. It informs you how much you can safely spend to acquire new players. 
+	* **K-Factor** - how many new players does your average player bring in. Higher = more virality = more acquisition 
+	* **Whales** - players who spend a lot for an F2P game. F2P designers pay a lot of attention to whales since they contribute significantly to revenue. 
+
+* *Know the top sellers*. The games industry is a hit-driven business. Know why these are the top sellers [^Profit]
+
+* Barriers for entering the market
+	* *Technical Barrier* - games that solve problems others can't easily replicate. 
+	* *Hardware Barrier* - games that run on new hardware platforms 
+	* *Expertise Barrier*  - having unique, expert-level knowledge about the market
+	* *Sales and distribution barriers* - if you (or a business partner) have a special sales relationship, think about how to take advantage of it. 
+	* *Imagination barriers* - a unique approach especially for the marketing and selling. 
+	* *Relationship barriers* - some games require a special partner for a franchise license. These franchises only work with people they trust. 
+	* *Uncertainty barriers* - taking a risk and jumping on new, unknown technology. 
+
+* *Following the crowd means eventually fighting the crowd*. Many successful developers have found that choosing the road less traveled by has indeed made all the difference.
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#109. Profit|Profit]]
+
+[^Profit]: A good exercise as well: look at flavor of the month games and try to analyze them -- what is the appeal? why? how long will they last for? Will it inspire a new market for similar games? 
+
+### Games Transform Their Players 
+* Games have several benefits attributed to them. They can [[Games as Culture#As Cultural Rhetoric|transform their players via transformative play]]. 
+	* Emotional maintenance 
+		* Venting anger and frustration 
+		* Cheer up 
+		* Gain perspective 
+		* Build confidence 
+		* Relaxation. 
+	* [[Games as Play#Social Play|Connections]]
+	* Exercise - both physical and mental. 
+	* Education. 
+		* In a sense, education is a game, but current systems often make the game have a lack of surprise, pleasure or projection. 
+		* *Games can keep the brain fully engaged*. 
+			* Using visible progress and [[Puzzle|puzzles]] to motivate [[Polymathy and Learning|learning]].
+			* Making the abstract concrete. 
+			* They allow the game to engage fully with the lessons. 
+			* They give the student interesting goals. Short term goals chain to form long term goals. 
+		* *Games help learn about facts*. They can help reinforce facts by giving rewards.
+		* *Games are problem solving activities*. 
+		* *Games can teach about systems of relationships*.  They allow for interactive demonstrations, and if being able to do something is the end goal of learning, games excel at teaching this. 
+			* [[Games as Rules|Games are simulations; Games are systems]]. The player can experience these systems for themselves. 
+			* That said, simulations often work better with a live instructor who can point out the discrepancies between simulation and real life and use these as teaching moments. 
+			* However, even the limitations of the simulation can lead one to ask "why these loopholes don't exist in the real world?"
+		* *Games give more insights*. Games can change the players' perspective to give them a new lens to look at the world. 
+		* *Games foster curiosity*. Curious learners are better leaners. Games can promote a curious and playful attitude. 
+		* *Games create teachable moments*. They ready the student by priming them with a scenario and letting the teacher provide additional insights. 
+
+* Tips for making transformational games 
+	* *Define the transformation* - how exactly, and specifically, will the game transform its players. State it as a [[Lenses for Game Design - Lenses#14. The Problem Statement|problem statement]]. 
+	* *Find great subject matter experts* - align yourself with experts that both know the facts and how to teach them. 
+	* *Ask what the instructor needs* - in most cases, transformational games will be used in a setting where an instructor is available. The instructor will know more about the game (in theory), so the game should instead be a tool for the instructor. 
+	* *Don't do too much* - pick one key transformation and do it especially well. Only do more when there is demand for more. 
+	* *Assess transformation appropriately* - determine if the intended transformation actually took place. In ascending order of rigor and effort required. 
+		* The player felt like it happened 
+		* The player gave anecdotes that indicate that it happened 
+		* The subject matter expert approved of the transformation 
+		* Using surveys and assessments
+		* Using scientific testing and assessment 
+	* *Choose the right venue* - Think of the context in which the game will be played. 
+	* *Accept the realities of the market* - transformational games are hard to turn into a profitable games. Have someone with business expertise. 
+
+* Some issues are associated with games -- instead of transforming people for the better, they transform the players for the worst 
+	* *Violence* - especially when it is visually graphic (i.e., there is blood on the screen). The fear is that violent content might desensitize people to real-world violence or make them feel that it is fun and pleasurable. 
+		* Still, the average (non-psychotic person can see behind the violence and treat the game as a problem solving endeavor. 
+	* *Addiction* - playing too much interferes with more important things in life. It is a fear of the person being unable to give up despite the harmful consequences
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#110. Transformation|Transformation]]
+
+### Designers have Certain Responsibilities
+* People generally do not care who makes the things they like. But only the game designer can take responsibility for what they create. *If you cannot take responsibility for the game, you shouldn't be a game designer*.
+* It is also your responsibility that, if you wish, you create a game that improves people's lives. *This is your secret agenda*. 
+	* You can only impact many people if you get them to play your game. 
+	* One thing players like is the feeling of being cared for. 
+
+* The experiences a game create is one where people live out their fantasies and strive to become what they have secretly wanted to be. *It is not enough to think of how games affect people today -- we must consider how they will affect people tomorrow*. 
+	* Is there any human activity that can benefit from the principles of game design? 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#111. Responsibility|Responsibility]]
+
+### Each Designer has a Purpose
+* The most important type of listening is listening to yourself. 
+* Because time is finite, focus on what is important. The only way to know that is to listen to yourself. No one needs to know why you made the game except you. 
+* *Figure out your personal theme*. Your true motivation for making the game. 
+
+* Relevant lenses: [[Lenses for Game Design - Lenses#112. The Raven|The Raven]], [[Lenses for Game Design - Lenses#$ infty$. Your Secret Purpose|Your secret purpose]]. 

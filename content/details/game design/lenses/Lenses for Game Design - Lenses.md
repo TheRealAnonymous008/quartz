@@ -899,10 +899,25 @@
 * What do the people you are pitching to need to know about your game?
 
 ### 109. Profit
+* Where does the money go in my game’s business model? Why?
+* How much will it cost to produce, market, distribute, and maintain this game? Why?
+* How much money will this game make? Why do I think that?
+* What are the barriers to entry in the market for this game?
+
 ### 110. Transformation
+* Games create experiences that can change people 
+
+* How can my game change players for the better?
+* How can my game change players for the worse?
+
 ### 111. Responsibility
+* Does my game help people? How? 
+
 ### 112. The Raven 
+* To remember to only work on what is important, ask yourself: Is making this game worth my time?
+
 ### $\infty$. Your Secret Purpose
+* To make sure you are working toward your one true purpose, ask yourself the only question that matters: Why am I doing this?
 
 # Links
 * [[The Art of Game Design -- A Book of Lenses by Schell]]
