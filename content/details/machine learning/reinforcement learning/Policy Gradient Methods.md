@@ -53,7 +53,7 @@ The proportionality constant $c$ is the average length of an episode in the epis
 The last line is just a way to abbreviate the notation.
 
 [^1]: In practice, we don't really care about this because it will be weighted by a step size $\alpha$ anyway.
-[^2]: [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] use $v_\pi$ but if we are measuring expected reward, we should average over all the states.  
+[^2]: [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] use $v_\pi$ but if we are measuring expected reward, we should average over all the states.  The reason why we can just sum over $v_\pi$ is because the environment is Markovian so we can simply get "all trajectories" just from using any possible starting states. 
 [^3]: The $\ln$ part of the formula follows by multiplying the RHS of the equation with $\frac{\pi_\theta(\alpha\mid s)}{\pi_\theta(\alpha\mid s)}$.
 
 ### EGLP Lemma
