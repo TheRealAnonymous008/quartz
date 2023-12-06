@@ -43,6 +43,8 @@
 * **Nefelibata** - (Portuguese) lit. Cloud Walker. One who lives in the clouds of their own imagination or dreams, or who does not obey the conventions of society, literature or art.
 * **Nihilism** - the belief that life is without intrinsic value, meaning, or purpose. In general, pertains to rejecting conventional philosophical views (i.e., that there are no ethics, no reality, no knowledge, no significance). 
 
+* **Pofuchenzhou** - (Chinese) (lit.) to break the cauldrons and sink the boats. To cut off one's means of escape in order to fight to the bitter end
+
 * **Quixotic** - foolishly impractical, especially in the pursuit of ideals, especially marked by rash lofty romantic ideas or extravagantly chivalrous action.
 
 * **Sanguine** - a blood red color. In medieval times, it was an indicator that a person was optimistic due to the predominance of blood.
