@@ -11,5 +11,6 @@
 * **Automation Bias** - the tendency to be over-reliant on automated aids and decision systems.
 
 * **Stereotypes** - a generalized belief about a particular category of people, including expectations about a particular group.
+	* *Example*: Expensive = Good
 # Links
 * [[Non Sequiturs]] - a more logical perspective of false priors.

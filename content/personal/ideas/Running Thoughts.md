@@ -3,19 +3,9 @@
 
 * Disruptive technology will be seen as bad by the masses (i.e., how AI is seen in 2023) out of fear that people will be replaced by machines. Yet, machines free our minds to think of more meaningful things. Perhaps a radical cultural shift, a maturation of our society is needed to accept these changes.
 
+* Collective stupidity and collective madness are manifestations of a collective uncertainty where [[Persuasion#Social Proof|members]] of the society try to copy each other and end up going nowhere.
 
-* [Train for any argument with Harvard's Former debate Coach Bo Seo](https://www.youtube.com/watch?v=_WjUFuW2J0A) - RISA framework. In a debate, ask yourself "Is it real? Is it important? Is it specific enough? Are we aligned in our beliefs?". 
-  
-  Every disagreement should start with an agreed framework. Make explicit the intentions of the debate (I.e., what both sides are hoping to accomplish).
-  
-  Pick and choose the arguments you respond to. The goal should be to make progress.
-  
-  Empathize with the opposition. Understand where they are coming from.
-  
-  Steelman argument -- respond to the strongest argument of the opposition.
-
-* Every story is , in a sense, a self-insert story. However, the besttstories are those that hide this fact. Similar to a good [[Design of Everyday Things|interface]].
-
+* Every story is , in a sense, a self-insert story. However, the best stories are those that hide this fact. Similar to a good [[Design of Everyday Things|interface]].
 # Trivia
 * The toxicology hypothesis -- Vomiting while motion sick can be traced back to the same sensors for motion sickness being associated with detecting if we are poisoned (since this also causes nausea). Hence, the response is to throw up the poisoned food.
 

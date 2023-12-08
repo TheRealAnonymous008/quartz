@@ -15,3 +15,6 @@
 * [Faith Ali Shah Qajar](https://en.wikipedia.org/wiki/Fath-Ali_Shah_Qajar)
 	* "Most Formidable Lord and Master of the Encyclopedia Britannica". 
 	* First recorded person to have read the whole encyclopedia.
+
+* [Kitty Genovese](https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese)
+	* The most famous example of the bystander effect -- murdered simply because good people failed to call the police. 
