@@ -1,4 +1,5 @@
 * Those who don’t know how to get people to say yes soon fall away; those who do, stay and flourish.
+* The principles under [[#Automatic Influence]] give [[The 48 Laws of Power]] more bite.
 
 # Automatic Influence 
 * There are three components to automatic influence
@@ -8,7 +9,7 @@
 
 ## Reciprocation
 * *Repay, in kind, what another person has provided; Give and Take and then Take*
-* By giving you impose a sense of indebtedness in the recipient. Compliance follows from Obligation. 
+* By giving you impose a sense of indebtedness in the recipient.
 	* Indebtedness overpowers Likability. [^rec1] If you feel indebted, you are more likely to repay it even if you do not like the person. 
 	* Another person can trigger a feeling of indebtedness by doing us an uninvited favor. Hence it is not just our obligation to repay, but our obligation to receive the favor.
 	* It can prompt unfair exchanges -- give a little and then take a lot more.  Conversely, because of pressures, people do not ask favors they are not in a position to repay.
@@ -31,7 +32,7 @@
 
 
 ## Commitment and Consistency
-* *Once we have made a choice or taken a stand, we will encounter personal and interpersonal [[Logical Fallacy Biases|pressures]] to behave consistently with that commitment*.  Compliance follows from Commitment 
+* *Once we have made a choice or taken a stand, we will encounter personal and interpersonal [[Logical Fallacy Biases|pressures]] to behave consistently with that commitment*.  
 	* Once an *active* commitment is made, the self-image is squeezed from inside and outside to be consistent* 
 		* There is the pressure to align self-image with action and 
 		* There is pressure from outside to align self-image with perception.
@@ -62,10 +63,10 @@
 * Such techniques are cost-effective. There is no need to undertake continuous effort to make sure the change continues. Simply getting people to commit is enough. 
 
 ## Social Proof 
-* *One means we use to determine what is correct is to find out what other people think is correct*. Compliance follows from Uncertainty and Similarity
-	* When we are unsure of ourselves, when the situation is unclear or ambiguous, we are most likely to look to and accept the actions of others as correct. 
+* *One means we use to determine what is correct is to find out what other people think is correct*. 
+	* When we are *unsure* of ourselves, when the situation is unclear or ambiguous, we are most likely to look to and accept the actions of others as correct. 
 	* Because everyone looks towards what everyone else is doing, there is an emergent consequence -- **pluralistic ignorance**.  [^socproof_1] [^socproof_2]
-	* We will use the actions of others to decide on proper behavior for ourselves, especially when we view those others as similar to ourselves. [[Information Hazards]] abound.  [^socproof_3]
+	* We will use the actions of others to decide on proper behavior for ourselves, especially when we view those others as *similar* to ourselves. [[Information Hazards]] abound.  [^socproof_3]
 
 [^socproof_1]: A good example of this is the Bystander Effect. No one acts because of uncertainty about whether they should intervene, and because no one seems to be intervening, no one actually intervenes. 
 [^socproof_2]: A good way to counteract this then is to dispel the uncertainty yourself. Point at someone in the crowd and ask them specifically for help. Then, with the uncertainty is dispelled, people will follow suit. 
@@ -76,7 +77,56 @@
 * *The trick, therefore, is to convince even a small sizable proportion of the group*. Then this conviction will spread to the rest of the group. 
 
 ## Liking 
+* *We prefer to say yes to the requests of someone we know and like*. 
+* If there is no pre-established friendship, get the target to like you first. 
+	* The factors influencing likability include favorable traits and *physical attractiveness*. 
+	* Another thing that influences this is *similarity* -- we like people who are similar to us -- similar fashion, backgrounds, interests and opinions. 
+	* An *us vs. them* mentality negatively affects our likability of the other group. However, this can be remedied by putting everyone (us and them) in a [[Game Theory|situation]] where *cooperation* is key for a shared goal where all parties benefit, and competition only harms everyone.
+		* And this can be exploited by establishing that "we are on the same team". This is why **Good Cop / Bad Cop** works. 
+	* Humans are suckers for *flattery*. Complimenting someone makes them like us more. It doesn't matter that the compliment is true. It doesn't matter when it is obvious we stand to gain from others liking us [^liking_1]
+	* *Familiarity* affects liking.  
+	* Perceived competition, *difficulty* or frustration negatively affects liking.  Conversely, perceived cooperation, *easiness*, and a general pleasant experience positively affects liking.
+	* *Association* affects liking. Merely being associated with a good event, even one we had no control over, can be enough to influence others positively. Conversely for bad events.[^liking_2] [^liking_3]
+		* This is especially apparent when prestige is low and we ride on the achievement of others. It is accomplishment deriving from outside the self. 
 
+[^liking_1]: From [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]]
+[^liking_2]: This is why people shoot the messenger and why advertisers hop on the bandwagon and why Pavlov's dogs drool at the sound of a bell. 
+[^liking_3]: This is also why people from fandoms can become fervent. The fandom must be good because they, the person, must be good too. Otherwise, what does it say to ourselves and others when our object of worship is "bad"
+
+## Authority
+* *Obedience to proper authority is right and disobedience is wrong. The correctness of actions is not judged on moral considerations but by mere command of authority*. 
+	* Obedience takes place with little to no conscious deliberation. Even when it doesn't make sense at all. 
+	* Blind obedience means that we don't have to think -- therefore we don't. 
+	* Sometimes *even just the appearance of authority is enough *
+		* **Titles** - simply adopting the title of an authority. Even flimsy counterfeits work as long as they are convincing.
+		* **Clothes** - the cloak of authority. More tangible than a title but also easily fakable. [^authority_1].
+		* **Trappings** -  It is [[Symbolism|symbolic]] of generalized authority. 
+	* *People underestimate how much they subconsciously comply with authority*. 
+	* We tend to be convinced with experts who seem to be impartial. There is an illusion that  a fair authority is more just. *Who better to believe than a demonstrated expert of proven sincerity*. 
+
+* Authority naturally benefits a society -- it allows a directed approach to societal development in contrast to anarchy. 
+	* It is a heuristic -- Authorities must be good. 
+	* Authorities are )perceived) physically bigger. Even animals exhibit this characteristic.
+
+[^authority_1]: This includes appearing in uniform or business attire, or even appearing prestigious. 
+
+## Scarcity 
+* *Opportunities seem more valuable to us when their availability is limited* [^scarcity_1]. 
+	* People tend to be *loss-averse*- more motivated by the thought of losing something than by the thought of gaining something of equal value
+	* As opportunities become less available, we lose freedoms; and we hate to lose the freedoms we already have Setting up barriers to these freedoms makes people more vulnerable to the principle of scarcity. [^scarcity_2]
+	* For scarcity to be especially potent, *it must come suddenly and abruptly*. It is much more potent than constant scarcity. 
+		* When it comes to freedoms, it is more dangerous to have given for a while than never to have given at all. *Freedom once gained, will not be relinquished without a fight*. 
+		* Thus, inconsistently enforcing rules generally leads to rebellion. 
+	* Scarcity due to social demand is more powerful than those that were made scarce by mistake.  *We want the scarce item more when there is competition for it*. 
+
+* This is why limited time offers and deadlines are effective 
+* **Goosing off the fence** - a tactic wherein we introduce artificial competition in an effort to make the item appear more scarce. 
+
+* It is based on a heuristic that items that are difficult to possess are typically better. 
+
+
+[^scarcity_1]: This is the essence of FOMO.
+[^scarcity_2]: Hence an argument for why censorship doesn't work -- it only moves the market underground. Even the act of censorship can be used to gain power or spread [[Information Hazards]]. 
 
 ## How to Say No 
 * It is important to realize that the compliance techniques presented can be used for good or bad. 
@@ -90,6 +140,13 @@
 	* When an innocent, natural error snowballs into social proof pushing for incorrect decision. This arises when 
 		* We assume that if a lot of people are doing the same thing, they must know something we don't. 
 		* The crowd is mistaken because they are not acting on the basis of any superior information but are reacting 
+* **Liking** - rather than trying to recognize and prevent the action of liking factors before they work on us, we must be well advised to let them work. *We must be vigilant that undue liking has been produced*. We like the practitioner more than we should. 
+	* If we find that we like the practitioner more than we ordinarily would've, separate them from the rest of the decision factors.
+* **Authority** - *Be aware of authority power*.  Recognize the ways that authority can be faked. Ask two questions 
+	* *Is this authority really an expert?* - An authority's advice is only good if their credentials are relevant. 
+	* *How truthful can we expect the expert to be here?* - Authorities, even the best informed, may not. present their information honestly to us. Therefore, we must consider their trustworthiness.
+		* Ask what the authority stands to gain. 
+		* Sometimes impartiality -- the authority seeming to go against their best interests, is a lie .
 
 # Debate 
 * [Train for any argument with Harvard's Former debate Coach Bo Seo](https://www.youtube.com/watch?v=_WjUFuW2J0A) 
@@ -104,5 +161,3 @@
 	* Steelman argument -- respond to the strongest argument of the opposition.
 # Links 
 * [[Influence -- The Psychology of Persuasion by Cialdini]]
-
-* [[The 48 Laws of Power]] 
