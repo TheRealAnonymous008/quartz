@@ -120,4 +120,4 @@
 	* Eliminate attributes in the relation that are not dependent on the key. 
 	* If the contents of a group of attributes may apply to more than a single record in the table, then separate them into a new table.
 	* *Compromise*: If it is not feasible to enforce this, consider enforcing it only on data that frequently changes.
- 
+
