@@ -147,6 +147,10 @@
 	* *How truthful can we expect the expert to be here?* - Authorities, even the best informed, may not. present their information honestly to us. Therefore, we must consider their trustworthiness.
 		* Ask what the authority stands to gain. 
 		* Sometimes impartiality -- the authority seeming to go against their best interests, is a lie .
+* **Scarcity** - Knowing the scarcity principle is not enough when the emotional reaction it draws overpowers the knowledge. *Recognize the signs that scarcity is playing a factor in our decisions*. 
+	* Ask: What it is that we want from the item 
+		* We could want an item for the advantages of possessing a rare item, in which case we can use the scarcity principle to inform us of its price. 
+		* However, we could simply want the item for its utility and in the spur of the moment end up wanting it because it suddenly becomes scarce. *Scarcity does not affect utility*
 
 # Debate 
 * [Train for any argument with Harvard's Former debate Coach Bo Seo](https://www.youtube.com/watch?v=_WjUFuW2J0A) 
