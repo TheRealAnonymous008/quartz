@@ -10,7 +10,8 @@
 * $\gamma$ - discounting factor
 ***** 
 * $i$ - generic player
-* $N$ - the set of players in the game 
+* $0$ - player $0$ is Nature.
+ * $N$ - the set of players in the game 
 * $_{-i}$ - subscript indicates that we should exclude player $i$
 *****
 * $\Gamma$ - a game
@@ -35,8 +36,21 @@
 * $\Delta S_i$ - the simplex of $S_i$. 
 * $\Delta S$ - the set of all mixed strategies 
 * $\text{BR}$ - the collection of best response correspondences. 
+
 * $\sigma_i$ - a mixed strategy for player $i$. 
 * $\sigma_i(s_{i})$ - the probability that player $i$ plays $s_i$.
+* $\sigma_i(a_i(h_i))$ - a behavioral strategy for player $i$. The distinction with a mixed strategy will be clear in context. 
+
 * $\pi_i$ - belief of player $i$.
 * $\pi_i(s_{-i})$ - belief of player $i$ on opponent's strategy $s_{-i}$.
-
+*****
+* $\mathcal{K}$ - denotes a decision tree 
+* $T$ - terminal nodes in the decision tree 
+* $D$ - denotes a decision node on the tree
+* $\mathbb{H}$ - an information partition on the decision tree 
+* $H_i$ - information set in $\mathbb{H}$ for player $i$
+* $A(H)$ - a set of actions available for information set $H$
+* $a$ - an action partition 
+* $\rho$ - a family of probabilities based on the partitions $\mathbb{H}$
+*****
+* In a game tree, a dashed line or an ellipse encompassing more than one vertex denotes a non-singleton information set 
