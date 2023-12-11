@@ -16,6 +16,7 @@
 *****
 * $\Gamma$ - a game
 * $s_i$ - a pure strategy of player $i$
+* $s_i^t$ - a pure strategy of player $i$ at time step $t$.
 * $S_i$ - the set of strategies of player $i$
 
 * $s$ -  a profile of pure strategies chosen by all $n$ players of the game. 
@@ -45,12 +46,24 @@
 * $\pi_i(s_{-i})$ - belief of player $i$ on opponent's strategy $s_{-i}$.
 *****
 * $\mathcal{K}$ - denotes a decision tree 
-* $T$ - terminal nodes in the decision tree 
+* $Z$ - terminal nodes in the decision tree 
 * $D$ - denotes a decision node on the tree
 * $\mathbb{H}$ - an information partition on the decision tree 
 * $H_i$ - information set in $\mathbb{H}$ for player $i$
+* $h$ - generic element of information set. 
 * $A(H)$ - a set of actions available for information set $H$
 * $a$ - an action partition 
 * $\rho$ - a family of probabilities based on the partitions $\mathbb{H}$
 *****
 * In a game tree, a dashed line or an ellipse encompassing more than one vertex denotes a non-singleton information set 
+*****
+* $T$ - horizon. total number of games for multistage games 
+* $t$ - generic time step 
+* $h_t$ - history up to (excluding) time step $t$.
+* $v_i(\sigma_i, h_i)$ - the expected payoff of player $i$ from the information set $h_i$ onward by playing $\sigma_i$ 
+* $\sigma_i ^{a,h_i}$ - a strategy that is identical to $\sigma_i$ except at $h_i$. At $h_i$ we use the action $a\in A_i(h_i)$ instead. 
+*****
+* $G$ - generic stage game
+* $G(T,\gamma)$ - a finitely repeated game wherein stage game $G$ is played $T$ consecutive times with $\gamma$ as the common discount factor. 
+* $G(\gamma)$ - an infinitely repeated game wherein stage game $G$ is played an infinite number of times with $\gamma$ as the common discount factor. 
+* $H_t$ - in the context of an infinitely repeated game, it denotes the set of all histories of length $t$.

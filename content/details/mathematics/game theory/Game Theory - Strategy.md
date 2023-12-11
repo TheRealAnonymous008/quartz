@@ -1,71 +1,3 @@
-* A **game** is a [[Characterizing the Decision Problem|decision process]] which involves multiple players that affect the environment and each other. 
-
-# Games 
-* A **finite game** is a game with a finite number of players in which the number of strategies is finite for all players . 
-
-### Static Games
-* A **static game** is a game where players simultaneously and independently make a once and for all decision, after which all outcomes are realized and payoffs are distributed to each player. 
-
-* The **normal-form game** is a tuple $(N,S,v)$
-	* A finite set of players $N = \{1,\dots, n\}$ 
-	* A set of actions for each player $S=\{S_1, \dots, S_n\}$
-	* A set of payoff functions $v=\{v_1,\dots, v_n\}$ for each player that gives a payoff vale to each  combination of the players' chosen actions.  They are functions $v_i:S_1\times S_2\times\dots\times S_n \to \mathbb{R}$
-
-* Any 2-player finite normal-form game can be represented as a matrix where 
-	* *Rows* represent one player 1's strategies.  
-	* *Columns* represent one of  2's strategies 
-	* Entries represent a two element vector $(v_1,v_2)$ representing the players' payoffs. 
-
-### Dynamic Games
-* A **dynamic game** is a game where players take turns and make a decision, potentially based on the choices of other players. 
-
-* An **extensive-from game** is a tuple $\Gamma = (\mathcal{K}, \mathbb{H}, \{H_i\}, \{A(H)\}, a, \rho, v)$ where 
-	* Let $D = V-T$ represent the decision nodes 
-	* $\mathcal{K}=(V,v_0,T,p)$ is a finite [[Trees|tree]] with vertices $V$, a unique initial node $v^0\in V$, a set of terminal nodes $T\subset V$. and an immediate predecessor function $p:V\to D$ on which the game rules are represented.  
-	* $\mathbb{H}$ is a partition on $D$ called the **information partition**. 
-		* The information partition consists of information sets $h_i\in H_i$ which *partition the nodes of the game* at which player $i$ moves with the player properties. 
-			* If $h_i$ is singleton, that includes only $x$, then player $i$ who moves at $x$ knows he is at $x$
-			* If $x\ne x'$ and both $x\in h_i$ and $x'\in h_i$, then player $i$ who moves at $x$ does not know whether he is at $x$ or $x'$, and $A_i(x')=A_i(x)$. 
-		* The restriction $A_i(x')= A_i(x)$ hides any information that can be distinguished about the player's current state on the board. 
-
- * $A(H)$ is a set of actions available for each information set $H\in\mathbb{H}$ which forms a partition over all actions $\mathcal{A}$. 
-* $a:V-\{v^0\}\to \mathcal{A}$ is an action partition associating each node $v$ to a single action $a(v)$ such that $\forall H\in \mathbb{H}, \forall v\in H$, and where $s(v)$ denotes the successor nodes of $v$, $a_v: s(v)\to A(H)$ is a bijection
-* $N$ is the set of players. $0$ denotes the player Nature who is independent of the strategies of the players. 
-* $\rho$ is a family of probabilities $\rho_H$ of the actions of Nature 
-* $v=(v_i)_{i\in\mathcal{I}} : T\to \mathbb{R}^N$ denotes the payoff profile function 
-
-
-* A potentially small set of moves can translate into a *much larger set of strategies* when sequential moves are possible, and when players have knowledge of what preceded their play
-
-* *Any extensive-form game can be transformed into a normal-form game* by using the set of pure strategies of the extensive form as the set of pure strategies in the normal form and the set of payoff functions is derived from how combinations of pure strategies result in the selection of terminal nodes
-	* The pure strategies are represented as follows (for two player games). Let the actions be ordered $\{a_1,\dots, a_m\}$.  Say player 1 has an entry $b_1,\dots, b_m$ where
-		* $b_i\in \mathcal{A}$.  The $b_i$'s need not be distinct 
-		* $b_k$ denotes that player 1 plays action $b_k$ in response to player $2$ playing $a_k$
-# Information
-* An event $E$ is **common knowledge** if:
-	* Everyone knows $E$ 
-	* Everyone knows that everyone knows $E$ ad infinitum
- * *Common knowledge allows a strategic framework* because we know that everyone will act according to their [[Bayesian Statistics|belief]] that everyone else has the common knowledge. 
-
-* **Games of Complete Information** require the following for components to be common knowledge among all players of the game 
-	* All possible actions of all the players 
-	* All the possible outcomes 
-	* How each combination of actions of all players affect which outcome will materialize 
-	* The preferences of each and every player over outcomes. 
-
-* **Games of Perfect Information** are games of complete information where every information set is singleton, and there are no moves of Nature.  
-* **Games of Imperfect Information** are games where some information sets contain several nodes or where there are moves of nature. 
-	* These are games capture two kinds of uncertainty. **Exogenous uncertainty** - comes from not knowing the move of another player. **Endogenous uncertainty** - comes from not knowing the realization of a choice of Nature. 
-
-## Recall 
-* **Games of Perfect Recall** are those where no player ever forgets information they previously knew .
-
-* Under games of perfect recall, [[#Mixed Strategies]] and [[#Behavioral Strategies]] are equivalent. 
-	* A mixed strategy can be obtained from a behavioral strategy by conditioning on the information set.
-	* A behavioral strategy can be obtained from a mixed strategy by "un-conditioning" on the information set. 
-
-* *Stochastic environments (where the dynamics of the environment change) are games where perfect recall is impossible.*
-
 # Strategies 
 * A **pure strategy** for player $i$ is a *deterministic plan of action*. The set of all pure strategies of player $i$ is denoted $S_i$.
 	* Strategies are distinct from actions. The outcomes may be conditioned on the choice of actions but not the strategy. 
@@ -131,6 +63,22 @@
 ## Substitutes and Complements 
 * A game with **strategic substitutes** is a game where the best response of one player decreases in the choice of the other.  That is, *they mutually reinforce each other*. 
 * A game with **strategic complements** is a game where the best response of one player increases the choice of the other. That is *they mutually offset one another*. 
+
+## Multistage Conditional Strategies 
+* In a [[Game Theory - Games#Multistage Games|multistage game]], a **pure strategy** of player $i$ will be a list of conditional pure strategies of the following form 
+  $$
+  S_i = \{s_i^1, s_i^2 (h_1), \dots, s_i^T(h_{T-1})
+  $$
+  where $h_{t-1}$ is a particular outcome that occurred up to period $t$, not including period $t$. It denotes the history of events that occurred up to $t$. 
+
+* A **mixed behavioral strategy** is a list of conditional randomizations of the form $\sigma_i = \{\sigma_i^1,\dots, \sigma_i^T(h_{T-1})\}$ 
+
+## Strategies for Infinitely Repeating Games
+* Let $H_t$ denote the possible **histories** of length $t$ and $h_t\in H_t$.  
+  Let $H=\cup_{t=1}^\infty H_t$ be the set of all possible histories .
+  
+  A **pure strategy** for player $i$ is a mapping $s_i : H\to S_i$. 
+  A **behavioral strategy** for player $i$ is a mapping $\sigma_i: H\to \Delta S_i$ .
 
 # Solving Games 
 * A **solution concept** is a method of analyzing games with the objective of restricting the set of all possible outcomes to those that are more reasonable than others. It is a formal rule for predicting how the game will play. 

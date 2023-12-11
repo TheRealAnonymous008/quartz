@@ -8,7 +8,8 @@
 * [[Game Theory - Notation Guide]]
 
 * [[Characterizing the Decision Problem]]
-* [[Fundamental Constructs in Game Theory]] - discusses games and some aspects of games. 
+* [[Game Theory - Games]]
+* [[Game Theory - Strategy]]
 
 * [[Static Games of Complete Information]]
 * [[Dynamic Games of Complete Information]]

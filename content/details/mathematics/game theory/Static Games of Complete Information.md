@@ -173,5 +173,6 @@
 	* The **Median Vector Theorem** states that if voters are different from one another along a single dimensional “preference” line, as in Hotelling’s model, and if each prefers his own political location, with other platforms being less and less attractive the farther away they fall to either side of that location, *the political platform located at the median voter will defeat any other platform in simple majority vote.* 
 		* The median is defined as that which splits the spectrum into two equal halves (generalizable even for the continuous formulation of the problem)
 # Links 
-* [[Fundamental Constructs in Game Theory]]
+* [[Game Theory - Games]]
+* [[Game Theory - Strategy]]
 * [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 3 - 6]]
