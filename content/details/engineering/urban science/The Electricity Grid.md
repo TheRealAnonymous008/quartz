@@ -15,7 +15,7 @@
 * Wind turbines have aerofoil-shaped blades to cut through the wind easily, allowing it to spin more easily and to spin the loops of wire in the generator.
 * Longer blades = more wind that can be harvested.
 * Something to consider is the composition of the blade since they can bend after repeated use.
-* Another thing is the weather -- they are dependent on the presence of wind.
+* Another thing is the [[Weather Systems|weather]] -- they are dependent on the presence of wind.
 
 # Solar
 * Getting energy from [[The Earth and Insolation|the sun]] via solar panels which consist of photovoltaic cells.

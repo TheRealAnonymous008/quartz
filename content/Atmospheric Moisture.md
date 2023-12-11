@@ -22,13 +22,28 @@
 
 * Convergent winds will move upward until saturated or cooled. 
 * Cold air sinks and gradually becomes unsaturated due to heating and loss of moisture  
-* Warm air rises and gradually becomes saturated due to cooling. When it is fully saturated, clouds form. 
+* Warm air rises and gradually becomes saturated due to cooling. When it is fully saturated, clouds form.
+
+## Clouds and Precipitation
+* *Clouds form either due to the cooling of air or humidity increase*
+* The presence of a fog means that surface level temperature has reached the dew point
+* The occurrence of fog is dependent on climate, temperature and typical humidity levels. It may also depend on topography that can influence the wind directions.
+	* Fog is frequent along the windward sides of mountain ranges
+	* Most common along coastlines, over large bodies of water and in certain low areas due to the water providing additional moisture. 
+	* Radiation fogs are common in inland areas where there is a significant drop in temperature. 
+	* Advection fogs are common where cold ocean currents extend into otherwise warm coastal areas.
+	* Evaporation fogs are common on the open ocean. 
+
+
+* The state of the precipitate depends on the temperature of the cloud.
+	* *Warm clouds = Lower altitude = more liquid precipitate.*
+	* *Cold clouds = higher altitude = more solid precipitate*. 
 # Humidity
 * **Humidity** - the amount of water vapor in the atmosphere, which can be expressed in many ways.
 	* **Absolute Humidity** - the mass per volume of the water in the air.  *Since this changes when air expands or compresses, it is not useful in understanding the atmosphere*.
 	* **Vapor Pressure** - denoted $e$ the amount of pressure contributed by the water vapor. 
 	* **Water Vapor Capacity** - denoted $e_s$, it is the maximum amount of water vapor the air can hold. It varies by temperature, increasing exponentially. 
-		* **Unsaturated air** - occurs when the weather is fair. It is when more water vapor can be introduced in the air. 
+		* **Unsaturated air** - occurs when the [[Weather Systems|weather]] is fair. It is when more water vapor can be introduced in the air. 
 		* **Saturated air** - the air has as much water vapor as possible. This is indicated with the formation of precipitation and drops of water (i.e., clouds).
 		* **Supersaturated** - the air has more water vapor than its water vapor capacity.
 	* **Relative Humidity** - he ratio of how much water vapor is in the air relative to the water vapor capacity, indicating how close the air is to saturation. *It varies with temperature*. 
@@ -93,7 +108,7 @@
 
 [^1]: To be exact, it steepens 
 [^2]: Hence why thunderstorms form in mountain peaks more often than adjacent valleys. Another reason is because wind moves upslope (see [[Winds and Atmospheric Kinetics#Valley and Mountain Breezes|here]]) and can therefore collide at the apex. 
-# Clouds, Fog and Precipitation 
+# Clouds
 ## Clouds 
 *  **Clouds** are the accumulations of liquid water and ice suspended in the air. They can give information about the moisture at a particular point in time. 
 * Clouds are classified in three ways 
@@ -125,5 +140,30 @@
 | Nimbostratus  | Stratiform that is precipitating. Typical in regional storms                                                                                                                                                                           |
 | Fog           | A cloud that hugs the ground closely.                                                                                                                                                                                                                                        |
 
-  # Links
+## Fog 
+* *Fogs form due to the simultaneous addition of moisture and chilling of air*. 
+	* **Evaporation fog** - Formed when cold air flows over warm water. As the unstable air rises, it incorporates water molecules on the surface. Evaporation fogs rise in vertical columns. 
+	* **Valley Fog** - formed when rugged terrain traps atmospheric moisture in a valley and additional moisture is added from surrounding bodies of water .
+	* **Precipitation fog** - formed alongside precipitation that occurs along a warm front's boundary with a cold front. This happens when the cold air is dry and the raindrops evaporate due to the warm air, increasing its humidity. 
+
+	* **Radiation fog** - occurs when the ground is significantly cooled due to heat loss, and especially when the surface level winds are humid. If the surface is cooled sufficiently, the fog will persist. 
+	* **Advection fog** - fogs produced due to advection -- when warm air flows over a cold surface and is cooled to the dew point.
+	* **Upslope fog** - fogs produced by air travelling uphill that is cooled due to low atmospheric pressure to the dew point where it settles.  
+
+# Precipitation 
+* **Precipitation** - process whereby liquid droplets of water (raindrops), solid bits of ice (snowflakes and hail), or some combination of these fall from the sky due to a cloud being too heavy for uplift winds to carry.
+	
+* Precipitate can form in a variety of ways: 
+	* **Collision-coalescence** - when a larger droplet becomes larger by colliding and incorporating smaller droplets 
+	* The small droplets can also slide past the larger droplets, leaving no net change in size. 
+	* Alternatively, wind resistance can reshape the falling drop until it splits into two. This shrinking also happens due to evaporation.
+
+* Saturation is reached with slightly less water vapor when air is in contact with ice in the cloud than when it is in contact with liquid water, even at the same temperature. *Less water vapor can exist when there is ice* 
+	* Air becomes unsaturated next to a liquid drop, causing water to evaporate and relative humidity to increase 
+	* Liberated water vapor molecules diffuse and aggregate into a nearby snowflake.
+	* **Bergeron process** - the ice in the cloud might melt which causes ice to become liquid and liquid to become vapor which becomes more ice (by aggregation) until it falls down.
+
+* **Cloud Seeding** - a process wherein the formation of precipitate is made more efficient by either (artificially) cooling the cloud or adding solid particles to facilitate ice crystal formation.
+
+  # Links 
 * [[Exploring Physical Geography by Reynolds|Reynolds Ch. 4]]

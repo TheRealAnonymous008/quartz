@@ -2,7 +2,7 @@
 
 ✨ [Aseprite](https://github.com/aseprite/aseprite) - pixel art tool
 
-✨ [ChatGPT](https://chat.openai.com) - LLM powered chatbot by OpenAI
+*  [ChatGPT](https://chat.openai.com) - LLM powered chatbot by OpenAI
 
 ✨[Focalboard](https://www.focalboard.com) - open source project management tool.
 
@@ -16,7 +16,7 @@
 
 ✨[Obsidian](https://obsidian.md) - a simple and lightweight knowledge management system.
 
-* [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
+✨ [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
 
 * [Pi.ai](https://pi.ai/talk) - an online personal assistant chatbot as an alternative to ChatGPT.
 

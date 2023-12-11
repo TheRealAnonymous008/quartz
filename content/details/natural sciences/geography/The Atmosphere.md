@@ -37,6 +37,8 @@
 * [[The Earth and Insolation]]
 * [[Winds and Atmospheric Kinetics]]
 * [[Atmospheric Moisture]]
+* [[Weather Systems]]
+* [[Climate]]
 
 # Links
 * [[The Earth and Insolation]] - for more about Insolation

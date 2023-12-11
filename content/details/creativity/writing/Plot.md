@@ -73,6 +73,7 @@
 	* No But - the character fails in resolving the conflict, but the character still moves towards the goal.
 # Topics
 * [[Plot Structure]]
+* [[The 36 Dramatic Situations]]
 # Links
 * [Story Structures](https://jerryjenkins.com/story-structures/)
 * [The Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey)
