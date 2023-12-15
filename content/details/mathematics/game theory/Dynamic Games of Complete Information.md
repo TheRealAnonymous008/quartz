@@ -129,30 +129,7 @@
 	* If the two firms can agree to a game-theoretic view, they can circumvent any explicit rules against collusion. 
 	* Price wars between colluding firms are off-the-equilibrium path behavior that occurs when collusive behavior is no longer a subgame-perfect equilibrium (i.e., due to uncertainty in the other players' tacit agreement ). 
 
-## Strategic Bargaining 
-* The bargaining procedure occurs as follows
-	* In the first round. Player $1$ offers shares $(x,1-x)$. Player $2$ can accept and the game will end with payoffs $v_1=x$ and $v_2=1-x$.
-	* In the second round, a share $1-\gamma$ of the pie is dissipated. Player $2$ offers $(x,1-x)$.  The payoff then becomes $v_1=\gamma x$ and $v_2 = \gamma(1-x)$.
-	* Subsequent rounds continue, alternating between the two players and taking a slice of the pie by discounting it using $\gamma$. 
-	* A hard deadline is imposed at time $T$. At which point, the players receive nothing. 
-
-* A special case is the **ultimatum game** where we only have 1 round. Player 1 proposes to Player 2 to "take it or leave it". 
-	* (*Tadelis 11.1*) In the bargaining game, if $T=1$, any division of surplus $x^\ast\in [0,1]$, $(v_1,v_2)=(x^\ast, 1-x^\ast)$ can be supported as a Nash Equilibrium. In other words, *any division of surplus can be rationalized*. 
-	* (*Tadelis 11.2*) The bargaining game with $T=1$ admits a unique subperfect equilibrium in which player $1$ offers $x=1$ and player $2$ accepts any offer $x\le 1$.  [^barg_1]
-
-* When we have a finite set of rounds, *Tadelis 11.1* suggests that no unique Nash Equilibrium exists. 
-	* However, there exists a unique subperfect game equilibrium. The last player to make the offer has the advantage, and so for odd $T$, Player $1$ will win, and for even Player $2$.  
-	* In particular, it is achieved using a split of $\left(\frac{1+\gamma^T}{1+\gamma}, \frac{\gamma-\gamma^T}{1+\gamma}\right)$
-	* (*Tadelis 11.3*) Any subgame perfect equilibrium of the bargaining game must have the players reach an agreement by the first round.  [^barg_2]
-	* With a long horizon and patient players, the bargain will settle for a 50-50 split.
-
-* In the infinitely repeating case, a first move agreement must be reached since discounting renders the payoff lower than what it could be. 
-	* *This implies that player 1 must offer player 2 a share that they would not reject*. Being rejected is bad when it comes to payoffs since there is now discounting that could have been avoided. 
-	* Player 1 offers to keep $\frac{1}{1+\gamma}$. Player 2 only accepts if $x\le \frac{1}{1+\gamma}$. 
-	* Then player $2$ offers $\frac{\gamma}{1+\gamma}$ which Player 1 accepts only if $x\ge \frac{\gamma}{1+\gamma}$.
-
-[^barg_1]: This follows from the fact that Player 2 must have a minimum they are willing to accept.  Note that this also implies an extreme strategy -- player 1 takes all and player 2 accepts nothing.
-[^barg_2]: Such equilibrium arises from both discounting and the knowledge the game will end in $T$ timesteps. Because of discounting, Player 1 should simply set their partition rather than have this partition be discounted in the payoff. Hence, the game is no different from *Tadelis 11.2*. 
+## [[Strategic Bargaining]]
 
 # Links
 * [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 7 - 11]].

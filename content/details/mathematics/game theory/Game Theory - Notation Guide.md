@@ -67,3 +67,9 @@
 * $G(T,\gamma)$ - a finitely repeated game wherein stage game $G$ is played $T$ consecutive times with $\gamma$ as the common discount factor. 
 * $G(\gamma)$ - an infinitely repeated game wherein stage game $G$ is played an infinite number of times with $\gamma$ as the common discount factor. 
 * $H_t$ - in the context of an infinitely repeated game, it denotes the set of all histories of length $t$.
+*****
+* $\Theta$ - Set of Type spaces of all players.
+* $\Theta_i$ - Type space of player $i$
+* $\theta_{ik}$  - Player $i$ is type $k$
+* $\theta$ - profile of player types.
+* $\phi_i(\theta_{-i}\mid \theta_i)$ - the belief of player $i$ with respect to the uncertainty over the other players' types. 

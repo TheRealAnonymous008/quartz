@@ -91,6 +91,13 @@ aliases:
 * **Games of Imperfect Information** are games where some information sets contain several nodes or where there are moves of nature. 
 	* These are games capture two kinds of uncertainty. **Exogenous uncertainty** - comes from not knowing the move of another player. **Endogenous uncertainty** - comes from not knowing the realization of a choice of Nature. 
 
+* **Games of Incomplete Information** are games where the players have belief for the other player's types but these beliefs are not certain. 
+	* The set of each players and their possible actions are common knowledge. 
+	* Each player may be associated with one of possibly many payoff functions (each payoff function denotes a type). 
+	* At the beginning of the game, Nature chooses each player's type from a probability distribution. 
+	* Each player is assumed to know their preferences 
+	* **Common Prior Assumption** The probability distribution over types is common knowledge among the players. 
+
 ## Recall 
 * **Games of Perfect Recall** are those where no player ever forgets information they previously knew .
 

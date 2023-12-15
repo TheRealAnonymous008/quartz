@@ -80,6 +80,8 @@
   A **pure strategy** for player $i$ is a mapping $s_i : H\to S_i$. 
   A **behavioral strategy** for player $i$ is a mapping $\sigma_i: H\to \Delta S_i$ .
 
+## Strategies in Incomplete Information Settings 
+* A strategy in an incomplete information setting is a prescription on what each player should do in response to each type of player. 
 # Solving Games 
 * A **solution concept** is a method of analyzing games with the objective of restricting the set of all possible outcomes to those that are more reasonable than others. It is a formal rule for predicting how the game will play. 
 	* *Solution concepts prescribe solutions. Solutions are strategies* 
