@@ -39,7 +39,7 @@
 	* *Prototypes do not have to be digital.* Paper prototypes are low fidelity and enable faster iteration.
 	* *Prototypes do not have to be interactive* 
 	* *Pick a fast loop game engine*. Use systems that are responsive to changes. 
-	* *Build the toy first* before the game. Let the game [[Games as Rules#Emergent Systems|emerge]]from the systems.
+	* *Build the toy first* before the game. Let the game [[Games as Rules#Emergent Systems|emerge]] from the systems (i.e., the rules)
 	* *Seize opportunities for more loops*. When given more time, use it for more loops.
 
 * The Loop goes as follows.
@@ -56,6 +56,25 @@
 	* **The 50% Rule** - All core gameplay elements should be fully playable at the halfway mark in your schedule.
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#15. The Eight Filters|Eight Filters]], [[Lenses for Game Design - Lenses#16. Risk Mitigation|Risk Mitigation]], [[Lenses for Game Design - Lenses#17. The Toy|The Toy]], [[Lenses for Game Design - Lenses#18. Passion|Passion]]
+#### Additional Tips
+* These tips come from [[Game Mechanics -- Advanced Game Design by Adams and Dormans|Adams and Dormans]]
+* *Start working on the mechanics once you know the [[Lenses for Game Design - Lenses#2. Essential Experience|essential experience]]*. 
+* Know the three stages of development
+	* **Concept Stage** - [[Lenses for the Designer|designers]] will decide on the  general idea, the demographics and the player's role. Usually there will be documented. 
+		* Here you create proof of concept prototypes. 
+		* *Tip*: Assume the prototypes are throwaway and you will have to redo them in the Elaboration Stage. 
+	* **Elaboration Stage** - happens when the game is funded. Here the mechanics, levels, story, art and other assets are created.  The tips outline [[Lenses for the Process|here]] are useful. 
+	* **Tuning Stage** - *freeze the features*. Do not add more and instead polish the existing features. Additionally, take out anything that doesn't work for the game.
+
+* *Use software prototypes* via game engines such as [[Unity]] or [[Godot]].  In doing so, also *make the prototype easily customizable during play*. 
+	* [Spore's prototypes might be good to investigate](http://www.spore.com/comm/prototypes)
+* However, if the game doesn't rely on physics, use paper prototypes instead. This is useful for [[Game Mechanics Design|certain mechanics such as economies or progression]].
+* Some example prototype focuses: 
+	* **Tech demo** - make sure the team can work with the technology involved in the game. 
+	* **Game Economy** -- prototype the dynamics of the resources .
+	* **Interface and Control scheme** - build a software prototype for the UI. Check for [[UX Design Principles]].
+	* **Tutorials** - build a good tutorial (in the late stages of the game). Test if new players can understand the game and how it should be played. 
+* *Use a reference game*: [[The 48 Laws of Power#7. Get Others To Do The Work For You But Always Take The Credit|learn from their mistakes and successes]]. Favor games that are similar in scope as yours. 
 
 ### Good Games Are Created Through Playtesting 
 * Playtesting is about getting people to come [[Lenses for the Player|play]] the game to see if it engenders the experience for which it was designed. 

@@ -8,6 +8,9 @@
 * Every story is , in a sense, a self-insert story. However, the best stories are those that hide this fact. Similar to a good [[Design of Everyday Things|interface]].
 
 * A lot of good insights  and good connections between topics can only come from immersing in both of them and having both on your mind. 
+
+* AI Song covers using someone's voice show you the potential of that person's voice. 
+
 # Trivia
 * The toxicology hypothesis -- Vomiting while motion sick can be traced back to the same sensors for motion sickness being associated with detecting if we are poisoned (since this also causes nausea). Hence, the response is to throw up the poisoned food.
 

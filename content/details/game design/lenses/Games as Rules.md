@@ -17,7 +17,7 @@
 
 # Games as Formal Systems
 ### Emergent Systems
-* *Emergence and Complexity  are crucial aspects of games since they are systems*. They allow the game to be more systemic and meaningful.
+* *[[Complex Systems|Emergence]] and Complexity  are crucial aspects of games since they are systems*. They allow the game to be more systemic and meaningful.
 * Complexity can arise unexpectedly from a handful of simple elements and rules. It is systematic order that emerges from the dynamic interactions of agents within an environment.
 	* We may be able to describe the rules of the game with simple statements, but *we can never determine how the game itself will play out*.
 * *In parts where meaningful play exist -- some aspect of the game system will be complex* 
