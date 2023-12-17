@@ -65,6 +65,7 @@
   $$
   
   The stochastic version is computed using Approximate Sampling and Stein Variational Gradient Descent 
+
 ![[Soft Q Learning.png|300]]
 <figcaption> Soft Q Learning. Taken from Haarnoja  et al. (2017)</figcaption>
 
