@@ -27,6 +27,8 @@
 | Designer control of Game sequence | Low (due to emergence) | High (due to level design ) |
 | Length                            | Tends to be short      | Tends to be long            |
 | Learning curve                    | Steep                  | Gentle                      |
+
+* *Mechanics don't have to be realistic, only consistent*.  Remember, all games have some form of recognizable patterns inside them and the mechanics should be one of these patterns 
 # Mechanics 
 ## Physics
 * Mechanics based on physics require understanding the underlying game  engine's physics simulation. 
@@ -35,11 +37,18 @@
 * However, *physics also implicitly lends itself to discrete mechanics*. In particular, by allowing the players to formulate a strategy that can be described without knowledge of the underlying physical computations.
 * *It is hard to innovate with physics mechanics*. 
 
+## Economy 
+
+
 ## Mechanics of Emergence 
 * [[Complex Systems|Emergence]] allows designers to create games which offers more player opportunities. 
 * *These make good use of the computer's ability to do many processes*. 
 * Games may have breadth (many possible choices) or depth (many possible outcomes as a result of subsequent actions).
 * *Even relatively simple mechanics gives many gameplay opportunities*. The emergent properties arise from the mechanics interacting with each other. 
+	* These opportunities give rise to new player strategies. 
+* They have a *high replay value* because the challenges and possible actions that occur while playing are different every time
+* *Emergent gameplay mechanics should be a balance between ordered (progression) mechanics and randomness*.
+* The structural qualities of the game -- the presence of feedback loops, interconnected parts, and differing scales of complexity, determine emergent gameplay. 
 
 ## Progression 
 * A game of progression requires a large amount of data, prepared in advance by the designer, that the player can access at arbitrary points

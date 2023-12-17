@@ -32,13 +32,24 @@
 * A strategy profile $s^\ast$ is a **pure strategy Bayesian Nash Equilibrium** if, for every player $i$, for each of player $i$'s types $\theta_i\in \Theta_i$ and for each $a_i\in A$, $s_i^\ast$ solves 
   
   $$
- \mathbb{E}_{\theta_{-i}} \ [ \phi_i (\theta_{-i}\mid \theta_i) \   v_i(s_i^\ast (\theta_i )  \ , s_{-1}^\ast (\theta_i) \ ; \theta_i) \mid \theta_i ] \ge \mathbb{E}_{\theta_{-i}} [v_i(a_i,s_{-i}^\ast (\theta_{-i}); \theta_i) \mid \theta_i] 
+ \mathbb{E}_{\theta_{-i}} \ \bigg[ \phi_i (\theta_{-i}\mid \theta_i) \   v_i(s_i^\ast (\theta_i )  \ , s_{-i}^\ast (\theta_i) \ ; \theta_i) \mid \theta_i \bigg] \ge \mathbb{E}_{\theta_{-i}} \bigg[v_i(a_i,s_{-i}^\ast (\theta_{-i}); \theta_i) \mid \theta_i\bigg] 
   $$
 
-# Example Games 
+* **Harsayani's Purification Theorem** - we can use incomplete information to make any mixed-strategy equilibrium of a game of complete information into a pure strategy. 
+	* If people are somewhat heterogeneous in the way monetary payoffs and actions are related, then we can have uncertainty over the types of players who are playing pure strategies, but *the distribution of types makes a player have beliefs as if he were facing a player who is playing a mixed strategy*
+	* Thus, games of complete information are in some sense a special case of games of incomplete information where players have strict best responses. 
+# Applications 
+* (*Tadelis 12.1*) . Trade can only occur in a Bayesian Nash equilibrium only if it involves the lowest type trading.
+	* The intuition is that a player (who knows the value of the trading object) will only give it away if they know it has low value.  
+	* The end result is trade can only occur if the quality of the object being traded is at its lowest. 
+
+* The **swing voter's curse**. When a voter believes their vote matters, they must condition this on the situation which his vote counts. But then it means that they will interpret their information differently and not use it in an unbiased way
+
+* [[Auction Theory]]
+* [[Mechanism Design]]
 
 # Links
-* [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 12 - 14]]
-	* 12.2 - contains examples: Chicken and Study Groups.
+* [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 12]]
+	* 12.2  - 12.4- contains examples in greater detail. 
 * [[Game Theory - Games]]
 * [[Game Theory - Strategy]]

@@ -93,7 +93,7 @@ aliases:
 
 * **Games of Incomplete Information** are games where the players have belief for the other player's types but these beliefs are not certain. 
 	* The set of each players and their possible actions are common knowledge. 
-	* Each player may be associated with one of possibly many payoff functions (each payoff function denotes a type). 
+	* Each player may be associated with one of possibly many payoff functions (each payoff function denotes a type). *A type, however, is a general construct that denotes information given to the players, such as their preferences or knowledge about the world.*
 	* At the beginning of the game, Nature chooses each player's type from a probability distribution. 
 	* Each player is assumed to know their preferences 
 	* **Common Prior Assumption** The probability distribution over types is common knowledge among the players. 

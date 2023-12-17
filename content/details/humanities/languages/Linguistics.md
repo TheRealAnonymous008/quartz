@@ -11,6 +11,8 @@
 * [[Phonology]]
 * [[Semantics]]
 * [[Syntax]]
+* [[Orthography]] - for topics relating to writing systems themselves. 
+
 * [[Words]] - words I like.
 # Links
 * [MIT 24.900 Introduction to Linguistics, Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j)

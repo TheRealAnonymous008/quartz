@@ -73,3 +73,9 @@
 * $\theta_{ik}$  - Player $i$ is type $k$
 * $\theta$ - profile of player types.
 * $\phi_i(\theta_{-i}\mid \theta_i)$ - the belief of player $i$ with respect to the uncertainty over the other players' types. 
+*****
+* $x$ - public alternative
+* $m(\theta)$ - monetary gain or loss given a certain type. 
+* $x(\theta)$ - a decision rule on the public alternative. 
+* $u_i(x,\theta_i)$ - the monetary equivalent of public alternative $x$ for player $i$ of type $\theta_i$. 
+* $Y$ - the set of outcomes in a mechanism design problem
