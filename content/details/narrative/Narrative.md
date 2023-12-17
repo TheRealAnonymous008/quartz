@@ -75,7 +75,6 @@
 * [[Plot]]
 * [[Story Theme]]
 * [[Tropes]]
-* [[Typology of Human Conditions]]
 * [[Worldbuilding]]
 # Links
 * [[Writing]] - more on the technical side of how to write in general.
