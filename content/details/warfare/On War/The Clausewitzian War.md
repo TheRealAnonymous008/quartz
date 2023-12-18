@@ -12,7 +12,7 @@
 	* The *commander and his army* -- who  play with *chance* and probability  
 	* The *government* -- who imposes subordination as an *instrument of policy* which makes it subject  to reason alone. 
 
-* The culture and the prevailing zeitgeist defines the limits of war.  *War does not occur in isolation, it occurs as part of a [[Games as Culture|culture]] system*
+* The culture and the prevailing zeitgeist defines the limits of war.  *War does not occur in isolation, it occurs as part of a [[Games as Culture|culture]] [[System Science|system]]*
 	* In an ideal case, there is no limit to the extremes that can arise from war, as both parties try to one-up each other.  [^2]
 	* In reality, such restrictions exist because war does not exist in a closed system. 
 	* Nonetheless, circumstances in war drive us towards the ideal war. *A strategist should always bear in mind the possibility of absolute war*. 

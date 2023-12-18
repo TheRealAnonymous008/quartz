@@ -58,6 +58,8 @@
 
 * **Ubermensch** - (German) Overman.  The goal that humanity should set for itself. The transvaluation of values from the traditional religious "other-worldly" values to more practical values derived from a love of the world and life experience.
 
+* **Verdriet** - (Dutch) Sorrow. immense pain or grief.
+
 * **Zeitgeist** - "The Spirit of the Times". An invisible agent dominating the characteristics of a given epoch in world history.
 
 # Links

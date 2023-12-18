@@ -73,6 +73,7 @@
 * $\theta_{ik}$  - Player $i$ is type $k$
 * $\theta$ - profile of player types.
 * $\phi_i(\theta_{-i}\mid \theta_i)$ - the belief of player $i$ with respect to the uncertainty over the other players' types. 
+* $\mu$ - a system of beliefs of an extensive form game.
 *****
 * $x$ - public alternative
 * $m(\theta)$ - monetary gain or loss given a certain type. 

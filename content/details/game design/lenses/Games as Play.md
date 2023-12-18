@@ -1,4 +1,4 @@
-* **Play** - pertains to the Experiential Systems of the game. It only occurs as players experience the [[Games as Rules|rules]] of the game in motion.
+* **Play** - pertains to the Experiential [[System Science|System]] of the game. It only occurs as players experience the [[Games as Rules|rules]] of the game in motion.
 * The structure of a digital game space always grows directly from the *formal system* that defines the game. However, the space that a player experiences is also a function of *representation* (how the space is displayed) and *interaction* (how the player navigates the space).
 * In understanding how games construct meaning, we are addressing the deeply felt ways that players engage with games and the emotional and social realities games reflect and construct.
 # What is Play?

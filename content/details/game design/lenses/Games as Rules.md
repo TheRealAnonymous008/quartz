@@ -17,7 +17,7 @@
 
 # Games as Formal Systems
 ### Emergent Systems
-* *[[Complex Systems|Emergence]] and Complexity  are crucial aspects of games since they are systems*. They allow the game to be more systemic and meaningful.
+* *[[Complex Systems|Emergence]] and Complexity  are crucial aspects of games since they are [[System Science|systems]]*. They allow the game to be more systemic and meaningful.
 * Complexity can arise unexpectedly from a handful of simple elements and rules. It is systematic order that emerges from the dynamic interactions of agents within an environment.
 	* We may be able to describe the rules of the game with simple statements, but *we can never determine how the game itself will play out*.
 * *In parts where meaningful play exist -- some aspect of the game system will be complex* 
@@ -85,16 +85,8 @@
 ### Cybernetic Systems
 * *Games are dynamic systems that change over time with their formal structures allowing these changes*. 
 * Games as cybernetic systems are based on the interaction of inputs and outputs with its internal mechanism.
-* *Games are systems that rely on feedback mechanisms*. The design of feedback mechanisms shape the tendencies of the game, the game balance, and the tendencies of players during play.
-	* **Positive feedback loops** create exponential growth or decline and lead to divergent behavior -- towards infinite expansion and snowballing.
-		* They tend to destabilize the game.
-		* They can end the game immediately 
-		* They magnify early successes
-	* **Negative feedback loops** maintain equilibrium, leading to adaptive or goal seeking behavior. 
-		* In play, players tend to be more or less on an even playing field.
-		* They tend to stabilize the game.
-		* They can prolong the game.
-		* They magnify late game successes.
+* *Games are systems that rely on feedback mechanisms*. The design of feedback [[Game Mechanics Design#Economy|mechanisms]] shape the tendencies of the game, the game balance, and the tendencies of players during play.
+
 * *Being composed of possibly multiple cybernetic systems, games are inherently complex*. 
 * In design, we should *play with the presence of negative and positive feedback loops*. 
 	* Feedback systems can emerge from your game systems by accident. 

@@ -33,3 +33,4 @@
 
 # Links
 * [Sacred-Texts](https://www.sacred-texts.com/gno/index.htm)
+* [[The Summa Theologica by Aquinas]]

@@ -1,4 +1,4 @@
-* **Culture** - pertains to games as Cultural systems which have a relationship, not just from [[Games as Rules|within]], but externally with the larger contexts in which they are played.
+* **Culture** - pertains to games as Cultural [[System Science|system]] which have a relationship, not just from [[Games as Rules|within]], but externally with the larger contexts in which they are played.
 * As [[Games as Play#Play of Meaning|representational systems]], *games reflect culture*. However, not all games manifest transformative, cultural play to transform culture.
 * *A game is a cultural environment because of the lusory attitude and the magic circle.*
 	* In a sense, all game experiences involve playing around with the distinction between thee game world and the rest of the world. *It is metacommunication about the act of play itself*

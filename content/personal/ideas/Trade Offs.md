@@ -15,7 +15,7 @@ A listing of common and interesting trade-offs that are noticeable in a variety 
 * *Applicable* in: Social Media influencers / Communities
 
 ### Freedom of Choice Trade-Off
-* The more degrees of freedom in a system, the more options one has at the cost of needing more effort to understand these options, which themselves might be confusing. Also, there are more avenues for errors.
+* The more degrees of freedom in a [[System Science|system]], the more options one has at the cost of needing more effort to understand these options, which themselves might be confusing. Also, there are more avenues for errors.
 * Conversely, the less options one has, the less flexible the system feels, but it is much easier to develop a cohesive structure for the system.
 
 ### The Paradox of Choice
