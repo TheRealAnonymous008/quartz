@@ -33,3 +33,4 @@
 * **Inversion of Control** - custom written portions of the code receive control flow from a generic framework. Control is inverted as it is the framework that is in control rather than the callee.
 # Links
 * [[Design Patterns Elements of Reusable Object-Oriented Software by Gamma, Helm, Johnson, and Vissides]]
+* [[Christopher Alexander]] - introduced the concept of design patterns but for architecture. 

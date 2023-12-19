@@ -85,7 +85,7 @@
 ### Cybernetic Systems
 * *Games are dynamic systems that change over time with their formal structures allowing these changes*. 
 * Games as cybernetic systems are based on the interaction of inputs and outputs with its internal mechanism.
-* *Games are systems that rely on feedback mechanisms*. The design of feedback [[Game Mechanics Design#Economy|mechanisms]] shape the tendencies of the game, the game balance, and the tendencies of players during play.
+* *Games are systems that rely on feedback mechanisms*. The design of feedback [[Game Economy|mechanisms]] shape the tendencies of the game, the game balance, and the tendencies of players during play.
 
 * *Being composed of possibly multiple cybernetic systems, games are inherently complex*. 
 * In design, we should *play with the presence of negative and positive feedback loops*. 

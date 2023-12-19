@@ -17,6 +17,7 @@
 * [[The Fundamentals of Game Design]]
 * [[Players and Why We Play Games]]
 * [[Lenses for Game Design - Notes]]
+* [[Game Mechanics Design]]
 * [[Level Design Principles]]
 * [[Puzzle]]
 

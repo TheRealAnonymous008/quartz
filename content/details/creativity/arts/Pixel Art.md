@@ -15,6 +15,7 @@
 		* Note: Maintain contrast between the base color and the outline to make it pop out of the background.
 * *Pixel art can be thought of as sculpting with color* - we assemble the forms through blobs of color.
 * [[Color Theory]] would be really helpful to apply. 
+* *No lone pixels*. Colors should occur in clusters (or in dithering).
 
 # Links
 * [[Make Your Own Pixel Art -- Create Graphics for Games, Animations, and More by Dawe and Humphries]]

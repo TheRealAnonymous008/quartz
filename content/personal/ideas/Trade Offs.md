@@ -57,3 +57,7 @@ A listing of common and interesting trade-offs that are noticeable in a variety 
 * Simplicity is pleasing to the eyes, but too much makes the subject feel boring or bland.
 * Dynamicity is pleasing to the eyes, but too much makes the subject feel confusing or jarring.
 * [Boredom is good for ideation](https://www.youtube.com/watch?v=aEU948cm2k8). In fact, [[Information Hazards#Distraction and Temptation Hazards|overstimulation can be considered a hazard]]
+
+### Social Surplus vs Personal Utility Tradeoff 
+* An approach to achieving [[Game Theory - Strategy|social surplus]] (i.e., an outcome that benefits society as a whole) may require sacrificing the personal utility of its individuals. In the end, Pareto optimality may leave some people unhappy. 
+* Conversely, following simple [[Game Theory|rational behavior]] may result in happy individuals but a society that is no-better off. 

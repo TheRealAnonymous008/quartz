@@ -13,7 +13,7 @@
 	* We assume **Independent Private Values**, that is, types are sampled independently from the type distribution
 
 ## Second-Price Sealed Bid
-* (*Tadelis 13.1*) In the second-price sealed bid auction, each player has a weakly dominant strategy, which is to bid his true valuation. That is $s_i(\theta_i)=\theta_i$ is a Bayesian Nash Equilibrium in weakly dominant strategies. 
+* (*Tadelis 13.1*) In the second-price sealed bid auction, each player has a [[Static Games of Complete Information#Weak Dominance|weakly dominant strategy]] which is to bid his true valuation. That is $s_i(\theta_i)=\theta_i$ is a Bayesian Nash Equilibrium in weakly dominant strategies. 
 	* *Intuition*: It is never worse to bid your true valuation and it's also strictly better. 
 		* This is because even if you win, you don't have to pay your bidding price 
 		* And if you bid something lower than your bidding price, either you could've win by bidding the maximum amount (i.e., $\theta_i$) or you would still have lost (in which case there is no difference).

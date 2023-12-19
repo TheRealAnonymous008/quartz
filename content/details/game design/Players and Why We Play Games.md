@@ -3,7 +3,7 @@
 * **Alea** - chance based play. All games that are based on a decision independent of the player.
 * **Mimicry** - role playing and make-believe play. One becomes an illusory character. The play of representation
 * **Ilinx** - playing with the physical sensation, with the goal of momentarily destroying the stability of perception.
-* **Paida** - wild, free-from improvisational play. 
+* **Paida** - wild, free-form improvisational play. 
 * **Ludus** - rule bound, regulated formalized play.
 
 # Leblanc's Typology of Fun 

@@ -37,56 +37,7 @@
 * However, *physics also implicitly lends itself to discrete mechanics*. In particular, by allowing the players to formulate a strategy that can be described without knowledge of the underlying physical computations.
 * *It is hard to innovate with physics mechanics*. 
 
-## Economy 
-* An economy consists of a set of basic elements 
-	* **Resources** - any concept that can be measured numerically. Anything that the players can produce, gather, collect or destroy. 
-		* **Tangible resources** - have physical properties in the game world. They exist in a particular location and have to be moved somewhere else. 
-		* **Intangible resources** - have no physical properties in the game world. They do not occupy a space or exist in a particular location. These are just numbers.
-		* **Abstract resources** - do not really exist in game but are computed from the current state of the game (i.e., a strategic advantage). They are mainly used for internal computation.
-		* **Concrete resources** - really do exist in the game which the players can experience or interact with. 
-	* **Entities** - where specific quantities of a resource are stored (i.e., a [[Programming|variable]]). 
-		* **Simple entities** - store only one value. 
-		* **Compound entities** - groups of related simple entities called attributes. 
-	* **Economic functions** - functions that affect resources that move them around. 
-		* **Sources** - mechanics that, under certain conditions, create new resources out of nothing and store them in an entity
-		* **Drains** - mechanics that, under certain conditions, take resources out of the game, reducing the amount stored in an entity. 
-		* **Converters** - mechanics that turn resources from one kind to another (destroying one and creating another)
-		* **Traders** - mechanics that move a resource from one entity to another, and another resource back in the opposite direction according to an exchange rules. 
-		* Sources and drains share similar properties:
-			* They may be triggered by events in the game, or may operate continuously based on a production or consumption rate. 
-			* They may also be toggled on or off
-
-* *The economy of a game (in particular the dynamics of a particular resources) can be plotted over time* to visualize it better and to discover underlying patterns .
-	* **Negative Feedback** - used to create *stability* in a dynamic systems. It creates equilibrium where the system stabilizes towards. The equilibrium is not necessarily fixed.
-		* It can create a dynamic equilibrium when it is fed the difference of resources (i.e., one resource will end up compensating for the lack of another).  This allows for balancing as well. 
-		* It can also allow for rubberbanding where players are neither too far ahead or too far behind, creating excitement. 
-		* In play, players tend to be more or less on an even playing field.
-		* They can prolong the game.
-		* They magnify late game successes.
-		* It leads to adaptive or goal seeking behavior. 
-	* **Positive Feedback** -  used to create an *arms race*. It is characterized by an exponential curve in the economy. 
-		* They can also be used to create deadlocks and mutual dependencies between resources. 
-		* They can also be used to make a player win or lose quickly once a critical difference is created. 
-		* They tend to destabilize the game.
-		* They magnify early successes via snowballing.
-	* *It is important to consider how short term investments on a particular resources can impact gameplay in the long term.* 
-
-* Economies can be integrated in the game in a variety of ways. 
-	* *Use it to complement physics* (skillfully performing physical actions gives you a resource). The physics system may also invoke risk and reward for the player. 
-	* *Use it to influence progression*. Acquiring or removing certain resources may facilitate further progress into the game level or introduce new opportunities for exploration. 
-		* Just make sure to not cause a deadlock in this case by making the resources required for progression immediately available. 
-	* *Use it to add strategic gameplay*. Economies allow for reward planning and long-term investments.  Complex economies can sustain complex strategic behaviors. 
-	* *Use it to create a large possibility space*. More complex economies lend themselves to larger posssibility spaces and more replay value.  Keep in mind the following 
-		* If a particular combination of items and skills is more efficient than others, *players will choose only that option* and the economy will be thrown off balance. 
-		* You have to be sure that the *possibility space is large enough* that player does not end up exploring it entirely in one play session.
-			* Consider having choices that exclude each other to make them feel like they have real consequences. 
-		* Design the levels in such a way that players *can use different strategies* to complete them. 
-
-* Some tips for making games where the player builds an economy and keep the complexity under control 
-	* Don't introduce all the player's building blocks at once. *Gently introduce players to the different game elements*. Lock advanced elements behind progression mechanics. 
-	* *Be aware of the meta-economic structure.* Keep in mind that certain approaches are better than others. 
-		* One way to balance this is to make structures that are effective in the early game be less effective in the late game.  Use slow-working, destructive positive feedback. 
-	* Use maps to produce variety and constrain the possibility space.
+## [[Game Economy]]
 
 ## Mechanics of Emergence 
 * [[Complex Systems|Emergence]] allows designers to create games which offers more player opportunities. 
@@ -106,8 +57,16 @@
 * One challenge is **railroading** where a player feels like they are guided through the game instead of making their own choices. *Balancing between offering and restricting freedom is necessary*
 * They typically have many rules but they do not interact with each other as much.
 
+## Randomness 
+* Randomness has an impact on the game's balance. 
+* The *impact* of randomness is related to the [[Random Variables and Probability Distributions|distribution]] of random numbers created. 
+* Aim for random mechanics that operate frequently but have low impact. In the long run, the odds even out. 
+* Randomness can be a useful strategy 
+	* It can force players to improvise (assuming the playing field remains fair). The deciding factor becomes the ability to prepare and adapt. 
+	* It can counter [[Static Games of Complete Information#Strict Dominance|dominant strategies]]. 
 # Links 
 * [[Game Mechanics -- Advanced Game Design by Adams and Dormans]]
+	* Ch. 5-6 covers the Machination framework in detail. 
 
 * [[Games as Rules]]
 * [[Lenses for the Game]]
