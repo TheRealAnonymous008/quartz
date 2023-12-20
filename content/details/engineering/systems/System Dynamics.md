@@ -47,7 +47,9 @@
 * *The information delivered by a feedback loop -- even nonphysical feedback, can only affect future behavior.* It can't deliver a signal fast enough to correct behavior that drove the current feedback. Even nonphysical information takes time to feedback into the system. 
 	* *There will always be a delay in responding*. 
 	* A flow will not react instantly to a flow, it will react only to a change in stock and only after a delay in registering the incoming information. 
-	* Changes in the delay may (or may not depending on its type and the relative lengths of other delays) make a large change in the behavior of the system. 
+	* Changes in the delay may (or may not depending on its type and the relative lengths of other delays) make a large change in the behavior of the system.
+		* Delays that are too short cause overreaction and amplified oscillations. 
+		* Delays that are too long cause damped, sustained or exploding oscillations. This can destabilize the system and cause it to collapse. 
 
 * *A stock maintaining-balancing feedback loop must have its goal set appropriately to compensate for draining or inflowing processes that affect the stock*. Otherwise, the feedback process will fall short of or exceed the target for the stock. 
 * *A delay in a balancing feedback loop makes the system likely to oscillate*. 

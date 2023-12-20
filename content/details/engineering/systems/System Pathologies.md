@@ -1,4 +1,3 @@
-# Pathologies 
 * Pathologies in a [[System Dynamics|system]] arise due to how [[Properties of Systems#Systems as Models|surprising]] systems tend to be.
 
 * **Policy Resistance**  - *when various actors try to pull a system stock towards various goals*. Any new policy, especially if it is effective  just pulls the stock farther from the goals of other actors, and produces additional resistance, with a result that no one likes, but that everyone expends considerable effort in maintaining. 
@@ -76,22 +75,8 @@
 	* The remedy is to design the appropriate goals. 
 		* A common problem that leads to seeking the wrong goal is mistaking effort for results. 
 
-# Opportunities 
-* To make effective use of a system, we must identify the structure that leads to the problem and guess where we can make a small but meaningful change. 
-* *Remember that we want to aim for the right goals* and [[Complex Systems]] often give counterintuitive results. 
 
-* We can examine the following leverage points which we can examine and experiment with. These are ordered in terms of increasing power and increasing difficulty. 
-	* *Numbers* - constants and parameters involved in the system 
-		* Changes in variables are rarely meaningful because they do not change the system behavior in a significant way. 
-		* Parameters become leverage points when they kick off stronger leverage points.
-	* *Buffers* - the sizes of stabilizing stocks relative to their flows
-		* Systems can become more stable with increased buffers. 
-		* But, bigger buffers mean the system reacts too slowly or has increased upkeep cost. 
-		* Buffers are usually not easy to change. 
-	* *Stock-and-flow-structures* - Physical systems and their interactions 
-		* Like buffers, changing these physical structures is a slow, complex process. 
-		* The leverage comes in proper design and understanding of the limitations and usage of the design
-	* *Delays* - the lengths of time relative to the rates of system changes 
 # Links 
-* [[Thinking in Systems by Meadows|Meadows]] - Ch. 5 - 6
-* [[Dynamic Games of Complete Information]] - more examples. b
+* [[Thinking in Systems by Meadows|Meadows]] - Ch. 5 -
+* [[Dynamic Games of Complete Information]] - more examples.
+* [[System Opportunities]] - ways to fix these pathologies

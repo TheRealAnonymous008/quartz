@@ -51,6 +51,30 @@
 # Signs 
 * The **signary** pertains to the complete inventory of the basic signs of a given writing system. 
 ## Words 
+* Words are the typical units of lexicology and lexicography. They are meaningful and can stand alone as a complete utterance.
+	* Words have *positional mobility*. They can be taken out of context and arranged in lists. 
+* However, what constitutes a word is highly debatable and not universal across other languages.
+* The structural make-up of words depends on typological characteristics of languages.
+	* In **isolating languages** words are invariant in that they do not undergo regular formal alterations that serve grammatical functions 
+	* In **inflecting languages** words are changed to express grammatical relationships.
+	* In **agglutinating languages** words are built up out of units expressing grammatical relations.
+	* In **polysynthetic languages** it is difficult to distinguish words from other linguistic entities such as clauses and sentences. 
+
+* The orthographic word is the *unit bounded by spaces in the written languages*. The phonological word is *the corresponding unit for speech*. 
+* Words are not based on prior explicit linguistic knowledge. That is, *they came as written signs interpreted as words* which were then recognized as operational units of the writing system. 
+
+* **Logographic Writing** - writing where the basic functional units are interpreted as words. 
+	* **Sumerian** 
+		* The beginning of Sumerian writing were pictures of objects in addition to geometrical forms (that came about as a result of stamping on the clay tablet)
+		* The referents of the signs in the language are physical objects, but often they are inconsistent (a sign could refer to a bull, its horns, or just cattle in general)
+		* Later developments included replacing curved lines with a series of short strokes, and the loss of the pictorial quality due to developing routines in writing.
+		* In this case, recognition became based on discrimination from one sign to another.  The signs became more differentiated. Signs are made such that they are not confused from one another. 
+		* More complex signs were formed by combining existing signs. 
+		* The signs also acquired multiple readings which meant that reading became more difficult and supplementary signs were added for disambiguation.
+
+* **Rebus writing** - Loss of the pictorial quality of the signs facilitated their transfer to semantically unrelated words
+
+* **Ideographic Writing** - the basic functional unit is interpreted as an idea and meaning
 
 ## Syllables 
 
