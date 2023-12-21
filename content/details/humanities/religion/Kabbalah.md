@@ -3,6 +3,7 @@
 	* Since the root of the Sefirot is Keter / Nothingness, the goal of Kabbalah is to expand human consciousness to the point of pure thought -- undifferentiated nothingess.
 * Related are the Christian Cabalah and the Hermetic Qabalah, although these are related to Jewish Kabbalah.
 * The framework of the Kabbalah relies on the symbolic -- on interpretation of things. At the same time, its structures such as the Tree of Life applies to both the Macro scale of God and the Universe, and the micro scale in the realm of man. *This gives the Kabbalah flexibility for creativity*
+* Hebrew is given power as the [[Linguistics|language]] of God that He used to create everything. Hence even its [[Orthography]] is examined during meditation. 
 # Aspects of Kabbalah
 * The *Practical Kabbalah* concerns itself with spiritual exercises and ceremonies.
 * The *Literal Kabbalah* concerns itself with alphabet mysticism via

@@ -1,4 +1,5 @@
-# Papers
+# Papers 
+* [A Typology of Imperative Game Goals](https://gamestudies.org/2003/articles/debus_zagal_cardonarivera)
 
 # Future Readings
 * [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
@@ -18,7 +19,6 @@
 * The Advantage by Patrick Lencioni
 * One Page Design by Stone Librande
 # Interesting Topics
-
 * [Double Speak](https://www.youtube.com/watch?v=qP07oyFTRXc)
 * Geometric Deep Learning
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)

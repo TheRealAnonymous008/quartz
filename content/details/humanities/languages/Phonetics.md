@@ -72,6 +72,8 @@
 * The distribution of phonemes for a language can be defined to create phonetic rules on the sounds that are possible within the language.
 * In fact, generalizations made by phonetic rules can cover for variations due to [[Morphology|allomorphs]].
 
+* **Moraic Structures** - phonological time is broken into equal lengths, **mora** rather than into long and short syllables .
+
 # Links
 * [Place of Articulation Wikipedia Page](https://en.wikipedia.org/wiki/Place_of_articulation)
 * [Manner of Articulation Wikipedia Page](https://en.wikipedia.org/wiki/Manner_of_articulation)

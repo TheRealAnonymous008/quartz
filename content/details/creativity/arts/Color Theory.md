@@ -4,6 +4,8 @@
 	* **Tint** is another related quality. It is the color obtained when white is added to the color.
 * **Value** - pertains to how light or dark the color is  
 
+* Another way to desaturate is to mix in the complementary color. 
+
 ## Palette / Schemes 
 * **Analogous** - directly next to each other in the color wheel. The colors farther away from the primary color have increased saturation. 
 	* Typically creates a softer design with less contrast. 
@@ -32,3 +34,5 @@
 * [How I pick Colours by Bluebiscuits](https://www.youtube.com/watch?v=F0jcPx5VXos)
 * [How to Pick Colours for Your Art by Winged Canvas](https://www.youtube.com/watch?v=C8u9iaYwAN8)
 * [Color Theory 101](https://blog.hubspot.com/marketing/color-theory-design#color-theory-101)
+
+* [Practical Color Theory](http://tallys.github.io/color-theory/)
