@@ -2,6 +2,7 @@
 * Patterns can be **elaborated** that is, made more complex to add more complexity and meaningfulness to the game.  
 * Additionally, patterns can be **simplified** to either understand the complex design better or to remove unwanted  complexity entirely (especially for mechanics that are not the focus) 
 * *The goal of these design patterns is to understand gameplay mechanics, and in particular what can make them interesting*. 
+* These design patterns can be applied both in the micro and macro scale. 
 ## Engines 
 * Generate resources that may be required by other mechanisms in the game. It represents gain.
 

@@ -5,7 +5,8 @@
 	* A manifestation of this -- there is a correlation between when a suicide's publication and the number of fatal accidents (i.e., the drivers were copycats)
 # Topics
 * [[Human Biases]]
-
 * [[Thinking Fast And Slow]]
+
 * [[The Characters (Theophrastus)]]
+* [[Jungian Archetypal Characters]]
 * [[Persuasion]]

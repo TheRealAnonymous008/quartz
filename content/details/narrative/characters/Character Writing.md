@@ -83,6 +83,9 @@
 # Topics 
 * [[Writing Groups of Interest]]
 * [[Character Design]]
+* [[The Characters (Theophrastus)]] - a listing of character archetypes 
+* [[Jungian Archetypal Characters]] - another listing of character archetypes.
+
 
 # Links
 * [[details/narrative/plot/Story by Robert McKee|Story by Robert McKee]]
@@ -90,3 +93,5 @@
 	* Ch. 7 - discusses the role of the Protagonist. 
 	* Ch. 14 - includes discussions on Contrary, Contradictory, and Negation of Negation
 	* Ch. 17 - discusses Characters.
+
+* [[Psychology]] - studying psychological principles lets us make more complex life-like characters. 

@@ -67,7 +67,9 @@
 # Links 
 * [[Game Mechanics -- Advanced Game Design by Adams and Dormans]]
 	* Ch. 5-6 covers the Machination framework in detail. 
+	* Ch. 9 - covers an example of designing an internal economy.
 
 * [[Games as Rules]]
 * [[Lenses for the Game]]
 * [[Models for Game Rules]]
+* [[Game Balancing]]
