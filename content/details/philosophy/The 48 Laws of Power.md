@@ -416,3 +416,4 @@
 * [[48 Laws of Power by Robert Greene]]
 
 * [[Persuasion]] - these techniques are crucial for power.
+* [[Doublespeak]]

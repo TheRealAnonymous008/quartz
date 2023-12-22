@@ -1,0 +1,28 @@
+> **Doublespeak** is the language that pretends to communicate but really doesn’t. It is language that makes the bad seem good, the negative appear positive, the unpleasant appear attractive or at least tolerable. Doublespeak is language that avoids or shifts responsibility, language that is at variance with its real or purported meaning. It is language that conceals or prevents thought; rather than extending thought, doublespeak limits it.
+
+* There must be *incongruity between what is said (or unsaid) and what really is*.  Be as indirect, vague and obscure as possible. Avoid responsibility. 
+
+* Ask who is saying what to whom, under what circumstances, with what intent, and with what results. 
+* *Doublespeak is not just limited in the political real, it can be found everywhere*.  It is not accidental, but rather used intentionally to mislead.
+
+* Closely related is [[1984|doublethink]] - the ability to hold two opposing thoughts at the same time and believe both of them. 
+# Kinds of Doublespeak 
+* **Euphemism***  - an inoffensive or positive word or phrase to avoid an undesirable reality with the intent of diverting attention from said reality.
+
+* **Jargon** - the specialized language of a trade, profession or similar group with the intent to give an air of profundity, authority and prestige to speakers and their subject matter. This becomes even more apparent when the audience is not in the group that uses the jargon. 
+
+* **Gobbledygook / Bureaucratese** - a matter of piling on words with the intent to overwhelm the audience with words. Bigger words and longer sentences are better. 
+
+* **Inflated Language** - language designed to make the ordinary seem extraordinary; to give an air of importance to something that would not normally be considered important. 
+
+# The Dangers 
+* Doublespeak is arguably an [[Information Hazards|infohazard]]
+* It corrupts the perception of reality, and thinking. It breeds cynicism, suspicion and hostility. 
+* It destroys the function of language as a tool for communication. 
+
+* If we really believe that we understand such language and that such language communicates and promotes clear thought, then we become closer to doublethink. 
+# Links 
+* [[Doublespeak From Revenue Enhancement to Terminal Living -- How Government, Business, Advertisers, and Others Use Language to Deceive you by Lutz]]
+	* Ch. 1 - contains examples from the context of the military, businesses, education, politics, and some deadly examples.
+
+* [[Linguistics]] 

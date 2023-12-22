@@ -88,7 +88,7 @@
 ### Information Burying Hazard
 * Irrelevant information can make relevant information harder to find, thereby increasing search costs for agents with limited computational resources.
 * *Example*: Cryptography. 
-* *Example*: Legalese. Doublespeak
+* *Example*: Legalese. [[Doublespeak]]
 
 ## Risks to Valuable States and Activities
 ### Psychological Reaction Hazard

@@ -5,6 +5,7 @@
 * [[Junji Ito's Works]]
 * [[Moby Dick]]
 * [[The Stranger]]
+* [[1984]]
 
 # Non-Fiction
 * [[The 48 Laws of Power]]

@@ -9,4 +9,6 @@
 
 * [[The Characters (Theophrastus)]]
 * [[Jungian Archetypal Characters]]
+* [[Enneagram of Personality]]
+
 * [[Persuasion]]

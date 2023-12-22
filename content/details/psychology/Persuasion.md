@@ -1,6 +1,6 @@
 * Those who don’t know how to get people to say yes soon fall away; those who do, stay and flourish.
 * The principles under [[#Automatic Influence]] give [[The 48 Laws of Power]] more bite.
-
+* Use [[Doublespeak]]
 # Automatic Influence 
 * There are three components to automatic influence
 	* [[Thinking Fast And Slow|System 1]] is easy to fool, especially when it runs on preprogrammed mental shortcuts and when it runs with its own [[False Priors and Extension Neglect|stereotypes]] and [[Human Biases|biases]]. 
