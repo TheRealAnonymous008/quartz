@@ -1,6 +1,9 @@
 * A good design starts with a great **silhouette**. This makes the art more recognizable.
 * A general principle: Break down the desired object into simpler shapes -- cones, spheres, and cubes.
 
+* *Pixel art can be thought of as sculpting with color* - we assemble the forms through blobs of color.
+	* That said sometimes it is more convenient to start with a rough 1px outline
+
 # Lines and Curves 
 * *To achieve smooth curves:* 
 	* Vary the lengths of the segments in a continuous manner. This prevents Jaggies 
@@ -27,9 +30,9 @@
 	* Having a border makes the object pop.
 	* Imperfect outlines look more natural. Achieve this by *selective coloring for different parts*.
 		* Note: Maintain contrast between the base color and the outline to make it pop out of the background.
-* *Pixel art can be thought of as sculpting with color* - we assemble the forms through blobs of color.
 * [[Color Theory]] would be really helpful to apply. 
 * *No lone pixels*. Colors should occur in clusters (or in dithering).
+	* *Exception*: Lone Pixels can add more detail. 
 
 # Texturing 
 * The following principles apply (from [Sylnyrd](https://www.slynyrd.com/blog/2018/2/15/pixelblog-2-texture)) 
@@ -40,10 +43,14 @@
 * *Contrast* - vary the texture at interesting points to highlight areas. This also helps guide the audience's eyes so that the work doesn't feel cluttered
 * *Avoid orphan pixels* - the exception is if they are not obviously floating alone. 
 
+* Use dithering 
+
 # Links
 * [[Make Your Own Pixel Art -- Create Graphics for Games, Animations, and More by Dawe and Humphries]]
 * [Lines and Curves](https://opengameart.org/content/chapter-2-lines-and-curves)
+
 * [Pixelblog by Slynyrd](https://www.slynyrd.com/pixelblog-catalogue) 
+* [StudioMiniBoss Pixel Art](https://blog.studiominiboss.com/pixelart)
 
 * [[Creativity]]
 * [[Illuminating Rendered Objects]] - more on principles for shading.
