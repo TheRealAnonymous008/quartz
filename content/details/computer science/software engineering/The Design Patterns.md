@@ -6,6 +6,7 @@
 * [[Abstract Factory]]
 * [[Builder]]
 * [[Factory Method]]
+* [[Object Pool]]
 * [[Prototype]]
 * [[Singleton]]
 ## Structural Patterns
