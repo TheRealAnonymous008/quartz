@@ -49,7 +49,23 @@
 * A profile of strategies $\sigma^\ast$ and a system of beliefs $\mu^\ast$ is a **sequential equilibrium** if $(\sigma^\ast, \mu^\ast)$ is a consistent perfect Bayesian equilibrium.
 
 # Signaling Games 
+* Games which feature the following:
+	* Nature chooses a type for player $i$ that the other players do no not know but cares about (as common values)
+	* Player $i$ has a rich action set in the sense there are at least as many actions as types and each action imposes a different cost on each type.
+	* Player $i$ chooses an action first and the other players respond by observing the choice.
+	* Given the other players' belief about player $i$'s strategy, the other players update their beliefs after observing player $i$'s choice. The other players then make their choice as a best response to the updated beliefs . 
+* *The other players learn the type of player $i$ through their actions*. 
 
+* These games have two classes of perfect Bayesian equilibria 
+	* **Pooling equilibria** - all types of player $i$ choose the same action, revealing nothing to other players.
+		* The opponents have beliefs about all the information sets. 
+		* A sequentially rational strategy of the opponent given their beliefs prevents player $i$ from deviating from the pooling strategy. 
+	* **Separating equilibria** - each type of player $i$ chooses a different action, revealing the type in equilibrium to the other players. 
+		* The opponent must have beliefs about the actions of the other types (in those that are off equilibrium) 
+		* A sequentially rational strategy of the opponent supports the separating strategy. 
+	* **Semi-Separating / Hybrid equilibria** - different types choose mixed strategies. 
+		* Some information sets that belong to the uninformed player can be reached by different types with different probabilities. 
+		* The opponent can learn something about the player but cannot always infer exactly which type they are. 
 
 # Links 
 * [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 16 - 18]]
