@@ -80,3 +80,5 @@
 * $x(\theta)$ - a decision rule on the public alternative. 
 * $u_i(x,\theta_i)$ - the monetary equivalent of public alternative $x$ for player $i$ of type $\theta_i$. 
 * $Y$ - the set of outcomes in a mechanism design problem
+*****
+* $\text{BR}_j(\hat{\Theta}, a_i)$ - the best response actions of player $j$ given that player $i$ has chosen $a_i$ and where belief $\mu$ assigns positive probability only to types in the set $\hat\Theta$ in a signaling game.

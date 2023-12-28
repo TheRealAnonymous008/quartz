@@ -67,6 +67,55 @@
 		* Some information sets that belong to the uninformed player can be reached by different types with different probabilities. 
 		* The opponent can learn something about the player but cannot always infer exactly which type they are. 
 
+* For advantaged types to be able to separate themselves credibly from disadvantaged types there must be some signaling action that costs less for the advantaged types than it does for the disadvantaged types
+
+* The **intuitive criterion** is a logical process defined as follows. For any given set of beliefs of the other players, player $i$ (who only has private information) can use their actions to send a message to this player in the spirit of *only an $x$ type would benefit from this move, therefore I am an $x$ type*. 
+	* Take a perfect Bayesian equilibrium. If it does not survive the intuitive criterion, then it is ruled out. 
+
+* More formally, consider a signaling game where player $i$ has private information $\theta\in \Theta$ and chooses actions $a_i\in A_i$ in the first period, after which player $j$ observes their action, forms a posterior belief over player $i$'s type and then chooses $a_j\in A_j$. 
+	
+	Let $\hat\Theta\subset \Theta$ be a subset of player $i$'s types. 
+	Let $\text{BR}_j(\hat\Theta, a_i)$ be the set of  best response actions of player $j$ given that player $i$ has chosen $a_i$ and where belief $\mu$ assigns positive probability only to types in the set $\hat\Theta$ in a signaling game. 
+	
+	We have that 
+	$$
+	\text{BR}_j (\Theta,a_i)= \bigcup_{\mu\in \Delta(\Theta)} \underset{a_j\in A_j}{\text{argmax}} \sum_{\theta \in \hat{\Theta}} v_j(a_i,a_j \ ; \theta) \ \mu (\theta)
+	$$
+
+* A perfect Bayesian equilibrium $\theta^\ast$ **fails the intuitive criterion** if there exists $a_i\in A_i,\theta\in\Theta, \hat{\Theta}\subset \Theta$ such that 
+	* $v_1 (\sigma^\ast; \theta) > \underset{a_2\in \text{BR}_2(\Theta,a_i)}{\text{max}} v_i(a_i,a_j \ \theta)$  $\forall \theta\in\hat{\Theta}$. That is, *any type in the subset $\hat{\Theta}$ would never choose to player $a_i$* because regardless of player $j$'s beliefs, he would do worse than if they stuck to equilibrium
+	* $v_1 (\sigma^\ast; \theta) < \underset{a_2\in \text{BR}_2(\Theta-\hat{\Theta},a_i)}{\text{max}} v_i(a_i,a_j \ \theta)$. That is, *type $\theta$ will do better than the equilibrium by playing $a_i$ if they can properly signal*  -- they can convince player $j$ has their type is not $\hat{\Theta}$. 
+
+# Reputation 
+* If there is even just a little bit of incomplete information about the players’ types then for a long enough horizon of $T$ periods there can actually be quite a lot of cooperation.
+* Consider the **Iterated Prisoner's Dilemma** where Player $1$ is one of two types -- strategic or grim-trigger. The grim trigger type will initially cooperate and continue to do so until the other player defects.  Let  $p$ denote the probability Nature chooses player $1$ to be the grim trigger type. 
+* (*Tadelis 17.1*) Consider a $T$-period iterated Prisoner's Dilemma game in which $T$ is large. The number of periods in which either player $2$ or the strategic player $1$ defects is bounded above by a constant $M<T$ dependent on $p$ and not on $T$.
+
+* In equilibrium models, players are, by definition, never fooled. However, if there is incomplete information, then *players will have rational uncertainty about whether players they face are set in their ways.*
+	* Rational uncertainty can also be exploited by the players by mixing their strategies. 
+	* This *gives rise to reputational incentive* since players can imitate behavioral types and trade-off short term benefit and optimality for long-term benefits. 
+	* *This counteracts the grim trigger strategy*, especially when there is incomplete information and reputational incentives. This applies even with finite dynamic games.
+
+# Information Transmission Games 
+* Similar to [[#Signaling Games]], an **information transmission game** is one where player $i$ has private information and the payoffs exhibit common values so that all players depend on player $i$'s private information. However, *player $i$'s action is a message with no direct effect on payoff*.
+* One player is referred to as the sender, and the other as the receiver. Game proceeds as follows 
+	* Nature selects a type for the sender $\theta\in \Theta$ from common knowledge distribution $p$
+	* Sender learns $\theta$ and chooses some message action $a_i\in A_i$ 
+	* Receiver observes message $a_j$ and chooses $a_j\in A_j$ 
+	* Payoffs $v_i(a_j,\theta)$ and $v_j(a_i,\theta)$ are realized.
+
+* The inherent conflict of interest between the players will put *limits on how much information the informed player can credibly communicate* to the uninformed player in equilibrium.
+* There are three key insights 
+	* A fully truthful equilibrium (where the sender tells the truth) never exists 
+	* A **babbling equilibrium** always exists, where the sender's message reveals no information and the receiver chooses an action to maximize their expected utility given their prior beliefs [^1]
+	* If the sender's bias is not too large, then some information can be truthfully revealed in equilibrium. The small bias, rooted in the sender's personal interests, reduces the payoff gap in the receiver's choices.
+
+* If the sender's information space is very large, then even a small amount of bias between their preferences and the receiver's preferences will result in some information not being revealed.
+
+[^1]: So in Bayes' rule, the likelihood is set to $0$. We do not update our priors.
 # Links 
-* [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 16 - 18]]
+* [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 15 - 18]]
+	* Ch. 16 - more on signaling games 
+	* Ch. 17 - more on building reputation (such as via the Iterated Prisoner's dilemma, Bargaining and the Centipede Game)
+	* Ch. 18 - more on the application of cheap talk games to legislative organization.
 * [[Game Theory - Strategy]]
