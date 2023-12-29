@@ -28,9 +28,15 @@ A broad listing of all the topics that I have made notes on. You can find more a
 </div>
 
 <div class="custom-index-card">
+	<a href="/details/economics">Economics</a>
+	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
+	<div class="custom-index-title"><span>E</span><span>Economics</span></div>
+</div>
+
+<div class="custom-index-card">
 	<a href="/details/engineering">Engineering</a>
 	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
-	<div class="custom-index-title"><span>C</span><span>Engineering</span></div>
+	<div class="custom-index-title"><span>E</span><span>Engineering</span></div>
 </div>
 
 <div class="custom-index-card">

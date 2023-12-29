@@ -3,4 +3,6 @@
 # Links
 * [[Creativity]]
 * [[Perspective Drawing]]
+* [[Anatomical Drawing]]
 * [[Pixel Art]]
+* [[Vector Art]]
