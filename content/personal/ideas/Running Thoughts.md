@@ -11,6 +11,8 @@
 
 * AI Song covers using someone's voice show you the potential of that person's voice. 
 
+* Models describe the world, even in a way that regular people may not be able to articulate but still subconsciously perform and experience. 
+
 # Trivia
 * The toxicology hypothesis -- Vomiting while motion sick can be traced back to the same sensors for motion sickness being associated with detecting if we are poisoned (since this also causes nausea). Hence, the response is to throw up the poisoned food.
 

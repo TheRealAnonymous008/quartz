@@ -15,6 +15,27 @@
 
 * **Inflated Language** - language designed to make the ordinary seem extraordinary; to give an air of importance to something that would not normally be considered important. 
 
+* Quantifying something augments doublespeak and makes it sound more realistic. 
+
+## Advertisement 
+* Advertising provides great examples for doublespeak 
+* It doesn't matter whether people believe what they see. What is important is that they absorb what they see and hear. What is seen in media becomes the norm against which everything else in society is measured. 
+* *Advertisers use weasel words* to better sell products. 
+
+| Word         | Actual Meaning                                                       | Weasel's meaning                                                                                                              |
+| ------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Help         | To aid or assist                                                     | To conquer, stop, eliminate, solve, heal or cure.                                                                             |
+| Virtually    | In essence, in effect but not in fact                                | Used to make a specific and definite promise                                                                                  |
+| New          | A product is new if there has been a material change to the product. | What constitutes a (novel) material change is defined by the manufacturer.                                                    |
+| Improved     | Made better                                                          | Changed or different from before (even if the change is trivial)                                                              |
+| Acts / Works | Does something                                                       | Does something meaningful based on how it is qualified. For example, acts fast.                                               |
+| Like         | Similar to                                                           | Used to misdirect. It gets the audience to ignore the product and concentrate on the claim the advertiser is making about it. |
+| Up to        | Bounded to an upper limit. It could be ideal but more often is not.  | An ideal situation                                                                                                            |
+| Can be       | The item may perform something                                       | The item will perform something                                                                                               |
+| Unfinished words              |                                                                      | For example, "up to twice as long". It exploits the audience's ability to finish the sentence, usually manipulated so that the audience finishes it as the advertisers intended                                                                                                                              |
+
+* Any word that has no objective meaning is also a weasel word. 
+* *Every word in an ad is there for a reason*. Your job is to figure out exactly what each word is doing -- what they really mean and not what the advertiser wants you to think it means.
 # The Dangers 
 * Doublespeak is arguably an [[Information Hazards|infohazard]]
 * It corrupts the perception of reality, and thinking. It breeds cynicism, suspicion and hostility. 
@@ -24,5 +45,8 @@
 # Links 
 * [[Doublespeak From Revenue Enhancement to Terminal Living -- How Government, Business, Advertisers, and Others Use Language to Deceive you by Lutz]]
 	* Ch. 1 - contains examples from the context of the military, businesses, education, politics, and some deadly examples.
+	* Ch. 2 - contains examples from everyday life.
+	* Ch. 3 - contains examples from advertising.
 
 * [[Linguistics]] 
+* [[How To Lie With Statistics by Huff]]

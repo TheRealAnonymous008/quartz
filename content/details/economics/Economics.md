@@ -5,6 +5,7 @@
 		* **Specialization** of workers on tasks they are well suited for, which makes them more effective.
 		* Specialization leads to a [[System Dynamics|feedback loop]] where workers learn to produce more quickly and with higher quality. This also leads to **innovation**.
 		* Specialization takes advantage of **economies of scale** where as production increases, the average cost of production for each individual unit decreases. 
+	* *This necessitates trade* because each individual specializes and must exchange their services for other needs that they are unable to produce. 
 
 [^1]: According to Adam Smith 
 
@@ -13,9 +14,19 @@
 
 [^2]: From John Maynard Keynes
 
+* A simple economic model is the **Circular Flow Model**
+![[Circular Flow Diagram.png|300]]
+<figcaption> Circular Flow Model. Taken from Shapiro, MacDonald and Greenlaw</figcaption>
 
-# Unfiled
-* Markets allocate goods to the people who value them the most, under the assumption that the value of the good is easily understood by all market participants. 
+* Economies can be organized into different ways.
+	* **Traditional** - what you produce is what you consume. It is driven by tradition and there is little economic progress or development
+	* **Command** - economic effort is devoted to goals passed down from the government, which dictates what gets produced and what gets consumed. 
+	* **Markets** - decision making is decentralized and is based on **markets** -- institutions that bring buyers and sellers together. 
+		* Private enterprises own and operate production based on supply and demand. 
+		* Income is based on the ability to convert resources into something socially beneficial. 
+		* Market-oriented economies have fewer regulations, often just enough to facilitate fair trade. 
+		* Markets allocate goods to the people who value them the most, under the assumption that the value of the good is easily understood by all market participants. 
+	* **Underground / Black Market** - often present in heavily regulated economies. This market is unregulated. 
 
 # Topics 
 * [[Microeconomics]] - focuses on the actions of individual agents within the economy
