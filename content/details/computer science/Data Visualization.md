@@ -11,7 +11,7 @@
 	* Define the means to answer the question.
 	* Plan a data visualization to tell the story.
 * Choose an appropriate data visualization tool. (see [here](https://handsondataviz.org/tool-factors.html))
-* *Data and numbers are not necessarily neutral. When working with data, ask whose story is being told*
+* *Data and numbers are not necessarily neutral. When working with data, ask whose story is being told*. [[Doublespeak|Data can be used to lie or obfuscate]].
 * **Tell, Show, Why**
 	* Tell the interesting aspects of the data. Tell it in the most succinct way possible.
 	* Show visual evidence to support this argument
@@ -125,5 +125,6 @@
 	* [What Map Type should you use?](https://handsondataviz.org/map.html)
 * [What to consider when considering data vis rules](https://lisacharlottemuth.com/datavisrules#part3)
 * [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
+* [[How To Lie With Statistics by Huff]]
 
 [^1]: Alberto Cairo, The Truthful Art: Data, Charts, and Maps for Communication_(Pearson Education, 2016),

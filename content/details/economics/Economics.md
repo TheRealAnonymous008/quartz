@@ -10,7 +10,7 @@
 [^1]: According to Adam Smith 
 
 * [[System Science|Economies are systems]]. 
-* Economics teaches you [[Philosophy|how to think not what to think]] [^2]
+* Economics teaches you [[Philosophy|how to think, not what to think]] [^2]
 
 [^2]: From John Maynard Keynes
 
@@ -27,6 +27,9 @@
 		* Market-oriented economies have fewer regulations, often just enough to facilitate fair trade. 
 		* Markets allocate goods to the people who value them the most, under the assumption that the value of the good is easily understood by all market participants. 
 	* **Underground / Black Market** - often present in heavily regulated economies. This market is unregulated. 
+
+# Unfiled 
+* **Tax Incidence** - the analysis of how tax burdens can be divided between consumers and producers
 
 # Topics 
 * [[Microeconomics]] - focuses on the actions of individual agents within the economy
