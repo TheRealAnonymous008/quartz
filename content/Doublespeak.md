@@ -47,6 +47,9 @@
 	* Ch. 1 - contains examples from the context of the military, businesses, education, politics, and some deadly examples.
 	* Ch. 2 - contains examples from everyday life.
 	* Ch. 3 - contains examples from advertising.
+	* Ch. 4 - contains examples from business .
 
 * [[Linguistics]] 
 * [[How To Lie With Statistics by Huff]]
+
+* [Double Speak](https://www.youtube.com/watch?v=qP07oyFTRXc)

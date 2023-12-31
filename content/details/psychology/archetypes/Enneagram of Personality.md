@@ -307,42 +307,42 @@
 ## Healthy 
 |  | Level 1 | Level 2 | Level 3 |
 | ---- | ---- | ---- | ---- |
-| 1 | Accepting, Wise  | Evaluating, Reasonable  | Principled, Responsible  |
-| 2 | Self-nurturing, Unconditionally Loving  | Empathetic, Caring  | Principled, Responsible  |
-| 3 | Inner-Directed, Authentic  | Adaptable, Admirable  | Goal-Oriented, Self-Improving  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
-| 8 |  |  |  |
-| 9 |  |  |  |
+| 1 | Accepting, Wise | Evaluating, Reasonable | Principled, Responsible |
+| 2 | Self-nurturing, Unconditionally Loving | Empathetic, Caring | Principled, Responsible |
+| 3 | Inner-Directed, Authentic | Adaptable, Admirable | Goal-Oriented, Self-Improving |
+| 4 | Life-embracing, Life enhancing | Introspective, Sensitive | Self-Revealing, Creative |
+| 5 | Participating, Visionary | Observant, Perceptive | Focused, Innovative |
+| 6 | Self-Reliant, Courageous | Engaging, Reliable | Committed, Cooperative |
+| 7 | Joyous, Satisfied | Anticipating, Enthusiastic | Realistic, Productive |
+| 8 | Self-Surrendering, Heroic | Self-Reliant, Strong  | Self-Confident, Leading |
+| 9 | Self-Possessed, Indomitable  | Unself-conscious, Peaceful | Unselfish, Comforting |
 
 ## Average 
 |  | Level 4 | Level 5 | Level 6 |
 | ---- | ---- | ---- | ---- |
-| 1 | Obligated, Striving  | Self-Controlled, Orderly  | Judgmental, Critical |
-| 2 | Well-intentioned, People-pleasing  | Possessive, Intrusive  | Self-important, Overbearing |
-| 3 | Success-Oriented, Performing | Image-Conscious, Expedient | Self-Promoting, Grandiose  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
-| 8 |  |  |  |
-| 9 |  |  |  |
+| 1 | Obligated, Striving | Self-Controlled, Orderly | Judgmental, Critical |
+| 2 | Well-intentioned, People-pleasing | Possessive, Intrusive | Self-important, Overbearing |
+| 3 | Success-Oriented, Performing | Image-Conscious, Expedient | Self-Promoting, Grandiose |
+| 4 | Romanticizing, Individualistic | Self-Absorbed, Temperameental | Self-Indulgent, Decadent |
+| 5 | Conceptualizing, Preparing | Detached, Preoccupied | Extreme, Provocative |
+| 6 | Dutiful, Loyal | Ambivalent, Defensive | Authoritarian, Blaming |
+| 7 | Acquisitive, Consuming | Distracted, Scattered | Self-Centered, Excessive |
+| 8 | Pragmatic, Enterprising | Self-Glorifying, Dominating | Confrontational, Intimidating |
+| 9 | Self-Effacing, Agreeable | Disengaged, Complacent | Resigned, Appeasing |
 
 
 ## Unhealthy 
 |  | Level 7 | Level 8 | Level 9 |
 | ---- | ---- | ---- | ---- |
-| 1 | Self-Righteous, Inflexible  | Obsessive, Contradictory  | Condemnatory, Punitive |
-| 2 | Self-justifying, Manipulative  | Entitled, CCoercive  | Feeling Victimized, Burdensome |
-| 3 | Unprincipled, Deceptive  | Duplicitous, Opportunistic | Monomaniacal, Relentless  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
-| 8 |  |  |  |
-| 9 |  |  |  |
+| 1 | Self-Righteous, Inflexible | Obsessive, Contradictory | Condemnatory, Punitive |
+| 2 | Self-justifying, Manipulative | Entitled, CCoercive | Feeling Victimized, Burdensome |
+| 3 | Unprincipled, Deceptive | Duplicitous, Opportunistic | Monomaniacal, Relentless |
+| 4 | Hateful, Alienated | Self-Rejecting, Clinically Depressed | Despairing, Life-Denying |
+| 5 | Nihilistic, Eccentric | Horrified, Delirious | Seeking Oblivion, Self-Annihilating |
+| 6 | Panicky, Unreliable | Paranoid, Lashing Out | Self-Abasing, Self-Destructive |
+| 7 | Insatiable, Escaping | Manic (Depressive), Reckless | Overwhelmed, Paralyzed |
+| 8 | Ruthless, Dictatorial | Megalomaniac, Terrorizing | Sociopathic, Destructive |
+| 9 | Repressed, Neglectful  | Dissociating, Disoriented  | Self-Abandoning, Disappearing |
 
 
 # Pathologies and Neuroses 
@@ -367,12 +367,12 @@
 | 1   | Taking rigidly Inflexible positions <br>Extremely self-righteous and very judgmental <br>Rationalizing and justifying their own actions <br>Intense feelings of disillusion and depression<br>Outbursts of rage, intolerance and condemnation<br>Obsessive thinking and Compulsive behaviors<br>Periods of masochistic self-punishment | Their ideals are wrong and counterproductive                 |
 | 2   | Extreme tendencies toward self-deception<br>Acting with a sense of delusional entitlement / Histrionics <br>Episodes of manipulating and coercing others<br>Episodes of obsessive love out of keeping with age or status<br>Evidence of repressed aggression acted out inappropriately <br>Physical symptoms of emotional problems                                                                                                                                                                                | They are driving friends and loved ones away                 |
 | 3   | Physical exhaustion and burnout from relentless workaholism <br>Increasingly false self-image, dishonesty and deceptiveness<br>Lack of feelings and inner emptiness<br>Concealing the degree of their emotional distress <br>Jealousy and unrealistic expectations of success<br>Exploitation and Opportunism <br>Severe episodes of rage and hostility                                                                                                                                                                                                                                                                                                                                       | They are failing, their claims are empty and fraudulent      |
-| 4   |                                                                                                                                                                                                                                                                                                                                        | They are ruining their lives and wasting their opportunities |
-| 5   |                                                                                                                                                                                                                                                                                                                                        | They are never going to find a place in the world            |
-| 6   |                                                                                                                                                                                                                                                                                                                                        | Their own actions have harmed their security                 |
-| 7   |                                                                                                                                                                                                                                                                                                                                        | Their activities are bringing them pain and unhappiness      |
-| 8   |                                                                                                                                                                                                                                                                                                                                        | Others are turning against them and will retaliate           |
-| 9   |                                                                                                                                                                                                                                                                                                                                        | They will be forced by reality to deal with their problems   |
+| 4   | An oppressive sense of alienation from self and others <br>Extreme emotional volatility and touchiness (not a manic reaction)<br>Dependency on one or two others, with unstable relationships <br>Outbursts of rage, hostility and hatred <br>Chronic, long-term depression and hopelessness <br>Episodes of self-sabotage and rejecting positive influences <br>Obsessions with death, morbidity and self-hatred                                                                                                                                                                                                                                                                                                                                       | They are ruining their lives and wasting their opportunities |
+| 5   | Increasing tendency to isolate themselves <br>Chronic physical neglect, letting themselves go <br>Chronic and severe insomnia, nightmares, and sleep disorders <br>Increasing eccentricity -- loss of interest in social skills <br>Refusing help, or even being hostile to it <br>Distorted perceptions, hallucinations <br>Talk of suicide                                                                                                                                                                                                                                                                                                                                        | They are never going to find a place in the world            |
+| 6   | Intense anxiety and panic attacks <br>Acute inferiority feelings and chronic depression <br>Constant fear of losing support from others <br>Alternating dependency and impulsive displays of defiance <br>Keeping bad company and attachments to abusive relationships <br>Extreme suspiciousness and paranoia <br>Hysterical lashing-out at perceived enemies <br>                                                                                                                                                                                                                                                                                                                                       | Their own actions have harmed their security                 |
+| 7   | Extreme dissipation and attempts to escape anxiety <br>Serious longstanding and debilitating addictions <br>Impulsiveness, Offensiveness, and Infantile reactions <br>Compulsive activities and highly elated mood <br>Periods of being out of control <br>Mania, Depression, and Wild Mood swings <br>Period of panic and paralyzing terror                                                                                                                                                                                                                                                                                                                                        | Their activities are bringing them pain and unhappiness      |
+| 8   | Paranoid feelings of being betrayed by their people <br>Increasing social isolation and bitterness <br>Lack of conscience and empathy; Callous hard-heartedness <br>Episodes of rage, violence, and physical destructiveness <br>Plotting vengeance and retaliation against enemies <br>Seeing self as an outlaw; Involvement with criminal behavior <br>Episodes of striking back at society (sociopathy)                                                                                                                                                                                                                                                                                                                                       | Others are turning against them and will retaliate           |
+| 9   | Denial of serious health, financial, or personal problems <br>Obstinacy and long-standing resistance to getting help <br>General awareness and vitality dampened and repressed <br>A sense of inadequacy and general neglectfulness <br>Dependence on others and allowing themselves to be exploited <br>Chronic depression and emotional flatness (anhedonia)<br>Extreme dissociation (feeling lost, confused, deeply disconnected)                                                                                                                                                                                                                                                                                                                                       | They will be forced by reality to deal with their problems   |
 
 
 # The Call towards Transformation
@@ -393,3 +393,4 @@
 * [The Enneagram Institute](https://www.enneagraminstitute.com/type-descriptions)
 * [[The Wisdom of the Enneagram -- The Complete Guide to Psychological and Spiritual Growth for the Nine Personality Types by Riso and Hudson]]
 	* Gives more detail on each of the types 
+* [9types](http://www.9types.com)
