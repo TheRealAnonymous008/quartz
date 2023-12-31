@@ -19,7 +19,8 @@
 	* Integration requires a more conscious choice to let go of the hindrances associated with each type.
 
 # The Types 
-* **One - The Reformer** - have a sense of mission that leads them to want to improve the world in various ways while at the same time having the feeling that they have to justify their actions to themselves.  
+* **One - The Reformer** - have a sense of mission that leads them to want to improve the world in various ways. They have a strong sense of purpose while at the same time having the feeling that they have to justify their actions to themselves.  
+* **Two - The Helper** - either the most genuinely helpful to other people or, when they are less healthy, the most highly invested in seeing themselves as helpful. They are loving, helpful, generous and considerate but they may also be too overbearing and manipulative. 
 
 # Fears and Desires 
 
@@ -134,9 +135,9 @@
 
 |  | Instinctive | Thinking | Feeling |
 | ---- | ---- | ---- | ---- |
-| Assertive | Eight | Three | Seven |
-| Compliant  | One  | Two  | Six |
-| Withdrawn | Nine  | Four | Five |
+| Assertive | 8 | 3 | 7 |
+| Compliant  | 1  | 2  | 6 |
+| Withdrawn | 9  | 4 | 5 |
 
 
 ## Coping 
@@ -263,6 +264,22 @@
 | 8 | Lustful and Controlling to more Open-hearted and Caring  | 2 |
 | 9 | Slothful and Self-neglecting to Self-developing and Energetic  | 3 |
 
+# Roles and Instincts
+* Instincts
+
+| Type | Self-Preservation | Social | Sexual |
+| ---- | ----------------- | ------ | ------ |
+| 1    | **Self-Control** - counteract the strong drive for gratification, going from indulgence to restraint. <br><br>In an unhealthy case this evolves to extreme cycles of indulgence and self-restraint.                   | **Crusading** - the belief they represent objective values. They bring about necessary reforms while exposing injustice.<br><br>In the extreme case, the expect others to agree with them. They take criticism personally. They also hold others to unrealistic expectations--nothing but perfection        | **Shared Standards** - they want a flawless relationship with an idealized partner. They put an emphasis on fidelity and have a fear of abandonment which they prevent through "checking in"<br><br>In the unhealthy case, this leads to extreme sexual compulsivity and repression. Alternatively, this may lead to them being more controlling (being the jealous lovers), seeing the other as flawed        |
+| 2    |                   |        |        |
+| 3    |                   |        |        |
+| 4    |                   |        |        |
+| 5    |                   |        |        |
+| 6    |                   |        |        |
+| 7    |                   |        |        |
+| 8    |                   |        |        |
+| 9    |                   |        |        |
+
+
 * *Social Roles*
 
 | Type | Social Role  |
@@ -288,6 +305,11 @@
 
 
 ## Twos 
+|  | 2w1 - **The Servant** | 2w3 - |
+| ---- | ---- | ---- |
+| Healthy |  |  |
+| Average  |  |  |
+
 ## Threes 
 ## Fours 
 ## Fives 
@@ -338,7 +360,20 @@
 | 9 |  |  |  |
 
 
-# Pathologies 
+# Pathologies and Neuroses 
+
+| Type | Neurosis | Warning Signs |
+| ---- | ---- | ---- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+| 5 |  |  |
+| 6 |  |  |
+| 7 |  |  |
+| 8 |  |  |
+| 9 |  |  |
+
 
 
 
