@@ -6,9 +6,7 @@
 # Topics
 * [[Human Biases]]
 * [[Thinking Fast And Slow]]
+* [[Archetypes ]]
 
-* [[The Characters (Theophrastus)]]
-* [[Jungian Archetypal Characters]]
-* [[Enneagram of Personality]]
 
 * [[Persuasion]]

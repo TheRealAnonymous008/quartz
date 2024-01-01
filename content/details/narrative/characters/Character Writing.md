@@ -1,6 +1,8 @@
 * The following framework gives an idea for why the audience may like characters.
 * One of the best ways to make characters feel real is to not write them to a role. They should not just be set dressing.
 	* The less time you give to the character, the more likely you will write them to a role.
+	* *Remark*: Aim to make it satisfying to observe the character's behavior and especially changes in their behavior. 
+
 * *Every character sees themselves as the main character of their own stories*.
 * *Character background defines how they speak, think, act and see the world*. 
 	* A good way to do is is through [[Dialogue|Dialogue]]
@@ -83,8 +85,7 @@
 # Topics 
 * [[Writing Groups of Interest]]
 * [[Character Design]]
-* [[The Characters (Theophrastus)]] - a listing of character archetypes 
-* [[Jungian Archetypal Characters]] - another listing of character archetypes.
+* [[Archetypes]]
 
 
 # Links

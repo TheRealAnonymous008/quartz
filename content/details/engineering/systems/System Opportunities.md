@@ -82,4 +82,4 @@
 
 # Links 
 * [[Thinking in Systems by Meadows|Meadows]] - Ch. 7 - 8 
-* [[System Pathologies]] - issues with incorrectly using the leverage points, and also ways to fix them.
+* [[System Archetypes]] - issues with incorrectly using the leverage points, and also ways to fix them.

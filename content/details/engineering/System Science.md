@@ -9,7 +9,7 @@
 # Topics 
 * [[System Dynamics]]
 * [[Properties of Systems]]
-* [[System Pathologies]]
+* [[System Archetypes]]
 * [[System Opportunities]]
 * [[Complex Systems]]
 * [[Network Science]]

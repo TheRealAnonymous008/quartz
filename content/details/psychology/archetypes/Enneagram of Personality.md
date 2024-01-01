@@ -20,7 +20,7 @@
 
 # The Types and their Wings
 ## Ones 
-* **The Reformer** - have a sense of mission that leads them to want to improve the world in various ways. They have a strong sense of purpose while at the same time having the feeling that they have to justify their actions to themselves.  
+* **The Reformer** - They have a sense of mission that leads them to want to improve the world in various ways. They are activists who are searching for an acceptable rationale for what they feel they must do. 
 
 * **1w9 - The Idealist**
 	* *Healthy*: Highly discerning and wise. Maintains a dispassionate, philosophical stance focusing on the big picture. They are reclusive and emotionally reserved but generally considerate.
@@ -30,7 +30,7 @@
 	* *Average*: Fairly aggressive and forceful in the pursuit of the ideals and reforms they seek. They debate others and refine their ideas. However, they can become critical and irritable and can often feel more frustrated by people and events.
 
 ## Twos 
-* **The Helper** - either the most genuinely helpful to other people or, when they are less healthy, the most highly invested in seeing themselves as helpful. They are loving, helpful, generous and considerate but they may also be too overbearing and manipulative. 
+* **The Helper** - Either the most genuinely helpful to other people or, when they are less healthy, the most highly invested in seeing themselves as helpful. However, they tend to seek validation of their worth by obeying their superego's demands to sacrifice themselves for others. 
 
 * **2w1 - The Servant**
 	* *Healthy*: Strives for personal goodness and selfless service. They have a strong desire to relieve human suffering. More serious and more overt caretakers. 
@@ -41,7 +41,7 @@
 	* *Average*: Friendly and good-humored but focused and ambitious. Their friendship and attention are sufficient as gifts to others. Seductive and direct about what they want. Arrogant, self-important, high-handed.
 
 ## Threes 
-* **The Achiever** - people look up to them for their graciousness and personal accomplishments. They embody the best in a culture. They are goal-oriented but they seek the success defined by others, which means that they ignore or forget about their own wants. 
+* **The Achiever** -  They embody the best (success) in a culture. They are goal-oriented but they seek the success defined by others, which means that they ignore or forget about their own wants. 
 
 * **3w2 - The Charmer**
 	* *Healthy*: More emotional, spontaneous and outgoing. Friendly and helpful while maintaining poise and esteem. They want to be loved but can sometimes substitute public life for their own private life. 
@@ -52,11 +52,70 @@
 	* *Average*: They create tremendous pressures that they aspire to embody to avoid being shamed. They may display pretentiousness and arrogance mixed with self-consciousness and self-contempt
 
 ## Fours 
+* **The Individualist** -  feel that they are unlike other human beings and, consequently, that no one can understand them or love them adequately. They build their identity around how unlike everyone else they are, even when they have doubts about their self-image. 
+
+* **4w3 - The Aristocrat**
+	* *Healthy*: They combine creativity and ambition. Self improvement and personal advancement. They create with an audience in mind. 
+	* *Average*: They want recognition for themselves and their work, and they typically put more effort into everything having to do with their self-presentation and related matters. Competitive, Disdainful, and outwardly Grandiose.
+
+* **4w5 - The Bohemian**
+	* *Health*: Extremely creative, combining emotion and originality. Less concerned with acceptance and status, and create more for themselves than for an audience. They break the rules whenever self-expression is an issue. 
+	* *Average*: They dwell exclusively in their imaginations, attracted to the mysterious and symbolic. They may have brilliant flashes of insight, but they have trouble sustaining practical efforts in the real world.
+
 ## Fives 
+* **The Investigator** - they want to understand how the world works - both reality or fantasy. They do not accept existing doctrine. Behind this is the feeling that they do not have an ability to do things as well as others. They retreat to their mind with the belief that they will eventually figure out how to do things. 
+
+* **5w4 - The Iconoclast**
+	* *Healthy*: Curious, and perceptive but also with a desire to express a unique personal vision. Drawn to the arts and their imagination 
+	* *Average*: They struggle with intense feelings. More independent and resistant to existing structures. They have difficulty staying grounded and practical. They can be attracted to forbidden subject matter. 
+
+* **5w6 - The Problem Solver**
+	* *Healthy*: Drawn to technical subjects. Cooperative, disciplined and persistent and more interested in practical matters. They combine innovation with business savvy. 
+	* *Average*: Very intellectual and drawn to theories. Extremely restrained and private about their feelings, their attention is more directed at things than at people. They prefer to observe but can also be more argumentative and defensive about their views. 
+
 ## Sixes 
+* **The Loyalist** - the most loyal to their friends and to their beliefs. They fight for their beliefs more fiercely than they fight for themselves. This is rooted in a desire to not be abandoned and the lack of confidence in their own judgment. 
+
+* **6w5 - The Defender**
+	* *Healthy*: Excel at technical expertise, and attracted to well-established systems. They have great powers of concentration and are good problem-solvers 
+	* *Average*: More independent and serious. Often the loner type. They see the world as dangerous and view beliefs with skepticism. Aggressive and tend to use scapegoats. 
+
+* **6w7 - The Buddy**
+	* *Healthy*: Engaging and funny. They avoid heavy topics and focus on their security needs. However, they are serious about their commitments. Energetic but also self-deprecating. 
+	* *Average*: Eager to be liked and accepted but also more hesitant to speak out about their problems. Visibly insecure and tends to procrastinate. They can be opinionated and vocal about their tastes. Anxious and depressed. 
+
 ## Sevens 
+* **The Enthusiast** - enthusiastic about almost anything that catches their attention. They are curious, optimistic, and adventurous. However, they do not feel that they can find what they really want as a result of their curiosity, so they try everything 
+
+* **7w6 - The Entertainer**
+	* *Healthy*: Productive and Playful. They have quick minds and seek variety. They interact easily with people.
+	* *Average*: Excited by new ideas, but this can often lead to being scatter-brained with less follow through. They look for strong experiences. Childish and Hyperenthusiastic. They may also have an inferiority complex 
+
+* **7w8 - The Realist**
+	* *Healthy*: Materialistic and enjoy the world as it is. They are determined to get what they want from life. Practical and Organized towards meeting their desires. 
+	* *Average*: They tend to multitask. Aggressive and driven but also tends to be more of a workaholic. Their focus is on generating activities than connection. Overly pragmatic and often blunt which can push people away. They can be jaded and callous.
+
 ## Eights 
+* **The Challenger** - They enjoy taking challenges as well as challenging others so that they may excel. Charismatic, Persuasive and with enormous willpower. They do not want to be controlled by anyone, for better or worse as it can block their ability to connect with people or to love. 
+
+* **8w7 - The Independent** 
+	* *Healthy*: Quick minded and Action-oriented. They can attract the support of others. The most independent, often entrepreneurial. 
+	* *Average*: Adventurous risk takers and sociable. Competitive and does not put up with perceived weakness, leading to being impatient, confrontational, impulsive and driven by their feelings. 
+
+* **8w9 - The Bear**
+	* *Healthy*: Strong and confident but with a grounded, laid-back quality. Steady in their pursuit and generally warmer and they do things at their own pace.
+	* *Average*: They have a dual nature. They almost dare others to underestimate them. Stubborn, Impassive and Quietly Menacing. 
+
 ## Nines 
+* **The Peacemaker** - They are devoted to the quest for internal and external peace, for themselves and for others. They can have the strengths of the other Types, however they do not have a strong sense of their own identity. 
+
+* **9w8 - The Referee**
+	* *Healthy*: They are agreeable and can comfort others with their endurance and strength. They are concerned with practical, immediate needs. They are sociable and good at negotiating
+	* *Average*: They enjoy sensuality that they stray from their goals. They can be stubborn and defensive. Blunt and explosive at one point and then calm and placid at another. 
+
+* **9w1 - The Dreamer**
+	* *Healthy*: They are imaginative and creative, synthesizing many schools of thoughts. Good at nonverbal communication. Friendly and reassuring but are purposive about their ideals. 
+	* *Average*: They want external order as a way of giving order to their internal world. They get caught up in nonessential activities. Energetic in a detached manner. More reserved and concerned with respectability. Puritanical and perfectionist. 
 
 # Fears and Desires 
 
@@ -76,29 +135,32 @@
 
 |  | Vice | Virtue | Gifts |
 | ---- | ---- | ---- | ---- |
-| 1 | **Anger** - Repressed anger that leads to continual frustration and dissatisfaction with oneself and the world. | **Serenity** - The ability to maintain inner calm and peace, free from the disturbances of anger and frustration  | **Integrity** - the ability to standards that they use to guide their course of action. To not settle for less. <br><br>**Wisdom** - the ability to convey their perspective. <br><br>**Self-Discipline** - the ability to work hard and be productive but at the same time knowing when enough is enough.  |
-| 2 | **Pride** - The inability or unwillingness to acknowledge one's own suffering while attempting to help others. | **Humility** - The ability to recognize and acknowledge one's limitations and the value of others without seeking praise. | **Sincere Good works** - the willingness to help others and take care of them in a meaningful way. This can extend to the ability to help others grow on their own. <br><br>**Joy** - the ability to enjoy life's bounty; to not take themselves too seriously <br><br>**Good boundaries** - to say no when necessary and to know their motivations at any particular time. <br><br>**Emotional Balance** - to not be preoccupied with the lives of others and to recognize that they have their own needs.  |
+| 1 | **Anger** - Repressed anger that leads to continual frustration and dissatisfaction with oneself and the world. | **Serenity** - The ability to maintain inner calm and peace, free from the disturbances of anger and frustration | **Integrity** - the ability to standards that they use to guide their course of action. To not settle for less. <br><br>**Wisdom** - the ability to convey their perspective. <br><br>**Self-Discipline** - the ability to work hard and be productive but at the same time knowing when enough is enough. |
+| 2 | **Pride** - The inability or unwillingness to acknowledge one's own suffering while attempting to help others. | **Humility** - The ability to recognize and acknowledge one's limitations and the value of others without seeking praise. | **Sincere Good works** - the willingness to help others and take care of them in a meaningful way. This can extend to the ability to help others grow on their own. <br><br>**Joy** - the ability to enjoy life's bounty; to not take themselves too seriously <br><br>**Good boundaries** - to say no when necessary and to know their motivations at any particular time. <br><br>**Emotional Balance** - to not be preoccupied with the lives of others and to recognize that they have their own needs. |
 | 3 | **Deceit** - Deceiving oneself into believing that they are only the ego self, attempting to make the ego feel valuable without turning to its spiritual source. | **Truthfulness** - The authenticity to be genuine, honest, and true to oneself and others. | **Genuine Self-Esteem** - a realistic and deeply felt appreciation of themselves. A healthy love of self that helps them love others freely.<br><br>**Self-investing** - they invest in developing and improving themselves. This can extend to teaching others to do the same.  <br><br>**Inspiring** - they motivate others to do their best<br><br>**Talented**  - they use their talents to advance worthy causes beyond their personal interests. |
-| 4 | **Envy** - The feeling that others possess qualities they lack while failing to notice their blessings. | **Equanimity** - The quality of being calm, balanced, and undisturbed, even in the face of life's challenges. |  |
-| 5 | **Avarice** - The feeling of lacking inner resources and the belief that interactions will lead to depletion, clinging to resources and minimizing needs. | **Detachment** - the ability to let go of excessive possessiveness and cultivate a sense of non-attachment. |  |
-| 6 | **Fear** - The feeling of being afraid of things that are not actually happening now but could happen in the future. | **Courage** - The virtue of facing fears and challenges with strength and resilience, rather than succumbing to anxiety. |  |
-| 7 | **Gluttony** - The desire to fill one's inner emptiness by pursuing various activities, which are never enough to fill that void. | **Sobriety** - The moderation and self-discipline to avoid excessive indulgence and find contentment in the present moment. |  |
-| 8 | **Lust** - A constant need for intensity, control, and self-extension, the need to push everything and assert oneself. | **Innocence** - The purity of heart that comes from a genuine, unguarded openness to life and others. |  |
-| 9 | **Sloth** - The desire to be unaffected by life, an unwillingness to fully engage with life. | **Action** - The proactive engagement with life, overcoming the tendency to avoid conflict and passivity. |  |
+| 4 | **Envy** - The feeling that others possess qualities they lack while failing to notice their blessings. | **Equanimity** - The quality of being calm, balanced, and undisturbed, even in the face of life's challenges. | **Intuition** -  They can see the most fundamental aspects of humanity within themselves and deliver those insights. <br><br>**Self-expression** - They do not take themselves too seriously. Their creativity also serves as an exploration into themselves and their experiences . |
+| 5 | **Avarice** - The feeling of lacking inner resources and the belief that interactions will lead to depletion, clinging to resources and minimizing needs. | **Detachment** - the ability to let go of excessive possessiveness and cultivate a sense of non-attachment. | **Understanding** - They can comprehend many points of view at the same time, both its whole and component parts<br><br>**Curiosity** - They do not take anything for granted. In the pursuit of knowledge, they are focused and patient. They tinker and observe. They are endlessly amused and horrified by the strangeness of life.<br><br>**Innovative** - As a result of their curiosity. They want to see the exceptions to the rules. They want to share their discoveries to others.  |
+| 6 | **Fear** - The feeling of being afraid of things that are not actually happening now but could happen in the future. | **Courage** - The virtue of facing fears and challenges with strength and resilience, rather than succumbing to anxiety. | **Endurance** - They can achieve their goals through persistent efforts. They are dependable and effective. <br><br>**Vigilance** - They can sense danger signals and can prepare for them accordingly. They favor systems that have "a correct answer". They want structure, authority, and systematic thinking.<br><br>**Self-affirming** - They have recognized and trusted their own inner guidance.  <br><br>**Committed** - They can work for a common good and commit to it with purpose. They are also committed to learning about and expressing themselves<br> |
+| 7 | **Gluttony** - The desire to fill one's inner emptiness by pursuing various activities, which are never enough to fill that void. | **Sobriety** - The moderation and self-discipline to avoid excessive indulgence and find contentment in the present moment. |  **Multifaceted** - they are able to brilliantly and creatively synthesize many diverse areas of expertise. They are able to generate ideas. <br><br> **Realistic** - they are grounded with the business of reality. They shape reality their way. <br><br>**Sense of Abundance** - they can generate enthusiasm that can motivate others. This also leads them to become more knowledgeable.  |
+| 8 | **Lust** - A constant need for intensity, control, and self-extension, the need to push everything and assert oneself. | **Innocence** - The purity of heart that comes from a genuine, unguarded openness to life and others. | **Action-Oriented** - They enjoy building things from the ground up. They are in control of themselves and seek self-mastery. <br><br> **Empowering** - They see the possibilities in everything. They see the potential in people and can help them recognize these. <br><br>**Honor-bound** - They are direct and they do not deceive. They feel gratified when others are honest. They are generous and can act beyond their self-interest. <br><br>**Respectful** - They respect the dignity inherent in others. In turn, they seek respect. <br> |
+| 9 | **Sloth** - The desire to be unaffected by life, an unwillingness to fully engage with life. | **Action** - The proactive engagement with life, overcoming the tendency to avoid conflict and passivity. | **Patience** - They allow others to develop in their own way. This is supported by a quiet strength and endurance.  They see the good in others, and in the case of healthy dispositions, themselves. <br><br>**Stability** - They are calm under pressure, and they can be this for an entire group.<br><br>**Open** - They are humble. They do not judge viewpoints. They are creative, holistic, and seek to be one with the Cosmos.<br> |
+
 
 * *Each type's vice leads to an inherent contradiction*
+
 
 |  | Contradiction |
 | ---- | ---- |
 | 1 | To seek integrity and wholeness but to judge parts of the self as "good" and "bad" (i.e., dividing the self) and to constantly strive for a perfection whose standards keep rising.  |
 | 2 | To look for endearment and love while missing the genuine love that is offered by others. To want to be loved yet to be defensive when others suggest that they have their own needs. |
 | 3 | To achieve something yet not feel genuine satisfaction for the achievement. To lie to themselves and focus on their self image rather than on developing their true self or nurturing their own needs. The praise they receive is for their image, not for their real self. |
-| 4 |  |
-| 5 |  |
-| 6 |  |
-| 7 |  |
-| 8 |  |
-| 9 |  |
+| 4 | To see oneself as unique and "not like others" and yet to both deny the positive qualities of the self that is shared with others, and to see others as normal while the self as flawed. They are aware of their flaws, and feel and project their disappointment to others or retreat to a Fantasy Self.   |
+| 5 | To seek knowledge and skills but instead of being motivated by fear.  They must always prepare but preparations are never enough, and eventually this means they have never lived a life, only prepared for it.   |
+| 6 | To seek security in others but also fear that they will be abandoned by their support group.  They become dependent on someone to become independent. They seek a perfect authority where none exist. They have many commitments but stretch themselves too thin |
+| 7 | To seek satisfaction, yet to also be distracted -- anticipating rather than experiencing and as a result never being satisfied of the present moment. To fill the self with more rather than be "bored" and confront an existing need.  To seek the best experience when finding it is impossible. |
+| 8 | To seek independence by being in control without realizing that they are reacting to others and so they are dependent on them for satisfaction. To constantly push against life with intensity yet as a result have less energy to connect, and the world feels muted.  |
+| 9 | To seek safety by detaching from the world and "becoming nobody" at the cost of making everything feel muted. To want to be at peace with the world and yet to be so detached with it.  To seek value in others yet to be disengaged with them that they cannot connect with the self.  They want to be left alone yet they never voice their anger at others when they prod. |
+
 
 # Core Identifications, Resistances, and Self-Image 
 
@@ -221,15 +283,15 @@
 
 |  | Self-Preservation | Social | Sexual |
 | ---- | ----------------- | ------ | ------ |
-| 1    | **Self-Control** - counteract the strong drive for gratification, going from indulgence to restraint. <br><br>In an unhealthy case this evolves to extreme cycles of indulgence and self-restraint. Alternatively, the standards for being lax are raised. Relaxation must be "earned" and even then it is accompanied by feelings of inefficiency. <br><br>Compulsion also arises in an effort to maintain self-control.                   | **Crusading** - the belief they represent objective values. They bring about necessary reforms while exposing injustice.<br><br>In the extreme case, the expect others to agree with them. They take criticism personally. They also hold others to unrealistic expectations--nothing but perfection Additionally, they preach but it is as if it is only to appeal to their own superegos.         | **Shared Standards** - they want a flawless relationship with an idealized partner. They put an emphasis on fidelity and have a fear of abandonment which they prevent through "checking in"<br><br>In the unhealthy case, this leads to extreme sexual compulsivity and repression. Alternatively, this may lead to them being more controlling (being the jealous lovers), seeing the other as flawed.        |
-| 2    | **Entitlement** - they wear themselves out for the sake of others. However, they subconsciously expect others to take care of their own needs but seldom ask for help directly. They feel like martyrs. <br><br>This evolves to taking pride in their sacrifices. In the unhealthy range, they become trapped in delusional self-importance and neglect of their own well-being. They cannot help but help                  | **Everyone's Friend** - they want to be liked and approved by everyone. They seek validation through popularity and impressing people. <br><br>In the unhealthy range, this can lead to being patronizing. They may also be enablers of others to keep them in their debt. This can sometimes prevent them from relating to people in more satisfying ways. They help even when there is nothing they can do.        | **Craving Intimacy** - they are driven to get closer to others emotionally and physically. They are seductive through giving lots of attention.<br><br>This can devolve to being demanding to the other, eventually becoming extremely jealous, possessive and hovering and also to not recognizing the boundaries set by the other. They may also become more needy.         |
-| 3    | **Workaholism** - they feel they must work constantly, striving for achievement and motivated by the possibility of advancement. <br><br>In an unhealthy level, they can become workaholics, neglecting their other needs for the sake of efficiently moving towards the goal. They are highly prone to burnout and nervous breakdowns.                  | **Status Seeker** - they need recognition and reassurance from their peers that they are making progress <br><br>This devolves to the need to prove themselves to others, leading to narcissism and arrogance. They may even seek validation from their competition.<br><br>This may lead to being dishonest or disillusioned in the pursuit of recognition.<br><br>Failure feels particularly devastating for them to the point they end up avoiding their problems entirely.       | **The Catch** - they desire to be desired. They want to be wanted. They want to be the type that their partner is proud to show off. They may know how to seduce (by meeting other's expectations) but not to sustain a relationship. <br><br>This can devolve to rejecting people they care about. This can lead to promiscuity that hides their vulnerabilities out of fear that others will see through their weaknesses.        |
-| 4    |                   |        |        |
-| 5    |                   |        |        |
-| 6    |                   |        |        |
-| 7    |                   |        |        |
-| 8    |                   |        |        |
-| 9    |                   |        |        |
+| 1    | **Self-Control** - they worry about their material well-being, their superego counteracts their drive for gratification <br><br>In an unhealthy case this evolves to extreme cycles of indulgence and self-restraint. Alternatively, the standards for being lax are raised. Relaxation must be "earned" and even then it is accompanied by feelings of inefficiency. Compulsive behavior also arises in an effort to maintain self-control.                   | **The Crusader** - they beleive they represent objective values. They bring about necessary reforms while exposing injustice.<br><br>In the extreme case, the expect others to agree with them. They take criticism personally. They also hold others to unrealistic expectations--nothing but perfection Additionally, they preach but it is as if it is only to appeal to their own superegos.         | **Shared Standards** - they want a flawless relationship with an idealized partner. They put an emphasis on fidelity and have a fear of abandonment which they prevent through "checking in"<br><br>In the unhealthy case, this leads to extreme sexual compulsivity and repression. Alternatively, this may lead to them being more controlling (being the jealous lovers), seeing the other as flawed.        |
+| 2    | **Entitlement** - They become martyrs. -- they wear themselves out for the sake of others and do not tend to or acknowledge their own needs.<br><br>This evolves to taking pride in their sacrifices. In the unhealthy range, they become trapped in delusional self-importance and neglect of their own well-being. They cannot help but help, and they feel entitled to something to compensate for their martyrdom.                  | **Everyone's Friend** - they want to be liked and approved by everyone. They seek validation through popularity and supporting people. <br><br>In the unhealthy range, this can lead to being patronizing. They may also be enablers of others to keep them in their debt. This can sometimes prevent them from relating to people in more satisfying ways. They help even when there is nothing they can do, and implicitly expect favors in return        | **Craving Intimacy** - they are driven to get closer to others emotionally and physically. They are seductive through giving lots of attention.<br><br>This can devolve to being demanding to the other, eventually becoming extremely jealous, possessive and hovering They may also become more needy and ignore any set boundaries in the relationship.          |
+| 3    | **Workaholism** - they feel they must work constantly, striving for achievement and motivated by the possibility of advancement and tangible rewards. They are efficient. <br><br>In an unhealthy level, they can become workaholics, neglecting their other needs for the sake of efficiently moving towards the goal. They are highly prone to burnout and nervous breakdowns.                  | **Status Seeker** - they need recognition and reassurance from their peers that they are valued. They want to prove they have the right credentials. <br><br>This devolves to the need to prove themselves to others, leading to narcissism and arrogance. This may lead to being dishonest or disillusioned in the pursuit of recognition.       | **The Catch** - They desire to be desired. They want to be wanted. They want to be the type that their partner is proud to show off. They may know how to seduce (by meeting other's expectations) but not to sustain a relationship. <br><br>This can devolve to rejecting people they care about. This can lead to promiscuity that hides their vulnerabilities out of fear that others will see through their weaknesses.        |
+| 4    | **The Sensationalist** - the most practical and materialistic. They love the sensual and moved by the symbolism of items. Also the most introverted and with an aesthetic, particular sense.<br><br>At the extremes, they either develop a bipolar temperament -- seeking extreme highs and extreme lows and being driven by their mood. In the unhealthy case, they are attracted to self-destructive, irresponsible behaviors                   | **The Outsider** - they see themselves most unlike others -- a uniqueness that is both a blessing and a curse. <br><br>Eventually shame sets in as they realize they do not know how to be "normal". They cover their insecurities, and they react strongly to statements about themselves.  A fear of rejection may lead them to withdraw completely or to become extremely dependent and wasteful.        | **Infatuation** - Vulnerable and impressionable but aggressive and dynamic. The most romantic and intense. They act on their fantasies, leading to obsessive or possessive behavior. <br><br>Envy is very apparent. They long to be desirable and this can lead to self-sabotaging behaviors in order to get revenge -- to justify hurting them. Turbulent and emotionally unstable.         |
+| 5    | **Isolation and Hoarding** - they gain independence and separation by reducing their needs and spending. They are true loners and are introverted <br><br>Extremely resentful of having expectations on them . Emotionally detached and dry. In the unhealthy case, they can become eccentric shut-ins. Prone to paranoia                   | **The Specialist** - they engage with others and find a social niche for themselves through their expertise. Interested in complex topics but not social banter. <br><br>In an unhealthy case, they become unable to relate to others except through the role of their expertise. In the extreme, they express extreme views -- antisocial and misanthropic.        | **This is My Work** - they like sharing secret information but they also experience tension between the pursuit and their tendency to withdraw. They can be both emotionally available and emotionally distant. <br><br>They look for the ideal mate who will not be turned off by their eccentricity. The fantasy can keep them grounded but also make them fetishistic       |
+| 6    | **Responsibility** - they work hard to build up security through mutual responsibility -- a commitment that they expect others will reciprocate. <br><br>They can use their anxieties to gain allies, but this can devolve to being extremely dependent and panicky. They end up self-sabotaging for fear of losing support. They may also exaggerate dangers or provoke non-existent fights                  | **Generating Support** - they handle anxiety by looking to others. They want to fit in and adhere to the system -- especially if it has like-minded individuals <br><br>They can have difficulty working for their own success rather than looking at the group's dynamics. Indecisive and eventually ambivalent. Can be passive aggressive, and pessimistic.  In the extreme, they can become slavishly attached to extreme beliefs       | **Symbols of Power and Connection** - they either develop a display of strength or a mask of sexuality to attract support. They seek a powerful mate to act as their support. <br><br>More defiant of authority, especially when anxious. More doubting of themselves and others. Erratic and prone to explosive reactions, especially when their insecurities are exposed. They may be prone to sabotaging others or themselves.       |
+| 7    | **Getting Mine** - determined and energetic, driven to make sure their needs are met. They are materialistic and hedonistic. They avoid dependencies with others. <br><br>They can feel impatient when their needs are not quickly met. Demanding when frustrated. In the extreme, they can be thoughtless and relentless in the pursuit of their needs. Prone to excessive consumption and self-indulgence                  | **Missing Out** - they cultivate a group of "advisors" who share enthusiasms with them to provide stimulation .However, they can feel frustrated at how slow others are. They resent social restriction -- especially authority. <br><br>They tend to be scatter-brained and not fully commit. Friendly but can easily feel trap. In the extreme, they compulsively plan but never commit. Both unsettled and unsettling since they are irresponsible and destructive.        | **The Neophile** - constantly looking for something new. They seek an idealized reality. Magnetized by interesting things and willing to charm those that appeal to their excitement. Their minds move quickly but are also prone to restlessness <br><br>Can become fickle and avoid commitments -- favoring the chase of the romance rather than cultivating a long-term relationship. In an unhealthy case, they can become deviant and self-destructive--especially as the highs lose their potency over time.        |
+| 8    | **The Survivor** - most no-nonsense kind. Focuses on practical matters. They enjoy ruling their domestic life. Materialistic and seeks symbol of power. Can be prone to workaholism. <br><br>Avaricious in the sense of being protective of their possessions. This can devolve to being thieves and bullies intent on protecting their interests                   | **Gusto and Camaraderie** - they express their intensity through powerful bonds. Greatly values honesty and trust. They tend to surround themselves with predictable friends to avoid rejection.  For those in their social circle, they will do anything for them. They also enjoy asserting themselves through debates. <br><br>In an unhealthy level, this can lead to rejecting friends over disagreements, and bearing grudges for long. It is hard to regain their trust. Ironically, they can also become rogues and con-artists -- offering little support for others despite their honeyed words. <br><br>In the extreme case, they can become antisocial, reckless, and self-destructive.        | **Taking Charge** - quietly intense and charismatic. Passionate about whom they care about. Deeply loving and devoted but tries to assert themselves in the relationship. Can be competitive for the thrill of it. <br><br>They can be too controlling - demanding loyalty and attention. It is difficult to maintain a relationship with both parties equal. In the extreme, they can completely control their partner and be extremely jealous. Prone to being abusive and vindicative.        |
+| 9    | **The Comfort Seeker** - pleasant and easygoing, content with simple pleasures. Not ambitious despite their talents. They do not like routines . They can be attached to minor rewards <br><br>Apathy makes it difficult for them to actually go out to obtain what they want. Instead, they may use substitutes instead. This can lead to them shutting down, being perpetually tired, and addicted                  | **One Happy Family** - interested in bringing people together and making peace. They like to be involved but resist having expectations being placed on them. In the case there are expectations on them, they want to make these explicitly. <br><br>Insecure about their worth and so have difficulty saying no. They end up resisting passive-aggressively. They can become disenchanted from trying to please others. They have trouble setting goals and following through. In the extreme, this leads to resignation, depression, and isolation        | **Merging** - they want to take the energetic qualities of the other types, gravitating to aggressive types. Sassier and angry when they feel their connections with others is threatened. They seek a complete partnership with no distinction between the two halves. They can idealize but also be critical and demanding. <br><br>They fail to develop any sense of independence. They cling to the other and make them a part of their identity. They feel lost when the fantasy of merging is never met, leading to a simmering anger. They end up either in highly dependent relationships or floundering on their own or becoming a function of past relationships.        |
 
 
 * *Social Roles* 
@@ -239,158 +301,25 @@
 | 1 | **The Educator** - the person to instill wisdom to the ignorant, although this can spiral to being irritable and expecting others to live up to their high standards. |
 | 2 | **The Confidante** - the best friend others seek advice to and share special secrets with, however this can spiral to feeling the need to get closer to someone (i.e., via flattery) or to tout their intimacy with their friends.  |
 | 3 | **The Best** - the person who must always be outstanding. Seeing themselves as the Best compensates for their insecurities. They find self-esteem by meeting the expectations of others, but these expectations may change.  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
-| 7 |  |
-| 8 |  |
-| 9 |  |
+| 4 | **The Special One** - the one who isn't like other people, potentially contrarian and eccentric. They end up depriving themselves of many sources of satisfaction. They end up creating a negative identity as a result of rejecting the positive qualities they share with others.  |
+| 5 | **The Expert** - they carve a niche for themselves to hide their insecurities. They want to surpass everyone in that niche. At the same time, they are aware of the areas they haven't mastered especially those that relate to the practical and social aspects of "real life".   |
+| 6 | **The Stalwart** - they invest time into their commitments, hoping the sacrifice is paid off with increased support and security from the higher ups. This leads to a sense of insecurity when they wonder if they would still be supported if they stopped.  |
+| 7 | **The Energizer** - the person who must excite everyone. They become the center of attention and also mischief which begins to evolve to something tiresome for themselves and especially for others. They cannot relate to others and interpret them not keeping up as rejecting them.  |
+| 8 | **The Rock** - the strong foundation for everyone else. They show their strength but also hide their weakness. They lash out against threats.  |
+| 9 | **Nobody Special** - they modest person who stays in the background to not inconvenience others. They minimize their hopes and (get others to) focus on others rather than themselves, leading to depression and loneliness. |
 
-# Dynamics 
-* *Manipulation Rules* indicate how the types manipulate others 
-
-|  | Manipulation  |
-| ---- | ---- |
-| 1 | Correcting Others -- insisting others share their standards  |
-| 2 | Finding out others' needs and desire -- then creating dependencies  |
-| 3 | Charming Others -- and by adopting whatever image works  |
-| 4 | Being temperamental -- and making others walk on eggshells  |
-| 5 | Staying preoccupied -- and by detaching emotionally from others  |
-| 6 | Complaining -- and testing others' commitment to them  |
-| 7 | Distracting others -- and by insisting others meet their demands  |
-| 8 | Dominating others -- and by demanding that others do as they say  |
-| 9 | Checking out -- and passive-aggressively resisting others  |
-
-* *Leaden Rules* -the way that the types force themselves on others when manipulation fails. *Do unto others what you most fear having done unto you*.
-
-|  | Leaden Rule |
-| ---- | ---- |
-| 1 | Point out the evil, corruption and defectiveness in others  |
-| 2 | Make others feel unworthy of their love, generosity or attention  |
-| 3 | Make others feel valueless by treating them arrogantly or with contempt  |
-| 4 | Treat people disdainfully as if others were nobodies  |
-| 5 | Make others feel helpless, incompetent and incapable  |
-| 6 | Undermine the support system of others to isolate them  |
-| 7 | Cause pain and make others feel deprived in various ways  |
-| 8 | Make others feel they will be harmed or controlled by their threats  |
-| 9 | Make others feel they have lost connection by tuning others out.  |
-
-* *Direction of Disintegration*
-
-|  | Disintegration           | New Type |
-| ---- | ------------------------ | -------- |
-| 1    | Methodical to Irrational, Disenchanted, Hypocritical, and Self-Indulgent.   | 4        |
-| 2    | Needy to Aggressive, Dominating, Blunt, and Controlling                         | 8         |
-| 3    | Driven to Disengaged, Apathetic, Disillusioned, and Complacent                          | 9         |
-| 4    | Aloof to Over-involved and Clinging                          | 2         |
-| 5    | Detached to Hyperactive and Scattered                          | 7         |
-| 6    | Dutiful to Competitive and Arrogant                         | 3         |
-| 7    | Scattered to Perfectionistic and Critical                          | 1         |
-| 8    | Self-Confident to Secretive and Fearful                          | 5         |
-| 9    | Complacent to Anxious and Worried                          | 6         |
-
-* *Direction of Integration* 
-
-|  | Integration | New Type |
-| ---- | ---- | ---- |
-| 1 | Angry and Critical to Spontaneous, Joyful, Curious and Open Minded  | 7 |
-| 2 | Prideful and Self-deceptive to more Self-nurturing, Creative and Emotionally Aware of their Physical and Emotional Needs | 4 |
-| 3 | Vain and Deceitful to Cooperative, Selfless, Committed to others, and Courageous enough to ask for help.   | 6 |
-| 4 | Envious and Emotionally Turbulent to more Objective and Principled  | 1 |
-| 5 | Avaricious and Detached to more Self-confident and Decisive    | 8 |
-| 6 | Fearful and Pessimistic to more Relaxed and Optimistic  | 9 |
-| 7 | Gluttonous and Scattered to more Focused and Profound  | 5 |
-| 8 | Lustful and Controlling to more Open-hearted and Caring  | 2 |
-| 9 | Slothful and Self-neglecting to Self-developing and Energetic  | 3 |
-
-# Levels of Development 
-## Healthy 
-|  | Level 1 | Level 2 | Level 3 |
-| ---- | ---- | ---- | ---- |
-| 1 | Accepting, Wise | Evaluating, Reasonable | Principled, Responsible |
-| 2 | Self-nurturing, Unconditionally Loving | Empathetic, Caring | Principled, Responsible |
-| 3 | Inner-Directed, Authentic | Adaptable, Admirable | Goal-Oriented, Self-Improving |
-| 4 | Life-embracing, Life enhancing | Introspective, Sensitive | Self-Revealing, Creative |
-| 5 | Participating, Visionary | Observant, Perceptive | Focused, Innovative |
-| 6 | Self-Reliant, Courageous | Engaging, Reliable | Committed, Cooperative |
-| 7 | Joyous, Satisfied | Anticipating, Enthusiastic | Realistic, Productive |
-| 8 | Self-Surrendering, Heroic | Self-Reliant, Strong  | Self-Confident, Leading |
-| 9 | Self-Possessed, Indomitable  | Unself-conscious, Peaceful | Unselfish, Comforting |
-
-## Average 
-|  | Level 4 | Level 5 | Level 6 |
-| ---- | ---- | ---- | ---- |
-| 1 | Obligated, Striving | Self-Controlled, Orderly | Judgmental, Critical |
-| 2 | Well-intentioned, People-pleasing | Possessive, Intrusive | Self-important, Overbearing |
-| 3 | Success-Oriented, Performing | Image-Conscious, Expedient | Self-Promoting, Grandiose |
-| 4 | Romanticizing, Individualistic | Self-Absorbed, Temperameental | Self-Indulgent, Decadent |
-| 5 | Conceptualizing, Preparing | Detached, Preoccupied | Extreme, Provocative |
-| 6 | Dutiful, Loyal | Ambivalent, Defensive | Authoritarian, Blaming |
-| 7 | Acquisitive, Consuming | Distracted, Scattered | Self-Centered, Excessive |
-| 8 | Pragmatic, Enterprising | Self-Glorifying, Dominating | Confrontational, Intimidating |
-| 9 | Self-Effacing, Agreeable | Disengaged, Complacent | Resigned, Appeasing |
-
-
-## Unhealthy 
-|  | Level 7 | Level 8 | Level 9 |
-| ---- | ---- | ---- | ---- |
-| 1 | Self-Righteous, Inflexible | Obsessive, Contradictory | Condemnatory, Punitive |
-| 2 | Self-justifying, Manipulative | Entitled, CCoercive | Feeling Victimized, Burdensome |
-| 3 | Unprincipled, Deceptive | Duplicitous, Opportunistic | Monomaniacal, Relentless |
-| 4 | Hateful, Alienated | Self-Rejecting, Clinically Depressed | Despairing, Life-Denying |
-| 5 | Nihilistic, Eccentric | Horrified, Delirious | Seeking Oblivion, Self-Annihilating |
-| 6 | Panicky, Unreliable | Paranoid, Lashing Out | Self-Abasing, Self-Destructive |
-| 7 | Insatiable, Escaping | Manic (Depressive), Reckless | Overwhelmed, Paralyzed |
-| 8 | Ruthless, Dictatorial | Megalomaniac, Terrorizing | Sociopathic, Destructive |
-| 9 | Repressed, Neglectful  | Dissociating, Disoriented  | Self-Abandoning, Disappearing |
-
-
-# Pathologies and Neuroses 
-* *Wake Up Calls* - indicate that the type is moving from the healthy range to the more fixated average range. 
-
-|  | Wake Up Call |
-| ---- | ---- |
-| 1 | Feeling a sense of personal obligation to fix everything themselves  |
-| 2 | Believing they must go out to others to win them over  |
-| 3 | Beginning to drive themselves for status and attention  |
-| 4 | Holding on to and intensifying feelings through the imagination  |
-| 5 | Withdrawing from reality into concepts and mental worlds  |
-| 6 | Becoming dependent on something outside the self for guidance |
-| 7 | Feeling that something better is available somewhere else  |
-| 8 | Feeling that they must push and struggle to make things happen  |
-| 9 | Outwardly accommodating themselves to others  |
-
-* *Red flags* - fears that indicates the type is moving from the average range to the unhealthy range of behaviors 
-
-|     | Pathological Warning Signs                                                                                                                                                                                                                                                                                                             | Red Flag                                                     |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 1   | Taking rigidly Inflexible positions <br>Extremely self-righteous and very judgmental <br>Rationalizing and justifying their own actions <br>Intense feelings of disillusion and depression<br>Outbursts of rage, intolerance and condemnation<br>Obsessive thinking and Compulsive behaviors<br>Periods of masochistic self-punishment | Their ideals are wrong and counterproductive                 |
-| 2   | Extreme tendencies toward self-deception<br>Acting with a sense of delusional entitlement / Histrionics <br>Episodes of manipulating and coercing others<br>Episodes of obsessive love out of keeping with age or status<br>Evidence of repressed aggression acted out inappropriately <br>Physical symptoms of emotional problems                                                                                                                                                                                | They are driving friends and loved ones away                 |
-| 3   | Physical exhaustion and burnout from relentless workaholism <br>Increasingly false self-image, dishonesty and deceptiveness<br>Lack of feelings and inner emptiness<br>Concealing the degree of their emotional distress <br>Jealousy and unrealistic expectations of success<br>Exploitation and Opportunism <br>Severe episodes of rage and hostility                                                                                                                                                                                                                                                                                                                                       | They are failing, their claims are empty and fraudulent      |
-| 4   | An oppressive sense of alienation from self and others <br>Extreme emotional volatility and touchiness (not a manic reaction)<br>Dependency on one or two others, with unstable relationships <br>Outbursts of rage, hostility and hatred <br>Chronic, long-term depression and hopelessness <br>Episodes of self-sabotage and rejecting positive influences <br>Obsessions with death, morbidity and self-hatred                                                                                                                                                                                                                                                                                                                                       | They are ruining their lives and wasting their opportunities |
-| 5   | Increasing tendency to isolate themselves <br>Chronic physical neglect, letting themselves go <br>Chronic and severe insomnia, nightmares, and sleep disorders <br>Increasing eccentricity -- loss of interest in social skills <br>Refusing help, or even being hostile to it <br>Distorted perceptions, hallucinations <br>Talk of suicide                                                                                                                                                                                                                                                                                                                                        | They are never going to find a place in the world            |
-| 6   | Intense anxiety and panic attacks <br>Acute inferiority feelings and chronic depression <br>Constant fear of losing support from others <br>Alternating dependency and impulsive displays of defiance <br>Keeping bad company and attachments to abusive relationships <br>Extreme suspiciousness and paranoia <br>Hysterical lashing-out at perceived enemies <br>                                                                                                                                                                                                                                                                                                                                       | Their own actions have harmed their security                 |
-| 7   | Extreme dissipation and attempts to escape anxiety <br>Serious longstanding and debilitating addictions <br>Impulsiveness, Offensiveness, and Infantile reactions <br>Compulsive activities and highly elated mood <br>Periods of being out of control <br>Mania, Depression, and Wild Mood swings <br>Period of panic and paralyzing terror                                                                                                                                                                                                                                                                                                                                        | Their activities are bringing them pain and unhappiness      |
-| 8   | Paranoid feelings of being betrayed by their people <br>Increasing social isolation and bitterness <br>Lack of conscience and empathy; Callous hard-heartedness <br>Episodes of rage, violence, and physical destructiveness <br>Plotting vengeance and retaliation against enemies <br>Seeing self as an outlaw; Involvement with criminal behavior <br>Episodes of striking back at society (sociopathy)                                                                                                                                                                                                                                                                                                                                       | Others are turning against them and will retaliate           |
-| 9   | Denial of serious health, financial, or personal problems <br>Obstinacy and long-standing resistance to getting help <br>General awareness and vitality dampened and repressed <br>A sense of inadequacy and general neglectfulness <br>Dependence on others and allowing themselves to be exploited <br>Chronic depression and emotional flatness (anhedonia)<br>Extreme dissociation (feeling lost, confused, deeply disconnected)                                                                                                                                                                                                                                                                                                                                       | They will be forced by reality to deal with their problems   |
-
-
-# The Call towards Transformation
-
-|  | Call | Remember it is in our nature to... | Transformation | Essential Gift  | Essential Quality |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| 1 | To live for a Higher Purpose | Be wise and discerning | Realize that we can suspend our judgment about what we should do. <br><br>Accept reality as it is, and to accept ourselves as we are. and not what is our ideal. | **Perfection** - they know that the universe is perfect as it is, as all things unfold as things ought to.  | **Integrity** - all parts of the whole, even the flawed, contribute to create something more than the sum of its parts. The right amounts are needed for all situations. |
-| 2 | To nurture yourself and others | Be good to yourself and have goodwill and compassion to others | Realize that they aren't going to heal their hearts through self-sacrifice. <br><br>Love is not a commodity. Real Love is present in ourselves and others | **Unconditional Love** - love is omnipresent. They do not need to give or to get love from others. | **Freedom** - we have love and value. We are love and value, embodied. There is no need to search for more. |
-| 3 | To develop yourself and set an example for others | Take pleasure in your existence and to esteem and value others | Let go of the notion that their value is dependent on the positive regard of others. <br>The mask must come off and the inner emptiness must be acknowledged  | **Authenticity** - they are genuine, striving to be no more or less than they really are.  | **Value** - we are valuable because we exist. We imbue value on the things around us. We cannot be without value, we can only forget that it is there.  |
-| 4 | To let go of the past and be renewed by your experiences | Be forgiving and use everything in life for your growth and renewal |  |  |  |
-| 5 | To observe yourself and others without judgment or expectations | Be engaged with reality, contemplating the infinite riches of the world |  |  |  |
-| 6 | To have faith in yourself and trust in the goodness of life | Be courageous and capable of dealing with life under all conditions |  |  |  |
-| 7 | To joyously celebrate existence and share your happiness | Be happy and to add to the richness of experience for everyone |  |  |  |
-| 8 | To stand up for yourself and to speak out for what you believe | Be strong and capable of affecting the world in many different positive ways |  |  |  |
-| 9 | To bring peace and healing into your world | Be an inexhaustible font of serenity, acceptance and kindness to the world |  |  |  |
 
 # Links 
+* [[Enneagram - Dynamics and Development]]
+
 * [The Enneagram Institute](https://www.enneagraminstitute.com/type-descriptions)
 * [[The Wisdom of the Enneagram -- The Complete Guide to Psychological and Spiritual Growth for the Nine Personality Types by Riso and Hudson]]
 	* Gives more detail on each of the types 
 * [9types](http://www.9types.com)
+
+* [Eclectic Energies](https://www.eclecticenergies.com/enneagram) - Enneagram Test. 
+	* Personal results (sorted from strongest to weakest, clustered based on how close they are to each other)
+		* 5 (both wings but leaning to 5w6) , 
+		* 1w9 , 9w1
+		* 3w4 , 6w5, 
+		* 4w5, 8w9, 7w6

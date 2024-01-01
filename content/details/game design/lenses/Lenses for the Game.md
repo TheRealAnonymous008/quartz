@@ -14,7 +14,7 @@
 * The primary benefit of basing your design around a single theme is that *all of the elements of your game will reinforce one another*, since they will all be working toward a common goal. 
 	* The sooner the theme is identified, the better
 	* When the theme is identified, reinforce it as much as possible.
-* *The best theme is a theme that [[details/narrative/plot/Story by Robert McKee|resonates]] with players*. Those that are archetypal and universal and they elevate the game.
+* *The best theme is a theme that [[details/narrative/plot/Story by Robert McKee|resonates]] with players*. Those that are [[Archetypes|archetypal]] and universal and they elevate the game.
 * Themes operate on the subconscious level. It is about focusing the experience to something important to the players. 
 * Relevant lenses: [[Lenses for Game Design - Lenses#11. Unification|Unification]], [[Lenses for Game Design - Lenses#12. Resonance|Resonance]].
 

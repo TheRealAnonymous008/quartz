@@ -1,5 +1,8 @@
 * Pathologies in a [[System Dynamics|system]] arise due to how [[Properties of Systems#Systems as Models|surprising]] systems tend to be.
 
+![[System Archetypes.png]]
+<figcaption> A collection of common system archetypes Attribution: Mywikipedian, CC BY-SA 4.0  </figcaption>
+
 * **Policy Resistance**  - *when various actors try to pull a system stock towards various goals*. Any new policy, especially if it is effective  just pulls the stock farther from the goals of other actors, and produces additional resistance, with a result that no one likes, but that everyone expends considerable effort in maintaining. 
 	* It comes from the bounded rationalities of the actors in the system. In particular, they arise when the goals of subsystems are different to the goals of the global system. 
 	* The greater the *discrepancy between personal and societal goals*, the more resistant to change since agent actions counter each other.
