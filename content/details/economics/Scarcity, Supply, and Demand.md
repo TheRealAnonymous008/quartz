@@ -5,6 +5,11 @@
 	* [[Static Games of Complete Information|Knowing the opportunity costs can alter behavior]].
 * **Marginal analysis** - a form of analysis where we examine the costs and benefits of choosing a little more or a little less of a good. 
 * **Utility** pertains to the perceived value of a particular good. 
+	* The **marginal utility** is given by 
+	  $$
+	  \text{MU} = \frac{\Delta \text{ Total utility}}{\Delta \ \text{Quantity}}
+	  $$
+	  
 	* *A rational consumer purchases additional units of a product as long as marginal utility is greater than opportunity cost*.
 	* In rational decision making [[Logical Fallacy Biases|Sunk costs]] should not affect decisions.
 

@@ -7,6 +7,7 @@
 * [[Human Biases]]
 * [[Thinking Fast And Slow]]
 * [[Archetypes ]]
+* [[Behavioral Economics]]
 
 
 * [[Persuasion]]
