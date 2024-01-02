@@ -4,6 +4,8 @@
 * *Pixel art can be thought of as sculpting with color* - we assemble the forms through blobs of color.
 	* That said sometimes it is more convenient to start with a rough 1px outline
 
+* Side views and fine contours are difficult to do and capture in pixel art.
+
 # Lines and Curves 
 * *To achieve smooth curves:* 
 	* Vary the lengths of the segments in a continuous manner. This prevents Jaggies 

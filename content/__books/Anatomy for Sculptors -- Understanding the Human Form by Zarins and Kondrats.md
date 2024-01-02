@@ -1,0 +1,4 @@
+---
+aliases:
+  - Zarins and Kondrats
+---

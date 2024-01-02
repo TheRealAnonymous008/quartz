@@ -7,7 +7,7 @@
 
 * Closely related is [[1984|doublethink]] - the ability to hold two opposing thoughts at the same time and believe both of them. 
 # Kinds of Doublespeak 
-* **Euphemism***  - an inoffensive or positive word or phrase to avoid an undesirable reality with the intent of diverting attention from said reality.
+* **Euphemism**  - an inoffensive or positive word or phrase to avoid an undesirable reality with the intent of diverting attention from said reality.
 
 * **Jargon** - the specialized language of a trade, profession or similar group with the intent to give an air of profundity, authority and prestige to speakers and their subject matter. This becomes even more apparent when the audience is not in the group that uses the jargon. 
 
