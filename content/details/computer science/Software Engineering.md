@@ -5,6 +5,7 @@
 	* Developers and Users to better understand the problem specifications and each other.
 	* Knowledge of the domain to be encoded directly into the code, so that future developers can easily catch up.
 	* More readable code that aligns with the problem specifications.
+
 # Topics
 * [[Object Oriented Programming]]
 * [[Clean Code Principles]]

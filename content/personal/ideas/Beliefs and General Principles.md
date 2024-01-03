@@ -36,6 +36,19 @@ Even if one does not wish to rule over others, one is forced by virtue of human 
 
 Without Power, You are Nothing.
 
+# Productivity 
+* [Speeding up development: A collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/)
+	* Feel good and keep stress to a minimum 
+	* Keep yourself focused 
+	* Allocate specific times for emails 
+	* Do not answer your colleagues within 5 minutes. Let them find the answer themselves 
+	* Use quick win labels -- short term victories and strategically placed low hanging fruit 
+	* Automation 
+	* Gain more knowledge. 
+	* Be an expert in what you do. 
+
+* [[The Cult of Done Manifesto|Get things done]].
+
 # Learning
 * [Metalearning--Learning what, why and how to learn a subject improves the pace of self-learning](https://www.youtube.com/watch?v=NuTU9YFqZqQ)*
 
@@ -56,7 +69,6 @@ Without Power, You are Nothing.
 * [As of June 2023, the development of LLMs has felt stifled due to alignment concerns. In my opinion that shouldn't be the case considering we are limiting the potential advancement of ML towards AGI](https://www.youtube.com/watch?v=WbruLepPZyU)
 
 # Others
-
 * [Happiness is a byproduct of living well](https://www.youtube.com/watch?v=9nVL9nSix1A)
 
 * [Be more deliberate about what you consume, because you don't have time to consume all of it](https://www.youtube.com/watch?v=wyoNGSKWIaw)
@@ -64,8 +76,6 @@ Without Power, You are Nothing.
 * [People who tell you what to do in a bad, unempathetic way are doing it for an ego boost. People who tell you what to do in an understanding and subtler way are much more convincing and persuasive. People tend to like those that are perceived as unselfish](https://www.youtube.com/watch?v=vB9wQt_l62w)
 
 * [[Realizations to Avoid Fallacious Thinking|Be wary of your own biases and lines of reasoning]].
-
-* [[The Cult of Done Manifesto|Get things done]].
 
 * Subjectivity is baked into human intelligence because if intelligence requires discernment, and humans are incapable of building a perfect model of the world, then inherently we are making judgments based on imperfect models (i.e., discernment implies subjectivity).
 

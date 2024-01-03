@@ -5,11 +5,6 @@
 	* [[Static Games of Complete Information|Knowing the opportunity costs can alter behavior]].
 * **Marginal analysis** - a form of analysis where we examine the costs and benefits of choosing a little more or a little less of a good. 
 * **Utility** pertains to the perceived value of a particular good. 
-	* The **marginal utility** is given by 
-	  $$
-	  \text{MU} = \frac{\Delta \text{ Total utility}}{\Delta \ \text{Quantity}}
-	  $$
-	  
 	* *A rational consumer purchases additional units of a product as long as marginal utility is greater than opportunity cost*.
 	* In rational decision making [[Logical Fallacy Biases|Sunk costs]] should not affect decisions.
 
@@ -117,15 +112,7 @@
 * How producers save their money affects supply. Similarly, how consumers borrow money affects demand.  
 
 * *Usury laws act as price ceilings.* 
-# Elasticity 
-* **Elasticity** *pertains to the responsiveness of one variable to changes in another variable. More responsiveness = more elastic* 
-	* It is expressed as a ratio of two percentages 
-	  
-	  $$
-	  \text{elasticity} = \frac{\% \text{ change in variable A}}{\% \text{ change in variable B}}
-	  $$
-	  
-	  
+# Elasticity 	  
 * **Price elasticity** is the ratio between the percentage change in the quantity and the corresponding percent change in price. There are various kinds of elasticity 
 
 $$

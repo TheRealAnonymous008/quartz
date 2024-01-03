@@ -1,4 +1,22 @@
 * **Economics** is the study of how human make decisions in the face of scarcity. **Scarcity** means that wants exceed available resources.
+
+# General Quantities 
+* Marginal analysis is just a discretized form of [[Differential Calculus|the derivative]]. 
+	* *Example*: The marginal cost with respect to quantity is $\frac{\Delta C}{ \Delta Q}$
+	* *Notation*: For convenience, when we say, the marginal $X$ with respect to $Y$, we mean
+	  $$
+	  \text{MX} = \frac{\Delta X}{\Delta Y}
+	  $$
+	  By default, assume $Y$ is quantity 
+	  
+* **Elasticity** *pertains to the responsiveness of one variable to changes in another variable. More responsiveness = more elastic* 
+	* It is expressed as a ratio of two percentages 
+	  $$
+	  \text{elasticity} = \frac{\% \text{ change in variable A}}{\% \text{ change in variable B}}
+	  $$
+  * *Notation*: By default, assume elasticity is with respect to quantity. 
+
+# The Market 
 * The **division of labor** means that the way one produces a good or service is divided into a number of tasks that different workers perform rather than one person doing al the tasks.
 	* *Division of labor counters scarcity*. 
 	* *Division of labor increases production* for three reasons [^1]
@@ -30,7 +48,6 @@
 
 # Unfiled 
 * **Tax Incidence** - the analysis of how tax burdens can be divided between consumers and producers
-
 # Topics 
 * [[Microeconomics]] - focuses on the actions of individual agents within the economy
 	* [[Behavioral Economics]]

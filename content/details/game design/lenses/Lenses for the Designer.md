@@ -165,7 +165,7 @@
 	* *The challenge isn't to get the game to the store, it's to stand out from the rest*. 
 	* Marketing has become more important.
 		* **Red Ocean Markets** - bigger competitors survive. The small fish are driven away 
-		* **Blue Ocean Markets** - relatively few competitors. Very new but sometimes there are barriers for entry. 
+		* **Blue Ocean Markets** - relatively few competitors. Very new but sometimes there are [[Theory of the Firm#Monopoly|barriers to entry]]. 
 
 * *Know your audience, how they pay and why*. Consider if you are making a hardcore or a casual game. 
 	* Hardcore gamers are willing to pay a high price for content that means a lot to them. 
