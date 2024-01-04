@@ -1,3 +1,5 @@
+* In some sense ,*gameplay involves learning in an enjoyable form*
+* Compared to other media, *[[#Interactivity|games offer interactivity]]*. 
 # Meaningful Play
 * Play is a significant function-that is to say, there is some sense to it. In play there is something "at play" which transcends the immediate needs of life and imparts meaning to the action. All play means something
 *  *Play comes not just from the game itself, but from the way players interact with the game, other players, and the context*.

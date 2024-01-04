@@ -66,8 +66,14 @@
 	* It can counter [[Static Games of Complete Information#Strict Dominance|dominant strategies]]. 
 
 # Meaningful Mechanics 
-* Remember that [[Games as Play#Play of Meaning|games are systems of meaning]]. 
+* Remember that [[Games as Play#Play of Meaning|games are systems of meaning]] but also that [[The Fundamentals of Game Design|games are interactive by nature]]. Ergo, *a meaningful game is driven by meaningful mechanics*
+* Games can subtly deliver messages simply through their mechanics. In essence, as if telling a [[Narrative]] but through the mechanistic rules the game world operates in. 
+	* But crucially, *games demand players take an active role in realizing these messages*. Games do not teach directly; they teach through consequences.
+	* There is a danger of the game being simplified as an optimization problem and its underlying message lost. Consider [[Players and Why We Play Games|the demographic]] and the [[Lenses for the Experience|experience of the game as a whole]]. 
+* *The mechanics affect how a game is experienced*. 
+* *Design mechanics around the most important aspect -- the essential experience of the game*
 
+* As a game designer you should always be on the lookout to create systems where the number of meaningful combinations is large and possibly endless.
 # Links 
 * [[Game Mechanics -- Advanced Game Design by Adams and Dormans]]
 	* Ch. 5-6 covers the Machination framework in detail. 

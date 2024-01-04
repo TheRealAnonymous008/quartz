@@ -4,13 +4,15 @@
 
 * Games are fundamentally inefficient ways to do things (via the lusory attitude) but they imbue an experience with meaning as the players suspend their disbelief.
 
-* [For interactive games, design the player characters not based on what they can do, but how they will be used](https://www.youtube.com/watch?v=7EpgjR-k3fE)
 
-* Design for player experience not realism. 
 
 * There are two camps when it comes to games. In some sense both are right because at the end of the day, a game is about creating an experience. 
 	* **Narratologists** - story precedes gameplay 
 	* **Ludologists** - gameplay precedes story.
+
+* [For interactive games, design the player characters not based on what they can do, but how they will be used](https://www.youtube.com/watch?v=7EpgjR-k3fE)
+* Design for player experience not realism. 
+
 
 * [Games in Powerpoint are a thing](https://www.youtube.com/watch?v=KDUiw2BHE5Y)
 # Topics

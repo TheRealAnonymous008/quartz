@@ -87,7 +87,7 @@
 * Games as cybernetic systems are based on the interaction of inputs and outputs with its internal mechanism.
 * *Games are systems that rely on feedback mechanisms*. The design of feedback [[Game Economy|mechanisms]] shape the tendencies of the game, the game balance, and the tendencies of players during play.
 
-* *Being composed of possibly multiple cybernetic systems, games are inherently complex*. 
+* *Being composed of possibly multiple cybernetic [[System Science|systems]], games are inherently complex*. 
 * In design, we should *play with the presence of negative and positive feedback loops*. 
 	* Feedback systems can emerge from your game systems by accident. 
 	* Feedback systems can take control away from the players.

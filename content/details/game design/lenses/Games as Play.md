@@ -168,10 +168,11 @@
 ### Play of Simulation
 * *Games are [[#Play of Meaning|representation]] systems where representations can arise from the player interacting with the game systems itself*. 
 	* This type of representation is called **procedural representation** -- it is the kind of representation that emerges from a process. 
-	* *As a simulation, a game is a procedural representation of aspects of "reality". *
+	* *As a simulation, a game is a procedural representation of aspects of "reality".*
 	* The objects within a game gain their meanings and representations in part because of how they interact with the formal systems.
 	* Unlike other simulations, games are not beholden to a notion of representing empirical truth.
 	* Games as simulations also include the ways in which the system permits player action.
+	* *Games simulate for the purpose of entertainment rather than accuracy*.
 
 * *Every game, on some level represents [[Games as Rules#Systems of Conflict|conflict]]*. Games simulate some form of conflict through its formal systems.
 	* **Territorial Conflict** - the play area dynamically represents the territory over which battle is waged.
@@ -187,7 +188,16 @@
 * As designers, we choose which aspects to simulate -- ultimately the goal is to simulate what would contribute to meaningful play. 
 	* *Promise the right amount of breadth* - if players expect the game to be an immersive simulation, they may be disappointed if their options are limited.
 	* [[Creativity#Principles|Limitation is not a bad thing]].
-	* *It is generally bad design to include information that does not contribute to an understanding of what is going on*> 
+	* *It is generally bad design to include information that does not contribute to an understanding of what is going on*
+	* *Designers ultimately abstract reality* by eliminating aspects that do not contribute to the experience and by simplifying the complexities of reality that have little effect to the mechanics.
+		* As such *Simulations are not real to begin with* because the designers choose what to abstract away. 
+		* **Analogous Simulations** - are based on a relationship between the source system and their simulation mechanics. Similar mechanisms are replaced with one mechanism 
+		* **Symbolic Simulations** - are based on an arbitrary and conventional relationship between the source and the simulation (for example, dice being used to represent the outcome of a battle). Disparate mechanisms become connected. 
+		* Both analogous and symbolic simulations reduce the system to be simpler but still capture the essential dynamics of the real life source. This has some advantages 
+			* The player can focus on the essential details of the game 
+			* The system gives more feedback and can cycle through faster 
+			* The game designer can design the game easier. 
+			* Insights gathered from an abstracted system can be applied to other situations too.
 
 * [[#Narrative Play]] can also be framed as a form of simulation -- players simulate the lived experiences of the player character. In turn, the simulation of the player character brings it to life as a representation of a character.
 	* *A player relates to a game character through the double consciousness of play*
@@ -264,3 +274,4 @@
 	* However, at the same time, most metagaming comes from when play communicates with the outside context.
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman]]
+* [[Game Mechanics -- Advanced Game Design by Adams and Dormans|Adams and Dormans]] - Ch. 12 - more on the simulation aspects of games. 
