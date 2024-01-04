@@ -1,5 +1,8 @@
 # Problem Statements
 * [^Yang_2021] We formulate the MARL problem using an extension of [[Markov Processes in Machine Learning|MDPs]]. 
+
+[^Yang_2021]: Yang and Wang (2021). [An Overview of Multi-agent Reinforcement Learning from Game Theoretical Perspective](https://arxiv.org/pdf/2011.00583.pdf)
+
 * A **stochastic [[Game Theory|game]]** is defined as a set of key elements
   
   $N$ is the number of agents. 
@@ -105,6 +108,17 @@
   $$
 
 	* Here the agent's policy is *optimized against an opponent that seeks to minimize the agent's return*
+	* In the general case, we can solve this with [[Linear Programming]] by solving the following
+	  
+	  $$
+	  \begin{split}
+	  \text{minimize} & \ \ \  \ \ \ U_j \\ 
+	  \text{subject to} & \ \ \ \ \ \ \sum_{a_i\in A_i} R_j (a_i,a_j) \ \pi_i(a_i) \\ 
+	  & \ \ \ \ \ \  \pi_i(a_i) \ge 0 \\
+	  & \ \ \ \ \ \ \sum_{a_i\in A_i} \pi_i(a_i) = 1
+	  \end{split}
+	  $$
+
 
 * In a general-sum game with $n$ agents, a joint policy $\pi$ is in **[[Static Games of Complete Information|Nash Equilibrium]]** if  $\forall i, \pi'_i$
   

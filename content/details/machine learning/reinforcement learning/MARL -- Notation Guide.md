@@ -29,3 +29,12 @@
 * $\text{Regret}_i^z$ - the regret of the $i$-th agent when examining the history from episode $1$ to $z$ (inclusive).
 ***** 
 * $\bar{\pi}^z$ - empirical distribution obtained from following policy $\pi$. 
+* $M_{i,s}$ - minimax solution for agent $i$ and starting at state $s$.
+* $\Gamma_{s}(a)$ - JAL-GT game starting from $s$
+* $\Gamma_{s,i}(a)$ - JAL-GT game starting from $s$ and entry for agent $i$
+* $\hat{\pi}$ - a model for policy $\pi$.
+* $C(a)$ - number of times action $a$ was selected 
+* $C(a,s)$ - number of times action $a$ was selected when in state $s$.
+* $\text{AV}_i(s,a_i)$ - expected value of agent $i$ for taking action $a_i$ when in state $s$
+* $\text{VI}$ - value of information 
+* $\overline{\pi}$ - average of past policies. 

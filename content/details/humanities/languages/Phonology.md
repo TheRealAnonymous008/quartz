@@ -22,6 +22,9 @@
 	* Another way to say this, is that some rules may specify that for certain words, all vowels should share a feature (i.e., all vowels are back).
 
 * Many languages put their stresses as far left or as far right as possible (subject to other rules), for words that have only one stress.
+
+* **Sonority Sequencing Principle** - in general, for most languages, the initial sound of the syllable must rise in sonority (loudness), and the ending sound of the syllable must fall in sonority  
+	* This is why vowels tend to be in the middle of syllables. 
 # Links
 * [[Phonetics]] - more on how sounds are classified.
 * [[Linguistics]]

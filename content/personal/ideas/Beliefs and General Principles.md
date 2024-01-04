@@ -62,6 +62,8 @@ Without Power, You are Nothing.
 
 * As of writing (2023), this field has been rapidly growing. While there are ways for it to be used poorly, it can also finally bring about a better society overall--a change in values and way of thinking; more convenience, and more time for people to pursue their passions for their own sake, while letting machines do the rest. 
 
+* Disruptive technology will be seen as bad by the masses (i.e., how AI is seen in 2023) out of fear that people will be replaced by machines. Yet, machines free our minds to think of more meaningful things. Perhaps a radical cultural shift, a maturation of our society is needed to accept these changes.
+
 * Automated Theorem Proving and [[Machine Learning and Mathematical Reasoning|Mathematical Reasoning]] is very interesting. Maybe we'll have an ML model that will be as good as a mathematician.
 
 * [Silicon-based Photonics is a promising future for running large AI models in a more efficient way]((https://www.youtube.com/watch?v=t0yj4hBDUsc)
@@ -80,3 +82,5 @@ Without Power, You are Nothing.
 * Subjectivity is baked into human intelligence because if intelligence requires discernment, and humans are incapable of building a perfect model of the world, then inherently we are making judgments based on imperfect models (i.e., discernment implies subjectivity).
 
 * [[System Opportunities|Be a systems thinker]]. 
+
+* Collective stupidity and collective madness are manifestations of a collective uncertainty where [[Persuasion#Social Proof|members]] of the society try to copy each other and end up going nowhere.

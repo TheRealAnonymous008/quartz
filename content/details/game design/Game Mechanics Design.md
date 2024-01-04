@@ -64,6 +64,10 @@
 * Randomness can be a useful strategy 
 	* It can force players to improvise (assuming the playing field remains fair). The deciding factor becomes the ability to prepare and adapt. 
 	* It can counter [[Static Games of Complete Information#Strict Dominance|dominant strategies]]. 
+
+# Meaningful Mechanics 
+* Remember that [[Games as Play#Play of Meaning|games are systems of meaning]]. 
+
 # Links 
 * [[Game Mechanics -- Advanced Game Design by Adams and Dormans]]
 	* Ch. 5-6 covers the Machination framework in detail. 

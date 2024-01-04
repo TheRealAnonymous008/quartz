@@ -72,6 +72,24 @@
 		* There is at least one policy that guarantees that a goal state will be reached with probability $1$ from any start states.
 		* All rewards for transitions on non-goal states are strictly non-negative.
 		* All initial values are $\ge$ their optimal values.
+
+# Stochastic Games 
+* DP can also be used for [[MARL from a Game Theoretic Perspective|Stochastic Games]].  The update rule is for a minimax solution to the non-repeated normal-form. Denote this by $M_{i,s}$ for agent $i$ and state $s$
+  
+  $$
+  M_{i,s}^\ast = \sum_{s'\in S} \ \mathcal{T} (s'\mid s, a) \left[ R_i(s,a,s') + \gamma V_i^\ast (s')\right]
+  $$
+
+* After updating all possible $M_{i,s}$'s we can update the value function of the $i$-th agent 
+  
+  $$
+  V_i^\ast (s) \gets\text{Value}_i (M_{1,s}^\ast ,\dots, M_{n,s}^\ast )
+  $$
+  
+  Where $\text{Value}_i$ is the minimax value for agent $i$. 
+
+* This reduces to the usual Bellman equations in the single-agent case 
+
 # Links
 * [[Markov Processes in Machine Learning]] - for an overview of MDPs
 
@@ -79,6 +97,7 @@
 	* 4.1 - for Policy Evaluation
 	* 4.4 - for Value Iteration
 	* 8.7 - Real Time DP
+* [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] - Ch. 6.1
 
 * [Stanford CS234](https://www.youtube.com/watch?v=E3f2Camj0Is&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=2)
 	* At time 55:55, the Policy Improvement Theorem is explained.

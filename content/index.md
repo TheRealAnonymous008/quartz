@@ -97,7 +97,7 @@ More about me.
 * [[Beliefs and General Principles]]
 * [[Interesting People]]
 * [[Literature Index]]
-* [[Running Thoughts]] - contains unfiled thoughts.
+* [[Running Thoughts and Trivia]] - contains unfiled thoughts.
 * [[Software Tools]]
 * [[Words]]
 
