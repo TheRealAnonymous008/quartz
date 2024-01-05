@@ -207,6 +207,7 @@ $$
 [^mon_2]: Not unlike [[Optimization Algorithm#Gradient Descent|Gradient Descent]]. 
 ## Oligopoly
 
+
 # Government Intervention 
 
 # Links 
