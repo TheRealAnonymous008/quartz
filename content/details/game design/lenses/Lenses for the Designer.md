@@ -165,9 +165,9 @@
 	* *The challenge isn't to get the game to the store, it's to stand out from the rest*. 
 	* Marketing has become more important.
 		* **Red Ocean Markets** - bigger competitors survive. The small fish are driven away 
-		* **Blue Ocean Markets** - relatively few competitors. Very new but sometimes there are [[Theory of the Firm#Monopoly|barriers to entry]]. 
+		* **Blue Ocean Markets** - relatively few competitors. Very new but sometimes there are [[Competition between Firms#Monopoly|barriers to entry]]. 
 
-* *Know your audience, how they pay and why*. Consider if you are making a hardcore or a casual game. 
+* *Know your audience, how they pay and why*. Consider if you are making a hardcore or a casual game.  [[UX Design Principles#Pareto Principle|Pareto Principle applies]]. 
 	* Hardcore gamers are willing to pay a high price for content that means a lot to them. 
 	* The casual market is hard to appeal to, although there are a lot of casual gamers. 
 

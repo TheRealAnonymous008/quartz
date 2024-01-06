@@ -20,3 +20,5 @@
 	* Said exploiters perform grave robbery or murder women to then sell -- "Fresh Ones" are those recently deceased or about to die; "Wet bodies" are those  who have died within a few weeks and "Dried Meat" who have died longer. 
 
 * **The Medium Affects the Message** - The medium you choose reveals a lot about your intended message even before you send it 
+
+* [Crowd Crushes are a thing -- the crowd becomes so dense that it behaves like a fluid (with deadly consequences)](https://en.wikipedia.org/wiki/Crowd_collapses_and_crushes). 

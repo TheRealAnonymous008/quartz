@@ -9,7 +9,7 @@
 	  $$
 	  By default, assume $Y$ is quantity 
 	  
-* **Elasticity** *pertains to the responsiveness of one variable to changes in another variable. More responsiveness = more elastic* 
+* **Elasticity** *pertains to the responsiveness of one variable to changes in another variable. More elastic = more responsive / sensitive*.  
 	* It is expressed as a ratio of two percentages 
 	  $$
 	  \text{elasticity} = \frac{\% \text{ change in variable A}}{\% \text{ change in variable B}}

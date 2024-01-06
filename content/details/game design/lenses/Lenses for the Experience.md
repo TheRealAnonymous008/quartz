@@ -153,7 +153,7 @@
 
 * *Complementary to deep listening is deep seeing*. See more than the surface level to better appreciate and analyze the game's aesthetic. 
 * *Aesthetics can guide design*. It can help, for example, to have concept art in the game. 
-	* [[details/creativity/Drawing|Draw]] but if that's not possible, have an artistic partner you can communicate with. 
+	* [[details/arts/Drawing|Draw]] but if that's not possible, have an artistic partner you can communicate with. 
 		* *Let the artists govern the aesthetic vision. Let the engineers govern the technology to match the aesthetic vision. But the ideal is to bridge between the two by having an understanding of the two*.
 
 	* *A well-rendered image of a good idea is compelling in a way that few people can resist*

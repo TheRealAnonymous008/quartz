@@ -16,7 +16,9 @@
 # Topics 
 * [[Scarcity, Supply, and Demand]]
 * [[Consumer Behavior]]
-* [[Theory of the Firm]]
+
+* [[Firms, Production and Externalities]]
+* [[Competition between Firms]]
 
 # Links  
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw]]

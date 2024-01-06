@@ -30,7 +30,7 @@ $$
   Where $G_t'$ is a generalization for our return. It could be the one-step return from regular TD, or the n-step return $G_{t:t+n}$ or even an [[Eligibility Traces|eligibility trace]] $G_t^\lambda$. 
 
 # Topics 
-* [[Basic Methods]]
+* [[Basic Policy Gradient Methods]]
 * [[Deterministic Policy Gradient]]
 * [[Trust Region Policies]]
 * [[Energy-Based Reinforcement Learning Models]]

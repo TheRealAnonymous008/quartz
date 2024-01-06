@@ -13,7 +13,8 @@
 	* **Production Possibilities Frontier** - indicates all possible allocations of a budget towards producing certain resources.  
 		* This is subject to the law of diminishing returns where the gains towards one production is determined by how much has already been spent towards it. 
 		* Along the production frontier, we have **Productive efficiency** which means that *it is impossible to produce more than one good without decreasing production for another.*
-		* We can contrast productive efficiency with **allocative efficiency** where a particular combination of goods and services represents a socially desirable combination [^opp_1]
+		* We can contrast productive efficiency with **allocative efficiency** where a particular combination of goods and services represents a socially desirable combination [^opp_1
+		* **Market Failure** - a situation where the private market fails to achieve efficient output 
 	* Both of the above capture scarcity, tradeoffs, economic efficiency, and the self-interested nature of entities within the economy. 
 
 [^opp_1]: This is analogous to [[Game Theory - Strategy|Pareto optimality]]. 

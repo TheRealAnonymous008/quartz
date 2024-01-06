@@ -77,7 +77,7 @@
 	* Many products carry a *stigma* about people's difficulties.
 ### Standardization
 * It is easy for smaller companies to standardize niche products. It is harder to standardize more universally used products.
-* *Politics and Economics affect standardization processes* .
+* *Politics and [[Economics]] affect standardization processes* .
 * Sometimes standard take so long to be established that by the time they do come into wide practice, they can be irrelevant.
 ### Intentionally Bad Design
 * Some things ought to be deliberately difficult to for safety, privacy, or security reasons.

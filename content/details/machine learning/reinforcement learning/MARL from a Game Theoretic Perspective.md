@@ -63,6 +63,12 @@
 
 * **Open Multi-agent environments** - environments where agents may dynamically enter and leave the environment. 
 
+* A **no-conflict** game is a game where all agents agree on the most-preferred outcome. More formally, where $\forall i,j\in N$
+  
+  $$
+  \underset{\pi}{\text{argmax}} \ U_i(\pi) = \underset{\pi}{\text{argmax}} \ U_j(\pi)
+  $$
+	* Agents operating in these games tend to be risk-averse, especially when multiple equilibria exist. 
 
 # Solution Concepts 
 * *Defines the [[Game Theory - Strategy|notion]] of "optimal" agent behavior*. 

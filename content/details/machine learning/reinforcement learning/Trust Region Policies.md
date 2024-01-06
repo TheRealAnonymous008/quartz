@@ -84,7 +84,7 @@
 
 	* We use the updated $\beta$ for the next policy update. The constants are magic but the algorithm is not sensitive to them.
 	* Note that we can alternatively use the backward version which involves $\text{KL}(\pi_{\theta_\text{old}}, \pi_\theta)$. This yields no difference. 
-	* Techniques presented [[Basic Methods#A3C - Asynchronous Advantage Actor-Critic|here]] may be combined with the loss function above. For example , introducing entropy loss $H(s,\pi_\theta)$. as a penalty term, or using [[Off Policy Prediction and Control with Approximation#DQN|Experience replay]].  
+	* Techniques presented [[Basic Policy Gradient Methods#A3C - Asynchronous Advantage Actor-Critic|here]] may be combined with the loss function above. For example , introducing entropy loss $H(s,\pi_\theta)$. as a penalty term, or using [[Off Policy Prediction and Control with Approximation#DQN|Experience replay]].  
 	* Using entropy loss gives us this loss function 
 	  
 	  $$

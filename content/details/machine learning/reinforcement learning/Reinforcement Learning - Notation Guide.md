@@ -44,7 +44,7 @@
 * $q_\pi(s,a), Q_\pi(s,a)$ - true state-action value function for policy $\pi$. 
 * $q_\ast(s,a), Q_\ast(s,a)$ - true optimal state-action value function. 
 * $(B_\pi v)(s)$ - Bellman operator for value function $v_\pi$
-* $A_\pi(s,a)$ - the advantage function for $\pi$ 
+* $A_\pi(s,a), \text{Adv}$ - the advantage function for $\pi$ 
 * $\hat{A}_\pi(s,a)$ - estimated advantage. [^1]
 
 [^1]: Capital letters typically indicate that the estimate operates on an entire vector. But, the logic should remain the same. 
@@ -93,6 +93,7 @@
 * $Q^w, \mu^\theta$ - a critic and an actor in an actor-critic model. Generally we will use $w$ for the critic's parameters and $\theta$ for the actor's
 *****
 * $D_t$ - experience replay.
+* $\mathcal{B}$ - experience replay buffer. 
 * $Q^\text{ret}$ - the retrace estimate for the $Q$ function. 
 * $e_t$ - an episode step 
 * $\beta(s,a)$ - behavior distribution 
@@ -107,11 +108,6 @@
 * $Q_\text{soft}, V_\text{soft}$ - denotes soft value functions. 
 * $\alpha$ - (in the context of energy-based RL), denotes temperature hyperparameter. 
 * $\mathcal{T}^\pi$ - soft Bellman operator
-
 *****
-* $\mathcal{A}^i$ - for MARL, denotes the action set of the $i$-th agent. 
-* $\mathbb{A}$ - denotes the Cartesian product of all $\mathcal{A}^i$. 
-* $p:S\times\mathbb{A}\to S$ - denotes the environmental dynamics of the MARL environment. 
-* $R^i$ - denotes the reward function for the $i$-th agent. 
-* $^{-i}$ - superscript denotes that it is for all other agents except the $i$-th agent. 
-* $^i$ - superscript applies specifically for the $i$-th agent. 
+* $^q$, $_q$ - relating to the action-value function 
+* $^v$, $_v$ - relating to the state-value function 

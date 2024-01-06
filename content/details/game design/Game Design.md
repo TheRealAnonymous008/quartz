@@ -22,6 +22,7 @@
 * [[Game Mechanics Design]]
 * [[Level Design Principles]]
 * [[Puzzle]]
+* [[UX Design Principles]]
 
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]

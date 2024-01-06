@@ -39,7 +39,7 @@
 * *Objects inside the game space generally have one or more attributes*, one being the position in the game space. 
 * Attributes can be statically fixed or dynamically changing throughout the game. 
 * *Communicate the state of the objects to the player*. 
-* *Rule of thumb*: If two objects behave the same, they should look the same. If they behave differently they should look different. 
+* *Rule of thumb*: [[UX Design Principles#Law of Similarity|If two objects behave the same, they should look the same. If they behave differently they should look different. ]] 
 * Games that force players to be aware of too many states or pieces to play confuse players. 
 * States and attributes provide information. However, *not all game information has to be public*.  We can have 
 	* Information everyone knows

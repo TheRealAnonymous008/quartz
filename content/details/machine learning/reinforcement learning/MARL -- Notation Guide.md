@@ -1,6 +1,5 @@
 * Notation outlined for [[Reinforcement Learning - Notation Guide|reinforcement learning]] and [[Game Theory - Notation Guide|game theory]]  remains relevant unless overwritten here 
 
-
 * $\mathcal{T}$ - the transition probability of the environment. 
 * $^t_i$ - denotes something for agent $i$ taken at time step $t$. 
 * $^t$ - denotes something joint (for all agents) taken at time step $t$. 
@@ -15,6 +14,7 @@
 *****
 * $h^t$ - history at time step $t$ 
 * $\hat{h}^t$ - the full history starting from time step $0$ up to and including time step $t$.
+* $h_i^t$ - the history of agent $i$ at time step $t$. 
 * $\hat{H}$ - the set of full histories 
 * $U_i(\pi)$ - the return of agent $i$ under policy $\pi$
 * $u_i(\hat{h}^t)$ - the discounted return of the agent $i$ in $\hat{h}^t$
@@ -38,3 +38,6 @@
 * $\text{AV}_i(s,a_i)$ - expected value of agent $i$ for taking action $a_i$ when in state $s$
 * $\text{VI}$ - value of information 
 * $\overline{\pi}$ - average of past policies. 
+****
+* $d_i$ - difference reward for agent $i$.
+* $\bar{a}_i$ - default action 

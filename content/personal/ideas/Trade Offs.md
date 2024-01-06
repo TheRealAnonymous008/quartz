@@ -20,6 +20,7 @@ A listing of common and interesting trade-offs that are noticeable in a variety 
 
 ### The Paradox of Choice
 * While we might believe that being presented with multiple options actually makes it easier to choose something we are happy with, having an abundance of options leaves us requiring more effort in decision making, and can leave us feeling unsatisfied.
+* [[UX Design Principles#Hick's Law|Hick's Law applies here]]. 
 
 ### Abstraction  Trade-Off
 * The more abstracted something is, the harder it is to understand the underlying internals of a component in the system. 
