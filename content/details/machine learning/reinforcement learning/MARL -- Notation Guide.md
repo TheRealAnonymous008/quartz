@@ -41,3 +41,5 @@
 ****
 * $d_i$ - difference reward for agent $i$.
 * $\bar{a}_i$ - default action 
+* $z$ - common information (in centralized value functions)
+* $\overline{r}_i^t$ - the utility of agent $i$ at time step $t$.

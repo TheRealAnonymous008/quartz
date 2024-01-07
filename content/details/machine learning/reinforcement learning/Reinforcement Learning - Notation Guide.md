@@ -93,7 +93,7 @@
 * $Q^w, \mu^\theta$ - a critic and an actor in an actor-critic model. Generally we will use $w$ for the critic's parameters and $\theta$ for the actor's
 *****
 * $D_t$ - experience replay.
-* $\mathcal{B}$ - experience replay buffer. 
+* $\mathcal{B}$ - batch.
 * $Q^\text{ret}$ - the retrace estimate for the $Q$ function. 
 * $e_t$ - an episode step 
 * $\beta(s,a)$ - behavior distribution 

@@ -95,3 +95,5 @@
 * *Tigers* - the king of the beasts according to the East. Domination.
 # Links
 * [[The Illustrated Book of Signs and Symbols -- 1000s of Signs and Symbols from Around the World by Bruce-Mitford]]
+
+* [[Animals]] 

@@ -1,4 +1,4 @@
-* Life possibly came as a product of emergent behavior, as shown by the [Miller-Urey Experiment](https://en.wikipedia.org/wiki/Miller–Urey_experiment) It is interesting to try simulating life and all the processes that gave rise to it. 
+* Life possibly came as a product of [[Complex Systems|emergent behavior]], as shown by the [Miller-Urey Experiment](https://en.wikipedia.org/wiki/Miller–Urey_experiment) It is interesting to try simulating life and all the processes that gave rise to it. 
 	* Related to this is the importance of self-assembly in biological processes
 	* Life cannot exist under equilibrium.
 

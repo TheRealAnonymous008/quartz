@@ -24,7 +24,7 @@
 	* **Formins** - generate unbranched filaments found in focal adhesions. They also promote rapid elongation of filaments.
 	* **Spire** - binds multiple actin monomers to form an actin nucleus.
 * **Monomer Sequestering Proteins** - prevents the near complete polymerization of soluble actin monomers into filaments. 
-	* This regulates the concentration of actin depending on whether or not polymerization / depolymerization is favored. 
+	* This [[System Dynamics|regulates]] the concentration of actin depending on whether or not polymerization / depolymerization is favored. 
 	* **Thymosins** - prevents actin-ATP monomers from polymerizing.
 * **Capping Proteins** - regulates the length of actin filaments by forming a cap that blocks loss and gain of subunits.
 * **Monomer-binding Proteins**  - allows for the polymerization of actin monomers into filaments.

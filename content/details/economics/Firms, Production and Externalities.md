@@ -110,7 +110,7 @@ $$
 
 [^ext_1]: This is why "green" products are more expensive -- not only due to the technology needed for mass production but also because of economic incentive.
 
-## Example: Pollution Control 
+## Negative Externalities 
 * **Command-and-Control regulation** - a law that requires firms to increase their costs by counteracting pollution. There are three challenges to this 
 	* It offers no incentive to improve the quality of the environment beyond the standard set. 
 	* It requires the same standard for all polluters and the same pollution control technology. This does not consider the firms' ability to meet the costs. 
@@ -132,11 +132,42 @@ $$
 	* Property values may be higher 
 	* People may simply enjoy a cleaner environment in a way that does not involve a market transaction. 
 
-* *Not all regulations are a good idea*.
-* *More regulation  = more cost*
+* *Not all regulations are a good idea. More regulation  = more cost*
 
 * When the quantity of environmental protection is low, the marginal benefit of reducing pollution is high and the cost is low. 
 
-## Example: Public Goods 
+## Positive Externalities 
+* Positive externalities are a step towards [[Game Theory - Strategy|Pareto optimality]]. 
+	* *Subsidies can be used to incentivize behavior that will lead to positive externalities.*
+
+* Innovation can be a positive externality
+	* While [[Competition between Firms#Monopolistic Competition|competition]] incentivizes innovation, it can also [[The 48 Laws of Power#7. Get Others To Do The Work For You But Always Take The Credit|punish the innovators themselves]]. 
+	* *Innovation, if adopted and made widespread, generally leads to more production capabilities and economic growth. However, most innovation comes with negative externalities due to impact on the environment.*
+* Intellectual Property Rights incentivize innovation by protecting the innovator. However, there are limits such as: 
+	* Innovators receive payments disproportionate to the economic value of their contribution 
+	* When the technology advances rapidly, the innovation can become obsolete 
+	* IP rights may be granted too easily -- leading to questionably [[Doublespeak#Advertisement|new]] innovations. 
+	* The time period for a patent may not cover enough period of time for the innovator to receive a good return. 
+* Alternatives to IP rights exist in the form of government policy. 
+	* *Government funds the research directly*. However, this uses taxpayer money (which means that citizens may be inadvertently funding something they would not want). Additionally, this is subject to politics 
+	* *Give firms a tax break for R&D* depending on how much R&D they do. 
+	* *Cooperative Research* to create new industries through a collaborative effort between firms. 
+
+* *Education is a positive externality* -- a student invests in their education and (for the most part) gains private returns. At the same time, governments subsidize educational institutions and gain a productive workforce (social returns). 
+
+## Public Goods and Common Goods 
+* A **public good** is a good where private firms could not expect to receive any of the social benefit. More specifically they are:
+	* **Non-exchangeable** - it is costly or impossible to exclude someone from using the good.
+	* **Non-Rival** - when one person uses the public good, another can also use it. 
+* *Public goods have inherent positive externalities*. 
+	* However, because it is non-exchangeable and non-rival, *free-riders are incentivized to let others pay for the public good*. 
+	* The trick, therefore, is for *governments to incentivize everyone to make a contribution*. 
+		* Imposing taxes 
+		* Some other form of "price" that is not necessarily money. For example -- advertisement space. 
+		* Impose a mixture of free public use while charging for something adjacent to it to cover costs. 
+		* Use social pressures 
+	* *Examples:* National defense, Public Healthcare
+
+* **Common goods** are those that are non-excludable but rivalrous. They are prone to the [[System Archetypes|tragedy of the commons]]. 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 7, 12 - 13 

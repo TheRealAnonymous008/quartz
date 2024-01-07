@@ -5,7 +5,7 @@
 	* Cells arise from pre-existing cells.
 * Cells are characterized by the following properties.
 	* Highly organized and complex. This is despite the fact that such processes arise stochastically (see [Levinthal's Paradox](https://en.wikipedia.org/wiki/Levinthal%27s_paradox) )
-	* Contains a genetric program and the means to use it. This genetic program governs all cellular processes, and it can mutate to induce variations.
+	* Contains a genetic program and the means to use it. This genetic program governs all cellular processes, and it can mutate to induce variations.
 	* Capable of reproduction. This is via cell division.
 	* Acquires and Utilizes Energy. The primary energy source for all things is the sun. 
 	* Carries out a variety of chemical reactions (i.e., metabolism)
@@ -15,7 +15,7 @@
 	* Can Evolve. All organisms arose from a single common ancestral cell (see [LUCA](https://en.wikipedia.org/wiki/Last_universal_common_ancestor))
 # Why is Water Important For Life?
 1. It is highly asymmetric, with $O$ atoms on one end and $H$ atoms on the other end.
-2. It is higly polarized.
+2. It is highly polarized.
 3. Its constituent atoms can form hydrogen bonds 
 4. Water can dissolve many substances, more than any other solvent.
 5. It is the fluid matrix around which the insoluble fabric of the cell is constructed. It can also be used for transporting materials.
@@ -26,7 +26,7 @@
 # Endosymbiont Theory
 * One theory on the origins of life is that *Eukaryotic cells came from prokaryotic cells*. 
 * It is also thought that a prokaryotic cell consumed another prokaryote which resisted phagocytosis. This ingested prokaryote then became integrated into the cell as the mitochondria and *evolved alongside the eukaryote*. The same happened for chloroplasts
-* This has been shown through the folloing:
+* This has been shown through the following:
 	* It is now known that some bacteria can form complex membrane structures.
 	* Sequencing of ribosomal RNA (i.e., 165 rRNA in prokaryotes and 185 rRNA for Eukaryotes) show a match between chloroplasts and cyanobacteria.
 # Links

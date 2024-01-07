@@ -8,6 +8,7 @@
 	  \pi_i \in \text{BR}_i (\hat{pi}_{-i})
 	  $$
 
+# Classic Approaches 
 ## Fictitious Play 
 * In **fictitious play** each agent models the policy of other agents as a stationary [[Random Variables and Probability Distributions|probability distribution]] $\hat{\pi}_j$ estimated from the empirical distribution of agent $j$'s past actions. 
 * It is defined for [[Dynamic Games of Incomplete Information|non-repeated games]]
@@ -83,8 +84,16 @@
   a_i \in \underset{a_i}{\text{argmax}} \ \text{VI}_i(a_i\mid h^t)
   $$
 
+# DNN-based Approaches 
+* *The goal is to learn generalizable models of the policies of other networks using deep neural nets.*
+
+## JAL with Deep Agent Models 
+* Extends [[#JAL-AM]] 
+
+
+## Policy Reconstruction
 # Links 
 * [[MARL Problem Statement]]
 * [[MARL from a Game Theoretic Perspective]]
 
-* [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] - Ch 6.3
+* [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] - Ch 6.3, 9.6

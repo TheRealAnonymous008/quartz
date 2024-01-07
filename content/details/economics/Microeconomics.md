@@ -19,6 +19,7 @@
 
 * [[Firms, Production and Externalities]]
 * [[Competition between Firms]]
+* [[Labor Market Theory]]
 
 # Links  
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw]]

@@ -41,7 +41,7 @@
 	* The carboxylation of $\text{RUBP}$ to form $\text{PGA}$, a three carbon molecule.
 	* The reduction of $\text{PGA}$ to the level of a sugar by forming $\text{GAP}$ using $\text{NADPH}$ and $\text{ATP}$.
 	* Regeneration of $\text{RUBP}$ using $\text{ATP}$. 
-* The Calvin cycle is regulated. The enzymes in the pathway are more active in alkaline $\text{pH}$.
+* The Calvin cycle is [[System Dynamics|regulated]]. The enzymes in the pathway are more active in alkaline $\text{pH}$.
 #### C4 Plants
 * Makes use of **PEP Carboxylase** to fix $\text{CO}_2$ with **PEP** to form **oxaloacetic acid**, a four Carbon molecule.
 	* PEP carboxylase continues to operate at much lower $\text{CO}_2$ levels and is not inhibited by $\text{O}_2$. 

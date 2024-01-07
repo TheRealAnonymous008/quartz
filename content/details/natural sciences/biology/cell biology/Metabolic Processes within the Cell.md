@@ -15,7 +15,7 @@
 	* **Fermentation** is a related reaction wherein the cell creates intermediates that can be activated when Oxygen is introduced again. This allows the cell to regenerate its supply of NAD. 
 * Energy that is produced via metabolic pathways is stored using **ATP** (Adenosine Triphosphate)
 	* ATP synthesis entails a reduction-oxidation reaction that makes use of the cofactor NAD.
-	* *ATP synthesis is regulated. It is inhibited when energy is at a surplus*. This is driven by the fact that the ATP / ADP supply of the cell is limited. 
+	* *ATP synthesis is [[System Dynamics|regulated]]. It is inhibited when energy is at a surplus*. This is driven by the fact that the ATP / ADP supply of the cell is limited. 
 * **NAD** is a cofactor that is involved in many reduction-oxidation reactions. It is a high energy compound that drives metabolic reactions through donating high energy electrons.
 	* A related compound is **NADPH** which can be used to measure how much energy the cell has in store. *When energy is abundant, the production of NADPH is favored*.  This is the cofactor used by enzymes with a reductive role in anabolic pathways. *This allows for the growth of the cell*.
 	* Another is **NADP**. *When energy is scarce, the production of NADP is favored*. This is the cofactor used by enzymes with a dehydrogenase role in catabolic pathways. *This allows the cell to store the energy as ATP*.

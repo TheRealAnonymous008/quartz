@@ -81,28 +81,6 @@
 		* Price floors transfer consumer surplus to producers, favoring producers. 
 	* Price controls that are extremely low (for price floors) or extremely high (for price ceilings) compared to the actual market price are **nonbinding**. They more or less have no effect on the market unless equilibrium surpasses them. 
 
-## Labor Markets 
-* **Labor market** - the market for employers (consumers) and job seekers (producers)
-* Price now refers to  salaries and wages. 
-* Quantity refers to the quantity of labor that is demanded.
-
-* Shifts in labor demand can occur for a variety of reasons
-	* More demand for the good produced = more demand for labor to match production needs 
-	* More education  = more demand from a productive labor pool. 
-	* Technologies that act as substitutes = less demand for labor 
-	* Technologies that act as complements = more demand for labor. 
-	* Better technology = increased demand for skilled workers who can use the technology 
-	* More companies producing a product = more demand for employees who can produce that product. 
-	* Government regulation can increase or decrease demand for labor. 
-	* Higher prices and costs for additional production inputs = lower demand for labor to balance costs and revenues. 
-	* Lower prices and costs for additional production inputs = higher demand for labor to increase productivity. 
-
-* Shifts and labor supply can be affected by various factors. 
-	* More workers = more supply . 
-	* Higher standards required by employers = lower supply 
-	* Government policies can increase or decrease labor supply.
-
-* *Minimum wage acts as a price floor*. 
 
 ## Financial Markets 
 * **Financial market** - the market for saving (producers) and borrowing (consumers). 

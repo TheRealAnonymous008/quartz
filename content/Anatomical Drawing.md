@@ -26,8 +26,10 @@
 # Topics 
 * [[Anatomical Drawing -- Head]]
 * [[Anatomical Drawing -- Hair]]
-
-
+* [[Anatomical Drawing -- Torso]]
+* [[Anatomical Drawing -- Upper Limbs]]
+* [[Anatomical Drawing -- Lower Limbs]]
+* [[Anatomical Drawing -- Hands and Feet]]
 # Links 
 * [Piexl Art - Introduction to Portraits](https://www.youtube.com/watch?v=3PQdx3o7gJA)
 * [[Anatomy for Sculptors -- Understanding the Human Form by Zarins and Kondrats]]
