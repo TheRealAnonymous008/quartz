@@ -79,18 +79,7 @@
 	* *Price controls create efficiency since they prevent the market from adjusting to equilibrium price*. 
 		* Price ceilings transfer producer surplus to consumers, favoring consumers. 
 		* Price floors transfer consumer surplus to producers, favoring producers. 
-	* Price controls that are extremely low (for price floors) or extremely high (for price ceilings) compared to the actual market price are **nonbinding**. They more or less have no effect on the market unless equilibrium surpasses them. 
-
-
-## Financial Markets 
-* **Financial market** - the market for saving (producers) and borrowing (consumers). 
-	* The good that is supplied is **financial capital**, the amount loaned. 
-	* Interest arises from the expectation that the borrowers will return the money. It effectively acts as the "price"
-
-* Higher interest rates mean that borrowers reduce demand and increase supply. 
-* How producers save their money affects supply. Similarly, how consumers borrow money affects demand.  
-
-* *Usury laws act as price ceilings.* 
+	* Price controls that are extremely low (for price floors) or extremely high (for price ceilings) compared to the actual market price are **nonbinding**. They more or less have no effect on the market unless equilibrium surpasses them.
 # Elasticity 	  
 * **Price elasticity** is the ratio between the percentage change in the quantity and the corresponding percent change in price. There are various kinds of elasticity 
 

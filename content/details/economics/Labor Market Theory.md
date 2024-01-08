@@ -105,11 +105,33 @@
 * **Poverty** arises from people falling below the **poverty line** -- the income one needs for a basic standard of living.  
 * *Certain demographics are less prone to poverty than others*. [[#Discrimination|Segregation plays a part in this.]]
 
-* The **poverty trap** is a situation where incentivizing the impoverished to work also reduces the amount of government support they receive. Effectively a reverse form of [[System Archetypes|success to the successful]].
+* The **poverty trap** is a situation where incentivizing the impoverished to work also reduces the amount of government support they receive (i.e., they become ineligible which makes them unable to cover living expenses). Effectively a reverse form of [[System Archetypes|success to the successful]].
+	* Policies against the poverty trap should consider that such a trap could reduce labor incentives. 
+	* Another issue is that it costs more to give more incremental rewards although the long-term benefits to incentivize labor outweigh this short term cost. 
+
+* **Safety nets** are programs that offer assistance to those below the poverty line and those slightly above it. 
+	* In order to prevent the poverty trap, these policies require the recipient to meet a quota in terms of minimum hours worked
 
 ## Income Inequality 
 * **Income inequality** compares the share of the total income in society that different groups receive. 
+	* **Income** is the flow of money received (typically per month or per annum)
+	* **Wealth** is the sum of the value of assets a person has. 
+* *Wealth distribution is more unequal than income distribution*. 
+* A common measure for this is to rank each household by income and then divide them into quantiles (typically quintiles) to calculate the distribution of income.
+* Another visualization is through a **Lorenz curve** which plots income quantiles vs cumulative share of income. Income inequality is measured by how far the curve deviates from the 45-degree line .
 
+* Some causes of growing income inequality include the following:
+	* Changing composition of households and family structures
+	* A distribution shift in wages. Higher wages result from more demand for high-skilled labor and more supply of high-skilled workers (most commonly due to new technologies). *Inequality emerges from when supply of lower skilled workers exceed demands*
+
+* *A snapshot of inequality does completely model how people's income rise and fall over time*. 
+
+* **Redistribution** is a government policy to counteract income inequality whereby we take more from those with higher income and provide these to those with lower income. *This comes with giving higher tax rates for the rich*
+* **Ladders of Opportunity** - compensates for privileges which may give children more employment opportunities than others of equal talent. *These incentives allow children to attain an economic niche based on their interests and talents*
+
+* *Incentives for economic equality or poverty reduction can injure incentives for economic output*.  
+	* That said, while this danger exists, it is also possible to discover policies that do not injure incentives for economic output (i.e., a balance to the tradeoff)
+	* The vote of the citizens act as a means to balance the tradeoff
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 4, 14 - 15
 
