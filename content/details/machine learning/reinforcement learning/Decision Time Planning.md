@@ -34,11 +34,29 @@
 * The approach focuses on trajectories whose initial segments are common to high-return trajectories previously simulated.
 * By incrementally expanding the tree, it grows a lookup table to store a partial action-value function. Thus, it does not need to globally approximate the action-value function, while it can also use past experience.
 
-![[MCTS.png]]<figcaption> Monte Carlo Tree Search. Image from Sutton and Barto (2017) </figcaption>
+![[__images/MCTS.png]]<figcaption> Monte Carlo Tree Search. Image from Sutton and Barto (2017) </figcaption>
 
+![[MCTS 1.png]]
+<figcaption> Monte Carlo Tree Search. Image taken from Albrecht, Christianos  and Schafer </figcaption>
+
+# AlphaZero 
+* **AlphaZero** is an approach which combines [[#Monte Carlo Tree Search]], [[Self Play]]and [[MARL Deep Learning|deep learning]]. 
+* At its core it is MCTS. However, it is trained using self-play (either using current versions of the policy or past versions). 
+	* During a MCTS simulation, the current agent $i$ chooses all the actions in each time step (i.e., playing against itself). 
+	* The agent's observations (if it is simulating the opponent's turn) is made to be ego-centric. 
+* In addition, it learns an evaluation function 
+  $$
+  (u,p)=f(s;\theta)
+  $$
+  Which learns the expected outcome $u$ from state $s$ as well as a vector of action-selection probabilities $p$ given current state $s$. $p$ is used to guide action selection during simulation. 
+* The model is trained to minimize the following loss function  (with [[Linear Models#Linear Regression|L2 regularization]]). 
+  $$
+  \mathcal{L} (\theta) = (z-u)^2 -\pi^T\log p + c||\theta||^2 
+  $$
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] Ch. 8.8 - 8.11
-* [[A Unified View on Planning and Learning]] - more on planning and learning algoritms.
+* [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] - Ch. 9.8
+* [[A Unified View on Planning and Learning]] - more on planning and learning algorithms.
 
 
 * [Alpha Zero and Monte Carlo Tree Search](https://www.youtube.com/watch?v=62nq4Zsn8vc)

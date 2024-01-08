@@ -8,7 +8,7 @@
 	* The same query can receive different answers according to the context of the database.
 	* The code executed to operate on a large database can be simple.
 	* There is no need to compress or simplify the database to make the operations effective.
-# What is the Attention Mechanism? 
+# Attention  
 * **Attention** is a mechanism that allows a model to selectively focus on particular tokens within some sequential input. 
 * *Attention is a linear combination of the values where the weights are a function of the query and the key*. Or more mathematically it is given as follows.
 	* *$\text{Attention}(q,D) := \sum_{i=1}^m \alpha(q,k_i)v_i$
@@ -24,7 +24,7 @@
 * The model takes in an **embedding** (from some tokenizer or byte pair encoding) that acts as a more compact representation of the input data. 
 * The model first performs **positional encoding** to represent the position of a token in the sequence. *This is done to account for the fact the order tokens appear in sequence is important*
 	* The original positional encoding proposed encodes both the absolute position of a token, and its position relative to other tokens.  *For any fixed offset $\delta$, the positional encoding at $i+\delta$ can be obtained through linear projection of $\delta$ at $i$.*
-* The model then consists of an encoder and a decoder. 
+* The model then consists of an [[Encoder-Decoder networks|encoder and a decoder]] 
 	* The **encoder** takes in the input sequence and outputs a latent space representation called a **context variable** for each position in the input sequence. 
 		* *Encoders can attend to the whole sequence as needed*.
 	* The **decoder** takes in the context variable as well as another sequence and produces an output sequence.

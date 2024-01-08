@@ -62,6 +62,20 @@ Where $\bar{U}_i^z$ denotes the average return across episodes.
 * It is hard to define optimality for a MARL environment. 
 
 * MARL can either be **cooperative** wherein agents work together; **competitive** where the game is zero-sum or a mix of the two. 
+
+* MARL environments can be **homogeneous** in which case all agents share the same set of actions, observations and rewards. 
+	* An environment has **weakly homogeneous agents** if for any joint policy $\pi$  and permutation between agents $\sigma: N\to N$, it follows that $\forall i\in N$
+	  
+	  $$
+	  U_i(\pi)= U_{\sigma(i)} \big(\braket{\pi_{\sigma(1), \dots, \pi_{\sigma(N)}}}\big) 
+	  $$
+	* An environment has **strongly homogeneous agents** if it is weakly homogeneous agents and if the optimal joint policy consists of identical policies, that is 
+	  
+	  $$
+	  \pi^\ast_1= \dots =\pi_N^\ast 
+	  $$
 # Links 
-* [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer]] 
+* [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] 
+	* Ch. 9.7 talks about homogeneous agents
+
 * [[MARL from a Game Theoretic Perspective]]

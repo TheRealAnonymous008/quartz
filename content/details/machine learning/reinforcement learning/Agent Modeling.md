@@ -42,7 +42,7 @@
 * $\text{AV}$ denotes the expected return to agent $i$ for taking action $a$. [^jalam_1]
   
   $$
-  \text{AV}_i(s,a_i) = \sum_{a_{-i}\in A} Q_i(s, \braket{a_i,a_{-i}}) \ \prod_{j\ne i} \hat{\pi_j}(a_j\mid s)
+  \text{AV}_i(s,a_i) = \sum_{a_{-i}\in A_{-i}} Q_i(s, \braket{a_i,a_{-i}}) \ \prod_{j\ne i} \hat{\pi_j}(a_j\mid s)
   $$
 
 ![[JAL-AM.png]]
@@ -85,13 +85,57 @@
   $$
 
 # DNN-based Approaches 
-* *The goal is to learn generalizable models of the policies of other networks using deep neural nets.*
+* *The goal is to learn generalizable models of the policies of other networks using deep neural nets.* 
+* This is applicable especially when we have decentralized execution and  where agents only have access to local observation history.
 
 ## JAL with Deep Agent Models 
-* Extends [[#JAL-AM]] 
+* Extends [[#JAL-AM]]. Here, each agent's model is a [[Neural Network]] $\hat{\pi}^i_{-i}=\{\hat{\pi}_j^i\}_{j\ne i}$ 
+* The agent model is learnt using the past actions of the other agents and the observation history. This is encapsulated in the following loss function 
+  
+  $$
+  \mathcal{L} (\phi_j^i) = -\log \hat{\pi}_j^i (a_j^t \mid h_i^t \\ ; \phi_{j}^I)
+  $$
+* We define the action value as follows. An approximation to make it more tractable is also given using a sample of $K$ joint actions from the models of all other agents. 
+  $$
+  \begin{split}
+  \text{AV}(h_i,a_i;\theta_i) &= \sum_{a_{-i}\in A_{-i}} Q(h_i, \braket{a_i,a_{-i}} ; \theta_i) \ \prod_{j\ne i} \hat{\pi}_j^i(a_j\mid h_i; \theta_j^i ) \\ 
+  &\approx \frac{1}{K} \sum_{k=1}^K Q(h_i,\braket{a_i,a_{-i}^k} ; \theta_i) \bigg\vert_{a_j^k\sim \hat{\pi}_j^i (\cdot \mid h_i)}
+  \end{split}
+  $$
 
+* Each agent also trains a centralized action value $Q$ parameterized by $\theta_i$ using DQN with the loss function of 
+  $$
+  \begin{split}
+  \mathcal{L} (\theta_i) &= \frac{1}{|\mathcal{B}|} \sum_{(h_i^t, a^t,r_i^t, h_i^{t+1})\in\mathcal{B}} \bigg(r_i^t +\gamma\max_{a_i'\in A_i} \text{AV}(h_i^{t+1}, a_i';\overline{\theta}_i)  - Q(h_i^t ,\braket{a_i^t, a_{-i}^t}; \theta_i)\bigg)^2
+  \end{split}
+  $$
+
+
+![[Deep JAL.png]]<figcaption> Deep JAL. Image taken from Albrecht, Christianos and Schafer </figcaption>
+
+* Using the sampling approximation for $\text{AV}$ may lead to higher variance but also higher exploration with potentially faster convergence. 
 
 ## Policy Reconstruction
+* *Rationale*: It may not be feasible to use the policies and value functions of the other agents, even with using a model. This is because 
+	* We may be running on decentralized execution 
+	* The policies of the agents may be too complex. 
+	* The policies of the agents change during learning. 
+
+* One common approach is to use [[Encoder-Decoder networks]]. We may also use [[The Transformer Model|transformers]]. We have two networks 
+	* The encoder $f^e$  gives a representation $m_i^t=f^e(h_i^t; \psi_i^e)$
+	* The decoder gives action probabilities $\pi_{-i}^{i,t}=f^d(m_i^t;\psi_i^d)$
+
+* The encoder-decoder networks are jointly trained using cross-entropy loss. 
+  
+  $$
+  \mathcal{L}(\psi_i^e, \psi_i^d) = \sum_{j\ne i} -\log \hat{\pi}_j^{i,t} (a_j^t)
+  $$
+
+* Other approaches such as those [[MARL Deep Learning|here]] can be augmented by conditioning on the learnt representation $m_i^t$.
+
+## Extensions 
+* **Recursive Reasoning** - an extension of agent modeling where agents consider how other agents might react to their decision making, or how their actions might affect the learning of other agents 
+* **Opponent Shaping** - an extension where agents try to shape their opponents -- leveraging the fact that other agents are learning and exploiting this objective. 
 # Links 
 * [[MARL Problem Statement]]
 * [[MARL from a Game Theoretic Perspective]]

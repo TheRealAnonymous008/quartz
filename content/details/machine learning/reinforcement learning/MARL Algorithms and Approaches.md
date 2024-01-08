@@ -52,12 +52,7 @@
 * [[Deterministic Policy Gradient#DDPG|DDPG]] plus a centralized learning - decentralized execution approach works (called **MADDPG**). This mixes DDPG's mode-free stability with the centralized approach. This also requires considering the outcome of the choices of all other agents. 
 
 ## Fundamental Approaches  to Independent Learning 
-* **(Algorithm) Self Play** - agents use the same learning algorithm or same policy. 
-	* It helps reduce the non-stationarity that would come from having all agents learn using different algorithms . 
-* **(Policy-based) Self-play** -  Algorithms [^self_play] [^self_play_2]  where the agent plays directly against itself to exploit its own weakness. 
-	* **Population-based training** - extends self-play by training policies against a [distribution] of other policies, including past versions of themselves. 
-	* These may learn faster than algorithm self-play since the experiences of all agents can be used to train a single policy. 
-	* It is more restricted in *requiring agents have symmetrical roles and egocentric observations*. 
+* [[Self Play]]
 
 * **Mixed Play** - agents use different learning algorithms. 
 	* **Ad-hoc teamwork** - agents collaborate with previously unknown agents whose behaviors may be unknown. 

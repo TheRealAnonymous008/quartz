@@ -32,10 +32,11 @@
 * $M_{i,s}$ - minimax solution for agent $i$ and starting at state $s$.
 * $\Gamma_{s}(a)$ - JAL-GT game starting from $s$
 * $\Gamma_{s,i}(a)$ - JAL-GT game starting from $s$ and entry for agent $i$
-* $\hat{\pi}$ - a model for policy $\pi$.
+* $\hat{\pi}_j^i$ - agent $i$;'s model for policy $\pi$ for agent $j$
 * $C(a)$ - number of times action $a$ was selected 
 * $C(a,s)$ - number of times action $a$ was selected when in state $s$.
 * $\text{AV}_i(s,a_i)$ - expected value of agent $i$ for taking action $a_i$ when in state $s$
+* $\text{AV}(h_i, a_i)$ - action value given the history $h_i$ and action $a_i$ of agent $i$. 
 * $\text{VI}$ - value of information 
 * $\overline{\pi}$ - average of past policies. 
 ****
@@ -43,3 +44,13 @@
 * $\bar{a}_i$ - default action 
 * $z$ - common information (in centralized value functions)
 * $\overline{r}_i^t$ - the utility of agent $i$ at time step $t$.
+******
+* $\phi$ -  parameters (for neural network models)
+* $\phi_j^i$ - parameters for agent $i$'s model of agent $j$'s policy.
+* $f^e(h_i^t; \psi_i^e)$ - encoder network taking in input $h_i^t$ and with parameters $\psi_i^t$. 
+* $m_i^t$ - output of encoder network for agent $i$ at timestep $t$
+* $f^d(m_i^t;\psi_i^d)$ - decoder network taking in a latent representation $m_i^t$ and with parameters $\psi_i^d$. 
+* $_\text{shared}$ - indicates shared parameters 
+*****
+* $\Pi_i^t$ - population of policies for agent $i$ at time $t$.
+* $M^k$ - meta-game for the $k$-th generation. 

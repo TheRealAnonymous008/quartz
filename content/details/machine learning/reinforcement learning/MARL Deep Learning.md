@@ -161,7 +161,7 @@ $$
   $$
 	* In other words *the utility of any agent for its action must increase the decomposed centralized action value function*. 
 
-* QMIX uses a mixing network which is simply a standard feedforward network $f_{\text{mix}}$ that combines individual utilities 
+* QMIX uses a mixing network which is simply a standard feedforward [[Neural Network]] $f_{\text{mix}}$ that combines individual utilities 
   
   $$
   Q (h,z,a,\theta) = f_\text{mix} \bigg(Q(h_1,a_1; \theta_1), \dots, Q(h_N, a_N; \theta_N)  \ ; \ \theta_{\text{mix}} \bigg)
@@ -224,10 +224,65 @@ $$
 * QTRAN gas a few limitations
 	* It does not scale well due to relying on joint action space 
 	* It does not directly enforce the necessary and sufficient conditions for IGM, instead using regularization terms. Hence, IGM is not guaranteed. 
+
+# Homogeneous Agents 
+## Parameter Sharing 
+* A method where *each agent uses the same set of parameter values* in their neural networks. That is, we have either of the following (or both)
+  $$
+  \begin{split}  
+  \theta_{\text{shared}} &= \theta_1 = \dots = \theta_N  \\ 
+  \phi_{\text{shared}} &= \phi_1 = \dots = \phi_N  \\ 
+  \end{split}
+  $$
+
+* This allows for a constant number of parameters regardless of agent count and it also allows for parameters to be updated by a broader set of experiences. 
+* *Assumption*: The environment has strongly homogeneous agents. 
+
+* We can get around the strong assumption of strongly homogeneous agents by using **agent indexing** where agents index their observations [^param_1]. In practice, this is not sufficient 
+
+[^param_1]: Analogous to training the models to be few-shot since it encodes many behaviors
+
+## Experience Sharing 
+* Each agent has different parameters, but the parameters are *trained on the same set of experiences*. 
+* For algorithms that use DQN, we may use a shared replay buffer. 
+* *Assumption*: The environment has weakly homogeneous agents. 
+
+* It has the following advantages over parameter sharing :
+	* This allows parameters to be trained on more diverse 
+	* It retains the flexibility of each agent to adopt its own policy (which has been shown to yield higher returns). 
+	* It is more sample efficient 
+	* It leads to agents having a uniform learning progression since agents that perform poorly have access to the experiences of the best agents. 
+	* Agents can better coordinate and are more efficient, especially at data collection. 
+
+* *This requires storing more experiences in the buffer*. 
+* *This is much easier to do with off-policy than on-policy approaches*. On policy approaches require the use of [[Importance Sampling]]. We do this by imposing a loss function as follows 
+  
+  $$
+  \mathcal{L} (\phi) = \frac{\pi (a^t \mid h^t ; \phi)}{\pi_\beta (a^t \mid h^t)} \bigg(r^t + \gamma V(h^{t+1};\theta) -V(h^t;\theta)\bigg) \log\pi(a^t\mid h^t; \phi)
+  $$
+* We can also weigh the experiences of other agents differently to the current agent. We do this using a hyperparameter $\lambda$.  The loss function is as follows 
+  
+  $$
+  \begin{split}
+  L_k^i  &=  \bigg(r^t_k + \gamma V(h^{t+1}_k;\theta_i) -V(h^t_k;\theta_i)\bigg) \log\pi(a^t_k\mid h^t_k; \phi_i) \\ 
+  
+  \mathcal{L} (\phi_i ) &= -L_i^i - \lambda \sum_{k\ne i} \frac{\pi (a^t_k \mid h^t_k ; \phi_i)}{\pi(a^t_k \mid h^t_k;\phi_k)} \ L_k^i
+  \end{split}
+  $$
+
+
+
+![[DQN with shared experience.png]]
+<figcaption> DQN with shared experience replay. Image taken from Albrecht, Christianos  and Schafer  </figcaption>
+
+# Other Techniques 
+* [[Agent Modeling]] - can also be used for deep learning so that each agent has a model of the other agents in the environment 
+* [[Decision Time Planning]] - approaches such as MCTS can be generalized to a deep-learning setting. 
+
+
 # Links 
 * [[MARL Problem Statement]]
 * [[MARL from a Game Theoretic Perspective]]
-* [[Agent Modeling]] - can also be used for deep learning 
 
 * [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] - Ch. 9
 	* 9.5.2 - derivation of Linear Value Decomposition as well as a proof of it satisfying the IGM property.
