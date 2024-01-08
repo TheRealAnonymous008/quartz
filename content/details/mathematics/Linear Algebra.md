@@ -20,3 +20,5 @@
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg]]
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 4.3.4.1]]
+
+* [[Linear Algebra by Friedberg Insel and Spence]]

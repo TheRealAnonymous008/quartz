@@ -6,6 +6,7 @@
 * [[Group Theory]]
 * [[Information Theory]]
 * [[Linear Algebra]]
+* [[Real Analysis]]
 * [[Probability and Statistics]]
 # Unfiled Math Objects
 * [The Ansatz Technique](https://en.wikipedia.org/wiki/Ansatz) pertains to solving a problem using an educated guess or assumption  about the solution which may later be verified to be part of the solution.
@@ -37,9 +38,6 @@
 	* $C$ has a closed graph. 
 
 # Links
-
-* [[Understanding Analysis by Abbott]]
-* [[Linear Algebra by Friedberg Insel and Spence]]
 
 * [Infinite Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf) - a comprehensive explainer of high level mathematics targeted to a highschooler
 * [Visualizing Quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg)
