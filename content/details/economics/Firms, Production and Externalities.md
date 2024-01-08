@@ -96,10 +96,14 @@ $$
 \text{average profit} = \text{price} - \text{average cost}
 $$
 
-
 [^profit_1]: Note that the actual definition is profit per unit produced. However, using the definition of profit and average revenue / cost, we get a simplified version in terms of profit margin. 
 
 * *The profit-maximizing choice occurs when marginal revenue equals marginal cost*. 
+* The marginal revenue may be seen as the following derivative
+  
+  $$
+  \frac{dR}{dq} = \frac{d}{dq} \ p q   
+  $$
 # Externalities  
 * **Externalities** pertain to the effects of a market exchange on a third party who is external to the exchange. 
 * Negative externalities induce additional external costs to the firm -- in particular social costs. 

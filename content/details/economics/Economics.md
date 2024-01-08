@@ -9,6 +9,8 @@
 	  $$
 	  By default, assume $Y$ is quantity 
 	  
+	  We may also write this as a derivative as $\frac{dX}{dY}$. 
+	  
 * **Elasticity** *pertains to the responsiveness of one variable to changes in another variable. More elastic = more responsive / sensitive*.  
 	* It is expressed as a ratio of two percentages 
 	  $$
