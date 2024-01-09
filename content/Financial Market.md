@@ -8,6 +8,10 @@
 
 * *Usury laws act as price ceilings.* 
 
+# Insurance 
+
+
+
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 4, 16 - 18
 

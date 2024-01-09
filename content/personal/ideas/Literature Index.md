@@ -39,6 +39,13 @@
 > We shall not sleep, though poppies grow 
 > In Flanders fields 
 
+* **The Narcissist's Prayer by Dayna Craig**
+>That didn't happen.  
+>And if it did, it wasn't that bad.  
+>And if it was, that's not a big deal.  
+>And if it is, that's not my fault.  
+>And if it was, I didn't mean it.  
+>And if I did, you deserved it.
 # Fiction
 * [[Hell Screen]]
 * [[Junji Ito's Works]]

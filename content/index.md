@@ -103,7 +103,8 @@ More about me.
 * [[Beliefs and General Principles]]
 * [[Interesting People]]
 * [[Literature Index]]
-* [[Unfiled Thoughts and Trivia]] - contains unfiled thoughts.
+* [[Unfiled Thoughts and Trivia]] 
+* [[Dump]]
 * [[Software Tools]]
 * [[Words]]
 

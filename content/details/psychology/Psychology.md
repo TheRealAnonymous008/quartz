@@ -3,6 +3,9 @@
 * [The Werther Effect](https://en.wikipedia.org/wiki/Copycat_suicide) - a spike in copycat suicides after a widely publicized suicide. The copycats have similar demographics to the publicized person, and so more of these tend to get reported. 
 	* It is effectively an [[Information Hazards]].
 	* A manifestation of this -- there is a correlation between when a suicide's publication and the number of fatal accidents (i.e., the drivers were copycats)
+
+* [Pain is a mysterious thing. Part of it is an objective response that reinforces or alters our behaviors; Part of it is an emotion that is based on our own experiences and expectations.](https://www.youtube.com/watch?v=hax2be-DlhY) 
+
 # Topics
 * [[Human Biases]]
 * [[Thinking Fast And Slow]]
