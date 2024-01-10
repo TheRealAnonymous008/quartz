@@ -5,6 +5,10 @@
 	* **Prescriptive** - *what we should do in the future*. 
 
 * **Online Analytic Processing** is a technology that *performs multidimensional analysis at high speeds* on large volumes of data from a data warehouse for the purposes of gathering new insights from the databases of a business through complex queries.
+
+* **Online Transaction Processing** is a technology that enables the real-time execution of large numbers of database [[Transactional Database|transactions]] by large numbers of people, typically with the intent of modifying data.
+	* We usually use operational databases for OLTP 
+	* OLTP systems typically possess only simple transactions that enable multi-user  access while maintaining data integrity. The processing should, therefore, be fast to handle the expected large amount of queries.
 # Data Warehouses 
 * A **Data Warehouse** is *a central repository of information* that can be analyzed to make more informed decisions.  
 	* It contains data from multiple operational [[Database|databases]] of the enterprise. 

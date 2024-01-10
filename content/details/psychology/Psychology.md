@@ -6,6 +6,7 @@
 
 * [Pain is a mysterious thing. Part of it is an objective response that reinforces or alters our behaviors; Part of it is an emotion that is based on our own experiences and expectations.](https://www.youtube.com/watch?v=hax2be-DlhY) 
 
+* **Depersonalization-derealization disorder** occurs when you always or often feel that you're seeing yourself from outside your body or you sense that things around you are not real — or both. You may feel like you're living in a dream.
 # Topics
 * [[Human Biases]]
 * [[Thinking Fast And Slow]]

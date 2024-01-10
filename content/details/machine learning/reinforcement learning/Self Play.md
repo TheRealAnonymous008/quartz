@@ -39,11 +39,14 @@
 * *PSRO may converge to different solution types using different meta-solvers and oracles*.
 
 ## AlphaStar 
-* Builds on top of [[#PSRO]]. It achieved good performance in Starcraft II. 
+* [^Vinyals_2019] Builds on top of [[#PSRO]]. It achieved good performance in Starcraft II. 
 	* Each observation contains an overview map of the environment and all entities in the environment (with their associated attributes). 
 	* Actions are hierarchical specifying the action type, the unit to perform that action, the target of the action, and when the agent wants to select its next action. 
 	* Policies are initialized using Human Play (i.e., [[Imitation Learning]]) 
 	* The policies are then trained using [[Basic Policy Gradient Methods#A2C - Advantage Actor-Critic|A2C]]. The agent is penalized for deviating from human play. 
+
+![[AlphaStar.png]]
+<figcaption> AlphaStar. Image taken from Vinyals et al. (2019)</figcaption>
 
 * It makes use of **League Training** - a single league of policies corresponds to the different types of agents
 	* It uses past policy copies of each agent type. 
@@ -63,5 +66,7 @@
 		* **Main agents** - trained with self-play, PFSP and against past policies of main-exploiters. 
 		* **Main exploiter agents** - trained to exploit the weakness of the main agent. They are added to the league when they manage to defeat all main agents. 
 		* **League exploiter agents** - trained against all policies in the league. They are trained to identify strategies that no policy in the league is effective against. 
+
+[^Vinyals_2019]:  Vinyals et al. (2019) [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf)
 # Links
 * [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] - Ch. 6,9 

@@ -60,6 +60,8 @@
 
 * **Verdriet** - (Dutch) Sorrow. immense pain or grief.
 
+* **Weltschmerz** - (German) Lit. World pain. The feeling experienced by an individual who believes that reality can never satisfy the expectations of the mind, resulting in a mood of weariness or sadness about life arising from the acute awareness of evil and suffering.
+
 * **Zeitgeist** - "The Spirit of the Times". An invisible agent dominating the characteristics of a given epoch in world history.
 
 # Links

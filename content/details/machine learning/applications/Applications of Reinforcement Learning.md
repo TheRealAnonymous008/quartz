@@ -96,6 +96,12 @@
 				* The *ancestor set* consists of all jobs $j'$ with a path to job $j$. 
 			* *Waiting relationships* are between jobs and machines indicating that the job is in the machine's waiting queue.
 		* Two DQNs are used to reduce cost and enable scalability 
+	* The following key results were found 
+		* When compared to methods that simply rely on heuristics, DeepMAG always achieves best performance  regardless of the number of jobs.
+		* The size of the replay buffer should be just right (not too small and not too big to contain outdated data). 
+		* An appropriate number of target network updates is needed (not too few to be too outdated and not too many to be unstable )
+		* An appropriate number of neurons is necessary (not too few to underfit and not too many to overfit or be too slow to compute)
+	* *Limitations*: The paper does not consider a dynamic setting (i.e., when job requirements change). 
 
 ![[DeepMAG.png|500]]
 <figcaption> DeepMAG. Image Taken from Zhang, He, Chan, and Chow (2023) </figcaption>

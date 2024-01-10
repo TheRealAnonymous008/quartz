@@ -33,6 +33,20 @@
 * The **Washington Monument Strategy** is a strategy where in making budget cuts, it proposes cutting a high utility expenditure (such as a monument). *This is a misleading strategy* since to really maximize utility, we prioritize *cut low utility expenditures first*
 	* This possibly arises from the subjectivity of utility. A monument, from the perspective of national assets, is merely an attraction. However, to the people they have a (presumed) high utility due to cultural significance. 
 
+# Information in the Market 
+* Many buyers and sellers face [[Static Games of Incomplete Information|imperfect information]]. Additionally, there is some [[Information Hazards#Information Asymmetry Hazard|Information Asymmetry]] involved. 
+* *Buyers and sellers, however, have incentive to counteract imperfect and asymmetric information.*
+	* On the seller's side, there is [[Dynamic Games of Incomplete Information#Reputation|Reputation]] to incentivize being honest to the buyers. The following measures enhance reputation 
+		* **Money-back guarantees** -  encourage people to buy something even if they may not keep it.
+		* **Warranties** - a promise to replace the good for a certain time period. 
+		* **Service Contract** - the buyer pays an extra amount and the seller agrees to fix anything that goes wrong (for a set time period)
+		* **Occupational License** - for the [[Labor Market Theory|Labor market]] in particular. It certifies a level of quality for a person. 
+		* *Rationale*: These methods attract repeat customers which are important for businesses. 
+	* On the buyer's side ,there is incentive to be honest about their preferences (similar to [[Auction Theory|here]]).
+		* In the labor market, there may be a trial period to see the quality of work a laborer can provide. 
+		* In the [[Financial Market]], there may be requirements on having a **consigner** of the loan who repays some of the money if the borrower doe snot so. Another approach is through **collateral** which the bank can seize and sell if not paid. 
+* Severe Imperfect information can thin the market and make buyers and sellers unwilling to participate
+* Because of imperfect information, *buyers apply [[False Priors and Extension Neglect|heuristics]] based on the price which may mean that higher price = higher quantity demanded* 
 # Links 
-* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 6
-* **[[Behavioral Economics]]** is another approach to analyzing consumer behavior 
+* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 6, 16
+* **[[Behavioral Economics]]** is another approach to analyzing consumer behavior which focuses on human "irrationality"

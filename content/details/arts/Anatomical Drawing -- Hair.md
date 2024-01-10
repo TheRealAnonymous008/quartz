@@ -41,6 +41,14 @@
 
 ## Sides 
 * The *side section* includes the region of the hair which curves around the head. It includes the region above the ears and potentially flowing towards the neck. 
+* The side hair has *volume*. Make sure to not put the hair directly on top of the head / scalp. Instead, account for space above the scalp where the hair rests.
+* Side hair can have *layers* which can be represented by having hair clusters of different lengths. 
+	* Hair in this case can be long or short.
+* The side hair originates from the *hair swirl*. It is a line on the top of the head from which all hair originates and grows away from.
+* Consider that the hair could be *parted* or not parted. In the case that it is parted, In the region where the parting happens it acts like a swirl from which the hair seems to originate out of. 
+* The side hair's [texture](https://www.healthline.com/health/beauty-skin-care/types-of-hair#style-and-care) should be consistent with the rest of the hair. The following is a list of textures possible for side hair [^s1]
+
+[^s1]: Note, this is applicable for front and back as well. 
 
 ## Back 
 * The *back section* includes the mass of hair from behind the head and in the nape area. 

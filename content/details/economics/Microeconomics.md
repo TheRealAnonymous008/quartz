@@ -15,12 +15,13 @@
 	* Compare the new equilibrium to the old equilibrium
 # Topics 
 * [[Scarcity, Supply, and Demand]]
-* [[Consumer Behavior]]
+* [[Consumer Behavior and Transactions]]
 
 * [[Firms, Production and Externalities]]
 * [[Competition between Firms]]
 * [[Labor Market Theory]]
 * [[Financial Market]]
+* [[Public Economy]]
 
 # Links  
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw]]

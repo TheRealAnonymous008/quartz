@@ -107,7 +107,7 @@ $$
 
 * *Elasticity is often lower in the short run rather than in the long run*. This is due to changes in the quantity moreso than the changes in price. 
 	* *In the long term, quantity tends to fluctuate more than price*. 
-	* In terms of demand, this is due to [[Consumer Behavior|spending habits]] as well as having more disposable income. 
+	* In terms of demand, this is due to [[Consumer Behavior and Transactions|spending habits]] as well as having more disposable income. 
 	* In terms of demand, this is due to expanding production and reducing costs long term.
 
 ## Extensions

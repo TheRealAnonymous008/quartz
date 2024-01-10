@@ -54,6 +54,7 @@
 * [[Microeconomics]] - focuses on the actions of individual agents within the economy
 	* [[Behavioral Economics]]
 * [[Macroeconomics]] - focuses on the economy as a whole. 
+* [[Computational Economics]]
 
 # Links 
 * [[Game Theory]] 
