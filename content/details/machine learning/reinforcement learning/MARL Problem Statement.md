@@ -92,6 +92,10 @@ Where $\bar{U}_i^z$ denotes the average return across episodes.
 	* *Complex Heterogeneity* due to diverse human backgrounds, physical system specifications, and differences between the time scales of the simulation and reality. 
 	* *Scalability* especially when the number of agents increases, and considering human factors. 
 
+* As [^Zheng_Trott_2020] points out, AI and human behavior differs substantially, so extending AI to apply to the real world setting requires some form of human "suboptimality"
+
+[^Zheng_Trott_2020]: Zheng et al. (2020) [The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies](https://arxiv.org/pdf/2004.13332.pdf) . Supplemental [blog](https://blog.salesforceairesearch.com/the-ai-economist/)
+
 ## Safety 
 * [^Zhou_2023] define the following extension of the regular stochastic game: 
   
