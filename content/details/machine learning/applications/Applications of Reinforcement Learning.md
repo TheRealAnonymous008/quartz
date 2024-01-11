@@ -11,18 +11,18 @@
 	* Older agents tend to be more segregated than younger agents. 
 
 
-[^Sert_2020]: Sert, Bar-Yam, and Morales (2020). [Segregation dynamics with reinforcement learning and agent based modeling](https://www.nature.com/articles/s41598-020-68447-8)
+	[^Sert_2020]: Sert, Bar-Yam, and Morales (2020). [Segregation dynamics with reinforcement learning and agent based modeling](https://www.nature.com/articles/s41598-020-68447-8)
 
 * [^Klar_2021] Applies reinforcement learning for automated layout, and in particular making use of DDQL in order to layout units for a factory. Presents more as a proof of concept. 
 
-[^Klar_2021]: Klar, Glatt, and Aurich (2021) [An implementation of a reinforcement learning based algorithm for factory layout planning](https://www.sciencedirect.com/science/article/pii/S2213846321000651) 
+	[^Klar_2021]: Klar, Glatt, and Aurich (2021) [An implementation of a reinforcement learning based algorithm for factory layout planning](https://www.sciencedirect.com/science/article/pii/S2213846321000651) 
 
 * [^Kwak_2021] Applies reinforcement learning in the context of public health -- particularly handling pandemics. It aims to optimize lockdown and travel restriction policies and the timing of enacting these policies. 
 	* Real world country and territory population data was used alongside COVID-19 epidemiological data. 
 	* Algorithm recommends (unsurprising) strategy of early lockdowns and travel bans and loosening these restrictions later on in the pandemic to balance economic costs. 
 	* Models the entirety of society as a high level construct due to data limitations. 
 
-[^Kwak_2021]: Kwak, Ling, and Hui (2021): [Deep reinforcement learning approaches for global public health strategies for COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251550)
+	[^Kwak_2021]: Kwak, Ling, and Hui (2021): [Deep reinforcement learning approaches for global public health strategies for COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251550)
 
 
 * [^Zhou_2023] Provides a comprehensive survey on the applications of MARL. and some of its challenges (see [[MARL Problem Statement#Human Interaction|here]]). 
@@ -56,7 +56,7 @@
 		* *Science* - general applications in the natural sciences including simulation, discovery, and control. 
 	* The paper argues that MARL should be assessed based on moral constraints of human society especially considering the limitations of the approach. 
 
-[^Zhou_2023]: Zhou, Liu, and Tang (2023) [Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges](https://arxiv.org/pdf/2305.10091.pdf)
+	[^Zhou_2023]: Zhou, Liu, and Tang (2023) [Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges](https://arxiv.org/pdf/2305.10091.pdf)
 
 
 * [^Zhang_He_2023] proposes using MARL for industrial applications, in particular for flexible job scheduling
@@ -103,11 +103,20 @@
 		* An appropriate number of neurons is necessary (not too few to underfit and not too many to overfit or be too slow to compute)
 	* *Limitations*: The paper does not consider a dynamic setting (i.e., when job requirements change). 
 
-![[DeepMAG.png|500]]
-<figcaption> DeepMAG. Image Taken from Zhang, He, Chan, and Chow (2023) </figcaption>
-[^Zhang_He_2023]: Zhang, He, Chan, and Chow (2023) [DeepMAG : Deep reinforcement learning with multi-agent graphs for flexible job shop scheduling](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011790?via%3Dihub)
+	![[DeepMAG.png|500]]
+	<figcaption> DeepMAG. Image Taken from Zhang, He, Chan, and Chow (2023) </figcaption>
+
+	[^Zhang_He_2023]: Zhang, He, Chan, and Chow (2023) [DeepMAG : Deep reinforcement learning with multi-agent graphs for flexible job shop scheduling](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011790?via%3Dihub)
 
 * [^Zheng_Trott_2020] AI economist 
+
+	![[AI Economist Framework.png]]
+
+	<figcaption> The AI Economist framework. Image taken from https://blog.salesforceairesearch.com/the-ai-economist  </figcaption>
+
+	![[AI Economist Pseudocode.png]]
+	<figcaption> AI Economist Pseudocode. Image taken from Zheng et al. (2020)</figcaption>
+
 
 [^Zheng_Trott_2020]: Zheng et al. (2020) [The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies](https://arxiv.org/pdf/2004.13332.pdf) . Supplemental [blog](https://blog.salesforceairesearch.com/the-ai-economist/)
 # Links 
