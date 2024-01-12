@@ -12,6 +12,9 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 
 * *For future*: Personal notes are my own thoughts and syntheses of certain topics. Feel free to ignore these.
 * Notes are organized in a directory structure corresponding to their broad categories. This is a fluid structure that is subject to change. Nevertheless, the search tool exists for a reason.
+* Research based sections follow these rules 
+	* 🎯 indicates the paper was only skimmed but not read in detail. 
+	* Papers are organized by recency (most recent first). 
 
 * Have an issue? Place one [here](https://github.com/TheRealAnonymous008/library-questions/issues)
 # Knowledge Index

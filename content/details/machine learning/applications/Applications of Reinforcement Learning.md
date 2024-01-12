@@ -1,5 +1,5 @@
 # Surveys 
-* [^Zhou_2023] Provides a comprehensive survey on the applications of MARL. and some of its challenges (see [[MARL Problem Statement#Human Interaction|here]]). 
+* [^Zhou_2023] Provides a comprehensive survey on the applications of MARL. and some of its challenges
 	* This includes the following domains and tasks 
 		* *Smart Transportation*- integrating IoT to increase safety, improve transportation efficiency, and reduce environmental impacts 
 			* Traffic light control, especially in the global traffic network level 
@@ -9,13 +9,13 @@
 			* Environment Monitoring - using UAVs to achieve complete coverage while minimizing overlapping FOVs
 			* Collaborative Transportation - using UAVs for a logistics network and making it operate more efficiently 
 		* *Intelligent Information Systems*
-			* [[Natural Language Processing]] - includes RLHF and MARL-powered chatbots that can simulate conversations 
+			* Natural Language Processing- includes RLHF and MARL-powered chatbots that can simulate conversations 
 			* Programming Generation - MARL can be used to collaboratively generate, optimize, and test programs 
 			* Recommender systems - MARL can be used to enhance collaborative effort, regulate competing parties, and simulating user preferences. 
 		* *Public Health and Intelligent Medical Diagnosis* - aims to improve various fields in healthcare including 
 			* Disease prediction, diagnosis, and treatment. MARL is good in this context because it can handle collaborative tasks. 
 			* Medical image processing via an ensemble of MARL agents.
-		* *Smart Manufacturing* - using AI to optimize the production process. These methods typically require sophisticated [[MARL Deep Learning#Value Decomposition and Common-Reward Games|techniques]] to counteract combinatorial action space explosion.
+		* *Smart Manufacturing* - using AI to optimize the production process. These methods typically require value decomposition to counteract combinatorial action space explosion.
 			* Job shop scheduling - involves resource allocation, task management and scheduling, especially in a dynamic environment. 
 			* Industrial robots - focuses on the level of robots that make products. Also focuses on making these robots. 
 			* Preventive maintenance - accounting for machine failure. 
@@ -40,7 +40,7 @@
 
 	[^Kwak_2021]: Kwak, Ling, and Hui (2021): [Deep reinforcement learning approaches for global public health strategies for COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251550)
 
-* [^Sert_2020] combines reinforcement learning techniques with [[Agent Based Modeling|ABM]] technique to study the dynamics of segregation. 
+* [^Sert_2020] combines reinforcement learning techniques with ABM techniques to study the dynamics of segregation. 
 	* *Contribution*: Combining MARL and ABM to create an artificial environment to observe potential and existing behaviors associated to rules of interactions and rewards.  
 	* In particular, the rewards each agent receives constitutes the following:
 		* *Segregation reward* to promote segregation. 
@@ -54,6 +54,7 @@
 
 
 	[^Sert_2020]: Sert, Bar-Yam, and Morales (2020). [Segregation dynamics with reinforcement learning and agent based modeling](https://www.nature.com/articles/s41598-020-68447-8)
+
 # Policy-Making
 * [^Zhang_He_2023] proposes using MARL for industrial applications, in particular for flexible job scheduling
 	* *Contribution*: Integrating MARL with Deep RL techniques to handle the larger search space via decentralized execution and more parameters. MARL also allows the agents to operate in a cooperative setting.
@@ -78,7 +79,7 @@
 			* Update features of each agent. 
 				* *For machine-centric features* -- The feature vector encodes information about the productivity, number of waiting, routed, and executing tasks, current workload quantity of the machine. It also considers aggregates (sums) across each relationship set (see below)
 				* *For job-centric features* -- The feature vector consists of information about the number of machines related to it, as well as the sum, maximum, and minimum of all workload quantities in jobs that are in a relationship set with it (see below)
-			* Update the first [[Off Policy Prediction and Control with Approximation#DQN|DQN]] for job routing.
+			* Update the first DQN for job routing.
 			* Update a second DQN for job sequencing 
 		* The MAG specifies relationships between agents (both machines and jobs)
 			* *Static relationships* are between machines in terms of consecutive operations. There are four types of this relationship 
@@ -104,6 +105,21 @@
 
 	[^Zhang_He_2023]: Zhang, He, Chan, and Chow (2023) [DeepMAG : Deep reinforcement learning with multi-agent graphs for flexible job shop scheduling](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011790?via%3Dihub)
 
+* [^Koster_2022] builds a democratic AI that can design a social mechanism that humans would prefer by majority. It aims for value-aligned policy innovation 
+	* *Rationale*: Designing a mechanism that addresses income inequality and prevents free riding is difficult. 
+	* *Contribution*: it is possible to harness for value alignment the same democratic tools for achieving consensus that humans use in society.  *AI can be trained to satisfy a democratic objective* 
+	* A deep RL agent is designed to redistribute funds back to players under both wealth equality and inequality. It, along with other baseline policies, were voted by human players. 
+	* Policies are represented using the *ideological manifold* by considering the fractional payout each player receives. It is specified by parameter $v$ which mixes between absolute and relative payouts. 
+		* The absolute component combines their contribution with the average from that of other players 
+		* The relative component is determined by the ratio of contribution to endowment. 
+	* The paper suggests that a simple mechanism (such as this operating in only two dimensions) is *perceived as transparent and understandable* to humans. 
+		* The agent preserves privacy by operating on the distributions rather than on the individuals themselves. *It is slot equivariant*.
+	* *Limitations*: A democratic approach is not necessarily the best approach since it might lead to the "tyranny of the majority". A proposed solution by the paper is to augment the cost function to protect minorities.  
+
+
+	[^Koster_2022]: Koster et al. (2022) [Human-centred mechanism design with Democratic AI](https://www.nature.com/articles/s41562-022-01383-x)
+
+
 * [^Klar_2021] Applies reinforcement learning for automated layout, and in particular making use of DDQL in order to layout units for a factory. Presents more as a proof of concept. 
 
 	[^Klar_2021]: Klar, Glatt, and Aurich (2021) [An implementation of a reinforcement learning based algorithm for factory layout planning](https://www.sciencedirect.com/science/article/pii/S2213846321000651) 
@@ -111,7 +127,7 @@
 * [^Zheng_Trott_2020] examines the use of MARL to develop a tax system that promotes and balances equality and productivity. It is effective in simulations with human participants and can be extended to real economies. 
 	* *Rationale*: 
 		* Economic models are too simplistic and do not capture the complexities of humans. 
-		* Prior methods for [[Mechanism Design]] did not consider agents that learnt how to behave .Agents were assumed to be static. 
+		* Prior methods for mechanism design did not consider agents that learnt how to behave .Agents were assumed to be static. 
 		* It is also hard to test economic policy since it can deal with long time scales. 
 	* Both the workers in the economy and the policy maker are powered by reinforcement learning.  
 		* In the model, higher skilled workers earn more for building houses. Building houses takes effort which lowers utility. 
@@ -138,7 +154,7 @@
 			* Agents with higher skill earn income by building products and buying from low skill agents. 
 		* *The AI policy maker achieves a better trade-off between equality and productivity than baseline methods*.
 			* Under the AI economist, lower income workers have lower tax burden
-			* The worker agents learn to game the system by alternating between their [[Dynamic Games of Incomplete Information|types]] based from whether they are high skilled or low skilled.
+			* The worker agents learn to game the system by alternating between their types] based from whether they are high skilled or low skilled.
 		* *AI and human behavior differs substantially*. Humans display a higher frequency of adversarial behavior 
 	* *Limitations*
 		* They do not model the behavioral aspect of economics and the interactions between people 
@@ -155,4 +171,15 @@
 	[^Zheng_Trott_2020]: Zheng et al. (2020) [The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies](https://arxiv.org/pdf/2004.13332.pdf) . Supplemental [blog](https://blog.salesforceairesearch.com/the-ai-economist/)
 # Links 
 * [[Reinforcement Learning]]
+	* [[Off Policy Prediction and Control with Approximation]]
+	* [[Policy Gradient Methods]]
 * [[Multi-Agent Reinforcement Learning]]
+	* [[MARL Problem Statement]] 
+	* [[MARL Deep Learning]]
+	* [[Self Play]]
+* [[Natural Language Processing]]
+* [[Agent Based Modeling]]
+
+* [[Dynamic Games of Incomplete Information]]
+* [[Mechanism Design]]
+* [[Economics]]

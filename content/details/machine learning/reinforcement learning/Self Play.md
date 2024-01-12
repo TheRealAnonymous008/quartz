@@ -68,5 +68,27 @@
 		* **League exploiter agents** - trained against all policies in the league. They are trained to identify strategies that no policy in the league is effective against. 
 
 [^Vinyals_2019]:  Vinyals et al. (2019) [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf)
+
+# Other Approaches 
+## Fictitious Co-play 
+* [^Strouse_2021] introduces **Fictitious Co-Play** wherein checkpoints of each agent's models are saved and an *agent partner is trained to collaborate with both the fully trained agents and their past checkpoints.* 
+* *Rationale*: Past checkpoints simulate varying skill levels and promotes robustness of the model especially when faced with human collaborators which have their own preferences and skill levels. 
+* This allows the agent to better collaborate with humans without having to rely on human data for behavioral cloning.
+* It consists of two stages 
+	* *A diverse pool of partners are trained independently in self-play* to get a variety of strategies. Checkpoints of each self-play partner is kept. 
+	* An FCP agent is trained as a best response to the pool of diverse partners. The partner agents are frozen so that *the FCP agent can adapt to them*
+
+* *FCP outperforms previous SOTA methods and is preferred by humans over them*. 
+	* FCP is not biased and can adapt to its collaborator's preferences (assuming choosing either yields equal value). 
+	* *FCP can achieve zero-shot collaboration*.
+* For larger games, FCP would require a larger population. Methods would need to be explored to encourage behavior diversity.
+* It is reliant on a reward function but this need not be the case. 
+
+![[Fictitious Co-Play.png]]
+<figcaption> Fictitious Co-Play. Image taken from Strouse et al. (2021) </figcaption>
+
+[^Strouse_2021]: Strouse et al. (2021) [Collaborating with Humans without Human Data](https://arxiv.org/pdf/2110.08176.pdf) 
+
+
 # Links
 * [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] - Ch. 6,9 

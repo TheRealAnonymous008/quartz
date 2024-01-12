@@ -5,10 +5,23 @@
 	* Thus, break creative works down to their simple parts. They are not complicated in so far as the ability to have a keen aesthetic sense and direction.
 	* Art is good in so much as it fulfills or conveys something meaningful to the audience. 
 	* *Art shouldn't aim to be real, but rather to provide an experience*. 
+
 * Remember: *There is no such thing as original*. 
 	* The trick to making something "original" is to take inspiration, to learn the history of the craft.
 	* *Understand the design decisions of others*. While [[The 48 Laws of Power#7. Get Others To Do The Work For You But Always Take The Credit|we may take inspiration from others]], when doing so take note of why those design or aesthetic decisions were made. [^7]
-	* *Give me the same thing but different*. 
+	* *Give me the same thing but different*.
+	* [TomSka's Guide to Plagiarism](https://www.youtube.com/watch?v=5qoOYrTzOfM&t=26s) . Taking "inspiration" can come in a sliding scale
+		* *No Correlation* from the Work 
+		* *Parallel Thinking* - Coming up with the same idea independently 
+		* *Subconscious Appropriation*  - Consuming the source and, without realizing it, applying it to one's own work 
+		* *Inspiration* - Copying one aspect of a work into something vaguely related 
+		* *Influence* - Copying an entire ethos or approach to creation into one's work 
+		* *Reference* - Overtly calling out the source material that was copied 
+		* *Allusion* - Calling out the source material in some obscure manner (and trying to hide it intentionally)
+		* *Derivative* - Copying the creative idea or concept of the source work, subject to a "new" execution
+		* *Imitative* - Copying the creative concept and execution of the source work 
+		* *Cloning* - Copying the exact work, exactly how it was done 
+		* *Freebooting* - Stealing the source work directly and passing it off as one's own. 
 * *Inspiration comes from everywhere else*. Which is to say, we may imitate others but we cannot imitate inspiration. Inspiration comes from one's own perspective and how one applies that perspective to their art.  [^12]
 	* Brainstorming tips are given [[Lenses for the Process#The Game Begins with an Idea|here]]. 
 * *Use multiple layers of meaning* -- that is, touch on many dimensions of life. 
@@ -59,6 +72,7 @@
 * *The whole is greater than the sum of its parts*. A piece is viewed as a whole, not just as a mish-mash of disjointed parts. A piece is viewed as part of the wider whole (its cultural context).
 * *Respect the audience's time and intelligence* lest the creative work comes off as pretentious or dull.
 * [[The Cult of Done Manifesto|Get Things Done]]
+
 
 
 [^1]: [[details/creativity/design/DOET/Design Thinking]]

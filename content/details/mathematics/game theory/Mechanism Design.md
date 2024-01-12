@@ -98,6 +98,7 @@
 
 	* The effect is that *each player maximizes three things* -- their own payoff, the transfer rule based on the payoffs of the other players as if they were telling the truth, and an additional payoff based on their announced type (which can be largely ignored)
 	* The choice for $m_i$ *does not rely on other players telling the truth* only that it is as if it were the truth, and that the ultimate decision of what to maximize relies on player $i$. *The player is incentivized to follow the Pareto optimal choice because they know they will be compensated and can also seek to maximize this compensation*. 
+
 # Links 
 * [[Game Theory -- An Introduction by Tadelis|Tadelis Ch. 14]]
 * [[Auction Theory]] - auctions are a special case of this. The public alternative in this case is ownership of a particular item. 

@@ -27,6 +27,7 @@
 	* ABMs have so far mostly been used to generate insights and qualitative descriptions of scenario that may occur rather than quantitative forecasts.
 	* *ABM can be extended to apply to heterogeneous agents* -- that is, agents that behave differently and not necessarily rationally .
 	* *ABM can be used to explain experimental results*. 
+	* *ABMs can be used to generate priors* to produce scenarios for machine learning algorithms in a semi-supervised manner to reduce errors and prevent the amplification of distortions
  
 	[^Steinbacher_2021]: Steinbacher et al. (2021) [Advances in the Agent-Based Modeling of economic and social behavior](https://link.springer.com/article/10.1007/s43546-021-00103-3)
 

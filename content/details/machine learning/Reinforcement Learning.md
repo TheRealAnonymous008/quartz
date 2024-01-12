@@ -17,11 +17,14 @@
 
 * [[Function Approximation in Reinforcement Learning]] - how can we generalize experience with a limited subset of the state space? 
 * [[Policy Gradient Methods]] - instead of optimizing value functions, we optimize parameterized policies.
+
 * [[Multi-Agent Reinforcement Learning]]
+* [[Distributional Reinforcement Learning]]
+* [[Inverse Reinforcement Learning]]
 
 * [[Applications of Reinforcement Learning ]]
 # Papers
-* Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
+* 🎯 Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]
 * [[Reinforcement Learning and Stochastic Optimization -- A Unified Framework for Sequential Decisions by Powell|Powell]]
