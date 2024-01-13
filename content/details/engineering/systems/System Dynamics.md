@@ -1,3 +1,4 @@
+
 * Systems dynamics models explore possible futures and ask [[Data Analytics|what if questions]]. We can test the value of a model by asking ourselves the following: 
 	* Are the driving factors likely to unfold this way?
 	* If they did, would the system react this way? 
@@ -58,5 +59,9 @@
 	* A quantity growing exponentially toward a constraint or limit reaches that limit in a surprisingly short time.
 	* If the physical constraint is higher, the growth loop will elude the constraint loop and the convergence to the limit will be slower. 
 
+# Thresholds 
+* **Thresholds** are tipping points where the dynamic behavior of a system suddenly modifies in a manner out of all seeming proportion to the incremental change.
+
 # Links 
 * [[Thinking in Systems by Meadows]] - Ch. 1 -2 
+* [[Principles of Systems Science by Mobus and Kalton]]

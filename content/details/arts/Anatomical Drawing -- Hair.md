@@ -46,12 +46,25 @@
 	* Hair in this case can be long or short.
 * The side hair originates from the *hair swirl*. It is a line on the top of the head from which all hair originates and grows away from.
 * Consider that the hair could be *parted* or not parted. In the case that it is parted, In the region where the parting happens it acts like a swirl from which the hair seems to originate out of. 
-* The side hair's [texture](https://www.healthline.com/health/beauty-skin-care/types-of-hair#style-and-care) should be consistent with the rest of the hair. The following is a list of textures possible for side hair [^s1]
+* The side hair's [texture](https://www.healthline.com/health/beauty-skin-care/types-of-hair#style-and-care) should be consistent with the rest of the hair. The following is a list of textures possible for side hair [^s1]. 
+* [Walker's Hair Types](https://www.oasisbeautykitchen.com/blogs/oasis-skin-blog/from-straight-to-kinky-the-ultimate-hair-care-guide) is a good listing for consideration
+	* *Type 1 - Straight* - no natural curl. Completely straight from root to tip. Tends to be shiny and appears flat
+	* *Type 2 - Wavy* - has a gentle wave pattern. Thicker than straight hair. Often has tangles or split ends. 
+	* *Type 3 - Curly* - more defined curl pattern from loose curls to tight spirals. Curls go in an S pattern. 
+	* *Type 4 - Kinky* - very tight Z curl pattern. Typically found in afro hair.
 
 [^s1]: Note, this is applicable for front and back as well. 
 
+* Consider as well the thickness of the hair. This corresponds to how "visible" the scalp is.
+	* A completely bald human will not have any hair, however keep in mind the shape of the head. 
+	* Convey "thin" hair using dots.
+	* Thicker hair is conveyed using clumps of hair (as standard)
+
 ## Back 
 * The *back section* includes the mass of hair from behind the head and in the nape area. 
+* Aside from texture, the primary concern is hair length. 
+* Men's hair will be typically shorter (at most only reaching up to the nape.) This is dependent, however, on hairstyle. 
+* Women's hair will be longer. 
 
 ## Facial Hair 
 
