@@ -55,6 +55,7 @@
 * Systems are uncontrollable but they can be designed and redesigned. 
 
 * *Get the Beat of the System* - understand the system, how it works and how it has operated in the past.  Look not just at static events but at the dynamic behaviors and trends of the system and how these came about based on its goals. 
+	* Understanding the behavior of the system lets you focus on the facts rather than theories or personal biases. 
 * *Expose your mental models to the light of day* - redraw your boundaries for the system. Understand when a paradigm shift or a restructuring is necessary. [[Bayesian Statistics|Update your models accordingly]] based on evidence. [[Science|Experiment]].
 * *Honor, Respect, and Distribute Information* - modifying a system's information flows change it significantly. Information is power. 
 * *Use language with care and enrich it with systems concepts* - [[Linguistics|Language]] is the way in which we conceptualize the world. Expanding our language also [[Psychology|expands our models]].
@@ -62,14 +63,14 @@
 	* Enlarge language to make it consistent with an enlarged understanding of the systems. 
 * *Pay attention to what is important, not just what is quantifiable* - Pretending that something doesn’t exist if it’s hard to quantify leads to faulty models.
 * *Make feedback policies for feedback systems* - a dynamic system cannot be governed by a static policy. Design flexible policies that change depending on the system [^1]
-* *Go for the good of the whole* [^2]  
+* *Go for the good of the whole* [^2]  . Do not lower the standard of "good"
 * *Listen to the wisdom of the system*  [^3]. Before you charge in to make things better, pay attention to the value of what’s already there.
 * *Locate Responsibility in the System* 
 	* As a system analyst look for ways the system creates its own behavior. 
-	* Intrinsic responsibility means that the system is designed to send feedback about the consequences of decision making directly and quickly.  Make the system more responsible for its own maintenance. 
+	* Intrinsic responsibility means that the system is designed to send feedback about the consequences of decision making directly and quickly to decision makers .  
 * *Stay humble - Stay a learner*. 
 * *Celebrate complexity*. The universe is a complex system. Encourage this complexity rather than simplifying it. 
-* *Expand time horizons*. Think more long-term rather than just short-term. 
+* *Expand time horizons*. Think more long-term rather than just short-term. Actions now affect the far future, and actions from the far past affect the present.
 * *Defy the disciplines* - systems transcend disciplines. Be interdisciplinary  and learn from many things. Expand your horizons. 
 * *Expand the boundary of caring* - the system is interconnected. Caring for one aspect cascades to the whole system. 
 * *Don't erode the goal of goodness* - set appropriate standards. Prevent the system's goals from eroding.
@@ -83,3 +84,5 @@
 # Links 
 * [[Thinking in Systems by Meadows|Meadows]] - Ch. 7 - 8 
 * [[System Archetypes]] - issues with incorrectly using the leverage points, and also ways to fix them.
+
+* [The Systems Thinker -- Dancing with Systems by Meadows](https://thesystemsthinker.com/dancing-with-systems/)
