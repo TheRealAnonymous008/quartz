@@ -1,3 +1,4 @@
+* Many issues with regards to the macroeconomic goals can be traced from [[System Dynamics]] especially with how there are delays in the real world .
 # Economic Growth 
 * Rapid and sustained economic growth is a relatively recent experience for the human race.
 * Slavery-based societies, favorable demographics, global trading routes, and standardized trading institutions that spread with different empires set the stage for the Industrial Revolution to succeed.
@@ -155,7 +156,9 @@
 * **Hyperinflation** - an outburst of high inflation.
 
 * *Inflation has less of an economic impact when all prices end up increasing since relative to each other, the purchasing power is the same as it was before*
-* *Inflation becomes bad when the rate of price increases across sectors (and especially for wages) is out of sync.*
+	* Inflation becomes bad when the rate of price increases across sectors (and especially for wages) is out of sync.
+	* *It also becomes bad because of delays because it can lead to problems*. 
+		* *Unintended redistributions* which hurt those who have a lot of cash or financial assets that do not keep up with inflation. Conversely, it helps those with few cash or such assets.
 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 20 - 22
