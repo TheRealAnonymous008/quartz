@@ -134,6 +134,8 @@
 	  \text{Inflation Rate} = \frac{P_1 - P_0}{P_0} = \frac{\text{PI}_1 - \text{PI}_0}{\text{PI}_0}
 	  $$
 
+* *Inflation is caused by too many dollars chasing too few goods.* If we are to avoid inflation, the amount of purchasing power in the economy must grow at roughly the same rate as the production of goods
+
 * The **Consumer Price Index** is a measure of inflation based on the purchases of the average family of four. 
 * *Caveat*: The change in the buying cost of goods and service is not the same as the change in cost of living.
 	* **Substitution Bias** - the rise in the price of a fixed basket of goods over time tends to overstate the rise in the cost of living because it does not take into account that a person can substitute goods 
@@ -150,6 +152,7 @@
 	* **Employment Cost Index** - based on wage inflation 
 	* **GDP deflator** - based on all the GDP components and is based on what the GDP would have been worth using the base year's prices.
 
+## Consequences of Inflation
 * **Deflation** - time when the buying power of money is increased. 
 * *Deflation marks falling prices and a recession under way*.
 
@@ -159,7 +162,28 @@
 	* Inflation becomes bad when the rate of price increases across sectors (and especially for wages) is out of sync.
 	* *It also becomes bad because of delays because it can lead to problems*. 
 		* *Unintended redistributions* which hurt those who have a lot of cash or financial assets whose nominal returns do not keep up with inflation. Conversely, it helps those with few cash or such assets.  *Inflation makes economic reward and penalties feel more arbitrary and unfair.*
+		* When interest rates are fixed, rises in the rate of inflation tend to penalize suppliers of financial capital
+* *Inflation means that we perceive price signals more vaguely* -- making it harder to gauge demand and supply and react accordingly. 
+* *Interest makes long-term planning difficult* because we must consider the uncertain effects of inflation in the distant future. 
+
+* *The impact of inflation is dependent on how much it is changing*. Low inflation rates is rarely a problem. 
+* Moderate inflation may (arguably) make wages less [[#Unemployment|sticky]]
+
+## Adjusting for Inflation 
+* A quantity is **indexed** if it adjusted for inflation. 
+* Measures can be taken to use indexed quantities 
+	* Unions can negotiate **cost-of-living adjustments** that guarantee their wages keep up with inflation. 
+	* Contracts may also have quantities which may adjust according to inflation
+	* Many government programs are indexed to inflation. Taxes also rise with inflation to make it easier to keep track of what people owe. 
+* *Indexing is always partial since not everyone will implement indexing nor will everyone trust that a quantity will be indexed*.
+
+# Trade 
+* The **balance of trade** is any gap between the monetary value of exports with imports.
+	* **Merchandise trade balance** - trade balance  tracked by the physical items transported between countries. This is outdated due to services exported by technology. 
+* **Current Account Balance** - includes other international flows of income and foreign aid on top of balance of trade. 
+
+* *Large trade surpluses or deficits can become an issues (i.e., recessions)*.
 
 # Links 
-* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 20 - 22
+* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 20 - 23
 * [[Macroeconomic Policy]]
