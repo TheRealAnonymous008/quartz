@@ -158,7 +158,7 @@
 * *Inflation has less of an economic impact when all prices end up increasing since relative to each other, the purchasing power is the same as it was before*
 	* Inflation becomes bad when the rate of price increases across sectors (and especially for wages) is out of sync.
 	* *It also becomes bad because of delays because it can lead to problems*. 
-		* *Unintended redistributions* which hurt those who have a lot of cash or financial assets that do not keep up with inflation. Conversely, it helps those with few cash or such assets.
+		* *Unintended redistributions* which hurt those who have a lot of cash or financial assets whose nominal returns do not keep up with inflation. Conversely, it helps those with few cash or such assets.  *Inflation makes economic reward and penalties feel more arbitrary and unfair.*
 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 20 - 22

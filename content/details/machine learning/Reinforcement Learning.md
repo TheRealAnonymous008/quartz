@@ -24,6 +24,10 @@
 
 * [[Applications of Reinforcement Learning ]]
 # Papers
+* [^Eysenbach_2018] proposes DIAYN as a method to learn skills without the use of a reward function. 
+
+	[^Eysenbach_2018]: Eyesenbach, Gupta, Ibarz, and Levine (2018) [Diversity Is All You Need: Learning Skills Without A Reward Function](https://arxiv.org/pdf/1802.06070.pdf)
+
 * 🎯 Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]]

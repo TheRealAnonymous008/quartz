@@ -225,6 +225,42 @@ $$
 	* It does not scale well due to relying on joint action space 
 	* It does not directly enforce the necessary and sufficient conditions for IGM, instead using regularization terms. Hence, IGM is not guaranteed. 
 
+## MaVEN 
+* [^Mahajan_2020] suggest that representational constraints on the joint action values lead to poor exploration and suboptimality.  This is because none of these methods are able to perform **committed exploration** wherein a specific set of actions (probabilistically unlikely to be chosen in that exact sequence )are required to perform further exploration
+* The monotonicity constraint can prevent the Q-network from correctly remembering the true value of the optimal action (currently perceived as suboptimal
+* **Multi-Agent Variational Exploration** *learns an ensemble of monotonic approximations of QMIX via latent space representation*
+	* Each model can be seen as a mode of committed joint exploration. 
+	* A shared latent variable $z$ is controlled by a hierarchical policy that offloads $\epsilon$-greedy with committed exploration. Fixing $z$ gives a monotonic approximation to the optimal action-value function. 
+	* The loss function becomes as follows 
+	  
+	  $$
+	  \mathcal{L}_{\text{QL}}(\phi, \eta, \psi) = \mathbb{E}_{\pi}\bigg[\bigg( Q(s_t,a_t;z) - [r(s_t,a_t) + \gamma\max_{u_t+1} Q(s_{t+1}, u_{t+1}; z)]\bigg)^2\bigg]
+	  $$
+	* A hierarchical policy objective is obtained through parameter freezing 
+	  
+	  $$
+	  \mathcal{L}_\text{RL} = \int r(\tau \mid z) \ p_\theta (z\mid s_0) \ \rho (s_0) \ dz \ ds_0
+	  $$
+	* Another objective makes use of mutual information to encourage diverse but identifiable behavior among policies derived from $z$. The actions in the trajectory are encoded by an [[Recurrent Neural Networks|RNN]]. $\sigma$ is an operator that returns a per-agent Boltzmann policy with respect to the utilities at each time step $t$. 
+	  
+	  A tractable lower bound is provided using a variational distribution $q_0$ parameterized by $v$ as a proxy for the posterior over $z$.
+	  
+	  $$
+	  \mathcal{L}_{\text{MI}}  = \text{MI} (\sigma(\tau), z)  \ge H(z) + \mathbb{E}_{\sigma(\tau), z} [\log(q_0 (z\mid \sigma(t)))] = \mathcal{L}_V(v,\phi,\eta, \psi)
+	  $$
+
+* The complete objective is the following 
+  
+  $$
+  \max_{v.\phi, \eta, \psi, \theta} \mathcal{L}_{\text{RL}}(\theta) + \lambda_\text{MI} \mathcal{L}_V (v,\phi,\eta,\psi)  - \lambda_{\text{QL}} \mathcal{L}_{\text{QL}} (\phi, \eta, \psi)
+  $$
+![[__images/MAVEN.png]]
+<figcaption> Maven Architecture.  Image taken from Mahajan et al. (2020) </figcaption>
+
+![[MAVEN 1.png]]
+<figcaption> MAVEN Algorithm. Image taken from Mahajan et al. (2020</figcaption>
+
+[^Mahajan_2020]: Mahajan, Rashid, Samvelyan, Whiteson (2020) [MAVEN: Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483.pdf)
 # Homogeneous Agents 
 ## Parameter Sharing 
 * A method where *each agent uses the same set of parameter values* in their neural networks. That is, we have either of the following (or both)
