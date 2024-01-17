@@ -34,7 +34,7 @@
 	* *Rules* - incentives ,punishments, constraints 
 		* The rules of the system define its scope, boundaries and degrees of freedom. 
 		* [[The 48 Laws of Power#31. Control The Options -- Get Others To Play With The Cards You Deal|Power over rules is real power]]. The rules for writing rules has even more powers. Whoever controls the rules has the power. 
-	* *Self-Organization* - the [[Properties of Systems|power]] to add, change or evolve system structure 
+	* *Self-Organization* - the [[Characterizing Systems|power]] to add, change or evolve system structure 
 		* Adding new physical structures to any lower level leverage points to change the system itself. 
 		* The rules of self-organization govern how, where, and what the system can add or remove from itself and under what conditions.
 		* It offers a means for [[The Exploitation-Exploration Trade-Off|exploration and exploitation]]. It is a new stock which embodies the system's potential.

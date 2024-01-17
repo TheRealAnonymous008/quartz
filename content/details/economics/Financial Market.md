@@ -4,7 +4,7 @@
 	* Interest arises from the expectation that the borrowers will return the money. It effectively acts as the "price"
 
 * Higher interest rates mean that borrowers reduce demand and increase supply. 
-* How producers save their money affects supply. Similarly, how consumers borrow money affects demand.  
+* How producers save their [[Money]] affects supply. Similarly, how consumers borrow money affects demand.  
 * *Usury laws act as price ceilings.* 
 
 * Financial markets are prone to the problem of [[Consumer Behavior and Transactions#Information in the Market|incomplete and asymmetric information]]
@@ -41,7 +41,6 @@
 	* *By borrowing through banks or bonds*  - The firm, through reputation, can make a credible promise to pay interest. 
 		* Here, *the firm is more in control on its operations, but it must pay for the loan*.
 		* Bank borrowing is more customizable than bonds so it tends to be better for smaller businesses.
-			* A **financial intermediary** is an institution (typically a bank) that operates between a saver who deposits funds in a bank and a borrower who receives a loan from that bank
 			* A **checking account** is one that pays little interest but facilitates transactions easily .
 			* A **savings account** pays some interest but the money requires one to make a trip to the bank to access. 
 			* A **certificate of deposit** involves an agreement where the household deposits an amount for a certain period of time, and in exchange the bank will pay them higher interest.  *There is a penalty for early withdrawal from the account.*

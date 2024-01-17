@@ -44,7 +44,7 @@
 
 * **The Law of Demand** states that *as price increases, the quantity demanded decreases* assuming all other variables are held constant.
 
-* **Supply** refers to the amount of some good that a producer is willing to produce at each price. 
+* **Supply** refers to the amount of some good that a producer is willing to produce at each price. Aside from price, there are other factors that can affect supply.
 	* *It is based on the capacity of the producer to produce the good -- its potential profits*. 
 	* More profit = more supply. 
 	* More cost = less supply. 

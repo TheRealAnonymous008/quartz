@@ -1,4 +1,4 @@
-* Pathologies in a [[System Dynamics|system]] arise due to how [[Properties of Systems#Systems as Models|surprising]] systems tend to be.
+* Pathologies in a [[System Dynamics|system]] arise due to how [[Characterizing Systems#Systems as Models|surprising]] systems tend to be.
 
 ![[System Archetypes.png]]
 <figcaption> A collection of common system archetypes Attribution: Mywikipedian, CC BY-SA 4.0  </figcaption>

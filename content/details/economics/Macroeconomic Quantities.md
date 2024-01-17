@@ -61,6 +61,48 @@
   \text{NNP} = \text{GNP} - \text{total physical capital depreciated}
   $$
 
+* The **potential GDP** is the amount of real GDP an economy can produce by fully employing its existing levels of labor and capital in the context of the existing market. 
+# Inflation 
+* **Inflation** - the general and ongoing rise in the level of prices in an economy across many industries.
+	* Changes in the prices of goods for which people spend a larger share of their incomes will matter more than changes in the prices of goods for which people spend a smaller share of their incomes. *It is for this reason we use a weighted average of the prices of the items consumers typically buy*. 
+	* Instead of using nominal prices, we use **price indices** to report average changes in the relative price. It is obtained as follows (relative to a reference price like the price at a certain year)
+	  
+	  $$
+	  \text{Price Index} = \frac{\text{Nominal Price}}{\text{Reference Price}}
+	  $$
+		* *Price indices make relative changes more apparent*.
+	* Inflation rate is calculated as follows where $\text{PI}$ is price index. 
+	  
+	  $$
+	  \text{Inflation Rate} = \frac{P_1 - P_0}{P_0} = \frac{\text{PI}_1 - \text{PI}_0}{\text{PI}_0}
+	  $$
 
+* *Inflation is caused by too many dollars chasing too few goods.* If we are to avoid inflation, the amount of purchasing power in the economy must grow at roughly the same rate as the production of goods
+
+* The **Consumer Price Index** is a measure of inflation based on the purchases of the average family of four. 
+* *Caveat*: The change in the buying cost of goods and service is not the same as the change in cost of living.
+	* **Substitution Bias** - the rise in the price of a fixed basket of goods over time tends to overstate the rise in the cost of living because it does not take into account that a person can substitute goods 
+		* Generally, goods with generally rising prices become less important in the basket. 
+		* Conversely, goods with generally falling prices become more important in the basket.
+	* **Quality / New Goods Bias** - the rise in the price of a fixed basket of goods over time tends to overstate the consumer's true cost of living.
+		* It could be the case that rising prices are due to new goods in the market which the old fixed basket does not include. 
+
+* **Core Inflation Index** - derived from the CPI, however it excludes volatile economic variables. This is the preferred gauge for making policy changes. 
+
+* *If the basket of goods chosen for calculating inflation is not reflective of the demographic, use a new index* 
+	* **Producer Price Index** - based on prices paid for supplies and inputs by producers 
+	* **International Price Index** - based on the prices of exported and imported merchandise 
+	* **Employment Cost Index** - based on wage inflation 
+	* **GDP deflator** - based on all the GDP components and is based on what the GDP would have been worth using the base year's prices 
+
+* The **velocity** of money describes how quickly it circulates throughout the economy 
+  
+  $$
+  \text{velocity} = \frac{\text{nominal GDP}}{\text{money supply}}
+  $$
+  * The **basic quantity equation of money** is a rearrangement of the above equation. 
+    $$
+    \text{Money Supply} \times \text{velocity} = \text{Nominal GDP} = \text{Price Level} \times \text{Real GDP}
+    $$
 # Links 
-* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch 19
+* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch 19, 22

@@ -12,6 +12,7 @@
 
 # Links
 * [Network Science by Barabasi](http://networksciencebook.com/chapter/0)
+* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 4
 
 
 

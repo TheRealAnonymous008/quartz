@@ -77,13 +77,15 @@
 ## Recessions
 * **Cyclical unemployment**- unemployment due to transitioning from a recession to expansion (i.e., following the business cycle) or due to shifts in the demand curve.
 
-* *Wages are sticky downward*, where they are inflexible and decline very slowly. This can be due to a variety of reasons and hypotheses
+* *Wages tend to be sticky downward*, where they are inflexible and decline very slowly. This can be due to a variety of reasons and hypotheses
 	* Due to economic laws and regulations (i.e., minimum wage or wage contracts)
 	* **Implicit contracts** between employer and employee, where the employer will try to keep wages from falling when the business is weak and the employee will not expect huge salary increases when the business is strong 
 	* **Efficiency Wage Theory** - *worker productivity depends on pay* so employers pay employees more than what market conditions dictate. Employers also do not hire additional workers due to increased costs and marginal returns. Instead, they avoid wage cuts. 
 	* **Adverse Selection of Wage Cuts Argument** - if an employer reacts to poor business conditions by reducing wages for all workers, then the best workers, *those with the best employment alternatives at other firms, are the most likely to leave.* Most firms therefore prefer layoffs than wage cuts to retain workers.
 	* **Insider Outsider Model** - *those already working for firms are insiders, while employees are for a brief moment outsiders*. Cutting wages will alienate the insiders and damage its productivity.
 	* **Relative Wage Coordination Argument** - if most workers were hypothetically willing to see a decline in their own wages in bad economic times as long *as everyone else also experiences such a decline*, there is no obvious way for a decentralized economy to implement such a plan
+* *Wages can also be sticky upward* but this tends to arise in low-skill markets  where employers can avoid raising wages due to insufficient competition.
+
 * *Sticky wages result in short-run or long-run unemployment* due to supply and demand.
 	* Gaps created in shifts of demand and supply from an old equilibrium constitute unemployment. 
 	* A shift means that for the same price more workers would want to offer labor than what firms are willing to pay for. 
@@ -120,42 +122,10 @@
 	* Aging demographics. 
 	* More prevalent laws and regulations. 
 # Inflation 
-* **Inflation** - the general and ongoing rise in the level of prices in an economy across many industries.
-	* Changes in the prices of goods for which people spend a larger share of their incomes will matter more than changes in the prices of goods for which people spend a smaller share of their incomes. *It is for this reason we use a weighted average of the prices of the items consumers typically buy*. 
-	* Instead of using nominal prices, we use **price indices** to report average changes in the relative price. It is obtained as follows (relative to a reference price like the price at a certain year)
-	  
-	  $$
-	  \text{Price Index} = \frac{\text{Nominal Price}}{\text{Reference Price}}
-	  $$
-		* *Price indices make relative changes more apparent*.
-	* Inflation rate is calculated as follows where $\text{PI}$ is price index. 
-	  
-	  $$
-	  \text{Inflation Rate} = \frac{P_1 - P_0}{P_0} = \frac{\text{PI}_1 - \text{PI}_0}{\text{PI}_0}
-	  $$
-
-* *Inflation is caused by too many dollars chasing too few goods.* If we are to avoid inflation, the amount of purchasing power in the economy must grow at roughly the same rate as the production of goods
-
-* The **Consumer Price Index** is a measure of inflation based on the purchases of the average family of four. 
-* *Caveat*: The change in the buying cost of goods and service is not the same as the change in cost of living.
-	* **Substitution Bias** - the rise in the price of a fixed basket of goods over time tends to overstate the rise in the cost of living because it does not take into account that a person can substitute goods 
-		* Generally, goods with generally rising prices become less important in the basket. 
-		* Conversely, goods with generally falling prices become more important in the basket.
-	* **Quality / New Goods Bias** - the rise in the price of a fixed basket of goods over time tends to overstate the consumer's true cost of living.
-		* It could be the case that rising prices are due to new goods in the market which the old fixed basket does not include. 
-
-* **Core Inflation Index** - derived from the CPI, however it excludes volatile economic variables. This is the preferred gauge for making policy changes. 
-
-* *If the basket of goods chosen for calculating inflation is not reflective of the demographic, use a new index* 
-	* **Producer Price Index** - based on prices paid for supplies and inputs by producers 
-	* **International Price Index** - based on the prices of exported and imported merchandise 
-	* **Employment Cost Index** - based on wage inflation 
-	* **GDP deflator** - based on all the GDP components and is based on what the GDP would have been worth using the base year's prices.
-
-## Consequences of Inflation
 * **Deflation** - time when the buying power of money is increased. 
-* *Deflation marks falling prices and a recession under way*.
-
+	* *Deflation marks falling prices and a recession under way*.
+	* *Deflation makes it difficult for monetary policy to address a recession* since banks cannot make nominal interest rate negative and so the effective interest rate is stuck at the deflation rate, which means more borrowers default on their loans
+* **Stagflation** - a period with a stagnant economy with high unemployment and inflation
 * **Hyperinflation** - an outburst of high inflation.
 
 * *Inflation has less of an economic impact when all prices end up increasing since relative to each other, the purchasing power is the same as it was before*

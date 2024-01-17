@@ -8,6 +8,8 @@
 
 * Machine Learning models have **inductive biases** - assumptions that the model uses to perform a prediction task wherein the model prefers a certain class of solutions. 
 * The **No Free Lunch Theorem** - any learning algorithm generalizes better on data with certain distributions and worse with other distributions. 
+
+* [[Systems and Models|Machine Learning models can capture patterns within systems]].
 # Topics
 
 * [[Supervised Learning]]

@@ -2,7 +2,9 @@
 * *Systems inquiry views phenomena as a web of relationships among elements that thereby constitute a system*
 * *It is our brain's natural tendency to perceive a lack of order as a lack of a system*. We are hardwired for pattern recognition but, when closed minded, we can also become locked in a particular frame of mind 
 # Topics 
-* [[Properties of Systems]]
+* [[Characterizing Systems]]
+* [[Working with Systems]]
+* [[Systems and Models]]
 * [[System Dynamics]]
 * [[System Archetypes]]
 * [[System Opportunities]]
