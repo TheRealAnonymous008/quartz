@@ -6,6 +6,7 @@
 * [[Macroeconomic Goals]]
 * [[Macroeconomic Frameworks]]
 * [[Money]]
+* [[Trade]]
 * [[Macroeconomic Policy]]
 # Links 
 * [[Game Theory]] 

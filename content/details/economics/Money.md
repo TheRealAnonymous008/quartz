@@ -69,7 +69,41 @@ $$
   $$
 * *Banks make money by allowing money to circulate*. 
 # Exchanging Money 
+* The presence of many internationally recognized currencies means that there is a need to establish rules for exchanging between them. 
+* The **exchange rate** is *the price of one currency in terms of another.*. This can be treated with respect to [[Scarcity, Supply, and Demand|supply and demand]].
+	* When the exchange for a currency rises so that the currency exchanges more for other currencies, it is **appreciating**. 
+	* Otherwise, when it is weakening, it is **depreciating**
+	* *The appreciation of one currency means the depreciation of another*.
 
+* The **foreign exchange market** is the market where entities *use one currency to purchase another*
+	* We buy from the foreign exchange market at a price dictated by the exchange rates  
+	* We sell to the foreign exchange market at a price lower than that dictated by the exchange rate. *This scheme allows the foreign exchange market to be profitable*
+	* In this market, entities are both demanders (of foreign currency) and suppliers (of domestic currency).  Common entities involved are 
+
+|  | Supplies | Demands |
+| ---- | ---- | ---- |
+| Firms involved in international markets | Currency of nation where they sell their products | Currency of nation where they produce products  |
+| Tourists | Currency of nation where they came from   | Currency of tourist destination |
+| Investments (FDI and Portfolio) | Currency of nation where they are from  | Currency of nation they are investing to |
+
+
+* **Foreign direct investment** - purchasing a firm in another company or starting up a new enterprise in a foreign company 
+* **Portfolio investment** - involves a financial investment that does not entail ownership
+	* This entails not only betting on profitable exchange rates but also protecting oneself from volatile exchange rates 
+	* **Hedging** - using a financial transaction to protect oneself against a risk from one of the investments. In exchange for a fee, any conversions for an investment is guaranteed a fixed exchange rate. 
+	* Portfolio investments contribute a lot to the foreign exchange market
+
+
+* *Appreciating currency benefits the suppliers. Depreciating currency benefits the demanders.*
+	* A consequence of this --  appreciating domestic currency means a reduction of exports and addition of more imports.
+
+* **Dealers**, which are banks or firms, facilitate foreign exchange in the **interbank market**. 
+
+## Supply and Demand 
+* In the foreign exchange market *Supply and Demand move at the same time*.
+* *Predicted appreciation* of value of $X$ = Demand for $X$ increases = Supply of $X$ decreases .
+* If a county's *rate of return on investment* is high, then Demand for the county's currency $X$ increases and supply of $X$ decreases.
+* If a county is at a high *inflation rate*, then there is less demand for its currency $X$ due to the low purchasing power. The supply of $X$ increases.
 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 27, 29 
