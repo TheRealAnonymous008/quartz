@@ -13,5 +13,7 @@
 * [[Archetypes ]]
 * [[Behavioral Economics]]
 
+* [Delusions Of The Mind - 3 Terrifying Mental Syndromes](https://www.youtube.com/watch?v=qFUKkWU4nlQ)
+
 
 * [[Persuasion]]
