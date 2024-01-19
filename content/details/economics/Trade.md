@@ -48,6 +48,27 @@
 
 * *The fundamental economic question is not whether a nation’s economy is borrowing or lending at all, but whether the particular borrowing or lending in the particular economic conditions of that country makes sense.*
 
+# International Trade
+* *International Trade tends to accompany economic growth*. 
+* A country has an **absolute advantage** over another country in producing a good if it uses fewer resources to produce that good. This is influenced primarily by [[Geography|Geographical factors]]
+* *Trade occurs due to [[Scarcity, Supply, and Demand|comparative advantage]]* which means countries can produce a good at a lower cost relative to other goods.
+	* *Gains from trade* happen when the trading price for a good (in terms of another good) is greater than the opportunity cost of obtaining that good through production. 
+	* Like firms, *if each country specializes in its comparative advantage, it will benefit from trade, and total global output will increase*
+
+* Even when one country has an absolute advantage in all products, trade can still benefit both sides due to minimizing costs via specialization.
+* *Trade allows each country to take advantage of lower opportunity costs in the other country*
+
+* A high proportion of trade is **intra-industry trade** -- the trade of goods within the same industry from one country to another. 
+	* In developing specific products, firms in certain countries develop unique and different skills and *focus on refining the processes in one specific part of the value chain.* 
+	* *There is a trend in international trade of splitting up the value chain*. This is due to easier infrastructure for information sharing and transportation.
+	* Intra-industry trade also *facilitates [[Firms, Production and Externalities|economies of scale]] which drives down production costs. 
+	* It also facilitates [[Competition between Firms|competition]] which drives innovation and promotes market variety.
+
+* *Countries are not destined to have the same comparative advantage forever*, but must instead be flexible in response to ongoing changes in comparative advantage.
+
+* **Tariff** - taxes that governments place on imported goods. 
+	* Traditionally ,this is used to protect local industry.
+	* Low-income countries benefit more from trade than high-income countries do.
 # Links 
-* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 23
+* [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 23, 33
 * [[Macroeconomic Goals]]

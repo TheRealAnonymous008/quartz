@@ -26,6 +26,7 @@
 * [Petri Nets](https://en.wikipedia.org/wiki/Petri_net#:~:text=A%20Petri%20net%2C%20also%20known,of%20elements%3A%20places%20and%20transitions.)
 * General Method of Moments / Simulated Method of Moments
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
+* [Socionics](https://en.wikipedia.org/wiki/Socionics)
 
 
 # Utilities

@@ -2,7 +2,7 @@
 	* If inflation is significant, we should pay attention to the real value more. Otherwise, nominal income becomes more crucial, especially in the case of deflation.
 	* A **price index** is the normalized weighted average of price relatives for goods during an interval of time. Typically it is reported as a percentage
 	* $\text{Real} = \frac{\text{Normal}}{\text{Price Index}}$
-* The **trade balance** is the gap between the value of exports and imports. A country has a **trade surplus** if it exports more than it import. The country has a **trade deficit** if it imports more than it exports. 
+* The **trade balance** is the gap between the value of [[Trade|export]] and imports. A country has a **trade surplus** if it exports more than it import. The country has a **trade deficit** if it imports more than it exports. 
 * The trade balance is calculated using imports $M$ and exports $X$
   
   $$
@@ -62,6 +62,7 @@
   $$
 
 * The **potential GDP** is the amount of real GDP an economy can produce by fully employing its existing levels of labor and capital in the context of the existing market. 
+* The **standardized employment budget** is the budget deficit or surplus if the economy were at potential GDP. 
 # Inflation 
 * **Inflation** - the general and ongoing rise in the level of prices in an economy across many industries.
 	* Changes in the prices of goods for which people spend a larger share of their incomes will matter more than changes in the prices of goods for which people spend a smaller share of their incomes. *It is for this reason we use a weighted average of the prices of the items consumers typically buy*. 

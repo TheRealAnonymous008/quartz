@@ -93,9 +93,7 @@ $$
 	* **Hedging** - using a financial transaction to protect oneself against a risk from one of the investments. In exchange for a fee, any conversions for an investment is guaranteed a fixed exchange rate. 
 	* Portfolio investments contribute a lot to the foreign exchange market
 
-
 * *Appreciating currency benefits the suppliers. Depreciating currency benefits the demanders.*
-	* A consequence of this --  appreciating domestic currency means a reduction of exports and addition of more imports.
 
 * **Dealers**, which are banks or firms, facilitate foreign exchange in the **interbank market**. 
 
@@ -104,6 +102,24 @@ $$
 * *Predicted appreciation* of value of $X$ = Demand for $X$ increases = Supply of $X$ decreases .
 * If a county's *rate of return on investment* is high, then Demand for the county's currency $X$ increases and supply of $X$ decreases.
 * If a county is at a high *inflation rate*, then there is less demand for its currency $X$ due to the low purchasing power. The supply of $X$ increases.
+* If at a certain exchange rate it was *much cheaper to buy internationally* traded goods in a country with currency $X$ than in other currencies, then demand for $X$ increases and supply of $X$ decreases.
+	* **Arbitrage** - the process of buying and selling goods across international borders at a profit 
+	* Over time, arbitrage forces prices and exchange rates to align so that the price of internationally traded goods is similar in all countries. The exchange rate in this scenario is the **Purchasing Power Parity Exchange Rate**
+		* *The PPP Exchange Rate tends to stay constant or fluctuate only slightly. Thus, we can use it to compare [[Macroeconomic Quantities|GDP]]*
+		* The PPP also allows for tracking exchange rate relationships
+		* A country experiencing hyperinflation is less likely to be at its PPP Exchange Rate since hyperinflation induces depreciation of the currency. 
+
+* *Movements in exchange rates will affect [[Macroeconomic Frameworks#Aggregate Supply and Demand|Aggregate Supply and Demand]]*. 
+	* It can incentivize [[Trade|Trading behavior]].  
+		* Stronger exchange rate = trade deficit or reduced trade surplus 
+		* Weaker exchange rate = trade surplus or reduced trade deficit.
+	* Appreciating domestic currency means a reduction of exports and addition of more imports. However, this does not mean that exports are always good since the *money will eventually circulate back to its country of origin*. 
+	* Sharp movements in exchange rates can lead to dramatic changes in profits and losses. 
+	* *Borrowers of $X$ will benefit when $X$ appreciates and will suffer losses when $X$ depreciates*. This happens because the change in exchange rate means that they would have to pay a larger or smaller amount than what they otherwise would have paid to foreign lenders.
+
+* *Weaker exchange rates can stimulate aggregate demand and reduce a [[Macroeconomic Goals|recession]]* 
+* *Stronger exchange rates stimulate aggregate supply and reduce inflation.*
+
 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 27, 29 

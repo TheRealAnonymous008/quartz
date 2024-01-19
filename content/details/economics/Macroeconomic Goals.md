@@ -8,7 +8,7 @@
 	* *Economic growth is dependent on the rule of law*. Property and Contractual rights need to be protected for markets to run efficiently. 
 
 
-* *Economic growth is also dependent on the following*: 
+* *Economic growth is also dependent on the following* based on the **Growth Consensus** 
 	* **Physical Capital** - incudes equipment and land that firms use as well as infrastructure. 
 		* *More physical capital generally means more output*
 		* An increase in quality or quantity of physical capital induces economic growth. 

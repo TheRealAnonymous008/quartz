@@ -27,7 +27,7 @@
 
 * Economies, due to different circumstances, tend to have *different opportunity costs for various resources* and for producing various goods.
 	* These differences give rise to **comparative advantages** of a certain good. 
-	* When entities engage in trade, they specialize in the production of the goods in which they have comparative advantage. This maximizes production and surplus for both parties. 
+	* When entities engage in [[Trade]], they specialize in the production of the goods in which they have comparative advantage. This maximizes production and surplus for both parties. 
 
 # Supply and Demand
 * **Demand** refers to the amount of some good that consumers are willing and able to purchase at each price.  Aside from price, there are other factors that can affect demand. 

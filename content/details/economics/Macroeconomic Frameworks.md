@@ -6,7 +6,7 @@
 	* Near the point of the potential GDP, the AS curve grows steeper.
 	* The level of production in aggregate supply can cross the potential GDP. In this case, the economy is working under hyper-intense production. However, this is not sustainable in the long run. 
 * The aggregate demand refers to the total amount of domestic goods and services in the economy at each price level.  *Higher price level = Lower spending*.
-	* Aggregate demand is dependent on consumption spending, investment spending, government spending, and net exports. 
+	* Aggregate demand is dependent on consumption spending, investment spending, government spending, and net [[Trade|exports]]. 
 	* There are three effects at play. These effects do not seem to be very large. 
 		* The **wealth effect** means that as price increases, the buying power of savings diminishes. 
 		* The **interest rate effect** means that as prices increase, the same purchases will take more money to accomplish. This pushes interest rates higher which reduces borrowing and investment spending. 
@@ -71,6 +71,7 @@
 * Net exports are determined by the following 
 	* Changes in relative growth rates between countries. If a country is in a recession, exports are likely to decline.
 	* Changes in relative prices between countries. If goods become relatively expensive, then exports are likely to decline 
+	* *Net inflow = trade deficit; Net outflow = trade surplus*. 
 
 * *Recessions happen for two reasons*
 	* Aggregate demand is not always automatically high enough to provide firms with an incentive to hire enough workers to reach full employment
