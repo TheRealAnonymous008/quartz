@@ -31,6 +31,7 @@
 # Links 
 * [[Psychology]]
 * [[Persuasion]]
+* [[Communication]]
 
 * [The Techniques of Interrogation by Mazel](https://groups.csail.mit.edu/mac/users/ella/notinmyname/chapter5.htm#:~:text=The%20FUTILITY%20TECHNIQUE%20APPROACH%20is,to%20cooperate%20with%20the%20interrogator.)
 * [Reid Technique](https://en.wikipedia.org/wiki/Reid_technique)

@@ -39,7 +39,7 @@
 # The Dangers 
 * Doublespeak is arguably an [[Information Hazards|infohazard]]
 * It corrupts the perception of reality, and thinking. It breeds cynicism, suspicion and hostility. 
-* It destroys the function of language as a tool for communication. 
+* It destroys the function of language as a tool for [[Communication]]. 
 
 * If we really believe that we understand such language and that such language communicates and promotes clear thought, then we become closer to doublethink. 
 # Links 

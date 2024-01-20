@@ -4,8 +4,6 @@
 # Future Readings
 * [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
 * [Alex Sludd](https://alexsludds.github.io) - includes Silicon Photonics, running Neural Networks through light meshes.
-* [The Stacks Project](https://stacks.math.columbia.edu) - an open source resource for Algebraic Geometry.
-* [Nlab](https://ncatlab.org/nlab/show/HomePage) - wiki on mathematics, physics, and philosophy (from a pure math perspective)
 * [Blit](https://en.wikipedia.org/wiki/BLIT_(short_story)) - an interesting premise for a story. Will have to check it and relate it to Infohazards.
 
 * Fundamentals of __ Game Design Series by Ernest Adams  [here](https://annas-archive.org/search?q=fundamentals+of+game+design)
@@ -17,6 +15,8 @@
 
 * The Advantage by Patrick Lencioni
 * One Page Design by Stone Librande
+* Unmasking the Social Engineer: The Human Element of Security
+* It’s Not All About “Me”: The Top Ten Techniques for Building Quick Rapport with Anyone
 # Interesting Topics
 * Geometric Deep Learning
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
@@ -37,3 +37,6 @@
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 
 * [Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)
 * [Kevin's Habits](https://kevinhabits.com)
+
+* [The Stacks Project](https://stacks.math.columbia.edu) - an open source resource for Algebraic Geometry.
+* [Nlab](https://ncatlab.org/nlab/show/HomePage) - wiki on mathematics, physics, and philosophy (from a pure math perspective)

@@ -7,6 +7,7 @@
 * [[Jungian Archetypal Characters]]
 * [[Enneagram of Personality]]
 * [[Branding Archetypes]]
+* [[Communication#DISC Framework|DISC Framework]] - archetypes regarding communication. 
 
 * [[Symbolism]]
 * [[Motifs of Folk Literature]]

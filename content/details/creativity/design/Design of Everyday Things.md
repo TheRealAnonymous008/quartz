@@ -3,7 +3,7 @@
 * *Technology changes the way we do things, but fundamental needs and the social nature of humans remain unchanged*.
 
 
-* Communication of design is just as, if not, more important than the affordances themselves. *Allow users to understand and rectify their mistakes easily. *
+* [[Communication]] of design is just as, if not, more important than the affordances themselves. *Allow users to understand and rectify their mistakes easily. *
 * Design is also about *reducing the cognitive load* expected from the user. This is done by making knowledge readily available in the world instead (i.e., via constraints, signifiers or natural mappings)
 * Design should take into account the *cultural knowledge* of its users. What is natural for one user may be unnatural for another even though both can logically rationalize their viewpoints.
 * As much as possible, design should *be consistent with pre-established conventions*. But, if a new way to do things outweighs the old, it is far better to break conventions and, if all else fails, standardize. However, be prepared for people to find new conventions inconvenient (analogous to [[The 48 Laws of Power#38. Think As You Like But Behave Like Others|here]]).

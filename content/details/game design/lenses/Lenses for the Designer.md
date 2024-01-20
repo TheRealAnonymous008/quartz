@@ -7,7 +7,7 @@
 * *The secret to successful teamwork is love*. Everyone in the team has to love the game being made.  The challenges to teamwork, then are: 
 	* *Team members incapable of loving any game*. Usually, these are the team members in charge of management. The solution is to get rid of them. 
 	* *Team members in love with a different game than the one they are making*. The key is to work with them to see if there is something about the current game they can fall in love with. 
-	* *Team members in love with different visions of the same game*. Everyone may have different ideas about what the game will be like. The trick is to get everyone on the same page about the design as soon as possible. Do so through communication and respect. No decision is final until the team agrees it is final.
+	* *Team members in love with different visions of the same game*. Everyone may have different ideas about what the game will be like. The trick is to get everyone on the same page about the design as soon as possible. Do so through [[Communication]] and respect. No decision is final until the team agrees it is final.
 	* *If you can't love the game, love the audience*. Think of the game as something intended as a gift for an audience. 
 	* *If all else fails, pretend* And when you pretend eventually real love will emerge. Ask yourself what kinds of things someone who really loved the game would say and do, and start doing those things. 
 
