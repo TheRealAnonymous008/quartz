@@ -29,10 +29,12 @@
 ## The Workflow
 * The best way to get started is to *just start*. You needn't wait for inspiration to hit. Keep going by creating what you would enjoy.
 	* *The best way to start is to have a goal in mind*. Ask -- what do you want to accomplish with the creative work? 
+	* *Do something that is [outside your comfort zone](https://eev.ee/blog/2016/05/06/learning-to-draw-learning-to-learn/)* This is the only way to get better since it primes your brain to find your mistakes. 
 
 * All creative endeavors benefit from an *iterative* [[details/creativity/design/DOET/Design Thinking|design]] process [^3]. Drafts do not have to be perfect the first time around, and circumstances change. A creative output is as *emergent* as it is creative, and it is about both *inclusion and exclusion* [^10]
 	* Design with intent in mind. 
 	* An iterative approach: When the solution becomes unclear, ask a simpler question, again and again until a point of understanding is reached. 
+
 * In actualizing a creative output, is natural and even preferred to start from *broad to specific* [^1] [^2])
 
 ## The Components
