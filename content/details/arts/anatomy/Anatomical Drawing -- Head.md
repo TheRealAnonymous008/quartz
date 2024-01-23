@@ -1,4 +1,4 @@
-## General Features and Placement 
+# General Features and Placement 
 * Male heads tend to be larger than female heads
 
 * The head contains two important masses 
@@ -15,16 +15,13 @@
 * The *forehead* is the region above the eyes. It exists as a plane at the front of the face (shaped by its curvature)
 	* Male foreheads are more prominent and have a greater slope 
 	* Female foreheads are smoother and more vertical.
-
-### Face Shape 
-
-## Eyes
+# Eyes
 * The *eyes* are placed in the middle of the face. This follows from how the eyes are below the widest lateral line passing through the skull
 * The eyeballs are placed in the *orbits* which are effectively hollow sockets for the eyes. The eyes do not fill the orbit all the way (unless the eye is popping out of the head). 
 	* The eyeball is positioned slightly forward and facing downward in its orbit. 
 * **Eye Width Rule**: The distance between the two eyes is one eye apart (on average). 
 
-### Eyeball 
+## Eyeball 
 * *Sclera* - the white region of the eyes. 
 * *Iris* - the colored circular part of the eye surrounding the pupil 
 	* The iris is typically surrounded with dark bands called the *limbal rings* which are a result of the corneal limbus that interfaces between the iris and the sclera.
@@ -44,7 +41,7 @@
 	* **Stream** - a uniform fiber structure radiating from the pupil 
 	* **Shaker** - irises that have a mix of jewels and flowers 
 
-### Eyelids 
+## Eyelids 
 * The *canthi* are where the eyelids meet. The inner canthus is medial and the outer canthus is lateral 
 * A face will be flat if the line connecting the four canthi of the two eyes is straight (i.e., it doesn't consider the curvature of the face)
  * The eyelids may obscure part of the iris 
@@ -64,13 +61,13 @@
 	* *Hooded eyes* have skin drooping over the upper eye crease. This gives it a heavier appearance 
 * The *lower eyelid* has a natural crease visible when the eyelid is open 
 
-### Eyelashes  
+## Eyelashes  
 * The length of the eyelash does not vary by sex or ethnicity. They tend to grow at around $1/3$ the width of the eye. 
 * Eyelashes are thick at the roots and taper at the end. 
 * Eyelashes grow outward and curl (to varying degrees). 
 * Long eyelashes tend to be perceived as beautiful 
 
-### Eyebrows 
+## Eyebrows 
 * The positioning of the eyebrows vary depending on facial expression.  Even so, [eyebrows have various shapes](https://lilacst.com/pages/eyebrow-shapes)
 * The hairs on the eyebrow point towards the temporal bone. 
 * The starting point of the eyebrow is aligned with the inner corner of the eye. The arch is typically above the outer edge of the iris (along the longitudinal direction). The endpoint is aligned with the outer corner of the eye. 
@@ -79,14 +76,25 @@
 * An eyebrow that is higher up tends to be perceived as more beautiful
 * Thin eyebrows tend to be perceived as more feminine. 
 
-## Ears 
+# Ears 
 
-## Mouth and Jaw 
+# Facial Structure
+* The facial structure is determined by the cranium, the mandible, and the temporal bone. 
 * The *parotid gland* determines the general shape of the jaw.
 	* For women the appearance is softer and more rounded
 	* For men, the appearance is broader and more square shaped.
 
-## Facial Expressions 
+* In characterize facial structure we can divide the face into the top (*forehead* and scalp), middle (*cheekbones*) and bottom (*jaw*). We look at the width of each region as well as the height and width of the face. 
+
+| Angled | Width | Rounded / Contoured |
+| ---- | ---- | ---- |
+| Diamond | Middle is wider than top and bottom | Oval |
+| V-Triangle  | Top > Middle > Bottom  | Heart  |
+| A-Triangle  | Bottom > Middle > Top  | Pear  |
+| Rectangle  | Equal Width. Face is long  | Oblong  |
+| Square  | Equal Width  | Round  |
+
+# Facial Expressions 
 
 # Links 
 * [Piexl Art - Introduction to Portraits](https://www.youtube.com/watch?v=3PQdx3o7gJA)
