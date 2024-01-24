@@ -23,13 +23,19 @@
 * [[Level Design Principles]]
 * [[Puzzle]]
 * [[UX Design Principles]]
+* [[Algorithms in Games]]
+
+
+* [[Game Study - Foxhole]]
 
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
 * [[Creativity]]
-* [[Design]] - more on design. In particular, focus on Iterative Design, wherein games are made as they are being playtested
-
-* The game of [Set](https://www.youtube.com/watch?v=EkFX9jUJPKk) for game design inspiration.
+* [[Design]] - more on design. In particular, focus on Iterative Design, wherein games are made as they are being playtested 
 
 * [[Unity]] - a game engine.
 * [[Godot]] - another game engine 
+* [[Blender]] - for creating 3D models
+
+* [Three Hundred Mechanics by Squidi](https://www.squidi.net/three/)
+* The game of [Set](https://www.youtube.com/watch?v=EkFX9jUJPKk) for game design inspiration.

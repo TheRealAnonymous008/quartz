@@ -29,4 +29,4 @@
 * [Compute Shaders](http://kylehalladay.com/blog/tutorial/2014/06/27/Compute-Shaders-Are-Nifty.html)
 	* [More on Compute Shaders](https://www.youtube.com/watch?v=BrZ4pWwkpto)
 	* [Pathtracing With Compute Shaders](http://blog.three-eyed-games.com/2018/05/03/gpu-ray-tracing-in-unity-part-1/)
-
+* [Entity Component System Overview in 7 Minutes](https://www.youtube.com/watch?v=2rW7ALyHaas) 

@@ -1,9 +1,9 @@
-## General Principles 
+# General Principles 
 * When it comes to drawing hair, it is best to *think in clusters rather than strands*. In order to give the illusion of strands, apply a bit of texturing and [[Color Theory|coloring]].
 * Hair should follow the surface of the head and its curvature. 
 * Hair should generally fall down (in the direction of gravity). Exceptions exist depending on circumstance. 
 
-## Front 
+# Front 
 * The *front section* includes the mass of the hair at the front of the face (excluding any facial hair)
 * The *hairline* is the edge of the hair growth on the forehead. There are [different types of hairlines](https://www.healthline.com/health/hairline-types)
 	* *Low hairlines* are close to the eyebrows and make the forehead look shorter. Younger people typically have a low hairline. 
@@ -39,7 +39,7 @@
 	* A rougher appearance can be achieved by introducing small gaps (distinct from the main parting) or inconsistent hair lengths. 
 	* The texture of the bangs should match that of the rest of the hair -- if the rest of the hair is straight, the bangs should be straight as well. 
 
-## Sides 
+# Sides 
 * The *side section* includes the region of the hair which curves around the head. It includes the region above the ears and potentially flowing towards the neck. 
 * The side hair has *volume*. Make sure to not put the hair directly on top of the head / scalp. Instead, account for space above the scalp where the hair rests.
 * Side hair can have *layers* which can be represented by having hair clusters of different lengths. 
@@ -60,15 +60,15 @@
 	* Convey "thin" hair using dots.
 	* Thicker hair is conveyed using clumps of hair (as standard)
 
-## Back 
+# Back 
 * The *back section* includes the mass of hair from behind the head and in the nape area. 
 * Aside from texture, the primary concern is hair length. 
 * Men's hair will be typically shorter (at most only reaching up to the nape.) This is dependent, however, on hairstyle. 
 * Women's hair will be longer. 
 
-## Facial Hair 
+# Facial Hair 
 
-## Knots and Ties 
+# Knots and Ties 
 
 
 # Links 

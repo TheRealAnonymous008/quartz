@@ -22,3 +22,4 @@
 * [The Ultimate Guide to Godot 4 by Clear Code](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q)
 
 * [Godot Website](https://forum.godotengine.org) - good source for up to date documentation. 
+* [Godex](https://github.com/GodotECS/godex) - brings Entity Component System to Godot. 
