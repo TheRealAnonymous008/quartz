@@ -85,6 +85,6 @@ $$
 * **Whitney's Theorem** A graph $G$ with $|V(G)|\ge 3$ is biconnected if and only if two vertices of $G$ are connected by at least two internally disjoint paths.
 
 # Links
-* [[Fundamental Constructs in Graph Theory]]
+* [[Fundamental Constructs of Graph Theory]]
 * [[Families of Graphs]]
 * [[Operations on Graphs]]

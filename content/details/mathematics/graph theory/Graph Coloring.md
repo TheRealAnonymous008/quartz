@@ -111,5 +111,5 @@
 # Links
 * [[An Exploration of the Chromatic Polynomial by Aydelotte]]
 
-* [[Fundamental Constructs in Graph Theory]]
+* [[Fundamental Constructs of Graph Theory]]
 * [[Families of Graphs]]

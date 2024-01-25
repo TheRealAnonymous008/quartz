@@ -42,5 +42,5 @@
 
 
 # Link
-* [[Fundamental Constructs in Graph Theory]]
+* [[Fundamental Constructs of Graph Theory]]
 * [[Trails, Walks, Paths and Cycles]] 

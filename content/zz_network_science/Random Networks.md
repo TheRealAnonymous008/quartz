@@ -1,3 +1,4 @@
+* A **Random Graph** is a general term to refer to a [[Random Variables and Probability Distributions|probability distribution]] over graphs. 
 # Erdos-Renyi Model
 * The **Erdos-Renyi Model** is a model for generating random graphs. We may more formally define Random Networks using two definitions 
 	* The $G(N,L)$ model is where the network is chosen [[Probability Distributions Zoo|uniformly]] from a collection of networks with $N$ nodes and $L$ links 
@@ -13,6 +14,18 @@
   \braket{L}=p\frac{N(N-1)}{2}
   $$
 
+## Evaluation
+* *An Erdos-Renyi model has a degree distribution best captured by a Binomial Distribution*, but in practice, it is much more convenient to approximate this using a Poisson Distribution.
+	* More specifically if $p$ is the probability that a node ha a link, then 
+	  $$
+	  p_k={{N-1}\choose k} p^k(1-p)^{N-1-k}
+	  $$
+	* This can be approximated as 
+	  $$
+	  p_k=e^{-\braket{k}}\frac{\braket{k}^k}{k!}
+	  $$
+* In a large random network, the degree of most nodes is in the narrow vicinity of the average degree $\braket{k}$.
+# Theorems 
 ## Theorem on Connectivity 
 * A threshold function for the [[Graph Connectivity|connectivity]] is 
   $$
@@ -128,19 +141,30 @@
 	* Otherwise, there is a giant component 
 * The giant component emerges if the average degree is $\braket{k} > 1$.
 * *This means that as the random network grows, eventually a giant component emerges.*
-* In practice [[Characterizing Real Networks|real networks are supercritical]]. 
+* In practice [[Characterizing Real Networks and Network Phenomena|real networks are supercritical]]. 
 
-## Evaluation
-* *An Erdos-Renyi model has a degree distribution best captured by a Binomial Distribution*, but in practice, it is much more convenient to approximate this using a Poisson Distribution.
-	* More specifically if $p$ is the probability that a node ha a link, then 
+* The **Molloy-Reed Criterion** is a criterion where randomly wired network has a giant component if 
+  
+  $$
+  \kappa =\frac{\braket{k^2}}{k} > 2
+  $$
+  
+	* *Most nodes must be connected to at least two other nodes*
+	* For a real network, this  is given as 
+	  
 	  $$
-	  p_k={{N-1}\choose k} p^k(1-p)^{N-1-k}
+	  \begin{equation} 
+	  \begin{split}
+	  \kappa &=\frac{\braket{k^2}}{k} \\
+	  &= \frac{\braket{k}(1+\braket{k})}{\braket{k}} \\
+	  &= 1 +\braket{k} &> 2 \\ 
+	  & \braket{k} &> 1
+	  \end{split}
+	  \end{equation}
 	  $$
-	* This can be approximated as 
-	  $$
-	  p_k=e^{-\braket{k}}\frac{\braket{k}^k}{k!}
-	  $$
-* In a large random network, the degree of most nodes is in the narrow vicinity of the average degree $\braket{k}$.
+
+
+
 
 # Links 
 * [[Network Science by Barabasi]]

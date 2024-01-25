@@ -80,4 +80,5 @@
 * [[Social Engineering -- The Science of Human Hacking by Hadnagy]]
 * [[Persuasion]]
 * [[The 48 Laws of Power]]
+* [[Communication]]
 

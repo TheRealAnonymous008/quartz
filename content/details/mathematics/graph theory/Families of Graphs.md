@@ -28,5 +28,5 @@
 * A **cycle** of $n$ vertices is denoted $C_n$ 
 
 # Links
-* [[Fundamental Constructs in Graph Theory]]
+* [[Fundamental Constructs of Graph Theory]]
 * [[Trails, Walks, Paths and Cycles]]

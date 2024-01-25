@@ -58,4 +58,4 @@ $$
   If $F$ is a singleton $\{v\}$, we similarly denote the vertex deletion as $G-v$.
 
 # Links
-* [[Fundamental Constructs in Graph Theory]]
+* [[Fundamental Constructs of Graph Theory]]

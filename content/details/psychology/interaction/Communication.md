@@ -9,7 +9,7 @@
 
 * *To be a good influencer, you must think more about what the other person wants when communicating and less about how you prefer to communicate.*
 
-## DISC Framework 
+# DISC Framework 
 |  | Direct | Indirect |
 | ---- | ---- | ---- |
 | Task Oriented  | Direct  | Conscientious  |
@@ -32,10 +32,14 @@
 | Conscientious  | Be detailed <br><br>Be dependable <br><br>Provide recognition<br><br>Answer the how | Use data and statistics <br><br>Provide logic and facts <br><br>Stress reliability  |
 
 
+# Building Rapport
+
+
 
 # Links 
 * [[Persuasion]]
 * [[Linguistics]]
 * [[The 48 Laws of Power]]
+* [[Thinking Fast And Slow]]
 
 * [[Social Engineering -- The Science of Human Hacking by Hadnagy]]

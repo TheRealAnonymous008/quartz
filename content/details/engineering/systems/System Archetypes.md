@@ -41,7 +41,7 @@
 		* *Negotiate a disarmament* - create balancing controlling loops to keep the competition in bounds. 
 	* Disarmament ends up being better than staying on the race. 
 
-* **Success to the Successful** - *If the winners of a competition are systematically rewarded with the means to win again*, a reinforcing feedback loop is created by which, if allowed to proceed uninhibited, the winners eventually take all while the losers are eliminated
+* **Success to the Successful** - *If the winners of a competition are systematically rewarded with the means to win again*, a reinforcing feedback loop is created by which, if allowed to proceed uninhibited, the winners eventually take all while the losers are eliminated [^succ_1]
 	* Remedies
 		* *Diversification* - incentivize the losers to get out of the game and start another one. 
 			* It is not guaranteed if the winner can still crush all the losers. 
@@ -50,6 +50,8 @@
 			* Can be rendered useless by simply having a reward for the winners be leniency towards the antitrust laws. 
 		* Have policies that level the playing field and removes the advantages of the strongest players 
 		* Devise rewards for success that do not bias the next round of competition.
+
+[^succ_1]: See [[Characterizing Real Networks and Network Phenomena|the Matthew Effect]].
 
 * **Shifting the Burden to the Intervenor** - manifests in dependence and addiction. Arises when a solution to a systemic problem reduces or *disguises the system but does nothing to solve the problem.* It is a [[Persuasion|persuasive]] solution to the problem. 
 	* Intervention can be a good thing when it keeps the system in a desired state. 

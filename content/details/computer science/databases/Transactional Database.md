@@ -126,7 +126,7 @@
 
 ## Deadlocks 
 * **Deadlock Detection** is an approach of detecting deadlocks before they happen. 
-	* The DBMS maintains a wait-for [[Fundamental Constructs in Graph Theory|graph]] where transactions are nodes and there is a directed edge from $T_i$ to $T_j$ if $T_i$ is waiting for $T_j$ to release a lock 
+	* The DBMS maintains a wait-for [[Fundamental Constructs of Graph Theory|graph]] where transactions are nodes and there is a directed edge from $T_i$ to $T_j$ if $T_i$ is waiting for $T_j$ to release a lock 
 	* The system periodically checks for [[Graph Connectivity|cycles]] in the graph and then makes a decision how to break it 
 	* *Latches are not needed since  if the system misses a deadlock on the first pass, it will find it in subsequent passes*. There is, however, a tradeoff to the frequency of deadlock checks and the wait time until a deadlock is broken.
 	* On finding a deadlock, the DBMS decides how to break the cycle by selecting a victim transaction that will restart or abort. The victim can be chosen

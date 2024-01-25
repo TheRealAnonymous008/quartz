@@ -12,7 +12,7 @@
 # Topics
 * [[Graph Theory -- Notation Guide]]
 
-* [[Fundamental Constructs in Graph Theory]]
+* [[Fundamental Constructs of Graph Theory]]
 * [[Families of Graphs]]
 * [[Operations on Graphs]]
 * [[Graph Connectivity]]
