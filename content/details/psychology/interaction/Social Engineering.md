@@ -68,12 +68,11 @@
 * **Reporting** - report what went well or poorly in the attack. 
 
 # Tools 
-* [pipl.com](pipl.com) - gives information about a person and their social media. 
-* [webmii.com](webmii.com) - helps see online visibility.
+* [pipl.com](https://pipl.com) - gives information about a person and their social media. 
+* [webmii.com](https://webmii.com) - helps see online visibility.
 * [whois.com](http://www.whois.net.) 
-* [FOCA](www.elevenpaths.com/labstools/foca/index.html) - Fingerprinting Organizations with Collected Archives tool for metadata
-* [Maltego](www.paterva.com/web7) - tool for data collection and investigation
-* [SET](www.trustedsec.com/socialengineer-toolkit.) - Social Engineer's Toolkit 
+* [Maltego](https://www.maltego.com) - tool for data collection and investigation
+* [SET](https://trustedsec.com/resources/tools/the-social-engineer-toolkit-set) - Social Engineer's Toolkit 
 * [Inteltechniques](https://inteltechniques.com/menu.html) - a collection of additional tools.
 
 # Links 
