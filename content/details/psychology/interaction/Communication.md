@@ -33,8 +33,7 @@
 
 
 # Building Rapport
-
-
+* **Tribe Mentality** is prevalent as a human phenomenon and c.an be exploited when building rapport.  *Mirror certain aspects of a group to become part of the tribe*.  Exploit [[False Priors and Extension Neglect|Stereotypes]].
 
 # Links 
 * [[Persuasion]]

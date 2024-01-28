@@ -46,6 +46,9 @@
 >And if it is, that's not my fault.  
 >And if it was, I didn't mean it.  
 >And if I did, you deserved it.
+
+ 
+* [The Tyger](https://en.wikipedia.org/wiki/The_Tyger)
 # Fiction
 * [[Hell Screen]]
 * [[Junji Ito's Works]]
