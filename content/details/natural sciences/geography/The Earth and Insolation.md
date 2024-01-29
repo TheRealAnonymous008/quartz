@@ -51,5 +51,7 @@
 	* *During the Winter Solstice*, the sun rises in the southeast and sets in the southwest. *This is the shortest day and longest night*. 
 	* *During the Summer Solstice*, the sun rises in the northeast and sets in the northwest. *This is the longest day and shortest night*.
 	* *During an equinox, every location on Earth has 12 hours of sunlight and darkness*.
+
+* [Midnight Suns and White Nights are a thing](https://en.wikipedia.org/wiki/Midnight_sun#White_nights).  Midnight Suns happen when the sun remains visible at the local midnight.  White nights happen when the sun has set but daytime activities remain possible.
 # Links
 * [[Exploring Physical Geography by Reynolds|Reynolds Ch. 2.1 - 2.10, 2.13 - 2.17]]
