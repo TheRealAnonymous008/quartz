@@ -70,7 +70,7 @@
 # Tools 
 * [pipl.com](https://pipl.com) - gives information about a person and their social media. 
 * [webmii.com](https://webmii.com) - helps see online visibility.
-* [whois.com](http://www.whois.net.) 
+* [whois.com](http://www.whois.net) 
 * [Maltego](https://www.maltego.com) - tool for data collection and investigation
 * [SET](https://trustedsec.com/resources/tools/the-social-engineer-toolkit-set) - Social Engineer's Toolkit 
 * [Inteltechniques](https://inteltechniques.com/menu.html) - a collection of additional tools.

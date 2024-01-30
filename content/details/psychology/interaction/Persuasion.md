@@ -10,10 +10,7 @@
 ## Reciprocation
 * *Repay, in kind, what another person has provided; Give and Take and then Take*
 * By giving you impose a sense of indebtedness in the recipient.
-	* Indebtedness overpowers Likability. [^rec1] If you feel indebted, you are more likely to repay it even if you do not like the person. 
-	* Another person can trigger a feeling of indebtedness by doing us an uninvited favor. Hence it is not just our obligation to repay, but our obligation to receive the favor.
-	* It can prompt unfair exchanges -- give a little and then take a lot more.  Conversely, because of pressures, people do not ask favors they are not in a position to repay.
-	* *This rule applies more subtly*. We have an obligation to make a concession to someone who has made a concession to us.  We want to reciprocate the concession. 
+* Indebtedness overpowers Likability. [^rec1] If you feel indebted, you are more likely to repay it even if you do not like the person
 
 * This rule has its roots in our evolution
 	* Giving gives the promise that what is given will not be lost or wasted.  
@@ -22,14 +19,23 @@
 	* Our ability to concede is tied to compromising. Compromise ensures cooperation between two parties with different interests. Without conceding, we cannot take the first steps towards a negotiation. 
 
 * This is why free samples and gifts are disarming and powerful. Even gifts that were unwarranted have bite as we cannot help but accept and repay.
+
+[^rec1]: According to an experiment outlined in [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]]. 
+
+* *Remember that the level of reciprocity is determined by the perceived value of the gift to the receiver*.
+
+### Obligations 
+* *A specific case of reciprocity that is based on social norms or expected behaviors*. 
+* Another person can trigger a feeling of indebtedness by doing us an uninvited favor. Hence it is not just our obligation to repay, but our obligation to receive the favor.
+* It can prompt unfair exchanges -- give a little and then take a lot more.  Conversely, because of pressures, people do not ask favors they are not in a position to repay.
+
+
+### Concessions 
+* *We have an obligation to make a concession to someone who has made a concession to us.  We want to reciprocate the concession.* 
 * **Rejection-then-Retreat**. Offer a larger request that is likely to be turned down. Then, make a smaller request that you were aiming for all along. The second request is viewed as a concession. 
 	* Research indicates that this tactic spurs people, not only to agree to the desired request, but actually carry it out and volunteer to perform further requests. 
 	* The person facing the opponent who used the retreating strategy *felt more responsible for the final deal*. They felt that they controlled their opponent and got them to concede.
 	* The person facing this strategy *felt more satisfied with the final arrangement*. 
-
-[^rec1]: According to an experiment outlined in [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]]. 
-
-
 
 ## Commitment and Consistency
 * *Once we have made a choice or taken a stand, we will encounter personal and interpersonal [[Logical Fallacy Biases|pressures]] to behave consistently with that commitment*.  
@@ -75,6 +81,7 @@
 * Normally this works well because we will make fewer mistakes by acting according to social evidence. The heuristic that the way most people do it is right is indeed right. 
 
 * *The trick, therefore, is to convince even a small sizable proportion of the group*. Then this conviction will spread to the rest of the group. 
+* *Apply slight social pressure* to get others to conform with how the rest of the group behaved. 
 
 ## Liking 
 * *We prefer to say yes to the requests of someone we know and like*. 
@@ -88,6 +95,12 @@
 	* Perceived competition, *difficulty* or frustration negatively affects liking.  Conversely, perceived cooperation, *easiness*, and a general pleasant experience positively affects liking.
 	* *Association* affects liking. Merely being associated with a good event, even one we had no control over, can be enough to influence others positively. Conversely for bad events.[^liking_2] [^liking_3]
 		* This is especially apparent when prestige is low and we ride on the achievement of others. It is accomplishment deriving from outside the self. 
+
+* *Some rules for establishing "likability"*.
+	* The liking must be genuine.
+	* Complements only work if they seem genuine and at the level on par with the  [[Communication|rapport]] established 
+	* Use nonverbals.
+	* Learn to be interested enough that "liking" comes off as genuine 
 
 [^liking_1]: From [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]]
 [^liking_2]: This is why people shoot the messenger and why advertisers hop on the bandwagon and why Pavlov's dogs drool at the sound of a bell. 
@@ -106,12 +119,14 @@
 
 * Authority naturally benefits a society -- it allows a directed approach to societal development in contrast to anarchy. 
 	* It is a heuristic -- Authorities must be good. 
-	* Authorities are )perceived) physically bigger. Even animals exhibit this characteristic.
+	* Authorities are (perceived) physically bigger. Even animals exhibit this characteristic.
+
+* *Body language and Level of Knowledge play a role in determining who has authority*. 
 
 [^authority_1]: This includes appearing in uniform or business attire, or even appearing prestigious. 
 
 ## Scarcity 
-* *Opportunities seem more valuable to us when their availability is limited* [^scarcity_1]. 
+* *Opportunities seem more valuable to us when their availability is [[Scarcity, Supply, and Demand|limited]]* [^scarcity_1]. 
 	* People tend to be *loss-averse*- more motivated by the thought of losing something than by the thought of gaining something of equal value
 	* As opportunities become less available, we lose freedoms; and we hate to lose the freedoms we already have Setting up barriers to these freedoms makes people more vulnerable to the principle of scarcity. [^scarcity_2]
 	* For scarcity to be especially potent, *it must come suddenly and abruptly*. It is much more potent than constant scarcity. 
@@ -123,7 +138,7 @@
 * **Goosing off the fence** - a tactic wherein we introduce artificial competition in an effort to make the item appear more scarce. 
 
 * It is based on a heuristic that items that are difficult to possess are typically better. 
-
+* *One can influence others by using FOMO -- offer something that is only available for a limited time* 
 
 [^scarcity_1]: This is the essence of FOMO.
 [^scarcity_2]: Hence an argument for why censorship doesn't work -- it only moves the market underground. Even the act of censorship can be used to gain power or spread [[Information Hazards]]. 
@@ -152,6 +167,16 @@
 		* We could want an item for the advantages of possessing a rare item, in which case we can use the scarcity principle to inform us of its price. 
 		* However, we could simply want the item for its utility and in the spur of the moment end up wanting it because it suddenly becomes scarce. *Scarcity does not affect utility*
 
+# Manipulation 
+* The general principles of manipulation are as follows
+	* Increase susceptibility
+	* Control the environment
+	* Forced reevaluation
+	* Removal of Power  
+	* Punishment 
+	* Intimidation
+
+* Fear and anger override the brain’s ability to think rationally, which leaves only emotion for making decisions
 # Debate 
 * [Train for any argument with Harvard's Former debate Coach Bo Seo](https://www.youtube.com/watch?v=_WjUFuW2J0A) 
 	* **RISA framework**. In a debate, ask yourself the following questions
@@ -164,6 +189,7 @@
 	* Empathize with the opposition. Understand where they are coming from.
 	* Steelman argument -- respond to the strongest argument of the opposition.
 # Links 
-* [[Influence -- The Psychology of Persuasion by Cialdini]]
+* [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]]
+* [[Social Engineering -- The Science of Human Hacking by Hadnagy|Hadnagy]]
 
 * [[Social Engineering]]
