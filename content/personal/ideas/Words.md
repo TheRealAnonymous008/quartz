@@ -57,6 +57,7 @@
 * **Typology** - a classification according to a general type. 
 
 * **Ubermensch** - (German) Overman.  The goal that humanity should set for itself. The transvaluation of values from the traditional religious "other-worldly" values to more practical values derived from a love of the world and life experience.
+* **Unheimlich** - (German) Uncanny. A feeling that something is not only mysterious but also frightening in a way that feels familiar. 
 
 * **Verdriet** - (Dutch) Sorrow. immense pain or grief.
 

@@ -9,6 +9,7 @@
 
 * *To be a good influencer, you must think more about what the other person wants when communicating and less about how you prefer to communicate.*
 
+* **The Medium Affects the Message** - The medium you choose reveals a lot about your intended message even before you send it 
 # DISC Framework 
 |  | Direct | Indirect |
 | ---- | ---- | ---- |
@@ -85,7 +86,52 @@
 
 * *Learn to disengage*. When you need to exit the conversation, have a few strategies in mind. These strategies can employ the other techniques to have a more graceful exit. 
 
-# Framing 
+# Conversation
+* **Framing** -- how someone views or reacts to certain situations, is largely based on an accumulation of personal experience. *[[Framing Effect|Framing]] is a dynamic thing*.
+* The goal of proper communication should be to *bridge between you and your interlocutor's frame*. 
+
+ * Consider *Lakoff's Rule for Framing* 
+	 * *Everything you say evokes the frame.*
+		 * Think of how details matter in creating [[Narrative]].  
+		 * Think about your vocabulary and ask if the word choices evoke any emotion (positive or negative). Be cautious when it is evokes potentially negative emotions
+	* *Words that are defined with the frame, evoke the frame*
+		* You can describe a thing without having to name the thing itself, a variant of [[General Story Writing Principles|Show don't tell]]. 
+	* *Negating the frame should be avoided*. 
+		* If you do not want your interlocutor to think about it, don't [[Psychology|mention it]]; don't make them think about it. 
+		* Negating the frame entails mentioning the frame of the opposition.
+	* *Causing the target to thinking about the frame reinforces the frame*.
+
+* **Elicitation**  - getting information that you never asked for. It is steering the conversation in a certain way to obtain information. 
+	* If done right, *elicitation should look and feel like a normal, non-forced conversation with your target.*
+	* *Appeal to the target's ego*
+		* Be sincere 
+		* Have the appropriate level of rapport 
+		* Be realistic. 
+		* Be mindful of how others act. 
+	* *Establish mutual interest and set aside controversial disagreements. *
+		* Look for a middle ground between two opposing camps. 
+		* Avoid controversial topics
+	* *Use deliberate false statements.*
+		* This exploits the human instinct to correct people for their mistakes. 
+		* Using deliberate false statement too many times in a row can make you come across as unknowledgeable, and that can make your target lose faith in you.
+		* This works much better if you establish more rapport 
+		* The false statement must have some truth to it. Do not confuse the target.
+	* *Have Knowledge but Don't be a know-it-all*. Knowledge makes you more believable. 
+	* *Use questions*. 
+		* Exploit the human reflex to formulate responses to questions. 
+		* Questions can keep the conversation more interesting
+		* *Open ended questions* don't direct the receiver to any particular direction, but allows them to answer from their opinion.
+			* They allow the target control of how much to give. 
+			* They can help build rapport and validate the target's ego.
+			* Using this requires employing active listening. 
+		* *Closed-ended questions* elicit brief and narrow answers. 
+			* They are used to verify facts already known. 
+			* They are used to read nonverbals. 
+			* They allow securing explicit bits of information. 
+		* *Leading questions* lead the brain to focus on one thing and ignore everything else. 
+		* *Assumptive questions* are when you have some knowledge and can make an assumption to confirm that knowledge with a question or statement. They can be used to bypass conversation stoppers. 
+
+# Nonverbal Communication 
 
 
 # Links 

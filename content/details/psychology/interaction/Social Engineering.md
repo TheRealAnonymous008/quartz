@@ -58,6 +58,8 @@
 
 	* *Execution of the pretext*. Be prepared to adapt on the fly. Practice. Stay Calm. Communicate with the right people at the right time. Do not use a script. 
 
+* The pretext serves as the bridge between [[Communication#Framing|your frame]] and your target's frame. 
+
 ## Attack Plan, Attack Launch, and Reporting
 * **Attack Plan** 
 	* What is the plan? 

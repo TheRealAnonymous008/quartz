@@ -18,8 +18,6 @@
 	* [People have exploited this practice for profit](https://www.youtube.com/watch?v=E_xzRvYslHE) due to cultural beliefs about having children that are married. 
 	* Said exploiters perform grave robbery or murder women to then sell -- "Fresh Ones" are those recently deceased or about to die; "Wet bodies" are those  who have died within a few weeks and "Dried Meat" who have died longer. 
 
-* **The Medium Affects the Message** - The medium you choose reveals a lot about your intended message even before you send it 
-
 * [Crowd Crushes are a thing -- the crowd becomes so dense that it behaves like a fluid (with deadly consequences)](https://en.wikipedia.org/wiki/Crowd_collapses_and_crushes). 
 
 * [Caskets can fail](https://www.youtube.com/watch?v=JRZjvq22ZcY) and when they do they leak blood and embalming fluid
