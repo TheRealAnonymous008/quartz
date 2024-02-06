@@ -27,6 +27,7 @@
 * General Method of Moments / Simulated Method of Moments
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
 * [Socionics](https://en.wikipedia.org/wiki/Socionics)
+* [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 
 
 # Utilities

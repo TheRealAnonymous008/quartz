@@ -69,6 +69,66 @@
 * **Attack Launch** - use an outline rather than a [[Narrative|script]]. 
 * **Reporting** - report what went well or poorly in the attack. 
 
+* Some attack vectors to consider
+	* **Phishing** - use malicious emails that pretend to be reputable sources with the goal of 
+		* Delivering malicious payloads that give remote access 
+		* Gathering credentials 
+		* Gathering further intel. 
+	* **Educational Phishing** - use curiosity, greed, happiness or fear to get people to click. Tailor the phishing to these aspects of the client. The goal is to be geared towards informing vulnerabilities 
+	* **Pentest Phishing** -  use fear, greed, surprise or sadness. The goal is not just a click but remote access
+	* **Spear Phishing** - a personalized form of phishing that considers the target's personal information
+	* **Vishing** - phishing over the phone. Usually used for 
+		* Harvesting credentials to gain access.
+		* OSINT, particularly to verify details. 
+		* Full compromise. 
+	* **SMiShing** - using SMS messaging, typically geared towards loading malware on the device or stealing credentials. 
+		* The key is brevity. Just facts and links 
+		* Leave domains that look similar to the attack. 
+		* Make sure the link leads to a believable website. 
+		* Make the procedure of gathering information simple -- do not make the user perform many actions. 
+	* **Impersonation** - most dangerous and also riskiest.  This requires proper planning 
+		* Gather information about the site and to develop a plausible pretext. 
+		* Develop your pretext before you attack. 
+		* Understand the goals of the attack from start to finish. 
+		* Ensure all necessary equipment are on hand. 
+		* Make sure to have a get out of jail free card. 
+
+## Mitigation and Prevention Plan 
+* At the end of the day, the goal of pentesting and social engineering (for good) is to develop actionable mitigation and prevention plans to improve infrastructure security. 
+
+* *Step 1: Learn to Identify Social Engineering Attacks*. Understand what actual attacks might look like and what they can do to the institution. Social engineering helps teach both how to recognize and take a hit. 
+
+* *Step 2: Develop Actionable and Realistic Policies*. 
+	* The plan should require minimal thinking from the client. Too many policies are broad and general that they leave too much thinking to the client rather than the expert. 
+	* Remove the ability for empathy bypasses. Suggest policies for employees to help others without compromising company security. 
+	* Make the policy as detailed as possible. A realistic policy is one which helps the employee see the situation rom all angles. It should be unambiguous and give a clear direction on what to take. 
+	* Good policies explain both what and why. 
+	* Good policies train the employees to react with muscle memory. 
+
+* *Step 3: Perform Regular Real-World Checkups*. Check how well the policy stuck by using a test. 
+
+* *Step 4: Implement Applicable Security-Awareness Programs* By making security-awareness programs applicable to your client’s specific needs, you can help their employees learn not only what not to do, but also what they should do when and if something bad happens
+# Considerations
+* *Leave them better off for having met you* 
+	* If things are not panning out, back off. 
+	* Use pretexts that do not have long-lasting negative emotional effects on the target
+* As a professional social engineer, you are influencing or manipulating the emotional content of your target
+* Do not underestimate how easy people can fall for human hacking. 
+
+* Considerations for pentesting
+	* What do you record? 
+	* The client should be aware of each step of the pentest. 
+	* Obtain written permission. 
+	* Consider the [[Data Analytics|data story]]
+	* Don't share successful exploits on social media.
+
+* *Document everything*. Even things that are not used in OSINT and even sensitive information that, while not used in the pentest, may be of interest for the client's safety
+	* Be professional, the report will be read by many people. 
+	* Grammar and spelling checks. 
+	* Be detailed. The client will appreciate your knowledge. Give them enough details to know what to do next. 
+	* Suggest ways to mitigate vulnerabilities. These suggestions should be actionable. 
+* *Be judicious with Pretext* 
+* The right emotional trigger at the right time to the right people leads to massive success.
 # Tools 
 * [pipl.com](https://pipl.com) - gives information about a person and their social media. 
 * [webmii.com](https://webmii.com) - helps see online visibility.
@@ -79,6 +139,7 @@
 
 # Links 
 * [[Social Engineering -- The Science of Human Hacking by Hadnagy]]
+	* Ch. 9 further details techniques on Social Engineering 
 * [[Persuasion]]
 * [[The 48 Laws of Power]]
 * [[Communication]]

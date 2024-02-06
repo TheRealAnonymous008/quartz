@@ -132,7 +132,59 @@
 		* *Assumptive questions* are when you have some knowledge and can make an assumption to confirm that knowledge with a question or statement. They can be used to bypass conversation stoppers. 
 
 # Nonverbal Communication 
+* We can use pretexts to elicit the emotions we want with the person we are communicating with. 
+* The key is to have a grasp on the emotions that we display to others, and conversely to react to the emotions displayed by others. 
+* Emotional reactions cause nonverbal responses as seen in nonverbal cues. 
+* If you create an emotion, or you cause the target to express that emotion, you can leave the target feeling that emotion.
 
+* A **baseline** is the emotional content you see being displayed at the moment you start observing.
+	* *The baseline is not the person's personality, it is focused on the emotional content displayed at the moment.*
+	* It is not the mere presence or absence of behaviors, such as gaze aversion or fidgeting, that indicates lying. Rather, *it is how these nonverbal cues change over time from a person's baseline* and how they combine with the individual's words. And, when just the behavioral cues from these sources are considered, they accurately differentiate between lying and truth telling.
+	* Approach each situation without using preconceived judgments, even if you're approaching a target you've interacted with before
+
+* *Consider some rules for body language*
+	* *Focus on the What -- not the Why*. Don't make connections between the what and why without having all the information.
+	* *Examine the Clusters*. Do not focus on one cue, use context and other cues to derive the subtext. 
+	* *Look for congruence* specifically between verbal and nonverbal communication.
+	* *Pay attention to the Context*. Without context, you may misread the nonverbal cues. Ask how people usually act in a particular context. 
+
+## Emotional Responses 
+* *Anger* 
+	* Tense, tight, ready to fight. 
+	* Attempting to make themselves larger.
+	* Eyes are wide open with the brows furrowed. 
+	* Glaring eyes 
+* *Disgust*
+	* The person is attempting to turn away from the thing causing disgust 
+	* Repulsed or lack of interest 
+* *Contempt*
+	* A sense of moral superiority. 
+	* Puffing up and appearing bigger. or aggressive.
+	* A smirk or a smile, usually unilateral (i.e., one side raised). 
+	* Raise of the chin as if looking down on someone. 
+* *Fear*
+	* Eyes wide open; Heightened senses ready to flee 
+	* Tension of the body; An audible gasp of air. 
+	* A startled expression or reaction. 
+	* The mouth opens in an "eek" expression as if bracing oneself.  
+* *Surprise*
+	* Eyes are wide open 
+	* Body tenses 
+	* The mouth opens in an "Ohh" shape as if catching one's breath in shock.
+	* Alternatively, the person may cover their mouth 
+	* Head leaning back with raised expressions. 
+* *Sadness* 
+	* Corners of the mouth turning down 
+	* Eyelids drooping 
+	* Eyebrows coming together and going  up.
+	* The person becomes smaller / the opposite of confident
+	* The person seeks comfort (i.e., holding themselves). 
+	* Blocking of the eyes, as if to hide tears. 
+* *Happiness*
+	* A genuine smile -- one where crows feet are obvious. 
+	* A confident posture and stance. The person appears bigger.  
+	* Open and frontal displays. 
+	* A sense of bounciness 
 
 # Links 
 * [[Persuasion]]
