@@ -108,6 +108,8 @@
 * *Step 3: Perform Regular Real-World Checkups*. Check how well the policy stuck by using a test. 
 
 * *Step 4: Implement Applicable Security-Awareness Programs* By making security-awareness programs applicable to your client’s specific needs, you can help their employees learn not only what not to do, but also what they should do when and if something bad happens
+
+* *Aim to build a Security Awareness Culture*, one where the population knows the minor decisions that can have long-lasting security implications.
 # Considerations
 * *Leave them better off for having met you* 
 	* If things are not panning out, back off. 
@@ -129,6 +131,13 @@
 	* Suggest ways to mitigate vulnerabilities. These suggestions should be actionable. 
 * *Be judicious with Pretext* 
 * The right emotional trigger at the right time to the right people leads to massive success.
+
+## The Profile of a Social Engineer 
+* *Humility*- the ability to set aside one's ego. such that the social engineer can make others feel happy and important. 
+* *Motivation* - being a professional social engineer can change how you approach work and non-work settings and it requires certain skills to learn. 
+* *Extroversion* - the ability to communicate and be sociable to others. 
+* *Technical Knowledge* - knowledge on information technology and basic computing. This also includes knowledge on computer security and networks
+* *Psychology and Sociology Knowledge*
 # Tools 
 * [pipl.com](https://pipl.com) - gives information about a person and their social media. 
 * [webmii.com](https://webmii.com) - helps see online visibility.
