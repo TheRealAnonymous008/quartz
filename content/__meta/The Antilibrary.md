@@ -15,8 +15,9 @@
 
 * The Advantage by Patrick Lencioni
 * One Page Design by Stone Librande
-* Unmasking the Social Engineer: The Human Element of Security
+* Unmasking the Social Engineer: The Human Element of Security 
 * It’s Not All About “Me”: The Top Ten Techniques for Building Quick Rapport with Anyone
+* [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
 # Interesting Topics
 * Geometric Deep Learning
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
