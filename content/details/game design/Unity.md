@@ -2,6 +2,8 @@
 * Unity now supports [[Object Pool|object pooling]] out of the box using `ObjectPool<T>`. This allows for a stack based object pooling system. 
 * Use `ScriptableObject` for objects that are not in the scene (i.e., they are not required to be game objects). Otherwise use `Prefabs`. See more [here](https://www.youtube.com/watch?v=E-vIMamyORg)
 
+
+
 # Meshes
 * **Mesh Filter** - stores information about the mesh itself.
 * **Mesh Renderer** - responsible for rendering the mesh itself.
@@ -72,7 +74,8 @@
 
 ## Using DOTS 
 * Components should only contain data not behaviors (see [[Clean Code Principles|here]]). 
-
+* You can add classes (refs) to the Component to be passed to the System.  See [here](https://forum.unity.com/threads/how-to-pass-data-between-entities-1-0-0-and-monobehaviour.1414791/)
+* Locking rotation requires a different setup in ECS. See [here](https://forum.unity.com/threads/best-approach-to-lock-angular-axes-x-and-z-on-physics-entities.757196/#post-5049470). 
 # Topics 
 * [[Computer Graphics]] - the theory of computer graphics.
 
