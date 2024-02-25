@@ -30,6 +30,7 @@
 * **Gesundheit** - (German) good health, said in response to sneezing (akin to Bless You)
 * **Gnosis** - knowledge of spiritual matters; mystical knowledge
 
+* **Haan** - (Korean) said to be an essential element of Korean Identity.  An internalized feeling of resentful Sorrow brought about by the feeling of having been wronged or oppressed.
 * **Habsuchtig** - (German) literally translates to the sickness (passion) for having. In other words, greed.
 
 * **Kafkaesque** - having a nightmarishly complex, bizarre, or illogical quality. Marked by surreal distortion and a sense of looming danger.
