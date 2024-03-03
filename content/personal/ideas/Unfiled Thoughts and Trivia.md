@@ -1,4 +1,4 @@
-* Delegation and Distributivity seems to be the hallmark of intelligent or seemingly intelligent behavior. For example, how ants behave in a colony or how ensemble models in [[Machine Learning]] work.
+O* Delegation and Distributivity seems to be the hallmark of intelligent or seemingly intelligent behavior. For example, how ants behave in a colony or how ensemble models in [[Machine Learning]] work.
 
 * Every story is , in a sense, a self-insert story. However, the best stories are those that hide this fact. Similar to a good [[Design of Everyday Things|interface]].
 
@@ -21,3 +21,5 @@
 * [Crowd Crushes are a thing -- the crowd becomes so dense that it behaves like a fluid (with deadly consequences)](https://en.wikipedia.org/wiki/Crowd_collapses_and_crushes). 
 
 * [Caskets can fail](https://www.youtube.com/watch?v=JRZjvq22ZcY) and when they do they leak blood and embalming fluid
+
+* [A Youtuber's Decent into Madness](https://www.youtube.com/watch?v=2V0_yLGRIQ0) - the effects of Total Insomnia on the body and mind.
