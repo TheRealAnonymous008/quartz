@@ -12,6 +12,7 @@
 * [[Thinking Fast And Slow]]
 * [[Archetypes ]]
 * [[Behavioral Economics]]
+* [[Emotion]]
 
 * [Delusions Of The Mind - 3 Terrifying Mental Syndromes](https://www.youtube.com/watch?v=qFUKkWU4nlQ)
 

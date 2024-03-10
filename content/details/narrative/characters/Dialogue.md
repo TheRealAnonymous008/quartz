@@ -18,7 +18,7 @@
 * Pay attention to subtext. What is not said and implied is just as important.
 
 # Writing Bad Dialogue
-* **Forced Comedy** - disrupting a serious / sincere scene with an unnecessary joke kills the emotion of the scene. It is bad if the humor comes at the cost of making the characters look weak (i.e., they can be made fun of by other characters)
+* **Forced Comedy** - disrupting a serious / sincere scene with an unnecessary joke kills the [[Emotion]] of the scene. It is bad if the humor comes at the cost of making the characters look weak (i.e., they can be made fun of by other characters)
 * **Infodumps** - characters spilling info about everything. It often sounds long-winded and unnatural, especially if both characters should know the information anyway so the infodump is done for the viewer. Also, especially bad if it's not really a dialogue, but more a monologue.
 	* Infodumps can be broken up into a conversation between two characters.
 * **Cartoonishly Evil Dialogue** - the villain describes their evilness in such a cheesy unnatural way that they come off as silly. Not necessarily bad as long as it is intended for them to be conveyed that way. But note that characters tend to not see themselves as evil.
@@ -27,4 +27,6 @@
 # Links
 * [I have no fucking clue how to write good dialogue](https://www.reddit.com/r/writing/comments/bxqzcf/i_have_no_fucking_clue_how_to_write_good_dialogue/)
 * [Bad Dialogue vs Good Dialogue ROUND 3 (Writing Advice)](https://www.youtube.com/watch?v=RlJBshzgJ1w)
+
 * [[__books/Story by Robert McKee|McKee Ch. 18]]
+* [[Character Emotion]]

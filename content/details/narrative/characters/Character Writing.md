@@ -85,6 +85,7 @@
 # Topics 
 * [[Writing Groups of Interest]]
 * [[Character Design]]
+* [[Character Emotion]]
 * [[Archetypes]]
 
 
