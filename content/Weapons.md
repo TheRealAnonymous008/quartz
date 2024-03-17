@@ -1,3 +1,4 @@
+* In modern day settings, the design of the weapon is indicative of the nation's policies on warfare -- more offense or defense oriented. 
 # Swords
 
 # Unfiled 
