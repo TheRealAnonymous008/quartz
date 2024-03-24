@@ -41,7 +41,8 @@
 	  \braket{k} < \ln(N)
 	  $$
 
-## Robustness
+## [[Network Robustness]]
+
 # Network Phenomena 
 * *Many real networks are [[Scale Free Networks]]* which results in some interesting properties 
 	* The fact that *many real networks are scale free* means most real systems have "centers of interest" (i.e., hubs).  These hubs are a double edged sword, they provide connectivity to the system, while also introducing vulnerabilities such as being superspreaders of pathogens.
