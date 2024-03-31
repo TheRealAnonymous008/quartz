@@ -27,6 +27,7 @@
 
 
 * [[Game Study - Foxhole]]
+* [[Game Study - CogMind]]
 
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]

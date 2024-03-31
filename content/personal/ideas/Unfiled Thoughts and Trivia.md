@@ -23,3 +23,5 @@ O* Delegation and Distributivity seems to be the hallmark of intelligent or seem
 * [Caskets can fail](https://www.youtube.com/watch?v=JRZjvq22ZcY) and when they do they leak blood and embalming fluid
 
 * [A Youtuber's Decent into Madness](https://www.youtube.com/watch?v=2V0_yLGRIQ0) - the effects of Total Insomnia on the body and mind.
+
+* [The Dragon Paradox](https://www.youtube.com/watch?v=UopANFTGexA) - If Dragon's aren't real, then why do many cultures from around the world allude to dragons.

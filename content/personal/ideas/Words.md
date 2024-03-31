@@ -1,6 +1,7 @@
 * **Abiogenesis** - the original evolution of life or living organisms from inorganic or inanimate substances.
 * **Amateur** - (French): One who loves. A person who engages in pursuit for pleasure and not just as a job.
 * **Anathema** - someone or something that is hated or avoided. Also refers to formal excommunication by a church, pertaining to a person or thing condemned by God.
+* **Anemoia** - nostalgia for a time or place one has never known.
 * **Anfractuous** - roundabout or winding.
 * **Anthropopathy** - ascription of human passions or feelings to a being not human, especially to a deity.
 * **Apathy**  - An absence of passion. A lack of feeling, emotion, interest, or concern about something. A state of indifference about emotional, social, spiritual, philosophical, virtual or physical life.
