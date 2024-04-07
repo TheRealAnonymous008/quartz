@@ -42,3 +42,4 @@
 
 * [The Stacks Project](https://stacks.math.columbia.edu) - an open source resource for Algebraic Geometry.
 * [Nlab](https://ncatlab.org/nlab/show/HomePage) - wiki on mathematics, physics, and philosophy (from a pure math perspective)
+* [IQuiLezles](https://iquilezles.org/) - math, art and computer graphics
