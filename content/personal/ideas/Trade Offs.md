@@ -62,3 +62,8 @@ A listing of common and interesting trade-offs that are noticeable in a variety 
 ### Social Surplus vs Personal Utility Tradeoff 
 * An approach to achieving [[Game Theory - Strategy|social surplus]] (i.e., an outcome that benefits society as a whole) may require sacrificing the personal utility of its individuals. In the end, Pareto optimality may leave some people unhappy. 
 * Conversely, following simple [[Game Theory|rational behavior]] may result in happy individuals but a society that is no-better off. 
+
+
+### Risk vs Reward Tradeoff 
+* The classic tradeoff of "High risk High reward'
+* Can be subverted (i.e., high risk low reward) but more often than not prevalent in a lot of scenarios. 

@@ -12,7 +12,9 @@
 	* *Soft Magic* involves magic where the rules are not entirely known to the users or the reader.
 	* *Hard Magic* involves magic with a well-defined rules.
 	* Hard and Soft Magic can coexist.
+	* Whether to use hard or soft magic systems will depend on the needs of the story as a whole. 
 * This rule is a rule of *foreshadowing*. That is, *the audience could have figured out what will happen*.
+
 ### Law 2
 * *Flaw or limitations are more interesting than powers*. 
 

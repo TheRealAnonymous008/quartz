@@ -18,3 +18,4 @@
 
 
 * [[Persuasion]]
+* [[Personality]]

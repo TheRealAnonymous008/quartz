@@ -1,4 +1,4 @@
-O* Delegation and Distributivity seems to be the hallmark of intelligent or seemingly intelligent behavior. For example, how ants behave in a colony or how ensemble models in [[Machine Learning]] work.
+* Delegation and Distributivity seems to be the hallmark of intelligent or seemingly intelligent behavior. For example, how ants behave in a colony or how ensemble models in [[Machine Learning]] work.
 
 * Every story is , in a sense, a self-insert story. However, the best stories are those that hide this fact. Similar to a good [[Design of Everyday Things|interface]].
 

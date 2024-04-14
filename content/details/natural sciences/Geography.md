@@ -9,6 +9,7 @@
 # Unfiled
 * [Earthquake Lights](https://en.wikipedia.org/wiki/Earthquake_light) - an interesting phenomenon.
 * [Grindavik is an interesting place](https://www.youtube.com/watch?v=_Pio8BYI9pg)
+* [Moskstraumen](https://en.wikipedia.org/wiki/Moskstraumen) - a system of tidal eddies and whirlpools found off the coast of Norway. One of the strongest in the world.
 
 # Topics
 * [[The Atmosphere]]
