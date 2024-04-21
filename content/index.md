@@ -95,19 +95,22 @@ A broad listing of all the topics that I have made notes on. You can find more a
 	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
 	<div class="custom-index-title"><span>Ψ</span><span>Psychology</span></div>
 </div>
+
+<div class="custom-index-card">
+	<a href="/details/warfare">Warfare </a>
+	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
+	<div class="custom-index-title"><span>W</span><span>Warfare</span></div>
+</div>
 </div>
 
 
 
 
 # Personal Section
-More about me.
-
 * [[Beliefs and General Principles]]
 * [[Interesting People]]
 * [[Literature Index]]
 * [[Unfiled Thoughts and Trivia]] 
-* [[Dump]]
 * [[Software Tools]]
 * [[Words]]
 

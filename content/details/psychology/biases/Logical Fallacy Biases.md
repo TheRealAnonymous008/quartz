@@ -17,6 +17,12 @@
 	* It happens when we make assumptions or decisions based on a small sample of observations.
 	* Thus it *arises from our tendency to find patterns and trends, without taking into account random chance.*
 
+* **[Mind Projection Fallacy](https://en.wikipedia.org/wiki/Mind_projection_fallacy)** -comes in two forms 
+	* *Positive form*: Assuming that the way one thinks about the world reflects the way the world really is rather than it being a matter of personal projection. It is a fallacy to assume that other people are irrational just because they do not share the same perception. 
+	* *Negative form*: One's assumes their lack of knowledge about a phenomenon means that the phenomenon cannot be understood. 
+
+* [**Mistaking the Map For the Territory**](https://en.wikipedia.org/wiki/Map–territory_relation#"The_map_is_not_the_territory") - the word is not the [[Semantics|thing]]. It is a fallacy to confuse the semantics of a term with the thing that it represents. 
+
 * **Subadditivity Effect** - the tendency to judge probability of the whole to be less than the probabilities of the parts.
 
 * **Time-saving bias** - the tendency to misestimate the time that could be saved or lost when increasing or decreasing speed.

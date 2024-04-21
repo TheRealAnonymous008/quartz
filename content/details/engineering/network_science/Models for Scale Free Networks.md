@@ -65,7 +65,7 @@
   \braket{d}\sim \frac{\ln N}{\ln \ln N}
   $$
 
-* The [[Random Networks#Theorem on Giant Components|Molloy-Reed Criterion]] on a scale-free network to get a [[Percolation Theory|breakdown threshold]] $f_c$, we arrive at 
+* The [[Random Network#Theorem on Giant Components|Molloy-Reed Criterion]] on a scale-free network to get a [[Percolation Theory|breakdown threshold]] $f_c$, we arrive at 
   
   $$
   f_c = 1-\frac{1}{\frac{\braket{k^2}}{\braket{k}}-1}
@@ -192,6 +192,6 @@
 	* In the *Declining Phase*, the rate of node removal exceeds the number of new nodes. 
 # Links 
 * [[Network Science by Barabasi|Barabasi]]
-* [[Random Networks]]
+* [[Random Network]]
 * [[Fundamental Constructs of Network Science]]
-* [[Scale Free Networks]]
+* [[Scale Free Network]]

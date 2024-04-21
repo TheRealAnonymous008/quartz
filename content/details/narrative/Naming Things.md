@@ -7,5 +7,5 @@
 * [Why most World Building Place Names Suck](https://www.youtube.com/watch?v=IFwTfCUY7x8)
 
 
-* [[Etymology of Names]] 
+* [[Names Index]] 
 * [[__books/Story by Robert McKee|McKee Ch. 18]] - more on naming titles

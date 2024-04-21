@@ -25,7 +25,31 @@
 	* **Superlinear** $\alpha  > 1$ which shows up for hub and spoke networks. 
 ![[Degrees of Preferential Attachment.png]]
 
+## Sublinear  
+* We observe the following when $\alpha < 1$
 
+* New nodes favor the more connected nodes. However, this bias is weak and not enough to make the network scale free
+* The degree distribution follows an [[Probability Distributions Zoo|exponential distribution]] 
+  $$
+  p_k\sim k^{-\alpha}\exp\left(\frac{-2\mu(\alpha)}{\braket{k}(1-\alpha)} k^{1-\alpha}\right)
+  $$
+  Where $\mu(\alpha)$ depends weakly on $\alpha$ and we have a dependency on the average degree. 
+* Hubs are limited in size and number.
+* The size of the largest degree $k_{\text{max}}$ varies logarithmically 
+  $$
+  k_\text{max} \sim \left(\ln t\right)^{1/(1-\alpha)}
+  $$
+  This also implies hubs grow slower.
+
+## Superlinear 
+* When $a>1$, we observe the following 
+
+* Almost all nodes connect to a few super-hubs. Especially apparent when $\alpha>2$..
+* The size of the largest degree is given as 
+  
+  $$
+  k_{\text{max}} \sim t
+  $$
 # Models of Preferential Attachment 
 * Many models that can show networks with preferential attachment is that *preferential attachment appears to be a byproduct of large, complex networks regardless if we use randomness or rational choice to  grow the network.*
 
@@ -49,7 +73,7 @@
   Which has linear preferential attachment. This indicates that the network generated is indeed scale-free.
 
 ## Link Generation Model 
-* The **Link Generation Model** *generates [[Scale Free Networks]] without explicitly using preferential attachment *.
+* The **Link Generation Model** *generates [[Scale Free Network]] without explicitly using preferential attachment *.
 	* At each time step, [[Operations on Graphs#Vertex Operations|add]] a new node to the network. 
 	* Select a link at random and connect the new node to one of the two nodes at the two ends of the selected link. 
 
@@ -57,7 +81,7 @@
 * *Linear preferential attachment is apparent*.
 
 
-## [[Scale Free Networks#Barabasi-Albert Model|Barabasi-Albert Model]] 
+## [[Scale Free Network#Barabasi-Albert Model|Barabasi-Albert Model]] 
 
 ## Optimization Model
 * The **Optimization Model** is a global mechanism which aims to explain the topology of networks based on [[Characterizing the Decision Problem|rational choice]]. 
@@ -71,7 +95,7 @@
 
 * Three phenomena can arise 
 	* If $\delta < (1/2)^{1/2}$ a hub and spoke network arises since connecting to the central node is prioritized 
-	* If $\delta \ge N^{\frac{1}{2}}$,, then the cost term dominates and each node connects greedily to minimize locale extrema, resulting in a [[Random Networks|random graph]]. 
+	* If $\delta \ge N^{\frac{1}{2}}$,, then the cost term dominates and each node connects greedily to minimize locale extrema, resulting in a [[Random Network|random graph]]. 
 	* If $4 \ge \delta \ge N^{\frac{1}{2}}$, the generated network is scale-free because 
 		* We correlate an optimum to connecting with the central node. This center becomes a hub but also any node close to the center becomes a hub by virtue of connecting new nodes towards it.
 		* Because we are optimizing, nodes tend towards the optima (i.e., the hubs). Thus, there is preferential attachment

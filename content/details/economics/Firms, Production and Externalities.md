@@ -175,3 +175,4 @@ $$
 * **Common goods** are those that are non-excludable but rivalrous. They are prone to the [[System Archetypes|tragedy of the commons]]. 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 7, 12 - 13 
+* [[Manufacturing]]

@@ -2,7 +2,7 @@
 * Words that sound vaguely the same can have surprising connections that make sense when we think about the meaning of these words or how they are interpreted (however disparate they may be)
 # Topics
 * [[Interesting Etymological Decompositions of English Words]]
-* [[Etymology of Names]]
+* [[Names Index]]
 * [[Proto-Indo-European Etymology]]
 * [[Greco-Latin Etymology]]
 

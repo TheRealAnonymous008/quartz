@@ -15,7 +15,7 @@
 		* *Public Health and Intelligent Medical Diagnosis* - aims to improve various fields in healthcare including 
 			* Disease prediction, diagnosis, and treatment. MARL is good in this context because it can handle collaborative tasks. 
 			* Medical image processing via an ensemble of MARL agents.
-		* *Smart Manufacturing* - using AI to optimize the production process. These methods typically require value decomposition to counteract combinatorial action space explosion.
+		* *Smart [[Manufacturing]]* - using AI to optimize the production process. These methods typically require value decomposition to counteract combinatorial action space explosion.
 			* Job shop scheduling - involves resource allocation, task management and scheduling, especially in a dynamic environment. 
 			* Industrial robots - focuses on the level of robots that make products. Also focuses on making these robots. 
 			* Preventive maintenance - accounting for machine failure. 

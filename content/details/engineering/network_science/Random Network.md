@@ -25,6 +25,20 @@
 	  p_k=e^{-\braket{k}}\frac{\braket{k}^k}{k!}
 	  $$
 * In a large random network, the degree of most nodes is in the narrow vicinity of the average degree $\braket{k}$.
+
+* We can derive the following about the clustering coefficient of the Erdos-Renyi model 
+	* The clustering coefficient is determined by the link probability of the network.
+	* For fixed $\braket{k}$ the larger the network the smaller a node's clustering coefficient. The decrease is $O(\frac{1}{n})$.
+	* *The clustering coefficient of a node is independent of its degree.*
+	* These results follow because
+	  
+	  $$
+	  \braket{L_i}=p\frac{k_i(k_i-1)}{2}
+	  $$
+	  So that 
+	  $$
+	  C_i=\frac{2\braket{L_i}}{k_i(k_i-1)} = p
+	  $$
 # Theorems 
 ## Theorem on Connectivity 
 * A threshold function for the [[Graph Connectivity|connectivity]] is 
@@ -165,6 +179,34 @@
 
 
 
+## Others 
+* For a random graph of arbitrary degree distribution, the  size distribution of the clusters follows 
+  
+  $$
+  n_s\sim s^{-\tau}e^{-\frac{s}{s^\star}}
+  $$
+  
+  Given degree exponent $\gamma$, we have that 
+  
+  
+  $$
+    \begin{equation}
+  \begin{split}
+  \tau &= 
+  \begin{cases}
+  \frac{5}{2} & \gamma > 4 \\
+  \frac{2\gamma-3}{\gamma -2} & 2 < \gamma < 4 
+  \end{cases} \\
+  
+  \sigma &= 
+  \begin{cases}
+  \frac{3-\gamma}{\gamma -2} & 2 < \gamma < 3 \\
+  \frac{\gamma -3}{\gamma -2} & 3 < \gamma < 4 \\
+  \frac{1}{2} & \gamma > 4
+  \end{cases}
+  \end{split}
+  \end{equation}
+  $$
 
 
 # Links 

@@ -22,6 +22,7 @@
 * [[Game Mechanics Design]]
 * [[Level Design Principles]]
 * [[Puzzle]]
+* [[Combat Systems]]
 * [[UX Design Principles]]
 * [[Algorithms in Games]]
 

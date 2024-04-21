@@ -7,8 +7,12 @@
 * [[Fundamental Constructs of Network Science]]
 	* [[Preferential Attachment]]
 * [[Characterizing Real Networks and Network Phenomena]]
-* [[Random Networks]]
-* [[Scale Free Networks]]
+	* [[Network Robustness]]
+	* [[Network Degree Correlation]]
+
+* [[Random Network]]
+* [[Small World Networks]]
+* [[Scale Free Network]]
 
 # Links
 * [Network Science by Barabasi](http://networksciencebook.com/chapter/0)

@@ -150,3 +150,4 @@
 
 # Links
 * [[Information Hazards by Nick Bostrom]]
+* [[Network Science]] - information hazards can cascade so constructs from [[Network Robustness]] apply here too. 

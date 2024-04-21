@@ -48,7 +48,7 @@
 * *The easy solution is through three rotations applied  in sequence* . These are represented via **gimbals** which control the rotation at certain predefined axes.
 	* This may lead to **gimbal lock** where the axis of rotation for two gimbals are parallel, causing them to have the same effect permanently.
 * *The preferred way is through quaternions*.
-	* Quaternions have the bonus of being easy to renormalize, thus making them more numerically precise.
+	* [[Complex Numbers and Quaternions|quaternions]] have the bonus of being easy to renormalize, thus making them more numerically precise.
 	* Any rotations are then relative to the current orientation of the model.
 	* It is also easy to interpolate quaternions visa **spherical interpolation**.
 

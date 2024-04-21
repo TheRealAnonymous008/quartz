@@ -83,4 +83,5 @@
 * [GDC Talk: Holistic Level Design in Dishonored 2 and Immersive Sims](https://www.youtube.com/watch?v=NO1lvc3ikXE) 
 
 * [[Game Mechanics -- Advanced Game Design by Adams and Dormans|Adams and Dormans]] - Ch. 10 - 11
+* [The Level Design Book](https://book.leveldesignbook.com)
 

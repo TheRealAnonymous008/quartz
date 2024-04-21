@@ -1,4 +1,5 @@
 * In learning Mathematics, prioritize understanding the definitions first using examples if needed. Then, understand what the theorems are saying. Finally, understand the proofs on why a theorem should be true (analogous to the [[Reading#Three Pass Approach|three pass approach]])
+* [The Ansatz Technique](https://en.wikipedia.org/wiki/Ansatz) pertains to solving a problem using an educated guess or assumption  about the solution which may later be verified to be part of the solution.
 # Topics
 * [[Calculus]]
 * [[Game Theory]]
@@ -9,12 +10,12 @@
 * [[Real Analysis]]
 * [[Probability and Statistics]]
 # Unfiled Math Objects
-* [The Ansatz Technique](https://en.wikipedia.org/wiki/Ansatz) pertains to solving a problem using an educated guess or assumption  about the solution which may later be verified to be part of the solution.
+* Let $x_1,\dots, x_n$ be a set of real numbers. The **geometric mean** is defined as follows: 
+  
+  $$
+  \left(\prod_{i=1}^na_i\right)^{\frac{1}{n}}=\sqrt[n]{a_1\dots a_n}
+  $$
 
-* A quaternion $w+xi+yj+zk$ can be represented as the rotation corresponding to 
-  $$
-  \cos{\left(\frac{w}{2}\right)} + \sin{\left(\frac{w}{2}\right)}(x\hat{i}+y\hat{j}+z\hat{k})
-  $$
 
 * **Jensen's Inequality** states that for any convex function 
   $$
@@ -37,9 +38,17 @@
 	* $C(x)$ is convex for all $x$
 	* $C$ has a closed graph. 
 
+* A **Bipartite Network Projection** is an operation for simplifying a [[Families of Graphs|Bipartite Graph]]. 
+  
+  Let $U, V$ be bipartitions of the bipartite graph. Then, its **projection on $U$*** is defined as a graph whose nodes are the same as the vertices of $U$, and two nodes are connected if and only if they are linked to the same node in $V$. 
+  
+  A similar **projection on $V$** can also be defined.
+  
+  ![[Bipartite Projection.png]]
+
+
 # Links
 
 * [Infinite Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf) - a comprehensive explainer of high level mathematics targeted to a highschooler
-* [Visualizing Quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg)
 * [Jensen's Inequality](https://www.youtube.com/watch?v=u0_X2hX6DWE) - more on the Jensen's Inequality
 
