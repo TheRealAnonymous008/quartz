@@ -99,8 +99,95 @@
 * For the [[Models for Scale Free Networks#Bianconi-Barabasi|Bianconi-Barabasi]] model with uniform fitness distribution, the network is disassortative due to structural disassortativity. 
 	* Analysis shows that the real and the randomized degree correlation functions do not overlap, which means the disassortativity is not fully explained by the network being scale free. 
 # Empirical Measurement 
+* The use of empirical measurements is useful because analytical methods have their limitations
+	* It is difficult to extract information from correlation matrices
+	* It is difficult to compare networks with different correlations since magnitude is hard to infer.
+	* $e_{jk}$ contains a huge amount of information that is difficult to model.
 
+## Degree Correlation Function
+* For a neutral network we have
+  
+  $$
+  k_{nn}=\frac{\braket{k^2}}{k}
+  $$
+  
+  Thus, the average degree of a node only depends on its global characteristics
+* For an assortative network, the value of $k_{nn}(k)$ increases with $k$.
+* For a disassortative network, the value of $k_{nn}(k)$ decreases with $k$
+
+## Approximate Degree Correlation
+* For assortative networks, the parameter $\mu > 0$
+* For neutral networks, the parameter $\mu = 0$
+* For disassortative networks $\mu < 0$
+
+## Degree Correlation Coefficient.
+* For assortative networks, $r < 0$
+* For neutral networks, $r=0$
+* For disassortative networks $r > 0$.
+# Structural Disassortativity
+* **Structural Disassortativity** is a phenomenon wherein *a network appears disassortative even though no degree correlation was imposed*
+* Because [[Scale Free Network|scale free networks]] have large hubs, there is a natural cutoff for $\gamma$ given by 
+  
+  $$
+  k_{\text{max}} = N^{\frac{1}{\gamma - 1}}
+  $$
+  
+  If $\gamma < 3$ we have that $k_\text{max}$ diverges faster than a neutral network. Thus, an otherwise neutral network may show disassortativity as a result of the structural limitations of the network 
+* *For a neutral network, the structural cutoff takes the form* 
+  
+  $$
+  k_s\sim \sqrt{N\braket{k}}
+  $$
+  If vertices of degree $k\ge k_s$ exist, it is physically impossible to attach enough edges between them to maintain neutrality.
+	*  This is apparent in random networks and scale-free networks with $\gamma \ge 3$ 
+	* This follows because the correlation is given by 
+	  
+	  $$
+	  e_{kk'}=\frac{kk'p_kp_k'}{\braket{k}^2}
+	  $$
+	  And the ratio becomes 
+	  $$
+	  r_{kk'}=\frac{kk'}{\braket{k}N}
+	  $$
+
+* There are two ways *we can prevent strucctural disassortativity*
+	* Allow multiple edges
+	* Remove hubs that have a degree larger than the structural cutoff.
+* *We can detect if a degree correlation was a consequence of structural disassortativity* as follows: 
+	* Use degree preserving randomization on the original network and check if the generated network exhibits any degree correlations. 
+	* If it does, then we have structural disassortativity induced by the degree correlation. 
+	* Otherwise, if the real network exhibits correlations beyond the correlations in the generated network, then we have a meaningful property of the network.
+
+# Xalvi-Brunet-Sokolov Algorithm
+* The **Xalvi-Brunet-Sokolov Algorithm** generates maximally correlated networks with a predefined degree sequence
+* The procedure is as follows
+	* *Link selection*. Choose two links at random. Label the four nodes at the end of these two links $a,b,c,d$ such that their degrees are ordered
+	  
+	  $$k_a\ge k_b\ge k_c\ge k_d$$
+	* *Rewiring*. Break the selected links and rewire them to form new pairs depending on which is desired
+		* For assortative networks, pair the two highest degree nodes and the two lowest degree nodes.
+		* For disassortative networks, the new pairs are $(a,d)$ and $(b,c)$
+	* *Iteration*: We iterate over these steps to enhance the assortativity or disassortativity of the network.
+
+* When generating an assortative network, the degree correlation function $k_\text{nn}(k)$ is assortative for small $k$ but disassortative for large $k$ due to the structural cutoff. 
+* For scale free networks, the system cannot sustain assortativity for high $k$.
 # Impact 
+* *The more disassortative the network, the harder it is for the giant component to emerge.*
+	* By the [[Random Network#Theorem on Giant Components|Erdos-Renyi theorem on giant components]] and how giant components emerge within random networks, *a giant component emerges in a neutral network when $\braket{k} = 1$. *
+	* For assortative networks, the phase moves to a lower $\braket{k}$ (i.e., $\braket{k} < 1$). 
+		* However, because hubs tend to link to each other, assortative networks tend to have smaller giant components compared to neutral networks.
+	* For disassortative networks, the phase transition moves to higher $\braket{k} > 1$. 
+
+So the giant component emerges at $\braket{k}<1$.
+* *Hub removal becomes more impactful the more disassortative the network since hubs are connected to more nodes.*
+	* In assortative networks, because the giant component mainly consists of hubs linking with each other, the impact of removing any single hub is low.
+	* In disassortative networks, the impact of removing hubs is much higher since each hub tends to connect to many small-degree nodes, which fall off when a hub is deleted
+* *Assortative networks have shorter paths on average but larger diameters.*
+	* This arises from the fact we connect mostly to nodes with the same degree, so we favor long chains of nodes, each of with have similar degree to their neighbors. 
+* *Degree correlation can influence the properties that a network has.*
+	* Degree correlations influence the system's stability against stimuli and [[Perturbation Theory|perturbations]].
+	* Degree correlations have an impact on the [[The Matching Problem and Flow Networks|Vertex Cover Problem]]
+	* Degree correlations impact the ability to control the network. 
 # Links 
 * [[Network Science by Barabasi|Barabasi]]
 * [[Fundamental Constructs of Network Science]]

@@ -37,3 +37,16 @@
 * $p_\infty$ - order parameter
 * $\xi$ - correlation distance (percolation process)  
 * ($\gamma_p$, $\beta_p$, $v$)  - critical exponents of a percolation process. Respectively, they are critical exponents for the average cluster size, order parameter , and correlation length 
+*****
+* $c, C$ - community 
+* $M_c$ - modularity of community $c$.
+* $M$ - modularity of the network 
+* $k_i^\text{int}(C)$ - internal degree of $i$ in community $C$
+* $k_i^{\text{ext}}(C)$ - external degree of $i$ in community $C$
+* $C_\Delta$ - Global Clustering Coefficient
+*****
+* $i_k$ - the fraction of infected for degree block of degree $k$.
+* $\tau$ - characteristic time
+* $\lambda$ - epidemic threshold
+* $\Theta_k$ - (epidemiology) the density function 
+* $g_c$ - immunization rate

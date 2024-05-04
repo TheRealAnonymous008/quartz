@@ -4,6 +4,17 @@
   $$
   
 * The **partial derivative** $\partial f / \partial x$ is a multivariable extension of the derivative that is calculated as the single variable derivative where all variables other than $x$ are held constant.
+* The **Leibniz Integral Rule** for differentiation under the integral sign states that for an integral of the form
+  
+  $$
+  \int_{a(x)}^{b(x)} f(x,t) \ dt 
+  $$
+  where $-\infty <a(x),b(x) <\infty$ has a derivative expressible as
+  
+  $$
+  \frac{d}{dx}\left(\int_{a(x)}^{b(x)} f(x,t) \ dt\right) = f(x,b(x)) \cdot \frac{d}{dx} b(x) - f(x,a(x)) \cdot \frac{d}{dx}a(x) + \int_{a(x)}^{b(x)} \frac{\partial}{\partial x} f(x,t) \ dt
+  $$
+  
 * The **Chain Rule** relates rates of changes between functions. It can be written as 
   $$
   \frac{df}{dt}=\frac{df}{dx}\frac{dx}{dt}

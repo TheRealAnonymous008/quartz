@@ -83,7 +83,7 @@ Where $\bar{U}_i^z$ denotes the average return across episodes.
 	* MARL cannot handle unforeseen circumstances, especially those not seen in training. This can be dangerous (i.e., in an autonomous vehicle context)
 	* Considering the human in the loop -- relinquishing control to the human operator as needed or coordinating with them 
 	* Providing model interpretability and transparency 
-	* Model robustness. MARL can be sensitive to slight perturbations. 
+	* Model robustness. MARL can be sensitive to slight [[Perturbation Theory|perturbations]]. 
 	* In low data settings, MARL heavily relies on sample efficiency. 
 
 * In systems where a MARL system is required to interact with humans, MARL approaches present additional challenges 

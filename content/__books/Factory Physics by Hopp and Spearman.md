@@ -1,0 +1,4 @@
+---
+aliases:
+  - Hopp and Spearman
+---

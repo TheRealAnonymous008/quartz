@@ -7,3 +7,4 @@
 
 * [[Network Science]]
 * [[Urban Science]]
+* [[Manufacturing]]

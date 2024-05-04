@@ -154,7 +154,7 @@
 	* If $\lambda < 1$ then all components are small 
 	* Otherwise, there is a giant component 
 * The giant component emerges if the average degree is $\braket{k} > 1$.
-* *This means that as the random network grows, eventually a giant component emerges.*
+* *This means that as the random network grows, eventually a giant component emerges.* When the giant component emerges, there is a significant jump in the size of the giant component. 
 * In practice [[Characterizing Real Networks and Network Phenomena|real networks are supercritical]]. 
 
 * The **Molloy-Reed Criterion** is a criterion where randomly wired network has a giant component if 

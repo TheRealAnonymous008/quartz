@@ -1,8 +1,5 @@
-# Papers 
-* [A Typology of Imperative Game Goals](https://gamestudies.org/2003/articles/debus_zagal_cardonarivera)
-
 # Future Readings
-* [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
+* [A Typology of Imperative Game Goals](https://gamestudies.org/2003/articles/debus_zagal_cardonarivera)
 * [Alex Sludd](https://alexsludds.github.io) - includes Silicon Photonics, running Neural Networks through light meshes.
 * [Blit](https://en.wikipedia.org/wiki/BLIT_(short_story)) - an interesting premise for a story. Will have to check it and relate it to Infohazards.
 
@@ -18,8 +15,9 @@
 * Unmasking the Social Engineer: The Human Element of Security 
 * It’s Not All About “Me”: The Top Ten Techniques for Building Quick Rapport with Anyone
 * [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
+* [Michael's Teachings](https://personalityspirituality.net/articles/the-michael-teachings/)
 # Interesting Topics
-* Geometric Deep Learning
+* [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
 * Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
 * [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))
@@ -43,3 +41,4 @@
 * [The Stacks Project](https://stacks.math.columbia.edu) - an open source resource for Algebraic Geometry.
 * [Nlab](https://ncatlab.org/nlab/show/HomePage) - wiki on mathematics, physics, and philosophy (from a pure math perspective)
 * [IQuiLezles](https://iquilezles.org/) - math, art and computer graphics
+* [Math3ma](https://www.math3ma.com) - math 

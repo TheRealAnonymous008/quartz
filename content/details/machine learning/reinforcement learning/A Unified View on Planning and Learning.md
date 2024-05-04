@@ -18,7 +18,7 @@
 * *For state-space planning, regardless if it is model-based / model free, we have the following observations: *
 	* Computing value functions as a key intermediate step toward improving the policy
 	* .Compute value functions by updates or backup operations applied to simulated experience
-* Planning in small, incremental steps enables JIT planning--one which can be interrupted or redirected to boost efficiency.
+* Planning in small, incremental steps enables [[Just In Time Manufacturing|JIT]] planning--one which can be interrupted or redirected to boost efficiency.
 
 * There are two ways to enhance the model using experience [^1]
 	* **Model Learning** pertains to using the experience to optimize the model.

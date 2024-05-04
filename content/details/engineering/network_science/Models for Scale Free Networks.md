@@ -190,6 +190,25 @@
 
 	* In the *Exponential Phase*, the rate of node removal  is the same as the rate of node arrival. Thus, the network has a fixed size, and will lose its scale free nature.
 	* In the *Declining Phase*, the rate of node removal exceeds the number of new nodes. 
+# Hierarchical Network Model
+* The **Hierarchical Network Model** is a model for networks that aims to capture [[Network Communities|hierarchies]] in real networks
+* It is generated as follows
+	* Start from a fully connected module of five nodes
+	* Create four identical replicas of the starting module and connect the peripheral nodes of each module to the central node of the original module.
+	* Do the same as (2) indefinitely but now for each of the replicas. 
+
+* It generates a scale-free network with degree exponent 
+  $$
+  \gamma = 1 + \frac{\ln 5}{\ln 4}
+  $$
+* In this network, the *clustering size is independent of the size of the network*. It is, instead, dependent on the degree of the node
+  $$
+  C(k) \sim k^{-1}
+  $$
+
+* In this network, we observe the following as a consequence of clustering size being dependent on degree
+	* Small degree nodes have high clustering since they reside in dense communities
+	* High degree nodes have low clustering since they connect communities.
 # Links 
 * [[Network Science by Barabasi|Barabasi]]
 * [[Random Network]]

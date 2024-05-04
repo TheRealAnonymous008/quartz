@@ -5,6 +5,9 @@
 * Games are fundamentally inefficient ways to do things (via the lusory attitude) but they imbue an experience with meaning as the players suspend their disbelief.
 
 
+* [Video games and other media make use of Archetypes too. The best example is found in the use of element-based systems. in this context, archetypes serve as paradigmatic models for contextualizing the world in a way that minimizes cognitive load. Still, it should be noted that archetypes can make games feel the same. The key around this is to reframe these into new contexts](https://www.youtube.com/watch?v=yzSzJqAAyxg). [^1]
+
+[^1]: Similar to [[The Psychopathology of Everyday Things|conceptual models]],  [[Archetypes]]. [[Category Theory]] also applies because the identities of archetypes depend on their relations with others.
 
 * There are two camps when it comes to games. In some sense both are right because at the end of the day, a game is about creating an experience. 
 	* **Narratologists** - story precedes gameplay 

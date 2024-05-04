@@ -59,6 +59,14 @@
 	* A high link similarity indicates that a link tends to connect to the same group of nodes. 
 
 * [[Network Degree Correlation]]. 
+* [[Network Communities]]
+
+* Let $G$ be a graph. The **Global Clustering Coefficient** denoted $C_\Delta$. It is defined as the total number of closed triangles in the graph.
+  
+  $$
+  C_{\Delta}=\frac{3\times\text{NumberOfTriangles}}{\text{NumberOfConnectedTriples}}
+  $$
+  Where the number of connected triples is an ordered set $A,B,C$ where vertices $A$ connects to $B$ and $B$ connects to $C$.
 # Characteristics of Networks
 * A **network property** is any property of a network. Usually it is something that can be described with a monotonic sequence
 	* If some subgraph has the property, then any network that contains this subgraph has this property. 

@@ -9,10 +9,13 @@
 * [[Characterizing Real Networks and Network Phenomena]]
 	* [[Network Robustness]]
 	* [[Network Degree Correlation]]
+	* [[Network Communities]]
 
 * [[Random Network]]
 * [[Small World Networks]]
 * [[Scale Free Network]]
+
+* [[Network Epidemiology]]
 
 # Links
 * [Network Science by Barabasi](http://networksciencebook.com/chapter/0)

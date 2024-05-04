@@ -97,7 +97,7 @@
 * We can analyze solution concepts by evaluating three things 
 	* *Existence* - a solution concept must apply to a wide variety of games. It applies generally and we can show that it results in an equilibrium. 
 	* *Uniqueness* - a solution concept must restrict the set of possible outcomes to a smaller set of reasonable outcomes. Ideally, we want a single unique outcome. 
-	* *Invariance* - Slight perturbations in the payoff functions do not affect the predictions of a robust solution concept. 
+	* *Invariance* - Slight [[Perturbation Theory|perturbations]] in the payoff functions do not affect the predictions of a robust solution concept. 
 
 * We may want solutions to games that are *socially desirable*. An outcome is **socially undesirable** if there is a better outcome that would make some people better off without harming anyone else.  *This is captured in Pareto optimality*. 
 

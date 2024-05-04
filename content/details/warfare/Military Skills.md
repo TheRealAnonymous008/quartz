@@ -148,6 +148,95 @@
 		* Satellites 
 
 ## Force Protection 
+* Involves escorting materials, vehicles, VIPs or other peacekeeping troops.
+* Requires knowledge o the following
+	* Knowledge of IEDs and how to handle them.
+		* Call out any suspicions of any IDEs present. Report to any EOD teams. 
+		* When you feel there are mines around, retrace your steps.
+		* If you step on a mine, freeze in place. 
+	* RF jamming
+	* Finding and sweeping mines
+	* Handling ambushes
+	* Route planning 
 
+* *Have a [[The Art of War|plan ready]]*. Know the lay of the land and have navigation tools prepared. 
+* The main risk with detonating IDEs is amputation. It is, therefore, imperative to bring the injured to the hospital. 
+* When it comes to vehicles, make sure to always park in such a way that you can escape quickly. 
+* Search a vehicle if left unattended for long periods. Start with the perimeter of the vehicle and then check for signs of tampering on the body, wheels and underneath the car.  Finally, check the interior, engine and bonnet of the car. 
+* Force protection also necessitates being ready for ambushes. When ambushed, do not stay in the killzone. Delay the enemy as much as possible. As much as possible, do not engage with the enemy. 
+	* *When an ambush hits, it will be a shock. So the first step to being prepared is to avoid being in the killing zone.*
+	* Develop anti-ambush driving skills -- spot unexpected movement and react accordingly. 
+	* A **static ambush** usually involves static roadblocks. A **rolling ambush** happens on the move, usually with another vehicle driving beside you.
+		* Handle roadblocks with care and preparedness. 
+		* Steer away from vehicles that are driving too close. Try speeding up.
+		* Use the vehicle as a weapon against any motorbikes. Beware that ramming is not easy and may damage your own vehicle. 
+		* Beware of common ambush places. Prepare accordingly with firepower. 
+	* *Generally the enemy will prepare an escape route, usually form where they came from.*
+
+* *Avoid road rage in the warzone*.
+	* Drive at a safe speed. Not too slow or too fast
+	* Give indications plenty of time ahead.
+	* Stay with the traffic flow and on the correct side of the road.
+	* Avoid being deliberately obstructive. 
+	* Avoid cutting in front of other vehicles.
+	* If being harassed or followed, distance yourself and do not stop or get out of the car unless safe to do so
+
+* **Cat Eyes** - a tool used to help friendlies see each other at night but not enough to compromise their positions to the enemy. 
+
+## Maritime Protection 
+* Arises due to the need to counter pirates, especially in areas where important ships (such as trading and cargo ships) pass through.
+	* *One issue with piracy is the ambiguity in international law on how to deal with them*.
+* Pirates are typically motivated due to poverty and a need for income.
+* Pirates use motherships -- captured ships that are used as bases of operations out in the open water. They usually carry fuel, personnel, weapons and smaller boats that pirates use for raids. 
+* The biggest deterrent for piracy includes means to detect pirates and having security personnel on the shift.
+
+* Pirates generally have to be in range to use their weapons. If the ship can detect them by then, it can perform defensive actions.
+	* Notify the pirates they are seen and start taking evasive maneuvers. 
+	* Pirates will use their weapons to intimidate the vessel. They will also try to board the ship. 
+	* When possible, steer away from the pirate vessels 
+	* The captain can also maneuver to expose the incoming pirates to the elements. 
+
+* The following are common vulnerabilities of shifts
+	* Low speed 
+	* The ship being in low water due to heavy cargo.
+	* Inadequate planning and security procedures
+	* Lack of pirate detection measures and repelling measures
+	* Ships not heeding piracy warnings 
+	* Ships stopping when fired upon 
+
+* The following are common deterrent measures
+	* Using razor wire on the ship's perimeter. Note that while it will prevent pirates from grabbing  onto the side directly, they can still pull the wire off with hooks.
+	* Visible deck patrols and watches
+	* Evasive and accelerating ship action
+	* Using a **citadel** - a saferoom the captain and crew enter if the ship is boarded where they can call for help and lock the pirates out.
+	* Advanced notification of pirate security
+	* Use of water cannons to repel boarding. They can be used both to knock away pirates or flood incoming assault boats.
+	* Boat Stopping weapons such as those that can fire shots to disable the engines of incoming vessels.
+	* Powerful lights for night attacks
+	* Antiboarding measures via Citadel design
+	* Long Range Acoustic Device to provide early warning
+	* Use of armed personnel (even dummies suffice)
+
+## Medical Skills
+* Knowledge of first aid is vital in a warzone. This can be the difference between immediate death or not. 
+* A soldier's equipment should include some form of medkit. In teams, there should be a designated medic.
+* Consider a **life support pack** for more life threatening injuries. 
+* After any incident which has produced casualties, the first task is to establish a process of prioritization of the wounded.
+	* When taking medical action, do not do so if it puts you in danger -- being injured means you cannot help anyone else. 
+	* Act quickly and carefully. Boost morale and provide encouragement
+	* *Do not panic*.
+	* CPR should be performed to the same temp as the song 'Staying Alive'
+	* Treat breathing problems first, then external bleeding and wounds. 
+	* Leave foreign bodies in place. Do not remove them as this may cause further damage. 
+	* Be aware of any local infectious diseases -- especially those that may be found due to unsanitary conditions. 
+
+## Others
+* Evasion relies on the following
+	* Preparation -- where to go and how to get there.
+	* Standard Operating Procedures
+	* Mental and Physical preparations
+	* Having backups and failsafes should something go wrong 
+	* Having contact with friendlies. 
 # Links 
 * [[How to Become a Mercenary -- the Ultimate Guide to the Weapons, Training and Tactics of the Modern Warrior for Hire by Barry Davies|Davies]] 
+* [[Weapons]]

@@ -2,11 +2,15 @@
 
 ✨ [Aseprite](https://github.com/aseprite/aseprite) - pixel art tool
 
+✨ [Blender](https://www.blender.org) - 3D modelling tool
+
 *  [ChatGPT](https://chat.openai.com) - LLM powered chatbot by OpenAI
 
 ✨[Focalboard](https://www.focalboard.com) - open source project management tool.
 
 ✨[GitHub](https://github.com) - an online version control system. Use [GitHub Desktop](https://desktop.github.com) when working with desktop applications. Much more convenient.
+
+✨[Godot](https://godotengine.org) - open source game engine.
 
 * [Google Drive](https://www.google.com/drive/) - a place to store data on the cloud.
 
@@ -16,10 +20,9 @@
 
 ✨[Obsidian](https://obsidian.md) - a simple and lightweight knowledge management system.
 
-✨ [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
+ * [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
 
 * [Pi.ai](https://pi.ai/talk) - an online personal assistant chatbot as an alternative to ChatGPT.
-
 
 * [SuperProductivity](https://github.com/johannesjo/super-productivity/releases) - an open source productivity app that can be used as a scheduler, a pomodoro timer, and a time tracking tool. 
 

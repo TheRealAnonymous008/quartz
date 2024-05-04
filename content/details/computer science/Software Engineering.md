@@ -6,6 +6,7 @@
 	* Knowledge of the domain to be encoded directly into the code, so that future developers can easily catch up.
 	* More readable code that aligns with the problem specifications.
 
+* A lot of Software Engineering approaches borrow from [[Manufacturing]] which makes sense considering the similarities between the two processes.
 # Topics
 * [[Object Oriented Programming]]
 * [[Clean Code Principles]]

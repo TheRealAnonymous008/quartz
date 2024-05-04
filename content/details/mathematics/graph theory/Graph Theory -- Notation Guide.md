@@ -75,3 +75,5 @@
 * $|f|$ - denotes the value of a flow 
 * $s$ - source vertex 
 * $t$ - sink vertex
+*****
+* $X_{ij}^o$ - the topological overlap matrix between vertices $i$ and $j$

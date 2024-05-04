@@ -50,6 +50,9 @@
 	* It increases the degree exponent and makes the network more homogeneous and reduces the size of hubs. 
 	* It favors the small degree nodes over the larger hubs and weakens the role of [[Preferential Attachment]].
 	* It generates low degree saturation. 
+
+* *Many real networks display hierarcical modulairty* which means [[Network Communities|hierarchies naturally form]]
+* *Many real networks have small communities*
 # Network Phenomena 
 * *Many real networks are [[Scale Free Network|scale free]]* which results in some interesting properties 
 	* The fact that *many real networks are scale free* means most real systems have "centers of interest" (i.e., hubs).  These hubs are a double edged sword, they provide connectivity to the system, while also introducing vulnerabilities such as being superspreaders of pathogens.
@@ -66,7 +69,11 @@
 		  
 	  ![[Metcalfe's Law.png]]
 
-* *The cascading effect of failures is apparent*. The size distribution of the failure follows a power law. *Most ascades are too small to be noticed. However, a few are huge and have large impacts.*
+* *The cascading effect of failures is apparent*. The size distribution of the failure follows a power law. *Most cascades are too small to be noticed. However, a few are huge and have large impacts.*
+
+* The **Friendship Paradox** is a phenomenon, where on average, an individual's friends have more friends than that individual
+  
+  This can be explained as a [[Human Biases|sampling bias]]. People who have more friends are more likely to be in one's own friend group (i.e., because social networks are [[Scale Free Network|scale free]]). In other words, one is less likely to be friends with someone who has very few friends (i.e., [[Preferential Attachment|preferential attachment]]).
 # Links 
 * [[Network Science by Barabasi]]
 * [[Fundamental Constructs of Network Science]]

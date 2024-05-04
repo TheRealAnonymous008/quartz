@@ -64,7 +64,7 @@
 	* A **shared lock** can be held by multiple entities. This allows multiple entities to perform reads with the guarantee that the data will not be changed until the lock is released.
 * Using a database lock means that 
 	* We must make sure the lock is held for as short period of time as possible for performance as other transactions will stall 
-	* We must prevent [[Deadlock]]
+	* We must prevent deadlock
 	* In the event of system failure, the lock must be released to allow other entities to access the data.
 
 * A **lock manager** grants or blocks incoming requests based on what locks are being held by other transactions 

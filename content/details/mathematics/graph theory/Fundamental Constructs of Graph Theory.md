@@ -101,3 +101,13 @@ $$We denote the incidence matrix of $G$ as $B(G)$.
   $$
   
   It may also be obtained as $M=D-A$ 
+
+* The **Topological Overlap Matrix** between nodes $i$ and $j$ is calculated as 
+  
+  $$
+  X_{ij}^o = \frac{J(i,j)}{\min(k_i,k_j)+1-\Theta (A_{ij})}
+  $$
+  Where $k_i$ and $k_j$ are the degrees of node $i$ and $j$
+  $\Theta(x)$ is the Heaviside Function
+  $J(i,j)$ is the number of common neighbors of node $i$ and $j$ (i.e., $|\phi(i)\ cap \phi(j)|$) 
+

@@ -1,6 +1,6 @@
 # Desirable Properties 
 * **Resilience** - the ability of the system to survive and persist within a variable environment. 
-	* It arises from a rich structure of many feedback loops that can work in different ways to restore a system even after a large perturbation 
+	* It arises from a rich structure of many feedback loops that can work in different ways to restore a system even after a large [[Perturbation Theory|perturbation]] 
 	* The system should have many, different, and potentially redundant balancing loops. 
 	* **Meta-resilience** comes from the ability to restore or rebuild feedback loops. 
 	* **Meta-meta-resilience** comes from the ability of feedback loops to [[Artificial Intelligence|learn, create and evolve]] complex, restorative, self-organizing structures. 

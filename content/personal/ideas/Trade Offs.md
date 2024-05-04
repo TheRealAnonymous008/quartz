@@ -67,3 +67,6 @@ A listing of common and interesting trade-offs that are noticeable in a variety 
 ### Risk vs Reward Tradeoff 
 * The classic tradeoff of "High risk High reward'
 * Can be subverted (i.e., high risk low reward) but more often than not prevalent in a lot of scenarios. 
+
+## [[Inventory Management and Control|Inventory Tradeoffs]]
+

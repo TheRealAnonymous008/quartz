@@ -1,6 +1,6 @@
 * The design of technology to fit human needs and capabilities is determined by the psychology of people. Yes, technologies may change, but people stay the same
 # External Forces
-* *Competitive pressures drive products, and by extension design*. Three factors that influence competition are price, features, and quality.
+* *[[Competition between Firms|Competitive]] pressures drive products, and by extension design*. Three factors that influence competition are price, features, and quality.
 * The real business pressures on companies are: the need for speed, the concern about costs, the competition that may force the company to change its offerings, and the need to satisfy several classes of customers and users.
 * Additional pressures include the *development cycle of products*, and the restrictions imposed by large organizations, in addition to the complexity with managing them.
 * These make it difficult to [[details/creativity/design/DOET/Design Thinking|follow the complete process of design]].
