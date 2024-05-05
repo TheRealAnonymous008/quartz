@@ -365,4 +365,5 @@ $$
 * [[Factory Physics by Hopp and Spearman|Hopp and Spearman]] - Ch. 2
 
 * [[Manufacturing]]
+* [[Factory Dynamics]]
 * [[Scarcity, Supply, and Demand]]

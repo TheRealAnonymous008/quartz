@@ -44,6 +44,7 @@
 
 
 * [[Factory Physics]]
+	* [[Factory Dynamics]] - gives basic definitions for factory-related terms
 
 # Links
 * [Industry 4.0 - Introduction to Smart Manufacturing ](https://www.youtube.com/watch?v=SbCTwErZT6I)
