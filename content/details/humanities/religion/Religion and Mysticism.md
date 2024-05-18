@@ -30,7 +30,10 @@
 # Topics
 * [[Kabbalah]]
 * [[Demonology]]
+* [[Tarot Cards]]
 
 # Links
 * [Sacred-Texts](https://www.sacred-texts.com/gno/index.htm)
 * [[The Summa Theologica by Aquinas]]
+
+* [The Ancient Greeks Who Converted to Buddhism](https://www.youtube.com/watch?v=aA0wB3d7MgE) - due to Hellenization and cultural mingling between Greeks and Indians, there were Greeks who subscribed (in theory) to ideas that resembled Buddhism.

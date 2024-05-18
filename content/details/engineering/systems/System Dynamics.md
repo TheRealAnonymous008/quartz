@@ -39,7 +39,7 @@
 	* **Balancing / Negative** feedback loops are equilibrating or goal-seeking structures in systems and are sources of stability and resistance to change. 
 	* **Reinforcing / Positive** feedback loops are self-enhancing leading to exponential growth or runaway collapse. They are found whenever a stock has the capacity to reinforce or reproduce itself.
 
-* Feedback loops may not necessarily be effective due to delays or due to the actions triggering them not being strong enough.
+* Feedback loops may not necessarily be effective due to **delays** or due to the actions triggering them not being strong enough.
 * When one feedback loop dominates another, it has a stronger impact on behavior. *Complex behavior of systems often arise as the relative strengths of feedback loops shift*, causing a dominance shift. 
 
 * *Feedback loops are everywhere*. Part of systems thinking is to be able to recognize how feedback loops can occur. 

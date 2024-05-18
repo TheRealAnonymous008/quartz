@@ -25,3 +25,9 @@
 * [A Youtuber's Decent into Madness](https://www.youtube.com/watch?v=2V0_yLGRIQ0) - the effects of Total Insomnia on the body and mind.
 
 * [The Dragon Paradox](https://www.youtube.com/watch?v=UopANFTGexA) - If Dragon's aren't real, then why do many cultures from around the world allude to dragons.
+
+* [S Risks -- Fate's Worse than extinction](https://www.youtube.com/watch?v=fqnJcZiDMDo) - S risks pertain to events that have astronomically high scope and high severity. They typically share common elements 
+	* (1) they involve many more beings than currently exist; 
+	* (2) are brought about by significant technological advancements; 
+	* (3) involve suffering due to a part of a larger process; and 
+	* (4) are preventable with foresight

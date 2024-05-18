@@ -93,6 +93,7 @@
 # Topics
 * [[Probability Distributions Zoo]] - more on probability distributions and what they are measuring
 * [[Random Variables and Probability Distributions]] 
+* [[Queueing Theory]]
 # Links
 * [[Calculus]] - more on calculus, relevant for integrals and derivatives.
 

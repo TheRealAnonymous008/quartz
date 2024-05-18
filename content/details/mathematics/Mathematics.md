@@ -46,7 +46,20 @@
   
   ![[Bipartite Projection.png]]
 
-
+* For any integer $n$, the following holds
+  $$
+  \lfloor n/2 \rfloor + \lceil n/2\rceil =n
+  $$
+  For any integer $x\ge 0$ and integers $a,b>0$
+  
+  $$
+  \begin{split}
+  \bigg\lceil \frac{\lceil x/a \rceil}{b} \bigg\rceil &= \bigg\lceil\frac{x}{ab}\bigg\rceil \\ 
+  \bigg\lfloor \frac{\lfloor x/a \rfloor}{b} \bigg\rfloor &= \bigg\lfloor\frac{x}{ab}\bigg\rfloor \\ 
+  \bigg\lceil \frac{a}{b}\bigg\rceil & \le \frac{a+(b-1)}{b} \\
+  \bigg\lfloor \frac{a}{b}\bigg\rfloor & \ge \frac{a-(b-1)}{b} \\
+  \end{split}
+  $$
 # Links
 
 * [Infinite Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf) - a comprehensive explainer of high level mathematics targeted to a highschooler

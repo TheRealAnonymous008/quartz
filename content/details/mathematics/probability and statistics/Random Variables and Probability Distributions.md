@@ -63,7 +63,14 @@
 	  $$
 	  \sigma=\sqrt{\text{Var}[X]}
 	  $$
+	* The **coefficient of variation** denoted $\text{CV}$ is defined as
+	  $$
+	  \text{CV} = \frac{\sigma}{\mu}
+	  $$
+	  The **squared coefficient of variation** is simply $\text{CV}^2$.
 	  
+	  It serves as a measure of variability. *The CV denotes how concentrated the probability distribution is around the mean (higher = more spread out)*
+
 * The **covariance** between $X$ and $Y$ measure the degree to which they are linearly related. It is defined as 
   $$
   \text{Cov}[X,Y]=\mathbb{E}[(X-\mathbb{E}[X]) (Y-\mathbb{E}[Y])] =\mathbb{E}[XY]-\mathbb{E}[X]\mathbb{E}[Y]
@@ -122,6 +129,18 @@ $$
 E[x] = \sum_{x_1} x P(x_1)
 $$
 
-
+# Misc
+* An **indicator random variable** denoted $\mathbb{1}_A(x)$ is defined as follows
+  
+$$
+\mathbb{1}_A(x) = \begin{cases}
+1  & \text{if } x\in A \\
+0  & \text{if } x\notin A
+\end{cases}
+$$
+* (*CLRS 5.1*) Given a sample space $S$ and event $A$ in $S$. Then 
+  $$
+  \mathbb{E}[\mathbb{1}_A]=P(A)
+  $$ 
 # Links
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]

@@ -45,11 +45,17 @@
 # Links 
 * [[Doublespeak From Revenue Enhancement to Terminal Living -- How Government, Business, Advertisers, and Others Use Language to Deceive you by Lutz]]
 	* Ch. 1 - contains examples from the context of the military, businesses, education, politics, and some deadly examples.
-	* Ch. 2 - contains examples from everyday life.
-	* Ch. 3 - contains examples from advertising.
-	* Ch. 4 - contains examples from business .
+	* Ch. 2 - facets of everyday life.
+	* Ch. 3 - advertising
+	* Ch. 4 - business
+	* Ch. 5 - governments
+	* Ch. 6 - military
+	* Ch. 7 - politics
+	* Ch. 8 - nuclear wars
 
 * [[Linguistics]] 
 * [[How To Lie With Statistics by Huff]]
 
 * [Double Speak](https://www.youtube.com/watch?v=qP07oyFTRXc)
+
+* [Weird Al Yankovic - Mission Statement](https://www.youtube.com/watch?v=GyV_UG60dD4)

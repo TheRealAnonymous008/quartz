@@ -23,7 +23,10 @@
 	* **Grab** - Drag geometry across the screen, following the cursor.  Grab only moves the vertices that are under the brush radius at the start of the stroke. This is an essential sculpting brush to be used frequently to build shapes and adjust proportions.
 
 
-## Shortcut Keys
+# Shortcut Keys
+## General Control 
+
+
 * `E` - when an edge is selected, it Extrudes
 * `F` - change the size of brush in Sculpt Mode
 * `G` - Grab (move object). Note that this will make the object move with your cursor regardless of where it is

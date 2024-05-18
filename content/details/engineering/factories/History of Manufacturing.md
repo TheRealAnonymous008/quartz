@@ -104,5 +104,9 @@
 * It is based on Japanese culture's focus on conservation of resources. As well as a more [[System Science|systems oriented]] approach
 * JIT also emerged in an effort to close the gap with Western Productivity. This was done by eliminating waste and lowering cost. *The lack of economies of scale is remedied through best management practices*
 
+* At a macro level, the Japanese success was premised on an ability to bring quality products to market in a timely fashion at a competitive cost and in a responsive mix.
+* At a micro level, this was achieved via an effective production control system. It fostered *high external quality through high internal quality*. 
+* Good customer service is maintained via a steady, predictable outside stream
+
 # Links
 * [[Factory Physics by Hopp and Spearman|Hopp and Spearman]] - Ch. 1 - 5

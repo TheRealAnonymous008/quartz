@@ -50,6 +50,7 @@
 # Links
 * [[Make Your Own Pixel Art -- Create Graphics for Games, Animations, and More by Dawe and Humphries]]
 * [Lines and Curves](https://opengameart.org/content/chapter-2-lines-and-curves)
+* [Pixel Art Animation Reinvented by aarthificial](https://www.youtube.com/watch?v=HsOKwUwL1bE&t=270s) - proposes a method of decoupling the animation motion from the mesh by splitting the logic into two different textures. The animation texture contains coordinate information which is used to look up the appropriate color from the mesh texture. 
 
 * [Pixelblog by Slynyrd](https://www.slynyrd.com/pixelblog-catalogue) 
 * [StudioMiniBoss Pixel Art](https://blog.studiominiboss.com/pixelart)

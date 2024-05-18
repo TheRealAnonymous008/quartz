@@ -30,11 +30,17 @@
 * [[Algorithms in Games]]
 
 
+
+## Genre Specific
+* [[Strategy Games]]
+
 * [[Game Study - Foxhole]]
 * [[Game Study - CogMind]]
 
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
+* [[Fundamentals of __ Game Design Series by Ernest Adams]] - Covers game design in the context of various genres.
+
 * [[Creativity]]
 * [[Design]] - more on design. In particular, focus on Iterative Design, wherein games are made as they are being playtested 
 

@@ -3,7 +3,6 @@
 * [Alex Sludd](https://alexsludds.github.io) - includes Silicon Photonics, running Neural Networks through light meshes.
 * [Blit](https://en.wikipedia.org/wiki/BLIT_(short_story)) - an interesting premise for a story. Will have to check it and relate it to Infohazards.
 
-* Fundamentals of __ Game Design Series by Ernest Adams  [here](https://annas-archive.org/search?q=fundamentals+of+game+design)
 * Better Videogame Characters by Design by Katherine Isbister
 * [[Christopher Alexander]] - principles of architecture. To explore further. In particular 
 	* The Timeless way of building
@@ -27,6 +26,7 @@
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
 * [Socionics](https://en.wikipedia.org/wiki/Socionics)
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
+* Forecasting -- specifically [[Time Series Analysis]].
 
 
 # Utilities

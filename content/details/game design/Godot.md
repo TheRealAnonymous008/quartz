@@ -23,3 +23,4 @@
 
 * [Godot Website](https://forum.godotengine.org) - good source for up to date documentation. 
 * [Godex](https://github.com/GodotECS/godex) - brings Entity Component System to Godot. 
+* [Dialogic](https://docs.dialogic.pro) - allows easy to create RPGs and Visual Novels.

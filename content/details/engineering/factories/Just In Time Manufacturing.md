@@ -1,4 +1,5 @@
 * *Get what is needed at the time it is needed, and in the amount needed*. Every workstation acquires the required materials precisely as needed, just in time. 
+* The benefits of JIT can be attributed to the use of [[Factory Design and Policy|WIP caps]].
 
 * The **seven zeros** serve as the goal of JIT. The north star is towards zero inventories -- a metaphor for a high level of excellence and innovation.
 	* **Zero Defects** - parts must be of good quality. Defects cause delays.
@@ -87,6 +88,11 @@
 * JIT does not guarantee immediate improvements. *It is neither simple nor inexpensive*
 * JIT's objectives can often compete with each other, which requires balancing.
 * While quality is an important metric, it is far from the only important metric.
+* Kanban does not [[Factory Design and Policy|scale well with a high number of parts produced infrequently]].
+	* Kanban is typically only applicable in repetitive manufacturing environments where material flows along fixed paths at steady rates.
+	* Kanban is not robust against swings in product mix, product complexity and volumes.
+	* Optimal card count allocation is a function of mix. Hence, to achieve high throughput with low WIP, we may need to dynamically vary the card counts over time
+* Kanban induces more operator stress because they must replenish voids as quickly as possible to prevent starvation.
 # Links
 * [[Factory Physics by Hopp and Spearman|Hopp and Spearman]] - Ch. 4
 

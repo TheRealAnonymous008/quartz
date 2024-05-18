@@ -12,6 +12,10 @@
 * The sum of our national pride, religious belief, prosperity or poverty, and the political values of the family unit all form preconceptions in our mind towards those of other ethnic groups which may lead to acts of terror or war. 
 * Insurrection is a byproduct of economic and sociopolitical circumstance
 
+* **Lanchester's Laws** dictate the combat effectiveness of a military force without considering terrain or logistics
+	* **Linear Law** - If one soldier can effectively fight one soldier at a time (on average), then the largest group will win. 
+	* **Square Law** - If combat is all-against-all, that is soldiers can fight and be fought by multiple other soldiers, then the power of a force is proportional to the square of the number of units.
+		* Intuitively this arises because one side can concentrate power  on a single unit, the single unit's power is equivalently diffused on the enemy units.
 # Topics
 * [[The Art of War]]
 * [[The Clausewitzian War]]

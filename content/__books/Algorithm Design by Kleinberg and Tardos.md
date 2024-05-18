@@ -1,0 +1,4 @@
+---
+aliases:
+  - Kleinberg and Tardos
+---
