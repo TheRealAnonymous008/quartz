@@ -90,7 +90,7 @@
 	* There is high overhead from copying data to transaction's workspace and from updating timestamps.
 
 ## Scheduling
-* A **schedule** $S$ of transaction $T_1, \dots, T_n$ is an ordering of operations of the transactions subject to the constraint that for each transaction $T_i$ that participates in $S$, the operations of $T_i$ in $S$ must appear in the same order in which they occur in $T_i$.  Other operations from other transactions can be interleaved with the operations of $T_i$ in $S$.
+* A **[[Scheduling Problem|Schedule]]** $S$ of transaction $T_1, \dots, T_n$ is an ordering of operations of the transactions subject to the constraint that for each transaction $T_i$ that participates in $S$, the operations of $T_i$ in $S$ must appear in the same order in which they occur in $T_i$.  Other operations from other transactions can be interleaved with the operations of $T_i$ in $S$.
 
 * Two operations are **conflicting** if:
 	* They are by different transactions 

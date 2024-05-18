@@ -16,7 +16,7 @@
 			* Disease prediction, diagnosis, and treatment. MARL is good in this context because it can handle collaborative tasks. 
 			* Medical image processing via an ensemble of MARL agents.
 		* *Smart [[Manufacturing]]* - using AI to optimize the production process. These methods typically require value decomposition to counteract combinatorial action space explosion.
-			* Job shop scheduling - involves resource allocation, task management and scheduling, especially in a dynamic environment. 
+			* [[Factory Optimization Techniques|Job shop]] [[Scheduling Problem|scheduling]] - involves resource allocation, task management and scheduling, especially in a dynamic environment. 
 			* Industrial robots - focuses on the level of robots that make products. Also focuses on making these robots. 
 			* Preventive maintenance - accounting for machine failure. 
 		* *Financial trading* - can simulate both collaboration and competition among agents 

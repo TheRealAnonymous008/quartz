@@ -90,6 +90,8 @@
   u = \frac{r_a}{r_e} = \frac{r_a t_e}{m}
   $$
 
+* The **makespan** is defined as the time it takes to finish a fixed number of jobs.
+
 * The **bottleneck rate** of a line, denoted $r_b$ is the rate of the workstation having the highest long-term utilization. Long term means averaging out variances due to unforeseen events. *This dictates maximum throughout and capacity. 
 	* In lines with a single routing, the bottleneck will be the line with the least long term capacity. This does not apply for more complicated routings.
 * The **raw process time**, denoted $T_0$ is the sum of the long-term average process times of each workstation in the line. Alternatively, it is the average time it takes a single job to traverse an empty line. 

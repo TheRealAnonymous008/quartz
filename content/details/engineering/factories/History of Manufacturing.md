@@ -41,7 +41,7 @@
 
 * **Harrington Emerson** - was interested in selecting and training employees. 
 
-* **Frank Gilbreth** - also concerned with efficiency, but not just with regards to time (i.e., scheduling). He was also interested in *motion study* -- how a worker physically performs a job.
+* **Frank Gilbreth** - also concerned with efficiency, but not just with regards to time (i.e., [[Scheduling Problem|scheduling]]). He was also interested in *motion study* -- how a worker physically performs a job.
 
 [^ethos]: [[Labor Market Theory]] posits issues which disagree with this. In particular, labor unions are opposed to the assumption that a surplus gives proportionate rewards to the laborers. 
 [^taylor_1]: The idea is -- managers perform the planning, workers perform the labor. This is a matter of matching the person with the role suited for them. There is a distinction between the job of planning (managers) and the job of doing (workers) 
