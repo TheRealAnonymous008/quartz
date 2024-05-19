@@ -16,7 +16,6 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 	* 🎯 indicates the paper was only skimmed but not read in detail. 
 	* Papers are organized by recency (most recent first). 
 
-* Have an issue? Place one [here](https://github.com/TheRealAnonymous008/library-questions/issues)
 # Knowledge Index
 A broad listing of all the topics that I have made notes on. You can find more about the topics that I have deep dived on in this comprehensive [Skill Tree](https://whimsical.com/ontology-tree-Q29jMHUucE2kwACJfxrp1n) or on the explorer on the left. [^2]
 
