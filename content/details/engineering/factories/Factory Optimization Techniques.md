@@ -277,9 +277,46 @@
 
 * *Ideally, planning and scheduling should be coupled together*. Planning should not produce an infeasible schedule as a result of not considering capacity or throughput.
 	* One remedy to the disconnect between planning and scheduling is the reduction of cycle time. 
+	* We can choose an appropriate batch size 
+		* For *serial batches with one product*, a good batch size can be obtained by
+		  
+		  $$
+		  k^\ast = \frac{r_a s }{u^\ast -r_a t} \approx \frac{r_as}{\sqrt{r_at} - r_at}
+		  $$
+		* For *serial batches with multiple products* in the mix, a good batch size can be found as follows. Let $n$ be the number of products, indexed by $i$. 
+		  
+		  Define 
+		  $$
+		  L = \frac{\sum_{i=1}^nr_as_it_i}{u^\ast - u_0} + \bar{s}
+		  $$
+		  Where  $u_0=\sum_i r_at_i$ denotes the station utilization time without setups.
+		  
+		  The optimal batch size for the $i$-th product is
+		  $$
+		  k^\ast_i = \frac{L-s_i}{t_i}
+		  $$
+		* *For parallel batches*, we want to balance effective capacity utilization (large batches) and minimal wait-to-batch time (small batches)
+		  
+		  Define 
+		  $$
+		  u^\ast =\frac{1}{1+\sqrt{\frac{c_a^2}{u_m (1+c_e)} + c_e^2 }}
+		  $$
+		  Where $u_m=r_at$ is the utilization from having a batch size of $1$. 
+		  
+		  When $\frac{c_a^2u}{u_m}$ is sufficiently small, we can approximate the above as
+		  $$
+		  u^\ast \approx \frac{1}{1+c_e}
+		  $$ 
+		  
+		  The optimal batch size is 
+		  $$
+		  k^\ast = \frac{u_m}{u^\ast}
+		  $$
+	* Another approach to scheduling is *to properly quote our due dates*. The difficulty in this solution lies in accounting for manufacturing and personnel. 
 # Links
 * [[Factory Physics by Hopp and Spearman|Hopp and Spearman]]
 	* Ch. 13 - discussion on planning frameworks
+	* Ch. 15 - scheduling frameworks. Derivations for optimal batch sizes are found in this chapter.
 * [[Fundamental Objects in Factory Physics]]
 * [[Factory Dynamics]]
 * [[Factory Variability]]

@@ -121,6 +121,8 @@
 	* *Cycle time is often just waiting time*. 
 
 * When variability and utilization are the same, a station with parallel machines will outperform one with dedicated machines. 
+* When variability at a station is high, the station can handle less utilization (i.e., the optimal utilization decreases).
+
 * We can also consider the case of buffering on the system using queueing theory
 	* In this case, if we interpret the system as two machines in series, where the first machine never starves and the second machine is never blocked, then we observe behavior similar to a M/M/1/b queue where $b=B+2$ and *the extra two buffer spaces are the machines themselves*
 	* *The WIP of a M/M/1/b queue is less than that of an M/M/1 queue at the cost of lost throughput. The smaller the buffer, the greater the reduction in throughput*.  

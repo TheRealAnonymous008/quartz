@@ -38,6 +38,8 @@
 * $t_e$ - effective mean process time 
 * $r_e$ - effective capacity
 
+* $s$ - setup time
+
 * $_s$ - pertaining to setups
 * $_a$ - pertaining to arrivals
 * $_d$ - pertaining to departures
