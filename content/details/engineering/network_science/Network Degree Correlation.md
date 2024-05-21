@@ -46,14 +46,14 @@
 	  $p_{k,k'}$ denotes the probability that a degree  $k$ and $k'$ node link up.
 	*  The degree correlation function is given by 
 	  
-	  $$
-	  \begin{equation}
-	  \begin{split}
-	  P(k' \mid k) &= \frac{e_{kk'}}{\sum_{k'} e_{kk'}} &= q_{k'} \\ 
-	  k_{nn}(k) &= \frac{\braket{k^2}}{\braket{k}}
-	  \end{split}
-	  \end{equation}
-	  $$
+	$$
+	\begin{equation}
+	\begin{split}
+	P(k' \mid k) &= \frac{e_{kk'}}{\sum_{k'} e_{kk'}} &= q_{k'} \\ 
+	k_{nn}(k) &= \frac{\braket{k^2}}{\braket{k}}
+	\end{split}
+	\end{equation}
+	$$
 	  
 	* The average degree of a node's neighbor is dependent only on the global network characteristics 
 

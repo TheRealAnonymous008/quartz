@@ -66,16 +66,18 @@
 	  $$
 	  In scale free network, for large networks, the epidemic threshold is expected to vanish since $\braket{k^2}\to \infty$ and the epidemic threshold vanishes
 	  
-	  * As a consequence, the number of infected scales as follows $$\begin{equation} \begin{split}
-I(\lambda) &\sim \begin{cases}
-\lambda^{1/(3-\gamma)} & 2<\gamma <3 \\ 
-2e^{-1/{k_\text{min}}\lambda} & \gamma = 3 \\ 
-\left(\lambda - \frac{\gamma - 3}{k_\text{min}(\gamma - 2)}\right)^{1/(\gamma-3)} & 3 < \gamma < 4  \\ 
-\lambda - \frac{\gamma -3}{k_\text{min} (\gamma -2)} & \gamma > 4 
-
-\end{cases} 
-\end{split}\end{equation}
-$$
+	  * As a consequence, the number of infected scales as follows 
+	$$
+	\begin{equation} 
+	\begin{split}
+	I(\lambda) &\sim \begin{cases}
+	\lambda^{1/(3-\gamma)} & 2<\gamma <3 \\ 
+	2e^{-1/{k_\text{min}}\lambda} & \gamma = 3 \\ 
+	\left(\lambda - \frac{\gamma - 3}{k_\text{min}(\gamma - 2)}\right)^{1/(\gamma-3)} & 3 < \gamma < 4  \\ 
+	\lambda - \frac{\gamma -3}{k_\text{min} (\gamma -2)} & \gamma > 4 
+	\end{cases} 
+	\end{split}\end{equation}
+	$$
 
 	* Only for a degree exponent $\gamma > 4$ does a scale-free network behave like a traditional epidemic model.
 
