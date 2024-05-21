@@ -32,10 +32,9 @@
   \tau^{SI}=\frac{\braket{k}}{\eta (\braket{k^2} - \braket{k})}
   $$
   The fraction of infected nodes with degree $k$ at time $t$, is then given by the equation
+  $$I_k=I_0\left(1+\frac{k(\braket{k}-1)}{\braket{k^2}-\braket{k}}\right)\left( e^{t/\tau^{SI}} - 1\right)
   $$
-  I_k=I_0\left(1+\frac{k(\braket{k}-1)}{\braket{k^2}-\braket{k}}\right)\left( e^{t/\tau^{SI}} - 1
-  \right)
-  $$
+  
   
 
 	* The probability a node becomes infected is proportional to its degree.
