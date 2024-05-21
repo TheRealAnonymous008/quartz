@@ -143,7 +143,7 @@
   p_b'(t) &=  -\mu p_{b}(t) + \lambda p_{b-1}(t)\\
   p_k'(t) &= -(\lambda + \mu)p_k(t) + \mu p_{k+1}(t) + \lambda p_{k-1}(t) \\
   p_0'(t) &= -\lambda p_0(t) + \mu p_1(t) 
-\end{split} 
+  \end{split} 
   $$
 
 * In the long term , we observe that given $\lim_{t\to\infty} p_k(t) = \pi_k$ 
