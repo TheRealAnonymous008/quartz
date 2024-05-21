@@ -17,7 +17,7 @@
   \text{CT}_\text{best} = \begin{cases}
   T_0 & \text{if } w \le W_0 \\
   \frac{w}{r_b} & \text{otherwise}
-\end{cases} 
+  \end{cases} 
   $$
   
   The maximum throughput for a given WIP level $w$ is given by
