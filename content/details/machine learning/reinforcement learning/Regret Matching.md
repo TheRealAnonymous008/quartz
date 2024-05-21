@@ -16,31 +16,26 @@
 	  $$
 
 * **Conditional regret matching** computes action probabilities proportional to the positive average unconditional regrets of the action. Here, we define **conditional regret** for choosing $a_i'$ instead of $a_i$ as 
-	  $$
-	  \text{Regret}_i^z (a_i', a_i) = \sum_{e:, a_i^e =a_i'}^z \left[ R_i(\braket{a_i,a_{-i}^e}) - R_i(a^e) \right]
-	  $$
-	  The average conditional regret is given as 
-	  
-	  $$
-	  \bar{R}_i^z(a_i',a_i) = \frac{1}{z} \text{Regret}_i^z (a_i',a_i)
-	  $$
-	  The policy is then updated as follows 
-	  
-	  $$
-	  \pi_i^{z+1}(a_i) = 
-	  \begin{cases}
-	  \frac{1}{\eta} \max(0, \bar{R}_i^z (a_i^z, a_i)) & \text{if } a_i \ne a_i^z \\
-	  1-\sum_{a_i'\ne a_i^z} \pi_i^{z+1} (a_i') & \text{otherwise}
-	  \end{cases}
-	  $$
-	  
-	  In the formula, we have that 
-	  $a_i^z$ is the action chosen in the last episode and 
-	  
-	  $$
-	  \eta > 2 \cdot \max_{a\in A} |R_i(a) | \cdot  (|A_i| - 1) 
-	  $$
-	  Which is a hyperparameter controlling the bias towards higher conditional regret (higher $\eta$ = lower bias). The lower bound ensures the resulting sum of probabilities $\pi_i^{z+1}(a)\le 1$, when $a_i\ne a_i^z$.   
+  $$
+  \text{Regret}_i^z (a_i', a_i) = \sum_{e:, a_i^e =a_i'}^z \left[ R_i(\braket{a_i,a_{-i}^e}) - R_i(a^e) \right]
+  $$
+  The average conditional regret is given as 
+   $$
+   \bar{R}_i^z(a_i',a_i) = \frac{1}{z} \text{Regret}_i^z (a_i',a_i)
+   $$
+   The policy is then updated as follows 
+   $$
+   \pi_i^{z+1}(a_i) = 
+   \begin{cases}
+   \frac{1}{\eta} \max(0, \bar{R}_i^z (a_i^z, a_i)) & \text{if } a_i \ne a_i^z \\
+   1-\sum_{a_i'\ne a_i^z} \pi_i^{z+1} (a_i') & \text{otherwise}
+   \end{cases}
+   $$
+   In the formula, we have that  $a_i^z$ is the action chosen in the last episode and 
+   $$
+   \eta > 2 \cdot \max_{a\in A} |R_i(a) | \cdot  (|A_i| - 1) 
+   $$
+   Which is a hyperparameter controlling the bias towards higher conditional regret (higher $\eta$ = lower bias). The lower bound ensures the resulting sum of probabilities $\pi_i^{z+1}(a)\le 1$, when $a_i\ne a_i^z$.   
 
 
 * The average regret of each agent is bounded by $\kappa \frac{1}{\sqrt{z}}$. *At the limit when $z\to\infty$, regret will approach $0$*. 
