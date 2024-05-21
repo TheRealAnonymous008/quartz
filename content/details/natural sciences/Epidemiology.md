@@ -15,9 +15,9 @@
 	  $$
 	*  $\beta$ denotes the **transmission rate**, defined as the rate in which a disease spreads in a population. This is derived from two other parameters. The exact relationship is 
   
-  $$
-  \beta = \gamma \times \eta
-  $$
+	$$
+	\beta = \gamma \times \eta
+	$$
   
 		* $\gamma$ - the number of contacts between persons in the population per unit time.
 		* $\eta$ - the **transmission probability** -- the risk of spreading the disease from infected to susceptible on contact.
