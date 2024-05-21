@@ -2,7 +2,7 @@
 	* The upright card cannot be fully expressed because it is being repressed. 
 	* The upright definition is implied but turned on its head. 
 	* The reversal shows a potential not fully manifested yet.
-	* The "shadow side" of the upright meaning
+	* The "shadow side" of the upright meaning.
 
 
 ## 0 - The Fool 
