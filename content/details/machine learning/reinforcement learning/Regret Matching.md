@@ -18,12 +18,12 @@
 	  $$
 	  \text{Regret}_i^z (a_i', a_i) = \sum_{e:, a_i^e =a_i'}^z \left[ R_i(\braket{a_i,a_{-i}^e}) - R_i(a^e) \right]
 	  $$
-	  The average conditional regret is given as 
+	* The average conditional regret is given as 
 	  
 	  $$
 	  \bar{R}_i^z(a_i',a_i) = \frac{1}{z} \text{Regret}_i^z (a_i',a_i)
 	  $$
-	  The policy is then updated as follows 
+	* The policy is then updated as follows 
 	  
 	  $$
 	  \pi_i^{z+1}(a_i) = 
