@@ -54,6 +54,7 @@
 	  \end{split}
 	  \end{equation}
 	  $$
+	  
 	* The average degree of a node's neighbor is dependent only on the global network characteristics 
 
 * A **perfectly assortative network** is an extreme case of an assortative network where each degree $k$ only connects with other degree $k$ nodes. 

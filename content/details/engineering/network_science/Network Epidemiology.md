@@ -34,8 +34,9 @@
   The fraction of infected nodes with degree $k$ at time $t$, is then given by the equation
   $$
   I_k=I_0\left(1+\frac{k(\braket{k}-1)}{\braket{k^2}-\braket{k}}\right)\left( e^{t/\tau^{SI}} - 1
-\right))
-$$
+  \right)
+  $$
+  
 
 	* The probability a node becomes infected is proportional to its degree.
 	* The total fraction of infected nodes not only depends on $\braket{k}$ but also on the second moment $\braket{k^2}$ of the degree distribution
