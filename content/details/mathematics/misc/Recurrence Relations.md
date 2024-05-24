@@ -48,19 +48,21 @@
   
   *We implicitly assume that the problem is divided into equal subproblems*
   
+  Let $c=\log_b a$  denote the critical exponent
+  
   $T(n)$ has the following asymptotic bounds [^master] [^master_2]
-	* If $f(n)=O(n^{log_ba -\epsilon}), \epsilon >0$ then $T(n)=\Theta(n^{log_ba})$ 
+	* If $f(n)=O(n^{c -\epsilon}), \epsilon >0$ then $T(n)=\Theta(n^{c})$ 
 	  
 	  If the time to divide is dominated by the time to conquer, then the splitting term does not appear. 
 	  
-	* If $f(n)=\Theta(n^{log_ba} \log^kn)$, where $k\ge 0$, then $T(n)=\Theta(n^{log_b a} \log^{k+1} n)$
+	* If $f(n)=\Theta(n^c \log^kn)$, where $k\ge 0$, then $T(n)=\Theta(n^c \log^{k+1} n)$
 	  
 	  If the time to divide is equivalent to the time to conquer, then we have a splitting term 
-		* If $k>-1$, then $T(n) =\Theta(n^{\log_ba} \log^{k+1}n)$ 
-		* If $k=-1$, then  $T(n)=\Theta(n^{\log_ba} \log\log n)$ 
-		* If $k<-1$, then $T(n) = \Theta(n^{\log_ba})$ 
+		* If $k>-1$, then $T(n) =\Theta(n^c \log^{k+1}n)$ 
+		* If $k=-1$, then  $T(n)=\Theta(n^c\log\log n)$ 
+		* If $k<-1$, then $T(n) = \Theta(n^c)$ 
 
-	* If $f(n)=\Omega(n^{log_ba+\epsilon}), \epsilon > 0$ and if $af(n/b)\le cf(n)$ for $c<1$ and sufficiently large $n$ (this additional constraint is the regularity condition), then $T(n)=\Theta(f(n))$.
+	* If $f(n)=\Omega(n^{c+\epsilon}), \epsilon > 0$ and if $af(n/b)\le kf(n)$ for $k<1$ and sufficiently large $n$ (this additional constraint is the regularity condition), then $T(n)=\Theta(f(n))$.
 	  
 	  If the time to divide dominates the time to conquer, this doesn't yield anything unless the regularity condition holds.
 

@@ -19,8 +19,8 @@
 	\beta = \gamma \times \eta
 	$$
   
-		* $\gamma$ - the number of contacts between persons in the population per unit time.
-		* $\eta$ - the **transmission probability** -- the risk of spreading the disease from infected to susceptible on contact.
+	* $\gamma$ - the number of contacts between persons in the population per unit time.
+	* $\eta$ - the **transmission probability** -- the risk of spreading the disease from infected to susceptible on contact.
 
 	* $\mu$ denotes the **recovery rate** which is the rate in which an infected individual recovers from the disease. 
 	* $\lambda$ is the **spreading rate** of the pathogen defined as 

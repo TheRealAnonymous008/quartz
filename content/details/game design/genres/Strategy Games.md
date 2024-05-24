@@ -15,6 +15,13 @@
 	* Asymmetry - in particular for competitive multiplayer games. 
 
 * *The best way to design a strategy game is to start from board games*.
+* [RTS Games are fundamentally games about multitasking](https://www.youtube.com/watch?v=Rl4myN8q_KM)
+	* Features such as control groups and delayed timers help facilitate multitasking.
+	* Build orders in RTS games are analogous to Chess openings.
+	* Strategies in an RTS game can be broadly categorized into three. Each strategy counters other strategy in a broad sense. *Mixing and Adapting [[Game Theory|strategies]] is another core skill*, 
+		* **Aggression** - *attack the enemy.* Counters Economy if there is no Defense
+		* **Defense** - *protect your base*.  Counters Aggression because defending typically has a force multiplier
+		* **Economy** - *accelerate your economy to outpace the enemy.*  Counters Defense because you can outpace the enemy to the point their investments in defense become obsolete.
 
 ## Design Considerations
 * *One consideration in the design of strategy games is the time horizon -- whether to use real time or turn based or a mix of both*
