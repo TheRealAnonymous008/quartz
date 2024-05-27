@@ -48,7 +48,7 @@
 	* Simulated Rollbacks allow for undoing the simulation when there is a discrepancy between client side and server side.
 	* Allows for high multiplayer counts. 
 
-* **DOTS Physics** - free package for Physics
+* **DOTS Physics** - free package for [[Physics]]
 	* Stateless physics system. 
 	* No OnCollisionEnter or OnCollisionExit
 	* Optimized for multiplayer (i.e., allows for simulated rollback)
@@ -56,7 +56,7 @@
 
 * **Havok Physics** - paid package for Physics. Interchangeable with DOTS Physics. It is stateful but highly accurate. 
 
-* **Job System** - allows for multithreading in Unity 
+* **Job System** - allows for [[Multiprogramming|Multithreading]] in Unity 
 	* Automates scheduling and includes safety checks to avoid multithreading issues (i.e., deadlock and race conditions)
 	* Allows for the benefits of multithreading and parallelization in Unity.
 	* It is intended for work that needs to be completed within the same frame. 
@@ -64,7 +64,7 @@
 	* It can be burst compiled. 
 	* Compatible with both ECS and MonoBehaviour. 
 
-* **Collections** - a list of unmanaged [[Data Structures and Algorithms|Data structures]] 
+* **Collections** - a list of unmanaged [[Data structures]] 
 	* Has some garbage collection capabilities but still requires memory management. 
 	* Has built-in safety checks (though there are unsafe variants that do not have these checks)
 

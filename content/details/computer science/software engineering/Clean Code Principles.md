@@ -104,7 +104,7 @@
 5. [[Object Oriented Programming|Object Oriented]] Code code makes it easy to add new classes without changing existing functions.
 6. Not everything should be an object.
 7. Avoid chains of calls. Split function calls apart.
-8. Avoid creating hybrids of data structures and objects. Creating an object means we want its functions to do something. Creating a [[Data Structures and Algorithms|Data Structure]] / procedural code means we want to ask about its internals.
+8. Avoid creating hybrids of data structures and objects. Creating an object means we want its functions to do something. Creating a [[Data Structures|Data structure]] / procedural code means we want to ask about its internals.
 # Error Handling
 1. Avoid obscuring code logic with error handling.
 2. Prefer exceptions to returning error codes. Error codes are confusing, lead to dependencies, and violate Command Query Separation

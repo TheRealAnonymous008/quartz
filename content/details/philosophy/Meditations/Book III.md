@@ -27,3 +27,6 @@
 * Both man and beast can give in to sensations and desires. Yet, only man can reason--and reason towards accepting what is sent by the Universe.  [^3]
 
 [^3]: This showcases the fatalistic approach that the Stoics had. 
+
+# Links
+* [[Meditations]]

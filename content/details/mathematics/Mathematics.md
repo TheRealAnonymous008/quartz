@@ -7,8 +7,11 @@
 * [[Group Theory]]
 * [[Information Theory]]
 * [[Linear Algebra]]
-* [[Real Analysis]]
+* [[Queueing Theory]]
 * [[Probability and Statistics]]
+* [[Real Analysis]]
+* [[Set Theory]]
+
 # Unfiled Math Objects
 * Let $x_1,\dots, x_n$ be a set of real numbers. The **geometric mean** is defined as follows: 
   

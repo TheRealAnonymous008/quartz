@@ -3,6 +3,6 @@
 	  
 	  Stirling's approximation then gives that $\log(n!)\approx n\log n + n + O(\log n)$.   
 # Links
-* [[Data Structures and Algorithms]]
+* [[Algorithms]]
 
 * [[Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein|Cormen, Leiserson, Rivest, and Stein]]

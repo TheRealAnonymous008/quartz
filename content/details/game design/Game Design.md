@@ -36,6 +36,7 @@
 
 * [[Game Study - Foxhole]]
 * [[Game Study - CogMind]]
+* [[Game Study - Nebulous]]
 
 # Links
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]

@@ -32,7 +32,7 @@
 	* Should support ad-hoc querying.
 
 ## The Dimensional Model 
-* A **dimensional data model** is a [[Data Structures and Algorithms|Data Structure]] technique that aims to organize data via fact tables and dimension tables in a star or snowflake schema in such a way that data retrieval can be optimized for OLAP.  
+* A **dimensional data model** is a [[Data Structures|Data structure]] technique that aims to organize data via fact tables and dimension tables in a star or snowflake schema in such a way that data retrieval can be optimized for OLAP.  
 	* It allows for *high performance access*. 
 
 ### Dimension Table

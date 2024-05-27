@@ -1,5 +1,5 @@
 * **Queueing theory** studies waiting lines or queues under the assumption of known queue lengths and waiting time distribution
-* A **queue** consists of jobs that arrive to the queue, possibly wait some time, take some time to be processed, and then depart from the queue. 
+* A **[[Data Structures|Queue]]** consists of jobs that arrive to the queue, possibly wait some time, take some time to be processed, and then depart from the queue. 
 	* The queue may consist of servers that take an arriving job, process it, and when the job departs, is free to take new jobs. 
 
 * Single queueing nodes are described using **Kendall's Notation** of the form $A/S/c/K/N/D$ where

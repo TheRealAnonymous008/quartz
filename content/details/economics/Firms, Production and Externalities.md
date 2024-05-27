@@ -1,4 +1,3 @@
-
 * A **Firm** is a producer or business. It combines *inputs of labor, capital, land, and component materials to produce outputs* 
 * A successful firm is one where the *outputs are more valuable than the inputs*.
 # Firm Structure 

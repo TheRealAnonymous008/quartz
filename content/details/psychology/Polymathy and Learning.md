@@ -8,14 +8,14 @@
 * The polymath is a person with a level of expertise that is able to put a significant amount of time and effort into their avocations and find ways to use their multiple interests to inform their vocations 
 
 
- | Type | Description                                                                                                                     |
- | ---- | ------------------------------------------------------------------------------------------------------------------------------- |
- | 1    | Prodigies who develop one or more major talent and successfully exploiting that talent exclusively                              |
- | 2    | Explores a range of different creative activities and then settles on exploiting one of these for the rest of their lives       |
- | 3    | Polymathic from the outset and can juggle multiple careers simultaneously so that their creativity pattern is constantly varied |
- | 4    | Recognized for one major talent but go on to explore additional creative outlets, diversifying their productivity with age      |
- | 5    | Devote themselves serially to one creative field after another                                                                  |
- | 6    | Develop diversified creative skills early and then explores them serially ,one at a time                                                                                                                                |
+| Type | Description                                                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Prodigies who develop one or more major talent and successfully exploiting that talent exclusively                              |
+| 2    | Explores a range of different creative activities and then settles on exploiting one of these for the rest of their lives       |
+| 3    | Polymathic from the outset and can juggle multiple careers simultaneously so that their creativity pattern is constantly varied |
+| 4    | Recognized for one major talent but go on to explore additional creative outlets, diversifying their productivity with age      |
+| 5    | Devote themselves serially to one creative field after another                                                                  |
+| 6    | Develop diversified creative skills early and then explores them serially ,one at a time                                        |
 
 # Principles of Learning 
 * *Learning is self-active*. The learner learns through their own activities. It is a personal process. 

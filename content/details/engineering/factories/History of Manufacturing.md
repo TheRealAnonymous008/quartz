@@ -33,7 +33,7 @@
 		* His scientific education and development.
 		* Intimate friendly cooperation between management and the men. [^taylor_1] [^taylor_2]
 	* *Downside*: The main downside to this approach is how it stifles worker creativity in problem solving.
-	* The main limitation of Taylor's approach is that it assumes optimizing the simplest steps (a-la [[Data Structures and Algorithms|Greedy approach]]) would optimize the productivity in the long run.
+	* The main limitation of Taylor's approach is that it assumes optimizing the simplest steps (a-la [[Greedy Algorithm|Greedy approach]]) would optimize the productivity in the long run.
 
 * **Henry Gantt** - best known for the Gantt chart. 
 	* He preferred a *task work with a bonus system* -- workers were guaranteed their daily rate but received a bonus for completing a job within the set time

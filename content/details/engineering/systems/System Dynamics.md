@@ -1,4 +1,3 @@
-
 * Systems dynamics models explore possible futures and ask [[Data Analytics|what if questions]]. We can test the value of a model by asking ourselves the following: 
 	* Are the driving factors likely to unfold this way?
 	* If they did, would the system react this way? 

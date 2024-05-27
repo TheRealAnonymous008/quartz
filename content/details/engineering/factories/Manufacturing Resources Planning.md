@@ -39,7 +39,7 @@
 			  \text{index} = \frac{\text{due date} - \text{current time}}{\text{hours remaining}}
 			  $$
 			  Jobs with the smallest value first.
-		* *No job dispatching rule is perfect. All are [[Data Structures and Algorithms|greedy]]*. 
+		* *No job dispatching rule is perfect. All are [[Greedy Algorithm|greedy]]*. 
 
 		* **I/O Control** - it provides an easy way to check remaining releases against available capacity. 
 			* It aims to control lead times by doing the following

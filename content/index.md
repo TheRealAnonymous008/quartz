@@ -117,4 +117,3 @@ A broad listing of all the topics that I have made notes on. You can find more a
 A listing of miscellaneous things in the Library.
 
 * [[The Antilibrary]] - contains unread or interesting material for the very far future.
-* [[Update Logs]] - Not yet functional, but serves as a listing of recently updated notes.

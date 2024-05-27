@@ -1,4 +1,3 @@
-
 * Manufacturing environments vary greatly with respect to their process structure -- the manner in which material moves through the plant *The decision of what process structure to use depends on expected [[Scarcity, Supply, and Demand|demand]] and volume*
 	* **Job Shops** - Small lots are produced with a high variety of routings through the plant. Flow through the plant is jumbled, setups are common. This setup allows for more customizability and is *more suited for products with high customizability, low volumes, and slower rates.*
 	* **Disconnected Flow Lines** - Product batches are produced on a limited number of identifiable routings (i.e., paths through the plant). Although routings are distinct, individual stations within lines are not connected by a paced material handling system, so that inventories can build up between stations. *Used to make similar items on a repeat basis, where the volumes are not high enough to allow for a connected line flow*

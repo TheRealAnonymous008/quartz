@@ -1,4 +1,3 @@
-
 * *The need for eligibility traces arises in general whenever one tries to learn long-term predictions in an efficient manner*.
 * Every result below generalizes from state value functions to action-value functions with the appropriate replacements.
 * In practice, implementing eligibility traces are quite efficient since we only need to keep track of and update only the few traces that are significantly greater than $0$.

@@ -1,4 +1,3 @@
-
 * *Intent*: Provide a unified interface to a set of interfaces in a subsystem and make it easier to use.
 # Structure
 ![[Facade.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>

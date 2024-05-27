@@ -1,10 +1,4 @@
-# Data Structures 
-* [[Graph Theory|Graphs]]
-	* [[Trees]]
-	* [[Trails, Walks, Paths and Cycles]]
-
-# Algorithms 
-## Analysis
+# Analysis
 * For algorithms, the input size is usually defined as the amount of [[Information Theory|information]] (i.e. bits) needed to represent the provided inputs in a manner sufficient of the problem. 
 * We can define an order of growth function for the running time $T(n)$ of an algorithm which gives a simple characterization of the algorithm's efficiency and allows for comparing with other algorithms. This function is dependent on input size.
 * When we are only concerned with the order of growth at large input, we are studying the **asymptotic efficiency**.  [^asymptotic_1] [^asymptotic_2] [^asymptotic_3]
@@ -106,8 +100,11 @@
   $$
 
 
-## Listing of Specific Use Cases
+# List of Topics
 * [[Sorting Algorithms]]
+* [[Greedy Algorithm]]
+
+
 * [[Algorithms in Games]]
 * [[Machine Learning]]
 * [[Network Communities#Community Detection Algorithms|Community Detection Algorithms]]
@@ -116,8 +113,6 @@
 * [LLL Lattice Reduction Algorithm](https://en.wikipedia.org/wiki/Lenstra–Lenstra–Lovász_lattice_basis_reduction_algorithm)
 
 # Links 
-* [RedBlobGames](https://www.redblobgames.com) 
-
 * [[Algorithm Design by Kleinberg and Tardos]]
 * [[The Algorithm Design Manual by Skiena]]
 * [[Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein]]
