@@ -28,7 +28,7 @@
 * The value function in an MDP assuming the existence of a policy can be approximated in a variety of ways.
 	* Simulation (this is cubic time complexity)
 	* Analytical Derivation. 
-	* Using Dynamic Programming. 
+	* Using [[Dynamic Programming]]. 
 
 * A **Markov Reward Process** is a Markov decision process without actions. 
 # Markov Decision Process Control

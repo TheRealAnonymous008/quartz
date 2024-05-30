@@ -11,7 +11,6 @@
 * **[Luce's Choice Axiom](https://en.wikipedia.org/wiki/Luce%27s_choice_axiom)** states that the probability of selecting one item over another from a pool of many items is not affected by the presence of absence of other items in the pool.
 
 
-
 # Topics
 * [[Probability]]
 * [[Statistical Models]]

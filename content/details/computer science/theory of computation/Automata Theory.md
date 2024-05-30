@@ -27,3 +27,4 @@
 * [[Introduction to the Theory of Computation by Sipser]]
 
 * [[Linguistics]] - Automata Theory is connected to Linguistics.
+* [[String Algorithms]] - since Automata Theory is linked to Linguistics, algorithms that process strings are good to know.

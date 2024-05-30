@@ -113,21 +113,32 @@ $$
 \mathbb E[X] = \mathbb E[\mathbb E[X\mid Y]]
 $$
 * The following property applies to expectations. Let $P(x_1,\dots, x_n)$ be a joint distribution. We can write the expectation of $x$ sampled from this distribution as 
-
-$$
-\begin{split}
-\mathbb{E}[x] &= \sum_{x_1} \sum_{x_2} \dots \sum_{x_n} P(x_1,\dots x_n)  \ x \\
-&= \sum_{x_1} \dots \sum_{x_n} P(x_1) \ P(x_2\mid x_1) \dots P(x_n \mid x_1,\dots ,x_{n-1})  \ x \\ 
-&= \sum_{x_1} x \ P(x_1) \sum_{x_2} P(x_2\mid x_1) \dots \sum_{x_n} P(x_n\mid x_1,\dots,x_{n-1}) 
-\end{split}
-$$
-Observe we expanded the joint distribution according to the [[Probability|chain rule of probability]]. Then, we manipulated the internals sums by pushing them out.
-
-Remarkably, for a Markovian process, the expectation collapses simply as 
+  $$
+  \begin{split}
+  \mathbb{E}[x] &= \sum_{x_1} \sum_{x_2} \dots \sum_{x_n} P(x_1,\dots x_n)  \ x \\
+  &= \sum_{x_1} \dots \sum_{x_n} P(x_1) \ P(x_2\mid x_1) \dots P(x_n \mid x_1,\dots ,x_{n-1})  \ x \\ 
+  &= \sum_{x_1} x \ P(x_1) \sum_{x_2} P(x_2\mid x_1) \dots \sum_{x_n} P(x_n\mid x_1,\dots,x_{n-1}) 
+  \end{split}
+  $$
+  Observe we expanded the joint distribution according to the [[Probability|chain rule of probability]]. hen, we manipulated the internals sums by pushing them out. 
+  
+  Remarkably, for a Markovian process, the expectation collapses simply as 
 
 $$
 E[x] = \sum_{x_1} x P(x_1)
 $$
+* **Markov's Inequality** states the following:
+  
+  If $X$ is a nonnegative random variable and $a>0$, then 
+  
+  $$
+  P(X\ge a) \le \frac{\mathbb{E} [X]}{a}
+  $$
+  When $\mathbb{E}[X] >0$, we take $a=a' \cdot \mathbb{E}[X]$ for $a'>0$ to get 
+  
+  $$
+  P(X\ge a'\cdot \mathbb{E}[X]) \le \frac{1}{a}
+  $$
 
 # Misc
 * An **indicator random variable** denoted $\mathbb{1}_A(x)$ is defined as follows

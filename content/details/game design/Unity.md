@@ -64,7 +64,7 @@
 	* It can be burst compiled. 
 	* Compatible with both ECS and MonoBehaviour. 
 
-* **Collections** - a list of unmanaged [[Data structures]] 
+* **Collections** - a list of unmanaged [[Data Structures]] 
 	* Has some garbage collection capabilities but still requires memory management. 
 	* Has built-in safety checks (though there are unsafe variants that do not have these checks)
 

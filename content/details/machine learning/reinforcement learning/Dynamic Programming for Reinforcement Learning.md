@@ -1,5 +1,5 @@
 # Dynamic Programming
-* Generally Dynamic Programming methods follow the process of **bootstrapping** where they update estimates are based on other estimates.
+* Generally [[Dynamic Programming]] methods follow the process of **bootstrapping** where they update estimates are based on other estimates.
 * DP performs *expected updates* where the estimates are based on the complete distribution of successors.
 * *These methods assume perfect knowledge about the environment--particularly the states, their transitions and their rewards*. 
 # Bellman Equations

@@ -102,7 +102,9 @@
 
 # List of Topics
 * [[Sorting Algorithms]]
+* [[String Algorithms]]
 * [[Greedy Algorithm]]
+* [[Dynamic Programming]]
 
 
 * [[Algorithms in Games]]
@@ -118,3 +120,4 @@
 * [[Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein]]
 
 * [[Recurrence Relations]]
+* [[Data Structures]]

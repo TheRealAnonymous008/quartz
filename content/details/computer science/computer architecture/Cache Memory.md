@@ -1,4 +1,3 @@
-# What is the Cache?
 * A **cache** is used by the CPU to reduce the average cost of accessing data from the RAM.
 	* The cache is a smaller, faster memory located closer to the CPU which stores copies of commonly used memory addresses.
 	* Cache memory is a construct in the memory hierarchy that allows us to *exploit spatial and temporal locality* to boost the performance of our program.
@@ -79,7 +78,7 @@
 
 ### Set Associative 
 * Cache is divided into $n$ sets, each set contains $m$ cache lines. 
-* A memory block is then *mapped to a set and placed into any cache lines in the set. *
+* A memory block is then *[[Hashed Data Structure|mapped]] to a set and placed into any cache lines in the set. *
 * We can represent the associativity with an $n\times m$ matrix
 * We say a cache is **$n$-way set associative** if each set contains $n$ blocks.
 
@@ -128,3 +127,6 @@
 #### No-Write Allocate
 * Data at the missed location is not loaded into the cache. 
 * *Directly write into the backing store.*
+
+# Links
+* [[Data Structures]] - for more information on hashing.

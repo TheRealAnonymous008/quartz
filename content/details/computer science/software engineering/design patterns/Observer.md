@@ -18,7 +18,7 @@
 
 # Implementation
 ## Subject-Observer Mapping
-* Use associative look up (Hash tables) if space is an issue
+* Use associative look up ([[Hashed Data Structure|Hash tables]] tables) if space is an issue
 * Store references to observers in the subject if time is an issue
 
 ## Multiple subjects

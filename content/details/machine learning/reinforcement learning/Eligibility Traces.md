@@ -51,12 +51,10 @@ z_t &= \gamma \ \lambda z_{t-1} + \nabla \hat{q}(S_t,A_t, w_t) \ \ \ 0\le t\le T
 $$
 
 * The **general accumulating trace update for state values** is of the form
-
-$$
-z_t = \rho_t (\gamma_t\lambda_t z_{t+1} + \nabla \hat{v} (S_t, w_t))
-$$
-
-Where $\rho_t$ is the importance sampling ratio and we assume varying trace decay $\lambda_t$ and discounting rate $\gamma_t$
+  $$
+  z_t = \rho_t (\gamma_t\lambda_t z_{t+1} + \nabla \hat{v} (S_t, w_t))
+  $$
+  Where $\rho_t$ is the importance sampling ratio and we assume varying trace decay $\lambda_t$ and discounting rate $\gamma_t$
 
 * The **general accumulating trace update for action values** is of the form 
 

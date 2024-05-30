@@ -81,7 +81,7 @@
 * Generalization occurs to states other than the one trained if those states fall within any of the same tiles,
 * Prefer asymmetrical offsets for better generalization. *Intuition, irregular offsets = irregular overlap*.
 * *Denser tilings = more importance given during generalization*.
-* We may use *hashing* to reduce memory requirements -- each bin in the hash set corresponds to a tile.
+* We may use *[[Hashed Data Structure|hashing]]* to reduce memory requirements -- each bin in the hash set corresponds to a tile.
 
 [^1]: Convergence is guaranteed because $A$ is positive definite and so the inverse exists. See [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto 9.12]]. 
 

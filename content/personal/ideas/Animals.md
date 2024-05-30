@@ -8,5 +8,7 @@
 	* They have complex mating rituals and social networks. 
 	* They can recognize other pigeons, although the essential feature is the beak. They ignore the actual anatomy of a pigeon so even if the body parts are jumbled up, they will recognize it as a pigeon.
 	* They can be trained for pattern recognition tasks. 
+
+* Aphid colonies mostly consist of asexually-produced clone sisters which are easily replaced. The aphids on the edge of a cluster will sit there and allow predators to pick them off without resistance, essentially serving as living shields for their siblings at the center of the colony.
 # Links 
 * [zefrank](https://www.youtube.com/@zefrank) - has a fantastic series of videos about specific animals delivered in both educational and entertaining fashion. 

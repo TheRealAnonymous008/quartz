@@ -97,7 +97,7 @@
 # Facial Expressions 
 
 # Links 
-* [Piexl Art - Introduction to Portraits](https://www.youtube.com/watch?v=3PQdx3o7gJA)
+* [Pixel Art - Introduction to Portraits](https://www.youtube.com/watch?v=3PQdx3o7gJA)
 * [[Anatomy for Sculptors -- Understanding the Human Form by Zarins and Kondrats]]
 
 * [[Anatomical Drawing -- Hair]]
