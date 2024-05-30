@@ -1,1 +1,1 @@
-npx quartz sync --commit
+npx quartz sync --commit --push

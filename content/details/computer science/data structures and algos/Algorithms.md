@@ -1,5 +1,6 @@
 # Analysis
 * For algorithms, the input size is usually defined as the amount of [[Information Theory|information]] (i.e. bits) needed to represent the provided inputs in a manner sufficient of the problem. 
+* *To simplify analysis, we typically use [[Models of Computation]].*
 * We can define an order of growth function for the running time $T(n)$ of an algorithm which gives a simple characterization of the algorithm's efficiency and allows for comparing with other algorithms. This function is dependent on input size.
 * When we are only concerned with the order of growth at large input, we are studying the **asymptotic efficiency**.  [^asymptotic_1] [^asymptotic_2] [^asymptotic_3]
 	* For a given function $g(n)$, the **asymptotic tight bound** denoted $\Theta(g(n))$  is defined as

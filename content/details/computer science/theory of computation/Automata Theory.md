@@ -1,4 +1,4 @@
-* We develop different models of computation and study what classes of problems they can compute through Formal Languages.
+* We develop different [[Models of Computation]] and study what classes of problems they can compute through Formal Languages.
 # Definitions
 * A **string** is a finite sequence of symbols in an **alphabet** $\Sigma$. 
 	* The reverse of a string is defined as $\omega^R$.
