@@ -1,5 +1,6 @@
 # Definitions
 * A subset of $E$ is an **independent set** if it is contained in some basis of the matroid. 
+	* An **extension** of an independent set $A$ is an element $x\notin A$ such that $A\cup\{x\}$ is an independent set. 
 * The **basis** is a maximal independent set. That is, no proper subset of the basis is contained in any other basis of $M$.
 
 * A subset of $E$ is defined as a **dependent set** if it is not an independent set
@@ -31,6 +32,16 @@
   r(\{e,f\}) = 1
   $$
   and they are not loops.  
+
+* A matroid $M=(E,\mathcal{I})$ is **weighted** if it is associated with a weight function $w$ that assigns weights $w$ to each element $x\in S$ such that 
+  
+  $$
+  \begin{split}
+  w(x) &>0  \\ 
+  w(A) &= \sum_{x\in A} w(x) & \text{ where } A\subseteq E
+  \end{split}
+  $$
+
 
 # Matroid Definitions
 * **Basis Definition**: A matroid $M$ consists of a non-empty finite set $E$ and a non-empty collection $\mathcal B$ of subsets of $E$ called the bases satisfying the following properties. 
@@ -70,6 +81,8 @@
   $$
   kr(A)\ge |A|
   $$
+
+* (*CLRS Lemma 16.8*) Let $M=(E,\mathcal{I})$ be a matroid. If $x\in E$ is an extension of independent set $A\subseteq E$, then $x$ is also an extension of $\emptyset$. 
 
 # Links 
 * [[Introduction To Graph Theory by Wilson]]

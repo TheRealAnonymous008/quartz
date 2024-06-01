@@ -313,10 +313,114 @@
 		  k^\ast = \frac{u_m}{u^\ast}
 		  $$
 	* Another approach to scheduling is *to properly quote our due dates*. The difficulty in this solution lies in accounting for manufacturing and personnel. 
+
+## Aggregate Planning
+* The goal is to decide what the plant will produce. This decision affects other aspects such as staffing, supply, and marketing.
+* The model depends on the business needs.
+* One important input is the forecasted demand.
+
+* A simple model involves solving the following. 
+  
+  Let 
+  $r$ - be the profit per unit product sold
+  $X_t$ be the quantity produced during period $t$ assumed available to satisfy demand
+  $S_t$ be the quantity sold. Unsold units are assumed available still 
+  $I_t$ be the inventory.
+  
+  We optimize the following
+  
+  $$
+  \begin{split}
+  \sum_{t=1}^{\hat{t}} rS_t - hI_t \\
+  
+  \text{subject to} \\
+  S_t &\le d_t\\
+  X_t &\le c_t \\
+  I_t &= I_{t-1} + X_t -S_t \\
+  X_t,S_t , I_t &\ge 0
+  \end{split}
+  $$
+
+* An extension of the simple model considers *multiple product mix*'
+  
+  Denote $a_{ij}$ the time for the $j$-th workstation to produce one unit of product $i$.
+  
+  $a_{ij}$ - the time required on workstation $j$ to produce one unit of product $i$.
+  $c_j$ be the capacity of the workstation
+  $r_i$ the net profit of product $i$
+  
+  $\overline{d}_{it}$  - the maximum demand for product $i$.
+  $\underline{d}_{it}$ - the minimum demand for product $i$ 
+  
+  We optimize the following 
+  
+    $$
+  \begin{split}
+  \sum_{t=1}^{\hat{t}} \sum_{i=1}^m r_iS_{it} - hI_{it} \\
+  
+  \text{subject to} \\
+  \underline{d}_{it} \le S_{it} &\le \overline{d}_t\\
+  \sum_{i=1}^ma_{ij} X_{it} &\le c_{jt} \\
+  I_{it} &= I_{it-1} + X_{it} -S_{it} \\
+  X_{it},S_{it}, I_{it} &\ge 0
+  \end{split}
+  $$
+	*  We can extract the following from the more comprehensive model
+		* The *demand feasibility* determines whether a set of demands is capacity feasible (i.e., if $S_{it}\le \overline{d}_{it}$ is tight)
+		* The *bottleneck locations* are determined using the second constraint above. If a workstation limits capacity at certain periods, it becomes a bottleneck.
+		* The *product mix* is determined by balancing capacity with the ability to meet demand, and the ability to turn a profit.
+	* The model can be extended in a variety of ways. 
+		* Use **resource constraints**
+		  
+		  Let 
+		  $b_{ij}$ be the number of resource $j$ per product $i$
+		  $k_{jt}$ be the number of units of resource $j$ available in period $t$
+		  $x_{it}$ be the amount of product $i$ produced in period $t$
+		  
+		  We have
+		  $$
+		  \sum_{i=1}^m b_{ij} X_{it}\le k_{jt}
+		  $$
+		* Use **utilization matching**. This addresses two issues - the low granularity of an aggregate planning module, and incorporating other production control decisions to aggregate planning.
+		  
+		  If experience dictates, it is reasonable to run $q$ percent of full capacity, then we replace the second constraint with 
+		  
+		  $$
+		  \sum_{i=1}^ma_{ij} X_{it} \le qc_{jt}
+		  $$
+		* Incorporate **Backorders** by removing the implicit assumption that inventory remains positive at all times. 
+		  
+		  We do this by maximizing the new objective
+		  $$
+		  \sum_{t=1}^i r_i S_{it} - h_i I_{it}^+ - \pi _{it}^-
+		  $$  
+		  
+		  adding the constraint 
+		  $$
+		  \begin{split}
+		  I_{it} &= I_{it}^+-I_{it}^- \\
+		  I_{it}^+ , I_{it}^- & \ge 0
+		  \end{split}
+		  $$
+		  Where 
+		  $I_{it}^+$ represents the inventory carried over from period $t$ to $t+1$ for product $i$
+		  $I_{it}^-$ represents the number of backorders carried from $t$ to $t+1$. 
+		  $\pi_{it}^-$ represents  the penalty of carrying one unit of product $i$ on backorder for one period of time
+		  
+		  Here we refer to $I_{it}$ as the inventory position. 
+			* Typically $\pi_i$ is adjusted relative to $h_i$ depending on what is needed.
+			* High $\pi_i$ values tend to force the model to build inventory
+			* Low $\pi_i$ tends to allow the model to be late in satisfying some demands. 
+## Workforce Planning
+* This encompasses both high-level planning (how many to hire, how to train them) and low-level planning (when to hire / fire, when to schedule training).
+* Low-level planning is based on the aggregate plan.
+
+
 # Links
 * [[Factory Physics by Hopp and Spearman|Hopp and Spearman]]
 	* Ch. 13 - discussion on planning frameworks
 	* Ch. 15 - scheduling frameworks. Derivations for optimal batch sizes are found in this chapter.
+	* Ch. 16 - aggregate and workforce planning
 * [[Fundamental Objects in Factory Physics]]
 * [[Factory Dynamics]]
 * [[Factory Variability]]

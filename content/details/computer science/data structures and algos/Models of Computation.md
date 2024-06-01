@@ -30,7 +30,7 @@
   
   Algorithmic complexity is estimated as either regular time taken or time taken multiplied by processor number.
 	* There are variants based on how to resolve read and write conflicts. 
-		* **EREW  (Exclusive Read ExclusiveWrite** - every memory cell can be read or written to by only one processor at a time
+		* **EREW  (Exclusive Read Exclusive Write** - every memory cell can be read or written to by only one processor at a time
 		* **CREW (Concurrent Read Exclusive Write** - multiple processors can read a memory cell, but only one can write at a time.
 		* **ERCW (Exclusive Read Concurrent Write** - multiple processors can write but only one can read. Typically does not add power. 
 		* **CRCW (Concurrent Read, Concurrent Write** - multiple processors can read and write. 

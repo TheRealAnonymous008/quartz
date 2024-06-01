@@ -68,5 +68,9 @@ A listing of common and interesting trade-offs that are noticeable in a variety 
 * The classic tradeoff of "High risk High reward'
 * Can be subverted (i.e., high risk low reward) but more often than not prevalent in a lot of scenarios. 
 
+### Space vs Time Tradeoff
+* This tradeoff applies to computation. On one hand, we can apply the computation as normal, which takes time.
+* On the other time, we can reduce computation time if we memorize the answers at the cost of space.
+
 ## [[Inventory Management and Control|Inventory Tradeoffs]]
 
