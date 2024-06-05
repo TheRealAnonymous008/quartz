@@ -1,6 +1,28 @@
-* *Humans are limitless in their capacity for development. Thus, people should embrace all knowledge and develop their capacities as fully as possible *
+* *Humans are limitless in their capacity for development. Thus, people should embrace all knowledge and develop their capacities as fully as possible*
 
-* Although creative products, such as a painting, a mathematical model or a poem, can be domain-specific, at the level of the creative process, the mental tools that lead to the generation of creative ideas are the same
+* Although creative products, such as a painting, a mathematical model or a poem, can be domain-specific, at the level of the creative process, the [[Faculties of the Mind|mental]] tools that lead to the generation of creative ideas are the same
+
+* [Why Even Learn Things Anymore? ](https://www.youtube.com/watch?v=qqijEATGnlA) - humans learn out of an innate curiosity, regardless of what happens to society. There is a satisfaction in seeing how everything is interconnected.
+
+# About Learning
+* There are many kinds of learning -- some do not require conscious effort. 
+* *Humans and other animals adapt well because they are predisposed to learn*, and because they respond particularly strongly to certain types of events: 
+	* **Contingencies** - what goes together with what
+	* **Discrepancies** - differences from the norm.
+* Older people are better at new learning when they already have relevant stored knowledge and are therefore noticing and adjusting to discrepancies, but they are worse at learning something completely new.
+
+* There are many kinds of learning
+	* **Association** involves the use of conditioning
+		* **Classical Conditioning (Pavlov)** - learning takes place when a previously neutral stimulus is associated with an unconditional stimulus (something a person naturally responds to). 
+		* **Instrumental Conditioning (Skinner)** - if an action is followed by a pleasant effect (reinforcement) it will be repeated. 
+			* To be effective, the reward should be given intermittently and at appropriate times.
+			* Punishment is not often easy to deliver immediately, conveys little information and may be unintentionally rewarding
+		* *New associations can be made in one-shot*
+	* **Complex Learning** uses other cognitive processes as well as those involve in associative learning.
+		* **Observational Learning** - learning from what is seen in the world.
+		* **Latent Learning** - learning from using prior knowledge to a novel experience
+		* **Insight Learning** - the ability to draw on what is already represented in the mind. 
+
 
 # Bernstein's Typology of Creative Life Stages 
 * The specialist has depth of knowledge but lacks breadth of knowledge 
@@ -38,3 +60,4 @@
 * [Principles of Learning](https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=163&printable=1)
 
 * [[Psychology]]
+* [[Psychology -- A Very Short Introduction by Butler and McManus]] - Ch. 3

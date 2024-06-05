@@ -1,5 +1,6 @@
 # Themes
 * *Stick to one theme. Too many themes means you end up saying nothing. One theme means your audience has room for interpretation.* 
+* *The theme is not the message*. A work can explore a theme deeply without having an explicit message and still be profound. The message imparts an idea into the audience.
 
 * Story is an instrument by which you unite ideas and emotions--where you create epiphanies for the audiences at will through **aesthetic emotion**. *Stories combine ideas with emotion to give an immediate meaningful emotional experience*. 
 	* In contrast to everyday experiences where meaning is arrived at through introspection
@@ -17,6 +18,8 @@
 	* **Ironic** - expresses the dual nature of existence -- simultaneously positive and negative, merging idealism with pessimism.
 		* Irony is the truest to reality, and it is also the most difficult to write, requiring dee  wisdom.
 		* It requires a climax that makes both a positive and negative statement, said clearly and unambiguously, and said so that the positives and negatives don't cancel each other out.
+
+
 # A Compelling Idea 
 * **Irony** makes the theme compelling. [[Plot Structure|Irony makes for a good hook as it shows]] [[details/narrative/plot/Story by Robert McKee|the duality of life]] [^1]
 * A good log line makes [[Plot#Sanderson's Approach|a promise]]. 

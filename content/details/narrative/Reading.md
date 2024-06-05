@@ -34,7 +34,7 @@
 	* Keep in mind the aim of the opinion piece. Remember, that the author's subjective opinions are on display. 
 	* Consider the author's central proposition or **claim**. 
 		* **Claims of fact** - are those verifiable through factual evidence or scientific research.
-		* **Claims of value** - involve matters of taste, morality, and opinion supported through reasoning.
+		* **Claims of value** - involve matters of taste, [[morality]], and opinion supported through reasoning.
 		* **Claims of policy** - argues for a recommended policy (what "should" be done).
 	* Consider the **evidence** used to support the claim. These include facts and statistics, examples and observations, reasoning, and testimony from experts.
 	* Look for a **refutation** where the author deals with the opposing side, often giving a counterargument. *Good authors consider the other side of the argument and offer a rebuttal*

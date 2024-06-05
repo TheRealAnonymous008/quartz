@@ -30,7 +30,7 @@
 	* The main driver for lead time is the cycle time, so reducing cycle time also helps reduce lead time. 
 
 
-* Improving a manufacturing system is not simply a matter of removing constraints. There is also a [[Management and Group Dynamics|people aspect]] to consider.
+* Improving a manufacturing system is not simply a matter of removing constraints. There is also a [[Management|people aspect]] to consider.
 
 # Planning Framework
 * Problems at different levels of the organization require different levels of detail, modeling assumptions and planning frequency

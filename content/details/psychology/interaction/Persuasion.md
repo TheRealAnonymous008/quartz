@@ -76,7 +76,7 @@
 
 [^socproof_1]: A good example of this is the Bystander Effect. No one acts because of uncertainty about whether they should intervene, and because no one seems to be intervening, no one actually intervenes. 
 [^socproof_2]: A good way to counteract this then is to dispel the uncertainty yourself. Point at someone in the crowd and ask them specifically for help. Then, with the uncertainty is dispelled, people will follow suit. 
-[^socproof_3]: [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]] gives another example of this -- the [[Psychology|Wether effect]] and copycat suicides.  Imitation is key. This even extends to copycat acts of violence.
+[^socproof_3]: [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]] gives another example of this -- the [[Social Psychology|Wether effect]] and copycat suicides.  Imitation is key. This even extends to copycat acts of violence.
 
 * Normally this works well because we will make fewer mistakes by acting according to social evidence. The heuristic that the way most people do it is right is indeed right. 
 

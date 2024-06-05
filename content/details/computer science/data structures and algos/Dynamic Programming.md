@@ -18,6 +18,8 @@
 	* Compute the value of an optimal solution, typically in bottom up fashion.
 	* Construct an optimal solution from computed information. 
 
+* *Dynamic Programming is less about building giant tabulations, and more about doing recurrences smartly*. 
+
 # Performance
 * Dynamic Programming prevents us from efficiently redoing work for subproblems that have already been computed.  
 	* One approach is through **memoization** or caching all computed solutions to subproblems. *This imposes a [[Trade Offs#Space vs Time Tradeoff|space time tradeoff]]* 

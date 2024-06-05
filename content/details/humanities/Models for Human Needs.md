@@ -1,6 +1,6 @@
 # Maslow's Hierarchy
 * Lower needs are prioritized over higher needss.
-* **Self-Actualization** - morality, creativity, spontaneity, acceptance, purpose and meaning. 
+* **Self-Actualization** - [[morality]], [[creativity]], spontaneity, acceptance, purpose and meaning. 
 * **Self-Esteem** - confidence, achievement, respect of others, the need to  be a unique individual
 * **Love and Belonging** - friendship, family, intimacy, sense of connection. 
 * **Safety and Security** - health, employment, property, family, social stability.

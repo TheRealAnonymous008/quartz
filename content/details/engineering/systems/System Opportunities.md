@@ -58,9 +58,12 @@
 	* Understanding the behavior of the system lets you focus on the facts rather than theories or personal biases. 
 * *Expose your mental models to the light of day* - redraw your boundaries for the system. Understand when a paradigm shift or a restructuring is necessary. [[Bayesian Statistics|Update your models accordingly]] based on evidence. [[Science|Experiment]].
 * *Honor, Respect, and Distribute Information* - modifying a system's information flows change it significantly. Information is power. 
-* *Use language with care and enrich it with systems concepts* - [[Linguistics|Language]] is the way in which we conceptualize the world. Expanding our language also [[Psychology|expands our models]].
+* *Use language with care and enrich it with systems concepts* - [[Linguistics|Language]] is the way in which we conceptualize the world. Expanding our language also [[Faculties of the Mind|expands our models]]. [^lang]
 	* Keep language as meaningful, concrete, and truthful as possible. 
 	* Enlarge language to make it consistent with an enlarged understanding of the systems. 
+
+[^lang]: See the Theory of Linguistic relativity.
+
 * *Pay attention to what is important, not just what is quantifiable* - Pretending that something doesn’t exist if it’s hard to quantify leads to faulty models.
 * *Make feedback policies for feedback systems* - a dynamic system cannot be governed by a static policy. Design flexible policies that change depending on the system [^1]
 * *Go for the good of the whole* [^2]  . Do not lower the standard of "good"

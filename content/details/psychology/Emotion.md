@@ -1,3 +1,17 @@
+* *Emotions reflect the feelings we experience when we have succeeded or failed in meeting our goals*.
+* There are five components to emotion
+	* Physiological
+	* Expressive
+	* Behavioral
+	* Cognitive
+	* Experiential
+* A much greater variety of emotions can be identified at the experiential rather than the physiological or expressive levels. 
+
+* The **James-Lange Theory of Emotion** suggests that *changes in bodily responses are necessary for emotional experience*.
+* **Cognitive Labelling Theory** suggests that *emotional experience us determined by a combination of physiological arousal and the labelling* or interpretation of the sensations experienced during that arousal.  
+
+
+# Listing
 * **Acceptance** - Letting go willfully, making peace with change to obtain balance and understanding 
 * **Admiration** - a feeling of warm approval and appreciation 
 * **Adoration** - the act of worship, to view something or someone as divine

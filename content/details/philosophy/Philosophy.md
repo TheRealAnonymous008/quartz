@@ -11,6 +11,7 @@
 
 * [[Epistemology]]
 * [[Free Will]]
+* [[Morality]]
 * [[Philosophy of the Mind]]
 * [[Religion and Mysticism]]
 * [[Stoicism]]

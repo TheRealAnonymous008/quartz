@@ -15,7 +15,7 @@
 	* Therefore, there is very weak feedback from the condition of the resource to the decisions of the resource users. The consequence is overuse of the resource until it become unavailable to anyone. 
 	* It arises from *missing or extremely delayed feedback* from the resource to the growth of the users of that resource. Bounded rationality then dictates that users shouldn't limit themselves. 
 	* Remedies: 
-		* *Educate and exhort*. Appeal to morality. Help people see the consequences of unrestrained use of the commons. 
+		* *Educate and exhort*. Appeal to [[morality]]. Help people see the consequences of unrestrained use of the commons. 
 			* It keeps use of the commons low enough that the resource is no longer threatened
 			* Less reliable since individuals can simply not align themselves with these morals. 
 		* *Privatize the commons*. Divide it up so each person reaps the consequences of their actions.  Privatization means that the only person a user can harm from their overuse is themselves. 

@@ -24,4 +24,4 @@
 * [[Factory Physics by Hopp and Spearman|Hopp and Spearman]]
 
 * [[Manufacturing]]
-* [[Management and Group Dynamics]]
+* [[Management]]

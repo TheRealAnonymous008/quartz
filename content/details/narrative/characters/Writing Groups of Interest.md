@@ -12,7 +12,7 @@
 		* What is the leadership like for the organization? 
 		* Where is the organization based? Keep in  mind, large organizations are [[Network Science|harder]] to destroy. 
 		* How does the organization maintain operations -- logistics, supply, funding, maintenance? 
-* Keep in mind how ranking works.   [[Management and Group Dynamics]] principles apply here.
+* Keep in mind how ranking works.   [[Management]] principles apply here.
 	* Knowledge of organization secrets are usually given on a need-to-know basis rather than based on rank. 
 * [[The 48 Laws of Power]] apply, especially with regards to internal power struggles. 
 * Covert operations should be covert. They should not be flaunting their operations around in public. 

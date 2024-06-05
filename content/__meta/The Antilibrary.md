@@ -1,5 +1,4 @@
 # Future Readings
-* [A Typology of Imperative Game Goals](https://gamestudies.org/2003/articles/debus_zagal_cardonarivera)
 * [Alex Sludd](https://alexsludds.github.io) - includes Silicon Photonics, running Neural Networks through light meshes.
 * [Blit](https://en.wikipedia.org/wiki/BLIT_(short_story)) - an interesting premise for a story. Will have to check it and relate it to Infohazards.
 
@@ -28,6 +27,8 @@
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 * Forecasting -- specifically [[Time Series Analysis]].
 
+# Bookmarks
+* [[Factory Physics]] - Workforce Planning.
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 

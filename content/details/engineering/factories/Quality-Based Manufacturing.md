@@ -11,7 +11,7 @@
 * *Internal Quality is inherently tied to External Quality*. 
 	* Fewer errors in the plant mean fewer defects that reach the customer. 
 	* Lower inspection standards equates to more defects.
-	* An organization that has [[Management and Group Dynamics|fostered]] the right attitudes and tools inside the plant is likely to be able to do the same outside the plant. 
+	* An organization that has [[Management|fostered]] the right attitudes and tools inside the plant is likely to be able to do the same outside the plant. 
 
 
 * **Statistical Quality Control (SQC)** focuses on quality in quantitative terms (i.e., based on compliance with specifications). It focuses on manufacturing quality

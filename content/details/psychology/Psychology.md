@@ -1,21 +1,21 @@
-* **Rumpelstiltskin Principle** -  one you can [[Naming Things|name]] something, you have power of it. By giving names to our terminologies, we can start to reason and talk about them better.
+* The science of mental life. It is about the ways in which organisms use their mental abilities or minds to operate in the world around them.
+* The main branches of Psychology are as follows
+	* **[[Abnormal Psychology|Abnormal]]** - deals with psychological dysfunctions
+	* **Behavioral** - behavior, learning and collection of observable data.
+	* **Biological** - psychology of different [[Biology|species]], inheritance patterns, and determinants of behavior
+	* **Cognitive** - deals with cognition -- how information is processed and used.
+	* **[[Developmental Psychology|Development]]** - how organisms change
+	* **[[Differential Psychology|Differential]]** - studies large groups of people to identify typical variations.
+	* **Physiological** - mutual influences between physiological state and psychology.
+	* **[[Social Psychology]]** - study of social behavior.
 
-* [The Werther Effect](https://en.wikipedia.org/wiki/Copycat_suicide) - a spike in copycat suicides after a widely publicized suicide. The copycats have similar demographics to the publicized person, and so more of these tend to get reported. 
-	* It is effectively an [[Information Hazards]].
-	* A manifestation of this -- there is a correlation between when a suicide's publication and the number of fatal accidents (i.e., the drivers were copycats)
-
-* [Pain is a mysterious thing. Part of it is an objective response that reinforces or alters our behaviors; Part of it is an emotion that is based on our own experiences and expectations.](https://www.youtube.com/watch?v=hax2be-DlhY) 
-
-* **Depersonalization-derealization disorder** occurs when you always or often feel that you're seeing yourself from outside your body or you sense that things around you are not real — or both. You may feel like you're living in a dream.
 # Topics
 * [[Human Biases]]
-* [[Thinking Fast And Slow]]
-* [[Archetypes ]]
+* [[Faculties of the Mind]]
 * [[Behavioral Economics]]
-* [[Emotion]]
-
-* [Delusions Of The Mind - 3 Terrifying Mental Syndromes](https://www.youtube.com/watch?v=qFUKkWU4nlQ)
-
-
 * [[Persuasion]]
-* [[Personality]]
+* [[Archetypes ]]
+
+* [[Psychology -- A Very Short Introduction by Butler and McManus]]
+
+

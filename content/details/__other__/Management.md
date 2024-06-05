@@ -33,4 +33,4 @@
 [^indiv]: One good example of how this is applied is the **bucket brigade system** where workers carry a task downstream until preempted by a downstream worker. This naturally balances work. 
 # Links
 * [[The 48 Laws of Power]]
-* [[Psychology]]
+* [[Social Psychology]]

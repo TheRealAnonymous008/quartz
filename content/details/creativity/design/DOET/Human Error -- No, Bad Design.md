@@ -1,5 +1,5 @@
 * Physical limitations are well understood by designers; mental limitations are greatly misunderstood. We should treat all failures in the same way: *find the fundamental causes and redesign the system so that these can no longer lead to problems.*
-* All humans are prone to error. *When people err, change the system so that the type of error is reduced or eliminated*.
+* All humans are prone to [[Faculties of the Mind#Reasoning|error]]. *When people err, change the system so that the type of error is reduced or eliminated*.
 * It is not possible to eliminate human error if it is thought of as a personal failure rather than a symptom of poor design.
 	* The natural tendency to blame someone for an error is even shared by those who made the error.
 	* We can't fix problems unless people admit they exist. Thus, blame is unproductive since it focuses the cause of the error on the human rather than the design.

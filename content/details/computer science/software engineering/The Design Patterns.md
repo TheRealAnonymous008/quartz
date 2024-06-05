@@ -1,5 +1,5 @@
 * 23 Patterns commonly seen in [[Object Oriented Programming]] Contexts
-* [[Psychology|Rumpelstiltskin principle applies]]. Giving words to these patterns allows us to talk about them better. 
+* [[Faculties of the Mind|Rumpelstiltskin principle applies]]. Giving words to these patterns allows us to talk about them better. 
 
 # Topics
 ## Creational Patterns

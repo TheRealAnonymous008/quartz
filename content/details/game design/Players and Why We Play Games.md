@@ -141,3 +141,5 @@
 # Links 
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
 * [[The Art of Game Design -- A Book of Lenses by Schell|Schell]]
+* [[Faculties of the Mind#Motivation|Faculties of the Mind]]. - our reason for playing is inherently tied to motive.
+* [A Typology of Imperative Game Goals](https://gamestudies.org/2003/articles/debus_zagal_cardonarivera)
