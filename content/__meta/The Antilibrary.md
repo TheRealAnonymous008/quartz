@@ -26,13 +26,13 @@
 * [Socionics](https://en.wikipedia.org/wiki/Socionics)
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 * Forecasting -- specifically [[Time Series Analysis]].
+* Abnormal Psychology. 
 
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 
-* [The Library of Babel Website](https://libraryofbabel.info) - for funsies
 
 # General Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 
@@ -42,4 +42,7 @@
 * [The Stacks Project](https://stacks.math.columbia.edu) - an open source resource for Algebraic Geometry.
 * [Nlab](https://ncatlab.org/nlab/show/HomePage) - wiki on mathematics, physics, and philosophy (from a pure math perspective)
 * [IQuiLezles](https://iquilezles.org/) - math, art and computer graphics
-* [Math3ma](https://www.math3ma.com) - math 
+* [Math3ma](https://www.math3ma.com) - math
+
+# Curios
+* [The Library of Babel Website](https://libraryofbabel.info) 

@@ -12,6 +12,9 @@
 * There are two camps when it comes to games. In some sense both are right because at the end of the day, a game is about creating an experience. 
 	* **Narratologists** - story precedes gameplay 
 	* **Ludologists** - gameplay precedes story.
+* There are also differing perspectives about whether or not games are objects or processes.
+	* *Games are objects* because they have constituent parts.
+	* *Games are processes* because they can only happen with a player. 
 
 * [For interactive games, design the player characters not based on what they can do, but how they will be used](https://www.youtube.com/watch?v=7EpgjR-k3fE)
 * Design for player experience not realism. 

@@ -2,6 +2,9 @@
 	* The intuition is as follows: We can frame sorting as a search operation applied on a list of [[Permutations and Orbits|permutations]]. There are $n!$ permutations for a list of $n$ elements and the best we can do is binary search which will take $\log(n!)$ time.
 	  
 	  Stirling's approximation then gives that $\log(n!)\approx n\log n + n + O(\log n)$.   
+
+
+
 # Links
 * [[Algorithms]]
 

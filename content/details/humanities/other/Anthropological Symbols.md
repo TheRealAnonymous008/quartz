@@ -185,7 +185,7 @@
 	* The *Crown* symbolizes sovereignty by adorning the noblest part of the body -- the head. 
 	* The *Scepter* is the phallic counterpart to the Orb.
 
-	* The *Prince* is seen as the hero embodying courage and [[morality]].
+	* The *Prince* is seen as the hero embodying courage and [[Morality]].
 	* The *Princess* is seen as embodying the highest good and beauty.
 	* The *Knight* denotes the superior human who maintains order in the kingdom. Duty-bound and Noble.
 	* The *Jester* is the simpleton but also the wisest member of the court. The Fool represents innocence.

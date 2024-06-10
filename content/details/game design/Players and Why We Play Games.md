@@ -138,8 +138,25 @@
 
 * **Spectation** - games provide good social connection simply by watching people playing.
 
+# Debus, Zagal, and Cardona-Rivera's Typology
+* Taken from  [A Typology of Imperative Game Goals by Debus, Zagal, and Cardona-Rivera](https://gamestudies.org/2003/articles/debus_zagal_cardonarivera)
+
+* A game’s goals can get complicated when we consider that most games include a network of nested and inter-related goals
+* Goals can be one of many imperatives which determine the nature of the mechanics of the game. 
+	* It is through a game’s imperatives that we can connect gameplay to a game’s ultimate goal. However, there is rarely a single imperative that accounts for the entirety of a game’s gameplay.
+	* We generally see a multitude of imperatives that are inter-related and connected, often in a hierarchical structure to each other from abstract to concrete. *Higher level goals dictate an approach that necessitates meeting lower level goals*
+
+* **Choose** - make a decision in a given task from limited options. Often, but not necessarily, one of the options is the “correct” one.
+* **Configure** - manipulate game objects such that they are in an acceptable (winning) state or configuration.
+* **Create** - bring something into existence which was not present before. This includes performing transactions, crafting, building, or even narrative.
+* **Find** - identify or locate something in a game. 
+* **Obtain** - the need to gain control or ownership over something (territory or items.)
+* **Optimize** - maximize or minimize a resource, score or amount. In this imperative, there is some notion of resource.
+* **Reach** - the player must act such that the character reaches a certain spatial location in the game world, either through direct or indirect control.
+* **Remove** - remove an object (items or players) from the game world. 
+* **Solve** - provide an answer, often implied to be the correct answer
+* **Synchronize** - perform an action synchronous to an in-game event (i.e., press a button on time)
 # Links 
 * [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman]]
 * [[The Art of Game Design -- A Book of Lenses by Schell|Schell]]
 * [[Faculties of the Mind#Motivation|Faculties of the Mind]]. - our reason for playing is inherently tied to motive.
-* [A Typology of Imperative Game Goals](https://gamestudies.org/2003/articles/debus_zagal_cardonarivera)

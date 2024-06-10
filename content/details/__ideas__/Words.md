@@ -25,6 +25,7 @@
 * **Ennui** - a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.
 * **Entropy** - a measure of randomness or disorder within a system.
 
+* **Finifugality** - to hate endings
 * **Fractal** - a never ending pattern.
 
 * **Gestalt** - an organized whole that is perceived as more than the sum of its parts.

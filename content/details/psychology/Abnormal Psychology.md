@@ -17,24 +17,10 @@
 # Classification of Abnormal Behaviors
 * When using diagnostic labels it is important to *avoid [[False Priors and Extension Neglect|stereotyping]]*. The danger is that once people are given a label, they may be seen as identical to other people with the same label when in fact the differences are as marked as the similarities
 
-| Category                          | Characterization |
-| --------------------------------- | ---------------- |
-| Schizophrenic / Psychotic         |                  |
-| Anxiety Disorder                  |                  |
-| Mood Disorder                     |                  |
-| Somatoform Disorder               |                  |
-| Dissociative Disorder             |                  |
-| Sexual / Gender Identity Disorder |                  |
-| Eating Disorder                   |                  |
-| Sleep Disorder                    |                  |
-| Impulse Control Disorders         |                  |
-| Personality Disorders             |                  |
-| Substance Related Disorders       |                  |
-
 # Treatments
 * The **Medical Model** suggests that abnormal behavior is a result of physical or mental illness caused by genetic, biochemical or physical dysfunction in the body or brain.  Thus we treat the abnormal behavior by treating the underlying illness.
 * The **Psychodynamic Approach** suggests that abnormalities arise from defense mechanisms. Treatment focuses on early life experiences and involves revealing the patient's unconscious motives and resolving original conflicts
-* **Humanistic Psychotherapy** focuses on the present and views the patient as being in the best position to understand their problems .Therapists adopt an attitude of unconditional positive regard -- being genuinely non-judgemental and emphatic. 
+* **Humanistic Psychotherapy** focuses on the present and views the patient as being in the best position to understand their problems .Therapists adopt an attitude of unconditional positive regard -- being genuinely non-judgmental and emphatic. 
 * **Purely Behavioral Approaches** focus on how abnormal behavioral patterns can be learnt, and thus unlearnt. 
 * **Cognitive Behavioral Approaches** take into account patient history, current pattern of behavior, experimental research and [[Faculties of the Mind|cognition]], Patients are encouraged to examine  the cognitive processes by which they arrive at a particular state of mind. 
 
