@@ -1,4 +1,3 @@
-# Tries
 * A **trie** is a $k$-ary search tree for performing key (often strings) searches within a set
   
   All children of a node have a common prefix associated with their parent node. The root of the tree is associated with the empty string.
@@ -7,7 +6,7 @@
 * A **radix tree** is a compressed trie wherein nodes with only one child get merged with their parents. This reduces the space complexity of storing the tree and time complexity of key search. 
 	* This is ideal if keys are static and sparse within the key space.
 
-## Suffix Trees
+# Suffix Trees
 * A **suffix tree** is a compact trie of all suffixes of a given text as their keys and positions in the text as their values. 
   
   More specifically, the suffix tree for the string $S$ of length $n$ is defined such that the following hold:
@@ -30,10 +29,8 @@
 * The suffix tree can be constructed in $O(n)$ time.
 	* For general alphabets, assuming each edge is lexicographically sorted, the construction is bound by $\Omega(n\log n)$.  With linear construction, the bound becomes exactly $\Theta(n\log \sigma)$, where $\sigma$ is the number of distinct characters. 
 
-
 # Links
 * [[Trees]]
 * [[Labelled Trees]]
-* [[Spanning Trees and Forests]]
 
 * [Optimal Suffix Construction with Large Alphabets by Farach](https://users.cs.utah.edu/~pandey/courses/cs6968/spring23/papers/optsuffixtree.pdf)

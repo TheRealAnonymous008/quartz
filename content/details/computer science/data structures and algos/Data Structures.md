@@ -35,7 +35,7 @@
 * Sometimes, this creates the effect of simulating how the computer [[Operating System|operates on memory]] -- including allocation, deletion, and garbage collection 
 
 ## Specialized Lists
-* A **suffix array** is a sorted array of all the suffixes of a string. They can be seen as a space efficient alternative to [[Tree-Based Data Structures#Suffix Trees|suffix trees]]
+* A **suffix array** is a sorted array of all the suffixes of a string. They can be seen as a space efficient alternative to [[Trie#Suffix Trees|Suffix Trees]]
   
   Let $S=S[1]S[2]\dots S[n]$ be an $n$-string and $S[i,j]$ the substring ranging from $i$ to $j$ inclusive.
   
@@ -52,8 +52,9 @@
 # Graph-Based
 * [[Graph Theory|Graphs]]
 	* [[Trails, Walks, Paths and Cycles]]
-
-## [[Tree-Based Data Structures]]
+* Tree-based:
+	* [[Binary Search Tree]]
+	* [[Trie]]
 
 # Links
 * [[Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein|Cormen, Leiserson, Rivest, and Stein]] - Part III.

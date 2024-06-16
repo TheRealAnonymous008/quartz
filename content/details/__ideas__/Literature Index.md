@@ -56,6 +56,8 @@
 * [[The Stranger]]
 * [[1984]]
 
+* [Blit](https://en.wikipedia.org/wiki/BLIT_(short_story)) - a sci-fi story featuring highly dangerous images called "basilisks" which can crash the human mind.
+
 # Non-Fiction
 * [[The 48 Laws of Power]]
 * [[Meditations]]

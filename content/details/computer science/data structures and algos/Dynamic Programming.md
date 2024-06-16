@@ -45,7 +45,7 @@
   
   A subsequence of $X$ is defined as a sequence $S=(x_{i_1}, \dots, x_{i_k})$ where $i_1 <i_2<\dots<i_k\le |X|$ are indices. 
 
-* **Optimal Binary Search [[Tree-Based Data Structures|Tree]]**
+* **Optimal [[Binary Search Tree]]**
   
   Given a sequence $K=(k_1,k_2,\dots, k_n)$ of $n$ distinct keys in sorted order, a  set  $D=(d_0,\dots,d_n)$ dummy keys such that 
   

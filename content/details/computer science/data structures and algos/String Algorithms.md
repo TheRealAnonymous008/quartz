@@ -1,5 +1,5 @@
 # Farach's Algorithm 
-* **Farach's Algorithm** [^Farach_1997] aims to construct a [[Tree-Based Data Structures#Suffix Trees|suffix tree]] for integer alphabets (i.e., an alphabet that scales in $O(n)$ relative to the size of the string so that a string contains potentially many characters). 
+* **Farach's Algorithm** [^Farach_1997] aims to construct a [[Trie#Suffix Trees|Suffix Tree]] for integer alphabets (i.e., an alphabet that scales in $O(n)$ relative to the size of the string so that a string contains potentially many characters). 
 
 * An **integer alphabet** is one that is obtained by first sorting each character in the alphabet by rank and replacing them with their rank.
 

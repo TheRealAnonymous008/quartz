@@ -1,6 +1,5 @@
 # Future Readings
 * [Alex Sludd](https://alexsludds.github.io) - includes Silicon Photonics, running Neural Networks through light meshes.
-* [Blit](https://en.wikipedia.org/wiki/BLIT_(short_story)) - an interesting premise for a story. Will have to check it and relate it to Infohazards.
 
 * Better Videogame Characters by Design by Katherine Isbister
 * [[Christopher Alexander]] - principles of architecture. To explore further. In particular 
@@ -14,6 +13,7 @@
 * It’s Not All About “Me”: The Top Ten Techniques for Building Quick Rapport with Anyone
 * [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
 * [Michael's Teachings](https://personalityspirituality.net/articles/the-michael-teachings/)
+
 # Interesting Topics
 * [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
@@ -26,10 +26,14 @@
 * [Socionics](https://en.wikipedia.org/wiki/Socionics)
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 * Forecasting -- specifically [[Time Series Analysis]].
-* Abnormal Psychology. 
+* Abnormal Psychology. Specifically Mental Illnesses.
 
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.
+* [[Virtues and their Vices by Kevin and Craig]] 
+	* Cardinal Virtues
+	* Intellectual Virtues
+	* Theological Virtues
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 

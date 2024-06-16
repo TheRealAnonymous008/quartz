@@ -10,6 +10,18 @@
 	* Chinchilla scaling (i.e., increased performance with more tokens used on training) (Training Compute-Optimal Large Language Models by Hoffmann et. al (Mar 29, 2022)|Hoffman et. al (2022))
 	* Chain of Thought Prompting (Chain-Of-Thought Prompting Elicits Reasoning in Large Language Models by Wei et. al (Jan 10, 2023)|Wei et al (2023))
 * LLMs acquire the biases that are present in the training sets.
+
+# Workflows
+* [^w1] suggests that when building complex workflows we can get good results when we exploit the increasing context length of models (i.e., use many shot learning or very fine tuned prompts).
+  
+  This leads to a pipeline
+	* Quick and simple prompts.
+	* Iteratively flesh out the prompt based on where the output falls short. This may lead to **mega prompts**
+	* Consider few-shot or many-shot learning, or iine tuning.
+	* Breakdown the task into subtasks and use an agentic workflow
+
+[^w1]: [OpenAI's Rules for Model Behavior](https://info.deeplearning.ai/openais-rules-for-model-behavior-better-brain-controlled-robots-alphafold-3-covers-all-biochemistry-ai-oasis-in-the-desert)
+
 # Variants
 * According to Pre-train Prompt and Predict- A systematic survey of prompting methods in Natural Language Processing by Liu et. al (Jul 28, 2021)|Liu et. al (2021): 
 	* Left-to-right LMs are the most commonly used. They scan in the manner of an Encoder
@@ -17,7 +29,7 @@
 	* Prefix Language Models are left-to-right LMs that decodes an output conditioned on an input, which is encoded by the same model parameters but with a fully connected mask and possibly some corruption on the input.
 	* Encoder-Decoder architectures mimic the full transformer.
 # Topics
-* [[Prompt Engineering]] - an increasingly important technique in using LLMs.
+* [[Prompt Engineering]] - an increasingly important technique in using LLMs  which involves tuning the input prompts.
 * [[Instruction Tuning]] - all about instruction tuning, a technique to get an NLP model to understand instructions.
 # Papers
 * TransferTransfo -- A Transfer Learning Approach for Neural Network based Conversational Agents by Wolf, Sanh, Chaumond, and Delangue (Feb 4, 2019)

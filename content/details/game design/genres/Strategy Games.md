@@ -118,8 +118,10 @@
 	* [[Neural Network]]. This will require training and proper characterization of the environment.
 	* *Hierarchical [[Finite Automata and Regular Languages|Finite State Machine]]*. This allows for simple rules that lead to emergent behavior. The disadvantage is that units can typically only be in one state at a time.
 * As a rule, *AI should not micromanage the troops. The troops should, instead, have intelligent behavior laid out in hierarchical fashion*
+
+* Real Time Strategy games grow because of functionalities that allow for user generated content 
 # Games
-* [Beyond All Reason](beyondallreason.info) - an open source RTS. Some interesting features of the game that stand out:
+* [Beyond All Reason](https://www.beyondallreason.info) - an open source RTS. Some interesting features of the game that stand out:
 	* There is an emphasis on teamwork in multiplayer. Players will typically assign themselves roles.
 	* Like chess, has its own standard set of openings / build orders. This is somewhat inevitable considering the "meta'".
 	* Simplified economy which makes the focus more oriented towards holding key areas 

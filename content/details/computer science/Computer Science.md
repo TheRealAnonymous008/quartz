@@ -1,7 +1,8 @@
 # Topics
 * [[Computer Graphics]]
 * [[Computer Organization]]
-* [[Data Structures]]
-* [[Algorithms]]
+* [[Cybersecurity]]
+* [[Database]]
+* [[Data Structures]] and [[Algorithms]]
 * [[Software Engineering]]
 * [[Theory of Computation]]

@@ -22,7 +22,7 @@
 	* The cache is fully associative.
 	* The replacement policy is assumed optimal (in practice, Least Recently Used). It has an oracle which will look into future requests and evict the line whose first access is furthest in the future. 
 	* The complexity of an algorithm is measured in the number of cache misses. The runtime is the number of transfers between cache and main memory. 
-	* *What is efficient in cache oblivious models is likely efficient on real machines.*
+	* *What is efficient in cache oblivious models is likely efficient on real machines.** 
 
 * The **Parallel RAM / PRAM** model is the [[Multiprogramming|parallel]] computing version of the RAM model -- similar to RAM, PRAM is used for analyzing parallel algorithms without regard for synchronization or process communication.
   
