@@ -6,3 +6,6 @@
 * [[Data Structures]] and [[Algorithms]]
 * [[Software Engineering]]
 * [[Theory of Computation]]
+
+# Links
+* [[Mathematics]] - fundamentally all of computer science is just applied math

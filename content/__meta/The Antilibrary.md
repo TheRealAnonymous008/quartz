@@ -12,7 +12,6 @@
 * Unmasking the Social Engineer: The Human Element of Security 
 * It’s Not All About “Me”: The Top Ten Techniques for Building Quick Rapport with Anyone
 * [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
-* [Michael's Teachings](https://personalityspirituality.net/articles/the-michael-teachings/)
 
 # Interesting Topics
 * [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
@@ -34,13 +33,14 @@
 	* Cardinal Virtues
 	* Intellectual Virtues
 	* Theological Virtues
+* [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 
 
 # General Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 
-* [Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)
+* [Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions) - A book series.
 * [Kevin's Habits](https://kevinhabits.com)
 
 * [The Stacks Project](https://stacks.math.columbia.edu) - an open source resource for Algebraic Geometry.

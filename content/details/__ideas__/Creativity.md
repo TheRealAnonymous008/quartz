@@ -24,6 +24,7 @@
 		* *Freebooting* - Stealing the source work directly and passing it off as one's own. 
 * *Inspiration comes from everywhere else*. Which is to say, we may imitate others but we cannot imitate inspiration. Inspiration comes from one's own perspective and how one applies that perspective to their art.  [^12]
 	* Brainstorming tips are given [[Lenses for the Process#The Game Begins with an Idea|here]]. 
+	* Tips for organizing ideas are given [[Organizing Ideas|here]].
 * *Use multiple layers of meaning* -- that is, touch on many dimensions of life. 
 # The Process
 ## The Workflow

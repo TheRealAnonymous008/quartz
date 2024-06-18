@@ -26,6 +26,8 @@
 
 * The beginning of the story should draw the reader in and set expectations about the whole story.
 
+* Stay [[Organizing Ideas|organized]]
+
 # Prototyping
 ## What do I Write About?  
  * Begin [^1] with a Characters' *Core Personality* trait and an underlying *Goal* -- which the general conclusion of the story.

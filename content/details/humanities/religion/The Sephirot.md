@@ -204,7 +204,7 @@
 	* It is also associated with *the Sun, and the light* -- as a source of uncorruptible illumination that brings forth vitality. It also manifests and distributes energy reflected from Keter. 
 	* It is a reminder of *the need for Spiritual Nourishment* which can be obtained by being One with Nature--by treating Nature with Dignity. 
 
-* It serves as *the equilibrium point* between the physical and the transcendental. Those below it represent the personality of the self. Those above it represent the Individuality or Higher Self.
+* It serves as *the equilibrium point* between the physical and the transcendental. Those below it represent the [[personality]] of the self. Those above it represent the Individuality or Higher Self.
 	* The concepts embodied in the Higher Sephirot begin to concretize through Tiphereth. *As above, So below*.
 	* It serves as a threshold for *Illumination of the mind to higher modes of consciousness.* It is God made manifest in the Spirit of the Mind.
 

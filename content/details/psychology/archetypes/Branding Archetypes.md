@@ -67,3 +67,4 @@
 * [[Archetypes in Branding -- A Toolkit for Creatives and Strategists by Hartwell and Chen]] - primary source. See their collection of cards. 
 
 * Takes some inspiration from [[Jungian Archetypal Characters]]. 
+* [[Personality]]

@@ -32,7 +32,7 @@
 * *Emotion should always lead to decision making,* either good or bad, that will propel the story forward.
 
 * *Visceral sensations are powerful, but if used too often, they can lose their strength.* Save them for when you really want to make a big emotional impact in a scene.
-* *Clothing choices are individual and project an image of one’s personality.* When creating unique emotional body language, think about how a character’s clothing can be utilized to reveal their insecurities or vanities and show feelings of self-worth.
+* *Clothing choices are individual and project an image of one’s [[personality]].* When creating unique emotional body language, think about how a character’s clothing can be utilized to reveal their insecurities or vanities and show feelings of self-worth.
 * *Never underestimate the power of texture.* The way an object feels against the skin can create a powerful reaction (positive or negative) and add to the reader’s emotional experience.
 * Opening up about difficult feelings signals an important breakthrough for a character on their journey of change. To be realistic, it won’t be easy; *emotional pain is hard to face and harder to talk about*. Show this stress and struggle using vocal cues and body language.
 * *Characters experiencing raw emotion often react without thinking*—either through dialogue or action. Rash behavior creates the perfect storm for increased tension and conflict.

@@ -16,7 +16,7 @@
 	* The "goodness" of an art should be evaluated in a vacuum based on how it evokes a response from its audience. 
 * [The Four Quadrants of Conformism](http://www.paulgraham.com/conformism.html)
 	* People can be passive or aggressive; conventional or independent-minded. Most are passively conventional minded. 
-	* Much of this stance towards conformism is based on ones' personality.
+	* Much of this stance towards conformism is based on ones' [[personality]].
 	* Aggressive Conventional mindedness only serves to cause stagnation within society.
 	* Society needs to be reminded of bad ideas from the independent-minded.
 * [The Lesson to Unlearn](http://www.paulgraham.com/lesson.html)

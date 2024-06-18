@@ -15,4 +15,3 @@
 * [[Plot]] - discusses some frameworks that are applicable to many (if not all) stories .
 
 * [[System Archetypes]] 
-

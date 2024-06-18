@@ -18,3 +18,5 @@
 # Links
 * [[Think- A Compelling Introduction to Philosophy by Blackburn]]
 * [[The Pig That Wants to be Eaten and Ninety-Nine Other Thought Experiments by Baggini]]
+
+* [[Boolean Algebra]] - one important facet to understanding logic and arguments.

@@ -1,7 +1,7 @@
 * Note that  these are usually applied in the context of brands but they work just as well for analyzing [[Character Writing|characters]]. 
 
 # Primary Archetypes 
-* **Self** - the center of the psyche, representing the unity of the conscious and the unconscious. It strives for wholeness and integration.  To create the self -- to **individuate** is to integrate different aspects of one's personality. 
+* **Self** - the center of the psyche, representing the unity of the conscious and the unconscious. It strives for wholeness and integration.  To create the self -- to **individuate** is to integrate different aspects of one's [[personality]]. 
 * **Persona** - the social mask or facade that an individual projects to others. It is a role adopted to fit societal expectations. It is not reflective of the real self, and associating with it too much represses individuality. 
 * **Shadow** - the unconscious, darker side of the personality containing repressed weaknesses, desires, and instincts. It contains what one perceives as negative. One must integrate the shadow to grow as a person. 
 * **Anima** - the feminine aspect within the male psyche. The unconscious female in the male 

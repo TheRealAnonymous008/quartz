@@ -8,7 +8,8 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 # Overview
 * I make notes on all things that I find interesting and that I have willingly committed to performing a deep dive on.
 * All notes on knowledge are based on ideas, not my own ideas. Sometimes I provide some explanations that can help make it more intuitive to understand. 
-* Ideas are presented as is -- as they are written or as how things are. The point is to organize things and find connections between ideas, even those that are seemingly disparate.
+* Ideas are presented as is -- as they are written or as how things are. The point is to [[Organizing Ideas|organize]] things and find connections between ideas, even those that are seemingly disparate. 
+* However, note that just because ideas or concepts are included here doesn't mean I subscribe to the idea entirely. More applicable for topics that involve History, Social Sciences or just belief in general. 
 
 * *For future*: Personal notes are my own thoughts and syntheses of certain topics. Feel free to ignore these.
 * Notes are organized in a directory structure corresponding to their broad categories. This is a fluid structure that is subject to change. Nevertheless, the search tool exists for a reason.
@@ -17,9 +18,9 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 	* Papers are organized by recency (most recent first). 
 
 # Knowledge Index
-A broad listing of all the topics that I have made notes on. You can find more about the topics that I have deep dived on in this comprehensive [Skill Tree](https://whimsical.com/ontology-tree-Q29jMHUucE2kwACJfxrp1n) or on the explorer on the left. [^2]
+A broad listing of all the topics that I have made notes on [^2]. 
 
-[^2]: Styles based on how the [ABCs of Death Anthology](https://scp-wiki.wikidot.com/scp-anthology-hub) were laid out.
+[^2]: Styles based on how the [ABCs of Death Anthology](https://scp-wiki.wikidot.com/scp-anthology-hub) were laid out. I like the aesthetic 
 
 <div class="custom-index-container">
 
@@ -103,8 +104,6 @@ A broad listing of all the topics that I have made notes on. You can find more a
 </div>
 
 
-
-
 # Personal Section
 * [[Beliefs and General Principles]]
 * [[Interesting People]]
@@ -112,8 +111,5 @@ A broad listing of all the topics that I have made notes on. You can find more a
 * [[Unfiled Thoughts and Trivia]] 
 * [[Software Tools]]
 * [[Words]]
-
-# Miscellaneous 
-A listing of miscellaneous things in the Library.
 
 * [[The Antilibrary]] - contains unread or interesting material for the very far future.

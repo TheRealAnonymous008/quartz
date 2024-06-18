@@ -1,7 +1,7 @@
 * The key is to balance rewards and punishments.
 * *Do not overwork your subordinates*. Although tempting for productivity, consider the cost in morale and discipline this can induce. Even if one does this to make haste, it is not worth it if everyone is exhausted [^7.7][^10.25][^11.22]. *It is thus important to consider the logistics of operations*. 
 * To keep morale, *give rewards to your subordinates*. People do not do things for free [^7.20].
-	* Beware of this. *Overuse of rewards to keep motivation* means a lack of discipline and motivation for the subordinates [^9.26]. Understand the true motivation of your subordinates, especially if they are there not because they want to [^11.27]
+	* Beware of this. *Overuse of rewards to keep motivation* means a lack of discipline and [[Faculties of the Mind#Motivation|Motivation]] for the subordinates [^9.26]. Understand the true motivation of your subordinates, especially if they are there not because they want to [^11.27]
 	* *When your subordinates see you as the only route to a shared goal,  they will follow you without question* [^11.26].
 * Be someone that subordinates can look up to. Be their guide to inspire them. 
 

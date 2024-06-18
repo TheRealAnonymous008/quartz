@@ -38,7 +38,7 @@
 	* Players accept rules not to restrict pleasure but to maximize them. 
 * *Games are autotelic* Every game implicitly asserts the premise that the value of the game is intrinsic, and separate from the real world. The goals of a game are non-utilitarian and artificial.
 	* *Playing the game is in itself the reward. We play for the sake of playing*.
-	* Games must provide their own motivations and pleasures. After all *Why play a game that isn't fun?*.
+	* Games must provide their own [[Faculties of the Mind#Motivation|Motivation]] and pleasures. After all *Why play a game that isn't fun?*.
 * When play starts, players are first seduced into entering the [[The Fundamentals of Game Design|magic circle]]. Then, they are seduced into continuing to play.
 	* Designers create not just the game, but *the ways players enter the game*. This is a hurdle as players must do things that lie on the border of the circle before they can enter.
 	* In considering this seduction, we must consider all the formal, social, and cultural factors that contribute to experience.

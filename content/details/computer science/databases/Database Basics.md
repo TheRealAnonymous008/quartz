@@ -8,7 +8,7 @@
 * A **schema** is a description of a particular collection of data using a given data model .
 * **Database View** - a subset of a database based on a query that runs on one or more tables .
 
-* A **relational database schema** $S$ is defined as a set of relation schemas $R$ and a set of integrity constraints $C$ where 
+* A **relational database schema** $S$ is defined as a set of [[Relation]] schemas $R$ and a set of integrity constraints $C$ where 
   $$
   S=R\cup C
   $$

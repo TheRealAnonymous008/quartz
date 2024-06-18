@@ -17,7 +17,7 @@
 * Relevant lenses: [[Lenses for Game Design - Lenses#21. Flow|Flow]]. 
 
 ### The Player's Mind is driven by the Player's Motivation
-* Motivation is tied to the magic circle and the lusory attitude. [[Models for Human Needs|Models of Human Needs]] are useful to apply here. 
+* [[Faculties of the Mind#Motivation|Motivation]] is tied to the magic circle and the lusory attitude. [[Models for Human Needs|Models of Human Needs]] are useful to apply here. 
 	* *Perhaps the most important level for game design in Maslow's hierarchy is self-esteem.* We want the game to judge 
 * Another thing to consider is where Motivation comes from.
 	* **Extrinsic Motivation** - not of one's own volition to do it for its own sake 

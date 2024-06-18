@@ -21,7 +21,7 @@ Let $X\implies Y$ be a rule.
 * Identify frequent individual items and extend them to larger and larger item sets as long as they meet a support threshold.
 * *It relies on prior knowledge of frequent itemset properties*.
 # ECLAT
-* **Equivalence Class Transformation**. 
+* **[[Relation|Equivalence Class]] Transformation**. 
 * Rather than explore in a BFS manner as in the Apriori algorithm, it *explores in a DFS manner*, checking larger itemsets first and then using backtracking.
 * Since the support is monotonically non-increasing, it helps save on checking the support of some subsets.
 # FP-Growth

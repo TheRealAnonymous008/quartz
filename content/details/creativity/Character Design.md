@@ -36,22 +36,9 @@
 		* How does it affect their personality? 
 	* Flaws are not black and white. 
 
-* From [Michael's Teachings](https://personalityspirituality.net/articles/the-michael-teachings/chief-features/#What_is_a_Chief_Feature), there are seven aspects of character flaws. There are parallels to the [[Seven Deadly Sins]].
-	* **Impatience** - the character hates it whenever anything interferes with their will.
-	* **Martyrdom** - the character feels a constant need to blame others for their own actions, as though they have no will of their own.
-	  
-	* **Greed** - the character feels a need to grasp and hoard as though there were an intolerable lack of some vital substance.
-	* **Self-Destruction** - the character's very existence is increasingly intolerable. There is a constant inner turmoil that makes them want to get away from themselves 
-	  
-	* **Arrogance** - the character feels a need to be seen as better than others because being ordinary is intolerable 
-	* **Self-deprecation** - the character feels a need to be seen as little as possible because they believe themselves to be miserably inadequate. 
-
-	* **Stubbornness** - the character feels a need to keep all things just as they are and resist any outside influence, even positive ones.
-* Under this system, we can observe parallels to [[Jungian Archetypal Characters|Jungian archetypes]]
-	* The **persona** layer is the cover to hide the shadow.
-	* The **shadow** is hidden underneath a layer of negativity and denial. It is single-minded, desperate, being driven by their worst fears.
-	* **Fear** is at the core of emotions. This is reminiscent of the [[Enneagram of Personality]]. The character's flaw is an attempt to avoid a kind of fear. 
-# Some Additional Tips
+* [[Michael's Framework of Personality]] offers another interesting perspective on character flaws
+## Miscellaneous
+ # Some Additional Tips
 * Taken from [[The Art of Game Design -- A Book of Lenses by Schell|Schell]]
 * List all the [[Lenses for Game Design - Lenses#86. Character Function|character function]] the characters need to fulfill and map the characters you have to them. 
 * List all the key traits possessed by each character that really define them as a person. *Know your characters well*.

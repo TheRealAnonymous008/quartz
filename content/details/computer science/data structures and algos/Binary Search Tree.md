@@ -145,9 +145,58 @@
 ![[RB Delete.png]]
 <figcaption> Red Black Delete Fixup. Image taken from CLRS.  In the above, Case 1 = Case D3; Case 2 =Case D4; Case 3 = Case D5; Case 4 = Case D6 </figcaption>
 
+* (*CLRS 14.1*). Red black trees can be augmented.
+  
+  Let $f$ be an attribute that augments a red-black tree $T$ of $n$ nodes and suppose that the value of $f$ for each node $x$ only depends on the information in nodes `x` `x.left` and `x.right`, possibly including `x.left.f` and `x.right.f`. Then, we can maintain the values of $f$ in all nodes of $T$ during insertion and deletion without asymptotically affecting the $O(\lg n)$ performance of these operations
+  
+  *Intuition*: Any change to $f$ only propagates to the $O(\lg n)$ ancestors of a node. 
+
+
+# Order Statistic Trees 
+* An **order statistic tree** is a red-black tree with additional information. Each node stores a "size" attributed. The **size** contains the number of internal nodes in the subtree rooted at $x$ including $x$ itself.
+* To retrieve the rank of any element in the tree, we do the following
+  
+  First calculate the rank of $x$ in the subtree it is rooted in. This is given as the size of its left subtree + 1 (to include itself). If the input rank $i$ is also equal to its rank $r$ in the subtree we are done
+  
+  Otherwise, traverse the left subtree with call `SELECT(x.left, i)` if $i<r$. This follows because we know the targeted node is to the left by the Binary Search property
+  
+  Otherwise, if $i>r$ traverse the right subtree with call `SELECT(x.right, i - r)`. Here, we know that the node must lie to the right and we "prune" out the other nodes and only consider the current subtree. This prunes out $r$ nodes hence our adjusted rank is $i-r$.
+
+
+* To maintain the subtree sizes during insertion and deletion, we simply increment or decrement the sizes of all affected parent / children nodes. This takes $O(\lg n)$ time. 
+  
+  When we adjust the tree with rotation, at most two nodes are affected. We adjust the sizes of these nodes accordingly. 
+
+# Interval Trees
+* An **interval** is defined using a pair of real numbers $t_1, t_2$. $t_1$ is called the low endpoint and $t_2$ the high endpoint. 
+  
+  Intervals $i,i'$ overlap if $i\cap i'\ne \emptyset$.
+* Any two intervals satisfy the **interval trichotomy**. Exactly one of the following must be true
+	* $i,i'$ overlap
+	* $i$ is to the left of $i$'
+	* $i$ is to the right of $i$'
+
+* An **interval tree** is a red-black tree where each element contains an interval. New intervals can be inserted, deleted or queried. 
+  
+  To facilitate better search operations, we maintain for each node `x` the value `x.max` which denotes the maximum value of any interval endpoint stored in the subtree rooted at $x$.
+  
+  `x.max` is maintained via the following relation
+  ```
+  x.max = max(x.int.high, x.left.max, x.right.max)
+  ```
+
+
+* In order to search for an interval that overlaps $i$, we do the following
+![[Interval Tree Search.png]]
+<figcaption> Interval Tree Search. Image taken from CLRS </figcaption>
+
+
+* (*CLRS 14.2*) Any execution of `INTERVAL-SEARCH(T,i)` above either returns a node whose interval overlaps $i$ or returns `NULL` if no such interval exists.
+  
+  *Proof Idea*: We use the invariant that if tree $T$ contains an interval that overlaps $i$, then the subtree rooted at $x$ contains such an interval.
 # Links
 * [[Trees]]
 * [[Labelled Trees]]
 * [[Spanning Trees and Forests]]
 
-* [[Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein|CLRS]] - Ch. 12, 13
+* [[Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein|CLRS]] - Ch. 12, 13, 14

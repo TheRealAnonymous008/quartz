@@ -2,7 +2,7 @@
 * The way characters react to the inciting incident and its consequences help define their character.
 * The introductory scene can be used as a way to **introduce** the protagonist, antagonist or in general the main cast of characters.
 * We can also use the beginning to introduce the early years of the protagonist as a hero. Alternatively, we can also use the beginning to introduce how the characters **ease into the plot.**
-* The introduction of the character can serve as a way to understand their **personality and motivations**. 
+* The introduction of the character can serve as a way to understand their **[[personality]] and [[Faculties of the Mind|motivations]]**. 
 * It can serve as an introduction to **how the character is treated**.
 * It can serve as an introduction to the character's **backstory**. 
 * People like underdog stories and character arcs, so often the beginning can introduce how the character starts and how their **arc** will look like.

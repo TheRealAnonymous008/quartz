@@ -118,7 +118,7 @@
 * [[The Art of Game Design -- A Book of Lenses by Schell|Schell]] gives the following tips for a successful pitch 
 	* *Get in the door* - have an audience with the client. Use the back door -- someone on the inside who can vouch for you. Get the audience's trust. 
 	* *Show you are serious* - when you pitch a game, you have to show you are serious about building it. Make a [[Lenses for the Process|prototype]]. Believing is not enough, you must show you've done the work. 
-	* *Be organized* - make sure the pitch is well planned. The more organized, the more serious, calmer, and in-control you appear. 
+	* *Be organized* - make sure the pitch is well planned. The more [[Organizing Ideas|organized]], the more serious, calmer, and in-control you appear. 
 	* *Be Passionate* - be genuinely excited about the game. Passion represents drive to deliver a good game at any cost. 
 	* *Assume their point of view* - listen and try to solve the audience's problem. Make sure to explain the game in a way they can easily understand. Make your audience a fan of the project 
 		* Get straight to the point. Start by stating your platform, audience and genre. 

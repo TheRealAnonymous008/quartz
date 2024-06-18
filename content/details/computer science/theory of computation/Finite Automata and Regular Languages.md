@@ -157,7 +157,7 @@
 * *Sipser e1.38*: all-NFAs can recognize the class of regular languages. 
 
 # Other Theorems
-* *Sipser e1.52* **Myhill-Nerode Theorem**. Let $L$ be a language and $x$ and $y$ are strings. The *distinguishing extension* is defined as a string $z$ such that exactly one of $xz$ and $yz$  belongs in $L$. The relation $x\sim_L y$ is defined where $x$ and $y$ are indistinguishable (i.e., no distinguishing extension exists). This relation is an equivalence relation.
+* *Sipser e1.52* **Myhill-Nerode Theorem**. Let $L$ be a language and $x$ and $y$ are strings. The *distinguishing extension* is defined as a string $z$ such that exactly one of $xz$ and $yz$  belongs in $L$. The relation $x\sim_L y$ is defined where $x$ and $y$ are indistinguishable (i.e., no distinguishing extension exists). This relation is an [[Relation|Equivalence Relation]].
   
   $L$ is regular if and only if $\sim_L$ has a finite number of equivalence classes. 
   
