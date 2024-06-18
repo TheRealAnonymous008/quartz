@@ -1,1 +1,2 @@
-npx quartz sync --commit --push
+git commit -a -m "Update Content" &&
+git push
