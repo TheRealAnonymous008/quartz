@@ -19,8 +19,10 @@
 * [For interactive games, design the player characters not based on what they can do, but how they will be used](https://www.youtube.com/watch?v=7EpgjR-k3fE)
 * Design for player experience not realism. 
 
-
 * [Games in Powerpoint are a thing](https://www.youtube.com/watch?v=KDUiw2BHE5Y)
+
+* [Sid Meier's Covert Action Rule](https://forums.somethingawful.com/showthread.php?threadid=3773152) - advises that games should not simply be a package of minigames. Otherwise, each minigame will compete with each other for becoming "the most enjoyable part". Focus on what the game is. 
+
 # Topics
 * [[The Fundamentals of Game Design]]
 * [[Players and Why We Play Games]]

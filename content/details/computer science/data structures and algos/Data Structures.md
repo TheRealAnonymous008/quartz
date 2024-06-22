@@ -49,11 +49,27 @@
 
 ## [[Hashed Data Structure]]
 
+## Heaps
+* A **mergeable heap** is any data structure that supports the following operations
+	* `MAKE_HEAP` - create and return a heap with no element 
+	* `INSERT` inserts an element $x$ whose key has already been filled in, into heap $H$. 
+	* `MINIMUM` returns the pointer to the element in $H$ whose key is minimum
+	* `EXTRACT-MIN` - delete the minimum element and return a pointer to it.
+	* `UNION` - return a new heap that contains all the elements of the input heaps. Both input heaps are destroyed. 
+* A **Fibonacci Heap** also supports the following
+	* `DECREASE_KEY` assigns to element $x$ within heap $H$ the new key value $k$ which is no greater than the current key value.
+	* `DELETE` deletes element $x$ from heap $H$.
+
+* Fibonacci heaps have good amortized asymptotic time bounds. `MAKE_HEAP`, `INSERT`, `MINIMUM`, `UNION`, and `DECREASE_KEY` take $\Theta(1)$ time. The other operations take $O(\lg n)$. 
+* Fibonacci heaps are desirable when we rarely `DELETE` or `EXTRACT-MIN`. In practice, however, the complexity they have make them less desirable than ordinary heaps.
+
+
 # Graph-Based
 * [[Graph Theory|Graphs]]
 	* [[Trails, Walks, Paths and Cycles]]
 * Tree-based:
 	* [[Binary Search Tree]]
+	* [[B Tree]]
 	* [[Trie]]
 
 # Augmented

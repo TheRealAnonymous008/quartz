@@ -40,6 +40,8 @@
 
 * A variant of this is **Login CSRF** wherein the hacker forces the non-authenticated user to log in to an account they control. Because of this, the hacker can access user data. 
 
+# File Upload Exploits
+* An attack can be done using **Polyglot Files**. These files are valid forms of multiple different file types (i.e., JPEG and PHP). These can be used to bypass any checks of files and inject a malicious payload on the server. 
 
 # Links
 * [DVWA Ultimate Guide - First Steps and Walkthrough](https://bughacking.com/dvwa-ultimate-guide-first-steps-and-walkthrough/#Insecure_CAPTCHA)

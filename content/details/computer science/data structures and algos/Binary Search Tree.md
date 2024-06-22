@@ -187,6 +187,7 @@
 
 
 * In order to search for an interval that overlaps $i$, we do the following
+
 ![[Interval Tree Search.png]]
 <figcaption> Interval Tree Search. Image taken from CLRS </figcaption>
 
