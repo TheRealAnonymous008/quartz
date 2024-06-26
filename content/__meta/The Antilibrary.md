@@ -34,7 +34,7 @@
 	* Intellectual Virtues
 	* Theological Virtues
 * [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
-* [[Data Structures]] - CLRS chapter on Fibonacci heaps. 
+	* https://en.wikipedia.org/wiki/Köppen_climate_classification
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 
