@@ -5,10 +5,11 @@
   $$
 	* The work is, effectively, a measure of how similar the direction of the force is compared to the object's displacement.
 * In the general form, when force is not constant The total work is given using the following [[Integral Calculus|line integral]]. Denote the path taken as $C$.
-	  
-	  $$
-	  W =\int_C \vec{F} \cdot d\vec{s}
-	  $$
+  $$
+  W =\int_C \vec{F} \cdot d\vec{s}
+  $$
+
+
 
 * The **Kinetic Energy** of an object is the energy it possesses due to its motion. It is defined as follows
   

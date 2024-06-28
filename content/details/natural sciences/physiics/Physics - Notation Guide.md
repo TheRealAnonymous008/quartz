@@ -27,6 +27,7 @@
 	* $_T, T$ - tension
 	* $_D, D$ - drag
 * $\vec{p}$ - momentum
+* $\vec{J}$ - impulse
 * $W$ - work
 * $E$ - energy, total mechanical energy.
 	* $\text{KE}, K$ - kinetic energy

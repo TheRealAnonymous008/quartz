@@ -11,10 +11,10 @@
 
 * [[Systems and Models|Machine Learning models can capture patterns within systems]].
 # Topics
-
 * [[Supervised Learning]]
 * [[Unsupervised Learning]]
 * [[Reinforcement Learning]]
+* [[Geometric Deep Learning]]
 *  [[Low Level of Training a Model]]
 * [[Model Performance]]
 * [[Multimodal Models]]

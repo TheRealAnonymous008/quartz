@@ -57,6 +57,7 @@
 	* `RIGHT ROTATION(x):`Suppose $y$ is any node such that its left child $x$ is not `NULL`. We pivot around the link from $y$ to $x$ so that $x$ is the new root of the subtree, with $y$ as $x$'s right child and $x$'s right child as $y$'s left child. 
 ![[BST Tree Rotation.png]]
 <figcaption> Tree Rotation. Image taken from CLRS  </figcaption>
+
 ## Properties
 * *Assuming a balanced binary search tree, the height $h$ is $O(\log n)$*. 
 

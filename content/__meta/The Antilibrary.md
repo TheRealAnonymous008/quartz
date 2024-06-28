@@ -12,7 +12,6 @@
 * https://www.amazon.com/Business-Dynamics-Systems-Thinking-Modeling/dp/007238915X
 
 # Interesting Topics
-* [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
 * Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
 * [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))
@@ -33,6 +32,7 @@
 	* Theological Virtues
 * [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
 	* https://en.wikipedia.org/wiki/Köppen_climate_classification
+* [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
 
 # Papers
 * Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
