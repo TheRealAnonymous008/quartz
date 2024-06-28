@@ -10,7 +10,7 @@
 * **Collagens** - fibrous glycoproteins with notably *high tensile strength*. They contain triple helixes of $\alpha$ chains (Type I, II, III) and possibly or nonhelical segments interspersed along the molecule with globular domains on each end (Type IV).
 	* **Fibrillar Collagens** - assemble into rigid rope-like fibrils which can be packaged into thicker fibers.
 	* They provide the insoluble framework for the mechanical properties of the extracellular matrix.
-* **Proteoglycans** - a protein-polysaccharide complex which may be assembled into giant complexes. They form a porous, hydrated gel that occupies the extracellular space to *resist crushing forces.*
+* **Proteoglycans** - a protein-polysaccharide complex which may be assembled into giant complexes. They form a porous, hydrated gel that occupies the extracellular space to *resist crushing [[Kinds of Forces|forces]].*
 	* They are thought to have a role in cell-to-cell signaling.
 * **Fibronectin** - consists of a linear array of distinct building blocks. They *facilitate the interactions between ECM components* and between cells and receptors.
 	* Fibronectin also facilitates cell migration. Cells tend to migrate on fibronectin surfaces

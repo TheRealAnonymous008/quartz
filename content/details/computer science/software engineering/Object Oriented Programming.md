@@ -97,3 +97,6 @@
 	* We may have more bloated if we do not think about what each interface represents.
 	* Increased complexity and maintenance cost due to the abstraction obscuring things.
 	* More boilerplate code.
+
+# Links
+* [[Programming]]

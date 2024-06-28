@@ -786,7 +786,7 @@
 
 ### 93. The Nameless Quality 
 * Does my design have a special feeling of life, or do parts of my design feel dead? What would make my design feel more alive?
-* Refer to the list [[Christopher Alexander|here]].  Which of these attributes does my design  have? 
+* Refer to the list [[Architecture|here]].  Which of these attributes does my design  have? 
 * Could it have more of them, somehow?
 * Where does my design feel like myself?
 * Repeat the above questions but for the aesthetics of the game instead.

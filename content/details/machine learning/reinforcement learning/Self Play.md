@@ -39,7 +39,7 @@
 * *PSRO may converge to different solution types using different meta-solvers and oracles*.
 
 ## AlphaStar 
-* [^Vinyals_2019] 🎯 Builds on top of [[#PSRO]]. It achieved good performance in Starcraft II. 
+* [^Vinyals_2019] Builds on top of [[#PSRO]]. It achieved good performance in Starcraft II. 
 	* Each observation contains an overview map of the environment and all entities in the environment (with their associated attributes). 
 	* Actions are hierarchical specifying the action type, the unit to perform that action, the target of the action, and when the agent wants to select its next action. 
 	* Policies are initialized using Human Play (i.e., [[Imitation Learning]]) 

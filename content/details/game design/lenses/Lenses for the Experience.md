@@ -132,7 +132,7 @@
 	* **Divided Space** - players move along a map consisting of sections. 
 
 * *Good game spaces have good landmarks* for both the player's convenience and to serve as set pieces. 
-* [[Christopher Alexander]] provides additional advice on architecture.
+* [[The Timeless Way of Building|These]] [[The Language of Patterns|references]] provide additional advice on architecture.
 * It is hard for the human mind to map 3D into 2D. Hence, *it's not important that 3D spaces have realistic 2D blueprints*, only that the space feels good when the player is in it
 	* *Know how big the space is*. Have a sense of scale. Usually things look out of scale because of:
 		* Eye height. People assume they are at eye height similar to their own. 

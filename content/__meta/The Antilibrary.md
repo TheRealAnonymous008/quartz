@@ -1,9 +1,7 @@
 # Future Readings
 * [Alex Sludd](https://alexsludds.github.io) - includes Silicon Photonics, running Neural Networks through light meshes.
-
 * Better Videogame Characters by Design by Katherine Isbister
-* [[Christopher Alexander]] - principles of architecture. To explore further. In particular 
-	* The Timeless way of building
+* Christopher Alexander principles of architecture. To explore further. In particular 
 	* A Pattern Language 
 	* The Nature of Order books 1 -4
 
@@ -11,7 +9,7 @@
 * One Page Design by Stone Librande
 * Unmasking the Social Engineer: The Human Element of Security 
 * It’s Not All About “Me”: The Top Ten Techniques for Building Quick Rapport with Anyone
-* [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
+* https://www.amazon.com/Business-Dynamics-Systems-Thinking-Modeling/dp/007238915X
 
 # Interesting Topics
 * [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
@@ -35,6 +33,17 @@
 	* Theological Virtues
 * [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
 	* https://en.wikipedia.org/wiki/Köppen_climate_classification
+
+# Papers
+* Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
+* Kim, Cho, Jung, and Sung (2023). [A Variational Approach to Mutual Information Based Coordination for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2303.00451.pdf)
+	* Linked in [[Multi-Agent Reinforcement Learning]]
+* Vinyals et al. (2019) [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf) 
+	* Linked in [[Self Play]]
+* Wu et al. (2017) [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf)
+	* Linked in [[Trust Region Policies]]
+* [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
+
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 

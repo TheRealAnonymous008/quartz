@@ -376,7 +376,7 @@
 <figcaption> Slow Cycle. Image taken from Adams and Dormans </figcaption>
 
 # Links 
-* [[Christopher Alexander]] - introduced the concept of design patterns 
+* [[The Language of Patterns]] - introduced the concept of design patterns 
 * [[Game Mechanics -- Advanced Game Design by Adams and Dormans|Adams and Dormans]] - Ch. 7. 
 	* These design patterns are listed in the Machinations Design Pattern. 
 

@@ -42,10 +42,10 @@
 # Circular Motion
 * A point mass moves in **uniform circular motion** if it moves in a circle at constant speed. 
 	* In this scenario, there is no change of acceleration parallel to the path. Thus, *acceleration is perpendicular to the path and directed inward*.
-	* Let $\vec{a}_\text{rad}$ be the magnitude of acceleration of an object in uniform circular motion. If the object travels in radius $R$ and speed $v$, we have
+	* Let ${a}_\text{rad}$ be the magnitude of acceleration of an object in uniform circular motion. If the object travels in radius $R$ and speed $v$, we have
 	  
 	  $$
-	  \vec{a}_\text{rad} = \frac{v^2}{R}
+	  {a}_\text{rad} = \frac{v^2}{R}
 	  $$
 
 	* Let $T$ be the period of motion. The speed is given as 

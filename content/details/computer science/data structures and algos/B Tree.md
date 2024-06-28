@@ -48,7 +48,9 @@
 
 ![[B Tree Deletion Case 1,2.png]]
 <figcaption> B Tree Deletion Case 1, 2. Image taken from CLRS</figcaption>
-![[Pasted image 20240620135440.png]]
+
+![[B Tree Deletion Case 3.png]]
+
 <figcaption> B Tree Deletion Case 3. Image taken from CLRS </figcaption>
 # Extensions
 * A **B$^+$-tree** extends a B-tree by storing only keys and child pointers in the internal nodes. Any auxiliary information is kept in disk and referred to with these pointer.

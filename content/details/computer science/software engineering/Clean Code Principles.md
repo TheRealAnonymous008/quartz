@@ -229,6 +229,7 @@
 # Links
 * [[Clean Code by Robert Martin]]
 * [[Object Oriented Programming]]
+* [[Programming]]
 
 * [Why You Shouldn't Nest Your Code by CodeAesthetic](https://www.youtube.com/watch?v=CFRhGnuXG-4) - There are two ways to reduce nesting in code
 	* Extract bits of code and refactor them to their own functions
