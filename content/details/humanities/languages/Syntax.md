@@ -9,14 +9,13 @@
 	* In a parse tree, we may only topicalize phrases and individual words that pass the test of having them appear at the front of the sentence.
 
 # Rules
-* Syntactical rules can be described by using a parse tree, which specifies how to assemble linguistic units to form larger units.
+* Syntactical rules can be described by using a [[Pushdown Automata and Context Free Languages|parse]] tree, which specifies how to assemble linguistic units to form larger units.
 	* Some key units in the parse tree. These are determined by the function of the word or phrase, the latter is determinable through constituent words in the phrase.
 		* **Determiner** - a unit that occurs together with a noun serving to express reference to the noun
 		* **Nouns** - functions as the name of a specific object
 		* **Verbs** - a unit that conveys an action
 			* **Transitive Verbs** - verbs that require an object to act upon.
 			* **Intransitive Verb** - verbs that do not act upon an object.
-			* 
 		* **Adjective** - a unit that describes a noun.
 		* **Adverb** - a unit that describes a verb.
 		* **Pronoun** - a unit that substitutes a noun or noun phrase in the sentence.
@@ -34,6 +33,7 @@
 	* If a head has both an argument and an adjunct, the argument is closer to the head. 
 		* Thus, for a verb head, the argument is closer than any adjunct.
 
+
 ### Relations
 * In a parse tree, we say that a node 
 	* If  $A$ and $B$ are merged to common parent $M$, we say that $A$ and $B$ are **sisters** and $M$ is the **mother** of its **daughters**.
@@ -47,6 +47,16 @@
 * A **head initial** language always puts its heads before its complements.
 * A **head final** language always puts its heads after its complements.
 * A **mixed-headed** language will put its head either before or after its complements depending on other syntactical rules.
+* This means that some languages place the verbs before objects while others would place objects before verbs.
+* Some example pairings of this include
+	* The order of subject, object and verb
+	* The order of an adposition and its complement. 
+	* The order of adjectives and nouns 
+	* The order of adverbs and verbs. 
+	* The relationship between the order of object and verb.
+	* The order of relative clauses and their head nouns
+	* The order of possessives
+	* Tenses
 
 ### Rules
 * **Projection Principle**: If a head selects for an argument, merge the head with the argument first and make the argument a **complement**.

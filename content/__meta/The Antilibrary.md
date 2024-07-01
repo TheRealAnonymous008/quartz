@@ -23,6 +23,7 @@
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 * Forecasting -- specifically [[Time Series Analysis]].
 * Abnormal Psychology. Specifically Mental Illnesses.
+* Chess Openings
 
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.
@@ -47,7 +48,11 @@
 
 # Utilities
 * [Beall's List](https://beallslist.net) - provides a list of predatory journals and publishers. 
+* [Library Genesis](https://libgen.is) - site for searching millions of books
+* [Anna's Archive](https://annas-archive.org)  - site for searching millions of books 
 
+ * [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
+* [Pi.ai](https://pi.ai/talk) - an online personal assistant chatbot as an alternative to ChatGPT.
 # General Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 
 * [Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions) - A book series.

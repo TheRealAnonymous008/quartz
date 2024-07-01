@@ -26,7 +26,7 @@
 	* Brainstorming tips are given [[Lenses for the Process#The Game Begins with an Idea|here]]. 
 	* Tips for organizing ideas are given [[Organizing Ideas|here]].
 * *Use multiple layers of meaning* -- that is, touch on many dimensions of life. 
-* [[The Timeless Way of Building|At our core, we want to be able to make our own living worlds]].
+* [[The Timeless Way of Building|At our core, we want to be able to make our own living worlds]].  Yet, the beautiful [[The Nameless Quality|arises when we let nature takes its course than be heavy-handed in our design]].
 # The Process
 ## The Workflow
 * The best way to get started is to *just start*. You needn't wait for inspiration to hit. Keep going by creating what you would enjoy.

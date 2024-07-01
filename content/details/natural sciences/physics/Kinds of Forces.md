@@ -19,11 +19,10 @@
 * *The apparent weight of an object is the normal force*. The actual weight is the one calculated using mass and gravity. 
 	* These two need not be the same as in the case of apparent weightlessness. In fact, we can explain this as a normal force felt when accelerating at $\vec{a}=-g$
 
-* The **Centripetal Force** is applied to objects in rotation. It can be calculated with the following formula
+* The **Centripetal Force** is applied to objects in [[Rotational Motion|rotation]]. It can be calculated with the following formula
   $$
   F_\text{net} = \frac{mv^2}{R}
   $$
-  See [[Kinematics#Circular Motion|here]] for more info on this.
 	* Here the *force is directed inside*. This allows the object to maintain its circular trajectory.  [^centrifugal]
 	* Centripetal Force can come from any source (normal force, friction, etc)
 

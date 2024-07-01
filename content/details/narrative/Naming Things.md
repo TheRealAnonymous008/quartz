@@ -6,6 +6,6 @@
 * [Worldbuilding: How to Make Names that Don't Suck](https://www.youtube.com/watch?v=-5fjlhJSVbE)
 * [Why most World Building Place Names Suck](https://www.youtube.com/watch?v=IFwTfCUY7x8)
 
-
 * [[Names Index]] 
 * [[__books/Story by Robert McKee|McKee Ch. 18]] - more on naming titles
+* [[Linguistics]]

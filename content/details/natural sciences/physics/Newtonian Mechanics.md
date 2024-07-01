@@ -6,7 +6,7 @@
 	* This law is valid within an **inertial frame of reference**. 
 		* Any frame of reference that moves relative to an inertial frame of reference with constant velocity is also inertial.
 		* Newton's First Law means that no inertial observer is privileged over another -- between two inertial observers, there is no way to say which observer is in motion or not. *There is no absolute standard rest*.
-	* The inertial characteristics of an object is characterized by its **(inertial) mass** - the tendency of an object to change its motion
+	* The inertial characteristics of an object is characterized by its **(inertial) [[Mass]]** - the tendency of an object to change its motion
 
 * **Newton's Second Law of Motion**. If a net external force acts upon an object, the object accelerates in the direction of the net external force. This follows
   
@@ -30,5 +30,5 @@
 	* *The two forces in the equation are for two different objects*. It does not imply any form of motion, it only relates action-reaction pairs.
 
 # Links
-* [[University Physics with Modern Physics 15th Edition By Freedman]]
+* [[University Physics with Modern Physics 15th Edition By Freedman]] - Ch . 4, 5
 * [[Kinematics]]

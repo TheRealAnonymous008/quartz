@@ -9,7 +9,7 @@
   p(x)=P(X=x)
   $$
   
-* A **continuous random variable** operates on an uncountable sample space. It can be quantified using a **probability density function** $f(x)$ wherein the probability $P(a\le X \le b)$ is given by 
+* A **continuous random variable** operates on an uncountable sample space. It can be quantified using a **probability [[Mass|density]] function** $f(x)$ wherein the probability $P(a\le X \le b)$ is given by 
   $$
   P(a\le X\le b)=\int_{a}^bf(x) \ dx
   $$

@@ -6,13 +6,19 @@
 * $_i$ - initial
 * $_f$ - final
 * $_\text{net}$ - net quantity 
+* $_\text{tot}$ - total quantity
+* $_\text{ext}$ - external quantity 
 * $\Delta x$ - change in quantity $x$
 
 * $R$ - radius
 * $m$ - mass
+* $M$ - total mass
+* $_\text{CM}$ - center of mass 
 * $A$ - area
+* $\theta$ - angle
 
-* $\vec{s}$ - displacement
+* $\vec{s},\vec{r}$ - displacement or position
+* $d, l$ - length
 * $v$ - speed
 * $\vec{v}$ - velocity
 * $\vec{v}_{A/B}$ - velocity of $A$ relative to $B$. 
@@ -43,3 +49,9 @@
 	* $_{r}$ - rolling friction 
 	* $_D$ - drag coefficient 
 * $k$ - spring constant
+
+* $\vec\omega$ - angular velocity
+* $\vec{\alpha}$ - angular acceleration
+* $I$ - moment of inertia
+* $\vec\tau$ - torque
+* $\vec{L}$ - angular momentum

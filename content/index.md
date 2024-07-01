@@ -106,8 +106,7 @@ A broad listing of all the topics that I have made notes on [^2].
 * [[Beliefs and General Principles]]
 * [[Interesting People]]
 * [[Literature Index]]
-* [[Unfiled Thoughts and Trivia]] 
-* [[Software Tools]]
+* [[Unfiled Thoughts and Trivia]] ]]
 * [[Words]]
 
 * [[The Antilibrary]] - contains unread or interesting material for the very far future.

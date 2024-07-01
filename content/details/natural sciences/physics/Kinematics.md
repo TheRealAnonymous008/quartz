@@ -39,28 +39,6 @@
 * The motion of a projectile is a combination of motion with constant velocity in the horizontal $x$-direction and motion with constant downward acceleration in the vertical $y$-direction.
 * *Velocity and Acceleration are perpendicular only at the peak of thee trajectory*.
 
-# Circular Motion
-* A point mass moves in **uniform circular motion** if it moves in a circle at constant speed. 
-	* In this scenario, there is no change of acceleration parallel to the path. Thus, *acceleration is perpendicular to the path and directed inward*.
-	* Let ${a}_\text{rad}$ be the magnitude of acceleration of an object in uniform circular motion. If the object travels in radius $R$ and speed $v$, we have
-	  
-	  $$
-	  {a}_\text{rad} = \frac{v^2}{R}
-	  $$
-
-	* Let $T$ be the period of motion. The speed is given as 
-	  
-	  $$
-	  v = \frac{2\pi R}{T}
-	  $$
-
-* When we have non-uniform circular motion, a component of acceleration is tangent to the instantaneous velocity. This vector is given by $\vec{a}_\text{tan}$ and is defined as
-  
-  $$
-  \vec{a}_\text{tan} = \frac{d|\vec{v}|}{dt}
-  $$
-  The component perpendicular to the motion is still given by $\vec{a}_\text{rad}$ above. 
-
 # Relativity
 * **Relativity** is the phenomenon where two observers measure the velocity of the same object differently if one observer is moving relative to the other. **Relative velocity** is the velocity relative to a particular observer.
 * Every observer is assumed to have a **frame of reference** - a coordinate system plus a time scale.
@@ -77,5 +55,5 @@
 * All of the above extends to any other quantity (i.e., position or acceleration)
 
 # Links
-* [[University Physics with Modern Physics 15th Edition By Freedman]] 
+* [[University Physics with Modern Physics 15th Edition By Freedman]]  - Ch. 2 - 3
 * [[Calculus]]

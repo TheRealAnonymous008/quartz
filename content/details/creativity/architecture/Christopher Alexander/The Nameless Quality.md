@@ -22,6 +22,19 @@
 	* *Because of this, we can recognize the quality in our work.* We need only ask which has caused us to feel this quality.
 	* Places which have this quality invite this quality to come to life in us, and in turn we tend to make it come to life in the things we build. *It is the quality of life and we must seek it simply in order that we can ourselves become alive*
 
+* *The nameless quality is emergent*. It arises not from being made but from a generative process.
+# The Quality of Nature
+* Nature is [[System Science|systemic]] 
+* Nature is full of almost similar units, but no two things are alike. 
+* Nature [[Fractal|repeats its patterns]] under a given set of circumstances. But there is always variation and uniqueness in the way the patterns manifest themselves.
+* Nature is exacting. Everything arises as a consequence of the [[System Dynamics|dynamics]] of the whole.
+* Nature has a sense of ephemerality -- the character of nature cannot arise without the presence and consciousness of death. It is in the nature of things to one day decay.
+* *It is not designed but generated.*
+	* It arises from a simple principle --that any [[Complex Systems|complex system]] must arise not from design, which will have to contend with combinatorial explosion, but from an indirect, generative process following simple rules. 
+	* The quality depends on how adapted each part is to the whole. Each part has a degree of autonomy.
+	* At the same time, while each part has a degree of autonomy, the whole has a set of rules to [[Characterizing Systems|connect everything together]].
 
+
+* Any place where the quality is achieve must make us feel the slight presence of a haunting sadness -- because we know at the same time we enjoy it, that it is going to pass.
 # Links
 * [[The Timeless Way of Building by Christopher Alexander]]

@@ -128,6 +128,11 @@
 * *Constraint*: No diagonal paths allowed.
 * *Constraint*: The grid is regular (a square).
 
+### One Up
+* [One Up](https://www.oneuppuzzle.com) 
+* *Goal*: Fill the grid with numbers
+* *Constraint* In each horizontal and vertical sequence of cells between walls, place each number starting with $1$ up to the space available.
+
 ### Patchwork / Tatami
 * *Goal*: The grid is divided into regions. Fill in the numbers.
 * *Constraint*: Each region must be filled with each of the numbers from 1 to the number of cells in the room.

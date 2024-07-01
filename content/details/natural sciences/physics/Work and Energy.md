@@ -30,6 +30,7 @@
 	  \frac{d}{dt} \left(\frac{1}{2} mv^2\right) = (m\vec{a}) \cdot \vec{v} = \vec{F}_\text{net} \cdot \vec{v}
 	  $$
 	  The theorem follows from using the fundamental theorem of calculus and setting $\vec{v} dt = d\vec{s}$
+	  This is different from the [[Impulse and Momentum|Impulse-Momentum Theorem]]: work depends on distance, whereas impulse depends on time.
 
 * **Power** is the time rate at which work is done. That is, 
   $$
@@ -49,6 +50,11 @@
 	  $$
 	  \text{PE}_g = mgy + \text{constant}
 	  $$
+
+		* Another way to write this is with the centner of mass $M$
+		  $$
+		  \text{PE}_g = Mgy + \text{constant}
+		  $$
 	* **Elastic Potential Energy** involves the force of a spring that has been compressed or stretched with displacement $x$. For an ideal spring, it is given by 
 	  
 	  $$
@@ -85,5 +91,5 @@
 [^potential_functions]: The potential function in calculus does not have a negative sign. Here, however, we want the negative sign since we interpret conservative forces as pushing the system towards lower potential energy.
 
 # Links
-* [[University Physics with Modern Physics 15th Edition By Freedman]]
+* [[University Physics with Modern Physics 15th Edition By Freedman]] - Ch. 6, 7
 * [[Kinds of Forces]]

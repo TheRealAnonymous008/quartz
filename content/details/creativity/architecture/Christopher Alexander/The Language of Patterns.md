@@ -40,6 +40,26 @@
 		* Destructive patterns, while they may be stable in the short-run, destroy their surroundings and themselves -- making them unstable in the long run.
 		* *Quality is not dependent on purpose but intrinsic stability* It does not have to be maintained by force.
 		* A pattern lives when it allows its own internal forces to resolve themselves
+	* The more living patterns there are in a thing, the more it comes to life as an entirety, the more it has the nameless quality.
+		* *If a thing has many dead patterns, the imbalance and tension within these dead patterns spread to other patterns* which causes the whole to slowly die.
+		* Patterns that are alive are [[Network Robustness|robust]] and [[Complex Systems|interconnected]]. The individual configuration of any pattern requires [[Characterizing Systems#Internal Organization and Structure|other]] patterns to keep itself alive. *The more alive patterns, the more beautiful the building*.
+		* The quality without a name appears not when an isolated pattern lives, but when an entire system of patterns is stable and alive.
+	* *Patterns that are alive follow the patterns observed in [[The Nameless Quality#The Quality of Nature|nature]]*.
+		* It is patterns that repeat not the constituent parts.
+		* Patterns repeat at every scale.
+		* The apparent imperfections of a place which is alive are not imperfections. They follow from how a part is fitted to a particular position.
+
+# Pattern Languages
+* *Pattern Languages are the [[Genetics|Genetic code]] to the things we build*. 
+* The things we build are unique yet suited for a particular function. This is possible because we copy patterns where they are useful.
+* The patterns derive from our [[The Psychology of Everyday Actions|Conceptual Models]]. A **pattern** *is a rule that describes what to do to generate the entity which it defines*.
+* Patterns exist within contexts -- they are required to address certain needs. As such, patterns form a [[Linguistics|language]]. In it -- [^pattern_langauge]
+	* The elements are patterns
+	* Each pattern has some structure that describes it as a pattern of smaller patterns -- how they are created with respect to patterns.
+	* Each pattern is also a rule. 
+	* The patterns are generative in nature -- it tells us how to construct arrangements which satisfy the rules .
+
+[^pattern_langauge]: Effectively a mirror of [[Characterizing Systems|how systems are defined]].
 
 # Links
 * [[The Timeless Way of Building by Christopher Alexander]]
