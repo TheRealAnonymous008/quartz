@@ -9,7 +9,7 @@
 	* In a parse tree, we may only topicalize phrases and individual words that pass the test of having them appear at the front of the sentence.
 
 # Rules
-* Syntactical rules can be described by using a [[Pushdown Automata and Context Free Languages|parse]] tree, which specifies how to assemble linguistic units to form larger units.
+* Syntactical rules can be described by using a parse tree, which specifies how to assemble linguistic units to form larger units.
 	* Some key units in the parse tree. These are determined by the function of the word or phrase, the latter is determinable through constituent words in the phrase.
 		* **Determiner** - a unit that occurs together with a noun serving to express reference to the noun
 		* **Nouns** - functions as the name of a specific object

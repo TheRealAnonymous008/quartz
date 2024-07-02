@@ -50,7 +50,7 @@
 * At time $t$, we have $S$ and $I$ as the fraction of susceptible and infected individuals. At $t=0$ everyone is susceptible.
 	* Any susceptible person has a chance chance of being infected $\eta$, as well as an average number of contacts $\gamma$ such that $\beta=\gamma \times\eta$.
 
-* The dynamics of the model is captured by the differential equation
+* The dynamics of the model is captured by the [[differential equation]]
   
   $$
   \frac{dI}{dt}=\beta I= \beta \ I \ (1-I)

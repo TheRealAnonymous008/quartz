@@ -2,7 +2,6 @@
 * **Newton's First Law of Motion**. An object acted on by no external [[Kinds of Forces|force]] has a constant velocity and zero acceleration. 
 	* *Forces are not required to sustain motion*. 
 	* Forces can perturb an already existing motion.
-	* An object is in **mechanical equilibrium** when $\vec F_\text{net} = 0$. Such an object has constant velocity
 	* This law is valid within an **inertial frame of reference**. 
 		* Any frame of reference that moves relative to an inertial frame of reference with constant velocity is also inertial.
 		* Newton's First Law means that no inertial observer is privileged over another -- between two inertial observers, there is no way to say which observer is in motion or not. *There is no absolute standard rest*.

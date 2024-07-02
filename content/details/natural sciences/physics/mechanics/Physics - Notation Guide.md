@@ -3,8 +3,8 @@
 * $t$ - time
 * $T$ - period
 
-* $_i$ - initial
-* $_f$ - final
+* $_i, _0$ - initial
+* $_f, _1$ - final
 * $_\text{net}$ - net quantity 
 * $_\text{tot}$ - total quantity
 * $_\text{ext}$ - external quantity 
@@ -15,15 +15,17 @@
 * $M$ - total mass
 * $_\text{CM}$ - center of mass 
 * $A$ - area
+* $V$ - volume
 * $\theta$ - angle
 
 * $\vec{s},\vec{r}$ - displacement or position
-* $d, l$ - length
+* $d, l, w, h$ - length. $w$ and $h$ may pertain to width and height respectively.
 * $v$ - speed
 * $\vec{v}$ - velocity
 * $\vec{v}_{A/B}$ - velocity of $A$ relative to $B$. 
 * $\vec{a}$ - acceleration
 * $g$ - acceleration due to gravity.
+* $\vec{w}$ - weight
 * $\vec{F}$ - force
 	* $_a$ - applied
 	* $_k$ - kinetic friction
@@ -32,6 +34,8 @@
 	* $_n, n$ - normal force
 	* $_T, T$ - tension
 	* $_D, D$ - drag
+	* $_\perp$ - force acts perpendicular to something.
+	* $\parallel$ - force acts parallel to something
 * $\vec{p}$ - momentum
 * $\vec{J}$ - impulse
 * $W$ - work
@@ -55,3 +59,13 @@
 * $I$ - moment of inertia
 * $\vec\tau$ - torque
 * $\vec{L}$ - angular momentum
+
+* $\sigma$ - stress
+* $\varepsilon$ - strain
+* $\delta$ - elasticity modulus
+* $Y$ - Young's modulus
+* $B$ - Bulk Modulus
+* $S$ - Shear Modulus
+* $k$ - compressibility
+
+* $p$  - pressure

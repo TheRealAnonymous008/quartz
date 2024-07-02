@@ -9,9 +9,13 @@
 * [[Work and Energy]]
 * [[Impulse and Momentum]]
 * [[Rotational Motion]]
+* [[Mechanical Equilibrium]]
+* [[Continuum Mechanics]]
+* [[Fluid Mechanics]]
 
 # Links
 * [[University Physics with Modern Physics 15th Edition By Freedman]]
 
 * [[Linear Algebra]]
 * [[Calculus]]
+* [[Differential Equation]]

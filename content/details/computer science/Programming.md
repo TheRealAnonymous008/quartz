@@ -3,6 +3,7 @@
 * [C++](https://devdocs.io/cpp/)
 * [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 * [[CSS]]
+* [[HTML]]
 * [Java](https://docs.oracle.com/en/java/)
 * [MySQL](https://dev.mysql.com/doc/) 
 * [Python](https://docs.python.org/3/)

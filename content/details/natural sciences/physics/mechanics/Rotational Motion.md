@@ -108,6 +108,17 @@
 		* The axis through the center of mass is an axis of symmetry.
 		* The axis must not change direction,
 
+* An object's **center of gravity** is the point on a body where the torque due to gravity vanishes.
+	* The torque due to gravity is given by
+	  $$
+	  \vec{T} = \vec{r}_\text{cm} \times \vec{w}
+	  $$
+	* If $\vec{g}$ has the same value at all points on an object, the center of gravity is identical to the center of mass.
+	* *In general, however, the center of gravity need not be at the center of mass*
+	* In most cases near the earth's surface, we can approximate that the center of gravity equals the center of mass.
+	* An object in rotational [[Mechanical Equilibrium|equilibrium]] and acted on by gravity supported by a single point $P$ has a center of gravity along an axis that passes through $P$ extending in the direction of gravity.
+	* An object with multiple supports will have its center of gravity somewhere within the area bounded by the supports
+		* *The lower the center of gravity and the larger the area of support, the harder to overturn an object*
 ## Work and Energy
 * For a system that is both moving and rotating, the kinetic energy is given as the sum of the kinetic energy using the linear and rotational formulae for kinetic energy.
   

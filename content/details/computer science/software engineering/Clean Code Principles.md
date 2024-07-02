@@ -77,7 +77,7 @@
 	* Comments which can be explained by the function / variable’s name.
 	* Attributions and Bylines
 	* Commented out code (unless it’s there for a reason).
-	* HTML comments
+	* [[HTML]] comments
 	* Comments that describe nonlocal information
 	* Comments that describe too much information
 	* Comments which don’t obviously describe the code.

@@ -34,6 +34,8 @@
   F = k{x}
   $$
   Where $k$ is the spring constant and $\vec{x}$ is small compared to the deformation of the spring. $x>0$ means the spring was stretched.  
+  
+  A general form of Hooke's Law is seen [[Continuum Mechanics|here]].
 ## Friction
 * *Friction is always perpendicular to the normal force by definition*
 * **Static friction force** acts between surfaces that are not moving relative to each other.

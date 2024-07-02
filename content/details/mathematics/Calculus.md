@@ -1,6 +1,7 @@
 # Topics
 * [[Differential Calculus]]
 * [[Integral Calculus]]
+* [[Differential Equation]]
 
 # Links
 * [[Linear Algebra]] - for more on working with vectors. 
