@@ -1,6 +1,6 @@
 * **Cell Walls** are found in plant, fungi, and bacteria cells.
 # Functions
-* It maintains turgor pressure within the cell which gives plant cells their characteristic polyhedral shape.
+* It maintains turgor [[Fluid Mechanics|pressure]] within the cell which gives plant cells their characteristic polyhedral shape.
 * They serve as skeletons for both the cell and the organism.
 * Protects against damage from abrasion and pathogens
 * Mediates cell-cell interactions.

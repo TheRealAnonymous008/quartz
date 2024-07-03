@@ -67,7 +67,7 @@
 * See [[A Unified View on Planning and Learning|here]] for more on off-policy. Note that we make use of [[Importance Sampling]] 
 
 * Ordinary and Weighted importance sampling for First-Visit MC are subject to [[Statistical Estimators#Bias-Variance Tradeoff|bias variance tradeoff]]. Ordinary has low bias, high variance (often infinite) Weighted has high bias, low variance (though the bias converges to $0$).
-* For Every-Visit MC, both ordinary and weighted importance sampling  are biased but this bias converges asymptotically to $0$.
+* For Every-Visit MC, both ordinary and weighted importance sampling  are biased but this bias converges [[Asymptotic Analysis|asymptotically]] to $0$.
 
 # Links
 * [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto Ch. 5]] 

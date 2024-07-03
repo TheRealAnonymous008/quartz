@@ -29,7 +29,7 @@
 	  \text{Var}[\hat\theta]\ge \frac{1}{nI(\theta_0)}
 	  $$
 	  Where $I$ is the Fisher information matrix.
-* The Maximum Likelihood Estimator is **asymptotically optimal**. It is consistent, biased at the limit, and achieves the Cramer-Rao lower bound.
+* The Maximum Likelihood Estimator is **[[Asymptotic Analysis|asymptotically]] optimal**. It is consistent, biased at the limit, and achieves the Cramer-Rao lower bound.
 ### Bias-Variance Tradeoff
 * If we are using Mean Squared Error, we can show that for a given estimator or model
   $$

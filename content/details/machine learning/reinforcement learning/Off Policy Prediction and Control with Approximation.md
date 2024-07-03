@@ -3,7 +3,7 @@
 	* One approach to this is to apply [[Importance Sampling]].
 # Semi-Gradient Methods
 * These methods address how we change update targets for off-policy approximation. 
-* *They may diverge, but they are simple and stable, and asymptotically unbiased for the tabular case.*
+* *They may diverge, but they are simple and stable, and [[Asymptotic Analysis|asymptotically]] unbiased for the tabular case.*
 * We will make use of the [[Importance Sampling#Per-Step|per step importance sampling ratio]] $\rho_t$ as an additional weight to the gradient 
 	* For semi-gradient [[Temporal Difference Learning#Expected SARSA|Expected SARSA]], even though we do not use importance sampling in the tabular case, in the functional approximation case, we use importance sampling to give weight to certain actions.
 	* Note that for $n$-step bootstrapping methods, we make use of $\rho_{t+1},\dots,\rho_{t+n}$ as weights.

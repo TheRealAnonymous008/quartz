@@ -122,7 +122,7 @@
 	* **Flows** are special forces in which something moves from one place to another 
 		* Components that are strongly coupled due to flows transfer more material through the flow channel. 
 		* *In a closed system all outflows of one subsystem become inflows of another.*
-		* It is common to see material, energy and information as flowing into a component. The component then performs work and outputs a usable product, waste materials, and waste heat (i.e., unusable energy).
+		* It is common to see material, [[Work and Energy|energy]] and information as flowing into a component. The component then performs work and outputs a usable product, waste materials, and waste heat (i.e., unusable energy).
 
 * *In general, the forces and flows connecting components are stronger than at the next higher scale of complexity*.
 	* Because of this ,components can exist in a hierarchy. 
@@ -150,7 +150,7 @@
 * The **environment** consists of things that are considered not part of the system in study. 
 * *In the case of the real world, no system exists in a vacuum [^ext_org_1]*. Thus, the environment can be characterized with sources and sinks
 
-* **Dissipative Systems** - systems that maintain themselves by continually taking in and dispelling matter, energy, and information. 
+* **Dissipative Systems** - systems that maintain themselves by continually taking in and dispelling matter, energy, and [[Information Theory|information]]. 
 
 * *It is important to examine the flows coming from the environment*
 	* The internal organization of a system can be maintained using constraints that allow only certain flows from the environment.

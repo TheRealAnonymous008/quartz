@@ -1,4 +1,4 @@
-* From a [[Game Theory|Game Theoretic]] perspective, we can compute various solution concepts in the stochastic games that MARL captures. However, computation of these solution concepts is known to be [[Complexity Zoo|NP-hard]]. *Any MARL algorithm will be exponentially hard in the worst case*.
+* From a [[Game Theory|Game Theoretic]] perspective, we can compute various solution concepts in the stochastic games that MARL captures. However, computation of these solution concepts is known to be [[Complexity Theory|NP-hard]]. *Any MARL algorithm will be exponentially hard in the worst case*.
 	* This necessitates exploiting structures or assumptions (inductive biases) about certain game types .
 # Research 
 * *Current (2023) trends suggest that mixed play algorithms more or less perform the same*. 

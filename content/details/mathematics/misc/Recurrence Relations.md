@@ -44,7 +44,7 @@
   $$
   T(n)=aT(n/b) + f(n)
   $$
-  Where $a\ge 1$ and $b>1$ are constants and $f(n)$ is an asymptotically positive function.
+  Where $a\ge 1$ and $b>1$ are constants and $f(n)$ is an [[Asymptotic Analysis|asymptotically]] positive function.
   
   *We implicitly assume that the problem is divided into equal subproblems*
   

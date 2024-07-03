@@ -76,6 +76,7 @@
 * *The whole is greater than the sum of its parts*. A piece is viewed as a whole, not just as a mish-mash of disjointed parts. A piece is viewed as part of the wider whole (its cultural context).
 * *Respect the audience's time and intelligence* lest the creative work comes off as pretentious or dull.
 * [[The Cult of Done Manifesto|Get Things Done]]
+* [[The Language of Patterns|Your creative power is tied to your pattern language]]. At the time of designing, we rely on the rules of thumbs that we have and these rules are expressed in this pattern language. *It helps to be precise even if it is hard.*
 
 
 

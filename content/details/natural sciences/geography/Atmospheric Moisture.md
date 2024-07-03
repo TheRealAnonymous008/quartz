@@ -4,7 +4,7 @@
 * *Humid air has a higher dew point temperature than less humid air. Low dew point = low humidity*.
 	* Topographical features that block moisture and wind also reduce the rate of change of the dew point.
 	* Receiving little insolation also lowers dew point significantly.  
-	* *High insolation = higher energy = more humidity = higher dew point*. 
+	* *High insolation = higher [[Work and Energy|energy]] = more humidity = higher dew point*. 
 
 
 * A belt of high specific humidity straddles the equator, coinciding with the tropics. This is due to [[The Earth and Insolation|insolation]].
@@ -13,7 +13,7 @@
 * *Dry Air is associated with low humidity*. Thus, deserts have low humidity. 
 * Cold seasons have lower specific humidity. 
 
-* *As air rises, the pressure decreases*. In an adiabatic situation, the decrease in pressure means *increase in volume and decrease in temperature*. 
+* *As air rises, the [[Fluid Mechanics|pressure]] decreases*. In an adiabatic situation, the decrease in pressure means *increase in volume and decrease in temperature*. 
 
 * *Each lapse rate tells something different about the air parcel* 
 	* **Unstable**: If the environmental lapse rate is higher than the (un)saturated adiabatic lapse rate, then the rising air parcel will *remain warmer* than its surroundings and it will continue rising 

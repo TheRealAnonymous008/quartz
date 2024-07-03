@@ -22,14 +22,6 @@
 
 * *Most remarkably, each place is only composed of a few patterns*
 
-* Each pattern is a **morphological law** which establishes a set of relationships in space. It can be expressed as 
-  
-  $$
-  X \to r(A, B,\dots)
-  $$
-  Read as "within context of types $X$, the parts $A,B, \dots$, are [[Relation|related]] by relationship $r$.
-	* Each law or pattern is itself a pattern of relationships with other laws. 
-
 * The specific patterns out of which a building or town is made may be alive or dead. 
 	* To the extent they are alive, they let our inner forces loose and set us free. They let man be their genuine self.
 	* When they are dead, they keep us locked in inner conflict. They keep us in a perpetual state of tension.
@@ -50,16 +42,39 @@
 		* The apparent imperfections of a place which is alive are not imperfections. They follow from how a part is fitted to a particular position.
 
 # Pattern Languages
-* *Pattern Languages are the [[Genetics|Genetic code]] to the things we build*. 
+* *Pattern Languages are the [[Genetics|Genetic code]] to the things we build*.  All acts of building have an underlying pattern language -- a byproduct of the languages which people use.
+	* *Language is our way of ascribing patterns in the world.*
+	* Each pattern encapsulate some rule of thumb followed by people.
+	* Every person has a unique pattern language in his mind based on their own experiences.
 * The things we build are unique yet suited for a particular function. This is possible because we copy patterns where they are useful.
-* The patterns derive from our [[The Psychology of Everyday Actions|Conceptual Models]]. A **pattern** *is a rule that describes what to do to generate the entity which it defines*.
-* Patterns exist within contexts -- they are required to address certain needs. As such, patterns form a [[Linguistics|language]]. In it -- [^pattern_langauge]
-	* The elements are patterns
-	* Each pattern has some structure that describes it as a pattern of smaller patterns -- how they are created with respect to patterns.
-	* Each pattern is also a rule. 
-	* The patterns are generative in nature -- it tells us how to construct arrangements which satisfy the rules .
+## [[Pattern Structure]]
+
+
+## Patterns and Society
+* Everything that has ever been made was made within the framework of a pattern language.
+	* *Patterns are not just responsible for the specific shape a building has, but to the extent to which it comes to life.*
+	* Patterns are composable in an infinite number of ways
+	* *A living pattern language gives rise to creations that are alive*
+	* The rules within these pattern languages are simple and easy to convey between speakers of this language.
+* Pattern languages that are [[Memetics|widely shared]] thrive. 
+* Those that lose its speakers, and those where the people using the creations from a pattern language, themselves, do not speak this language, die. 
+	* *When people lose their pattern languages, they lose touch with their most elementary intuitions*. They make decisions which fundamentally do not make sense with respect to nature.
+	* As soon as a few people begin to build for the many, their patterns about what is needed becomes abstract -- gradually losing touch with reality.  [^abstraction]
+	* This only fuels a [[System Archetypes|negative feedback loop]] where pattern languages become more fragmented.
+	* *So long as people are separated from the pattern languages used to create things, these creations cannot be alive*
+* To make sure that pattern languages live ultimately requires a [[System Opportunities|paradigm shift]]
+
+## Bringing Patterns To Life
+* To work our way toward a shared and living language once again, we must first learn how to discover patterns which are deep and capable of generating life.
+* *This requires finding a way to talk about patterns in a way that can be shared*
+	* This, first, requires understanding how patterns are structured.
+	* Then we make the inner structure of the pattern clear (see [[#Pattern Structure|here]]) 
+	* A pattern is shareable only if one knows how to reify it into the real world.
+* Gradually, by hard work, it is possible to discover many patterns which are deep and which can help to bring a structure to life. They vary from culture to culture, but it is possible to discover them and to write them down so they can be shared.
+
 
 [^pattern_langauge]: Effectively a mirror of [[Characterizing Systems|how systems are defined]].
+[^abstraction]: Effectively a [[Trade Offs#Abstraction Trade-Off|abstraction trade off]] but on a memetic scale.
 
 # Links
 * [[The Timeless Way of Building by Christopher Alexander]]

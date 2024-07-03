@@ -24,6 +24,7 @@
 * Forecasting -- specifically [[Time Series Analysis]].
 * Abnormal Psychology. Specifically Mental Illnesses.
 * Chess Openings
+* [Metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)
 
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.

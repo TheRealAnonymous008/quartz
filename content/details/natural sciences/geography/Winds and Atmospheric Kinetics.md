@@ -1,5 +1,5 @@
 # What Causes Winds?
-* Atmospheric pressure exists due to the *continuous collision of molecules in the atmosphere*.
+* Atmospheric [[Fluid Mechanics|pressure]] exists due to the *continuous collision of molecules in the atmosphere*.
 * *Temperature gradients are the main driver for atmospheric motion*. 
 	* Insolation causes an increase in temperature, which causes an increase in volume, and a decrease in air pressure. 
 	* The above also results in **pressure gradients**. *Wind is primarily driven by pressure gradients*

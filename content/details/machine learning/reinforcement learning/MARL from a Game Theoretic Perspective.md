@@ -97,7 +97,7 @@
 	  \end{split}
 	  $$
 
-* *Note*: The solution concepts defined below are known [[Complexity Zoo|NP-hard]] problems in the general case. The computation of $\epsilon-$Nash equilibria, for example is PPAD complete. 
+* *Note*: The solution concepts defined below are known [[Complexity Theory|NP-hard]] problems in the general case. The computation of $\epsilon-$Nash equilibria, for example is PPAD complete. 
 
 ## Equilibria 
 * The **Best Response Policy** is defined as the policy that maximizes the return 
