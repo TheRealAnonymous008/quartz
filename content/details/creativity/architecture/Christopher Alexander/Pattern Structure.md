@@ -7,11 +7,6 @@
   Read as "within context of types $X$, the parts $A,B, \dots$, are [[Relation|related]] by relationship $r$.
 	* Each law or pattern is itself a pattern of relationships with other laws. 
 
-* The [[Syntax]] of the [[The Language of Patterns|pattern language]] lets us rule out meaningless patterns. *The pattern language gives us precision*
-	* A pattern language is a collection of patterns which *correspond to profound observations* about what makes something beautiful.
-	* The most mystical and wonderful are not less ordinary than most things -- they are more ordinary than most thing, and because of that they strike to the core.
-	* Depth is not achieved by the fact a rule can be expressed, but rather by the fact the rule is extremely [[Archetypes|deep]].
-	* *It takes great powers of observation to formulate the rules in this language*.
 * *Each pattern is a three-part rule* which expresses a relation between a context, a problem and a solution. 
 * Patterns exist within contexts -- they are required to address certain needs. As such, patterns form a [[Linguistics|language]]. In it -- [^pattern_langauge]
 	* The elements are patterns
@@ -25,6 +20,12 @@
 	* "*Why*" does the pattern exist. What problem does it solve. What system of forces are involved in the pattern 
 	* "*When / Where*" will this pattern work.  We must define the exact range of contexts where the problem occurs and where the solution is appropriate.
 * *Because it is contextual, every pattern is self-contained*.  To say a pattern is alive is to say that there is an empirical relationship between a limited context, a set of forces and a pattern which resolves these forces. 
+* *Every pattern within the pattern language is an operator which differentiates space* -- it creates distinctions where no distinction was before. This operator is concrete. 
+	* It is specific in that it gives rise to that particular pattern
+	* It is general in the sense that it is specific to a general context which gives rise to the pattern. 
+	* The pattern language allows us to sequence these patterns together to create the final structure.
+
+# Working with Patterns
 * *Discovering patterns begins with observation*
 	* Begin with a set of structures and study what common features they have (a hypothesized pattern)
 	* Identify the problem that exists in those structures which lack the pattern -- typically this requires us to identify the forces at work and how the pattern resolves these forces.
@@ -52,6 +53,10 @@
 		* It is painstaking because it demands paying attention to these feelings
 		* From an empirical perspective, this ties to using qualitative methods on top of quantitative methods.
 		* *At its core, this method relies on testing for the presence of [[The Nameless Quality]]. We feel the system-ness of the system.*
+
+* Patterns have a recursive structure -- they exist within patterns and they contain patterns .
+	* Pattern $A$ that exists within a larger pattern language is anchored and reinforced by the other patterns within that language.
+	* *Patterns must not consist of too many smaller patterns*.  It is harder to reify patterns that are too complex. 
 
 # Links
 * [[The Timeless Way of Building by Christopher Alexander]] - Ch. 14, 15, 16, 17

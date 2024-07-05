@@ -1,4 +1,4 @@
-* We say that an axis of rotation is a **[[Isometries|symmetry]] axis** if the object can be rotated along this axis such that the positions before and after the rotation are indistinguishable. 
+* We say that an axis of rotation is a **[[Group Theory|symmetry]] axis** if the object can be rotated along this axis such that the positions before and after the rotation are indistinguishable. 
 # Tangential [[Kinematics]]
 * A point mass moves in **uniform circular motion** if it moves in a circle at constant speed. 
 	* In this scenario, there is no change of acceleration parallel to the path. Thus, *acceleration is perpendicular to the path and directed inward*.
