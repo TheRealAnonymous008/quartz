@@ -44,7 +44,7 @@
 	  b_i^{t+1} (s') \propto \sum_{s\in S} b_i^t(s) \ \mathcal{T}(s'\mid s,a_i^t ) \ \mathcal{O}_i (o_i^{t+1}\mid a_i^t, s')
 	  $$
 		* Note that updating the belief states is a complex task especially for multiagent environments. 
-		* *This is mitigated by assuming that agents do not have exact knowledge of the elements of a POMDP*. They can be approximated through [[Recurrent Neural Networks]]
+		* *This is mitigated by assuming that agents do not have exact knowledge of the elements of a POMDP*. They can be approximated through [[Recurrent Neural Network|RNNs]]
 
 
 * The **full history** up to time $t$ is denoted as $\hat{h}^t$. It is of the form $(s^0, o^0, a^0, \dots, s^t, a^t)$

@@ -18,9 +18,9 @@
 [^dom]: Think of this space as analogous to word embeddings.
 
 # Geometric Priors
-* [[The Evolution of Convolutional Neural Networks|CNNs]] maintain equivariance (i.e., translational symmetry).
+* [[Convolutional Neural Network|CNNs]] maintain equivariance (i.e., translational symmetry).
 * [[Graph Neural Networks|GNNs]] and [[The Transformer Model|Transformers]] make use of permutation invariants
-* [[Recurrent Neural Networks|RNNs]] make use of time warping invariants.
+* [[Recurrent Neural Network|RNNs]] make use of time warping invariants.
 * Another prior is **scale separation** where we produce a hierarchy of spaces by a coarse-graining operator $P$.  A function is **locally stable** if it can be approximated as the composition of coarse-graining operators.
 # Links
 * [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)

@@ -4,7 +4,7 @@
   R[p, f] =\int_{X\times Y} {L(y, f({x})) \space  p({x}, y)\space d{x}\space dy}
   $$
   
-* This serves as a metric to determine how a model performs on unseen data. A high generalization error may indicate that the model is overfitting. 
+* This serves as a metric to determine how a model performs on unseen data. A high generalization error may indicate that the model is overfitting (see [[#Overfitting|below for more]])
 * The generalization error is typically not calculated since the probability distribution is unknown. *We, instead, choose to evaluate over a set of unseen samples in the same vein as training error but using unseen data* 
   $$
   {R_n{(X,\vec{y}, f)} =\frac{1}{n}\sum_{i=1}^n L({\vec{y}^{(i)}, f(X^{(i)}))}}
@@ -180,6 +180,21 @@
   Where $p_i=P(y_i=1\mathcal{D})$ is the prior belief regarding the hypothesis. 
 * The **Direct Posterior Probability approach** involves modifying the decision threshold $\tau$.
 
+# Underfitting
+* **Underfitting** pertains to a phenomenon where a Model cannot capture the underlying patterns within the data.
+* The model is incapable of capturing the complexity of the problem. Whether we are training or testing, there is no difference in model performance.
+* More formally, we can use the generalization and training error.
+  
+  If $\text{GG}$ is small and if $\text{TE}$ and $\text{GE}$ themselves are substantially high, the model has underfitted
+
+# Overfitting
+* **Overfitting** pertains to a phenomenon where the model corresponds too closely or exactly to a particular set of data, and may therefore fail to fit to additional data or predict future observations reliably.
+* In other words, the model cannot generalize well and the model has only learnt on recalling the data rather than recognizing patterns.
+* If $\text{GG}$ is large by a significant amount, then we may have an overfitted model.
+
+* Overfitting typically necessitates either more training models or regularization techniques.
+  
+  
 # Links 
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 5]]
 * [[Dive into Deep Learning by Zhang, Lipton, Li and Smola|Zhang et. al]].

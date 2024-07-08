@@ -81,7 +81,7 @@ $$
   $$
 *  *This makes target values change slowly and improves stability. At the cost of slowing learning.*
   
-* This also makes use of *batch normalization* to minimize covariance shift during training. 
+* This also makes use of *[[Batch Normalization]]* to minimize covariance shift during training. 
 * To do better exploration, the exploration policy $\mu'$ is constructed [^ddpg-a] by *adding noise* $\mathcal{N}$
   
   $$

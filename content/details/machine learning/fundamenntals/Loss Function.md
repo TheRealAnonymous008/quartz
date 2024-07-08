@@ -64,4 +64,4 @@
 * This acts as a combination of L1 and L2 [[Linear Models|regression]]
 # Links 
 * [[Differential Calculus]]
-* [[Optimization Algorithm]] - how to actually minimize or maximize the loss.
+* [[Optimization Algorithms in Machine Learning]] - how to actually minimize or maximize the loss.

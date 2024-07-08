@@ -17,6 +17,11 @@
 
 * [[Logical Fallacy Biases]] - humans are not logical beings. Humans are not good at statistics.
 
+* [[Prospect Theory]]
+
+* [[Apophenia]]
+
+* [[Anchoring Bias]]
 # Futures
 * Extension Neglect
 	* Compassion Fade

@@ -1,27 +1,25 @@
-* Machine Learning Methods generally require the following four components: Data, Models, Objectives, and Optimization Algorithms. 
-* The three classic paradigms are suited for different problems:
-	* **Supervised Learning** - for finding functional mappings between features and labels. 
-	* **Unsupervised Learning** - for understanding the underlying structure of the data . 
-	* **Reinforcement Learning** - for developing policies and behaviors. 
+* Machine Learning Methods generally require the following four components:
+	* Data
+	* Models 
+	* [[Loss Function|Objective]]
+	* [[Optimization Algorithms in Machine Learning]]. 
 
-* The methods of Neural Style Transfer probably indicate that neural networks can extract the "essence" of an image in the same manner humans recognize an object even if it is rendered or perceived differently.
+* The three classic paradigms are suited for different problems:
+	* **[[Supervised Learning]]** - for finding functional mappings between features and labels. 
+	* **[[Unsupervised Learning]]** - for understanding the underlying structure of the data . 
+	* **[[Reinforcement Learning]]** - for developing policies and behaviors. 
 
 * Machine Learning models have **inductive biases** - assumptions that the model uses to perform a prediction task wherein the model prefers a certain class of solutions. 
 * The **No Free Lunch Theorem** - any learning algorithm generalizes better on data with certain distributions and worse with other distributions. 
 
 * [[Systems and Models|Machine Learning models can capture patterns within systems]].
 # Topics
-* [[Supervised Learning]]
-* [[Unsupervised Learning]]
-* [[Reinforcement Learning]]
 * [[Geometric Deep Learning]]
 *  [[Low Level of Training a Model]]
 * [[Model Performance]]
 * [[Multimodal Models]]
 
-
-* [[Loss Function]]
-* [[Optimization Algorithm]]
+* [[Pathologies of Deep Learning]]
 
 * [[AI in Education]]
 * [[Machine Learning and Mathematical Reasoning]]

@@ -1,6 +1,5 @@
 * Geography demonstrates how the location of a phenomena is just as important as the phenomenon itself.  
-
-	>**The Axiom of Geography**: The location of something affects, and is a product of other features or processes in both the natural and human environment
+	* **The Axiom of Geography**: The location of something affects, and is a product of other features or processes in both the natural and human environment
 
 * Earth is a [[Complex Systems|complex system]]. The four spheres of the earth interact and affect each other, not to mention the impact of the human race to the environment. 
 

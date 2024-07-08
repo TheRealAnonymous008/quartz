@@ -3,6 +3,7 @@
 # Topics
 * [[Interesting Etymological Decompositions of English Words]]
 * [[Names Index]]
+	* [[Toponymy]]
 * [[Proto-Indo-European Etymology]]
 * [[Greco-Latin Etymology]]
 

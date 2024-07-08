@@ -241,7 +241,7 @@ $$
 	  $$
 	  \mathcal{L}_\text{RL} = \int r(\tau \mid z) \ p_\theta (z\mid s_0) \ \rho (s_0) \ dz \ ds_0
 	  $$
-	* Another objective makes use of mutual information to encourage diverse but identifiable behavior among policies derived from $z$. The actions in the trajectory are encoded by an [[Recurrent Neural Networks|RNN]]. $\sigma$ is an operator that returns a per-agent Boltzmann policy with respect to the utilities at each time step $t$. 
+	* Another objective makes use of mutual information to encourage diverse but identifiable behavior among policies derived from $z$. The actions in the trajectory are encoded by an [[Recurrent Neural Network|RNN]]. $\sigma$ is an operator that returns a per-agent Boltzmann policy with respect to the utilities at each time step $t$. 
 	  
 	  A tractable lower bound is provided using a variational distribution $q_0$ parameterized by $v$ as a proxy for the posterior over $z$.
 	  

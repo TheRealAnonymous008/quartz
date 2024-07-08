@@ -50,7 +50,7 @@
 * Beware of when Uncertainty breaks down into an non-meaningful player experience:
 	* Make sure your randomization functions are actually random (i.e., follow the target distribution you are aiming for.) *Changes in the randomization can lead to unexpected errors.*
 	* Make sure the procedures for determining randomness operate how you intend them to. Remember that *players may use the randomness itself strategically, in ways you do not intend.*
-	* Remember that players are prone to [[Human Biases|fallacies about probability.]] Thus, *understand how players misinterpret randomness*.
+	* Remember that players are prone to [[False Priors and Extension Neglect|fallacies about probability.]] Thus, *understand how players misinterpret randomness*.
 
 ### [[Information Theory]] Systems
 * *Games are systems wherein there is a flow of information*. In this context:

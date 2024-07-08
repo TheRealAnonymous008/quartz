@@ -3,8 +3,7 @@ title: The Library
 ---
 The purpose of this Library is to archive and share my Second Brain to others. These notes were primarily written *for me*, but I figured that others can use these notes as well. [^1]
 
-[^1]: If you see any formatting errors, please let me know. (Dataview tables are like that. I am awaiting a new push from quartz.)
-
+[^1]: If you see any formatting errors, please let me know.
 # Overview
 * I make notes on all things that I find interesting and that I have willingly committed to performing a deep dive on.
 * All notes on knowledge are based on ideas, not my own ideas. Sometimes I provide some explanations that can help make it more intuitive to understand. 
@@ -53,7 +52,7 @@ A broad listing of all the topics that I have made notes on [^2].
 </div>
 
 <div class="custom-index-card">
-	<a href="/details/humanities/languages">Linguistics</a>
+	<a href="/details/linguistics">Linguistics</a>
 	<img src="https://static.vecteezy.com/system/resources/thumbnails/000/696/278/small/textured-black-background.jpg"  class="image">
 	<div class="custom-index-title"><span>L</span><span>Linguistics</span></div>
 </div>
@@ -106,7 +105,7 @@ A broad listing of all the topics that I have made notes on [^2].
 * [[Beliefs and General Principles]]
 * [[Interesting People]]
 * [[Literature Index]]
-* [[Unfiled Thoughts and Trivia]] ]]
+* [[Unfiled Thoughts and Trivia]] 
 * [[Words]]
 
 * [[The Antilibrary]] - contains unread or interesting material for the very far future.

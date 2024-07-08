@@ -42,7 +42,7 @@
 		* *The Bellman Error is not learnable*. 
 
 ### Gradient-TD Methods
-* *The goal is to use [[Optimization Algorithm#Stochastic Gradient Descent|SGD]] to minimize PBE*. 
+* *The goal is to use [[Optimization Algorithms in Machine Learning#Stochastic Gradient Descent|SGD]] to minimize PBE*. 
 * Let $\mu$ be the distribution of states visited under the behavior policy.
 * The gradient of PBE is obtained as
   

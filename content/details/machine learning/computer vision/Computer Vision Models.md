@@ -1,3 +1,6 @@
+
+* The methods of Neural Style Transfer probably indicate that neural networks can extract the "essence" of an image in the same manner humans recognize an object even if it is rendered or perceived differently.
+
 # Topics 
 * [[Object Detection]]
 # Papers
@@ -21,6 +24,7 @@
 
 *  *Model Doctor -- A Simple Gradient Aggregation Strategy for Diagnosing and Treating CNN Classifiers by Feng et. al (Jun 8, 2022)* - introduces Model Doctor, an automatic model diagnosis system that aims to improve the accuracy of CNN-based classifiers based on how categories tend to be correlated to specific convolutions, and how positive samples tend to be successive in feature space. The system can be used to augment existing methods. 
 # Links
-* The Evolution of Convolutional Neural Networks - for an overview into the history of CNNs and how they have evolved over time
-* Crowd Counting - a subdomain of Computer Vision.
+* [[Convolutional Neural Network]]
+* [[The Evolution of Convolutional Neural Networks]] - for an overview into the history of CNNs and how they have evolved over time
+* [[Crowd Counting]] - a subdomain of Computer Vision.
 

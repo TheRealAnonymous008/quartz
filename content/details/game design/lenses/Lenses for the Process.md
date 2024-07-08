@@ -20,6 +20,7 @@
 	* Challenge and destroy your assumptions. Innovation can come from removing your assumptions. 
 	* Mix and match categories .
 	* Talk to yourself or with a partner. Bounce ideas off of someone. 
+	* More tips [[The Timeless Way of Building|here]].
 
 * Relevant lenses: [[Lenses for Game Design - Lenses#13. Infinite Inspiration|Infinite Inspiration]], [[Lenses for Game Design - Lenses#14. The Problem Statement|Problem Statement]]
 

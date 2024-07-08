@@ -104,7 +104,7 @@
 	* Compared to perfect competition, this comes because marginal revenue is not the same as the price the market is willing to pay. 
 	* Monopolies are also not incentivized to innovate since they are the only suppliers of the product. 
 
-[^mon_2]: Not unlike [[Optimization Algorithm#Gradient Descent|Gradient Descent]]. 
+[^mon_2]: Not unlike [[Optimization Algorithms in Machine Learning#Gradient Descent|Gradient Descent]]. 
 ## Monopolistic Competition 
 * **Monopolistic competition** - feature a large number of competing forms but the products they sell are not identical.  *When products are not distinctive, each firm has a monopoly on that distinct product
 * Firms in monopolistic competition sell **differentiated products** indicative of alternative styles of the product. 

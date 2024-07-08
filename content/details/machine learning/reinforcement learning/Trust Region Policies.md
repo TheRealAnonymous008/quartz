@@ -48,7 +48,7 @@
 [^TRPO_2]: The KL divergence makes this intuitive since it measures the similarity between two probability distributions, and recall that policies are probability distributions.
 
 # PPO
-* **Proximal Policy Optimization** [^Schulman_2017]. These alternate between sampling data through interaction with the environment, and optimizing a “surrogate” objective function using [[Optimization Algorithm#Stochastic Gradient Descent|SGD]].
+* **Proximal Policy Optimization** [^Schulman_2017]. These alternate between sampling data through interaction with the environment, and optimizing a “surrogate” objective function using [[Optimization Algorithms in Machine Learning#Stochastic Gradient Descent|SGD]].
 * The goal is scalability since [[#TRPO]] is complicated and not good for noisy architectures. 
 
 ### PPO-CLIP

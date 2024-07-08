@@ -7,6 +7,9 @@
 * In **online learning** we have data points $(x^{(i)}, y^{(i)})$ that arrive *one sample at a time*. More specifically, we formulate an estimation and only when we have done this can we observe $y^{(i)}$.
   
   We follow a cycle where we have to continuously improve the model given new observations
+	* The **bandit problem** is a special variation wherein instead of having a continuously parameterized model $f$, we have a finite number of actions that we can take and we must allocate our resources to minimize loss.
+
+
 
 # Distribution Shift
 * A **distribution shift** pertains to a problem in making a model wherein the assumption that the [[Random Variables and Probability Distributions|distribution]] of the problem domain being stationary does not hold. 
@@ -54,6 +57,7 @@
 * **Environment Shift** - happens when a model influences an environment that can also adapt to the actions of the model. 
 
 ### Nonstationarity 
+* A **stationary distribution** is one where the unconditional joint probability distribution does not change when shifted in time. Any statistical measures or dynamics do not change.
 * **Non-stationary distributions** are a form of distribution shift where the distribution changes slowly and the model is not adequately updated.
 
 # Generalization 
@@ -141,9 +145,14 @@
 	* *Too low of a learning rate* means the model gets stuck on local minima and will converge must slower. 
 	* *Too high of a learning rate* will jump over the minima
 
+* One way to fix this is to use [[Residual Learning]]
+
 # Test Set Reuse 
 * We must be careful when we reuse the test set for testing another model since we cannot guarantee that the next model will receive a misleading prediction score
+
+# Performance
+* [[Model Performance#Underfitting|Underfitting]] and [[Model Performance#Overfitting|overfitting]] are both concerns.
 # Links
 * [Understanding Double Descent](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
 * [[Neural Network]]
-* [[Optimization Algorithm]]
+* [[Optimization Algorithms in Machine Learning]]

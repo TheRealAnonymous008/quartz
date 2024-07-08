@@ -23,12 +23,14 @@
   
 	* An estimator is **unbiased** if its bias is $0$. *This means the sampling distribution is centered on the true parameter*.
 	* Another way to say this is if $\mathbb{E}[\hat{\theta}(\mathcal D)] = \theta^\ast$
+	* It is the inherent error that you obtain from the model even with infinite training data. This is due to *the model being inherently "biased" towards a particular kind of solution.*
 * Another consideration is **minimum variance**. 
 	* **Cramer-Rao lower bound**. Let $X_1,\dots, X_n\sim P(X\mid\theta_0)$ and $\hat{\theta}=\hat{\theta}(x_1,\dots, x_n)$ be an unbiased estimator of $\theta_0$. Then under various smoothness assumptions on $P(X\mid\theta_0)$, we have 
 	  $$
 	  \text{Var}[\hat\theta]\ge \frac{1}{nI(\theta_0)}
 	  $$
 	  Where $I$ is the Fisher information matrix.
+	* The variance is *the degree to which the classifier varies if it is trained on a different dataset*.
 * The Maximum Likelihood Estimator is **[[Asymptotic Analysis|asymptotically]] optimal**. It is consistent, biased at the limit, and achieves the Cramer-Rao lower bound.
 ### Bias-Variance Tradeoff
 * If we are using Mean Squared Error, we can show that for a given estimator or model
@@ -41,3 +43,42 @@
 * Note for classification with $0-1$ loss, this does not hold.
 	* For a correct estimate, the bias will be negative, and it pays to decrease the variance.
 	* For an incorrect estimate, the bias will be positive, and it pays to increase the variance.
+
+* Here is a more formal statement of this tradeoff. Suppose we have training dataset $\mathcal{D} = (x^{(i)}, y^{(i)})$. Let $f$ be the true function such that 
+  $$
+  y = f(x) + \epsilon
+  $$
+  Where $\epsilon$ is Gaussian noise.
+  
+  Let $\hat{f}_\mathcal{D}$ be the approximate function to $f(x)$ trained on $\mathcal{D}$. We can then quantify how good $\hat{f}_\mathcal{D}$ is based on the MSE.
+  
+  The MSE can be framed as
+  $$
+  \mathbb{E}_{\mathcal{D}, \epsilon}\left[\left(y-\hat{f}_\mathcal{D}(x)\right)^2\right]
+  $$
+  It can then be decomposed as follows. Let us drop subscript $\mathcal{D}$ for convenience.
+  
+  $$
+  \mathbb{E}[y]=\mathbb{E}[f(x)+\epsilon]=\mathbb{E}[f(x)]+\mathbb{E}[\epsilon]=\mathbb{E}[f(x)]
+  $$
+  
+  $f$ is independent of our choice of $\mathcal{D}$ so $\mathbb{E}[f]=f$
+  
+  The variance $\text{Var}[y] = \sigma^2$ is computed using the variance of the noise term. This follows because $f$ is independent of noise and is deterministic.
+
+  The MSE then has the following computation 
+  $$
+  \begin{equation}
+  \begin{split}
+  \text{MSE} & = \mathbb{E}[(y-\hat{f})] \\& = \mathbb{E}[(f+\epsilon-\hat{f})^2] \\ 
+  &=\mathbb{E}[(f+\epsilon-\hat{f}+\mathbb{E}[\hat{f}]-\mathbb{E}[\hat{f}])]\\
+  &= \mathbb{E}[(f-\mathbb{E}[\hat{f}])^2] + \mathbb{E}[\epsilon^2] + \mathbb{E}[(\mathbb{E}[\hat{f}]-\hat{f})^2] \\
+  &= (f-\mathbb{E}[\hat{f}])^2+\text{Var}[\epsilon]+\text{Var}[\hat{f}]\\
+  &= \text{Bias}[\hat{f}]^2 + \sigma^2 + \text{Var}[\hat{f}]
+  \end{split}
+  \end{equation}
+  $$
+
+
+# Links
+* [[Random Variables and Probability Distributions]]

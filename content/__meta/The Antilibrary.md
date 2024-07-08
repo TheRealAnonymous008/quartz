@@ -35,6 +35,7 @@
 * [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
 	* https://en.wikipedia.org/wiki/Köppen_climate_classification
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
+* [[Human Biases]] 
 
 # Papers
 * Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 

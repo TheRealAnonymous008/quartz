@@ -20,7 +20,7 @@
 	  w_{t+1}=w_t+\alpha\left[U_t-\hat{v}_{w_t}(S_t)\right]\nabla\hat{v}_{w_t}(S_t)
 	  $$
 	  Where $U_t$ denotes some  to the true value $v_\pi(S_t)$ (i.e., one obtained from bootstrapping using $\hat{v}$ or it may be $v_\pi + \epsilon$ )
-	* If $U_t$ is [[Statistical Estimators#Properties of Good Estimators|unbiased]] then we can guarantee convergence via [[Optimization Algorithm#Stochastic Gradient Descent|SGD]].
+	* If $U_t$ is [[Statistical Estimators#Properties of Good Estimators|unbiased]] then we can guarantee convergence via [[Optimization Algorithms in Machine Learning#Stochastic Gradient Descent|SGD]].
 		* For example, if $U_t=G_t$ as in [[Monte Carlo Methods in Reinforcement Learning|Monte Carlo]] approximation.
 	* If $U_t$ is derived from bootstrapping, then we cannot guarantee convergence with Gradient Descent because the estimates also depend on $w_t$.
 

@@ -1,7 +1,7 @@
 * MARL extension of [[Policy Gradient Method Algorithms|PGM algorithms]]. They *gradually vary the action probabilities within a learned policy*.
 
 ## IGA
-* We can perform [[Optimization Algorithm#Gradient Descent|Gradient Descent]] to update the policy *towards maximizing the expected reward.*
+* We can perform [[Optimization Algorithms in Machine Learning#Gradient Descent|Gradient Descent]] to update the policy *towards maximizing the expected reward.*
 * A variant is called  **infinitesimal gradient ascent (IGA)** defined for two agents and two actions. 
 * *Assumption*: Agents have knowledge of their reward matrix 
 * In IGA, we update the gradient in an unconstrained manner and then project it so that it becomes a valid probability distribution. 
