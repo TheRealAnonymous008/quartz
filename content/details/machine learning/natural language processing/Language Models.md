@@ -1,4 +1,12 @@
-* **Tokenization** pertains to the process of splitting a string into a sequence of small indivisible units called **tokens**.
+* A **language model** is a type of model which aims to estimate the [[Random Variables and Probability Distributions|joint probability]] that a sequence exists in some distribution.
+* Language models are [[Time Series Analysis|autoregressive]]. It models prediction by decomposing the joint probability of a sequence as follows (using the Chain rule of Probability)
+  
+  $$
+  P(x_1,\dots,x_T)=P(x_1 ) \prod_{t=2}^TP(x_t \ | \ x_{t-1}, \dots, x_1)
+  $$
+  We may also simplify the above if we make use of the Markov property.
+
+# Pipeline
 * In general, the pipeline for language data is:
 	* Clean the data (Optional depending on problem) 
 		* Remove **stop words** or words that are commonly used.
@@ -11,21 +19,30 @@
 		  
 		  The rest  of the sequence is then partitioned into $m=\left\lfloor\frac{T-d}{n}\right\rfloor$
 	* Load inputs into memory
-	* Tokenize
+	* **Tokenization** -- this pertains to the process of splitting a string into a sequence of small indivisible units called **tokens**.
 	* Build a vocabulary to associate each vocabulary element with a numerical index.
 	* Convert the text into a sequence of numerical indices.
 
-# Metrics
-* One common metric is the **perplexity**. It is proportional to the [[Loss Function|cross entropy loss]] averaged over all $n$ tokens of a sequence. More formally 
+# Basic Models
+## Frequency-Based Estimation
+* Language models can be used to determine the conditional probability of any given word using its relative frequency in the training set. 
   
+  Given words, $x$, and $y$, we have 
   $$
-  \text{PP}(x)=\exp\left(-\frac{1}{n}\sum_{i=1}^n\log(P(x_t \ | \ x_{t-1},\dots x_1 ) \right)
+  P(x\ | \ y)=\frac{n(x,y)}{n(y)}
   $$
-  The language model provides us with the conditional probability terms in the summation.
-
-	* It is based on *assessing quality by determining how [[Information Theory|surprising]] a piece of text is*. More surprising = higher perplexity = worse.
-	* From an Information Theory perspective, this corresponds to determining how many bits we need to compress a sequence to predict what is next.
-	* It can be understood as the *geometric mean of the number of real choices we have when deciding which token to pick next.*
+  Where $n(x,y)$ denotes the number of occurrences of $x$ and $y$ in that order.
+	* Due to the number of possible arrangements an $n$-gram may have, we may find the probability above to be zero.
+	* One technique to solve this is to use **Laplace Smoothing**. We add a small constant to all counts so that 
+	  $$
+	  P(x) = \frac{n(x) +\epsilon}{n + \epsilon}
+	  $$
+	  
+	  This has a few drawbacks
+		* Manny $n$-grams occur very rarely which makes them still unusable
+		* We need to store all the counts which can get unwieldy for large vocabularies.
+		* This ignores the meaning of words.
+		* Long word sequences are likely to be less common
 
 # Papers
 * On Natural Language Processing and Plan Recognition by Geib and Steedman (2007)
@@ -40,3 +57,4 @@
 # Links
 * [[The Transformer Model]] - more on the transformer model 
 * [[Large Language Models]] - an expansion of LMs 
+* [[Metrics for Language Modeling]] 

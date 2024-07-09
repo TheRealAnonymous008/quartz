@@ -16,6 +16,20 @@
 ![[RNN computation.png]]
 <figcaption> RNN computation. Image taken from Zhanng et al. </figcaption>
 
+* In practice, we calculate the hidden states as follows. Let 
+  $n$ be the size of a minibatch
+  $d$ be the size of each inputs in each example.
+  $H_t\in \mathbb{R}^{n\times h}$ be the hidden state. 
+  $X_t\in \mathbb{R}^{n\times d}$ be a minibatch of inputs
+  $\phi$ be some activation function
+  
+  Then 
+  $$
+  H_t=\phi(X_tW_{xh}+H_{t-1}W_{hh}+b_h)
+  $$
+  
+  Where $W_{xh}\in \mathbb{R}^{d\times h}$ and $W_{hh}\in \mathbb{R}^{h\times h}$ are weights ,and $b_h$ is a bias term.
+
 * We make use of **Recurrent Layers**. These are layers which use hidden states obtained from previous computations.
   
   More formally, Let 
@@ -30,5 +44,8 @@
 	* We parameterize on the weights of the non-hidden states, the weights of the inputs (as in a fully connected layer) and the bias of the output term.
 
 * Typical training involves using [[Backpropagation through Time]].
+
 # Links
 * [[Dive into Deep Learning by Zhang, Lipton, Li and Smola]]
+
+* [[The Evolution of Recurrent Neural Networks]]

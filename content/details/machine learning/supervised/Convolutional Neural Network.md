@@ -65,6 +65,12 @@
 * Outputs and inputs correspond to exactly one pixel.
 * It acts like a form of [[Dimensionality Reduction Models|dimensionality reduction]] and a means to use activation functions to introduce a local non-linearity.
 
+## Grouped Convolutions
+* A **Grouped Convolution** uses a group of convolutions (multiple kernels per layer) to learn a varied set of low level and high level feature maps.
+
+![[Grouped Convolution.png]]
+<figcaption> Grouped Convolution. Image taken from Zhang et al. </figcaption>
+
 # Key Features
 * **Feature Maps** pertain to the output of a convolutional layer. It can be regarded as the learned representation in the spatial dimension of the inputs
 * **Padding** the input such  that the resulting feature map will be the same dimensions as the original images helps address one issue where *performing the cross correlation results in a slightly smaller image*.
@@ -84,8 +90,8 @@
   
   $$
   \bigg(\bigg\lfloor\frac{ n_0-k_0+p_0+s_0 }{s_0}\bigg\rfloor\ , \ 
-\bigg(\bigg\lfloor\frac{ n_1-k_1+p_1+s_1 }{s_1}\bigg\rfloor
-\bigg)
+  \bigg(\bigg\lfloor\frac{ n_1-k_1+p_1+s_1 }{s_1}\bigg\rfloor
+  \bigg)
   $$
 
 	* If we have multiple channels, we assume the kernel has the same number of input channels as the input data. The output shape of the layer will then be $c\times n \times m$ where $c$ is the number of channels 
@@ -111,5 +117,5 @@
 
 
 # Links
-* [[Dive into Deep Learning by Zhang, Lipton, Li and Smola]]
+* [[Dive into Deep Learning by Zhang, Lipton, Li and Smola]] - Ch. 7.1 
 * [[The Evolution of Convolutional Neural Networks]]

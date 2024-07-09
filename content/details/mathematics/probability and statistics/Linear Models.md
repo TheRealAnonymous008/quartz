@@ -59,6 +59,20 @@
 	* Ridge Regression aims to shrink the principal components with the smallest singular values (and thus have the highest posterior variance. See [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 7.5.3]]). 
 	* *Ill-determined parameters are reduced towards $0$ through **shrinkage***. 
 * We can also use **Principal Components Regression** by applying regression on the principal components. However, this is not as effective as Ridge Regression since it ignores dimensions entirely (compared to Ridge Regression's softening).
+
+### Regularization
+* **L1 Regularization** involves using the regularization term 
+  $$
+  L(w)=\lambda ||w||$$
+  *It has a similar effect to feature selection* where we distribute the magnitude of the parameters across a small set of features.
+* **L2 Regularization** involves using the regularization term
+  $$
+  L(w) = \frac{\lambda}{2}||w||^2
+  $$
+  As a consequence *features do not overpower each other*
+	* This is useful in datasets that have multicollinearity.
+* The exact mechanisms behind regularization are described in [[Bayesian Linear Regression|here]].
+
 # Logistic Regression
 
 
