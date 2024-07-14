@@ -9,6 +9,8 @@
 * Models describe the world, even in a way that regular people may not be able to articulate but still subconsciously perform and experience. 
 
 * Comment sections are prone to groupthink. This is especially apparent for certain creators on YouTube. Perhaps this is due to a few things -- commenters have incentive to be "recognized" by their favorite creators; the creators want to look good out of personal interests (i.e., their content revolves around themselves).; the type of content leaves no room for criticism to begin with. 
+
+*  Influencers (Streamers, VTubers, etc) exploit the same circuitry that lead people to follow cults and organized religion. They are deified as modern day gods.
 # Trivia
 * The toxicology hypothesis -- Vomiting while motion sick can be traced back to the same sensors for motion sickness being associated with detecting if we are poisoned (since this also causes nausea). Hence, the response is to throw up the poisoned food.
 

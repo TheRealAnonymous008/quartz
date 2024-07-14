@@ -33,7 +33,8 @@
 		{"type":"text","text":"# Girl's Frontline The Anime\n**10 / 100**\n","id":"00d7d69e0915119d","x":-440,"y":-160,"width":260,"height":160},
 		{"type":"text","text":"# Silent Voice (Manga)\n\n**95/100**\n\nhttps://ww5.mangakakalot.tv/manga/manga-as956575\n\n\n","id":"00b5177041381f4b","x":-1700,"y":-960,"width":260,"height":160},
 		{"type":"text","text":"# Oshi No Ko\n\n**95/100**\n","id":"79b6316434ae3ca6","x":-180,"y":-960,"width":260,"height":160},
-		{"type":"text","text":"# Hell's Paradise\n**/100**\n\n\n","id":"97ce18cb60042e70","x":-1220,"y":-1300,"width":260,"height":160,"color":"3"}
+		{"type":"text","text":"# Hell's Paradise\n**/100**\n\n\n","id":"97ce18cb60042e70","x":-1220,"y":-1300,"width":260,"height":160,"color":"3"},
+		{"id":"a51d7e1dc2773ca8","x":-1700,"y":-720,"width":260,"height":160,"type":"text","text":"# Bōkyaku Tantei\n\nTo watch"}
 	],
 	"edges":[]
 }

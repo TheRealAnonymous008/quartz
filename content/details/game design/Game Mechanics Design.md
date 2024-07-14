@@ -79,7 +79,11 @@
 	* Ch. 5-6 covers the Machination framework in detail. 
 	* Ch. 9 - covers an example of designing an internal economy.
 
+* [The Best and Most Stealable Mechanics from Tabletop RPGs by GDC](https://www.youtube.com/watch?v=6sXdCKd0XdE)
+	* Video games can take inspiration from how TTRPGS are able to integrate gameplay and story.
+
 * [[Games as Rules]]
 * [[Lenses for the Game]]
 * [[Models for Game Rules]]
 * [[Game Balancing]]
+* [[Tabletop Mechanics]]

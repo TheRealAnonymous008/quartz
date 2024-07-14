@@ -22,7 +22,7 @@
   $$
   p_y(y)=p_x(x)\left| \frac{\partial x}{\partial y}\right|
   $$
-  Where $\frac{\partial x}{ \partial y}$ denotes the Jacobian for multidimensional $f$.
+  Where $\frac{\partial x}{ \partial y}$ denotes the [[Differential Calculus|Jacobian]] for multidimensional $f$.
 	* If $y$ were discrete, then we simply have
 	  $$
 	  p_y(y)=\sum_{x : f(x)=y}p_x(x)
