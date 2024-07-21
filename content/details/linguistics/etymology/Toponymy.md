@@ -1,8 +1,10 @@
 * **Toponymy** is the study of the names of places.
 
 # Administrative-Based
+* **County** - a region, traditionally ruled by a local count or viscount. 
 * **Enclave** - a territory that is entirely surrounded by the territory of only one other state or entity. In order to access the mainland, a traveler must go through the territory of at least one other state.
 * **Exclave** - A portion of a state or district geographically separated from the main part by surrounding alien territory.
+* **Shire** - an administrative subdivision in Great Britain and other English-speaking countries.
 
 # Structure Based
 * Some places derive their names from nearby man-made landmarks or structures.

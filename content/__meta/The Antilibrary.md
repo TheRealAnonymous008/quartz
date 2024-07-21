@@ -20,11 +20,11 @@
 * General Method of Moments / Simulated Method of Moments
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
 * [Socionics](https://en.wikipedia.org/wiki/Socionics)
-* [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
-* Forecasting -- specifically [[Time Series Analysis]].
+* Forecasting -- specifically classical techniques for  [[Time Series Analysis]].
 * Abnormal Psychology. Specifically Mental Illnesses.
 * Chess Openings
 * [Metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)
+* [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.
@@ -53,7 +53,7 @@
 * [Library Genesis](https://libgen.is) - site for searching millions of books
 * [Anna's Archive](https://annas-archive.org)  - site for searching millions of books 
 
- * [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
+* [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
 * [Pi.ai](https://pi.ai/talk) - an online personal assistant chatbot as an alternative to ChatGPT.
 # General Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 

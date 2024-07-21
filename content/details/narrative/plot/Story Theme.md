@@ -1,6 +1,9 @@
 # Themes
 * *Stick to one theme. Too many themes means you end up saying nothing. One theme means your audience has room for interpretation.* 
+	* This does not, mean, however, that stories cannot have many themes. It's just that all these themes should be cohesively tied together.
 * *The theme is not the message*. A work can explore a theme deeply without having an explicit message and still be profound. The message imparts an idea into the audience.
+* [Pose a theme as a question that is answered by the characters in the story or which directly affects the protagonist](https://www.youtube.com/watch?v=JNbrMPXqHDI).  The theme is not one word but an idea. 
+
 
 * Story is an instrument by which you unite ideas and emotions--where you create epiphanies for the audiences at will through **aesthetic emotion**. *Stories combine ideas with emotion to give an immediate meaningful emotional experience*. 
 	* In contrast to everyday experiences where meaning is arrived at through introspection
@@ -42,6 +45,7 @@
 	* *Use the thesis and antithesis to make the other stronger--giving more punch to the story*. Not only that, but they serve to make the story "tell" rather than "preach".
 		* *Remember*: If there was no contentious disagreement regarding the theme, it's not substantive or interesting because the audience already knows it--it's boring or comes off as pretentious.
 		* Thus, as a storyteller, *entertain the opposite idea to your premise.* The proof of your vision is not how well you assert the theme, but its victory over the enormously powerful forces you array against it.
+
 
 # Links
 * [[__books/Story by Robert McKee|McKee Ch. 6]]

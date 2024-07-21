@@ -1,6 +1,6 @@
 * A collection of notes on drawing anatomies, with art style and medium abstracted away as much as possible. 
 # General Guide
-* The three anatomical planes are useful as a reference for construction lines. Directional modifiers are also included. In parentheses are the "common" terms that will be used for convenience. 
+* The three anatomical planes are useful as a reference for [[Construction Drawing|construction]] lines. Directional modifiers are also included. In parentheses are the "common" terms that will be used for convenience. 
 	* **Transverse plane**  - the plane that separates the head from the feet 
 		* A view from the bottom or top is taken to be a slice of the coronal plane 
 		* **Superior (Above)** - closer to the top 

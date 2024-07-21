@@ -47,6 +47,17 @@
 
 * Use dithering 
 
+# Anti-Aliasing
+* Because everything is in pixels, it is impossible to draw a solid, curved block. **Anti-Aliasing** is a technique to smooth out curves in the line.
+* *It helps to think about AA as smoothing out pixels on the border that are not fully in the image*.
+![[Pixel Art AA.png]]
+<figcaption> Anti Aliasing. Image taken from https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-4-ff4bfcd2d085  </figcaption>
+
+
+* Essentially, AA pixels count only as "half pixels" when you zoom out
+* Typically apply AA on staircases that are more than 1x1 long
+	* The amount of AA is proportional to the length of the step in the staircase
+	* Too much AA, however, makes the image too blurry.
 # Links
 * [Aseprite](https://github.com/aseprite/aseprite) - pixel art tool. Can be bought or built from source 
 
@@ -56,6 +67,7 @@
 
 * [Pixelblog by Slynyrd](https://www.slynyrd.com/pixelblog-catalogue) 
 * [StudioMiniBoss Pixel Art](https://blog.studiominiboss.com/pixelart)
+* [How to start making Pixel Art](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-4-ff4bfcd2d085)
 
 * [[Creativity]]
 * [[Illuminating Rendered Objects]] - more on principles for shading.

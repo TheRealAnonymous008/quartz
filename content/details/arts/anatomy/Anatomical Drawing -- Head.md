@@ -4,7 +4,7 @@
 * The head contains two important masses 
 	* The *cranium* (superior part of the skull) which is a spherical mass. 
 		* From the side, the cranium should be an oval shape (so in reality it is more egg-shaped).
-		* The more to the side the head is placed, the more we can see the *temporal line*. As a construction guide, a longitudinal line can be drawn to distinguish this.
+		* The more to the side the head is placed, the more we can see the *temporal line*. As a [[Construction Drawing|construction]] guide, a longitudinal line can be drawn to distinguish this.
 		* The *temporal muscles* on the side of the head are a spherical mass tangential to the temporal line and occupying the side of the head.
 	* The *mandible* (lower jawbone) rendered as an angular mass (the cross section of a rectangle)
 		* A sagittal line passing through the two hinges of the mandible should pass through the *base of the nose*. 

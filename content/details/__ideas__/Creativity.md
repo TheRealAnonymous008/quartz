@@ -78,6 +78,22 @@
 * [[The Cult of Done Manifesto|Get Things Done]]
 * [[The Language of Patterns|Your creative power is tied to your pattern language]]. At the time of designing, we rely on the rules of thumbs that we have and these rules are expressed in this pattern language. *It helps to be precise even if it is hard.*
 
+## Learning something Creative
+* Adapted from [here](https://www.ctrlpaint.com/library)
+* Every creative endeavor is an exercise in problem solving.
+* It helps to *be objective*. When there is a problem, step back and look at the big picture.
+* *Learning is about making mistakes*. Mistakes give us opportunities to improve. Everyone starts as a beginner.
+* When learning, reality will almost never match our initial expectations. 
+	* Your goal when you are learning is to learn.
+	* Rather than set expectations, set specific challenges that will help you learn and bring you out of your comfort zone.
+	* It's alright to have a big goal, but break down the steps towards this goal into smaller goals.
+* *Start anywhere*. Just make something. Learn to start anywhere. 
+* Before beginning a learning session, warm  up. Just mess around. The goal is too get into the right mindset.
+* *Learn to let go*. When learning, treat your work as disposable. The goal is not the output but the learning.
+	* Your creative outputs are byproducts of your learning. Not the other way around.
+* Have a goal in mind. Learn skills related to this goal. Learn to give up unrelated things.
+* *Look back on your progress*.  Learning is an incremental struggle. 
+	* Start with the basics and the fundamentals.
 
 
 [^1]: [[details/creativity/design/DOET/Design Thinking]]

@@ -2,7 +2,7 @@
 2. A **figure** is an element on the page. The **Ground** is the space of the page.
 3. **Figure-Ground Theory** states that the space that results from placing figures should be considered as carefully as the figures themselves. 
 	* People perceive things as part of **negative space** if it is unshaped.
-	* **Positive space** is space that has an apparent shape and boundary.
+	* **[[Composition|Positive space]]** is space that has an apparent shape and boundary.
 4. **Implied elements** are those that can be seen even if they are not on drawn.
 5. **Solid-Void Theory** holds that volumetric spaces shaped or implied by the placement of solid objects are as, if not more, important than the objects themselves.
 	* **Positive space** pertains to a well-defined, bounded region with a notion of in and out.
