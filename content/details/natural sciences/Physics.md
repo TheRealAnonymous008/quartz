@@ -1,4 +1,7 @@
-* **Dynamics** is concerned with the causes of motion. The primary objects of study are **forces** -- any interaction between two objects. 
+* The goal of Physics is to ultimately understand the rules that govern various natural phenomena.
+
+
+* **Heat** is just kinetic energy but internal to the system rather than external (i.e., associated with a visible motion)
 # Topics
 * [[Physics - Notation Guide]]
 
@@ -12,9 +15,10 @@
 * [[Mechanical Equilibrium]]
 * [[Continuum Mechanics]]
 * [[Fluid Mechanics]]
-
+ 
 # Links
 * [[University Physics with Modern Physics 15th Edition By Freedman]]
+* [[The Feynman Lectures]]
 
 * [[Linear Algebra]]
 * [[Calculus]]

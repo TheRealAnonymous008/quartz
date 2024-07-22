@@ -23,8 +23,8 @@
 * Forecasting -- specifically classical techniques for  [[Time Series Analysis]].
 * Abnormal Psychology. Specifically Mental Illnesses.
 * Chess Openings
-* [Metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
+* [HackerFactor](https://www.hackerfactor.com/blog/) 
 
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.

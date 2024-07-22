@@ -34,3 +34,4 @@
  * [[Psychology -- A Very Short Introduction by Butler and McManus]] - Ch. 8
 
 * [Delusions Of The Mind - 3 Terrifying Mental Syndromes](https://www.youtube.com/watch?v=qFUKkWU4nlQ)
+* [A Youtuber's Decent into Madness](https://www.youtube.com/watch?v=2V0_yLGRIQ0) - the effects of Total Insomnia on the body and mind.

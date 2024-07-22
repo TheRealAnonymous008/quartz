@@ -1,3 +1,5 @@
+* **Dynamics** is concerned with the causes of motion. The primary objects of study are **forces** -- any interaction between two objects. 
+
 * Forces are typically described as a push or a pull.
 	* **Contact Forces** involve direct contact between two objects.
 	* **Normal Force** is exerted between an object and the surface that it is on. *It is always perpendicular to the surface of contact*. [^normal_force]
