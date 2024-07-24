@@ -3,7 +3,7 @@
   x\ast y=y\ast x
   $$
   
-* **Fundamental Theorem of Finitely Generated Abelian Groups**: Every finitely generated Abelian group $G$ is isomorphic to the direct product of the form 
+* **Fundamental Theorem of Finitely Generated Abelian Groups**: Every finitely generated Abelian group $G$ is [[Group Isomorphism|isomorphic]] to the [[Direct Product of Groups|direct product]] of the form 
   $$
   \mathbb{Z}_{(p_1)^{r_1}} \times \dots \times \mathbb{Z}_{(p_k)^{r_k}} \times \mathbb{Z}\times \dots\times \mathbb{Z}
   $$
@@ -18,6 +18,6 @@
   $$
   Z(G)=\{z\in G\mid zg=gz \space \space \forall g\in G\}
   $$
-* Every Abelian Group is Normal.
+* Every Abelian Group is [[Cosets, Group Indices, Normal Groups|Normal]].
 # Links 
-* [[Normal Group]]
+* [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

@@ -17,7 +17,7 @@
 * Given strategies $\sigma_{-i}\in \Delta S_{-i}$, we say that $\sigma_i$ is **sequentially rational** if and only if $i$ is playing a best response to $\sigma_{-i}$ in each of his information sets. 
 * A **backward induction** procedure is one where we start from the terminal nodes at the end of the game and work our way up the decision tree to its root.
 	* (*Tadelis 8.1*) **Zermelo's Theorem**- Any finite game of perfect information has a backward induction solution that is sequentially rational. Furthermore if no two terminal nodes prescribe the same payoffs to any player then the backward induction solution is unique.
-	* *Tadelis cor. 8.1* - Any finite game of perfect information has at least one sequentially rational Nash equilibrium in pure strategies. Furthermore if no two terminal nodes prescribe the same payoffs to any player then the game has a unique sequentially rational Nash equilibrium.
+	* *(Tadelis cor. 8.1)* Any finite game of perfect information has at least one sequentially rational Nash equilibrium in pure strategies. Furthermore if no two terminal nodes prescribe the same payoffs to any player then the game has a unique sequentially rational Nash equilibrium.
 
 * *Backward induction cannot be applied to games of imperfect information, nor to games that do not end in finite time*. 
 

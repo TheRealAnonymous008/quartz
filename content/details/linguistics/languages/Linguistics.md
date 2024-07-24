@@ -11,7 +11,7 @@
 	* **Emotive** - focuses on the Sender and their own self-expression 
 	* **Conative** - focuses on the Receiver directly, can be characterized by imperatives or vocatives 
 	* **Phatic** - focuses on the Channel; it is using language for the sake of interaction and to start, facilitate, and stop interaction with others 
-	* **Metalingual** - focuses on the Code; it is using language that describes tself. 
+	* **Metalingual** - focuses on the Code; it is using language that describes itself. 
 # Topics
 * [[Etymology]] - more on the origin of different words across different languages
 * [[Morphology]] 
@@ -22,6 +22,8 @@
 * [[Orthography]] - for topics relating to writing systems themselves. 
 
 * [[Words]] - words I like.
+* [[Language]] - notes on the languages of the world.
+
 # Links
 * [MIT 24.900 Introduction to Linguistics, Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j)
 * [The Linguistics Iceberg Explained](https://www.youtube.com/watch?v=GFz6KqZurFY&t=5660s)

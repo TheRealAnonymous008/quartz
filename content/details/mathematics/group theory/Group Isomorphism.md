@@ -2,10 +2,10 @@
   $$
   \phi(g_1\ast g_2)=\phi(g_1)\circ \phi(g_2)
   $$
-  We say $G\cong H$ (i.e., the groups are **isomorphic**).
-	* It is a bijective homomorphism
+  We say $G\cong H$ (i.e., the groups are **isomorphic**.
+	* It is a bijective [[Group Homomorphism]]
 * A **structural property** is a property that is preserved under isomorphism.
-* (*Fraleigh 8.16*) **Cayley's Theorem**: Every group is isomorphic to a permutation group.
+* (*Fraleigh 8.16*) **Cayley's Theorem**: Every group is isomorphic to a [[Permutations and Orbits|Permutation Group]].
 * An **automorphism** is an isomorphism of a group to itself.
 	* The **inner automorphism** of $G$ by $g$ is defined as 
 	  $$
@@ -19,5 +19,5 @@
 	  $$
 	  
 # Links
-* [[Group]] 
-* [[Group Homomorphism]]
+* [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]
+* [[Fundamental Constructs of Group Theory]]

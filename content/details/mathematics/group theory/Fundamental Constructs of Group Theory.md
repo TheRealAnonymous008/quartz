@@ -61,3 +61,6 @@ $$
 	  $$
 	  
 * The **order of a group element** $g\in G$ pertains to the smallest positive integer $n$ such that $g^n=e$ or $\infty$ if no such $n$ exists. We denote this by $\text{ord}(g)$.
+
+# Links
+* [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

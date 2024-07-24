@@ -1,25 +1,24 @@
 # Topics
-* [[Group]]
+* [[Fundamental Constructs of Group Theory]]
 * [[Subgroup]]
-* [[Generated Subgroup]]
-* [[Direct Product of Groups]]
 * [[Group Isomorphism]]
+* [[Direct Product of Groups]]
 * [[Permutations and Orbits]]
+
 * [[Families of Groups]]
-* [[Cyclic Group]]
-* [[Alternating Group]]
-* [[Abelian Group]]
-* [[Coset]]
-* [[Group Index]]
-* [[Normal Group]]
-* [[Simple Group]]
+	* [[Abelian Group]]
+	* [[Cyclic Group]]
+	* [[Alternating Group]]
+
+* [[Cosets, Group Indices, Normal Groups]]
 * [[Group Homomorphism]]
 * [[Factor Group]]
 * [[Commutator Group]]
-* [[Isometries]]
-* [[Group Action]]
+
+* [[Group Action and Isometry]]
 
 # Links
 * [[Linear Algebra]] - for a related algebra to group theory.
 
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]
+* [[Group Theory -- Notation Guide]]

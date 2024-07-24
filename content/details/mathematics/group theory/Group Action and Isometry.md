@@ -8,9 +8,9 @@
   $$
   \sigma_g(x)=gx
   $$
-  is a permutation of $X$.
+  is a [[Permutations and Orbits|permutation]] of $X$.
   
-  Also, the map $\phi: G\to S_X$ defined by $\phi(g)=\sigma_g$ is a homomorphism with the property that 
+  Also, the map $\phi: G\to S_X$ defined by $\phi(g)=\sigma_g$ is a [[Group Homomorphism]] with the property that 
   $$
   \phi(g)(x)=gx
   $$
@@ -26,7 +26,7 @@
   $$
   \text{Stab}_G(x) =\{g\in G\mid gx=x\}
   $$
-  See (*Fraleigh 16.12*) for why it is a subgroup. 
+  See (*Fraleigh 16.12*) for why it is a [[subgroup]]. 
 
 * The **orbit** of $x\in X$ under $G$ is defined as the partition of the equivalence relation defined where: 
   $$
@@ -54,7 +54,5 @@
   $$
   Where $X^g$ denotes the elements of $X$ fixed by $g$. $$X^g=\{x\in X\mid gx=x\}$$In other words *the number of orbits, equals the average number of fixed points*.
 # Links
-* [[Group]]
-* [[Group Index]]
-* [[Group Homomorphism]]
-* [[Permutations and Orbits]]
+* [[Cosets, Group Indices, Normal Groups]]
+* [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

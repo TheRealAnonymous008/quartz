@@ -5,6 +5,6 @@
   \text{ord}((g,h)) = \text{lcm}\left(\text{ord}(g), \text{ord}(h)\right)
   $$
   
-* $G$ is **decomposable** if it is isomorphic to a direct product of two proper nontrivial subgroups. Otherwise, it is **indecomposable**.
+* $G$ is **decomposable** if it is [[Group Isomorphism|isomorphic]] to a direct product of two proper nontrivial subgroups. Otherwise, it is **indecomposable**.
 # Links
 * [[Group]]

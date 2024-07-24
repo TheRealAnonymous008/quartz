@@ -20,7 +20,7 @@
 	  K'\le G'\implies \phi^{-1}(K)\le G
 	  $$
 	  
-	* (*Fraleigh 15.16*) Normal groups are preserved.
+	* (*Fraleigh 15.16*) [[Cosets, Group Indices, Normal Groups|Normal]] groups are preserved.
 	  
 	  If $N\le G$ and $N'\le G'$ are normal subgroups, then so are $\phi(N)$ and $\phi^{-1}(N')$.
 
@@ -35,7 +35,7 @@
   $$
   
 * (*Fraleigh 13.18*) A homomorphism is one to one if and only if $\text{Ker}(\phi)=\{e\}$
-* (*Fraleigh 13.20*) If $\phi:G\to G'$ is a subgroup, then $\text{Ker}(\phi)$ is a normal subgroup of $G$
+* (*Fraleigh 13.20*) If $\phi:G\to G'$ is a [[subgroup]], then $\text{Ker}(\phi)$ is a normal subgroup of $G$
 * (*Fraleigh 14.11*) **The Fundamental Homomorphism Theorem**.  Every factor group gives rise to a natural homomorphism.
 
   Let $\phi:G\to G'$ be a homomorphism with kernel $H$. 
@@ -48,5 +48,4 @@
   $$
   We refer to $\mu$ and $\gamma$ as the **natural** isomorphism and homomorphism respectively. 
 # Links
-* [[Normal Group]]
-* [[Subgroup]]
+* [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

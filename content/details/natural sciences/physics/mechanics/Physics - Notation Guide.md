@@ -1,4 +1,7 @@
 * For the following, if we have vector $\vec{x}$ the corresponding scalar (magnitude) is denoted $x$.  
+# Constants
+* $G\approx 6.67430 \times 10^{-11} Nm^2kg^{-2}$ - gravitational constant
+
 # Mechanics
 * $t$ - time
 * $T$ - period
