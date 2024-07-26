@@ -36,6 +36,7 @@
 	* https://en.wikipedia.org/wiki/Köppen_climate_classification
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
 * [[Human Biases]] 
+* [[Tarot Cards]]
 
 # Papers
 * Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 

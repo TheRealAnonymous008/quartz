@@ -14,6 +14,7 @@
 * [[Morality]]
 * [[Philosophy of the Mind]]
 * [[Religion and Mysticism]]
+* [[Integral Theory]]
 * [[Stoicism]]
 # Links
 * [[Think- A Compelling Introduction to Philosophy by Blackburn]]

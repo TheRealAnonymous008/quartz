@@ -26,6 +26,7 @@
 
 	* A small force acting for a long time has the same effect on an object's motion as a larger force acting for a short time because impulse is the same regardless. 
 	* This is different from the [[Work and Energy|Work-Energy Theorem]] work depends on distance, whereas impulse depends on time.
+	* The sum of the external forces on the system equals the rate of change of the total momentum of all particles in the system.
 
 
 * **Law of Conservation of Momentum** In a closed system where matter is not exchanged and where external forces do not act, the total momentum remains constant. That is if we have particles numbered $1,\dots, n$

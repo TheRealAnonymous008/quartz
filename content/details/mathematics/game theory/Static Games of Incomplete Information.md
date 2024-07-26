@@ -39,7 +39,7 @@
 	* If people are somewhat heterogeneous in the way monetary payoffs and actions are related, then we can have uncertainty over the types of players who are playing pure strategies, but *the distribution of types makes a player have beliefs as if he were facing a player who is playing a mixed strategy*
 	* Thus, games of complete information are in some sense a special case of games of incomplete information where players have strict best responses. 
 # Applications 
-* (*Tadelis 12.1*) . Trade can only occur in a Bayesian Nash equilibrium only if it involves the lowest type trading.
+* (*Tadelis 12.1*) . [[Trade]] can only occur in a Bayesian Nash equilibrium only if it involves the lowest type trading.
 	* The intuition is that a player (who knows the value of the trading object) will only give it away if they know it has low value.  
 	* The end result is trade can only occur if the quality of the object being traded is at its lowest. 
 
