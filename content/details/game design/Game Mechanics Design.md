@@ -74,6 +74,9 @@
 * *Design mechanics around the most important aspect -- the essential experience of the game*
 
 * As a game designer you should always be on the lookout to create systems where the number of meaningful combinations is large and possibly endless.
+
+* [(See the feedback for the second game) If the mechanics don't feel meaningful (i.e., there feels like an optimal way to play), then one approach we can take is to reverse engineer. Ask -- what would we like the player to do? How can we design the game to support that?](https://www.youtube.com/watch?v=VW5d4y4AoQ4)
+
 # Links 
 * [[Game Mechanics -- Advanced Game Design by Adams and Dormans]]
 	* Ch. 5-6 covers the Machination framework in detail. 

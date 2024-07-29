@@ -64,5 +64,17 @@
 	* Deck construction is part of a larger design pattern in which players choose the kinds of power-ups, abilities, and characteristics they want to play with. An important aspect of this is the degree to which the [[Games as Culture|metagame]] plays a role.
 
 * **Multi-Use Cards** - Multiple actions are shown on a card, but only one can be used.
+	* A positive feature of this mechanism is that it presents the players with clear and focused options
+	* It also naturally leads to difficult decisions, particularly when only one option may be chosen the entire game
+	* A key consideration for the designer is which abilities to combine on the same card. Ideally, match the power levels and make a "superior" option difficult to determine.
+	* A superset of [[Tabletop Mechanics -- Actions|Action -Event]]. 
+	* An alternative approach to Multi-Use cards is to allow the cards themselves to be used as physical objects, typically as a discard to play other cards.
+
+* **Tags** - Game objects, typically cards, have icons or other identifiers that identify them as belonging to specific categories
+	* Tags may trigger special effects and/or have values and meaning that can vary, even within the scope of a single play
+	* Tags are additional parameters on top of the base meaning of the game element, so tags represent a means of coupling the game element with more mechanisms and systems.
+	* Tags are also bookmarks that can reference a variable set of possible rules that are encoded elsewhere, so they are also a means to modularize, or uncouple, game triggers and game effects.
+	* The combination of tag types, mechanisms that key off of the tags, and the effects themselves create a highly expressive system
+	* Borrows heavily from the ideas in [[Object Oriented Programming]]. 
 # Links
 * [[Building Blocks of Tabletop Game Design - An Encyclopedia of Mechanisms by Engelstein and Shalev]] - Ch. 13

@@ -15,6 +15,7 @@
 * Use a `globals` folder to store your global variables to be used for Autoloading. This is especially useful to act as a global [[Singleton]] that is accessible by all scenes. This means that a UI and a game logic scene can both access and modify these variables without having to resort to [[Clean Code Principles|unclean]] message passing.
 * Modify the stretch settings from the project settings to allow the window to be robust to resizes.
 
+* Use Nodes by default for game logic. Use Resources for entities that do not rely on the game loop (i.e., no use for OnProcess or OnUpdate). Typical use cases include anything keeping track of game state.
 
 * Prefer to work with sprites first rather than resorting to tilemaps immediately. Tilemaps should be used only when you are certain that the game elements will be static. Regardless, [[Object Oriented Programming|OOP]] applies and we should make things easily adjustable.
 
