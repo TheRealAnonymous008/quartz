@@ -42,7 +42,7 @@
 		* Everything below the goal of the system conforms to the goal of the system. 
 		* Hence we must insist on setting the correct goals. 
 	* *Paradigms* - The mindset out of which the system arises. 
-		* The shared idea in the minds of society, its [[False Priors and Extension Neglect|assumptions]] constitute society's [[Human Biases|paradigm]] or implicit beliefs. 
+		* The shared idea in the minds of society, its [[False Priors|assumptions]] constitute society's [[Human Biases|paradigm]] or implicit beliefs. 
 		* From the shared social agreements about the nature of reality, come goals which characterize systems. 
 		* Change the paradigm by pointing at its flaws. An active rather than a passive approach. 
 		* Modeling the systems serve to analyze current paradigms and to potentially change them. 

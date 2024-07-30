@@ -68,7 +68,7 @@
 
 
 # Typology by Sex 
-* While [[False Priors and Extension Neglect|Stereotypical]], there is some reality behind the stereotypes that may be useful to the designer.
+* While [[False Priors|Stereotypical]], there is some reality behind the stereotypes that may be useful to the designer.
 
 | Male                             | Female                                     |
 | -------------------------------- | ------------------------------------------ |

@@ -48,5 +48,12 @@
   Where $d$ is the distance between the two parallel axes.  
 	* *Intuition*: We can recalculate the moment of inertia using an integration over slices about the axis through point $P$ . Recalculating and regrouping terms gives us $I_p$ in terms of $I_\text{cm}$
 	* *This allows us to reframe rotation problems with an axis of rotation passing through the moment of inertia.*
+
+# Relativistic Mass
+* At high speeds, the mass changes with the velocity. Let $m_0$ be the mass at rest. When the mass is travelling at velocity $v$, we have 
+  
+  $$
+  m = \frac{m_0}{\sqrt{1-\frac{v^2}{c^2}}}
+  $$
 # Links
 * [[University Physics with Modern Physics 15th Edition By Freedman]] - Ch. 8.5, 9.5

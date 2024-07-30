@@ -34,7 +34,7 @@
 	* We approach uncertainty irrationality since we are not good predictors of our abilities.
 	* Similar to the Dunning-Kruger effect, we can attribute this to a lack of knowledge about our own deficiencies.
 	* The overconfidence may also be attributed to confirmation bias. We focus on why our answers are right rather than how they could be wrong.
-	* *Bikeshedding* can also explain our underconfidence for easy tasks. The longer we spend thinking of an answer to an easy question, the more likely we conjure up evidence that our answer is wrong.
+	* **Bikeshedding** can also explain our underconfidence for easy tasks. The longer we spend thinking of an answer to an easy question, the more likely we conjure up evidence that our answer is wrong.
 
 * **Illusion of Asymmetric Insight** - people tend to view their own spontaneous responses to others' questions as unrevealing even though they view others' similar responses as meaningful.
 
@@ -57,7 +57,7 @@
 
 * **Illusion of Validity** - the tendency to be overconfident in the accuracy of our judgments and predictions regarding a given data set, especially when the data tells a story.
 	* One reason for this is the *representativeness heuristic*, wherein we view things in relation to a prototypical example. People tend to select outcomes based on how they represent the essential features of the evidence.
-	* Another reason is the *[[False Priors and Extension Neglect|Base Rate Fallacy]]*, the tendency to ignore prior probabilities. Individuating information makes us confident in our predictions, but we are prone to ignoring the priors.
+	* Another reason is the *[[False Priors|Base Rate Fallacy]]*, the tendency to ignore prior probabilities. Individuating information makes us confident in our predictions, but we are prone to ignoring the priors.
 	* Another reason is [[Confirmation Bias|Confirmation Bias]] since we are prone to cherry picking.
 
 * **Illusory Superiority** - a person overestimates their own qualities and abilities in relation to the same qualities and abilities of other people.

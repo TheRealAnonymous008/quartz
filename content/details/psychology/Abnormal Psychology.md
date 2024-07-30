@@ -15,7 +15,7 @@
 	* **Normalizing / Health-Based** approaches attempt to specify normality or healthy psychological functioning and then define abnormality in contrast to this (i.e., significant deviation from ideal mentally healthy behavior)
 
 # Classification of Abnormal Behaviors
-* When using diagnostic labels it is important to *avoid [[False Priors and Extension Neglect|stereotyping]]*. The danger is that once people are given a label, they may be seen as identical to other people with the same label when in fact the differences are as marked as the similarities
+* When using diagnostic labels it is important to *avoid [[False Priors|stereotyping]]*. The danger is that once people are given a label, they may be seen as identical to other people with the same label when in fact the differences are as marked as the similarities
 
 # Treatments
 * The **Medical Model** suggests that abnormal behavior is a result of physical or mental illness caused by genetic, biochemical or physical dysfunction in the body or brain.  Thus we treat the abnormal behavior by treating the underlying illness.

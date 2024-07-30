@@ -46,7 +46,7 @@
 		* In the labor market, there may be a trial period to see the quality of work a laborer can provide. 
 		* In the [[Financial Market]], there may be requirements on having a **consigner** of the loan who repays some of the money if the borrower doe snot so. Another approach is through **collateral** which the bank can seize and sell if not paid. 
 * Severe Imperfect information can thin the market and make buyers and sellers unwilling to participate
-* Because of imperfect information, *buyers apply [[False Priors and Extension Neglect|heuristics]] based on the price which may mean that higher price = higher quantity demanded* 
+* Because of imperfect information, *buyers apply [[False Priors|heuristics]] based on the price which may mean that higher price = higher quantity demanded* 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 6, 16
 * **[[Behavioral Economics]]** is another approach to analyzing consumer behavior which focuses on human "irrationality"

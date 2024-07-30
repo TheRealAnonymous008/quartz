@@ -34,11 +34,9 @@
 * [[UX Design Principles]]
 * [[Algorithms in Games]]
 
-
-
 ## Genre Specific
 * [[Strategy Games]]
-* [[Game Design]]
+* [[Game Study Index]]
 
 
 # Links

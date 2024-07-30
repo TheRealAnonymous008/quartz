@@ -78,6 +78,7 @@
 * An experience is [[Thinking Fast And Slow|judged]] based only on its peak and its end, rather than the total sum or average of every moment of the experience.
 * The most important points in an experience are its highs and its ending. 
 * Remember that negative experiences leave a more lasting impression than positive ones. 
+* See also [[Extension Neglect]] for more like this
 
 ## Postel's Law 
 * Be conservative in what you send; Be liberal in what you accept. 

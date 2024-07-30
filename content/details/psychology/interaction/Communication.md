@@ -34,7 +34,7 @@
 
 
 # Building Rapport
-* **Tribe Mentality** is prevalent as a human phenomenon and c.an be exploited when building rapport.  *Mirror certain aspects of a group to become part of the tribe*.  Exploit [[False Priors and Extension Neglect|Stereotypes]].
+* **Tribe Mentality** is prevalent as a human phenomenon and c.an be exploited when building rapport.  *Mirror certain aspects of a group to become part of the tribe*.  Exploit [[False Priors|Stereotypes]].
 
 * *To build rapport is to build a bridge for communication based on trust and common interests*. The goal is to make the other party better for having met you. 
 * *Building enough rapport can lead to not having to apply social engineering principles to gain compliance; the target trusts and divulges information on their own.* This is also a good indicator if sufficient rapport has been built. 

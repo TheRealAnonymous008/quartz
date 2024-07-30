@@ -3,7 +3,7 @@
 * Use [[Doublespeak]] 
 # Automatic Influence 
 * There are three components to automatic influence
-	* [[Thinking Fast And Slow|System 1]] is easy to fool, especially when it runs on preprogrammed mental shortcuts and when it runs with its own [[False Priors and Extension Neglect|stereotypes]] and [[Human Biases|biases]]. 
+	* [[Thinking Fast And Slow|System 1]] is easy to fool, especially when it runs on preprogrammed mental shortcuts and when it runs with its own [[False Priors|stereotypes]] and [[Human Biases|biases]]. 
 	* That most do not understand these automatic behaviors. Those that do understand will, therefore, have the advantage  
 	* That those who execute it do so subtly with almost no effort. It is the ability to manipulate without the appearance of manipulation. 
 
@@ -74,7 +74,7 @@
 	* Because everyone looks towards what everyone else is doing, there is an emergent consequence -- **pluralistic ignorance**.  [^socproof_1] [^socproof_2]
 	* We will use the actions of others to decide on proper behavior for ourselves, especially when we view those others as *similar* to ourselves. [[Information Hazards]] abound.  [^socproof_3]
 
-[^socproof_1]: A good example of this is the Bystander Effect. No one acts because of uncertainty about whether they should intervene, and because no one seems to be intervening, no one actually intervenes. 
+[^socproof_1]: A good example of this is the Bystander Effect and [[Extension Neglect|Compassion Fade]]ause of uncertainty about whether they should intervene, and because no one seems to be intervening, no one actually intervenes. 
 [^socproof_2]: A good way to counteract this then is to dispel the uncertainty yourself. Point at someone in the crowd and ask them specifically for help. Then, with the uncertainty is dispelled, people will follow suit. 
 [^socproof_3]: [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]] gives another example of this -- the [[Social Psychology|Wether effect]] and copycat suicides.  Imitation is key. This even extends to copycat acts of violence.
 

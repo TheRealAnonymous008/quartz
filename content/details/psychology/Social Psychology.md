@@ -21,7 +21,7 @@
 	* Believing the violence to be a means to an end in a worthy cause (i.e., any form of ideological justification), increases obedience.
 
 # Prejudice
-* Dividing people into ethnic groups, and [[False Priors and Extension Neglect|stereotyping]] behavior according to group membership may have had evolutionary advantage
+* Dividing people into ethnic groups, and [[False Priors|stereotyping]] behavior according to group membership may have had evolutionary advantage
 * Prejudice is a global phenomenon and clearly situational influences contribute to its development
 	* [[Personality]] characteristics, such as being less flexible and more authoritarian, are associated with prejudice
 	* Prejudice can also arise from a general need to see oneself positively

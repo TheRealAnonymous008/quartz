@@ -3,6 +3,10 @@
 * Humans rationalize things. When making decisions, the goal is not to pick the correct option, but to justify the choice made.
 * Most biases can be explained by [[Thinking Fast And Slow|What you see is all there is]]. Humans ignore external information that would help, and instead jump to conclusions.
 # Topics
+* [[Anchoring Bias]]
+
+* [[Apophenia]] - the tendency to perceive meaningful connections between unrelated things.
+
 * [[Availability Heuristic]] - humans are immediately biased to information that is readily available or perceptible.
 
 * [[Cognitive Dissonance]] - humans attempt to rationalize their contradictory behavior in an effort to appear more rational or to resolve dissonance.
@@ -11,7 +15,9 @@
 
 * [[Egocentric Biases]] - humans are prone to looking inward rather than outward. They overestimate themselves and underestimate others or their environment.
 
-* [[False Priors and Extension Neglect]] - humans are prone to ignoring implicit assumptions about a situation.
+* [[Extension Neglect]] - the tendency to ignore sample size.
+
+* [[False Priors]] - humans are prone to ignoring implicit assumptions about a situation.
 
 * [[Framing Effect]] - humans choose based on appearances, how things are presented, rather than how things actually are.
 
@@ -19,39 +25,8 @@
 
 * [[Prospect Theory]]
 
-* [[Apophenia]]
+* [[Other Biases]]
 
-* [[Anchoring Bias]]
-# Futures
-* Extension Neglect
-	* Compassion Fade
-	* Conjunction Fallacy
-	* Duration Neglect
-	* Hyperbolic Discounting
-	* Insensitivity to Sample Size
-	* Less-Is-Better Effect
-	* Neglect of Probability
-	* Scope Neglect
-
-* Prospect Theory
-	* Ambiguity Effect
-	* Disposition Effect
-	* Endowment Effect
-	* Loss Aversion
-	* Pseudocertainty Effect
-	* Status Quo Bias
-	* System Justification
-
-* Apophenia
-	* Clustering Illusion
-	* Illusory Correlation
-	* Pareidolia
-
-* Anchoring Bias
-	* Common Source Bias
-	* Conservatism Bias
-	* Functional Fixedness
-	* Law of the Instrument
 # Links
 * [[Realizations to Avoid Fallacious Thinking]] - more on fallacious thinking, related to biases themselves.
 

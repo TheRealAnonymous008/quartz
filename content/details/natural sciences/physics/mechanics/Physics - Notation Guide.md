@@ -1,6 +1,8 @@
 * For the following, if we have vector $\vec{x}$ the corresponding scalar (magnitude) is denoted $x$.  
 # Constants
 * $G\approx 6.67430 \times 10^{-11} Nm^2kg^{-2}$ - gravitational constant
+* $c = 299,792,458 \ \  {m}{s^{-1}}$ - speed of light
+* $k_e = 8.99 \times 10^9 N m^2 C^{-2}$ - Coulomb's constant. 
 
 # Mechanics
 * $t$ - time
@@ -72,3 +74,6 @@
 * $k$ - compressibility
 
 * $p$  - pressure
+
+# Electromagnetism
+* $q$ - charge

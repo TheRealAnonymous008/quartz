@@ -27,7 +27,7 @@
 # DOTS
 ## Use Cases 
 * The game contains a lot of dynamic entities
-* The game requires complex algorithms such as [[procedural generation]], pathfinding, dynamic AI, and heavy physics.
+* The game requires complex algorithms such as [[Procedural Generation]], pathfinding, dynamic AI, and heavy physics.
 * Competitive Multiplayer games that requires low latency and high accuracy 
 * Large Scale Simulations
 * Running simulations in performance critical devices. 

@@ -31,7 +31,7 @@
 * *Repeated experience furnishes our fundamental means of recognizing the regularity of relationship that constitutes pattern or organization*
 
 # Systems as Models 
-* Systems are [[The Psychopathology of Everyday Things|conceptual models]] for the world around us. They usually have a strong congruence with the world. However, they often fall short of [[False Priors and Extension Neglect|representing]] the world fully
+* Systems are [[The Psychopathology of Everyday Things|conceptual models]] for the world around us. They usually have a strong congruence with the world. However, they often fall short of [[False Priors|representing]] the world fully
 	* Systems fool us by presenting themselves as a series of events.
 	* We are less likely to be surprised if we see how events accumulate into dynamic patterns of behavior.
 	* *Behavior based models are more useful than event based ones* because they facilitate understanding of the underlying systems and have more predictive power. However, there are a few pitfalls 

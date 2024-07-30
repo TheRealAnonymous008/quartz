@@ -18,6 +18,10 @@
   \vec{F}_\text{net} = \sum \vec{F}
   $$
 
+* The laws governing forces are valid under an inertial frame of reference. In a non-inertial frame of reference, we typically see **pseudo-forces** which require us to adjust for some form of translation or rotation over time.
+	* Einstein's hypothesis was that pseudo-forces cannot be distinguished from gravity since gravity has a spatial component to it, and we may simply be analyzing it with the wrong coordinate system.
+## Basic Examples
+
 * *The apparent weight of an object is the normal force*. The actual weight is the one calculated using mass and gravity. 
 	* These two need not be the same as in the case of apparent weightlessness. In fact, we can explain this as a normal force felt when accelerating at $\vec{a}=-g$
 
@@ -40,6 +44,9 @@
   A general form of Hooke's Law is seen [[Continuum Mechanics|here]].
 ## Friction
 * *Friction is always perpendicular to the normal force by definition*
+* Friction occurs between two surfaces because atoms are bonding and unbonding, exerting a small amount of resistance on the object.
+* Keep in mind that all coefficients of friction are approximations calculated from experiments. 
+
 * **Static friction force** acts between surfaces that are not moving relative to each other.
 	* It is proportional to the normal force. It is harder to move a heavier object. We refer to the proportionality constant $\mu_s$ as the **coefficient of static friction**
 	  $$
@@ -100,6 +107,8 @@
 	  $$
 	* When the starting and ending point of the object's trajectory are the same, $W=0$.
 
+# Fundamental Forces
+* These forces are fundamental in the sense that *their underlying laws are fundamentally simple*
 ## Gravity
 * The **Law of Gravitation** states that every object attracts every other objects with a gravitational force $F$ that follows
   
@@ -113,6 +122,17 @@
 	* **Law 2**: A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.
 	* **Law 3**: The square of the period of the orbit is proportional to the cube of the length of the semi-major axis of the orbit.
 * *The laws of planetary motion are a consequence of the Laws of Universal Gravitation*
+
+## Electromagnetic Force
+* **Coulomb's Law** states that given two charges $q_1$ and $q_2$, separated a distance $r$, the electromagnetic force between them is given by 
+  
+  $$
+  \vec{F} = \frac{k_e q_1q_2}{r^2}
+  $$
+  Where $k_e$ is a constant and $q_1, q_2$ are signed depending on whether they are positive or negative.
+
+* Like charges repel each other, while opposite charges attract.
+* *Electrostatic forces are stronger than Gravity*.
 
 # Links 
 * [[University Physics with Modern Physics 15th Edition By Freedman]]

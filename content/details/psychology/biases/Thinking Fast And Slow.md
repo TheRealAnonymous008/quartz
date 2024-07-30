@@ -31,7 +31,7 @@
 		* A consequence of this is the **availability cascade**: What is reported in the media influences our judgments, and vice versa.
 		* The **affect heuristic** - instead of asking "What do I think about it?", we substitute "What do I feel about it". This is in contrast to the non-binary nature of most stances.
 		* A consequence of this is giving more importance to small risks. 
-	* **[[False Priors and Extension Neglect|Base Rate Fallacy]]** - ignoring representativeness and differing sample sizes and substituting the assumption (implicitly) that sample sizes across categories are the same.
+	* **[[False Priors|Base Rate Fallacy]]** - ignoring representativeness and differing sample sizes and substituting the assumption (implicitly) that sample sizes across categories are the same.
 		* We struggle with dealing with proportions.
 		* We mistake what is probable with what is plausible.
 		* When a base rate is given for a cause, we ignore the base rate of the group and *treat the thing as the cause for an individual case*. This is how we treat and use **Stereotypes**.
