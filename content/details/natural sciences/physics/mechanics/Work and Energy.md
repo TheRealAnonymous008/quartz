@@ -32,6 +32,7 @@
 	  \frac{d}{dt} \left(\frac{1}{2} mv^2\right) = (m\vec{a}) \cdot \vec{v} = \vec{F}_\text{net} \cdot \vec{v}
 	  $$
 	  The theorem follows from using the fundamental theorem of calculus and setting $\vec{v} dt = d\vec{s}$
+	  
 	  This is different from the [[Impulse and Momentum|Impulse-Momentum Theorem]]: work depends on distance, whereas impulse depends on time.
 
 * **Power** is the time rate at which work is done. That is, 
@@ -42,6 +43,7 @@
 	  $$
 	  P = \vec{F} \cdot \vec{v}
 	  $$
+	* By the Work-Energy Theorem *the rate of change of kinetic energy of an object is equal to the power expended by the forces acting on it*.
 
 
 
@@ -85,6 +87,7 @@
   $$
   \Delta \text{KE} + \Delta\text{PE} + \Delta U_\text{int} = 0
   $$
+	* In its most general form, the conservation of energy holds because *the laws of physics are time [[Group Theory|invariant]]* .They are the same regardless of time.
 
 
 

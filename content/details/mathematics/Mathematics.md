@@ -20,25 +20,12 @@
   $$
 
 
-* **Jensen's Inequality** states that for any convex function 
-  $$
-  f\left(\sum_{k=1}^n \lambda_ix_i\right)\le
-  \sum_{k=1}^n\lambda_i f(x_i)
-  $$
-  Where $\lambda_i\ge 0$ and $\sum_{k=1}^n\lambda_i = 1$.
-  
-  An alternative formulation is that if we have convex function $f$ and a random variable $X$, we have 
-  $$
-  f(\mathbb{E}[X])\le \mathbb{E}[f(x)]
-  $$
-  That is, the output of the average input from $X$ is smaller than the average output from $f(X)$.
-
 * **Brouwer's Fixed Point Theorem** - If $f(x)$ is a continuous function from the domain $[0,1]$ to itself, then there exists at least one value $x^\ast \in [0,1]$ for which $f(x^\ast)=x^\ast$. 
 
 * **Kakutani's Fixed Point Theorem** - A correspondence $C: X\mapsto X$ has a fixed point $x\in C(x)$ if four conditions are satisfied 
 	* $X$ is a non-empty, compact, and convex subset of $\mathbb{R}^n$
 	* $C(x)$ is non-empty for all $x$
-	* $C(x)$ is convex for all $x$
+	* $C(x)$ is [[Convex Geometry|convex]] for all $x$
 	* $C$ has a closed graph. 
 
 * A **Bipartite Network Projection** is an operation for simplifying a [[Families of Graphs|Bipartite Graph]]. 

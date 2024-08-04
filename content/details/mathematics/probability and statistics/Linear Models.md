@@ -15,7 +15,7 @@
   \text{RSS}(w)=\sum_i^N(y_i-w^Tx)^2=\sum_i^N\epsilon_i^2
   $$
   
-	* This loss function is convex.
+	* This loss function is [[Convex Geometry|convex]].
 	* We may obtain a solution using the following **normal equation** 
 	  $$
 	  \hat w=(X^TX)^{-1}X^T y
@@ -29,7 +29,7 @@
   $$
   
 * We may have **robust regression** if the data has many outliers. Here, we replace the distribution of $\epsilon$ to *use a heavy-tailed distribution* such as the Laplace or the Student T-distribution.
-	* For a Laplace likelihood, we may choose to minimize the Negative Log Likelihood via Linear Programming. Alternatively, we may use the **Huber Loss** 
+	* For a Laplace likelihood, we may choose to minimize the Negative Log Likelihood via [[Linear Programming]]. Alternatively, we may use the **Huber Loss** 
 	  $$
 	  \begin{equation}
 	  \begin{split}

@@ -74,6 +74,9 @@
 * $k$ - compressibility
 
 * $p$  - pressure
+* $\rho$ - density
+* $\vec{F}_b$ - buoyancy force
+* $Q, q$ - volumetric flow rate.
 
 # Electromagnetism
 * $q$ - charge

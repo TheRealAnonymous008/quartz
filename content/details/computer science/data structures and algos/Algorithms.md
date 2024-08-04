@@ -45,6 +45,7 @@
 * [[String Algorithms]]
 * [[Greedy Algorithm]]
 * [[Dynamic Programming]]
+* [[Linear Programming]]
 * [[Metaheuristics]]
 
 

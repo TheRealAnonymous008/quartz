@@ -45,7 +45,7 @@
   $$
   Where $\theta$ is the probability of success.
 * Any additional evidence constitutes updating $a$ and $b$ above based on the new successes and failures observed. 
-* The posterior of the beta-binomial is convex. The posterior mean is a combination of the prior mean and the MLE
+* The posterior of the beta-binomial is [[Convex Geometry|convex]]. The posterior mean is a combination of the prior mean and the MLE
 * The posterior variance decreases at a rate of $\frac{1}{\sqrt{N}}$, where $N$ is the number of samples. The variance is maximized when $\hat{\theta}=0.5$ and minimized when $\hat{\theta}=0$ or $1$.
 	* This implies, entropy is at a maximum when the probabilities of success and failure are equally likely (see [[Information Theory|here]] for more) 
 * On its own, the model highlights the **sparse data problem** wherein our MLE estimate will be close to $0$ when the dataset is small. This approximation is often poor.

@@ -25,7 +25,18 @@
   $$
   
 * The **gradient** $\nabla f$ points to the direction of steepest ascent. It is perpendicular to the surface of the function.
-	* Its components are the partial derivatives with respect to the coordinate system.
+	* Its components are the partial derivatives with respect to the coordinate system. That is
+	  
+	  $$
+	  \begin{split}
+	  \nabla f &= 
+	  \begin{bmatrix} 
+	  \partial f/\partial x_1 \\
+	  \vdots \\
+	  \partial f/ \partial x
+	  \end{bmatrix}
+	  \end{split}
+	  $$
 	* The dot product $\nabla f \cdot \hat{u}$ gives the **directional derivative**, the component of the gradient in the direction of $\hat{u}$
 	* Let $\vec{F}=\nabla f$, then we say $\vec{F}$ is a **gradient field** and $f$ is the **potential function**.
 * The **divergence** of a continuously differentiable vector field is calculated as 
@@ -90,6 +101,36 @@
   $$
   H(f)=J(\nabla f)^T
   $$
+
+# Theorems
+* Let $a:\mathbb{R}\to\mathbb{R}^n$ and $b:\mathbb{R}\to \mathbb{R}^n$ be differentiable vector valued functions.
+  
+  The derivative of the dot product is given by
+  $$
+  \frac{d}{dx} (a\cdot b) = \frac{da}{dx} \cdot b + a\cdot \frac{db}{dx}
+  $$
+	* *Proof*: Use the definition of the dot product and apply the product rule
+
+* Let $a:\mathbb{R}\to\mathbb{R}^3$ and $b:\mathbb{R}\to \mathbb{R}^3$ be differentiable vector valued functions.  
+  
+  The derivative of their cross product is given by
+  
+  $$
+  \frac{d}{dx}(a\times b) = \frac{da}{dx} \times b + a \times \frac{db}{dx}
+  $$
+  
+	* *Proof*: Use the definition of the cross product and apply the product rule
+
+* Let $z: \mathbb{R}\to \mathbb{R}^n$ be a differentiable valued function such that each of its components $z_1\dots, z_n$ are differentiable real functions.
+  
+  Let $y:\mathbb{R}\to\mathbb{R}$ be a differentiable real-valued function. 
+  
+  Then
+  
+  $$
+  \frac{d}{d x} (y z) = \frac{dy}{dx} z + y \frac{dz}{dx} 
+  $$
   
 # Links
 * [[Integral Calculus]]
+* [[Linear Algebra]]

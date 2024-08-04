@@ -7,4 +7,4 @@
   
 * $G$ is **decomposable** if it is [[Group Isomorphism|isomorphic]] to a direct product of two proper nontrivial subgroups. Otherwise, it is **indecomposable**.
 # Links
-* [[Group]]
+* [[Fundamental Constructs of Group Theory]]
