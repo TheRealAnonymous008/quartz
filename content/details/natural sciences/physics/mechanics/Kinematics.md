@@ -31,14 +31,6 @@
 	* Its acceleration points behind the normal if it is slowing down
 	* Its acceleration points along the normal if its speed is instantaneously not changing.
 \
-# Gravity
-* In free fall, objects accelerate due to gravity. We denote the acceleration due to gravity as $g$.
-	* If a freely falling object passes a given point at two different times, once moving upward and once moving downward, its speed will be the same at both times.
-	* When the acceleration of an object is constant, its position as a function of time is given by a quadratic equation.
-
-* The motion of a projectile is a combination of motion with constant velocity in the horizontal $x$-direction and motion with constant downward acceleration in the vertical $y$-direction.
-* *Velocity and Acceleration are perpendicular only at the peak of thee trajectory*.
-
 # Relativity
 * **Relativity** is the phenomenon where two observers measure the velocity of the same object differently if one observer is moving relative to the other. **Relative velocity** is the velocity relative to a particular observer.
 * Every observer is assumed to have a **frame of reference** - a coordinate system plus a time scale.
@@ -56,4 +48,5 @@
 
 # Links
 * [[University Physics with Modern Physics 15th Edition By Freedman]]  - Ch. 2 - 3
+* [[Gravity]]
 * [[Calculus]]

@@ -6,7 +6,7 @@
 * **Mesosphere**  - the coldest part of the atmosphere. 
 * **Thermosphere** - the hottest layer of the atmosphere due to the particles here absorbing the Sun's energy
 * These layers are separated with breaks called **pauses**.
-* The atmosphere is held together due to the *gravity* pulling down the gases to Earth and the natural *buoyancy* of its constituent gases. 
+* The atmosphere is held together due to the *[[Gravity]]* pulling down the gases to Earth and the natural *[[Fluid Mechanics|buoyancy]]* of its constituent gases. 
 	* The pull of gravity also explains why higher atmospheric layers contain less particles  *Lighter gases also exist higher up in the atmosphere* .
 	* This also explains the fact that the higher layers have lower [[Fluid Mechanics|pressures]] due to having fewer molecules.
 * The height of the troposphere is influenced by insolation. It is higher near the equator and lower near the poles.

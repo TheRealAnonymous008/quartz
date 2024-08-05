@@ -1,4 +1,3 @@
-# Linear Programs
 * A **linear program (LP)** is an optimization problem in which we optimize an objective function that is linear in the unknowns, subject to constraints in the form of linear equalities and inequalities.
   
   We write this in matrix form as
@@ -29,7 +28,7 @@
   \end{bmatrix} 
   $$
   Where $s\ge 0$, and  $x\ge 0$.
-  $z$ is the variable to be maximized. 
+  $z$ is the variable to be optimized. 
   $I\in \mathbb{R}^{m\times m}$ is the identity matrix
 
 	* *Intuition*: A slack variable indicates how much we need to add, for each constraint, so that equality is achieved. That is, if $y_i\ge 0$ , then if the constraint is of the form $a^T x \le b_i$, we can remove the inequality by also solving for $a^Tx + y_i = b_i$,   
@@ -51,6 +50,11 @@
 		* If there is a feasible solution, there is a basic feasible solution
 		* If there is an optimal feasible solution, there is an optimal basic feasible solution
 		* Solving a linear program can be done by searching over basic feasible solutions. There are at most $n \choose m$ such solutions. 
+
+# Topics
+* [[Simplex Method]]
+* [[Primal-Dual Scheme]]
+
 # Links
 * [[Linear and Nonlinear Programming by Luenberger and Ye]]
 * [[Linear Algebra]]

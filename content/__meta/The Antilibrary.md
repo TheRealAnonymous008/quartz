@@ -11,6 +11,8 @@
 * It’s Not All About “Me”: The Top Ten Techniques for Building Quick Rapport with Anyone
 * https://www.amazon.com/Business-Dynamics-Systems-Thinking-Modeling/dp/007238915X
 
+
+* Lord of Mysteries - https://lordofthemysteries.fandom.com/wiki/Demoness_Pathway. Interesting from a Worldbuilding Perspectie
 # Interesting Topics
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
 * Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 

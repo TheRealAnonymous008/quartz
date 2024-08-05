@@ -187,7 +187,7 @@ So the giant component emerges at $\braket{k}<1$.
 	* This arises from the fact we connect mostly to nodes with the same degree, so we favor long chains of nodes, each of with have similar degree to their neighbors. 
 * *Degree correlation can influence the properties that a network has.*
 	* Degree correlations influence the system's stability against stimuli and [[Perturbation Theory|perturbations]].
-	* Degree correlations have an impact on the [[The Matching Problem and Flow Networks|Vertex Cover Problem]]
+	* Degree correlations have an impact on the [[The Matching Problem|Vertex Cover Problem]]
 	* Degree correlations impact the ability to control the network. 
 # Links 
 * [[Network Science by Barabasi|Barabasi]]

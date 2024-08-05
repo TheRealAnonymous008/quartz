@@ -22,7 +22,7 @@
 
 * **Pascal's Law** states that the *pressure applied to an enclosed fluid is transmitted undiminished to every portion of the fluid* and the walls of the containing vessel.
   
-  The principle can be stated as follows for a fluid column in uniform gravity and with uniform density
+  The principle can be stated as follows for a fluid column in uniform [[Gravity]] and with uniform density
   
   $$
   \Delta p = \rho g \cdot \Delta h

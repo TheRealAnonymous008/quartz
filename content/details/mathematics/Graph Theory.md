@@ -7,7 +7,7 @@
 * *Graphs abstract pairwise relations between objects*. 
 * *Graphs are recursive structures*. Manipulating a graph gives a smaller graph.
 
-* One miracle of Graph Theory is how the Matching Problem can be rephrased in many ways. (see [[The Matching Problem and Flow Networks]]).
+* One miracle of Graph Theory is how the Matching Problem can be rephrased in many ways. (see [[The Matching Problem]]).
 
 # Topics
 * [[Graph Theory -- Notation Guide]]
@@ -20,7 +20,8 @@
 * [[Trees]]
 * [[Graph Planarity]]
 * [[Graph Coloring]]
-* [[The Matching Problem and Flow Networks]]
+* [[The Matching Problem]]
+* [[Flow Network]]
 * [[Infinite Graph]]
 * [[Directed Graph]]
 * [[Graph Algorithms]]

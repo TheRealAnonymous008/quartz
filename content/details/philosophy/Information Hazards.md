@@ -151,3 +151,5 @@
 # Links
 * [[Information Hazards by Nick Bostrom]]
 * [[Network Science]] - information hazards can cascade so constructs from [[Network Robustness]] apply here too. 
+
+* [McCollough Effect](https://en.wikipedia.org/wiki/McCollough_effect) - a "real life memetic hazard". It can alter how you perceive color for up to 2 months.

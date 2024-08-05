@@ -1,7 +1,7 @@
 # General Principles 
 * When it comes to drawing hair, it is best to *think in clusters rather than strands*. In order to give the illusion of strands, apply a bit of texturing and [[Color Theory|coloring]].
 * Hair should follow the surface of the head and its curvature. 
-* Hair should generally fall down (in the direction of gravity). Exceptions exist depending on circumstance. 
+* Hair should generally fall down (in the direction of [[Gravity]]). Exceptions exist depending on circumstance. 
 
 # Front 
 * The *front section* includes the mass of the hair at the front of the face (excluding any facial hair)

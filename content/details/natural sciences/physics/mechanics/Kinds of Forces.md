@@ -109,19 +109,7 @@
 
 # Fundamental Forces
 * These forces are fundamental in the sense that *their underlying laws are fundamentally simple*
-## Gravity
-* The **Law of Gravitation** states that every object attracts every other objects with a gravitational force $F$ that follows
-  
-  $$
-  F = \frac{Gm_1m_2}{r^2}
-  $$
-  Where $G$ is the gravitational constant and $r$ is the distance between the two objects with masses $m_1$ and $m_2$. 
-
-* **Kepler's Laws of Planetary Motion** describes the orbits of planets around the sun.
-	* **Law 1**: The orbit of a planet is an ellipse with the Sun as one of the two foci.
-	* **Law 2**: A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.
-	* **Law 3**: The square of the period of the orbit is proportional to the cube of the length of the semi-major axis of the orbit.
-* *The laws of planetary motion are a consequence of the Laws of Universal Gravitation*
+## [[Gravity]]
 
 ## Electromagnetic Force
 * **Coulomb's Law** states that given two charges $q_1$ and $q_2$, separated a distance $r$, the electromagnetic force between them is given by 

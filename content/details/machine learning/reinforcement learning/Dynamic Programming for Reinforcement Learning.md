@@ -5,7 +5,7 @@
 # Bellman Equations
 * The value function of a reinforcement learning task modelled as an MDP can be quantified recursively using the **Bellman Equations** (see [here](https://en.wikipedia.org/wiki/Bellman_equation))
 	* The value of the current state must equal the immediate reward plus the discounted value of the expected next state. This is also called a **[[Backups in Reinforcement Learning|Bellman Backup]]**.
-	* Note that backups can be performed on the optimal policy as well. as well.
+	* Note that backups can be performed on the optimal policy as well.
 
 * **Optimal Policies** satisfy the following properties (from the optimal Bellman equation)
 	* $v_\ast(s) = \max_\pi v_\pi(s)$
@@ -26,7 +26,8 @@
   v_{\rho}(s)\ge v_{\pi}(s)
   $$
   Moreover, this result is monotonic. 
-
+	* A **switchable state** is a state $s$ for which $\exists a$ such that $q_\pi(s,a) > v_\pi(s)$. 
+	* *Optimal policies do not have switchable states*
 # Policy Iteration
 * The optimal policy in an MDP can be obtained through **policy iteration** wherein the policy is incrementally improved until its value function can no longer be improved. *This method is supported by the policy improvement theorem*.
 	* *Generally this consists of two phases of evaluation and improvement*. 

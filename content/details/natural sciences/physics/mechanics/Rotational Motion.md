@@ -108,7 +108,7 @@
 		* The axis through the center of mass is an axis of symmetry.
 		* The axis must not change direction,
 
-* An object's **center of gravity** is the point on a body where the torque due to gravity vanishes.
+* An object's **center of gravity** is the point on a body where the torque due to [[Gravity]] vanishes.
 	* The torque due to gravity is given by
 	  $$
 	  \vec{T} = \vec{r}_\text{cm} \times \vec{w}

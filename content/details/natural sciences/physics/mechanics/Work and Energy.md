@@ -49,16 +49,22 @@
 
 * The **Potential Energy** is the energy held by an object because of work done on by *a force that is path independent* [^potential_energy]
 	* Because of path independence, the formulae for the potential energy of an object due to a force applies regardless of what path the object took.
-	* **Gravitational Potential Energy** involves gravity acting on an object near the Earth's surface. It is given by 
+	* **Gravitational Potential Energy** involves [[Gravity]] acting on an object near the Earth's surface. It is given by 
 	  
 	  $$
 	  \text{PE}_g = mgy + \text{constant}
 	  $$
 
-		* Another way to write this is with the centner of mass $M$
+		* Another way to write this is with the center of mass $M$
 		  $$
 		  \text{PE}_g = Mgy + \text{constant}
 		  $$
+		* Another way to write this is using Newton's Law of Gravitation.  Let $M$ be the mass of the attracting object and $m$ the mass of the object in study
+		  $$
+		  \text{PE}_g = -\frac{GMm}{r}
+		  $$
+		  
+		  
 	* **Elastic Potential Energy** involves the force of a spring that has been compressed or stretched with displacement $x$. For an ideal spring, it is given by 
 	  
 	  $$

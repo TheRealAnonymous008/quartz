@@ -60,6 +60,6 @@
 	    Since $\mathcal{F}$ has a transversal, every basis of $M$ must be a transversal, and this basis contains $A$ as desired. 
 
 * (*Wilson 33.1*) **Rado's Theorem** - Let $M$ be a [[Matroid Theory|matroid]] on a set $E$, and let $\mathcal{F}=\{S_1,\dots, S_m\}$ be a  family of non-empty subsets of $E$. Then $\mathcal{F}$ has an independent transversal if and only if the union of any $k$ of the subsets $S_i$ contains an independent set of size at least $k$.
-	* Applying it to the [[Matroid Types|discrete matroid]] on $E$ gives [[The Matching Problem and Flow Networks|Hall's Theorem]].
+	* Applying it to the [[Matroid Types|discrete matroid]] on $E$ gives [[The Matching Problem|Hall's Theorem]].
 
 * (*Wilson 33.2*) A family $\mathcal{F}$ has an independent partial transversal of size $t$ if and only if the union of any $k$ of the subsets $S_k$ contains an independent set of size at least $k+t-m$

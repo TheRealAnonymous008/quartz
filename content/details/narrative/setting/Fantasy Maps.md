@@ -24,7 +24,7 @@
 	* The locations of mountain ranges affect travel. For example, a mountain range can cut a continent in two halves and people from two halves will find it hard to communicate.
 
 * Consider the placement of *water* 
-	* Rivers flow generally from the mountains to sea. Consider how gravity operates.
+	* Rivers flow generally from the mountains to sea. Consider how [[Gravity]] operates.
 	* Rivers generally do not split, they join. (splitting is rare, but it can happen in deltas, for example).
 
 # Links
