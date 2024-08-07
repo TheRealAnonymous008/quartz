@@ -73,7 +73,7 @@
 * On an abstract level, speech is representable in terms of finite sequences of segments. However, *a good description of speech need not correspond with speech itself. *
 
 * These writing systems *use letters and alphabets*. 
-* The pronounceability of alphabetic words rests on a process known as **phonological recoding** - the transformation of mental representations of sequences of letters into mental representations of sequences of sounds. 
+* The pronounceability of alphabetic words rests on a process known as **phonological recoding** - the transformation of mental representations of sequences of letters into mental representations of sequences of [[Acoustics|sounds]]. 
 * **Phonemic writing** means that there is a one-to-one correspondence between phonemes and their written representation. *This is an ideal that has not been achieved by any particular language*. There are three challenges 
 	* Even in a phonemic writing system, interpretations only serve as contrasts reflected in spelling. 
 	* Uncertainty arises when dealing with two distinct languages with different contrasts reflected in their letters. 

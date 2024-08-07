@@ -24,7 +24,7 @@
 * $\theta$ - angle
 
 * $\vec{s},\vec{r}$ - displacement or position
-* $d, l, w, h$ - length. $w$ and $h$ may pertain to width and height respectively.
+* $d, l, L, w, h$ - length. $w$ and $h$ may pertain to width and height respectively.
 * $v$ - speed
 * $\vec{v}$ - velocity
 * $\vec{v}_{A/B}$ - velocity of $A$ relative to $B$. 
@@ -77,6 +77,21 @@
 * $\rho$ - density
 * $\vec{F}_b$ - buoyancy force
 * $Q, q$ - volumetric flow rate.
+
+* $A$ - amplitude
+* $f$ - frequency
+* $\omega$ - angular frequency
+* $\phi$ - phase angle.
+* $\Theta$ - angular amplitude
+* $\kappa$ - torsion constant for angular harmonic motion.
+* $b$ - damping constant for damped oscillation
+* $\lambda$ - wavelength
+* $v_P$ - phase velocity
+* $\tilde v$ - wave number
+* $k$ - angular wave number
+* $\mu$ - linear mass density (or any analogue)
+* $I$ - intensity
+* $f_1$ - fundamental frequency.
 
 # Electromagnetism
 * $q$ - charge

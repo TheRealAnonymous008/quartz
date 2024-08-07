@@ -26,7 +26,7 @@
 * Even though it is recognized as ‘only’ a representation of speech, its categories are allowed to intrude into [[Linguistics|linguistic]] inquiry - that which asks about he nature of language.
 
 # Writing Systems 
-* Broadly speaking there are two kinds -- those that are based on meaning or **semiography** and those based on sound or **phonography**. 
+* Broadly speaking there are two kinds -- those that are based on meaning or **semiography** and those based on [[Acoustics|sound]] or **phonography**. 
 * *Writing is auto-indexical* in the sense that they reveal the procedures on the basis of which they must be used. It can be inferred how to decipher the text. 
 
 * **Leibniz** - writing could be the root for a universal language that could facilitate logic, memory, and international communication. Doing this required that words correspond to things (concepts) independent of language. 

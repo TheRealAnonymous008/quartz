@@ -8,7 +8,7 @@
 	* The hope of optimality theory is that there are universal constraints across languages (with languages having their own rule orderings for these constraints.)
 	* By specifying broad enough constraints, we can capture general rules that can be made about the language, and allow for cross-language comparison.
 
-* *Phonological rules talk about sound classes*
+* *Phonological rules talk about [[Acoustics|sound]] classes*
 
 # Common Rules
 * **Devoicing** - some sounds are devoiced under certain conditions, even when they normally would not be.

@@ -1,5 +1,5 @@
 * Language is an encoding of the different ideas of its speakers conveyed in utterances.
-* **Arbitrariness of the Sign** - there is no logical intrinsic relationship between sound pattern and concept (not applicable in some cases, but generally true)
+* **Arbitrariness of the Sign** - there is no logical intrinsic relationship between [[Acoustics|sound]] pattern and concept (not applicable in some cases, but generally true)
 
 * Although some features (i.e., morphological, syntactical) can be easy to imagine for a given language, in practice, these do not exist, possibly because of how humans construct and use languages. [[Thinking Fast And Slow|We favor simplicity]].
 

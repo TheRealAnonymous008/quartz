@@ -6,6 +6,8 @@
   \rho = \frac{m}{V}
   $$
 	* The **specific gravity** oof a material is the ratio of its density to the density of water at $4.0\degree C$  -- $1000 kg/m^3$. 
+	* A **compression** is a region of increased density.
+	* A **rarefaction** is a region of reduced density
 
 # Pressure
 * In a given fluid, the **pressure** applied to a body  is defined as 

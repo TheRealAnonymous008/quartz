@@ -68,7 +68,7 @@
 
 # Cascading Failures
 * Models have been made to capture the dynamics of cascading effects. They share three ingredients.
-	* The system is characterized by some [[The Matching Problem|flow]] over the network 
+	* The system is characterized by some [[Flow Network|flow]] over the network 
 	* Each component has a local breakdown that determines when it contributes to a cascade 
 	* Each system has a mechanism to redistribute the traffic to other nodes on a cascade
 

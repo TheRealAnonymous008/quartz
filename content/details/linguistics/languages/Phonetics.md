@@ -18,7 +18,7 @@
 		* **[Pharyngeal](https://en.wikipedia.org/wiki/Pharyngeal_consonant)** - articulated primarily in the pharynx
 		* **[Glottal](https://en.wikipedia.org/wiki/Glottal_consonant)** - articulated using the glottis (i.e., the vocal folds).
 
-* Sounds can be **voiced** - where the vocal cords vibrate or **voiceless** - where the vocal cords do not vibrate.
+* [[Acoustics|Sounds]] can be **voiced** - where the vocal cords vibrate or **voiceless** - where the vocal cords do not vibrate.
 	* **Aspirated** - pertains to the strong burst of breath when articulating a sound. Aspirated sounds tend to be voiceless.
 
 * Sounds can be categorized by the **manner of articulation** 
