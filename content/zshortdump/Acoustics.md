@@ -1,4 +1,6 @@
-
+* **Sound** is formally a longitudinal wave that propagates through a medium, most typically air. 
+	* Sound is perceived by the human [[Anatomy|ear]]. The audible range is $20-20000 \ \ \text{Hz}$
+	* Sound can be described as fluctuations in [[Fluid Mechanics|pressure]]. The fluctuation is dependent on the sound's frequency.
 # Instruments
 * The harmonic pattern of an instrument is dependent on the superposition of different frequencies and normal modes. The **harmonic content** is the extent to which frequencies higher than the fundamental are present and it is dependent on how the wave was produced
 

@@ -3,7 +3,7 @@
 * Humans rationalize things. When making decisions, the goal is not to pick the correct option, but to justify the choice made.
 * Most biases can be explained by [[Thinking Fast And Slow|What you see is all there is]]. Humans ignore external information that would help, and instead jump to conclusions.
 # Topics
-* [[Anchoring Bias]]
+* [[Anchoring Bias]] - the tendency to rely too heavily on one source of information (the anchor) for decision making.
 
 * [[Apophenia]] - the tendency to perceive meaningful connections between unrelated things.
 

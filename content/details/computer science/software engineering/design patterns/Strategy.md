@@ -22,12 +22,12 @@
 * Use only when the variation is behavior irrelevant to clients.
 
 ## Defining Strategy and Context interfaces. 
-The strategy and context must provide each other efficient access to needed data:
+* The strategy and context must provide each other efficient access to needed data:
 	* Have context pass data in parameters (decouples Strategy and context, but context might pass unneeded data).
 	* Store a reference to context in Strategy (or have context pass itself as parameter) (tightly couples Strategy and context, but strategy can request exactly what it needs)
 
 ## [[Template Method|Template Methods]]
-Strategies as template parameters if: the Strategy can be selected at compile-time and it doesn’t have to be changed at run time.
+* Strategies as template parameters if: the Strategy can be selected at compile-time and it doesn’t have to be changed at run time.
 
 ## Optional Strategy Objects
 * Remove strategy objects in contexts if they aren’t needed or If default behaviors are sufficient.

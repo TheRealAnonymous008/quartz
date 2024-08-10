@@ -3,11 +3,12 @@
 	  $$
 	  e\ast x=  x\ast e = x
 	  $$
-	  
+		* (*Fraleigh 4.17*) There is only one such identity element. 
 	* For all $x\in G$, there exists an **inverse element** $x^{-1}\in G$ such that 
 	  $$
 	  x\ast x^{-1}=x^{-1}\ast x=e
 	  $$
+		* (*Fraleigh 4.17*) Every element has only one such inverse element.
 	  
 	* The binary operation is **associative**. That is $\forall x,y,z\in G$ 
 	  $$
@@ -32,7 +33,9 @@ $$
   $$
   (ab)^{-1}=b^{-1}a^{-1}
   $$
-  
+* An element $x\in G$ is **idempotent** if $x\ast x=x$.  (*Fraleigh e4.31*) A group has exactly one idempotent element. 
+	* In fact, this idempotent element is $e$. 
+
 * **Multiplication defines a bijection**. Let $g\in G$, then there is a bijection $\lambda_L:G\to G$ that is defined as 
   $$
   \lambda_L(x)=g\ast x
@@ -53,7 +56,7 @@ $$
 	  $$
 	  e_L\ast x=x
 	  $$
-	  
+
 * The **order of a group** pertains to the number of elements. This is denoted $|G|$.
 	* **Lagrange's Theorem on Orders** If $G$ is a finite group, then $\forall x\in G$
 	  $$

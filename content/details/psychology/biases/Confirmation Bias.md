@@ -1,4 +1,4 @@
-* The tendency to look for information in a way that supports one's prior beliefs or values, and ignoring contrary or using ambiguous evidence.
+* The tendency to look for information in a way that supports one's [[Bayesian Statistics|prior]] beliefs or values, and ignoring contrary or using ambiguous evidence.
 * This arises due to how *our brains use heuristics to quickly prove our beliefs*. Another reason is that we perceive this bias as *protecting our self-esteem* by protecting us from false beliefs we tie to our identity.
 * This can manifest as:
 	* Biased searching for information (i.e., to confirm hypotheses)

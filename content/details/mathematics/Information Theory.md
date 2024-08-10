@@ -45,7 +45,7 @@
   $$
   
 	* It measures the discrepancy between these occurring together compared to what would be expected by chance.
-	* It is also the amount we learn from updating a prior into a posterior.
+	* It is also the amount we learn from updating a [[Bayesian Statistics|prior]] into a posterior.
 
 * The **Mutual Information** determines how similar the joint distribution $p(X,Y)$ is to the factored distribution $p(X)p(Y)$. It is defined, therefore as 
   $$

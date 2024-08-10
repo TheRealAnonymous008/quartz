@@ -23,7 +23,7 @@
 * Children can store multiple parents, but this can lead to ambiguities.
 
 ## Use Common Denominators
-Maximize component interface by defining as many common operations for Composite and Leaves.
+* Maximize component interface by defining as many common operations for Composite and Leaves.
 
 ## Declaring child management operations
 * Declare operations in the component which are inherited by the leaves (more transparent but less safe)

@@ -20,7 +20,7 @@
 * Use existing links when they work well to support the needed chain.
 
 ## Connecting successors
-Introduce pre-existing references if there aren’t any. Handlers will maintain their successors.
+* Introduce pre-existing references if there aren’t any. Handlers will maintain their successors.
 
 ## Representing requests
 * Safe approach: Use Hard-coded operation invocation.

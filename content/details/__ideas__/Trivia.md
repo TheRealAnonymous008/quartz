@@ -19,3 +19,8 @@
 	* (4) are preventable with foresight
 
 * Rotten potatoes can produce a lethal gas called Solanine
+
+* [[Anchoring Bias|Functional Fixedness]] can be overcome as follows:
+	* **Uncommitting** - abstract the problem down to its essential components. 
+	* Draw inspiration from other places.
+	* Draw opinions from other fields

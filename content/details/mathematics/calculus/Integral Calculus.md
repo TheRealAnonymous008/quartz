@@ -5,7 +5,7 @@
   Where the set of $x_i$ is a set of points spaced evenly. The intuition is that we take thin slices of the function.
 * By the **Fundamental Theorem of Calculus**, the derivative and the integral are inverses of each other.
 * **Iterated integrals** generalize integrals in that they take the volume under the surface of the function. The intuition is to take thin slices along each direction. 
-* The **line integral** is an integral over a vector field $\vec{F}$ along a path $C$. It is denoted as [^line_integral]
+* The **line integral** is an integral over a [[Vector Field]] $\vec{F}$ along a path $C$. It is denoted as [^line_integral]
   $$
   \int_C\vec{F}(s)\cdot ds = \int_{t_0}^{t_1}F(r(t)) \cdot \frac{dr}{dt} dt
   $$

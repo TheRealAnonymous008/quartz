@@ -28,6 +28,11 @@
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 * [HackerFactor](https://www.hackerfactor.com/blog/) 
 
+# Notemarks
+* [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
+* [[Human Biases]] 
+* [[Tarot Cards]]
+
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.
 * [[Virtues and their Vices by Kevin and Craig]] 
@@ -36,9 +41,7 @@
 	* Theological Virtues
 * [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
 	* https://en.wikipedia.org/wiki/Köppen_climate_classification
-* [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
-* [[Human Biases]] 
-* [[Tarot Cards]]
+* [[Linear and Nonlinear Programming by Luenberger and Ye]] - Resume Ch. 5
 
 # Papers
 * Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
@@ -58,6 +61,7 @@
 
 * [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
 * [Pi.ai](https://pi.ai/talk) - an online personal assistant chatbot as an alternative to ChatGPT.
+
 # General Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 
 * [Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions) - A book series.

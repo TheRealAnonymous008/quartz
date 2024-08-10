@@ -2,6 +2,7 @@
   $$
   \frac{df}{dx}=\lim_{h\to 0} \frac{f(x+h)-f(x)}{h}
   $$
+	* We also sometimes notate this as $\dot{f}$ if $x$ is explicitly clear.
   
 * The **partial derivative** $\partial f / \partial x$ is a multivariable extension of the derivative that is calculated as the single variable derivative where all variables other than $x$ are held constant.
 * The **Leibniz Integral Rule** for differentiation under the integral sign states that for an integral of the form
@@ -39,7 +40,7 @@
 	  $$
 	* The dot product $\nabla f \cdot \hat{u}$ gives the **directional derivative**, the component of the gradient in the direction of $\hat{u}$
 	* Let $\vec{F}=\nabla f$, then we say $\vec{F}$ is a **gradient field** and $f$ is the **potential function**.
-* The **divergence** of a continuously differentiable vector field is calculated as 
+* The **divergence** of a continuously differentiable [[Vector Field]] is calculated as 
   $$
   \text{div} \ F = \nabla \cdot F=\frac{\partial F}{\partial x_1} + \cdots +\frac{\partial F}{\partial x_n}
   $$

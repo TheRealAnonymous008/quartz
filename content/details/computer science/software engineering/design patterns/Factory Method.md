@@ -16,7 +16,7 @@
 
 # Implementation
 ## Manipulators 
-Use a Manipulator object to handle interactions between factory objects and handle parallel class hierarchies.
+* Use a Manipulator object to handle interactions between factory objects and handle parallel class hierarchies.
 
 ## Variants
 * The Creator class is an abstract class and doesn’t have a factory method implementation
