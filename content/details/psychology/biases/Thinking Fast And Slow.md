@@ -61,13 +61,7 @@
 
 * *People are risk averse*. They prefer a safer but low-utility guarantee than a riskier but high-utility gamble.
 	* We think, not just in terms of the state of our current utility (happiness) but also the *relative change of utility*. Utility is non-[[Markov Processes in Machine Learning|Markovian]].
-	* The three principles of Prospect Theory
-		* **Adaptation Level** - evaluation is relative to a neutral reference point. *Tastes are not fixed, they vary with this reference point*.
-		* **Diminishing Sensitivity** - sensitivity depends on scale. Small increments are only noticeable at small scales.
-		* **Loss Aversion** - There is an asymmetry where we weigh a loss more than an equal gain.
-			* Evolutionarily, this makes sense. An organism that perceives threats as more urgent survives better.
-			* A byproduct of this is a single bad in many good things stands out more, and a single good in many bad things stands out less.
-			* *This makes negotiations more difficult*. the exploitation of market power to impose losses on others is unacceptable
+	* See more on [[Prospect Theory]]
 
 	* When both a gain and a loss are possible, loss aversion causes risk-averse choices.
 	* In bad choices, where a sure loss is compared to a larger loss that is merely probable, diminishing sensitivity causes risk seeking. (see [[Framing Effect|here]]).

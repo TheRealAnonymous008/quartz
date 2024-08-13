@@ -53,7 +53,10 @@
 	  $$
 	  (B_1-\{e\}) \cup \{f\}
 	  $$
-	  is also a basis of $M$. 
+	  is also a basis of $M$.  
+	  [^basis_exchange]
+
+[^basis_exchange]: A generalization of the [[Linear Combination|basis replacement theorem]]
 
 * **Cycle Definition**: A matroid $M$ consisting of a non-empty finite set $E$ and a collection $C$ of non empty subsets of $E$ called its cycles  satisfying the properties:
 	* No cycle properly contains another cycle 

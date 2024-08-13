@@ -11,5 +11,7 @@
 * [[Object Oriented Programming]]
 * [[Clean Code Principles]]
 * [[The Design Patterns]] 
+* [[Software Construction]]
 # Links
 * [[Clean Code by Robert Martin]]
+* [[Code Complete by McConnell]]

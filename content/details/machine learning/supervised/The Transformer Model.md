@@ -10,7 +10,7 @@
 	* There is no need to compress or simplify the database to make the operations effective.
 # Attention  
 * **Attention** is a mechanism that allows a model to selectively focus on particular tokens within some sequential input. 
-* *Attention is a linear combination of the values where the weights are a function of the query and the key*. Or more mathematically it is given as follows.
+* *Attention is a [[Linear Combination]] of the values where the weights are a function of the query and the key*. Or more mathematically it is given as follows.
 	* *$\text{Attention}(q,D) := \sum_{i=1}^m \alpha(q,k_i)v_i$
 	* $\alpha(q,k)$ is used to *determine how well the query matches the key*. It can be **additive** or use a **scaled dot product**. It is normalized using SoftMax.
  * Attention can be extended to **multi-head attention** where queries, keys, and values are transformed using multiple attention operations (called **heads**).

@@ -1,6 +1,6 @@
 * A **linear program (LP)** is an optimization problem in which we optimize an objective function that is linear in the unknowns, subject to constraints in the form of linear equalities and inequalities.
   
-  We write this in matrix form as
+  We write this in [[Matrix]] form as
   $$
   \begin{split}
   \text{optimize } & \ \ \ \ \ c^Tx \\  

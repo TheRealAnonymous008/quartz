@@ -18,7 +18,11 @@
 * (*Fraleigh 6.16*) The generators of a finite cyclic group $G$ are of the form $a^r$, where $r\perp |G|$. ($r$ and $|G|$ are coprime)
 
 * (*Fraleigh 10.11*) Every group of prime order is cyclic.
+
 * (*Fraleigh 11.5*) The group $\mathbb{Z}_m\times \mathbb{Z}_n$ is cyclic and is isomorphic to $\mathbb{Z}_{mn}$ if and only if $m$ and $n$ are coprime.
+  
+  (*Fraleigh 11.6*) In general, the group  $\prod_{i=1}^n \mathbb{Z}_{m_i}$  is cyclic and isomorphic to $\mathbb{Z}_{\prod_{i=1}^n m_i}$ if and only if the $\text{gcd}$ between any pair of distinct $m_i$'s is $1$.
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]
+* [[Direct Product of Groups]]

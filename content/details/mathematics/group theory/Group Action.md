@@ -54,5 +54,5 @@
   $$
   Where $X^g$ denotes the elements of $X$ fixed by $g$. $$X^g=\{x\in X\mid gx=x\}$$In other words *the number of orbits, equals the average number of fixed points*.
 # Links
-* [[Cosets, Group Indices, Normal Groups]]
+* [[Cosets, Group Indices]]
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

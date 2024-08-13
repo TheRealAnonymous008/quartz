@@ -66,7 +66,7 @@ $$
 * If $xy\in E$, we say that $x$ is **adjacent** to $y$. Denoted as $x\leftrightarrow y$. This is the **adjacency relation**.
 * We say that $xy$ is **incident** to the vertices $x,y\in V$. This is the **incidence relation**. 
 
-* We can represent the adjacency relation with a square matrix called the **adjacency matrix** denoted $A$. It is $|V| \times |V|$ and we obtain the entries as follows. 
+* We can represent the adjacency relation with a square [[Matrix]] called the **adjacency matrix** denoted $A$. It is $|V| \times |V|$ and we obtain the entries as follows. 
   
   If $v_i,v_j\in V$, then $A_{ij}$ is the number of edges between $v_i$ and $v_j$ in that order.  
   

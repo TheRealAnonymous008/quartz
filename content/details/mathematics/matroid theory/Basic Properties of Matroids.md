@@ -36,7 +36,7 @@
 * (*Wilson e31.10.2*) Any minor of a cographic matroid is also cographic. 
 	* *Proof*: Similar to (*Wilson e31.10.1*), except applying to [[Trees|cotrees]].  
 * (*Wilson e31.10.3*) Any minor of a regular matroid is also regular.
-	* *Proof*: If $M$ is regular, then it is representable in every field $F$. So, there exists a map $\phi$ and a vector space $V$ that maps independent sets of $M$ to linearly independent subsets of $V$. 
+	* *Proof*: If $M$ is regular, then it is representable in every field $F$. So, there exists a map $\phi$ and a [[Vector Space]] $V$ that maps independent sets of $M$ to linearly independent subsets of $V$. 
 	  
 	  Performing either matroid restriction or matroid contraction is equivalent to considering a subset of a set linearly independent vectors. This subset is also linearly independent so the resulting matroid is also regular 
 * (*Wilson e31.10.4*) Any minor of a binary matroid is also binary. 

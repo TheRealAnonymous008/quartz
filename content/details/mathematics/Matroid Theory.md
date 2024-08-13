@@ -1,4 +1,4 @@
-* Generalizes [[Linear Algebra]] and [[Graph Theory]] by observing special constructs that involve the notion of "independent sets" 
+* Generalizes [[Linear Algebra]] and [[Graph Theory]] by observing special constructs that involve the notion of "[[Linear Combination|linear independence]]" 
 * To give an example. 
 
 | Construct       | Graph Theory     | Linear Algebra          |

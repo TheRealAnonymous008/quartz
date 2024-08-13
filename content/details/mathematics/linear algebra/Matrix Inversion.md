@@ -70,3 +70,4 @@
   Where $N_i$ is a number that makes $\overline{q_i}$ normalized.
 # Links
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 4.3.2.1]]
+* [[Matrix]]

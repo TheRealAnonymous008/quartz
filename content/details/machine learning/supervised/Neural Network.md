@@ -2,7 +2,7 @@
 	* The goal is that each layer extracts certain patterns. 
 * The most basic layer is the **Fully connected layer** in which all inputs from the previous layer are connected to the neurons in the current layer. 
   
-  Let $W$ be the weight matrix and $b$ the bias vector. 
+  Let $W$ be the weight [[Matrix]] and $b$ the bias vector. 
   
   The outputs are determined by 
   $$

@@ -10,12 +10,12 @@
 	* [[Cyclic Group]]
 	* [[Alternating Group]]
 
-* [[Cosets, Group Indices, Normal Groups]]
+* [[Cosets, Group Indices]]
 * [[Group Homomorphism]]
 * [[Factor Group]]
 * [[Commutator Group]]
 
-* [[Group Action and Isometry]]
+* [[Group Action]]
 
 # Links
 * [[Linear Algebra]] - for a related algebra to group theory.

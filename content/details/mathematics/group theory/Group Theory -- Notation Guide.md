@@ -13,7 +13,7 @@
 
 * $G\le H$ - $G$ is a subgroup of $H$
 * $G < H$ - $G$ is a proper subgroup of $H$
-* $|G|$ - the size of group $G$. Also called its order
+* $|G|, \text{ord}(G)$ - the size of group $G$. Also called its order
 * $\text{ord}(g)$ - the order of group element $g$.
 
 * $G \cong H$ - $G$ is isomorphic to $H$. 
@@ -43,10 +43,12 @@
 * $C$ - commutator subgroup
 
 * $Z(G)$ - Center of group $G$.
+* $A_T$ - torsion subgroup of abelian group $A$
 
 * $aH$ - the left coset of $H$ containing $a$
 * $Ha$ - the right coset of $H$ containing $a$.
 * $HxK$ - the double coset.
+* $N\unlhd G, N\lhd G$ - $N$ is a normal subgroup of $G$.  
 * $(G:H)$ - the index of $H\le G$. 
 * $G/H$ - the factor group of $G$ modulo $H$
 

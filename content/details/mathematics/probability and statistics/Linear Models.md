@@ -1,4 +1,4 @@
-* We can think of linear models as operating on features, which are effectively **basis functions** that form a linear basis for a set appropriate functions.
+* We can think of linear models as operating on features, which are effectively **basis functions** that form a [[Linear Combination|linear basis]] for a set appropriate functions.
 # Linear Regression
 ## Specifications
 * It is a model of the form 

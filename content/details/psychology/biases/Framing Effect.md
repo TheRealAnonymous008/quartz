@@ -1,7 +1,7 @@
 * The tendency to draw different conclusions from the same information depending on how it is presented (i.e., with positive or negative connotations).
 	* People make risk-avoidant choices if the options are positively framed
 	* People make loss-avoidant choices if the options are negatively framed.
-	* Prospect theory suggests that *loses are perceived as more significant than an equivalent gain*.
+	* [[Prospect Theory]] suggests that *loses are perceived as more significant than an equivalent gain*.
 	* *A sure gain is preferable to a probable gain. A probable loss is preferred to a sure loss*. Thus, we look for information about certain gains.
 	* This can also be attributed to the [[Availability Heuristic]], and our own emotional state. 
 	* Information acts as the counter to this. More informed and mindful subjects are less prone to the framing effect.

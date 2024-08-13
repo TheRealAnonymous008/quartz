@@ -34,7 +34,7 @@
 
 * A **pivot operation** is used to move from a basic feasible solution to another basic feasible solution.  It involves selecting a non-basic column and applying row transformations so that it is a unit vector. It is then used as a replacement column to the Identity Matrix. 
   
-  *If we look at the basic variables as defining a basis, a pivot lets us define a new basis*.  
+  *If we look at the basic variables as defining a [[Linear Combination|basis]], a pivot lets us define a new basis*.  
   
   We refer to the variable used as a new basic variable as the **entering variable** and the variable it replaces as the **leaving variable**
 	* *The entering variable is selected to optimize the objective function*

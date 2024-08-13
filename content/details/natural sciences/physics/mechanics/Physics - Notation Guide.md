@@ -14,7 +14,7 @@
 * $_\text{tot}$ - total quantity
 * $_\text{ext}$ - external quantity 
 * $\Delta x$ - change in quantity $x$
-
+***
 * $R$ - radius
 * $m$ - mass
 * $M$ - total mass
@@ -22,7 +22,7 @@
 * $A$ - area
 * $V$ - volume
 * $\theta$ - angle
-
+***
 * $\vec{s},\vec{r}$ - displacement or position
 * $d, l, L, w, h$ - length. $w$ and $h$ may pertain to width and height respectively.
 * $v$ - speed
@@ -51,7 +51,7 @@
 		* $_\text{el}$ - elastic
 	* $U_\text{int}$ - internal energy
 * $P$ - power
-
+***
 * $\mu$ - coefficient of friction 
 	* $_k$ - kinetic friction
 	* $_s$ - static friction
@@ -64,7 +64,7 @@
 * $I$ - moment of inertia
 * $\vec\tau$ - torque
 * $\vec{L}$ - angular momentum
-
+***
 * $\sigma$ - stress
 * $\varepsilon$ - strain
 * $\delta$ - elasticity modulus
@@ -72,12 +72,12 @@
 * $B$ - Bulk Modulus
 * $S$ - Shear Modulus
 * $k$ - compressibility
-
+***
 * $p$  - pressure
 * $\rho$ - density
 * $\vec{F}_b$ - buoyancy force
 * $Q, q$ - volumetric flow rate.
-
+***
 * $A$ - amplitude
 * $f$ - frequency
 * $\omega$ - angular frequency

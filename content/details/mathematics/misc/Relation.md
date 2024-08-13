@@ -22,7 +22,7 @@
 	  $$
 	  f(A) = \{f(x)\in Y \mid x\in A\}
 	  $$
-	  If $A$ contains a single element $x$, we denote the image of $x$ as $f(x)$
+	  If $A$ contains a single element $x$, we denote the image of $x$ as $f(x)$ [^not_1]
 	* The **pre-image** of $f$ under a subset $B\subseteq Y$ is defined as the set 
 	  
 	  $$
@@ -33,6 +33,7 @@
 	  
 	  Likewise the image of $f$ is $f(X)$. 
 
+[^not_1]: We sometimes notate this as $f[A]$ if the context is unclear
 
 * A function is **injective** if every element of the domain is mapped to at most one element in the codomain. More formally
   

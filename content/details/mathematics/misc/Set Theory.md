@@ -229,6 +229,10 @@
 
 * In other words, we can choose one element from each set within a collection of sets. It asserts that such a choice is nonempty, even if the collection is infinite.
 
+# Miscellaneous
+* A collection of sets $\mathcal{C}$ is called a **chain** if for each pair of sets in $A,B\in \mathcal{C}$, either $A\subseteq B$ or $B\subseteq A$
+* The **Maximal Principle** states the following. Let $\mathcal{F}$ be a family of sets. If for each chain $\mathcal{C}\subseteq F$ there exists a member of $\mathcal{F}$ that contains each member of $\mathcal{C}$, then $\mathcal{F}$ contains a maximal element.
+
 # Links
 * [[Relation]]
 * [[Boolean Algebra]]

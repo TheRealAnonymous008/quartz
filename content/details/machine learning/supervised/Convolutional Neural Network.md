@@ -61,7 +61,7 @@
 ## 1x1 Convolutional Layers
 * A **1x1 convolutional layer** is one that uses a 1x1 convolution kernel. 
 * The result is that each computation only occurs in the channel dimension.
-* Each output in the channel dimension corresponds to a [[Linear Algebra|linear combination]] of the inputs channels.
+* Each output in the channel dimension corresponds to a [[Linear Combination]] of the inputs channels.
 * Outputs and inputs correspond to exactly one pixel.
 * It acts like a form of [[Dimensionality Reduction Models|dimensionality reduction]] and a means to use activation functions to introduce a local non-linearity.
 

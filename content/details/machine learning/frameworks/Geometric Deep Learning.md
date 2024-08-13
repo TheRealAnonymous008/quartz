@@ -1,7 +1,7 @@
 * Geometric Deep Learning aims to provide *a common mathematical framework for neural network architectures.*
 * In many cases, especially for [[Pathologies of Deep Learning|high-dimensional]] settings, we have **[[Group Theory|symmetry]] priors**  which imposes an inductive bias on the structure of the function being learnt.
 	* Such priors are based on the signals on some domain $\Omega$. The domain is a vector space [^dom]
-	* The space of $C$-valued signals on $\Omega$, where $\Omega$ is a set that may have additional structure and $C$ is a vector [[Linear Algebra|space]] of channels
+	* The space of $C$-valued signals on $\Omega$, where $\Omega$ is a set that may have additional structure and $C$ is a [[Vector Space]] of channels
 	  $$
 	  X(\Omega, C) = \{x : \Omega \to C \}
 	  $$

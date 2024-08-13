@@ -65,7 +65,7 @@
 	  \overline{\text{BE}}(w) = ||\delta_w||^2_\mu
 	  $$
 
-	* In an approximation context, we only deal with representable value functions. Those that cannot be represented are instead projected onto the subspace. The **mean square projected Bellman error** measures this
+	* In an approximation context, we only deal with representable value functions. Those that cannot be represented are instead projected onto the [[Vector Subspace|subspace]]. The **mean square projected Bellman error** measures this
 	  
 	  $$
 	  \overline{\text{PBE}}(w) = || \Pi \delta_w||^2_\mu
