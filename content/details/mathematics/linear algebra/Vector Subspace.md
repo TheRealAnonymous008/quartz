@@ -28,6 +28,21 @@
   Moreover, $\dim(W)=\dim(V) \implies W=V$
 	* (*Friedberg 1.11.1*) Any [[Linear Combination|basis]] for $W$ is a subset of a basis in $V$. 
 
+* A [[Cosets, Group Indices|coset]] for vector spaces can be defined as follows. Let $W\le V$. For any $v\in V$, the set 
+  $$
+  v + W = \{v + w \mid w\in W\}
+  $$
+  is called the **coset** of $W$ containing $v$. 
+	* (*Friedberg e1.3.29a*) $v+W\le W$ if and only if $v\in W$
+	* (*Friedberg e1.3.29c*) The following operations are well defined 
+	  $$
+	  \begin{split}
+	  \forall v_1,v_2 \in V, a\in F \\
+	  (v_1 + W) + (v_2 + W) &= (v_1 + v_2) + W \\
+	  a (v_1 + W) &= av + W
+	  \end{split}
+	  $$
+	* (*Friedberg e1.3.29d*) We can define the [[Factor Group]] as the vector space $V/W=\{v + W \mid v \in V\}$ 
 
 # Links
  * [[Linear Algebra by Friedberg Insel and Spence]]

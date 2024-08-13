@@ -13,7 +13,7 @@
 * A **transposition** is a permutation which involves swapping exactly two elements. 
 	* A transposition is a cycle of length $2$.
 	* (*Fraleigh 9.15*) All permutations can either be expressed as the product of an even number of transpositions or an odd number of transpositions, but never both.
-		* If we use the corresponding [[Linear Algebra|permutation matrix]], the [[Determinant|determinant]]'s sign remains constant.
+		* If we use the corresponding [[Matrix|permutation matrix]], the [[Determinant|determinant]]'s sign remains constant.
 	* The **parity** of a permutation is **even** if it needs an even number of transpositions and **odd** otherwise .
 
 # Links

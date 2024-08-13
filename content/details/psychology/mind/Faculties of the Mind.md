@@ -56,6 +56,7 @@
 
 * The **theory of linguistic relativity** suggests that [[Linguistics|language]] fosters habits of perception as well as thinking and that different views of reality were reflected in different languages. 
 	* **Rumpelstiltskin Principle** -  one you can [[Naming Things|name]] something, you have power of it. By giving names to our terminologies, we can start to reason and talk about them better.
+	* **Sapir-Whorf hypothesis** - your ability to think a thought depends on knowing words capable of expressing the thought. If you don’t know the words, you can’t express the thought and you might not even be able to formulate it
 
 # Motivation
 * Feelings provide an impetus to action. Often we explain our actions in terms of things we felt at the time. 

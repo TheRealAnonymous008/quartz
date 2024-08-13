@@ -105,6 +105,8 @@
 * Sometimes, even the client will not be able to figure out what they want. Thus, *know the client better than the client knows themselves*. 
 	* Understand what is important to the client. [[Psychology|Profiling them]] may prove beneficial. 
 
+* The principles in [[Upstream Prerequisites and Planning]] also help. 
+
 * Relevant lenses: [[Lenses for Game Design - Lenses#107. The Client|The Client]].
 
 ### The Designer Gives the Client a Pitch 
