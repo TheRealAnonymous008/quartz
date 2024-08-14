@@ -1,4 +1,4 @@
-* $V$ - generic Vector Space
+* $V, W$ - generic Vector Space
 * $v$ - generic vector of $V$.
 * $+$ - Vector addition
 * $ax$ - scalar multiplication between $ax$
@@ -10,6 +10,7 @@
 * $\{0\}$ - the zero subspace
 ***
 * $M$ - a generic matrix
+* $M_j$ - the entry in matrix $M$ at the $j$-th column
 * $M_{ij}$ - the entry in matrix $M$ at the $i$-th row and $j$-th column
 * $M^T$ - the transpose of $M$
 * $M^{-1}$ - the inverse of $M$
@@ -18,18 +19,22 @@
 * $F^n$ - vector space of $n$-tuples over field $F$
 * $F^{m\times n}, M_{m\times n}(F)$ - vector space of all $m\times n$ matrices over field $F$. 
 * $\mathcal{F}(S,F)$ - the set of all functions from $S$ into $F$. 
+* $\mathcal{L}(V,W)$ - the set of all linear transformations from $V$ to $W$. 
 ***
 * $O$ - zero matrix
 * $I, I_n$ - identity matrix (of order $n$)
 ***
 * $\text{span}(S)$ - span of set $S$
-* $\beta$ - basis vector
+* $\beta, \gamma$ - basis vector
 * $\dim(V)$ - dimension of $V$.
+* $[v]_\beta$ - coordinate vector of $v$ in terms of basis $\beta$
 ***
-* $T$ - generic linear transformation
+* $T, U$ - generic linear transformation
 * $I_V, I$ - identity transformation from $V$ to $V$ 
 * $T_0$ - zero transformation/
 * $N(T)$ - null space of $T$
 * $R(T)$ - range of $T$
 * $\text{nullity}(T)$ - nullity of $T$
 * $\text{rank}(T)$ - rank of $T$
+* $[T]_\beta^\gamma$ - the matrix associated with the linear transformation $T:V\to W$ where $\beta$ and $\gamma$ are the bases for $V$ and $W$ respectively
+* $L_A$ - left multiplication transformation using matrix $A$.

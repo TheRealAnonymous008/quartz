@@ -17,6 +17,12 @@
   
   The **zero transformation** is defined as $T_0 : V\to W$ by $T_0(x)=0$ $\forall x\in V$ 
 
+* (*Friedberg 2.7*) *The space of linear transformations form a vector space*. More formally, let $T,U:V\to W$ be arbitrary functions and $a\in F$. 
+  
+  Define $(T+U)(x)=T(x) +U(x)$ and $(aT)(x) = aT(x)$. 
+  
+  Then $aT + U$ is linear and the collection of linear transformations form a vector space denoted $\mathcal{L} (V,W)$.
+
 # Dimension Theorem
 * Let $V$ and $W$ be vector spaces, and $T:V\to W$ be linear. The **null space** or [[Group Homomorphism|kernel]] $N(T)$ is the set 
   $$
@@ -54,6 +60,61 @@
   In other words: *The effect of a linear transformation is completely determined by its effect on the basis of the domain.*
 	* (*Friedberg 2.6.1*) Let $V,W$  be vector spaces and suppose $V$ has a finite basis $\{x_1,\dots, x_n\}$. If $U,T:V\to W$ are linear, and $U(x_i)=T(x_i)$ for $i=1,\dots, n$ then $U=T$.
 	* (*Friedberg e2.1.27*) Let $V,W$ be possibly infinite-dimensional spaces over a common field and $\beta$ be a basis for $V$. For Any function $f:\beta \to W$, there exists exactly one linear transformation $T:V\to W$ such that $T(x)=f(x)$ $\forall x\in B$
+
+# Connection to Matrices
+* Every linear transformation is associated with a [[Matrix]].
+* Let $V$ and $W$ be finite-dimensional vector spaces with ordered bases $\beta=\{x_1,\dots,x_n\}$ and $\gamma =\{y_1,\dots, y_m\}$.
+  
+  Let $T:V\to W$ be linear. Then, we have $a_{ij}\in F$ as scalars such that
+  
+  $$
+  T(x_j) = \sum_{i=1}^m a_{ij} y_i
+  $$
+  
+  The $m\times n$ matrix $A$ defined by $A_{ij}=a_{ij}$ is the matrix that represents $T$ in the ordered bases $\beta$ and $\gamma$. We denote this $A=[T]_\beta^\gamma$.
+  
+  If $V=W$ and $\beta=\gamma$, then we write $A=[T]_\beta$
+
+* (*Friedberg 2.8*) Let $V$ and $W$ be finite dimensional vector spaces with ordered bases $\beta$ and $\gamma$ and $T,U:V\to W$ be linear. Then
+	* $[T+U]_\beta^\gamma = [T]_\beta^\gamma + [U]_\beta^\gamma$ 
+	* $[aT]_\beta^\gamma = a[T]_\beta^\gamma$
+
+* *We have an [[Group Isomorphism|isomorphism]] between the set of matrices and the set of linear transformations.*
+
+* Composition of linear transformations is analogous to [[Matrix Multiplication]].
+	* (*Friedberg 2.9*) Let $V,W,Z$ be vector spaces and $T:V\to W$, $U:W\to Z$ be linear. Then $UT:V\to Z$ is linear. 
+	* (*Friedberg 2.10*) Let $V$ be a vector space and $T,U_1,U_2\in \mathcal{L}(V)$. Then
+		* $T(U_1 + U_2) = TU_1 + TU_2$
+		* $(U_1+U_2)T = U_1T + U_2 T$
+		* $T(U_1U_2) = (TU_1)U_2$
+		* $TI=IT=T$
+		* $a(U_1U_2) = (aU_1)(U_2) = U_1(aU_2)$ $\forall a\in F$.
+	* (*Friedberg 2.11*) Let $V,W,Z$ be finite-dimensional vector spaces with ordered bases $\alpha,\beta,\gamma$ respectively. Let $T:V\to W$ and $U:W\to Z$ be linear. Then
+	  $$
+	  [UT]_\alpha^\gamma = [U]^\gamma_\beta [T]^\beta_\alpha
+	  $$
+	  
+	  An immediate corollary of this if all bases are the same
+	  
+	  $$
+	  [UT]_\beta = [U]_\beta[T]_\beta
+	  $$
+	* (*Friedberg 2.12*) $[I_V]_\beta = I_n$
+
+* (*Friedberg 2.15*) Let $V$ and $W$ be finite dimensional vector spaces having ordered bases $\beta$ and $\gamma$ respectively and let $T:V\to W$ be linear. Then for each $x\in V$
+  
+  $$
+  [T(X)]_\gamma = [T]_\beta^\gamma [x]_\beta
+  $$
+* Let $A\in M_{m\times n}(F)$. We denote $L_A:F^n\to F^m$, defined by $L_A(x)=Ax$ for each $x\in F^n$. We call $L_A$ a **left multiplication transformation**
+* (*Friedberg 2.16*) Let $A\in M_{m\times n}(F)$. Then the left-multiplication transformation $L_A: F^n\to F^m$ is linear. Furthermore, if $B$ is any other $m\times n$ matrix with entries from $F$ and $\beta$ and $\gamma$ are the standard ordered bases for $F^n$ and $F^m$ respectively, then
+	* $[L_A]_\beta^\gamma = A$
+	* $L_A=L_B \iff A =B$
+	* $L_{A+B}=L_A + L_B$
+	* $L_{aA} = aL_A$ $\forall a \in F$
+	* If $T:F^n\to F^m$ is linear, then there exists a unique matrix $C\in M_{m\times n}(F)$ such that $T=L_C$. In fact, $C=[T]_\beta^\gamma$ 
+	* If $E\in M_{n\times p}(F)$ then $L_{AE}=L_AL_E$
+	* If $m=n$, then $L_{I_n} = I_{F^n}$ 
 
 # Misc
 * Let $V$ be a vector space and $W_1\le V$. A function $T:V\to V$ is called a **projection** on $W_1$ if

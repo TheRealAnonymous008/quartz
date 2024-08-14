@@ -32,7 +32,7 @@
 
 * A subset $S$ of a vector space $V$ **generates** $V$ if $\text{span}(S) = V$. 
 
-* A **basis** $\beta$ for a vector space $V$ is a linearly independent subset of $V$ that generates $V$. We say that the elements of $\beta$ form a **basis** for $V$
+* A **basis** $\beta$ for a vector space $V$ is a linearly independent subset of $V$ that generates $V$. We say that the elements of $\beta$ form a **basis** for $V$. A basis can be **ordered** if the order of the elements in the basis is important.
   
   We can generalize this definition to say that a basis is a *maximal linearly independent subset of $V$* (see *Friedberg 1.12*)
 
@@ -63,6 +63,21 @@
 * (*Friedberg 1.13*) Let $S$ be a linearly independent subset of a vector space $V$. There exists a maximal linearly independent subset of $V$ that contains $S$.
   
   Therefore, alongside (*Friedberg 1.12*) *Every vector space has a basis*. 
+
+* One particularly important ordered basis is defined as follows.
+  Let $\beta = \{x_1, \dots , x_n\}$ be an ordered basis for a finite dimensional vector space $V$. For $x\in V$ we define the **coordinate vector** of $x$ relative to $\beta$ denoted $[x]_\beta$ by 
+  $$
+  [x]_\beta = 
+  \begin{pmatrix}
+  a_1 \\
+  \vdots \\
+  a_n
+  \end{pmatrix}
+  $$
+  where $x = \sum_{i=1}^n a_ix_i$. 
+	* (*Friedberg e2.2.7*) Let $V$ be an $n$-dimensional vector space with an ordered basis $\beta$. Define $T:V\to F^n$ by $T(x)=[x]_\beta$. $T$ is linear.
+   
+
 
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence]]
