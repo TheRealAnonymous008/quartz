@@ -23,7 +23,7 @@
 * (*Fraleigh e14.34*) If $G$ has exactly one subgroup $N$ of a given order, then $N$ is a normal subgroup of $H$. 
 
 * A **maximal normal subgroup** of a group $G$ is a normal subgroup $M\ne G$ such that there is no proper normal subgroup $M< N\unlhd G$
-* (*Fraleigh 15.18*) $M$ is the maximal normal [[subgroup]] of $G$ if and only if $G/M$ is simple.
+* (*Fraleigh 15.18*) $M$ is the maximal normal [[Subgroup]] of $G$ if and only if $G/M$ is simple.
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

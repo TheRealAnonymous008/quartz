@@ -3,7 +3,7 @@
 * **Sunk Cost Fallacy** - the greater tendency to continue an endeavor once a commitment has been made even with contradictory evidence.
 	* It is a fallacy because we factor in past costs rather than present and future costs.
 	* Whether or not the endeavor succeeds doesn't suddenly refund one's commitment to it. The sunk cost is not recovered once paid for.
-	* It can be attributed to a mix of commitment bias, and loss aversion.
+	* It can be attributed to a mix of commitment bias, and [[Prospect Theory|loss aversion]].
 
 * **G.I. Joe Fallacy** - the tendency to think that knowing a fallacy or bias is enough to counteract its influence.
 

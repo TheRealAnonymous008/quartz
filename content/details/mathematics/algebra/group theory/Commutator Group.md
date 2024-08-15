@@ -5,7 +5,7 @@
   g=aba^{-1}b^{-1}
   $$
   is called a **commutator** in $G$.
-* The [[subgroup]] $C\le G$ which consists of all commutators is called the **commutator subgroup** of $G$.
+* The [[Subgroup]] $C\le G$ which consists of all commutators is called the **commutator subgroup** of $G$.
 
 * (*Fraleigh 15.20*) The commutator subgroup $C$ is a normal subgroup of $G$. 
   

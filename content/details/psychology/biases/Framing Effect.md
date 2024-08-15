@@ -17,7 +17,7 @@
 		* *When people make decisions, their goal is not to pick the correct option, the goal is to justify the outcome of a choice they've already made*.
 		* Decoys provide a rationale for people to choose the targets by highlighting the pros to choose the target.
 	* [[Trade Offs#The Paradox of Choice|The paradox of choice]] is related to this as the decoy makes us less certain about our choice.
-	* Thus, *decoys capitalize on loss aversion* by manipulating our reference point regarding the competitor and its disadvantages.
+	* Thus, *decoys capitalize on [[Prospect Theory|loss aversion]]* by manipulating our reference point regarding the competitor and its disadvantages.
 
 * **Default Effect** - the tendency for an agent to generally accept the default option in a strategic interaction. 
 	* There is a change in how likely agents choose an option if it is set as the default (requiring no active choice) than when it is not default.

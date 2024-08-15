@@ -29,6 +29,7 @@
 * **Fractal** - a never ending pattern.
 
 * **Gestalt** - an organized whole that is perceived as more than the sum of its parts.
+* **Gesellschaft** - (German) social relations based on impersonal ties (i.e., duty to society).
 * **Gesundheit** - (German) good health, said in response to sneezing (akin to Bless You)
 * **Gnosis** - knowledge of spiritual matters; mystical knowledge
 

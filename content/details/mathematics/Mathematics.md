@@ -10,6 +10,7 @@
 * [[Queueing Theory]]
 * [[Probability and Statistics]]
 * [[Real Analysis]]
+* [[Ring Theory]]
 * [[Set Theory]]
 
 # Unfiled Math Objects
