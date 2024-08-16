@@ -17,7 +17,7 @@
 * (*Fraleigh 6.14*) If $b=a^s$, then $\text{ord}(b)=n/d$ where $d=\gcd(n,s)$.  
 * (*Fraleigh 6.16*) The generators of a finite cyclic group $G$ are of the form $a^r$, where $r\perp |G|$. ($r$ and $|G|$ are coprime)
 
-* (*Fraleigh 10.11*) Every group of prime order is cyclic.
+* (*Fraleigh 10.11*) Every group of [[Number Theory|prime]] order is cyclic.
 
 * (*Fraleigh 11.5*) The group $\mathbb{Z}_m\times \mathbb{Z}_n$ is cyclic and is isomorphic to $\mathbb{Z}_{mn}$ if and only if $m$ and $n$ are coprime.
   

@@ -12,6 +12,8 @@
 * $\text{Ker}(\phi)$ - kernel of homomorphism $\phi$. 
 * $R\cong R'$ - $R$ is isomorphic to $R'$
 * $|R|$ - order of a ring
+* $\text{char}(R)$ - characteristic of a ring
 ****
 * $F$ - a generic field.
+* $D$ - a generic integral domain
 

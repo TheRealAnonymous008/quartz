@@ -64,7 +64,7 @@
   $$
   h(k,i) = (h_1(k) + ih_2(k)) \ \text{mod m}
   $$
-	* $h_2(k)$ must be relatively prime to the hash table size to search the entire hash table. 
+	* $h_2(k)$ must be relatively [[Number Theory|prime]] to the hash table size to search the entire hash table. 
 	* We use $\Theta(m^2)$ probe sequences with a prime or power of $2$ m. 
 
 # Hash Functions
@@ -78,7 +78,7 @@
 	h(k) = k \ \ \ \ \text{mod}  \ m
 	$$
 	* Certain values of $m$ should be avoided (I.e., numbers that are powers of numbers )
-	* Often a good choice is a [[Number Theory|prime]] not close to an exact power of $2$.
+	* Often a good choice is a prime not close to an exact power of $2$.
 * The **multiplication method** operates with constant $0<A<1$. and performs the following
   
 	$$

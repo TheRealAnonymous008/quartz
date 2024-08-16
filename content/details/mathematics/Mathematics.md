@@ -10,6 +10,7 @@
 * [[Group Theory]]
 * [[Information Theory]]
 * [[Linear Algebra]]
+* [[Number Theory]]
 * [[Queueing Theory]]
 * [[Probability and Statistics]]
 * [[Real Analysis]]

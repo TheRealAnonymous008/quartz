@@ -20,8 +20,13 @@
 	* $a(-b)=(-a)b=-(ab)$
 	* $(-a)(-b)=ab$
 
+* If for a ring $R$ a positive integer $n$ exists such that $n\cdot a=0$ $\forall a\in R$, then the least such positive integer is the **characteristic** of the ring. If no such positive integer exists, then $R$ has characteristic $0$. We denote this $\text{char}(R)$
+	* (*Fraleigh 19.15*) Let $R$ be a ring with unity. If $n\cdot 1 \ne 0$ $\forall n\in \mathbb{Z}^+$ then $\text{char}(R) = 0$. 
+	  
+	  Otherwise, if $\exists n\in\mathbb{Z}^+$ such that $n\cdot 1 = 0$, then the smallest such $n$ is the characteristic of $R$. 
 
 
+# Misc
 * A **subring** of a ring is a subset of the ring that is a ring under induced operations from the whole ring. It is a generalization of [[Subgroup]]. 
 	* (*Fraleigh e18.49a*) The intersection of subrings of a ring $R$ is again a subring of $R$
 
@@ -34,6 +39,8 @@
 	  For the converse, suppose $x^2\ne 0$, but $x^p=0$. Then we can consider $x^2,x^4,\dots, x^{2^{\lg p}}\ne 0$,    
 
 * A ring $R$ is a **[[Boolean Algebra|Boolean]] Ring** if every element is idempotent.
+
+
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

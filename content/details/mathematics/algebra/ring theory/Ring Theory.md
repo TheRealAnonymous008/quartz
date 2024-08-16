@@ -3,7 +3,8 @@
 	* [[Direct Product of Rings]]
 	* [[Ring Homomorphism]]
 * [[Commutative Ring]]
-* [[Division Ring]]
+* [[Integral Domain]]
+* [[Division Ring and Rings with Unity]]
 * [[Field]]
 
 # Links
