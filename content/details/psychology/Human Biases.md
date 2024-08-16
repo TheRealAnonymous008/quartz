@@ -23,7 +23,7 @@
 
 * [[Logical Fallacy Biases]] - humans are not logical beings. Humans are not good at statistics.
 
-* [[Prospect Theory]]
+* [[Prospect Theory]] - humans evaluate losses differently compared to equivalent gains. Losses are weighted heavily.
 
 * [[Other Biases]]
 

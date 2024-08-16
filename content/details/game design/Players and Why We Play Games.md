@@ -54,17 +54,17 @@
 # Typology by Age 
 * All play activities are connected to childhood. Childhood is centered around play. To create games for a particular age, *you must speak the language of their childhood.*
 
-| Label       | Age bracket | Likes                                                                                            | Dislikes                           |
-| ----------- | ----------- | ------------------------------------------------------------------------------------------------ | ---------------------------------- |
-| Infant      | 0 - 3       | Direct Interfaces and Toys                                                                       | Abstract Interfaces. Complex Games |
-| Preschooler | 4 - 6       | Simple games played with parents                                                                 | Games played with others           |
-| Kids        | 7 - 9       | Depends on preferences, but often involves more complex problem solving than the previous levels | Depends on Preferences             |
-| Preteen     | 10 - 13     | Depends on preferences. Often involves obsessively liking a game                                 | Depends on preferences             |
-| Teen        | 13 - 18     | Experimentation                                                                                  |                                    |
-| Young Adult | 18 - 24     | Games on existing preferences derived from experimentation during teenage years.                 |                                    |
-| 20s and 30s | 25 - 35     | Typically either hardcore gamers (game = primary hobby) or casual gamers                         |                                    |
-| 30s and 40s | 35 - 50     | Casual Games. Games the whole family can enjoy together                                          |                                    |
-| 50+         | 50s up      | New game experiences. Games with a social component.                                             | Games with Fine motor control      |                                                                  |                                    |
+| Label       | Age bracket | Likes                                                                                                | Dislikes                           |
+| ----------- | ----------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------- | --- | --- |
+| Infant      | 0 - 3       | Direct Interfaces and Toys                                                                           | Abstract Interfaces. Complex Games |
+| Preschooler | 4 - 6       | Simple games played with parents                                                                     | Games played with others           |
+| Kids        | 7 - 9       | Depends on preferences, but often involves more complex [[Problem Solving]] than the previous levels | Depends on Preferences             |
+| Preteen     | 10 - 13     | Depends on preferences. Often involves obsessively liking a game                                     | Depends on preferences             |
+| Teen        | 13 - 18     | Experimentation                                                                                      |                                    |
+| Young Adult | 18 - 24     | Games on existing preferences derived from experimentation during teenage years.                     |                                    |
+| 20s and 30s | 25 - 35     | Typically either hardcore gamers (game = primary hobby) or casual gamers                             |                                    |
+| 30s and 40s | 35 - 50     | Casual Games. Games the whole family can enjoy together                                              |                                    |
+| 50+         | 50s up      | New game experiences. Games with a social component.                                                 | Games with Fine motor control      |                                                                  |                                    |
 
 
 # Typology by Sex 

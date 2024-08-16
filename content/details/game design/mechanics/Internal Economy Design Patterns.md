@@ -316,7 +316,7 @@
 * It can be ineffective for a player to change strategies over time in a game with playing style reinforcement, because the player will lose the benefit of previous investments in another play style.
 
 * *Consider if experience points are necessary*
-	* When using them, there is no direct coupling between growth and action, allowing harvesting of experience. 
+	* When using them, there is no direct [[Cohesion and Coupling|coupling]] between growth and action, allowing harvesting of experience. 
 	* When not using them, make sure feedback is balanced for the frequency of the actions. More frequent actions should give weaker feedback. 
 
 * Use [[#Escalating Challenge]], [[#Dynamic Friction]] or [[#Stopping Mechanism]] to balance them. 

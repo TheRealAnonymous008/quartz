@@ -15,7 +15,7 @@
 7. **Principle of Least Surprise**:  Do not include unexpected behaviors.
 8. Don't ignore the compiler's warnings. They are trying to tell you something.
 9. Learn and understand the algorithms you are employing.
-10. **SOLID Principles** make code more flexible and maintainable.
+10. **[[SOLID Design Principles|SOLID]] Principles** make code more flexible and maintainable.
 11. Use a version control system (i.e. [[Git]]).
 # Naming
 1. Use names which reveal intent. Names shouldn’t require comments to explain them.
@@ -49,7 +49,7 @@
 11.  Avoid arguments which are outputs of the function. If the state of something must be changed, have the function change the state of that thing’s owning object.
 12.  **Command Query Separation**: Functions either do something or return something but never both.
 13.  Discard functions which are never going to be called.
-14.  Make temporal couplings explicit.
+14.  Make temporal [[Cohesion and Coupling|couplings]] explicit.
 # Conditionals
 1. Favor polymorphism over if/else and switch statements.
 2. Avoid using negative conditionals.

@@ -57,7 +57,7 @@
 
 ## Architecture Considerations
 * **Program Organization** - an overview describing the [[System Science|system]] in broad terms.
-	* The architecture should define the major building blocks in a program. Each building block should have a specific [[Object Oriented Programming#SOLID|responsibility]].  
+	* The architecture should define the major building blocks in a program. Each building block should have a specific [[SOLID Design Principles|responsibility]].  
 	* The communication rules for each building block should be well defined
 * **Major Classes** - the architecture specifies the major classes and how each class interacts with each other. 
 * **Data Design** - describe the major files and table designs to be used.  The architecture should specify the high-level organization and contents of any [[Database|databases]] used.

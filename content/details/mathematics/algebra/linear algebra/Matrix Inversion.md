@@ -1,3 +1,18 @@
+* Let $A\in M_{n\times n}(F)$. Then $A$ is invertible if there exists $B\in M_{n\times n}$ such that $AB=BA=I$
+  
+  The matrix $B=A^{-1}$ is unique.
+
+ * (*Friedberg e2.4.2*) Let $A,B$ be invertible matrices.  Then 
+   $$
+   (AB)^{-1}=B^{-1}A^{-1}
+   $$
+ * (*Friedberg e2.4.3*) Let $A$ be invertible, then
+   $$
+   (A^T)^{-1} = (A^{-1})^T
+   $$
+* (*Friedberg e2.4.4*) If $A$ is invertible and $AB=O$, then $B=O$.
+* (*Friedberg e2.4.8*) A one sided inverse for square matrices is a two sided inverse. If $A,B\in M_{n\times n}(F)$ such that $AB=I_n$ then $A=B^{-1}$ 
+# Theorems
 * *Murphy  Thm. 4.3.2* Let 
   $$
   M=\begin{pmatrix}E & F \\ G & H\end{pmatrix}

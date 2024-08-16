@@ -1,4 +1,4 @@
-* *Intent*: Define an object that encapsulates how a set of objects interact. It promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
+* *Intent*: Define an object that encapsulates how a set of objects interact. It promotes loose [[Cohesion and Coupling|coupling]] by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
 # Structure
 ![[Mediator.png]]<figcaption> Image from: Gamma, Helm, Johnson, and Vissides </figcaption>
 

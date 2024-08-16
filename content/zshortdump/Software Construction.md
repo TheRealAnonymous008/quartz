@@ -7,6 +7,7 @@
 * Thinking of software-development practices as tools in an intellectual toolbox suggests further that every programmer has many tools and that no single tool is right for every job. *Choosing the right tool for each problem is one key to being an effective programmer.*
 # Topics
 * [[Upstream Prerequisites and Planning]]
+* [[Software Design]]
 
 # Links
 * [[Code Complete by McConnell]] - Primary Source

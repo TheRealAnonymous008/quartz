@@ -8,6 +8,7 @@
 * $W_1 + W_2$ - sum of subspaces $W_1,W_2$
 * $W_1\oplus W_2$ - direct product of two subspaces
 * $\{0\}$ - the zero subspace
+* $V\cong W$ - vector spaces $V$ and $W$ are isomorphic
 ***
 * $M$ - a generic matrix
 * $M_j$ - the entry in matrix $M$ at the $j$-th column
@@ -28,13 +29,15 @@
 * $\beta, \gamma$ - basis vector
 * $\dim(V)$ - dimension of $V$.
 * $[v]_\beta$ - coordinate vector of $v$ in terms of basis $\beta$
+* $\phi_\beta$ - standard representation of vector space with respect to basis $\beta$.
 ***
 * $T, U$ - generic linear transformation
 * $I_V, I$ - identity transformation from $V$ to $V$ 
 * $T_0$ - zero transformation/
 * $N(T)$ - null space of $T$
-* $R(T)$ - range of $T$
+* $R(T)$ - column space of $T$
 * $\text{nullity}(T)$ - nullity of $T$
 * $\text{rank}(T)$ - rank of $T$
 * $[T]_\beta^\gamma$ - the matrix associated with the linear transformation $T:V\to W$ where $\beta$ and $\gamma$ are the bases for $V$ and $W$ respectively
 * $L_A$ - left multiplication transformation using matrix $A$.
+* $T^{-1}$ - inverse of linear transformation $T$.

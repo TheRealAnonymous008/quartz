@@ -1,5 +1,8 @@
 * In learning Mathematics, prioritize understanding the definitions first using examples if needed. Then, understand what the theorems are saying. Finally, understand the proofs on why a theorem should be true (analogous to the [[Reading#Three Pass Approach|three pass approach]])
 * [The Ansatz Technique](https://en.wikipedia.org/wiki/Ansatz) pertains to solving a problem using an educated guess or assumption  about the solution which may later be verified to be part of the solution.
+
+* [[Problem Solving]] is applicable to all of mathematics.
+
 # Topics
 * [[Calculus]]
 * [[Game Theory]]

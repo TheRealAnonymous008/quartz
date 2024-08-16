@@ -1,5 +1,10 @@
 * 23 Patterns commonly seen in [[Object Oriented Programming]] Contexts
-* [[Faculties of the Mind|Rumpelstiltskin principle applies]]. Giving words to these patterns allows us to talk about them better. 
+* These patterns provide a few benefits.
+	* *They give ready made abstractions*. 
+	* *They reduce errors by institutionalizing details of common solutions* They are standardized approaches for solving common problems. 
+	* *They suggest design alternatives*.  They are heuristics.
+	* *They streamline communication*. [[Faculties of the Mind|Rumpelstiltskin principle applies]] as well. Giving words to these patterns allows us to talk about them better. 
+	* They [[Software Design|manage complexity]] 
 
 # Topics
 ## Creational Patterns

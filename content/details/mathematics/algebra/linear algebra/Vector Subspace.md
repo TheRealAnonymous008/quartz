@@ -43,6 +43,17 @@
 	  \end{split}
 	  $$
 	* (*Friedberg e1.3.29d*) We can define the [[Factor Group]] as the vector space $V/W=\{v + W \mid v \in V\}$ 
+	* (*Friedberg e2.4.22*) Let $T:V\to Z$ be a [[Linear Transformation]]. Define the mapping $\overline{T}:V/N(T)\to Z$ by 
+	  $$
+	  \overline{T} (v+N(T)) = T(v)
+	  $$
+	  For any coset $v+N(T)\in V/N(T)$. Then the following are true:
+		* The mapping is well defined.
+		* $\overline{T}$ is linear
+		* $\overline{T}$ is an isomorphism.
 
+* (*Friedberg e2.4.15*) Let $V,W$ be finite dimensional vector spaces and $T:V\to W$ an isomorphism. Let $V_0\le V$ then 
+	* $T(V_0)\le W$
+	* $\dim(V_0) = dim(T(V_0))$   
 # Links
  * [[Linear Algebra by Friedberg Insel and Spence]]

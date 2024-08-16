@@ -21,7 +21,7 @@
 
 * *Fun is [[Games as Play#Play of Pleasure|pleasure]] with surprises*. Games are fun. 
 * *Play is manipulation that indulges curiosity*. We play because we are willing to indulge in play, and we do it for its own sake.
-* *Games are problem solving activities approached with a playful attitude*. In a sense, all games are fundamentally [[Puzzle|puzzles]] and we get the satisfaction from having solved the puzzle.
+* *Games are [[Problem Solving]] activities approached with a playful attitude*. In a sense, all games are fundamentally [[Puzzle|puzzles]] and we get the satisfaction from having solved the puzzle.
 
 * Relevant lenses [[Lenses for Game Design - Lenses#4. Surprise|Surprise]], [[Lenses for Game Design - Lenses#5. Fun|Fun]], [[Lenses for Game Design - Lenses#6. Curiosity|Curiosity]], [[Lenses for Game Design - Lenses#7. Endogenous Value|Endogenous value]], [[Lenses for Game Design - Lenses#8 . Problem Solving|Problem Solving]]
 

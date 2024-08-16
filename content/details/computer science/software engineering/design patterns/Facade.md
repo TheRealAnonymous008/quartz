@@ -9,7 +9,7 @@
 
 # Consequences
 * It shields clients from subsystem components, reducing the objects the clients deal with and making the subsystems easier to use.
-* It promotes weak coupling between subsystems and their clients—allowing varying the components of the subsystem independent of the client.
+* It promotes weak [[Cohesion and Coupling|coupling]] between subsystems and their clients—allowing varying the components of the subsystem independent of the client.
 * Removes circular or complex dependencies.
 * It doesn’t prevent applications from using subsystems if they need to.
 

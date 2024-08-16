@@ -80,7 +80,7 @@
 
 ## Learning something Creative
 * Adapted from [here](https://www.ctrlpaint.com/library)
-* Every creative endeavor is an exercise in problem solving.
+* Every creative endeavor is an exercise in [[Problem Solving]].
 * It helps to *be objective*. When there is a problem, step back and look at the big picture.
 * *Learning is about making mistakes*. Mistakes give us opportunities to improve. Everyone starts as a beginner.
 * When learning, reality will almost never match our initial expectations. 

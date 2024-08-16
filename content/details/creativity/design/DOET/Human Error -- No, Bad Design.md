@@ -59,7 +59,7 @@
 
 	* **Knowledge based** mistakes involve a misdiagnosis due to erroneous or incomplete knowledge.
 		* This arises from *faulty conceptual models*
-		* It also arises in novel situations such that no skills or rules cover them. Thus, a new procedure must be devised via problem solving.
+		* It also arises in novel situations such that no skills or rules cover them. Thus, a new procedure must be devised via [[Problem Solving]].
 		* *The design implication is to introduce to correct conceptual models, and to allow knowledge to be easily searched*.
 
 	* **Memory lapse mistakes** take place when there is forgetting at the stages of goals,  plans or evaluation.

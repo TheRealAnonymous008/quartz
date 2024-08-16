@@ -17,7 +17,7 @@
 * *Secure defaults* - the default option is the most secure option.
 * **Principle of Least Privilege** - a user or entity should only have access to specific data, resources and applications needed to complete a required task. [^1]
 
-[^1]: Analogous to [[Object Oriented Programming#SOLID|The Interface Segregation Principle]]. 
+[^1]: Analogous to [[SOLID Design Principles|The Interface Segregation Principle]]. 
 
 * **Principle of [[Military Strategy|defense in depth]]** - leverage multiple security measures to protect assets.
 

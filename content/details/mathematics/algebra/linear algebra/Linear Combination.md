@@ -76,6 +76,11 @@
   $$
   where $x = \sum_{i=1}^n a_ix_i$. 
 	* (*Friedberg e2.2.7*) Let $V$ be an $n$-dimensional vector space with an ordered basis $\beta$. Define $T:V\to F^n$ by $T(x)=[x]_\beta$. $T$ is linear.
+	* The **standard representation of** $V$ is denoted $\phi_\beta: V\to F^n$ and is defined by 
+	  $$
+	  \phi_\beta(x) = [x]_\beta
+	  $$
+		* For any finite-dimensional vector space $V$ and ordered basis $\beta$, $\phi_\beta$ is an isomorphism.
    
 
 

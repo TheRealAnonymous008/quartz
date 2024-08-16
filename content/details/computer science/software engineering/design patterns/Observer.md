@@ -11,7 +11,7 @@
 
 # Consequences
 * Lets you vary subjects and their observers independently.
-* Abstract coupling between subject and object
+* Abstract [[Cohesion and Coupling|coupling]] between subject and object
 * Support for broadcast communication.
 * Freedom for adding and removing observers
 * Observers can be blind to the cost of updates

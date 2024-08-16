@@ -15,6 +15,7 @@
 * The set of $m\times n$ matrices is a [[Vector Space]] denoted $M_{m\times n }(F)$ under matrix (element-wise) addition and scalar multiplication.
 
 * The **transpose** $M^T$ of an $m\times n$ matrix $M$ is the $n\times m$ matrix where $M^T_{ij} = M_{ji}$
+	* $(AB)^T=B^TA^T$
   
   A matrix is **symmetric** if 
   $$

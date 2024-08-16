@@ -26,6 +26,10 @@
 	* $\forall a\in F, x\in V \ \ (-a)x = -(ax)=a(-x)$ 
 	* $\forall a\in F, a0 = 0$ 
 
+* Let $V,W$ be vector spaces. $V$ is **[[Group Isomorphism|isomorphic]]**  $W$, denoted $V\cong W$ if there exists a [[Linear Transformation]] $T:V\to W$ that is invertible. This linear transformation is an **isomorphism** from $V$ to $W$. 
+	* (*Friedberg 2.20*) Let $V,W$ be finite dimensional vector spaces. Then $V\cong W$ if and only if $\dim (V) = \dim (W)$ 
+	* (*Friedberg 2.20.1* ) If $V$ is a vector space over $F$ of dimension $n$, then $V\cong F^n$.
+
 # Topics
 * [[Vector Subspace]]
 * [[Vector Sum and Direct Sum]]

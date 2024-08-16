@@ -1,14 +1,14 @@
 * Generalizes [[Linear Algebra]] and [[Graph Theory]] by observing special constructs that involve the notion of "[[Linear Combination|linear independence]]" 
 * To give an example. 
 
-| Construct       | Graph Theory     | Linear Algebra          |
-| --------------- | ---------------- | ----------------------- |
-| Independent Set | Subgraphs        | Linearly Independent Sets |
-| Basis           | Spanning Forests | Basis                   |
-| Cycles          | Cycles           | Linearly Dependent Sets   |
-| Rank            | Cut-set Rank     | Rank                    |
-| Corank          | Cycle Rank       | Nullity                 |
-| Loops           | Loop Edges       | Null Spaces                        |
+| Construct       | Graph Theory     | Linear Algebra                 |
+| --------------- | ---------------- | ------------------------------ |
+| Independent Set | Subgraphs        | Linearly Independent Sets      |
+| Basis           | Spanning Forests | Basis                          |
+| Cycles          | Cycles           | Linearly Dependent Sets        |
+| Rank            | Cut-set Rank     | Rank                           |
+| Corank          | Cycle Rank       | [[Dimension Theorem\|Nullity]] |
+| Loops           | Loop Edges       | Null Spaces                    |
 
 # Notation Guide 
 * $M$ - a generic matroid 
