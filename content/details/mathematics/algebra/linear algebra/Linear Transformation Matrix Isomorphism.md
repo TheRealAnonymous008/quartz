@@ -1,16 +1,4 @@
-* Every [[Linear Transformation]] is associated with a [[Matrix]].
-* Let $V$ and $W$ be finite-dimensional vector spaces with ordered [[Linear Combination|basis]] $\beta=\{x_1,\dots,x_n\}$ and $\gamma =\{y_1,\dots, y_m\}$.
-  
-  Let $T:V\to W$ be linear. Then, we have $a_{ij}\in F$ as scalars such that
-  
-  $$
-  T(x_j) = \sum_{i=1}^m a_{ij} y_i
-  $$
-  
-  The $m\times n$ matrix $A$ defined by $A_{ij}=a_{ij}$ is the matrix that represents $T$ in the ordered bases $\beta$ and $\gamma$. We denote this $A=[T]_\beta^\gamma$.
-  
-  If $V=W$ and $\beta=\gamma$, then we write $A=[T]_\beta$
-
+* Every [[Linear Transformation]] is associated with a [[Matrix]] (see more [[Vector Coordinate System|here]])
 * (*Friedberg 2.8*) Let $V$ and $W$ be finite dimensional vector spaces with ordered bases $\beta$ and $\gamma$ and $T,U:V\to W$ be linear. Then
 	* $[T+U]_\beta^\gamma = [T]_\beta^\gamma + [U]_\beta^\gamma$ 
 	* $[aT]_\beta^\gamma = a[T]_\beta^\gamma$

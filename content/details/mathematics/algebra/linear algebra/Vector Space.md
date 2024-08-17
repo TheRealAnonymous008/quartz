@@ -34,5 +34,7 @@
 * [[Vector Subspace]]
 * [[Vector Sum and Direct Sum]]
 * [[Linear Combination]]
+* [[Vector Coordinate System]]
+* [[Dual Space]]
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence]]

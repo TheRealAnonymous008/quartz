@@ -64,24 +64,6 @@
   
   Therefore, alongside (*Friedberg 1.12*) *Every vector space has a basis*. 
 
-* One particularly important ordered basis is defined as follows.
-  Let $\beta = \{x_1, \dots , x_n\}$ be an ordered basis for a finite dimensional vector space $V$. For $x\in V$ we define the **coordinate vector** of $x$ relative to $\beta$ denoted $[x]_\beta$ by 
-  $$
-  [x]_\beta = 
-  \begin{pmatrix}
-  a_1 \\
-  \vdots \\
-  a_n
-  \end{pmatrix}
-  $$
-  where $x = \sum_{i=1}^n a_ix_i$. 
-	* (*Friedberg e2.2.7*) Let $V$ be an $n$-dimensional vector space with an ordered basis $\beta$. Define $T:V\to F^n$ by $T(x)=[x]_\beta$. $T$ is linear.
-	* The **standard representation of** $V$ is denoted $\phi_\beta: V\to F^n$ and is defined by 
-	  $$
-	  \phi_\beta(x) = [x]_\beta
-	  $$
-		* For any finite-dimensional vector space $V$ and ordered basis $\beta$, $\phi_\beta$ is an isomorphism.
-   
 
 
 # Links

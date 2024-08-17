@@ -23,6 +23,7 @@
   $$
 
 	* The set of symmetric matrices is a subspace of $M_{n\times n}(F)$
+	* The transpose can be seen in the context of [[Dual Space|dual spaces]]
 * A matrix is **skew-symmetric** if 
   $$
   M^T = -M
@@ -45,6 +46,7 @@
   $$
 	* (*Friedberg e1.2.6*) The set of $n\times n$ matrices having trace equal to $0$ is a subspace of $M_{n\times n}(F)$ 
 
+* Every matrix is [[Linear Transformation Matrix Isomorphism|equivalent to a linear transformation]]
 # Topics
 * [[Matrix Multiplication]]
 * [[Matrix Inversion]]

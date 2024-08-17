@@ -3,8 +3,20 @@
 	  
 	  Stirling's approximation then gives that $\log(n!)\approx n\log n + n + O(\log n)$.   
 
+## Bubble Sort
+* Compare the current element with the one after it. Swap their values if needed. Sorting stops when no more swaps can be performed.
+* The larger elements bubble to the top of the list.
+* *Worst case*: $O(n^2)$
+* *Best Case*: $O(n)$
+* *Average Case*: $O(n^2)$
+* *Space Complexity*: $O(1)$ auxiliary.
 
-
+## Insertion Sort
+* Remove one element from the input data, find where it goes in the sorted array and insert it there.
+* *Worst Case*: $O(n^2)$
+* *Best Case*: $O(n)$
+* *Average Case*: $O(n^2)$
+* *Space Complexity*: $O(1)$ auxiliary
 # Links
 * [[Algorithms]]
 

@@ -24,6 +24,7 @@
 ***
 * $O$ - zero matrix
 * $I, I_n$ - identity matrix (of order $n$)
+* $Q$ - change of coordinate basis
 ***
 * $\text{span}(S)$ - span of set $S$
 * $\beta, \gamma$ - basis vector
@@ -41,3 +42,8 @@
 * $[T]_\beta^\gamma$ - the matrix associated with the linear transformation $T:V\to W$ where $\beta$ and $\gamma$ are the bases for $V$ and $W$ respectively
 * $L_A$ - left multiplication transformation using matrix $A$.
 * $T^{-1}$ - inverse of linear transformation $T$.
+* $A\sim B$ - similar matrices
+***
+* $V^\ast$ - the dual space of $V$.
+* $\beta^\ast$ - the dual basis of $\beta$.
+* $S^0$ - the annihilator of $S$
