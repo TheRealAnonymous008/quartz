@@ -11,7 +11,7 @@
 	* [[Convolutional Neural Network]]
 * [[Sequence Based Algorithms]]
 * [[Natural Language Processing]]
-	* [[The Transformer Model]]
-	* [[Large Language Models]]
+	* [[Transformer Model]]
+	* [[Large Language Model]]
 # Links
 * [[Machine Learning]]

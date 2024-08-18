@@ -55,6 +55,6 @@
 
 * UnifiedSKG -- Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models by Xie et. al (Oct 18, 2022)
 # Links
-* [[The Transformer Model]] - more on the transformer model 
-* [[Large Language Models]] - an expansion of LMs 
+* [[Transformer Model]] - more on the transformer model 
+* [[Large Language Model]] - an expansion of LMs 
 * [[Metrics for Language Modeling]] 

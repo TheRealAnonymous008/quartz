@@ -189,7 +189,7 @@
 <figcaption> Bidirectional RNN. Image taken from Zhang et al. </figcaption>
 
 # RNN Encoder Decoder
-* See [[Encoder-Decoder networks]].
+* See [[Encoder-Decoder Network]].
 
 # Links
 * [[Recurrent Neural Network]]

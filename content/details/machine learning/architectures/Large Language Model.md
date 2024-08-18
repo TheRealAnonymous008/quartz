@@ -60,8 +60,8 @@
 
 * HuaTuo- Tuning LLaMA Model with Chinese Medical Knowledge by Wang et. al (Apr 14, 2023)
 # Links
-* [[The Transformer Model]] - discusses one of the most common mechanisms used in LLMs.
-* [[Language Models]] - a discussion on some of the earlier and smaller Language Models.
+* [[Transformer Model]] - discusses one of the most common mechanisms used in LLMs.
+* [[Language Model]] - a discussion on some of the earlier and smaller Language Models.
 
 * [How To Generate](https://huggingface.co/blog/how-to-generate) - Hugging Face article on decoding strategies
 * [Flowise](https://flowiseai.com) - A tool for working with LLMs.

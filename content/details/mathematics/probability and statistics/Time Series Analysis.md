@@ -24,4 +24,4 @@
 # Links
 * [[Dive into Deep Learning by Zhang, Lipton, Li and Smola]]
 * [[Recurrent Neural Network]]
-* [[The Transformer Model]]
+* [[Transformer Model]]

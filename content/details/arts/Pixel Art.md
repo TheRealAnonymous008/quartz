@@ -70,4 +70,4 @@
 * [How to start making Pixel Art](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-4-ff4bfcd2d085)
 
 * [[Creativity]]
-* [[Illuminating Rendered Objects]] - more on principles for shading.
+* [[Shading]] - more on principles for shading in relation to art.

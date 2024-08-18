@@ -7,7 +7,7 @@
 	* If players who are ahead on the score track during the game are penalized by turn order, it will give increased weight to strategies that maximize end-game points
 	* When the advantages of turn order are extreme, manipulating turn order may become a dominant feature of gameplay
 
-* **Bid Turn Order** - Players [[Auction Theory|bid]] for turn order.
+* **Bid Turn Order** - Players [[Tabletop Mechanics -- Auctions|bid]] for turn order.
 	* Allows players to decide the merit of certain turn orders.
 	* Can slow down the game.
 	* The auction mechanism needs to be integrated into the game.

@@ -24,9 +24,9 @@
 # Topics
 * [[Recurrent Neural Network]]
 * [[Time Series Analysis]]
-* [[The Transformer Model]]
-* [[Language Models]]
-* [[Encoder-Decoder networks]]
+* [[Transformer Model]]
+* [[Language Model]]
+* [[Encoder-Decoder Network]]
 # Links
 * [C5W3LO4 Beam Search](https://www.youtube.com/watch?v=RLWuzLLSIgw) - beam search is an algorithm similar to BFS and DFS (but is not guaranteed to find maxima), wherein given beam length $B$, we select the top $B$ likely outputs at each step of the search. The goal is to find the likely $B$-length sentence using this search.
 * [C5W3LO4 Refining Beam Search](https://www.youtube.com/watch?v=gb__z7LlN_4) - use length normalization techniques to optimize beam search (maximize log likelihood, average based on sentence length).

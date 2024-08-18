@@ -35,7 +35,7 @@
 
 * Complexity-Based Prompting for Multi-Step Reasoning by Fu et. al (Jan 30, 2023)
 # Links
-* [[Large Language Models]] - for a discussion on LLMs in general. 
+* [[Large Language Model]] - for a discussion on LLMs in general. 
 
 * [Guide for Prompting AI (for what it's worth)](https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what) 
 * [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) -  more on prompt engineering.

@@ -1,2 +1,2 @@
 # Links
-* [[Large Language Models]] - for all about LLMs, mainly in the context of NLP only.
+* [[Large Language Model]] - for all about LLMs, mainly in the context of NLP only.

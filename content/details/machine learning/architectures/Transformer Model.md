@@ -1,5 +1,5 @@
 # Query-Key-Value Model
-* The design of the transformer is motivated by observations found in databases and retrieval systems where:
+* The design of the transformer is motivated by observations found in [[Database|Databases]] and retrieval systems where:
 	* We have a set of **keys** to index the data found in the database.
 	* Each key is associated with a **value**
 	* The user can retrieve data through **queries**.
@@ -24,7 +24,7 @@
 * The model takes in an **embedding** (from some tokenizer or byte pair encoding) that acts as a more compact representation of the input data. 
 * The model first performs **positional encoding** to represent the position of a token in the sequence. *This is done to account for the fact the order tokens appear in sequence is important*
 	* The original positional encoding proposed encodes both the absolute position of a token, and its position relative to other tokens.  *For any fixed offset $\delta$, the positional encoding at $i+\delta$ can be obtained through linear projection of $\delta$ at $i$.*
-* The model then consists of an [[Encoder-Decoder networks|encoder and a decoder]] 
+* The model then consists of an [[Encoder-Decoder Network|encoder and a decoder]] 
 	* The **encoder** takes in the input sequence and outputs a latent space representation called a **context variable** for each position in the input sequence. 
 		* *Encoders can attend to the whole sequence as needed*.
 	* The **decoder** takes in the context variable as well as another sequence and produces an output sequence.

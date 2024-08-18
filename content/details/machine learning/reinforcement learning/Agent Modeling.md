@@ -121,7 +121,7 @@
 	* The policies of the agents may be too complex. 
 	* The policies of the agents change during learning. 
 
-* One common approach is to use [[Encoder-Decoder networks]]. We may also use [[The Transformer Model|transformers]]. We have two networks 
+* One common approach is to use [[Encoder-Decoder Network]]. We may also use [[Transformer Model|transformers]]. We have two networks 
 	* The encoder $f^e$  gives a representation $m_i^t=f^e(h_i^t; \psi_i^e)$
 	* The decoder gives action probabilities $\pi_{-i}^{i,t}=f^d(m_i^t;\psi_i^d)$
 

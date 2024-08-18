@@ -11,9 +11,13 @@
 * $\phi$ - a homomorphism
 * $\text{Ker}(\phi)$ - kernel of homomorphism $\phi$. 
 * $R\cong R'$ - $R$ is isomorphic to $R'$
+* $S\le R$ - $S$ is a sub(ring / field / domain) of $R$. 
 * $|R|$ - order of a ring
 * $\text{char}(R)$ - characteristic of a ring
 ****
 * $F$ - a generic field.
 * $D$ - a generic integral domain
+* $\text{Quot}(D)$ - the ring of quotients over the integral domain $D$.
+* $Q(R,T)$ - partial ring of quotients for $R$ where $T\subseteq R$ is closed under multiplication and contains neither $0$ nor divisors of $0$
+* $a/_F b$ - quotient over field $F$ of $a,b$. 
 

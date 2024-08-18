@@ -14,13 +14,25 @@
 
 * [[Systems and Models|Machine Learning models can capture patterns within systems]].
 # Topics
-* [[Geometric Deep Learning]]
-*  [[Low Level of Training a Model]]
+## Theory
 * [[Model Performance]]
 * [[Multimodal Models]]
 
 * [[Pathologies of Deep Learning]]
 
+* [[Geometric Deep Learning]]
+*  [[Low Level of Training a Model]
+
+## Neural Network Architectures
+* [[Neural Network]]
+* [[Convolutional Neural Network]]
+* [[Recurrent Neural Network]]
+* [[Transformer Model]]
+* [[Generative Adversarial Network]]
+* [[Diffusion Network]]
+* [[Mamba Model]]
+
+## Domains and Applications
 * [[AI in Education]]
 * [[Machine Learning and Mathematical Reasoning]]
 * [[Computer Vision]]

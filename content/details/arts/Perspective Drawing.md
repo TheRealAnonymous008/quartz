@@ -12,6 +12,12 @@
 	* All vanishing points corresponding to the two non-height axes lie in the horizon.
 	* The vanishing points associated with perpendicular axes (i.e., like what we would find in a cuboid-shaped object) should be widely spaced apart. Otherwise, the perspective will look warped
 	* Elevation (i.e. sloped objects) converge to vanishing points. The vanishing points lie along a line which passes through a vanishing point in the horizon. 
+	* A view straight up or straight down can be sketched as one point perspective
+	* When you look downhill or uphill, consider the slope as level. This creates a false line of vision. 
+
+![[Three point perspective.png]]
+<figcaption> Three Point Perspective. Image taken from Norling </figcaption>
+
 
 * We have control over where we place the horizon since it coincides with the eye level line.
 * *Perspective drawing is based on the height of the eye level and whether or not the eyes are above or below the objects in the scene*
@@ -29,6 +35,17 @@
 	* The major and minor axes of the ellipse are always perpendicular regardless of perspective. This is one way to determine if the ellipse "looks right"
 	* If the circle is "upright" (i.e., part of an upright cylinder), the drawing is the same regardless of the direction in which the cylinder is turned.
 
+* When we consider lighting, an object will have a shaded side.
+	* *Darken the part of the object facing away from the light source*
+	* The shape of the shadow depends on the following:
+		* The direction of the light source relative to the object
+		* The position of the object in space
+		* The shape of the area on which the shadow falls.
+		* *Shadows follow the rules of perspective*. The edge of the shadow $ab$ can be extended to meet the vanishing point of the edge $AB$ on the object. *The edges of the shadow are parallel to the edges of the object*.
+	* See more about shading [[Shading|here]]
+
+* *Reflections of an object have the same vanishing point as the object itself*. This is because, the reflection of an edge is parallel to the edge.
+	* If the object is at distance $d$ from the reflecting surface, the reflection moves away at an equal distance.
 # Techniques
 * We can test for proper perspective simply as follows: *All parallel lines must meet at the same vanishing points*.
 * One technique from [[Drawing on the Right Side of the Brain by Edwards|Edwards]] is to close one eye (esp. if the object is close). Copy the flattened projection that you see. Closing the eye removes the effect of depth perception.
@@ -44,6 +61,7 @@
 ![[Intersecting Diagonals.png]]
 <figcaption> Intersecting Diagonals. Image taken from Norling </figcaption>
 
+* If we require more precision, use techniques from [[Mechanical Perspective]]
 # Links
 * [[Perspective made Easy by Norling]]
 * [[Drawing on the Right Side of the Brain by Edwards]]

@@ -3,6 +3,6 @@
 * Transformers are so effective because learning from human language is a cheat. *Human [[Linguistics|language]] encodes [[System Opportunities#Systems Thinking|human thinking]], and transformers learn to exploit this. 
 # Topics
 * [[Sequence Based Algorithms]]
-* [[The Transformer Model]]
-* [[Language Models]]
-* [[Large Language Models]]
+* [[Transformer Model]]
+* [[Language Model]]
+* [[Large Language Model]]

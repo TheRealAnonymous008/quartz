@@ -25,6 +25,7 @@
 * [[Pixel Art]]
 * [[Vector Art]]
 
+* [[Shading]]
 # Links
 * [[Creativity]]
 

@@ -21,5 +21,8 @@
 	* (*Fraleigh e19.27*) The characteristic of a subdomain of an integral domain $D$ is equal to the characteristic of $D$.
 	* (*Fraleigh e19.28*) $\{n\cdot 1\mid n\in \mathbb{Z}\}\le D$. Furthermore, this subdomain is contained in every subdomain of $D$.
 	* (*Fraleigh e19.29*) $\text{char}(D) = 0$ or $\text{char}(D)=p$, where $p$ is prime. 
+
+* Every integral domain is contained in a field called the [[Quotient Field]] of the integral domain
+
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

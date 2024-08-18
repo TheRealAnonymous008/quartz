@@ -30,8 +30,6 @@
 
 # Notemarks
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
-* [[Human Biases]] 
-* [[Tarot Cards]]
 
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.

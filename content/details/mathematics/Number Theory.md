@@ -4,6 +4,8 @@
   $$
   For all $a\equiv 0 \ \text{mod p}$ 
 	* (*Fraleigh 20.2*) If $a\in \mathbb{Z}$ then $a^p\equiv a \ (\text{mod } p)$  for any prime $p$
+	* *Intuition*: The set $\{a,2a,3a,\dots, (p-1)a\} \  \text{mod } p$   is equivalent to $\{1,2,3,\dots,p-1\} \text{ mod } p$ when $a\nmid  p$.   Two facts are key here: First, none of the multiples of $a$ in the set are $0$ (because $a\not\equiv 0 \text{ mod } p$) and second, each multiple is distinct $\text{mod } p$.  
+	* *Intuition* The set $\{1,\dots,p-1\}$ forms a [[Fundamental Constructs of Group Theory|group]] under multiplication modulo $p$. Thus from [[Subgroup|Lagrange's Theorem]], $|\text{ord}(z)|$ divides $p-1$. In other words, $z^{p} \equiv z \text{ mod } p$  
 
 * **Euler's Phi Function** is a function $\phi:\mathbb{Z}^+\to \mathbb{Z}^+$ defined as 
   $$

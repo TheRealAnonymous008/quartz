@@ -52,7 +52,7 @@
 * We perform an additional step during training and mask irrelevant entries with $0$ so that they do not affect the loss (at the current time step). The masking is necessary since we also need to pad the sequence. 
 
 # Transformers
-* See [[The Transformer Model]]. Transformers have the advantage that their latent space representation can be of variable dimension
+* See [[Transformer Model]]. Transformers have the advantage that their latent space representation can be of variable dimension
 
 # Links
 * [[Dive into Deep Learning by Zhang, Lipton, Li and Smola]]
