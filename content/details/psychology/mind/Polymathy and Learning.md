@@ -60,4 +60,5 @@
 * [Principles of Learning](https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=163&printable=1)
 
 * [[Psychology]]
+* [[Integral Theory]] - a theory of various ways to see things.
 * [[Psychology -- A Very Short Introduction by Butler and McManus]] - Ch. 3
