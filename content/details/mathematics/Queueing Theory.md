@@ -221,5 +221,5 @@
 # Links
 * [[Factory Physics by Hopp and Spearman|Hopp and Spearman]] - Ch. 8 
 * [Queueing Theory and the Poisson Process](https://www.youtube.com/watch?v=rBIQmwaoZfs&list=WL&index=1&t=1090s)
-* [[Probability]]
+* [[Probability Theory]]
 * [[Probability Distributions Zoo]]

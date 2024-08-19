@@ -92,7 +92,7 @@
 * Relevant Lenses:  [[Lenses for Game Design - Lenses#34. Skill|Skill]]
 
 #### Chance 
-* *Chance means [[Games as Rules#Systems of Uncertainty|uncertainty]] which means surprises.* This, of course, requires an understanding of [[Probability]]. 
+* *Chance means [[Games as Rules#Systems of Uncertainty|uncertainty]] which means surprises.* This, of course, requires an understanding of [[Probability Theory|probability]]. 
 * Expected values are excellent tools for game balancing but be careful and make sure the statistical models are correct and based on the actual values of actions in game. 
 * Remember that [[Logical Fallacy Biases|We do not have a good grasp of probability]]. *Perceived probability is just as important as actual probabilities*. 
 * Skill and Chance interact with each other. 

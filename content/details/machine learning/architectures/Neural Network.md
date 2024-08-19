@@ -111,7 +111,7 @@
 # Links 
 * [[Dive into Deep Learning by Zhang, Lipton, Li and Smola|Zhang et. al]] - Ch. 3 - 5
 * [[Differential Calculus]] - more on gradients and derivatives in general.
-* [[Probability and Statistics]]
+* [[Probability Theory]] and [[Statistics]]
 * [[Pathologies of Deep Learning]]
 
 * [Gradient Descent, how neural networks really learn by 3b1b](https://www.youtube.com/watch?v=IHZwWFHWa-w)

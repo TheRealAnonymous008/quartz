@@ -236,5 +236,5 @@ $$
 	* 5.7.1 - Bayes estimators for common loss functions
 * [The Fisher Information](https://www.youtube.com/watch?v=pneluWj-U-o) - more on the Fisher information. Essentially it measures the amount of information a variable carries about a parameter.
 
-* [[Probability]] - more on the basics of probability
+* [[Probability Theory]] - more on the basics of probability. Bayes' theorem is stated [[Fundamental Constructs of Probability Theory|here]].
 * [[Bayesian Models]] 

@@ -9,7 +9,7 @@
 		* When we make decisions, we undervalue [[Scarcity, Supply, and Demand|opportunity costs]]
 		* *This makes negotiations more difficult*. the exploitation of market power to impose losses on others is unacceptable
 
-* **Ambiguity Effect** - the tendency where decision making is affected by a lack of information. People select options for which the [[Probability]] of a favorable outcome is known.
+* **Ambiguity Effect** - the tendency where decision making is affected by a lack of information. People select options for which the [[Probability Theory|probability]] of a favorable outcome is known.
 	* Can stem from a heuristic to avoid options where information is missing.
 
 * **Disposition effect** - the tendency of investors to sell assets that have increased in value and keep assets that have dropped in value.

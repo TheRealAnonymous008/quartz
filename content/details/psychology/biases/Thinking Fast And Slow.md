@@ -23,7 +23,7 @@
 	* Intuition becomes more valid for strongly valid skills -- that is those with a predictable environment, and where one can practice in this environment (see [more](https://www.youtube.com/watch?v=5eW6Eagr9XA))
 
 * Some common heuristics, biases, and mistakes:
-	* **The Law of Small Numbers** -- deriving conclusions from small sample sizes, even when [[Probability and Statistics|Statistics]] dictates larger sample sizes give more precise results. In general, System 1 is not good at considering sample size. *Small samples give more drastic, extreme, inconsistent results*. 
+	* **The Law of Small Numbers** -- deriving conclusions from small sample sizes, even when [[Statistics|Statistics]] dictates larger sample sizes give more precise results. In general, System 1 is not good at considering sample size. *Small samples give more drastic, extreme, inconsistent results*. 
 		* This is coupled with the inability to *accept life is random*.
 		* We pay more attention to the content of the messages rather than their reliability.
 	* **Anchoring** - the tendency to consider a particular value for an unknown quantity before estimating it. *It takes effortful adjustment to move away from an anchor*.  

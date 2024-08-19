@@ -46,7 +46,7 @@
 	* More random = More chaotic and unstructured.
 		* Even the simple act of choosing to play, as much as the game is random, can be meaningful if the player has [[The Fundamentals of Game Design#Player Choice|choice]]. 
 		* *In games of pure chance, the player's relation to the system needs to be carefully designed*
-* *When having elements with RNG, understand [[Probability and Statistics]] first* to pace the game in an appropriate manner.
+* *When having elements with RNG, understand [[Probability Theory|probability]] and [[Statistics]] first* to pace the game in an appropriate manner.
 * Beware of when Uncertainty breaks down into an non-meaningful player experience:
 	* Make sure your randomization functions are actually random (i.e., follow the target distribution you are aiming for.) *Changes in the randomization can lead to unexpected errors.*
 	* Make sure the procedures for determining randomness operate how you intend them to. Remember that *players may use the randomness itself strategically, in ways you do not intend.*

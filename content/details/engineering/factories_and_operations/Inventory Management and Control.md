@@ -139,7 +139,7 @@ $$
 * The Wagner-Whitin property may not hold in practice due to real world constraints. 
 
 # Statistical Models 
-* We make use of [[Probability and Statistics]] to account for a stochastic demand. This problem can be broken down into two parts
+* We make use of [[Statistics]] to account for a stochastic demand. This problem can be broken down into two parts
 	* Determining **order quantity** - the amount of inventory that will be purchased for each replenishment
 	* Determining **reorder point** - the inventory level at which replenishment will be triggered. 
 

@@ -1,3 +1,4 @@
+* [Probability Distributions tell a story. Distributions are related to each other in the way they reframe counting samples](https://www.youtube.com/watch?v=mBCiKUzwdMs)
 # Random Variables
 * A **random variable** is a function that maps an event in the sample space to a numerical value.
 * A **discrete random variable** operates on a countable sample space. That is, it may be quantified using a **probability mass function** $p(x)$ where 
@@ -120,7 +121,7 @@ $$
   &= \sum_{x_1} x \ P(x_1) \sum_{x_2} P(x_2\mid x_1) \dots \sum_{x_n} P(x_n\mid x_1,\dots,x_{n-1}) 
   \end{split}
   $$
-  Observe we expanded the joint distribution according to the [[Probability|chain rule of probability]]. hen, we manipulated the internals sums by pushing them out. 
+  Observe we expanded the joint distribution according to the [[Fundamental Constructs of Probability Theory|chain rule of probability]]. hen, we manipulated the internals sums by pushing them out. 
   
   Remarkably, for a Markovian process, the expectation collapses simply as 
 
@@ -140,18 +141,6 @@ $$
   P(X\ge a'\cdot \mathbb{E}[X]) \le \frac{1}{a}
   $$
 
-# Misc
-* An **indicator random variable** denoted $\mathbb{1}_A(x)$ is defined as follows
-  
-$$
-\mathbb{1}_A(x) = \begin{cases}
-1  & \text{if } x\in A \\
-0  & \text{if } x\notin A
-\end{cases}
-$$
-* (*CLRS 5.1*) Given a sample space $S$ and event $A$ in $S$. Then 
-  $$
-  \mathbb{E}[\mathbb{1}_A]=P(A)
-  $$ 
+
 # Links
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]

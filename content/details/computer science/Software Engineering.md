@@ -9,9 +9,12 @@
 * A lot of Software Engineering approaches borrow from [[Manufacturing]] which makes sense considering the similarities between the two processes.
 # Topics
 * [[Object Oriented Programming]]
-* [[Clean Code Principles]]
 * [[The Design Patterns]] 
 * [[Software Construction]]
+
+## Coding Standards
+* [[Clean Code Principles]]
+* [[Software Engineering Checklists]]
 # Links
 * [[Clean Code by Robert Martin]]
 * [[Code Complete by McConnell]]

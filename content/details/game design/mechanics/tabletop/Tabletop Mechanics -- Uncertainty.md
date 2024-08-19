@@ -42,7 +42,7 @@
 	* Once players understand what the range of the hidden information is, they can try to deduce what it is from players who know it
 	* It allows for bluffing.
 
-* **Probability Management** - A mechanism which allows players to influence the [[Probability|probabilities]] of certain outcomes but not directly determine them.
+* **Probability Management** - A mechanism which allows players to influence the [[Fundamental Constructs of Probability Theory|probabilities]] of certain outcomes but not directly determine them.
 	* At its most direct, players can gain dice modifier tokens that allow them to add or subtract from the value of a die or card.
 	* This is also very evident in [[Tabletop Mechanics -- Cards|deck building]] games. The act of building the deck serves as a probability management mechanism.
 

@@ -28,7 +28,7 @@
 	  $\gamma_p$ is the critical exponent.
 	  As $p\to p_c$ this value diverges 
 
-* The **order parameter** is a parameter that dictates the [[Probability]] that a randomly chosen pebble in a percolation process belongs to the largest cluster. 
+* The **order parameter** is a parameter that dictates the probability that a randomly chosen pebble in a percolation process belongs to the largest cluster. 
   
   It is notated $p_{\infty}$ and follows $$p_\infty \sim (p-p_c)^{\beta_p}$$Where  $\beta_c$ is the critical exponent.
 	* As $p\to p_c^-$, this probability drops to $0$.

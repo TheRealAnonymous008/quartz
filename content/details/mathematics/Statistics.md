@@ -1,4 +1,3 @@
-
 * The Frequentists see fixed parameters that define a sampling distribution from which observations are randomly sampled from.
 * The Bayesians see observations as fixed, and the parameters as being determined randomly sampled from a distribution of parameters.
 * It is more natural and optimal to be Bayesian than Frequentist.
@@ -12,9 +11,9 @@
 
 
 # Topics
-* [[Probability]]
 * [[Statistical Models]]
 * [[Bayesian Statistics]]
 * [[Frequentist Statistics]]
 
 # Links
+* [[Probability Theory]] - corequisite

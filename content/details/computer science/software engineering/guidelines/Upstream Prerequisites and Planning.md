@@ -87,71 +87,6 @@
 * **Reuse Decisions** - can reused software be made to conform to the other architectural goals if at all.
 * **Change Strategy** - how will the architecture handle changes? 
 
-## Requirements Checklist
-* **Specific Functional Requirements**
-	* Are all the inputs to the system specified, including their source, accuracy, range of values, and frequency?
-	* Are all the outputs from the system specified, including their destination, accuracy, range of values, frequency, and format?
-	* Are all output formats specified for Web pages, reports, and so on?
-	* Are all the external hardware and software interfaces specified?
-	* Are all the external communication interfaces specified, including handshaking, error-checking, and communication protocols?
-	* Are all the tasks the user wants to perform specified?
-	* Is the data used in each task and the data resulting from each task specified?
-* **Specific Non-functional Requirements**
-	* Is the expected response time, from the user’s point of view, specified for all necessary operations?
-	* Are other timing considerations specified, such as processing time, data transfer rate, and system throughput?
-	* Is the level of [[Cybersecurity|security]] specified?
-	* Is the reliability specified, including the consequences of software failure, the vital information that needs to be protected from failure, and the strategy for error detection and recovery?
-	* Are minimum machine memory and free disk space specified?
-	* Is the maintainability of the system specified, including its ability to adapt to changes in specific functionality, changes in the operating environment, and changes in its interfaces with other software?
-	* Is the definition of success included? Of failure?
-* **Requirements Quality**
-	* Are the requirements written in the user’s language? Do the users think so?
-	* Does each requirement avoid conflicts with other requirements?
-	* Are acceptable tradeoffs between competing attributes specified—for example, between robustness and correctness?
-	* Do the requirements avoid specifying the [[Design]]?
-	* Are the requirements at a fairly consistent level of detail? Should any requirement be specified in more detail? Should any requirement be specified in less detail?
-	* Are the requirements clear enough to be turned over to an independent group for construction and still be understood? Do the developers think so?
-	* Is each item relevant to the problem and its solution? Can each item be traced to its origin in the problem environment?
-	* Is each requirement testable? Will it be possible for independent testing to determine whether each requirement has been satisfied?
-	* Are all possible changes to the requirements specified, including the likelihood of each change?
-* **Requirements Completeness**
-	* Where information isn’t available before development begins, are the areas of incompleteness specified?
-	* Are the requirements complete in the sense that if the product satisfies every requirement, it will be acceptable?
-	* Are you comfortable with all the requirements? Have you eliminated requirements that are impossible to implement and included just to appease your customer or your boss?
-
-## Architecture Checklist
-* **Specific Topics**
-	* Is the overall organization of the program clear, including a good architectural overview and justification?
-	* Are major building blocks well defined, including their areas of responsibility and their interfaces to other building blocks?
-	* Are all the functions listed in the requirements covered sensibly, by neither too many nor too few building blocks?
-	* Are the most critical classes described and justified?
-	* Is the data design described and justified?
-	* Is the database organization and content specified?
-	* Are all key business rules identified and their impact on the system described?
-	* Is a strategy for the user interface design described?
-	* Is the user interface modularized so that changes in it won’t affect the rest of the program?
-	* Is a strategy for handling I/O described and justified?
-	* Are resource-use estimates and a strategy for resource management described and justified for scarce resources like threads, database connections, handles, network bandwidth, and so on?
-	* Are the architecture’s security requirements described?
-	* Does the architecture set space and speed budgets for each class, subsystem, or functionality area?
-	* Does the architecture describe how scalability will be achieved?
-	* Does the architecture address interoperability?
-	* Is a strategy for internationalization/localization described?
-	* Is a coherent error-handling strategy provided?
-	* Is the approach to fault tolerance defined (if any is needed)?
-	* Has technical feasibility of all parts of the system been established?
-	* Is an approach to overengineering specified?
-	* Are necessary buy-vs.-build decisions included?
-	* Does the architecture describe how reused code will be made to conform to other architectural objectives?
-	* Is the architecture designed to accommodate likely changes?
-
-* **General Quality**
-	* Does the architecture account for all the requirements?
-	* Is any part overarchitected or underarchitected? Are expectations in this area set out explicitly?
-	* Does the whole architecture hang together conceptually?
-	* Is the top-level design independent of the machine and language that will be used to implement it?
-	* Are the motivations for all major decisions provided?
-	* Are you, as a programmer who will implement the system, comfortable with the architecture?
 
 ## Construction Decisions
 * Consider the [[Programming|programming language]] to be used.
@@ -163,27 +98,6 @@
 	* If you’re in the late part of the wave, you can plan to spend most of your day steadily writing new functionality. 
 	* If you’re in the early part of the wave, you can assume that you’ll spend a sizeable portion of your time trying to figure out your programming language
 	* *Your programming tools don’t have to determine how you think about programming*. Programming conventions should be language independent.
-## Major Construction Practices Checklist
-* **Coding** 
-	* Have you defined how much design will be done up front and how much will be done at the keyboard, while the code is being written?
-	* Have you defined coding conventions for names, comments, and layout? 
-	* Have you defined specific coding practices that are implied by the architecture, such as how error conditions will be handled, how security will be addressed, what conventions will be used for class interfaces, what standards will apply to reused code, how much to consider performance while coding, and so on?
-	* Have you identified your location on the technology wave and adjusted your approach to match? If necessary, have you identified how you will program into the language rather than being limited by programming in it?
-* **Teamwork**
-	* Have you defined an integration procedure—that is, have you defined the specific steps a programmer must go through before checking code into the master sources?
-	* Will programmers program in pairs, or individually, or some combination of the two?
-* **Quality Assurance**
-	* Will programmers write test cases for their code before writing the code itself?
-	* Will programmers write unit tests for their code regardless of whether they write them first or last?
-	* Will programmers step through their code in the debugger before they check it in?
-	* Will programmers integration-test their code before they check it in? 
-	* Will programmers review or inspect each other’s code?
-* **Tools**
-	* Have you selected a revision control tool?
-	* Have you selected a language and language version or compiler version?
-	* Have you selected a framework such as J2EE or Microsoft .NET or explicitly decided not to use a framework?
-	* Have you decided whether to allow use of nonstandard language features?
-	* Have you identified and acquired other tools you’ll be using—editor, refactoring tool, debugger, test framework, syntax checker, and so on?
 # Links
 * [[Code Complete by McConnell]] - Ch. 3, 4
 	* Ch. 3 - Requirements Checklist

@@ -1,6 +1,6 @@
 # Parameters in an MVN
 * Assume MVN prior for mean, and Inverse Wishart for covariance. We get multivariate T posterior for mean, and Inverse Wishart posterior for covariance.
-* The above assumption shows how using the Inverse Wishart simplifies things because it is a [[Probability|conjugate prior]]
+* The above assumption shows how using the Inverse Wishart simplifies things because it is a [[Fundamental Constructs of Probability Theory|conjugate prior]]
 
 ### Defining Conjugate Priors
 * *Assume* $x_i\sim \mathcal{N}(\mu,\Sigma)$ and the data $\mathcal{D}$ are complete. 

@@ -22,7 +22,7 @@
 * (*Fraleigh 19.12*) If $p$ is [[Number Theory|prime]], then $\mathbb{Z}_p$ is a field
 
 * A **subfield** of a field is a subset of the field that is afield under induced operations from the whole fiield. It is a generalization of [[Subgroup]]. 
-	* (*Fraleigh e18.49b*) The intersection of subfields of a field$F$ is again a subfield of $F$
+	* (*Fraleigh e18.49b*) The intersection of subfields of a field $F$ is again a subfield of $F$
 
 * The nonzero elements form a [[Fundamental Constructs of Group Theory|group]] under the field multiplication
 # Links

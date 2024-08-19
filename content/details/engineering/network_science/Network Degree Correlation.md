@@ -1,4 +1,4 @@
-* The **degree correlation** is a measure of the [[Probability]] of finding a node with degrees $i$ and $j$ at the two ends of a randomly selected link. 
+* The **degree correlation** is a measure of the [[Fundamental Constructs of Probability Theory|probability]] of finding a node with degrees $i$ and $j$ at the two ends of a randomly selected link. 
   
   Let $q_k$ be the probability that there is a $k$-degree node at the end of a randomly selected link 
   

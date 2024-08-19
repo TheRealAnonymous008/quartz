@@ -33,7 +33,7 @@
 	  $$
 	  \min (kp_k, k'p_{k'}, Np_kp_{k'})
 	  $$
-	  Where $p_k$ represents the [[Probability|probability]] of having a node with degree $k$.
+	  Where $p_k$ represents the [[Probability Theory|probability]] of having a node with degree $k$.
 	  
 	  The *structural cutoff* $k_s$ is defined such that
 	  $$

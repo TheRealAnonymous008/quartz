@@ -21,9 +21,6 @@
 	* $(-a)(-b)=ab$
 
 * If for a ring $R$ a positive integer $n$ exists such that $n\cdot a=0$ $\forall a\in R$, then the least such positive integer is the **characteristic** of the ring. If no such positive integer exists, then $R$ has characteristic $0$. We denote this $\text{char}(R)$
-	* (*Fraleigh 19.15*) Let $R$ be a ring with unity. If $n\cdot 1 \ne 0$ $\forall n\in \mathbb{Z}^+$ then $\text{char}(R) = 0$. 
-	  
-	  Otherwise, if $\exists n\in\mathbb{Z}^+$ such that $n\cdot 1 = 0$, then the smallest such $n$ is the characteristic of $R$. 
 
 
 # Misc

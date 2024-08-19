@@ -21,7 +21,7 @@
 * To Clausewitz, war was a [[Creativity|creative]] activity.
 	* Military manoeuvre was pointless unless it was designed to culminate in battle
 	* Battle was pointless unless it was designed to serve the ultimate purpose of the war -- the ultimate purpose of war is political
-	* Real War is different from a Theoretical war. A "scientific" approach to strategy and tactics is limited by the [[Probability and Statistics|uncertainty]] of war. [[Engineering|Murphy's law applies]].  Thus, Clausewitz *proposes a more pragmatic approach to the study of war*. 
+	* Real War is different from a Theoretical war. A "scientific" approach to strategy and tactics is limited by the [[Fundamental Constructs of Probability Theory|uncertainty]] of war. [[Engineering|Murphy's law applies]].  Thus, Clausewitz *proposes a more pragmatic approach to the study of war*. 
 		* Variables that introduce uncertainty are termed as **Friction**
 		* Learning from the past serves two purposes -- analysis of past events, and meta-analysis on the validity of the recorded history.
 		* *Theory can only exist as an aid*, but in practice, the commander must find their own solutions through their own discernment 

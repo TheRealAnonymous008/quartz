@@ -1,7 +1,7 @@
 # Definition of Terms
 * **Planning Methods** pertain to those that require a model. **Learning methods** are model-free.
 * A **model** is a way for the agent to make predictions about its environment, specifically how it will respond to its actions.
-	* A **distribution model** produces a description of all possibilities and their [[Probability|probabilities]]. 
+	* A **distribution model** produces a description of all possibilities and their [[Fundamental Constructs of Probability Theory|probabilities]]. 
 	* A **sample model** produces just one possibility sampled according to the underlying distribution.
 	* *Distribution models are more powerful* and can be used to generate samples. However, *sampling models are easier to obtain* as they do not require computing the actual probabilities, only simulating the environment.
 	* *Always note:* The Model can be wrong, as in it does not match the logic of the environment.

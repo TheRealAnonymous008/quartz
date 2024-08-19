@@ -3,6 +3,7 @@
 	* [[Direct Product of Rings]]
 	* [[Ring Homomorphism]]
 * [[Commutative Ring]]
+* [[Polynomial Ring]]
 * [[Integral Domain]]
 * [[Division Ring and Rings with Unity]]
 * [[Quotient Field]]

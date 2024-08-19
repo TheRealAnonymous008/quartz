@@ -117,7 +117,8 @@
 	* Insert design documentation into the code itself.
 	* Use a Wiki 
 	* Use summaries of the design discussion
-	* Use pictures, diagrams or charts.
+	* Use pictures, diagrams or charts
+
 # Links
 * [[Code Complete by McConnell]] - Ch. 5
 * [[Design]]

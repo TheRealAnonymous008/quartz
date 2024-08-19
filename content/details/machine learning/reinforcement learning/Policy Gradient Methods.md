@@ -79,7 +79,7 @@ Where the baseline can be any function as long as it is not dependent on $a$.
 	* In line with that, we have the common choice of $\hat{v}(s)$ as a sort of MLE.
 	* *The tradeoff applies, we reduce variance at the cost of adding bias*. 
 
-[^4]: see more [here](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/) and the relevant identity [[Probability|here]] for showing the baseline does not introduce bias.
+[^4]: see more [here](https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/)  for showing the baseline does not introduce bias.
 
 ### Baselined Discounting 
 * If we want to apply discounting the baseline has to satisfy 

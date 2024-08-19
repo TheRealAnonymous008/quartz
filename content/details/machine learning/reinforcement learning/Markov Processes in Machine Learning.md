@@ -18,7 +18,7 @@
 	  is called the **trajectory**.
 
 * An MDP is **finite** if the set of states, actions, and rewards are finite. 
-* The **dynamics** of the MDP is computed as a [[Probability|probability distribution]] on states and actions defined as 
+* The **dynamics** of the MDP is computed as a [[Random Variables and Probability Distributions|probability distribution]] on states and actions defined as 
   $$
   p(s',r\mid s,a) = P(S_t=s', R_t=r\mid S_{t-1} =s, A_{t-1}=a)
   $$

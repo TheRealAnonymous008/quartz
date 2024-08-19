@@ -8,6 +8,7 @@
 # Topics
 * [[Upstream Prerequisites and Planning]]
 * [[Software Design]]
+* [[Writing Code]]
 
 # Links
 * [[Code Complete by McConnell]] - Primary Source
