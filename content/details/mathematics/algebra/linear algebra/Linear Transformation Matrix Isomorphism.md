@@ -1,4 +1,5 @@
-* Every [[Linear Transformation]] is associated with a [[Matrix]] (see more [[Vector Coordinate System|here]])
+* Every [[Linear Transformation]] is associated with a [[Matrix]] (see more [[Vector Coordinate System|here]]). Similarly, every matrix is associated with a linear transformation. This mapping is isomorphic. *Results from matrices can be generalized to linear transformation and vice versa*. 
+
 * (*Friedberg 2.8*) Let $V$ and $W$ be finite dimensional vector spaces with ordered bases $\beta$ and $\gamma$ and $T,U:V\to W$ be linear. Then
 	* $[T+U]_\beta^\gamma = [T]_\beta^\gamma + [U]_\beta^\gamma$ 
 	* $[aT]_\beta^\gamma = a[T]_\beta^\gamma$
@@ -44,6 +45,22 @@
 	* If $T:F^n\to F^m$ is linear, then there exists a unique matrix $C\in M_{m\times n}(F)$ such that $T=L_C$. In fact, $C=[T]_\beta^\gamma$ 
 	* If $E\in M_{n\times p}(F)$ then $L_{AE}=L_AL_E$
 	* If $m=n$, then $L_{I_n} = I_{F^n}$ 
+
+* (*Friedberg 3.7*) Let $T:V\to W$ and $U:W\to Z$ be linear transformations on finite dimensional vector spaces $V,W$and $Z$ and let $A,B$ be matrices such that $AB$ is defined.
+	* $\text{rank}(UT) \le \text{rank}(U)$
+	* $\text{rank}(UT)\le \text{rank}(T)$
+	* $\text{rank}(AB)\le \text{rank}(A)$
+	* $\text{rank}(AB)\le \text{rank}(B)$
+* (*Friedberg e3.2.14*) Let $T,U:V\to W$
+	* $R(T+U)\subseteq R(T) + R(U)$
+	* If $W$ is finite dimensional, then 
+	  $$
+	  \text{rank}(T+U) \le \text{rank}(T) + \text{rank}(U)
+	  $$
+	* For any $A,B\in M_{m\times n}(F)$ 
+	  $$
+	  \text{rank}(A + B) \le \text{rank}(A) + \text{rank}(B)
+	  $$
 
 # Invertibility
 * Let $V$and $W$ be vector spaces and let $T:V\to W$ be linear. $T$ has an **inverse** $U:W\to V$ if $TU=I_W$ and $UT=I_V$. The inverse is unique and we denote it as $U=T^{-1}$. We say that $T$ is **invertible** if $T$ has an inverse

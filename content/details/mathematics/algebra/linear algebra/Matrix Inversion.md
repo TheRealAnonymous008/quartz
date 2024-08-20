@@ -12,6 +12,23 @@
    $$
 * (*Friedberg e2.4.4*) If $A$ is invertible and $AB=O$, then $B=O$.
 * (*Friedberg e2.4.8*) A one sided inverse for square matrices is a two sided inverse. If $A,B\in M_{n\times n}(F)$ such that $AB=I_n$ then $A=B^{-1}$ 
+* (*Friedberg 3.4*) Let $A\in M_{m\times n}(F)$. If $P$ and $Q$ are invertible, $m\times m$ and $n\times n$ matrices respectively, then
+	* $\text{rank}(AQ)=\text{rank}(A)$
+	* $\text{rank}(PA)=\text{rank}(A)$
+	* $\text{rank}(PAQ)=\text{rank}(A)$
+
+# Computation
+* Let $A\in M_{m\times n}$ and $B\in M_{m\times p}$. The **augmented matrix** $(A\mid B)$ is defined as the $m\times (n+p)$ matrix
+  $$
+  (A\mid B) = (A_1,\dots,A_n, B_1, \dots, B_p)
+  $$
+  We have that for $C=(A\mid I_n)$ 
+  $$
+  A^{-1}C = (A^{-1}A\mid A^{-1} I_n ) = (I_n\mid A^{-1})
+  $$
+
+* We can find $A^{-1}$ by finding the [[Elementary Matrix Operations|elementary matrices]] which reduce the LHS of the augmented matrix to the identity.
+
 # Theorems
 * *Murphy  Thm. 4.3.2* Let 
   $$

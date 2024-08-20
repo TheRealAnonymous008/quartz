@@ -19,7 +19,7 @@
 	  0 & I &  D& b
 	  \end{bmatrix}
 	  $$
-	* If we set the values of the non-basic variables as $0$. A solution can easily be obtained using methods such as Gaussian elimination. We refer to this as a **basic solution**. 
+	* If we set the values of the non-basic variables as $0$. A solution can easily be obtained using methods such as [[Elementary Matrix Operations|Gaussian Elimination]]. We refer to this as a **basic solution**. 
 	  
 	  Applying row addition operations and considering $z_B$, the value of the objective function in a basic solution, gives us another tableau in canonical form
 	  

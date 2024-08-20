@@ -35,7 +35,7 @@
 	* (*Friedberg 2.6.1*) Let $V,W$  be vector spaces and suppose $V$ has a finite basis $\{x_1,\dots, x_n\}$. If $U,T:V\to W$ are linear, and $U(x_i)=T(x_i)$ for $i=1,\dots, n$ then $U=T$.
 	* (*Friedberg e2.1.27*) Let $V,W$ be possibly infinite-dimensional spaces over a common field and $\beta$ be a basis for $V$. For Any function $f:\beta \to W$, there exists exactly one linear transformation $T:V\to W$ such that $T(x)=f(x)$ $\forall x\in B$
 
-* (*Friedberg e2.4.18*) Let $T:V\to W$ be a linear transformation from an $n$-dimensional vector space $V$ to an $m$-dimensional vector space $W$. Let $\beta, \gamma$ be ordered bases for $V,W$ respectively. Let $A=[T]_\beta^\gamma$ . Then
+* (*Friedberg e2.4.18,  Friedberg 3.3*) Let $T:V\to W$ be a linear transformation from an $n$-dimensional vector space $V$ to an $m$-dimensional vector space $W$. Let $\beta, \gamma$ be ordered bases for $V,W$ respectively. Let $A=[T]_\beta^\gamma$ . Then
   
   $$
   \begin{split}

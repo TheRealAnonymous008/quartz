@@ -24,6 +24,7 @@
 * A **subfield** of a field is a subset of the field that is afield under induced operations from the whole fiield. It is a generalization of [[Subgroup]]. 
 	* (*Fraleigh e18.49b*) The intersection of subfields of a field $F$ is again a subfield of $F$
 
-* The nonzero elements form a [[Fundamental Constructs of Group Theory|group]] under the field multiplication
+* (*Fraleigh 23.6*) If $G$ is a finite subgroup of the multiplicative group $(F,\cdot)$ -- that is, the group from non-zero elements of the field, is [[Cyclic Group|cyclic]].
+	* *Proof*: The multiplicative group $F^\ast$ is [[Abelian Group|Abelian]] therefore it can be factored by the Fundamental Theorem of Finitely Generated Abelian Groups  $\mathbb{Z}_{d_1}\times \dots\times\mathbb{Z}_{d_r}$. Let $m=\text{lcm}(d_1,\dots,d_r) \le d_1d_2\dots d_r$. Now for $a_i\in \mathbb{Z}_{d_i}$$a_i^m=1$ since $d_i$ divides $m$. Thus, every element of $G$ is a [[Polynomial Ring|zero]] of $x^m-1$. But also, $m\ge d_1d_2\dots d_r$ since there are at most $m$ zeros. Therefore $m=d_1d_2\dots d_r$  so it is cyclic.
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]
