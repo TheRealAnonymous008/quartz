@@ -18,7 +18,7 @@
 		  $$
 		  \hat{\theta}=\underset{\theta}{\text{argmax}} \ P(\theta\mid\mathcal{D}) \ P(\theta) \ |I(\theta)|^{-\frac{1}{2}}
 		  $$
-		  Where $|I(\theta)|$ is the determinant of the **Fisher Information Matrix** associated with $P(x\mid\theta)$ which is parameterization independent.
+		  Where $|I(\theta)|$ is the [[Determinant]] of the **Fisher Information Matrix** associated with $P(x\mid\theta)$ which is parameterization independent.
 		* Unfortunately, optimizing the above is difficult.
 
 ### Credible Intervals

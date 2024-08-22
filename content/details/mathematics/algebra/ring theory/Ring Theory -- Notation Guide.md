@@ -20,6 +20,7 @@
 * $\text{Quot}(D)$ - the ring of quotients over the integral domain $D$.
 * $Q(R,T)$ - partial ring of quotients for $R$ where $T\subseteq R$ is closed under multiplication and contains neither $0$ nor divisors of $0$
 * $a/_F b$ - quotient over field $F$ of $a,b$. 
+* $RG$ - the group ring / algebra over $R$.
 *****
 * $R[x]$ -  polynomial ring on $R$ with indeterminate $x$
 * $R[x_1,\dots,x_n]$ - polynomial ring on $R$ with indeterminates $x_1,\dots,x_n$.

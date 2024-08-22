@@ -44,7 +44,7 @@
   
 * (*Fraleigh 13.18*) A homomorphism is one to one if and only if $\text{Ker}(\phi)=\{e\}$. 
 
-* (*Fraleigh 14.11*) **The Fundamental Homomorphism Theorem**.  Every factor group gives rise to a natural homomorphism.
+* (*Fraleigh 14.11*) **The Fundamental Homomorphism Theorem**.  Every [[Factor Group]] gives rise to a natural homomorphism.
 
   Let $\phi:G\to G'$ be a homomorphism with kernel $H$. 
   
@@ -64,5 +64,8 @@
   \phi(g)=\mu\gamma(g)
   $$
   We refer to $\mu$ and $\gamma$ as the **natural isomorphism** and **natural homomorphism** respectively. 
+
+* An [[Group Isomorphism|isomorphism]] is a homomorphism that is bijective.
+* An **endomorphism** is a homomorphism from $G$ to itself.
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

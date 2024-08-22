@@ -2,8 +2,16 @@
 * [[Fundamental Constructs of Ring Theory]]
 	* [[Direct Product of Rings]]
 	* [[Ring Homomorphism]]
+	* [[Factor Ring]]
+	* [[Ideal]]
+
+* [[Non-Commutative Ring]]
 * [[Commutative Ring]]
 * [[Polynomial Ring]]
+* [[Group Ring]]
+* [[Ordered Ring]]
+
+
 * [[Integral Domain]]
 * [[Division Ring and Rings with Unity]]
 * [[Quotient Field]]

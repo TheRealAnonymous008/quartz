@@ -76,7 +76,7 @@
   
   \end{split}
   $$
-  The first two are called the **Matrix Inversion Lemma** or the **Sherman-Morrison-Woodbury Formula**.  The last is called the **Matrix Determinant Lemma**.
+  The first two are called the **Matrix Inversion Lemma** or the **Sherman-Morrison-Woodbury Formula**.  The last is called the **Matrix [[Determinant]] Lemma**.
   
   The **Sherman-Morrison formula** is an important special case given as 
   

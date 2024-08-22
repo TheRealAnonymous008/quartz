@@ -106,7 +106,7 @@
 * *Know why you're creating a class*. The following are good reasons for it.
 	* To model real-world objects
 	* To model abstract objects
-	* To [[Software Design|minimiize the complexity]] of the program through abstraction of details.
+	* To [[Software Design|minimize the complexity]] of the program through abstraction of details.
 	* To isolate complex implementation
 	* To hide implementation details.
 	* To limit the effects of changes. Design so that areas that are most likely to change are the easiest to change
@@ -126,7 +126,69 @@
 * *If the language does not support class structures, enforce it through coding standards* 
 
 ## Routine Design
+* Here are reasons for creating routines in code.
+	* Reduce program complexity.
+	* To introduce an intermediate, understandable abstraction coupled with readable, self-documenting code.
+	* To avoid duplicate code.
+	* To support subclassing. Simple overridable code means that it takes less effort to override classes.
+	* To hide the sequences where events happen and to hide semantic assumptions.
+	* To hide pointer operations
+	* To importability by identifying and isolating nonportable code.
+	* To simplify complicated Boolean tests.
+	* To improve performance by optimizing only one place.
+* *Routines don't have to be small. They have to be as long as they need to be*
+	* Let issues such as the routine’s cohesion, depth of nesting, number of variables, number of decision points, number of comments needed to explain the routine, and other complexity-related considerations dictate the length of the routine rather than imposing a length restriction per se.
+	* That said, long routines are inherently [[UX Design Principles|hard to understand]].
+* One of the strongest mental blocks to creating effective routines is a reluctance to create a simple routine for a simple purpose. *Often small routines are good*.
+* *Routines need to be cohesive*
+	* Routines do one thing, and one thing only. 
+	* Cohesive routines are reliable.
+	* Aim for functional cohesion.
 
+* Good routine names clearly describe everything the routine does. *Poor names may sometimes be traced to poor, incohesive routine code*.
+	* Describe all outputs and side effects. On that note, completely remove side effects (or at the very least minimize them).
+	* Avoid meaningless or vague verbs for the routines. Vagueness can be a symptom of the routine having weak cohesion.
+	* Do not differentiate routine names by number
+	* Make the names of routines as long as necessary (for as long as it's understandable).
+	* Use a description of the return value for functions
+	* For procedures that operate on objects, indicate what the procedure does (unless the procedure signature includes the objects it operates on).
+	* Use naming conventions for opposites (i.e., Add/Remove, Create / Destroy)
+	* Establish conventions for common operations
+
+* Consider the design for routine interfaces.
+	* Put parameters in input-modify-output order.
+	* Consider using "in" and "out" keywords.
+	* If several routines use similar parameters, put the similar parameters in a consistent order.
+	* Make sure all parameters in the interface are used. If you have a good reason not to use a parameter, go ahead and leave it in place.
+	* All status or error variables go last in the list.
+	* Don't use routine parameters as working variables.
+		* Assigning the input value to a working variable emphasizes where the value comes from. 
+		* It eliminates the possibility that a variable from the parameter list will be modified accidentally
+	* Document interface assumptions about parameters explicitly.
+		* Are parameters input-only, modified or output only
+		* Do parameters have units
+		* What do the status codes mean 
+		* What values are expected
+		* What values shouldn't appear.
+	* Prefer fewer routine parameters. The upper bound is $7$
+		* If you find yourself consistently passing more than a few arguments, the coupling among your routines is too tight. Treat the frequently used data as class data.
+	* *Pass the variables or objects that the routine needs to maintain its interface abstraction*
+		* In general, code that “sets up” for a call to a routine or “takes down” after a call to a routine is an indication that the routine is not well designed.
+		* If you find yourself frequently changing the parameter list to the routine, with the parameters coming from the same object each time, that’s an indication that you should be passing the whole object rather than specific elements.
+	* Use named parameters
+	* Make sure actual parameters match formal parameters (look at parameter types especially)
+
+* Use a function if the primary purpose of the routine is to return the value indicated by the function name. Otherwise, use a procedure.
+	* Make sure to check all possible return paths.
+	* Do not return references or pointers to local data.
+
+* Routines created with preprocessor macros require considerations.
+	* Fully parenthesize macro expressions
+	* Surround multiple-statement macros with curly braces
+	* Name macros that expand to code like routines so that they can be replaced by routines if necessary
+	* *Almost every macro demonstrates a flaw in the programming language, in the program, or in the programmer*
+
+* Use inline routines (code treated as a routine at code writing time)
 # Links
 * [[Code Complete by McConnell]] - Ch. 6 ,7
 * [[Clean Code Principles]] - additional guidelines on writing code are presented.

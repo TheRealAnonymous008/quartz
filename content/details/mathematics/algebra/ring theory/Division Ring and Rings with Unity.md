@@ -59,5 +59,13 @@
   \tilde{n}\tilde{n}^{-1}a = n\cdot (1/n) \cdot a
   $$
   The corresponding number of $1$'s that are needed to get to $\hat{n}^{-1}$ is defined as $1/n$.  
+
+* (*Fraleigh 24.10*) **Wedderburn's Theorem**: Every finite division ring is  a field. 
+  
+  Another way to say this is that there are no finite strictly skew fields.
+
+* (*Fraleigh 26.3*) Let $\phi:R\to R'$ be a [[Ring Homomorphism]]. If $R$ has unity $1$, then $\phi(1)$ is unity for $\phi[R]$.
+  
+  In other words, rings with unity are still rings with unity under homomorphism.
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

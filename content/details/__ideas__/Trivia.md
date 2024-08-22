@@ -24,3 +24,6 @@
 	* **Uncommitting** - abstract the problem down to its essential components. 
 	* Draw inspiration from other places.
 	* Draw opinions from other fields
+
+#### Bottom
+Unstructured exploration goes [[Exploration Logs|here]]

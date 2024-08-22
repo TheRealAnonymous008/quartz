@@ -11,6 +11,7 @@
 * [[Object Oriented Programming]]
 * [[The Design Patterns]] 
 * [[Software Construction]]
+* [[Defensive Programming]]
 
 ## Coding Standards
 * [[Clean Code Principles]]

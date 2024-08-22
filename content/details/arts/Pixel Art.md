@@ -5,6 +5,11 @@
 	* That said sometimes it is more convenient to start with a rough 1px outline
 
 * Side views and fine contours are difficult to do and capture in pixel art.
+	* *Know the level of detail permitted by your chosen level of resolution*. Certain details will be lost at low resolutions and must instead be implied. 
+	* *Pixel art is not downscaling. [Good pixel art requires choosing which pixels matter](https://www.youtube.com/watch?v=Z_AST32rrbU)*.
+
+* When drawing from a silhouette, it can get complicated due to information lost from the silhouette (i.e., an object occluding another).
+	* The solution is to decompose the object into simpler forms and draw the silhouettes of those forms first. 
 
 # Lines and Curves 
 * *To achieve smooth curves:* 

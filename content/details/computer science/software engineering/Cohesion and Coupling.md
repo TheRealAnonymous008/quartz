@@ -14,7 +14,8 @@
 	* *Example*: Grouping all input handlers together because they handle input.)
 * **Temporal Cohesion** - when parts of a module are grouped by *when they are processed.*
 * **Procedural Cohesion** - when parts of a module are grouped because they always *follow a certain sequence of execution*. That is, one part follows the next in a well defined order.
-* **Informational Cohesion** - when parts of a module are grouped because they *operate on the same data.*
+	* Refactor this by putting operations in their own routines.
+* **Informational Cohesion** - when parts of a module are grouped because they *operate on the same data.* but are otherwise unrelated.
 * **Sequential Cohesion** - when parts of a module are grouped because the output from one part is the input to another part like an assembly line. There is a *well defined sequence for the dependencies* of each component.
 * **Functional Cohesion** - when parts of a module are grouped together because they *all contribute to a single well defined task* of the module
 
@@ -31,4 +32,4 @@
 	* **Semantic Coupling** - one module makes use of some semantic knowledge of another module's inner workings. This should be avoided.
 
 # Links
-* [[Code Complete by McConnell]] - Ch. 5
+* [[Code Complete by McConnell]] - Ch. 5, 7.2

@@ -11,6 +11,7 @@
 * $V\cong W$ - vector spaces $V$ and $W$ are isomorphic
 ***
 * $M$ - a generic matrix
+* $M^{(i)}$ - the entry in matrix $M$ at the $i$-th row
 * $M_j$ - the entry in matrix $M$ at the $j$-th column
 * $M_{ij}$ - the entry in matrix $M$ at the $i$-th row and $j$-th column
 * $M^T$ - the transpose of $M$
@@ -47,3 +48,5 @@
 * $V^\ast$ - the dual space of $V$.
 * $\beta^\ast$ - the dual basis of $\beta$.
 * $S^0$ - the annihilator of $S$
+* **
+* $|A|,\det (A)$ - the determinant of $A$.

@@ -91,7 +91,7 @@
   \end{bmatrix}
   $$
   
-  Its determinant called the **Jacobian** denotes the relative change in volume near a point $p$. If it is positive it preserves orientation. Otherwise, it reverses orientation  
+  Its [[Determinant]] called the **Jacobian** denotes the relative change in volume near a point $p$. If it is positive it preserves orientation. Otherwise, it reverses orientation  
 * The **Hessian Matrix** of a function $f:\mathbb{R^n}\to\mathbb{R}$ whose second order partial derivatives exist, is the square [[Matrix]] $H$ where 
   $$
   H_{ij}=\frac{\partial ^2f}{\partial x_i\partial x_j}

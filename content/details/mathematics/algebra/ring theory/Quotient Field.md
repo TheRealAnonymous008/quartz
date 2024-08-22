@@ -48,6 +48,12 @@
 * (*Fraleigh 21.8*) Every field $L$ containing an integral domain $D$ contains a field of quotients of $D$. 
 * (*Fraleigh 21.9*) Any two fields of quotients of an integral domain $D$ are isomorphic
 
+* (*Fraleigh 25.13*) Let $D$ be an [[Ordered Ring|ordered]] integral domain with $P$ as the set of positive elements. The set
+  $$
+  P' = \{x\in \text{Quot}(D) \mid x=a/b \text{ where } a,b\in D \text{ and } ab\in P \}
+  $$
+  is well defined and gives an order of on $\text{Quot}(D)$ that induces the given order on $D$. Furthermore, $P'$ is the only subset of $\text{Quot}(D)$ with this property.
+ 
 # Localization of a Ring
 * In general a [[Commutative Ring]] that is not an integral domain can be enlarged to a field.
   
