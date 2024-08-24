@@ -57,7 +57,7 @@
 		  
 		  If no such $r$ exists, we can stop as the problem is unbounded.
 
-* The Simplex [[Algorithms|algorithm]] then proceeds as follows
+* The Simplex algorithm then proceeds as follows
 	* Construct a tableau corresponding to a basic feasible solution
 	* Check if the current basic feasible solution is optimal.
 	* Select the entering variable

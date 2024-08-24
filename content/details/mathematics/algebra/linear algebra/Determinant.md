@@ -109,6 +109,30 @@
   $$
   \det(A) = \det(B)
   $$
+  
+* The results above extend to [[Linear Transformation Matrix Isomorphism|linear transformations, which are isomorphic to matrices]]Similarly, (*Friedberg 5.5*) if $\beta$ and $\beta'$ are bases for linear operator $T$, then 
+  $$
+  \det([T]_\beta) = \det([T]_{\beta'})
+  $$
+  We call the above the **determinant** of the linear operator $\det(T)$ defined as 
+  $$
+  \det(T)= \det([T]_\beta)
+  $$
+	* (*Friedberg 5.6*) The following hold for linear operator $T:V\to V$
+		* $T$ is invertible if and only if $\det(T)\ne 0$
+		* If $T$ is invertible, then 
+		  $$
+		  \det(T^{-1})= \frac{1}{\det(T)}
+		  $$
+		* If $U:V\to V$ is linear, then 
+		  $$
+		  \det(TU)=\det(T)\cdot \det(U)
+		  $$
+		* If $\lambda$ is any scalar and $\beta$ any basis for $V$, then 
+		  $$
+		  \det(T-\lambda I_V) = \det(A-\lambda I)
+		  $$
+		  Where $A=[T]_\beta$
 
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]

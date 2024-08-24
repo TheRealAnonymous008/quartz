@@ -12,7 +12,7 @@
 
 * A [[Group Ring]] is not necessarily commutative. In fact if $G$ is not Abelian, then the group ring is not commutative.
 
-* The [[Complex Numbers and Quaternions|Quaternions]] give a noncommutative [[Division Ring and Rings with Unity|division ring]] under addition and multiplication.
+* The [[Complex Numbers and Quaternions|Quaternions]] give a noncommutative [[Division Ring|division ring]] under addition and multiplication.
   
   In fact (*Fraleigh 24.9*) They form a strictly skew field
 # Links

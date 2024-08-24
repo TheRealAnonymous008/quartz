@@ -22,6 +22,11 @@
 	* (*Fraleigh e19.28*) $\{n\cdot 1\mid n\in \mathbb{Z}\}\le D$. Furthermore, this subdomain is contained in every subdomain of $D$.
 	* (*Fraleigh e19.29*) $\text{char}(D) = 0$ or $\text{char}(D)=p$, where $p$ is prime. 
 
+
+* (*Fraleigh 19.11*) Every finite integral domain is a [[field]]
+	* *Proof*: Let $D$ be an integral domain whose elements are $0,1,a_1,\dots, a_n$. 
+	  
+	  All elements in $D$ of the form $a1,aa_1,\dots,aa_n$ are distinct because of the cancellation laws. Also, none of these elements is $0$. Therefore, we can map these to $1,\dots,n$ (i.e., $aa_i=1$ for some $a_i$).
 * Every integral domain is contained in a field called the [[Quotient Field]] of the integral domain
 
 # Links

@@ -1,9 +1,10 @@
-* Assuming it exists, $1$ is the multiplicative identity (also called **unity**). *The multiplicative identity need not exist.*
+* Assuming it exists, $1$ is the multiplicative identity (also called **unity**). *The multiplicative identity need not exist for an arbitrary ring*. If a ring has unity, we refer to it as a ring with unity.
+
 	* The following is immediately true
 	  $$
 	  (m\cdot 1) (n\cdot 1) = (mn) \cdot 1
 	  $$
-	* (*Fraleigh 19.15*) Let $R$ be a ring with unity. If $n\cdot 1 \ne 0$ $\forall n\in \mathbb{Z}^+$ then $\text{char}(R) = 0$. 
+	* (*Fraleigh 19.15*) Let $R$ be a [[Fundamental Constructs of Ring Theory|ring]] with unity. If $n\cdot 1 \ne 0$ $\forall n\in \mathbb{Z}^+$ then $\text{char}(R) = 0$. 
 	  
 	  Otherwise, if $\exists n\in\mathbb{Z}^+$ such that $n\cdot 1 = 0$, then the smallest such $n$ is the characteristic of $R$. 
 		* We may redefine the characteristic as the number of times we need to add the multiplicative identity to get the additive identity.
@@ -12,16 +13,9 @@
   $$
   u\cdot u^{-1} = 1
   $$
-
-* If every nonzero element of $R$ is a unit, then $R$ is a **division [[Fundamental Constructs of Ring Theory|ring]]**. 
-	* If it is commutative, we call it a [[Field]].
-	* Otherwise we call it a **strictly skew field**.
-
 * (*Fraleigh e18.37*) If $U$ is the collection of all units in ring $(R,+,\cdot)$ with unity. Then $(U,\cdot)$ is a [[Fundamental Constructs of Group Theory|group]]. 
 	* The set $G_n$ of nonzero elements of $\mathbb{Z}_n$ that are not $0$ [[Integral Domain|divisors]] forms a group under multiplication modulo $n$.
-
 * (*Fraleigh e18.42*) The multiplicative inverse of a unit is unique.
-* (*Fraleigh e19.23*) A division ring contains exactly two idempotent elements
 
 * (*Fraleigh e19.30*) *Every $R$ can be enlarged to a ring $S$ with unity* having the same characteristic as $R$. We define $S$ as follows. 
   
@@ -44,28 +38,21 @@
 	* $\text{char}(R)=\text{char}(S)$
 	* $\phi:R\to S$ where $\phi(r)=(r,0)$ gives an isomorphism onto a subring of $S$.
 
-* A corollary of (*Fraleigh 19.15*) is that for $n\in \mathbb{Z}^+$ and division ring $R$ such that $\text{char}(R)=0$, then we can talk about inverses of the form $1/n\in\mathbb{Q}$. 
-  
-  We do this as follows define $\tilde{n}\in R$ as the sum of $n$ 1's
-  $$
-  \tilde{n}=1 + \dots + 1
-  $$
-  Now we have for $a\in R$  
-  $$
-  \tilde{n}a = n\cdot a
-  $$
-  And by definition $\tilde{n}$ has an inverse $\tilde{n}^{-1}$ such that
-  $$
-  \tilde{n}\tilde{n}^{-1}a = n\cdot (1/n) \cdot a
-  $$
-  The corresponding number of $1$'s that are needed to get to $\hat{n}^{-1}$ is defined as $1/n$.  
-
-* (*Fraleigh 24.10*) **Wedderburn's Theorem**: Every finite division ring is  a field. 
-  
-  Another way to say this is that there are no finite strictly skew fields.
-
 * (*Fraleigh 26.3*) Let $\phi:R\to R'$ be a [[Ring Homomorphism]]. If $R$ has unity $1$, then $\phi(1)$ is unity for $\phi[R]$.
   
   In other words, rings with unity are still rings with unity under homomorphism.
+
+* (*Fraleigh 27.5*) If $R$ is a ring with unity, and $N$ an [[Ideal]] containing a unit, then $N=R$. 
+
+* (*Fraleigh 27.17*) If $R$ is a ring with unity $1$, then the map $\phi:\mathbb{Z}\to R$ given by
+  $$
+  \phi(n)=n\cdot 1
+  $$
+  for $n\in\mathbb{Z}$ is a homomorphism.
+* (*Fraleigh 27.18*) If $R$ is a ring with unity, then we have two cases:
+  If $\text{char}(R)=n>1$, then $R$ contains a subring isomorphic to $\mathbb{Z}_n$.
+  If $\text{char}(R)=0$, then $R$ contains a subring isomorphic to $\mathbb{Z}$ 
+
+
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

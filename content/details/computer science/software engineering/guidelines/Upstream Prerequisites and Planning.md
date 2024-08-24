@@ -32,10 +32,10 @@
 	* If you are planning a highly iterative project, you will need to *identify the critical requirements and architectural elements* that apply to each piece you’re constructing before you begin construction.
 	* It pays to do things right the first time. *Unnecessary changes are expensive*. Since requirements are done first, requirements defects have the potential to be in the system longer and to be more expensive.
 # Prerequisites
-* **Problem Definition Prerequisite** - a clear statement of the problem that the system is supposed to solve.
+* **Problem Definition Prerequisite** - a [[Ideation|clear statement of the problem]] that the system is supposed to solve.
 	* The problem statement should not reference any solution.
 	* The problem statement should be described from a user's point of view (unless the problem is of a technical nature)
-	* *Defining the wrong problem means wasting time solving the wrong problem*
+	* *[[Conceptual Blocks to Ideation|Defining the wront problem]] means wasting time solving the wrong problem*
 
 * **Requirements Prerequisite** - a statement of what the software system is supposed to do.
 	* Explicit requirements help to ensure that the user rather than the programmer drives the system’s functionality. We don't have to guess what the user wants.

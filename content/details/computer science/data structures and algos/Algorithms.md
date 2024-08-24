@@ -17,35 +17,14 @@
 * Randomized algorithms are typically tied to **Probabilistic Analysis** where we operate on the entire distribution of possible inputs
 	* When dealing with analysis of Randomized algorithms, we typically assume that all possible inputs are equally likely. 
 
-## List Permutation Algorithms
-### Permute By Sorting
-![[Permute by Sorting.png]]
-<figcaption> Permute by Sorting. Image taken from CLRS</figcaption>
-
-
-* (*CLRS Lemma 5.4*) Assuming all priorities $P$ are distinct, then the input is randomly permuted. 
-
-### Fisher-Yates 
-![[Fisher Yates.png]]
-<figcaption> Fisher Yates Algorithm. Image taken from CLRS</figcaption>
-
-* (*CLRS Lemma 5.5*). This algorithm produces a uniform random permutation.
-  
-  This holds because of the following following loop invariant:
-  
-  Just prior to the $i$-th iteration of the loop, for each possible $(i-1)$-permutation of the $n$ elements, $\sigma$ the subarray $A[1,\dots,i-1]$ contains $\sigma$ with probability 
-  
-  $$
-  P(\sigma) = \frac{(n-i+1)!}{n!}
-  $$
-
-
 # List of Topics
 * [[Sorting Algorithms]]
+* [[Shuffling Algorithms]]
 * [[String Algorithms]]
 * [[Greedy Algorithm]]
 * [[Dynamic Programming]]
 * [[Linear Programming]]
+	* [[Simplex Method]]
 * [[Metaheuristics]]
 
 

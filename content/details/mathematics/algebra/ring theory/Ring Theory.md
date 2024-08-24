@@ -13,7 +13,8 @@
 
 
 * [[Integral Domain]]
-* [[Division Ring and Rings with Unity]]
+* [[Ring with Unity]]
+* [[Division Ring]]
 * [[Quotient Field]]
 * [[Field]]
 

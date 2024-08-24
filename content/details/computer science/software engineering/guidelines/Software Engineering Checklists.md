@@ -161,7 +161,7 @@
 * Have debugging aids been installed in such a way that they can be activated or deactivated without a great deal of fuss?
 * Is the amount of [[Defensive Programming]] code appropriate—neither too much nor too little?
 * Have you used offensive-programming techniques to make errors difficult to overlook during development?
-## Exceptions
+### Exceptions
 * Has your project defined a standardized approach to exception handling?
 * Have you considered alternatives to using an exception?
 * Is the error handled locally rather than throwing a nonlocal exception, if possible?
@@ -169,12 +169,30 @@
 * Are all exceptions at the appropriate levels of abstraction for the routines that throw them?
 * Does each exception include all relevant exception background information?
 * Is the code free of empty catch blocks? (Or if an empty catch block truly is appropriate, is it documented?)
-## Security 
+### Security 
 * Does the code that checks for bad input data check for attempted buffer overflows, SQL injection, HTML injection, integer overflows, and other malicious inputs?
 * Are all error-return codes checked?
 * Are all exceptions caught?
 * Do error messages avoid providing information that would help an attacker break into the system?
 
+
+## Pseudocode
+* Have you checked that the prerequisites have been satisfied?
+* Have you defined the problem that the class will solve?
+* Is the high-level design clear enough to give the class and each of its routines a good name?\
+* Have you thought about how to test the class and each of its routines?
+* Have you thought about efficiency mainly in terms of stable interfaces and readable implementations or mainly in terms of meeting resource and speed budgets?
+* Have you checked the standard libraries and other code libraries for applicable routines or components?
+* Have you checked reference books for helpful algorithms?
+* Have you designed each routine by using detailed pseudocode?
+* Have you mentally checked the pseudocode? Is it easy to understand?
+* Have you paid attention to warnings that would send you back to design (use of global data, operations that seem better suited to another class or another routine, and so on)?
+* Did you translate the pseudocode to code accurately?
+* Did you apply the pseudocode process recursively, breaking routines into smaller routines when needed?
+* Did you document assumptions as you made them?
+* Did you remove comments that turned out to be redundant?
+* Have you chosen the best of several iterations, rather than merely stopping after your first iteration?
+* Do you thoroughly understand your code? Is it easy to understand?
 # Links
 * [[Code Complete by McConnell]] - primary source
 * [[Software Construction]]

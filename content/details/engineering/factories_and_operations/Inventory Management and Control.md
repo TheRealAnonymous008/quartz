@@ -108,7 +108,7 @@ $$
   
   This leads to the **Wagner-Whitin property** -- under an optimal lot-sizing policy either the inventory carried to period $t+1$ from a previous period will be zero or the production quantity in period $t+1$ will be zero. 
 
-* The **Wagner-Whitin algorithm** iterates through time, and proceeds as follows. It is a [[Algorithms|dynamic programming algorithm]]:
+* The **Wagner-Whitin algorithm** iterates through time, and proceeds as follows. It is a [[Dynamic Programming|dynamic programming algorithm]]:
   
   Let
   $$

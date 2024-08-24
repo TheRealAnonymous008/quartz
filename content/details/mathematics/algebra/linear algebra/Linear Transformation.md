@@ -17,6 +17,8 @@
   
   The **zero transformation** is defined as $T_0 : V\to W$ by $T_0(x)=0$ $\forall x\in V$ 
 
+* A **linear operator** is of the form $T:V\to V$, that is, it is an endomorphism.
+
 * (*Friedberg 2.7*) *The space of linear transformations form a vector space*. More formally, let $T,U:V\to W$ be arbitrary functions and $a\in F$. 
   
   Define $(T+U)(x)=T(x) +U(x)$ and $(aT)(x) = aT(x)$. 
@@ -26,6 +28,7 @@
 # Topics
 * [[Dimension Theorem]]
 * [[Linear Transformation Matrix Isomorphism]]
+* [[Matrix Diagonalization]]
 
 # Misc
 * Let $V$ be a vector space and $W_1\le V$. A function $T:V\to V$ is called a **projection** on $W_1$ if

@@ -60,7 +60,7 @@
   Let $R$ be a nonzero commutative ring and $T\subseteq R$ be a non-empty subset of $R$ closed under multiplication and containing neither $0$ nor divisors of $0$. 
   
   Using the same enlargement for the quotient field of an integral domain, we can enlarge $R$ to a partial ring of quotients $Q(R,T)$.  
-	* (*Fraleigh e21.12a*) $Q(R,T)$ has [[Division Ring and Rings with Unity|unity]] even if $R$ does not.
+	* (*Fraleigh e21.12a*) $Q(R,T)$ has [[Ring with Unity|unity]] even if $R$ does not.
 	* (*Fraleigh e21.12b*) In $Q(R,T)$, every nonzero element of $T$ is a unit.
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]] 

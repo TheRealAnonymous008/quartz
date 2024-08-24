@@ -51,13 +51,24 @@
   $$
   Denote $A\sim B$
 	* (*Friedberg e2.5.9*) If $A\sim B$ then $\text{tr}(A)=\text{tr}(B)$
-
+	* (*Friedberg 5.1*) Let $A\in M_{n\times n}(F)$ and $\gamma$ be any ordered basis for $F^n$. Then 
+	  $$
+	  [L_A]_\gamma =Q^{-1}AQ
+	  $$
+	  Where $Q\in M_{n\times n}(F)$ is the $n\times n$ matrix whose columns are the entries in $\gamma$ (i.e., it is the change of coordinate matrix)
+	  
+	  Conversely, (*Friedberg 5.2*) For $T:V\to V$, where $\dim(V)=n$ and $\beta$ is the ordered basis for $V$. If $B\in M_{n\times n}(F)$  is defined such that $B\sim[T]_\beta$, then there exists a basis $\beta'$ for $V$ such that
+	  $$
+	  B=[T]_{\beta'}
+	  $$
+	* (*Friedberg e5.1.19*) Let $A,B\in M_{n\times n}$ such that $A\sim B$. There exists an $n$-dimensional vector space $V$, a linear operator $T$ of $V$ and bases $\beta,\gamma$ of $V$ such that $A=[T]_\beta$ and $B=[T]_\gamma$.
 
 * (*Friedberg e2.5.12*) Let $V$ be a finite-dimensional vector space over a field $F$ and $\{x_1,\dots,x_n\}$ be an ordered basis for $V$. Let $Q\in M_{n\times n}(F)$ be an invertible matrix with entries from $F$. Define
   $$
   x_j' = \sum_{i=1}^n Q_{ij}x_j
   $$
   And set $\beta'=\{x_1',\dots,x_n'\}$. $\beta'$ is a basis for $V$ and $Q$ is the change of coordinate matrix changing $\beta'$-coordinates into $\beta$ coordinates
+
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]
 * [[Linear Transformation Matrix Isomorphism]]

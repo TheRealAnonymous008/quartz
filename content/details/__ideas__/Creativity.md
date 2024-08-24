@@ -25,6 +25,7 @@
 * *Inspiration comes from everywhere else*. Which is to say, we may imitate others but we cannot imitate inspiration. Inspiration comes from one's own perspective and how one applies that perspective to their art.  [^12]
 	* Brainstorming tips are given [[Lenses for the Process#The Game Begins with an Idea|here]]. 
 	* Tips for organizing ideas are given [[Organizing Ideas|here]].
+	* Ideation tips are [[Ideation|here]].
 * *Use multiple layers of meaning* -- that is, touch on many dimensions of life. 
 * [[The Timeless Way of Building|At our core, we want to be able to make our own living worlds]].  Yet, the beautiful [[The Nameless Quality|arises when we let nature takes its course than be heavy-handed in our design]].
 # The Process

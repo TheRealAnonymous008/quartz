@@ -18,11 +18,7 @@
 	* Understand the nature of the problem itself and the users affected.
 	* Use **Applied Ethnography**. Observe target users in their natural environment, wherever the product or service being designed will actually be used.
 	* The goal is to *determine human needs that can be addressed with new products*. 
-* **Ideation**
-	* Generate potential solutions. Following three rules:
-		* **Generate Numerous Ideas**. Do not fixate on one idea.
-		* **Be Creative without regard for constraints**.  Even crazy ideas can give creative insights. Do not prematurely dismiss ideas.
-		* **Question Everything**. Ask stupid questions that question the assumptions of what is obvious.
+* **[[Ideation]]**
 * **Prototyping**
 	* Quickly build a prototype or mock up solution for testing.
 	* Settle for low fidelity prompts so that we don't have to commit too much to producing them.

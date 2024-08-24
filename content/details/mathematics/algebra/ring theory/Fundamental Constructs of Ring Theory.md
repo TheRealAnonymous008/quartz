@@ -28,13 +28,6 @@
 	* (*Fraleigh e18.49a*) The intersection of subrings of a ring $R$ is again a subring of $R$
 
 * An element $a$ of a ring $R$ is **idempotent** if $a^2=a$.
-* An element $a$ of a ring $R$ is **nilpotent** if $a^n=0$ for some $n\in \mathbb{Z}^+$
-	* (*Fraleigh e18.47*) A ring has no non-zero nilpotent element if and only if $0$ is the only solution to $x^2=0$ in $R$.
-	  
-	  Trivially, it is easy to see the case where the $x^2=0$ for some $x\ne 0$ gives a non-zero nilpotent element.
-	  
-	  For the converse, suppose $x^2\ne 0$, but $x^p=0$. Then we can consider $x^2,x^4,\dots, x^{2^{\lg p}}\ne 0$,    
-
 * A ring $R$ is a **[[Boolean Algebra|Boolean]] Ring** if every element is idempotent.
 
 

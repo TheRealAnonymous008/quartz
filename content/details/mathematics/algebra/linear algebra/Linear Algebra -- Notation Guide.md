@@ -50,3 +50,4 @@
 * $S^0$ - the annihilator of $S$
 * **
 * $|A|,\det (A)$ - the determinant of $A$.
+* $\lambda$ - generic eigenvalue of $A$ or  $T$.

@@ -4,7 +4,7 @@
   $$
   $\forall g\in G$. We denote this with $N\unlhd G$.
 
-* A group is **simple** if it is nontrivial and has no proper nontrivial normal [[Subgroup|subgroups]]. 
+* A group is a **simple group** if it is nontrivial and has no proper nontrivial normal [[Subgroup|subgroups]]. 
 	* That is, it does not have a factor group that is not the trivial subgroup or the group itself.
 
 * (*Fraleigh 14.13*) The following are equivalent conditions for $H\le G$ to be normal. $\forall g \in G$ and $\forall h\in H$, the following holds

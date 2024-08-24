@@ -12,7 +12,7 @@
 * If $F$ is a field, we call  $FG$ as the **group algebra** of $G$ over $F$.
 
 
-* (*Fraleigh 24.4*) If $G$ is any group written multiplicatively and $R$ is a [[Commutative Ring]] with nonzero [[Division Ring and Rings with Unity|unity]] then $(RG,+,\cdot)$ is a ring.
+* (*Fraleigh 24.4*) If $G$ is any group written multiplicatively and $R$ is a [[Commutative Ring]] with nonzero [[Ring with Unity|unity]] then $(RG,+,\cdot)$ is a ring.
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

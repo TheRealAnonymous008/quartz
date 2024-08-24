@@ -16,8 +16,9 @@
 	* (*Fraleigh 26.5*) If $H=\text{Ker}(\phi)$ and $a\in R$, then $\phi^{-1}[\phi(a)]=a+H=H+a$ where $a+H$ is the [[Cosets, Group Indices|Coset]] containing $a$ of the commutative additive group $(H,+)$
 
 	* (*Fraleigh 26.6*) $\phi$ is one-to-one if and only if $\text{Ker}(\phi) = \{0\}$
+	* (*Fraleigh e26.21*) If $\phi:R\to R'$ be a ring homomorphism such that $\phi(R)\ne \{0'\}$, If $R$ has unity $1$ and $R'$ has no $0$ divisors, then $\phi(1)$ is unity for $R'$ 
 
-* (*Fraleigh 26.7*) Let $\phi:R\to R'$ be a [[ring homomorphism]] with $H=\text{Ker}(\phi)$. Then the additive [[Cosets, Group Indices|coset]] of $H$ form a ring $R/H$ whose binary operations are defined by choosing representatives. That is
+* (*Fraleigh 26.7*) Let $\phi:R\to R'$ be a [[ring homomorphism]] with $H=\text{Ker}(\phi)$. Then the additive [[Cosets, Group Indices|cosets]] of $H$ form a ring $R/H$ whose binary operations are defined by choosing representatives. That is
   $$
   \begin{split}
   (a+H) + (b+H) &= (a+b) + H \\
@@ -63,6 +64,7 @@
   $$
   is the **projection homomorphism**
 
+* The **Frobenius homomorphism** is a map $\phi_p:R\to R$ for a [[Commutative Ring]] with [[Ring with Unity|unity]] $R$ where $\text{char}(R)=p$ for prime $p$. It is defined as $\phi_p(a)=a^p$ 
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

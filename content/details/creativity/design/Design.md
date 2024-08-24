@@ -5,7 +5,7 @@
 * Design is about tradeoffs, priorities, and restrictions. 
 * The design space is so big and multiple designs may be valid. Design decisions are thus often [[Metaheuristics|heuristics]]. 
 
-* *One of the most effective guidelines is to not get stuck on a single approach.* 
+* *One of the most effective guidelines is to not get stuck on a single approach.* ( see more [[Conceptual Blockbusters|here]])
 	* The more dogmatic you are about applying a design method, the fewer real-life problems you are going to solve
 * You don’t have to solve the whole design problem at once. Don't be afraid to put off resolving issues when you don't have enough information. 
 

@@ -7,6 +7,7 @@
 * Thinking of software-development practices as tools in an intellectual toolbox suggests further that every programmer has many tools and that no single tool is right for every job. *Choosing the right tool for each problem is one key to being an effective programmer.*
 
 * If the anticipated performance gain doesn’t justify the bother of profiling the code to verify the improvement, it doesn’t justify the erosion in code quality either.
+* *Don’t waste time scraping for incremental improvements until you know they’re needed.*
 # Topics
 * [[Upstream Prerequisites and Planning]]
 * [[Software Design]]

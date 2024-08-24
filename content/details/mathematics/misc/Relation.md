@@ -57,6 +57,9 @@
 	* The composition of two injections is an injection
 	* The composition of two surjections is a surjection
 	* The composition of two bijections is a bijection.
+
+* If $A\subseteq B$, then $f(A)\subseteq f(B)$.
+	* *Proof:* Take  $x\in f(A)$. Then $\exists a\in A$ such that $f(a)=x$ But also $a\in B$ since $A\subseteq B$. Therefore $f(a)\in f(B)$ as well.
 # Theorems
 * (**Schroeder-Bernstein Theorem**) Let $X$ and $Y$ be sets. If there exists injective mappings $f:X\to Y$ and $g:Y\to X$, then there exists a bijective mapping $h:X\to Y$. 
   

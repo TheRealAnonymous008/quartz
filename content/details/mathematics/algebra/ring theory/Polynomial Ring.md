@@ -28,7 +28,7 @@
   Where $d_n = \sum_{i=0}^n a_i b_{n-i}$ 
 * More generally, if we have indeterminates $x_1,\dots,x_n$, we denote the polynomial ring in these indeterminates as $R[x_1,\dots,x_n]$.
 
-* (*Fraleigh 22.2*) $R[x]$ is a ring under polynomial addition and multiplication. If $R$ is [[Commutative Ring|commutative]] then so it $R[x]$. If $R$ has a [[Division Ring and Rings with Unity|unity]] $1\ne 0$, then $1$ is also the unity in ring $R[x]$. 
+* (*Fraleigh 22.2*) $R[x]$ is a ring under polynomial addition and multiplication. If $R$ is [[Commutative Ring|commutative]] then so it $R[x]$. If $R$ has a [[Ring with Unity|unity]] $1\ne 0$, then $1$ is also the unity in ring $R[x]$. 
 * (*Fraleigh e22.24* ) If $D$ is an [[Integral Domain]] then so is $D[x]$
 
 
@@ -53,6 +53,21 @@
 
 [^eval_hom]: This theorem holds for commutative rings as well. 
 
+
+* (*Fraleigh e26.23*) Let $F$ be a field and let $S\subseteq F^n$. The set 
+  $$
+  N_S = \{f(x_1,\dots,x_n) \in F[x_1,\dots,x_n] \mid (a_1,\dots,a_nn)\in S \text{ is a zero }\}
+  $$
+  is an [[Ideal]] in  $F[x_1,\dots,x_n]$
+
+
+* (*Fraleigh 27.24*) If $F$ is a field, every [[Ideal]] in $F[x]$ is principal
+* (*Fraleigh 27.25*) An ideal $\braket{p(x)}\ne 0$ of $F[x]$ is maximal if and only if $p(x)$ is irreducible over $F$.
+	* *Intuition*: In the forward direction, if the ideal is maximal, it is also prime (since $F[x]$ is a commutative ring with unity).  Any factorization of $p(x)$ must have factors that are multiples of $p(x)$ which cannot be. 
+	  
+	  In the reverse direction, if we consider the principal ideal of $p(x)$, any hypothetical ideal containing it must also be a principal ideal. This implies $p(x)$ is some multiple of $q(x)$ but this is impossible because it is irreducible.
+	  
+
 # Factorization
 * (*Fraleigh 23.1*) **Division Algorithm** Let $f(x), g(x)\in F[x]$ with $a_n,b_m\ne 0$ for $f(x)=a_0+\dots + a_nx^n$ and $g(x)=b_0 + \dots + b_mx^m$ and $m>0$. Then there are unique polynomials $q(x)$ and $r(x)$ such that
   $$
@@ -70,7 +85,7 @@
 	* A polynomial can be irreducible in field $F$ but reducible in a larger field $G\ge F$. 
 * (*Fraleigh 23.10*) $f(x)$ is reducible over $F$ if and only if it has a zero in $F$.
 
-* (*Frraleigh 23.18*) Let $p(x)$ be an irreducible polynomial in $F[x]$. If $p(x)$ divides $r(x)s(x)$ for $r(x),s(x)\in F[x]$ then either $p(x)$ divides $r(x)$ or $p(x)$ divides $s(x)$
+* (*Frraleigh 23.18, Fraleigh 27.27*) Let $p(x)$ be an irreducible polynomial in $F[x]$. If $p(x)$ divides $r(x)s(x)$ for $r(x),s(x)\in F[x]$ then either $p(x)$ divides $r(x)$ or $p(x)$ divides $s(x)$
 
 * (*Fraleigh 23.19*) If $p(x)$ is irreducible in $F[x]$ and $p(x)$ divides the product $r_1(x)\dots r_n(x)$ for $r_i(x)\in F[x]$ then $p(x)$ divides $r_i(x)$ for at least one $i$
 
@@ -89,6 +104,8 @@
   $$
   \Phi_p(x) = \frac{x^p-1}{x-1}=x^{p-1} + x^{p-2}+\dots +x +1
   $$
+
+
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]
 * [Abstract Algebra Eisenstein's Criterion by Michael Penn](https://www.youtube.com/watch?v=WEFM0favZv0&t=965s)

@@ -189,6 +189,33 @@
 	* *Almost every macro demonstrates a flaw in the programming language, in the program, or in the programmer*
 
 * Use inline routines (code treated as a routine at code writing time)
+
+## Pseudocode
+* Some guidelines for using pseudocode effectively
+	* Use English-like statements that precisely describe specific operations.
+	* Avoid syntactic elements from the target programming language. Design at a higher level than code.
+	* Write pseudocode at the level of intent. Describe the meaning of the approach rather than how the approach will be implemented in the target language.
+	* Write pseudocode at a low enough level that generating code from it will be nearly automatic
+
+* Pseudocode turns into comments when writing code. It's documentation for free.
+	* It also allows for iterative refinement. When writing code is easier than the pseudocode, we'd have known exactly what to do.
+	* Pseudocode is easier to maintain than other forms of design documentation
+
+* Consider the following guidelines before designing the pseudocode of a routine
+	* Check prerequisites of the routine -- is it called for by the project's requirements.
+	* Define the problem the routine will solve.
+		* What will the routine hide.
+		* What are the routine's inputs and outputs.
+		* What are the preconditions and postconditions.
+	* Use a good name.
+	* Decide how to test the routine
+	* Research functionality from standard libraries. 
+	* Think about error handling (see [[Defensive Programming]]).
+	* Think about efficiency especially for performance-critical systems.
+	* Research [[Data Structures]] and [[Algorithms]] for implementation.
+	* If data manipulation is a prominent part of the routine, it’s worthwhile to think about the major pieces of data before you think about the routine’s logic.
+
+* *Get out of the practice of hacking something together and seeing if it works by compiling it*.
 # Links
-* [[Code Complete by McConnell]] - Ch. 6 ,7
+* [[Code Complete by McConnell]] - Ch. 6 ,7, 9
 * [[Clean Code Principles]] - additional guidelines on writing code are presented.
