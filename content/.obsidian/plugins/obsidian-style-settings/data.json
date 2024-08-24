@@ -1,0 +1,12 @@
+{
+  "minimal-style@@italic-color@@dark": "#0FE7CF",
+  "minimal-style@@bold-color@@dark": "#CB3B25",
+  "minimal-style@@h1-size": "1.5em",
+  "minimal-style@@h2-size": "1.25em",
+  "minimal-style@@h3-size": "1.15em",
+  "minimal-style@@h2-color@@dark": "#F17A14",
+  "minimal-style@@h3-color@@dark": "#FFD401",
+  "minimal-style@@h4-color@@dark": "#1BC21F",
+  "minimal-style@@titlebar-text-weight": 600,
+  "minimal-style@@inline-title-size": "2em"
+}

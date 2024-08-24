@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1724147683222,
+      "path": "__meta/Exploration Logs.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1718508397159,
+      "path": "__meta/The Antilibrary.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1716782606651,
+      "path": "__meta/Orphanage.md",
+      "title": "Orphanage"
+    },
+    {
+      "type": "file",
+      "ctime": 1721957452835,
+      "path": "details/__ideas__/Unfiled Thoughts.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1721957459310,
+      "path": "details/__ideas__/Trivia.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1722864504855,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1722864526125,
+          "path": "details/humanities/religion/Tarot Cards.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722864580392,
+          "path": "details/psychology/Human Biases.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1723764647932,
+          "path": "details/computer science/theory of computation/Compiler Theory.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1724279330907,
+          "path": "details/mathematics/probability and statistics/Measure Theory.md"
+        }
+      ],
+      "title": "Continuation"
+    }
+  ]
+}
