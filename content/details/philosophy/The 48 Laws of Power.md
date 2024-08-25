@@ -417,3 +417,4 @@
 
 * [[Persuasion]] - these techniques are crucial for power.
 * [[Doublespeak]]
+* [[Problem Solving Strategies]] - additional strategies which may be applied to the game of power.

@@ -4,50 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "461d5ac58644b57a",
+        "id": "2cbce66b0a6a2a83",
         "type": "tabs",
         "children": [
           {
-            "id": "1a4a9642d74773a3",
+            "id": "976dcd96bfc90408",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/mathematics/algebra/ring theory/Field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1c0b8e2c221a989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/mathematics/algebra/ring theory/Ring Homomorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "461f372206a3f368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/mathematics/algebra/ring theory/Ring with Unity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "162b73e589b4e71b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -97,12 +61,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -118,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "details/mathematics/algebra/ring theory/Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "details/mathematics/algebra/ring theory/Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "details/mathematics/algebra/ring theory/Field.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,19 +149,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a4a9642d74773a3",
+  "active": "976dcd96bfc90408",
   "lastOpenFiles": [
-    "details/mathematics/algebra/ring theory/Integral Domain.md",
+    "zshortdump/Problem Solving Strategies.md",
+    "__books/Strategy Notebook by Interaction Associated.md",
+    "details/arts/Pixel Art.md",
+    "details/philosophy/The 48 Laws of Power.md",
+    "__meta/Orphanage.md",
+    "details/creativity/Conceptual Blockbusters.md",
+    "details/creativity/Ideation.md",
+    "details/mathematics/algebra/ring theory/Prime Field.md",
+    "details/mathematics/algebra/ring theory/Ring with Unity.md",
+    "details/mathematics/algebra/ring theory/Ring Homomorphism.md",
     "details/mathematics/algebra/ring theory/Field.md",
+    "details/mathematics/algebra/ring theory/Integral Domain.md",
     "details/mathematics/algebra/ring theory/Quotient Field.md",
     "details/mathematics/algebra/ring theory/Factor Ring.md",
     "details/mathematics/algebra/ring theory/Ideal.md",
-    "details/mathematics/algebra/ring theory/Ring with Unity.md",
-    "details/mathematics/algebra/ring theory/Ring Homomorphism.md",
     "details/mathematics/algebra/ring theory/Polynomial Ring.md",
     "details/mathematics/algebra/group theory/Alternating Group.md",
     "details/mathematics/algebra/group theory/Normal Group.md",
-    "zshortdump/Prime Field.md",
     "details/mathematics/algebra/ring theory/Ring Theory -- Notation Guide.md",
     "zshortdump/Differential Equation.md",
     "zshortdump/Behavioral Economics.md",
@@ -210,13 +177,6 @@
     "details/mathematics/algebra/ring theory/Non-Commutative Ring.md",
     "details/mathematics/algebra/ring theory/Group Ring.md",
     "details/mathematics/algebra/group theory/Cosets, Group Indices.md",
-    "details/mathematics/algebra/group theory/Factor Group.md",
-    "details/mathematics/misc/Relation.md",
-    "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
-    "details/mathematics/algebra/linear algebra/Determinant.md",
-    "details/mathematics/algebra/linear algebra/Matrix Diagonalization.md",
-    "details/mathematics/algebra/linear algebra/Vector Coordinate System.md",
-    "details/mathematics/algebra/linear algebra/Linear Transformation.md",
     "details/computer science/software engineering/guidelines",
     "details/mathematics/probability and statistics/Untitled",
     "details/mathematics/probability and statistics/measure theory",

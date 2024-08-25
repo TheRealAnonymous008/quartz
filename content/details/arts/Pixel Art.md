@@ -63,6 +63,12 @@
 * Typically apply AA on staircases that are more than 1x1 long
 	* The amount of AA is proportional to the length of the step in the staircase
 	* Too much AA, however, makes the image too blurry.
+
+# Dithering
+* Dithering is used to blend two colors together
+* The greater the contrast between the colors being blended, the more dithering steps needed and the greater the resolution required.
+* Whenever using dithering to give a more painterly effect and "blend" the edges of  "brush strokes," use it sparingly—otherwise the forms will be blended away entirely
+
 # Links
 * [Aseprite](https://github.com/aseprite/aseprite) - pixel art tool. Can be bought or built from source 
 
