@@ -34,13 +34,8 @@
   Another way to interpret this
   
   Let $\gcd(a,m)=d$. The congruence $ax\equiv b \ (\text{mod } m)$ has a solution if and only if $d \ \mid \ b$. When this is the case, the solutions are the integers in exactly $d$ distinct residue classes modulo $m$.   
-# Notation
-* $p,q$ - generic primes
-* $\mathbb{Z}$ - the set of integers
-* $\mathbb{Z}_n$ - the set of integers modulo $n$
-* $a \ \mid b$ - $a$ divides $b$
-* $a\perp b$ - $a$ is coprime with $b$
-* $\phi(n)$ - Euler's totient function
 
+# Topics
+* [[Number Theory -- Notation Guide]]
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]] - some theorems in Number Theory can be studied using Abstract Algebra

@@ -60,6 +60,7 @@
 # Topics
 * [[Hacking]]
 * [[Defensive Programming]] - when programs fail, make sure they fail gracefully.
+* [[Cryptography]]
 
 # Links
 * [[Database]]

@@ -16,5 +16,6 @@
 * (*Fraleigh 27.15*) Let $R$ be a [[Commutative Ring]] with [[Ring with Unity|unity]] and let $N\ne R$ be an ideal in $R$. Then $R/N$ is an [[Integral Domain]] if and only if $N$ is a prime ideal in $R$.
 
 * A **simple ring** is a ring that is nontrivial and contains no proper nontrivial ideals
+	* (*Fraleigh e27.29*) $N$ is a maximal ideal in $R$ if and only if $R/N$ is a simple ring.
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

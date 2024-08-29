@@ -51,3 +51,5 @@
 * **
 * $|A|,\det (A)$ - the determinant of $A$.
 * $\lambda$ - generic eigenvalue of $A$ or  $T$.
+* $f(t)$ - generic characteristic polynomial
+* $E_\lambda$ - eigenspace corresponding to $\lambda$

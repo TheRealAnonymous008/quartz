@@ -232,19 +232,104 @@
 
 # Physical Manipulation
 ## Play
+* Allows free exploration of a situation without conscious intention. 
+* *Strength*: Reduces the importance of success when taking action or making change. Removes fixations and allows one to be more flexible
+* *Weakness*: Less guarantee of success when it comes to finding a solution. Unstructured and unconnected. Can become an excuse for lack of concentration and effort.
+
 ## Manipulate
+* Structure and restructure compositions
+* *Strength*: Test different structural and functional relationships. If the components manipulated are independent, then they can be tested without damaging the whole structure
+* *Weakness*: Structural changes may not be enough to solve the problem. Sometimes new elements are necessary. Success of manipulation is dependent on the limitations you set for yourself. 
 ## Copy
+* Reproduce something as accurately as possible. 
+* *Strength*: No safety or personal bias intrudes. It lengthens the lifetime of the original. It removes risk and adds security.
+* *Weakness*: Rigid and produces nothing new. Can be seen as an excuse to not think.
+ 
 ## Interpret
+* Transform an original concept or composition into your own terms.
+* *Strength*: When you have interpreted something, you have assimilated it and added something of yourself. It forces understanding and personalization. 
+* *Weakness*: High bias. Can mislead people. Requires being clear with intent.
+
 ## Transform
+* Change composition or structure. 
+* *Strength*: Can make an unacceptable solution into an effective one.
+* *Weakness*: Many structural transformations are irreversible. It may require making copies first. In some cases, restructuring may also be a waste of time -- essentially trying to fix what is unworkable
+
 ## Translate
+* Express a concept or idea in slightly different terms.
+* *Strength*: Changes perspective or point of view with respect to a problem. Makes information more accessible and compatible with certain changes.
+* *Weakness*: It may affect the way the concept is received by someone else. Can be misleading or hide similarities between translations.
+
 ## Expand
+* Enlarge or add detail for some purpose. Explore an idea in greater detail.
+* *Strength*: Develops a basic structure which can be further elaborated. Good for development and testing. 
+* *Weakness*: Dependent on the foundations upon which expansion is taking place. Expanding a rotten foundation is a waste of time. Does not examine the structure of a solution itself. 
+
 ## Reduce
+* Contract and simplify a solution to basic concepts.
+* *Strength*: Allows us to focus on the essentials. Can provide a different, more objective perspective. Good for memorization and recall.
+* *Weakness*: Loss or mutation of information. Risks oversimplification. Requires prudence in knowing what to reduce. Risks fixation on a simple solution and thus requires willingness to complexify the solution
+
 ## Exaggerate
+* To push a situation to its limits
+* *Strength*: Good testing strategy since it pushes the solution to its limit. Useful for emphasis in humor or communication. Also good for learning -- exaggerate the correct approach
+* *Weakness*: Can lead to misunderstanding. Can lead to disbelief if used too much. Destructive if applied to a delicate situation. Can distort perspective
+
 ## Understate
+* De-emphasize and restrain.
+* *Strength*: De-emphasizing can still be impactful (and thus still good for emphasis). Good for learning by understating incorrect approaches. Good for testing as well.
+* *Weakness*: Pushes a state to the extreme. Leads to deception, misunderstanding, overemphasis and triteness. Can be destructive. Can distort perspective.
+
 ## Adapt
+* Changes what we have to something that can meet a new problem. The trick is to break fixation and see the problem from a new angle.
+* *Strength*: Leads to Ingenious, effortless and novel solutions to a problem. 
+* *Weakness*: We may find ourselves forcing something to work than looking for something that could do the job much more simply.
+
 ## Substitute
+* Substitute one solution for one with higher potential, often by replacing an element within a structure.
+* *Strength*: Totally escapes the limitations of one alternative and replaces it with another.
+* *Weakness*: Can take a lot of time and energy to the point it is better to be adaptive. If used too early, it may also substitute a solution that has yet to bear fruit.
+
 ## Combine
+* Bring things together in close relationship
+* *Strength*: Makes a more complete and stronger whole out of separate parts. Can save time by combining two tasks to one. Combining two things also helps test how they behave when put together. Can simplify by combining ideas or concepts.
+* *Weakness*: The constituents being combined may not be synergistic. Must weigh the loss of importance of combined elements against the value of the combination of the whole.
+
 ## Separate
+* Pull things apart.
+* *Strength*: Simplifies. Inhibits certain reactions and destructive interactions. Separation from context helps in identification and analysis.
+* *Weakness*: Often the qualities of the synthesized whole are lost when it is decomposed. Can be destructive because it keeps things from interacting. Requires prudence in choosing how to decompose the whole since there are many ways to do it (some not beneficial)
+
+# Meta-Heuristics
+## Change
+* Try a new strategy or a new approach. 
+* *Strength*: Probably the most important strategy. It gives a fresh perspective and combats fixation.
+* *Weakness*: Change can be disruptive and may be done prematurely which prevents a solution from bearing fruit. Requires setting a transition period 
+
+## Vary
+* Involves only small changes or alterations in strategy
+* *Strength*: Can give great reward with little effort. Gives continuity to a trial and error process. Makes use of pre-existing structures, saving time and effort.
+* *Weakness*: The validity of varying as a strategy depends on the structure that is being manipulated. Very focused and short sighted. Dependent on what is being used to guide variation.
+
+## Cycle
+* Move between several different strategies or processes.
+* *Strength*: Allows us to effectively carry out different activities simultaneously (i.e. via [[Multiprogramming|context switching]]). Prevents us from being trapped on one sub-problem or from working on one aspect of a problem in more detail than others
+* *Weakness*: The downsides of context switching is that it may allocate more time to context switching than doing work. Many processes require warm up to become effective. It may be better to repeat a given approach several times before jumping on to another approach.
+
+## Repeat
+* Try the same process or strategy another time.
+* *Strength*: Good for learning, emphasis, and reinforcement. May give the greatest gains with the least efforts.
+* *Weakness*: Needless repetition is one of the great enemies of creativity. Has diminishing returns. Reliant on external change for its success. 
+
+## Systemize
+* Externalize the decision making process and to develop a set of rules or procedures for governing actions. The strategy behind establishing habits.
+* *Strength*: Less cognitive load and so the process is much quicker.  Good if there are recurring elements in certain kinds of problems, in which case it simplifies solving these  problems.
+* *Weakness*: Most open problems do not lend themselves well to systematization. Establishing a system tends to be inflexible. Easy to be complacent by systemizing. 
+
+## Randomize
+* Removes all order or structure and simulates randomness. 
+* *Strength*: Often a good remedy to overly rational thinking. Helps remove bias and fixations.
+* *Weakness*: Conscious randomization is difficult is not sustainable. Risky.
 
 # Links
 * [[Strategy Notebook by Interaction Associated]] -- Primary source

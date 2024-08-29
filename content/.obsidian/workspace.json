@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2cbce66b0a6a2a83",
+        "id": "d55d623e53f1e7db",
         "type": "tabs",
         "children": [
           {
-            "id": "976dcd96bfc90408",
+            "id": "a4fa25eafe5b6e19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zshortdump/Sorting Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "27.15",
+                "query": "\"27.24",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zshortdump/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zshortdump/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zshortdump/Sorting Algorithms.md"
+              }
             }
           },
           {
@@ -149,34 +156,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "976dcd96bfc90408",
+  "active": "a4fa25eafe5b6e19",
   "lastOpenFiles": [
-    "zshortdump/Problem Solving Strategies.md",
-    "__books/Strategy Notebook by Interaction Associated.md",
-    "details/arts/Pixel Art.md",
-    "details/philosophy/The 48 Laws of Power.md",
-    "__meta/Orphanage.md",
-    "details/creativity/Conceptual Blockbusters.md",
-    "details/creativity/Ideation.md",
-    "details/mathematics/algebra/ring theory/Prime Field.md",
-    "details/mathematics/algebra/ring theory/Ring with Unity.md",
-    "details/mathematics/algebra/ring theory/Ring Homomorphism.md",
-    "details/mathematics/algebra/ring theory/Field.md",
-    "details/mathematics/algebra/ring theory/Integral Domain.md",
-    "details/mathematics/algebra/ring theory/Quotient Field.md",
-    "details/mathematics/algebra/ring theory/Factor Ring.md",
-    "details/mathematics/algebra/ring theory/Ideal.md",
-    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
-    "details/mathematics/algebra/group theory/Alternating Group.md",
-    "details/mathematics/algebra/group theory/Normal Group.md",
+    "details/mathematics/calculus/Differential Equation.md",
+    "zshortdump/Acoustics.md",
+    "zshortdump/MARL Research.md",
+    "index.md",
     "details/mathematics/algebra/ring theory/Ring Theory -- Notation Guide.md",
-    "zshortdump/Differential Equation.md",
-    "zshortdump/Behavioral Economics.md",
-    "details/mathematics/algebra/ring theory/Division Ring.md",
+    "details/mathematics/algebra/ring theory/Groebner Basis.md",
+    "details/mathematics/algebra/ring theory/Factorization of Polynomials.md",
+    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
+    "details/mathematics/algebra/linear algebra/Elementary Matrix Operations.md",
+    "details/mathematics/algebra/ring theory/Ideal.md",
+    "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
+    "details/mathematics/algebra/ring theory/Field.md",
     "details/mathematics/algebra/ring theory/Ring Theory.md",
-    "details/mathematics/algebra/ring theory/Non-Commutative Ring.md",
-    "details/mathematics/algebra/ring theory/Group Ring.md",
-    "details/mathematics/algebra/group theory/Cosets, Group Indices.md",
+    "details/mathematics/algebra/ring theory/Factor Ring.md",
+    "zshortdump/Sorting Algorithms.md",
+    "zshortdump/Language.md",
+    "zshortdump/Cryptography.md",
+    "details/mathematics/number theory/Number Theory -- Notation Guide.md",
+    "details/mathematics/number theory",
+    "details/mathematics/algebra/ring theory/Ideal Arithmetic.md",
+    "details/mathematics/algebra/Group Theory.md",
+    "details/mathematics/algebra/ring theory/Division Ring.md",
+    "details/mathematics/algebra/ring theory/Integral Domain.md",
+    "details/mathematics/algebra/ring theory/Commutative Ring.md",
+    "details/mathematics/algebra/ring theory/Direct Product of Rings.md",
+    "details/mathematics/algebra/group theory/Fundamental Constructs of Group Theory.md",
+    "details/mathematics/algebra/ring theory/Fundamental Constructs of Ring Theory.md",
+    "details/machine learning/reinforcement learning/fundamentals",
+    "details/machine learning/reinforcement learning/pgms",
+    "details/machine learning/reinforcement learning/marl",
+    "__images/MAPPO.png",
+    "__images/TMADDPG.png",
     "details/computer science/software engineering/guidelines",
     "details/mathematics/probability and statistics/Untitled",
     "details/mathematics/probability and statistics/measure theory",
@@ -188,18 +201,12 @@
     "__images/Intersecting Diagonals.png",
     "__images/AS-AD.png",
     "details/mathematics/algebra/ring theory",
-    "details/mathematics/algebra",
     "details/mathematics/Untitled.canvas",
     "Untitled.canvas",
-    "details/game design/development",
-    "details/mathematics/optimization",
-    "details/game design/mechanics/tabletop",
     "__images/Pixel Art AA.png",
     "__meta/{{Media Board}}.canvas",
     "__images/Encoder-Decoder RNN.png",
     "__images/GRU cell.png",
-    "__images/LSTM memory cell.png",
-    "__images/Latent Autoregressive Model.png",
     "Test.canvas"
   ]
 }

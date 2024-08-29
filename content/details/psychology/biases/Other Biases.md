@@ -44,20 +44,19 @@
 	* It is also driven by a need to protect the ego by feeling good about ourselves.
 	* It is also driven by [[Cognitive Dissonance]] and refusing to change our beliefs.
 
-* **Outcome Bias**
-* **Pessimism Bias**
-* **Present Bias**
-* **Prevention Bias**
-* **Probability Matching**
+* **Outcome Bias** - an error made in evaluating the quality of a decision when the outcome of that decision is already known. 
+* **Pessimism Bias** - people exaggerate the likelihood that negative things will happen to them.
+* **Present Bias** - in a trade-off situation, humans favor a smaller present reward rather than wait for a larger future reward.
+* **Probability Matching** - predictions of class membership are proportional to the class [[Extension Neglect|base rates]].
 
-* **Pro-Innovation Bias**
-* **Projection Bias**
-* **Proportionality Bias**
-* **Recency Illusion**
-* **Risk Compensation**
+* **Pro-Innovation Bias** - the tendency to have excessive optimism about an innovation's usefulness throughout society while failing to identify its limitations and weaknesses
+* **Projection Bias** - the tendency to overestimate how much our future selves will share our current preferences, thoughts and values.
+	* One explanation for this is that our current state becomes an [[Anchoring Bias|anchor]] for our own beliefs. 
+* **Proportionality Bias** - the tendency to assume that big events have big causes.
+* **Recency Illusion** -the illusion that a phenomenon noticed recently is itself recent
+* **Risk Compensation** - the tendency to take greater risks when perceived safety increases.
 
-* **Surrogation**
-* **Turkey Illusion**
-* **Unit Bias**
-* **Value Selection Bias**
-* **Weber-Fechner Law**
+* **Surrogation** - a measure of a construct of interest evolves to replace that construct (i.e., believing a survey score for $X$ actually is $X$ rather than a measurement of it)
+* **Turkey Illusion** - the surprise resulting from a break in a trend if one does not know how the trend works.
+* **Value Selection Bias** - the tendency to rely on existing numerical data when reasoning even when calculation is required
+* **Weber-Fechner Law** - the difficulty in comparing small differences in large quantities.

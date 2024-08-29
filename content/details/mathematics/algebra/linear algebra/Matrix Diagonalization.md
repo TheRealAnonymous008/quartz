@@ -33,28 +33,29 @@
 	* (*Friedberg 5.7.2*) Let $T$ be a linear operator on $V$ and $\beta$ a basis for $V$. Then $\lambda$ is an eigenvalue of $T$ if $\lambda$ is an eigenvalue of $[T]_\beta$
 
 * (*Friedberg e5.1.15*) Let $T$ be a linear operator on $V$ and $x$ be an eigenvector of $T$ corresponding to eigenvalue $\lambda$. For any positive integer $m$, $x$ is an eigenvector of $T^m$ corresponding to eigenvalue $\lambda^m$
-* (*Friedberg e5.1.22*) Let $T$ be a linear operator on $V$ over $F$. If $g(t))\in F[x]$ (see notation in [[Polynomial Ring]]) and $x$ is an eigenvector of $T$ corresponding to $\lambda$, then 
-  $$
-  g(T)(x) = g(\lambda)x
-  $$
-# Characteristic Polynomial
-* If $A\in M_{n\times n}(F)$, the polynomial $\det(A-tI_n)$ in the [[Polynomial Ring|indeterminate]] $t$ is called the **characteristic polynomial of $A$**
+
+* (*Friedberg 5.10.1*) Let $T$ be a linear operator on $V$, where $\dim(V)=n$ If $T$ has $n$ distinct eigenvalues then $T$ is diagonalizable
+
+* A linear operator $T$ is diagonalizable if the following hold.
+	* The corresponding characteristic polynomial of $T$ splits.
+	* The multiplicity of $\lambda$ equals $n-\text{rank}(T-\lambda I)$ for each eigenvalue $\lambda$ of $T$.
+
+* (*Friedberg e5.2.11*) If $T$ is invertible, then $T$ is diagonalizable if and only if $T^{-1}$ is diagonalizable.
+* (*Friedberg e5.2.12*) Let $A\in M_{n\times n}(F)$. Then $A$ is diagonalizable if and only if $A^T$ is diagonalizable.
+
+* Two linear operators $T,U$ on the same finite dimensional vector space $V$ are called **simultaneously diagonalizable** if there exists a basis $\beta$ for $V$ such that both $[T]_\beta$ and $[U]_\beta$ are  diagonal matrices.
   
-  Similarly for linear operators, if we have basis $\beta$ then $f(t)$ is called the **characteristic polynomial** defined as
-  $$
-  f(t) = \det(A-tI)
-  $$
+  Similarly, $A,B\in M_{n\times n}(F)$ are simultaneously diagonalizable if there exists an invertible matrix $Q$ such that both $Q^{-1}AQ$ and $Q^{-1}BQ$ are diagonal.
+	* (*Friedberg e5.2.16*) If $T$ and $U$ are simultaneously diagonalizable then
+	  $$
+	  TU = UT
+	  $$
+	* (*Friedberg e5.2.17*) $T$ and $T^m$ are simultaneously diagonalizable for any $m\in \mathbb{Z}^+$.
 
-* (*Friedberg 5.8*) The characteristic polynomial of $A\in M_{n\times n}(F)$ is a polynomial of degree $n$ with leading coefficient $(-1)^n$
-	* (*Friedberg 5.8.1*) Let $A\in M_{n\times n}(F)$ and $f(t)$ be the characteristic polynomial of $A$. Then
-		* A scalar $\lambda$ is an eigenvalue of $A$ if and only if $f(\lambda) = 0$
-		* $A$ has at most $n$ distinct eigenvalues.
-	* (*Friedberg 5.8.2*) The same results in (*Friedberg 5.8.1*) hold for linear operators as well.
 
-* (*Friedberg 5.9*) Let $T$ be a linear operator on a vector space $V$ and $\lambda$ be an eigenvalue of $T$. A vector $x\in V$ is an eigenvector of $T$ corresponding to $\lambda$ if and only if $x\ne 0$ and $x\in N(T-\lambda I)$. 
-
-* (*Friedberg e5.1.12a*) Similar matrices have the same characteristic polynomial.
-* (*Friedberg e5.1.14*) $A$ and $A^T$ have the same characteristic polynomial, and hence the same eigenvalues..
+# Topics
+* [[Characteristic Polynomial]]
+* [[Eigenspaces and Eigenbases]]
 
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]] - Ch. 5

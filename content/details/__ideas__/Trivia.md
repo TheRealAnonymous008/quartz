@@ -1,4 +1,6 @@
 * The toxicology hypothesis -- Vomiting while motion sick can be traced back to the same sensors for motion sickness being associated with detecting if we are poisoned (since this also causes nausea). Hence, the response is to throw up the poisoned food.
+	* Rotten potatoes can produce a lethal gas called Solanine
+
 
 * [Penguin, Depressed](https://www.reddit.com/r/todayilearned/comments/1tjusn/til_that_penguins_when_depressed_or_had_enough/?rdt=38134). When sad, penguins will just wander on their own willingly -- as if starving themselves.
 
@@ -18,12 +20,13 @@
 	* (3) involve suffering due to a part of a larger process; and 
 	* (4) are preventable with foresight
 
-* Rotten potatoes can produce a lethal gas called Solanine
 
 * [[Anchoring Bias|Functional Fixedness]] can be overcome as follows:
 	* **Uncommitting** - abstract the problem down to its essential components. 
 	* Draw inspiration from other places.
 	* Draw opinions from other fields
+
+* [Our right and left hemispheres of the brain experience consciousness differently. Splitting them apart leads to some weird behaviors](https://www.youtube.com/watch?v=_TYuTid9a6k). Dissecting the brain reveals that the most predominant aspect of it is involved in justifying and rationalizing our decisions and experiences, even if it is done so incorrectly or irrationally.
 
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

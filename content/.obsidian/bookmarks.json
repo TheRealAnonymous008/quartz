@@ -37,11 +37,6 @@
         },
         {
           "type": "file",
-          "ctime": 1722864580392,
-          "path": "details/psychology/Human Biases.md"
-        },
-        {
-          "type": "file",
           "ctime": 1723764647932,
           "path": "details/computer science/theory of computation/Compiler Theory.md"
         },
@@ -49,6 +44,16 @@
           "type": "file",
           "ctime": 1724279330907,
           "path": "details/mathematics/probability and statistics/Measure Theory.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1722864580392,
+          "path": "details/psychology/Human Biases.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1724929702407,
+          "path": "details/mathematics/calculus/Differential Equation.md"
         }
       ],
       "title": "Continuation"

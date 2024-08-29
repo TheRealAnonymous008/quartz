@@ -3,7 +3,7 @@
 	* (*Fraleigh 19.4*) If $p$ is prime, then $\mathbb{Z}$ has no divisors of $0$. 
 	* For any ring, the set of elements that are not divisors of $0$ is closed under multiplication.
 
-* An **integral domain** $D$ is a [[Commutative Ring]] with unity $1\ne 0$ and containing no divisors of $0$.
+* An **integral domain** $D$ is a [[Commutative Ring]] with [[Ring with Unity|unity]] $1\ne 0$ and containing no divisors of $0$.
 
 * (*Fraleigh 19.5*) The following **cancellation laws** hold in ring $R$ if and only if $R$ is an integral domain
   
