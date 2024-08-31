@@ -46,10 +46,8 @@
 ![[Independent Q- Learning.png]]
 <figcaption> IQL. Image taken from Albrecht, Christianos and Schafer</figcaption>
 
-## CTDE 
-* They enable conditioning [[Function Approximation in Reinforcement Learning|approximate value functions]] on privileged information in a computationally tractable manner. 
-* They are common since we only need a policy during inference time, but the policy relies on the value function which can be made accurate through Centralized Training. 
-* [[Deterministic Policy Gradient#DDPG|DDPG]] plus a centralized learning - decentralized execution approach works (called **MADDPG**). This mixes DDPG's mode-free stability with the centralized approach. This also requires considering the outcome of the choices of all other agents. 
+## [[Centralized Training Decentralized Execution]] 
+
 
 ## Fundamental Approaches  to Independent Learning 
 * [[Self Play]]

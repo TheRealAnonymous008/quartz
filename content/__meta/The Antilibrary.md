@@ -61,6 +61,7 @@
 
 * [phind](https://www.phind.com/search?q=how+to+learn+group+theory+for+a+beginner&c=&source=searchbox&init=true) - a search engine that makes use of an LLM under the hood. 
 * [Pi.ai](https://pi.ai/talk) - an online personal assistant chatbot as an alternative to ChatGPT.
+* [Chat Paper]([https://chatpaper.com/](https://chatpaper.com/ "https://chatpaper.com/")) - AI powered tool for reviewing research papers 
 
 # General Knowledge Repositories
 * [Seita's Place](https://danieltakeshi.github.io/new-start-here.html) 

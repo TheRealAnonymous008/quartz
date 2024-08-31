@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4283f321b4452c62",
+        "id": "61aaef54cebbede8",
         "type": "tabs",
         "children": [
           {
-            "id": "1e81db7714f7e854",
+            "id": "be8e46c87f89b61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/machine learning/reinforcement learning/marl/Centralized Training Decentralized Execution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386aa24bb5e65e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wikipedia",
+                "query": "COMA",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -66,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,9 +171,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e81db7714f7e854",
+  "active": "386aa24bb5e65e5e",
   "lastOpenFiles": [
+    "details/machine learning/reinforcement learning/marl/Centralized Training Decentralized Execution.md",
+    "__meta/The Antilibrary.md",
+    "details/machine learning/reinforcement learning/marl/MARL Deep Learning.md",
+    "details/machine learning/reinforcement learning/Reinforcement Learning - Notation Guide.md",
+    "zshortdump/MARL Research.md",
+    "details/machine learning/reinforcement learning/pgms/Policy Gradient Method Algorithms.md",
+    "details/machine learning/reinforcement learning/fundamentals/Temporal Difference Learning.md",
+    "details/machine learning/reinforcement learning/pgms/Policy Gradient Methods.md",
+    "details/machine learning/reinforcement learning/pgms/Function Approximation in Reinforcement Learning.md",
+    "details/machine learning/reinforcement learning/pgms/Basic Policy Gradient Methods.md",
+    "details/machine learning/reinforcement learning/marl/MARL Algorithms and Approaches.md",
+    "details/machine learning/reinforcement learning/pgms/Trust Region Policies.md",
+    "zshortdump/Behavioral Economics.md",
+    "details/machine learning/reinforcement learning/marl/Self Play.md",
     "__meta/Exploration Logs.md",
+    "details/machine learning/reinforcement learning/marl/Multi-Agent Reinforcement Learning.md",
     "details/computer science/data structures and algorithms/Sorting Algorithms.md",
     "__images/Merge Sort.png",
     "details/linguistics/languages/Index of Writing Systems.md",
@@ -172,21 +200,6 @@
     "details/psychology/mind/Flow State Model.md",
     "details/natural sciences/Geography.md",
     "details/linguistics/etymology/Geography-Derived Toponomy.md",
-    "details/psychology/Human Biases.md",
-    "index.md",
-    "zshortdump/MARL Research.md",
-    "details/mathematics/calculus/Differential Equation.md",
-    "zshortdump/Acoustics.md",
-    "details/mathematics/algebra/ring theory/Ring Theory -- Notation Guide.md",
-    "details/mathematics/algebra/ring theory/Groebner Basis.md",
-    "details/mathematics/algebra/ring theory/Factorization of Polynomials.md",
-    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
-    "details/mathematics/algebra/linear algebra/Elementary Matrix Operations.md",
-    "details/mathematics/algebra/ring theory/Ideal.md",
-    "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
-    "details/mathematics/algebra/ring theory/Field.md",
-    "details/mathematics/algebra/ring theory/Ring Theory.md",
-    "details/mathematics/algebra/ring theory/Factor Ring.md",
     "details/mathematics/number theory",
     "details/machine learning/reinforcement learning/fundamentals",
     "details/machine learning/reinforcement learning/pgms",

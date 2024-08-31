@@ -2,9 +2,6 @@
 	* This necessitates exploiting structures or assumptions (inductive biases) about certain game types .
 # Research 
 * *Current (2023) trends suggest that mixed play algorithms more or less perform the same*. 
-* [^Kim_2023]   introduces a new mutual information framework for MARL. This leads to the development of an algorithm called **Variational Maximum Mutual Information, Multi-Agent Actor Critic** which allows agents to coordinate simultaneous actions without latency. 
-
-
 # Topics 
 * [[MARL -- Notation Guide]]
 * [[MARL from a Game Theoretic Perspective]] 

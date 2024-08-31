@@ -1,7 +1,11 @@
-# MARL review
+# MARL Research
+* [^kim_2020] proposes a flexible smart manufacturing system with distributed intelligence
 
-* [^miyake_2024] shows the use of MARL for analyzing and predicting the evolution of social [[Network Science|networks]]. 
+[^Kim_2020]: Kim et al. (2020) [Multi Agent System and Reinforcement Learning Approach for distributed intelligence in a flexible smart manufacturing system](https://www.sciencedirect.com/science/article/abs/pii/S0278612520301916)
 
+# Queue
+* [^Kim_2023]   introduces a new mutual information framework for MARL. This leads to the development of an algorithm called **Variational Maximum Mutual Information, Multi-Agent Actor Critic** which allows agents to coordinate simultaneous actions without latency. 
 
-[^Miyake_2024]: Miyake et al. (2024) [NetEvolve: Social Network Forecasting using Multi-Agent Reinforcement Learning with Interpretable Features](https://dl.acm.org/doi/pdf/10.1145/3589334.3647982)
+[^Kim_2023]: Kim, Jung, Cho, Sung (2020) [A Maximum Mutual Information Framework for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.02732)
+
 # Misc

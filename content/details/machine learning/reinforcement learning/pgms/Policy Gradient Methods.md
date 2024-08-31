@@ -9,7 +9,6 @@ $$
 $$
 
 * Methods that follow this are **policy gradient methods**
-* **Actor-Critic methods** learn both the policy (actor) and the value function (critic) 
 ### Why Policy Gradient Methods?
 * *Sometimes the policy is a simpler function to approximate*.
 * We can also generalize well to *continuous actions* or stochastic policies.
@@ -37,20 +36,20 @@ $$
 	* This arises partly because when we calculate the gradient, any parameterization of the environment would not have a dependence on $\theta$
 
 * **The Policy Gradient Theorem**. Let $J(\theta)$ be the expected reward. If we take the expected reward using the undiscounted value function $v_{\pi_\theta}$ [^2]we get the following (the gradient is with respect to $\theta$ as usual)
-
-$$
-\begin{split}
-J(\theta) &= \sum_{s\in S} \mu(s) v_\pi(s)\\ 
-\nabla J(\theta) &\propto \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)\\ 
-&= \mathbb{E}_{s\sim \mu_(s), a\sim \pi_\theta}[q_\pi(s,a) \nabla_\theta \ln \pi_\theta(a\mid s)] \\ 
-&= \mathbb{E}_\pi [q_\pi(s,a) \nabla_\theta \ln \pi_\theta(a\mid s)]
-\end{split} 
-$$
-$\mu$ is the on-policy distribution
-
-The proportionality constant $c$ is the average length of an episode in the episodic case and $1$ in the continuous case. [^1] [^2]  [^3]
-
-The last line is just a way to abbreviate the notation.
+  $$
+  \begin{split}
+  J(\theta) &= \sum_{s\in S} \mu(s) v_\pi(s)\\ 
+  \nabla J(\theta) &\propto \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)\\ 
+  &= \mathbb{E}_{s\sim \mu_(s), a\sim \pi_\theta}[q_\pi(s,a) \nabla_\theta \ln \pi_\theta(a\mid s)] \\ 
+  &= \mathbb{E}_\pi [q_\pi(s,a) \nabla_\theta \ln \pi_\theta(a\mid s)]
+  \end{split} 
+  $$
+  
+  $\mu$ is the on-policy distribution
+  
+  The proportionality constant $c$ is the average length of an episode in the episodic case and $1$ in the continuous case. [^1] [^2]  [^3]
+  
+  The last line is just a way to abbreviate the notation.
 
 [^1]: In practice, we don't really care about this because it will be weighted by a step size $\alpha$ anyway.
 [^2]: [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto]] use $v_\pi$ but if we are measuring expected reward, we should average over all the states.  The reason why we can just sum over $v_\pi$ is because the environment is Markovian so we can simply get "all trajectories" just from using any possible starting states. 
@@ -97,11 +96,10 @@ J(\theta) = \sum_{s}\mu(s) \sum_a q_{\pi_\theta}(s,a) \nabla \pi_\theta(a\mid s)
 $$
 ### Advantage function
 * The **advantage function** is defined as 
-
-$$
-A_\pi (s,a) = q_\pi(s,a) - v_\pi (s) 
-$$
-Intuitively, it tells us how better action $a$ is compared to the average action taken on  state $s$.
+  $$
+  A_\pi (s,a) = q_\pi(s,a) - v_\pi (s) 
+  $$
+  Intuitively, it tells us how better action $a$ is compared to the average action taken on  state $s$.
 
 * We  can reformulate $J(\theta)$ using the advantage function (see [[#The General Policy Gradient Theorem]]). 
 * The advantage function formulation is equivalent to the [[#Baseline|baselined formulation]] because 
@@ -133,8 +131,7 @@ Intuitively, it tells us how better action $a$ is compared to the average action
 	  Which means that a sufficiently small step that improves $L$ will also improve $\eta$.
 	  
   
-  
-  
+
 
 [^Kakade_Langford_2002]: Kakade and Langdord (2002). [Approximately optimal approximate reinforcement learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 
@@ -146,17 +143,16 @@ J(\theta) = \nabla_\theta \mathbb{E} \left[\sum_{t=0}^\infty r_t\right]
 $$
 
 * *All policy gradient theorems follow the following form*
-
-$$
-J(\theta) =  \mathbb{E} \left[ \sum_{t=0}^\infty \Psi \nabla_\theta \ln \pi_\theta (a_t\mid s_t) \right]
-$$
-$\Psi$ depends on our algorithm.
-* $\sum_{t=0}^\infty r_t$ - total reward of the trajectory.
-* $\sum_{k=t}^\infty r_k$ - reward following action $a_t$
-* $\sum_{k=t}^\infty r_k -b(s_t)$  - baselined reward after action $a_t$
-* $q_\pi(s_t,a_t)$ - state-action value function
-* $A_\pi(s_t,a_t)$ - advantage function
-* $r_t+V_\pi(S_{t+1})-V_\pi(s_t)$ - TD residual.
+  $$
+  J(\theta) =  \mathbb{E} \left[ \sum_{t=0}^\infty \Psi \nabla_\theta \ln \pi_\theta (a_t\mid s_t) \right]
+  $$
+  $\Psi$ depends on our algorithm.
+	* $\sum_{t=0}^\infty r_t$ - total reward of the trajectory.
+	* $\sum_{k=t}^\infty r_k$ - reward following action $a_t$
+	* $\sum_{k=t}^\infty r_k -b(s_t)$  - baselined reward after action $a_t$
+	* $q_\pi(s_t,a_t)$ - state-action value function
+	* $A_\pi(s_t,a_t)$ - advantage function
+	* $r_t+V_\pi(S_{t+1})-V_\pi(s_t)$ - TD residual.
 
 # Topics
 * [[Policy Gradient Method Algorithms]]
