@@ -34,7 +34,7 @@
 * When the queue has finite capacity, $\lambda$ instead denotes the rate of potential arrivals as if the system were not full. In a similar vein,  $\rho$ is the utilization assuming no arrivals were turned away.
 # Queueing Systems
 ## M/M/1
-* Both arrival and service rates are characterized with an exponential distribution resulting in the Markov property. These can be modelled with a Poisson process with means $\lambda$ and $\mu$ respectively. 
+* Both arrival and service rates are characterized with an exponential distribution resulting in the [[Markov Chain|Markov]] property. These can be modelled with a Poisson process with means $\lambda$ and $\mu$ respectively. 
 * The state of the system is characterized with the number of jobs in queue, denoted $n$.
 
 * The dynamics of the system is governed by the following recurrence relation of differential equations

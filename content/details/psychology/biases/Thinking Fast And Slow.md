@@ -60,7 +60,7 @@
 	* Once you have accepted a theory and used it as a tool in your thinking, it is extraordinarily difficult to notice its flaws
 
 * *People are risk averse*. They prefer a safer but low-utility guarantee than a riskier but high-utility gamble.
-	* We think, not just in terms of the state of our current utility (happiness) but also the *relative change of utility*. Utility is non-[[Markov Processes in Machine Learning|Markovian]].
+	* We think, not just in terms of the state of our current utility (happiness) but also the *relative change of utility*. Utility is non-[[Markov Chain|Markovian]].
 	* See more on [[Prospect Theory]]
 
 	* When both a gain and a loss are possible, loss aversion causes risk-averse choices.

@@ -5,7 +5,7 @@
 
 # Metropolis-Hastings Algorithm
 * The **Metropolis-Hastings Algorithm** is a Monte Carlo method for generating random samples from a [[Random Variables and Probability Distributions|probability distribution]] $P(x)$ whose distribution is difficult to compute.
-* The goal is to construct a Markov Process that simulates the behavior of $P(x)$ -- it has the same stationary behavior as $P(x)$.
+* The goal is to construct a [[Markov Chain|Markov Process]] that simulates the behavior of $P(x)$ -- it has the same stationary behavior as $P(x)$.
 
 ```
 g(x'|x) : = distribution giving the probability of generating x' given x
@@ -73,7 +73,20 @@ return x*
 
 * The behavior of the above function is that of a [[Probability Distributions Zoo|Boltzmann distribution]], mimicking the behavior of particles in thermodynamic equilibrium.
 
-# Genetic Algorithms
+# Animal-Inspired Search
+* [^xue_2020] propose a new swarm optimization approach called **sparrow swarm search** inspired by group wisdom, foraging and anti-predation observed in sparrows.  Sparrows have two classes -- producers and scroungers. Sparrows follow the following rules
+	* Producers have high energy reserves. The level of energy reserves depends on the assessment of fitness values of the individuals.
+	* Sparrows detect predators and send an alarm. When the alarm is strong enough, producers lead all scroungers to a safe area.
+	* Each sparrow can become a producer as long as it searches for the better food sources, but the proportion of the producers and the scroungers is unchanged in the whole population
+	* Sparrows with higher energy are producers. Starving scroungers fly to other places for food to get more energy.
+	* The scroungers follow the producer who can provide the best food to search for food.
+	* The sparrows at the edge of the group quickly move toward the safe area to get a better position when aware of danger, while the sparrows in the middle of the group randomly walk in order to be close to others.
+
+![[Sparrow Swarm Search.png]]
+<figcaption> Sparrow Swarm Search Algorithm from Xue and Shen (2020) </figcaption>
+
+[^Xue_2020]: Xue and Shen (2020) [A novel swarm intelligence optimization approach: sparrow search algorithm](https://www.tandfonline.com/doi/pdf/10.1080/21642583.2019.1708830)
+
 
 # Links
 * [Metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)

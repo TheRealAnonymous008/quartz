@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "61aaef54cebbede8",
+        "id": "9f11c54c5cb1f451",
         "type": "tabs",
         "children": [
           {
-            "id": "be8e46c87f89b61c",
+            "id": "c65bff022473bb17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "details/machine learning/reinforcement learning/marl/Centralized Training Decentralized Execution.md",
+                "file": "zshortdump/Markov Chain.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "386aa24bb5e65e5e",
+            "id": "c89662a7a6fa0ba7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__meta/Exploration Logs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -61,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "COMA",
+                "query": "Markov",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -100,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__meta/Exploration Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__meta/Exploration Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "__meta/Exploration Logs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,35 +161,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "386aa24bb5e65e5e",
+  "active": "c89662a7a6fa0ba7",
   "lastOpenFiles": [
-    "details/machine learning/reinforcement learning/marl/Centralized Training Decentralized Execution.md",
+    "zshortdump/Markov Chain.md",
     "__meta/The Antilibrary.md",
-    "details/machine learning/reinforcement learning/marl/MARL Deep Learning.md",
-    "details/machine learning/reinforcement learning/Reinforcement Learning - Notation Guide.md",
-    "zshortdump/MARL Research.md",
-    "details/machine learning/reinforcement learning/pgms/Policy Gradient Method Algorithms.md",
-    "details/machine learning/reinforcement learning/fundamentals/Temporal Difference Learning.md",
+    "details/psychology/biases/Thinking Fast And Slow.md",
+    "details/machine learning/supervised/Sequence Based Algorithms.md",
+    "details/machine learning/architectures/Recurrent Neural Network.md",
+    "details/mathematics/probability and statistics/prob_stat/Random Variables and Probability Distributions.md",
+    "details/mathematics/Queueing Theory.md",
     "details/machine learning/reinforcement learning/pgms/Policy Gradient Methods.md",
-    "details/machine learning/reinforcement learning/pgms/Function Approximation in Reinforcement Learning.md",
-    "details/machine learning/reinforcement learning/pgms/Basic Policy Gradient Methods.md",
-    "details/machine learning/reinforcement learning/marl/MARL Algorithms and Approaches.md",
-    "details/machine learning/reinforcement learning/pgms/Trust Region Policies.md",
-    "zshortdump/Behavioral Economics.md",
-    "details/machine learning/reinforcement learning/marl/Self Play.md",
+    "details/machine learning/reinforcement learning/fundamentals/Monte Carlo Methods in Reinforcement Learning.md",
+    "details/computer science/data structures and algorithms/Metaheuristics.md",
+    "details/machine learning/reinforcement learning/marl/MARL from a Game Theoretic Perspective.md",
+    "details/machine learning/reinforcement learning/fundamentals/Markov Processes in Machine Learning.md",
+    "details/machine learning/architectures/Language Model.md",
+    "details/computer science/data structures and algorithms/Hashed Data Structure.md",
+    "details/engineering/factories_and_operations/Fundamental Objects in Factory Physics.md",
+    "details/engineering/factories_and_operations/Factory Dynamics.md",
+    "details/machine learning/reinforcement learning/fundamentals/Dynamic Programming for Reinforcement Learning.md",
+    "details/machine learning/reinforcement learning/fundamentals/Backups in Reinforcement Learning.md",
+    "details/machine learning/reinforcement learning/fundamentals/A Unified View on Reinforcement Learning Approaches.md",
+    "details/mathematics/probability and statistics/prob_stat/Probability Theory.md",
+    "details/mathematics/algebra/linear algebra/Matrix.md",
+    "zshortdump/Matrix Limit.md",
+    "details/machine learning/reinforcement learning/marl/MARL Research.md",
     "__meta/Exploration Logs.md",
-    "details/machine learning/reinforcement learning/marl/Multi-Agent Reinforcement Learning.md",
-    "details/computer science/data structures and algorithms/Sorting Algorithms.md",
+    "__images/Sparrow Swarm Search.png",
+    "details/machine learning/reinforcement learning/pgms/Trust Region Policies.md",
+    "details/machine learning/reinforcement learning/marl/Self Play.md",
+    "__images/Smart Manufacturing MARL pipeline.png",
+    "__images/Smart Manufacturing MARL architecture.png",
     "__images/Merge Sort.png",
-    "details/linguistics/languages/Index of Writing Systems.md",
-    "details/__ideas__/Animals.md",
-    "details/machine learning/unsupervised learning/Association Rule Mining.md",
-    "details/mathematics/probability and statistics/prob_stat/Bayesian Statistics.md",
-    "details/machine learning/unsupervised learning/Clustering.md",
-    "details/computer science/Data Visualization.md",
-    "details/psychology/mind/Flow State Model.md",
-    "details/natural sciences/Geography.md",
-    "details/linguistics/etymology/Geography-Derived Toponomy.md",
     "details/mathematics/number theory",
     "details/machine learning/reinforcement learning/fundamentals",
     "details/machine learning/reinforcement learning/pgms",
@@ -215,13 +208,10 @@
     "details/machine learning/architectures",
     "__images/GAN.png",
     "__images/Intersecting Diagonals.png",
-    "__images/AS-AD.png",
     "details/mathematics/algebra/ring theory",
     "details/mathematics/Untitled.canvas",
     "Untitled.canvas",
-    "__images/Pixel Art AA.png",
     "__meta/{{Media Board}}.canvas",
-    "__images/Encoder-Decoder RNN.png",
     "Test.canvas"
   ]
 }

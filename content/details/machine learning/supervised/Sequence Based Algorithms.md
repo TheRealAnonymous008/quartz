@@ -2,7 +2,7 @@
 * When working with sequences, we assume the following
 	* **Non-IID assumption**: The standard IID assumption does not hold for our datapoints. The data points are not necessarily independent of others in the sequence. Instead, we assume that *sequences are sampled independent of each other*
 	* **[[Pathologies of Deep Learning#Nonstationarity|Stationarity]]**: The sequential data is stationary if while the specific values within the sequence might change, the dynamics to which these observations do not. 
-	* **Markov Assumption**: The data is [[Markov Processes in Machine Learning|Markovian]]
+	* **Markov Assumption**: The data is [[Markov Chain|Markovian]]
 
 * For sequential data, we often *consider the sequence in the natural reading order for a few reasons.*
 	* It is the most natural direction for us to think in.

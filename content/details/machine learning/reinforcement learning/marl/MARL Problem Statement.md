@@ -1,5 +1,5 @@
 # Convergence and Learning Performance 
-* For the following, let $\pi^z$ be a joint policy and the solution be $\pi^\ast$
+* For the following, let $\pi^z$ be a joint policy and the solution be $\pi^\ast$. The following define convergence criteria. 
 * *Note*: Convergence is hard to check in practice. 
 
 * *Infinite Data*
@@ -18,10 +18,10 @@
   \end{split}
   $$
 * *Averaged Joint Policy*. This is equivalent to the empirical distribution equivalence except we use the following 
-$$
-\bar{\pi}^z = \frac{1}{|H^z (h)|}\sum _{(a^\tau, h^\tau) \in H^z(h)} [a=a^T]_1
-$$
-Where $(a^\tau, h^\tau)_{\tau=0}^t$ is the sequence of joint actions sampled from the joint policy conditioned on the history $h^\tau$. 
+  $$
+  \bar{\pi}^z = \frac{1}{|H^z (h)|}\sum _{(a^\tau, h^\tau) \in H^z(h)} [a=a^T]_1
+  $$
+  Where $(a^\tau, h^\tau)_{\tau=0}^t$ is the sequence of joint actions sampled from the joint policy conditioned on the history $h^\tau$. 
 
 * Convergence of empirical distribution to a *set of solutions* 
   
@@ -32,10 +32,10 @@ Where $(a^\tau, h^\tau)_{\tau=0}^t$ is the sequence of joint actions sampled fro
   $$
 
 * *Average return* 
-$$
-\lim_{z\to \infty} \ \bar{U}_i^z = U_i(\pi ^\ast ) \ \forall i \in N
-$$
-Where $\bar{U}_i^z$ denotes the average return across episodes.   
+  $$
+  \lim_{z\to \infty} \ \bar{U}_i^z = U_i(\pi ^\ast ) \ \forall i \in N
+  $$
+  Where $\bar{U}_i^z$ denotes the average return across episodes.   
 # Extensions 
 * MARL can either be **cooperative** wherein agents work together; **competitive** where the game is zero-sum or a mix of the two. 
 
@@ -121,13 +121,12 @@ Here *robustness comes from mitigating against perturbations in observed states*
 
 * A **model-adversarial stochastic game**  is a stochastic game where we have uncertainty sets for the reward functions and transition probabilities $\hat{\mathcal{R}}^i$ and $\hat{T}$. 
   
-The Bellman equation is given as 
-
-   $$
+  The Bellman equation is given as 
+  $$
   \hat{V}_\ast ^i (s) = \max_{\pi^i(\cdot\mid s)} \min _{\hat{R}_i\in\hat{\mathcal{R}}_i : \hat{\mathcal{T}}\in\hat{T}} \sum_{a\in \mathbb{A}} \pi(a\mid s,v(s))\sum_{s^i\in S} \bigg(\mathcal{T}(s'\mid s,a)\big(R^i(s,a,s') + \gamma \hat{V}_\ast^i (s') \big) \bigg)
   $$
-
-Here *robustness comes from mitigating against perturbations in the environment's model -- transition functions and rewards*
+  
+  Here *robustness comes from mitigating against perturbations in the environment's model -- transition functions and rewards*
 
 
 * **Data Poisoning** - is an attack where attackers modify the rewards in a dataset to encourage each agent to adopt a harmful target policy with minimal modifications. Applies for offline MARL  

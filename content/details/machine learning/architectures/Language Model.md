@@ -4,7 +4,7 @@
   $$
   P(x_1,\dots,x_T)=P(x_1 ) \prod_{t=2}^TP(x_t \ | \ x_{t-1}, \dots, x_1)
   $$
-  We may also simplify the above if we make use of the Markov property.
+  We may also simplify the above if we make use of the [[Markov Chain|Markov]] property.
 
 # Pipeline
 * In general, the pipeline for language data is:

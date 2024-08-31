@@ -81,7 +81,7 @@ And to assure all sums are finite, we have that $\prod_{k=t}^\infty \gamma_k = 0
 
 * *Rationale:* It enables episodic settings and algorithms to be presented in terms of a single stream of experience. 
 	* What would be terminating states are now states at which $\gamma(s)=0$ and which transitions to the start distribution.
-	* We can also include **pseudo-termination** cases where we predict quantities without altering the flow of the Markov process.
+	* We can also include **pseudo-termination** cases where we predict quantities without altering the flow of the [[Markov Chain|Markov process]].
 
 ## Average Reward Formulation
 * Applies to continuing problems. However, there is no discounting. 

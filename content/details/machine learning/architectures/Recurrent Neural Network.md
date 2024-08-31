@@ -11,7 +11,7 @@
 	  $$
 	  h_t=f(x_t,h_{t-1})
 	  $$
-	  That is, for a RNN, we want the current state to be dependent on the previous state. However, unlike the [[Markov Processes in Machine Learning|Markov Property]], we actually do retain some information about all previously seen states so far. 
+	  That is, for a RNN, we want the current state to be dependent on the previous state. However, unlike the [[Markov Chain|Markov Property]], we actually do retain some information about all previously seen states so far. 
 
 ![[RNN computation.png]]
 <figcaption> RNN computation. Image taken from Zhanng et al. </figcaption>

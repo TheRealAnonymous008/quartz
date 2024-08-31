@@ -134,6 +134,10 @@
   U_i (\pi_i', \pi_{-i})\le U(\pi)
   $$
 	* Here *the agent plays a best response to the policies of the other agents*
+	* (*Fink, 1964*) There is always a Nash equilibrium in stationary strategies [^fink_1964]
+	
+[^fink_1964]:  Fink (1964) [Equilibrium in a Stochastic n-person game](https://projecteuclid.org/journals/journal-of-science-of-the-hiroshima-university-series-ai-mathematics/volume-28/issue-1/Equilibrium-in-a-stochastic-n-person-game/10.32917/hmj/1206139508.full)
+
 * A Nash equilibrium may be relaxed to an **$\epsilon$-Nash equilibrium** for $\epsilon > 0$ where  $\forall i, \pi'_i$ 
   
   $$

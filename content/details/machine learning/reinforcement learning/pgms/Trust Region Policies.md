@@ -172,4 +172,4 @@
 * We make use of natural gradients rather than our usual gradients. This means that our step sizes are based on the KL divergence from the current network. 
 * KFAC approximates the gradient using Kronecker products between smaller matrices 
 
-[^Yuhai_Wu_2017]:  🎯 Wu et al. (2017) [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf)
+[^Yuhai_Wu_2017]:  Wu et al. (2017) [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf)

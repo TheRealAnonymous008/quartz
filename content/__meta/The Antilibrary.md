@@ -12,8 +12,10 @@
 * https://www.amazon.com/Business-Dynamics-Systems-Thinking-Modeling/dp/007238915X
 
 
-* Lord of Mysteries - https://lordofthemysteries.fandom.com/wiki/Demoness_Pathway. Interesting from a Worldbuilding Perspectie
+* Lord of Mysteries - https://lordofthemysteries.fandom.com/wiki/Demoness_Pathway. Interesting from a Worldbuilding Perspective
+
 # Interesting Topics
+* [Screaming Insects Algorithm](https://www.youtube.com/watch?v=Yu7sF9rcVJY)
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
 * Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
 * [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))
@@ -22,14 +24,14 @@
 * General Method of Moments / Simulated Method of Moments
 * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
 * [Socionics](https://en.wikipedia.org/wiki/Socionics)
-* Forecasting -- specifically classical techniques for  [[Time Series Analysis]].
-* Abnormal Psychology. Specifically Mental Illnesses.
 * Chess Openings
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 * [HackerFactor](https://www.hackerfactor.com/blog/) 
 
 # Notemarks
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
+* Forecasting -- specifically classical techniques for  [[Time Series Analysis]].
+* [[Abnormal Psychology]]. Specifically Mental Illnesses.
 
 # Bookmarks
 * [[Factory Physics]] - Workforce Planning.
@@ -42,16 +44,6 @@
 * [[Linear and Nonlinear Programming by Luenberger and Ye]] - Resume Ch. 5
 * [[Drawing on the Right Side of the Brain by Edwards]] - Resume Ch. 8
 * [[Code Complete by McConnell]] - Resume Ch. 10
-
-# Papers
-* Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
-* Kim, Cho, Jung, and Sung (2023). [A Variational Approach to Mutual Information Based Coordination for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2303.00451.pdf)
-	* Linked in [[Multi-Agent Reinforcement Learning]]
-* Vinyals et al. (2019) [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf) 
-	* Linked in [[Self Play]]
-* Wu et al. (2017) [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf)
-	* Linked in [[Trust Region Policies]]
-* [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
 
 
 # Utilities
@@ -73,5 +65,9 @@
 * [IQuiLezles](https://iquilezles.org/) - math, art and computer graphics
 * [Math3ma](https://www.math3ma.com) - math
 
+## What to Learn? 
+* Universities provide curricula that can aid in the self learning process. The autodidact can either follow these curricula, figure out prerequisites needed for a field of study or simply explore what is out there
+	* [Columbus State University](https://catalog.columbusstate.edu/academic-units/)
+	* [University of Michigan](https://catalog.umd.umich.edu/azprograms/)
 # Curios
 * [The Library of Babel Website](https://libraryofbabel.info) 

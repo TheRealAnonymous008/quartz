@@ -25,6 +25,8 @@
 * [[Probability Distributions Zoo]] - more on probability distributions and what they are measuring
 * [[Queueing Theory]]
 * [[Measure Theory]] - a more formal treatment of probabilities
+* [[Markov Chain]]
+
 # Links
 * [[Probability Theory -- Notation Guide]]
 * [[Calculus]] - more on calculus, relevant for integrals and derivatives.

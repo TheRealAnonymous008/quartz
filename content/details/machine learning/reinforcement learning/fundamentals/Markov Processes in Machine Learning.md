@@ -1,5 +1,5 @@
 # The Markov Property
-* The **Markov Property** pertains to the evolution of a process where the *future state only depends on the current state and not the past*.
+* The **[[Markov Chain|Markov Property]]** pertains to the evolution of a process where the *future state only depends on the current state and not the past*.
 * *For decision processes, the current state has to be informative* 
 * Markov Processes can be represented using a **transition graph**, [^1] where each node is a state and each edge is a weighted edge with a transition probability attached to it. 
 

@@ -124,6 +124,31 @@
 
 	[^Klar_2021]: Klar, Glatt, and Aurich (2021) [An implementation of a reinforcement learning based algorithm for factory layout planning](https://www.sciencedirect.com/science/article/pii/S2213846321000651) 
 
+* [^kim_2020] proposes a flexible smart [[Manufacturing|manufacturing system]] with distributed intelligence
+	* Unlike previous work, it aims to decentralize the decision making process for planning and scheduling. It also aims to make RL agents be more adaptive and flexible when responding to a dynamic manufacturing environment.
+	* Consists of three agents 
+		* The **enterprise layer** interfaces with the customer directly, receives customer orders and delivers the job schedule information to the customer.
+		* The **cloud layer** stores customer order information and production plan and scheduling regarding the agent. It also provides the simulation environment.
+		* The **machine layer** is responsible for the decision making between intelligent agents.
+	* The manufacturing pipeline is as follows
+		* Job arrives and its information is uploaded. New jobs are produced.
+		* Job evaluation, scheduling, and prioritization.
+		* Machines take jobs. If the job can be negotiated for, then machines negotiate between the jobs.
+			* The goal is to balance between the setup time of having many agents take a job, and the throughput increase of having many agents take the job.
+		* Job evaluation and negotiation is repeated until all jobs are allocated.
+		* Use the RL policy to make next decisions
+		* Execute the production plan
+
+![[Smart Manufacturing MARL architecture.png]]
+<figcaption> Smart Manufacturing Architecture. Image taken from Kim et al. (2022) </figcaption>
+
+![[Smart Manufacturing MARL pipeline.png]]
+<figcaption> Smart Manufacturing Sequential Pipeline. Image taken from Kim et al. (2022) </figcaption>
+
+[^Kim_2020]: Kim et al. (2020) [Multi Agent System and Reinforcement Learning Approach for distributed intelligence in a flexible smart manufacturing system](https://www.sciencedirect.com/science/article/abs/pii/S0278612520301916)
+
+
+
 * [^Zheng_Trott_2020] examines the use of MARL to develop a tax system that promotes and balances equality and productivity. It is effective in simulations with human participants and can be extended to real economies. 
 	* *Rationale*: 
 		* Economic models are too simplistic and do not capture the complexities of humans. 

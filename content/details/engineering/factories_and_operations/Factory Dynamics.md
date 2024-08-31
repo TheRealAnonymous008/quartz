@@ -49,7 +49,7 @@
 	* The performance of a line is improved by ensuring fewer states are visited. This means -- 
 		* Unbalanced lines (i.e., more capacity)
 		* Parallelization 
-		* Non-Markovian / Exponentially distributed process times. This can be achieved by reducing wait times or by reducing variability.
+		* Non-[[Markov Chain|Markovian]] / Exponentially distributed process times. This can be achieved by reducing wait times or by reducing variability.
 * The **Practical Worst Case (PWC)** cycle time for a given WIP level is given by
   $$
   \text{CT}_\text{PWC} = T_0 + \frac{w-1}{r_b}

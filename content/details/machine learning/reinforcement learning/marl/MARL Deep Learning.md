@@ -189,6 +189,7 @@ $$
 * [[Agent Modeling]] - can also be used for deep learning so that each agent has a model of the other agents in the environment 
 * [[Decision Time Planning]] - approaches such as MCTS can be generalized to a deep-learning setting. 
 * [[Value Reward Decomposition]] - approaches that involve decomposing the joint value reward function to something simpler (i.e., based on the local value reward function for each agent) 
+* [[Mean Field MARL]] 
 
 
 # Links 

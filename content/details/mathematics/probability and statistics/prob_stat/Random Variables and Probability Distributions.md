@@ -123,7 +123,7 @@ $$
   $$
   Observe we expanded the joint distribution according to the [[Fundamental Constructs of Probability Theory|chain rule of probability]]. hen, we manipulated the internals sums by pushing them out. 
   
-  Remarkably, for a Markovian process, the expectation collapses simply as 
+  Remarkably, for a [[Markov Chain|Markov Process]], the expectation collapses simply as 
 
 $$
 E[x] = \sum_{x_1} x P(x_1)
