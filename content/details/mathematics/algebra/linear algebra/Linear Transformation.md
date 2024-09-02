@@ -29,6 +29,7 @@
 * [[Dimension Theorem]]
 * [[Linear Transformation Matrix Isomorphism]]
 * [[Matrix Diagonalization]]
+* [[Invariant Subspace]]
 
 # Misc
 * Let $V$ be a vector space and $W_1\le V$. A function $T:V\to V$ is called a **projection** on $W_1$ if
@@ -39,8 +40,6 @@
   $$
   V = N(T) \oplus R(T)
   $$
-
-* Let $V$ be a vector space and $T:V\to V$ be linear. A subspace $W\le V$ is $T$-**invariant** if $T(x)\in W$ $\forall x\in W$. That is, $T(W)\subseteq W$
 
 [^oplus]: See [[Vector Sum and Direct Sum]]
 # Links

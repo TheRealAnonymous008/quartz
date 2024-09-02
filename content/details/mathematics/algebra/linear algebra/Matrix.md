@@ -42,8 +42,9 @@
 
 * The **transpose** $M^T$ of an $m\times n$ matrix $M$ is the $n\times m$ matrix where $M^T_{ij} = M_{ji}$
 	* $(AB)^T=B^TA^T$
-  
-  A matrix is **symmetric** if 
+
+
+* A matrix is **symmetric** if 
   $$
   M^T = M
   $$
@@ -78,11 +79,19 @@
 	  $$
 	  \det(V)=\prod_{0\le i < j \le n} (c_j-c_i)
 	  $$
+
 # Topics
 * [[Matrix Multiplication]]
 * [[Matrix Inversion]]
 * [[Matrix Limit]]
 * [[Elementary Matrix Operations]]
 * [[Determinant]]
+
+* [[Orthogonality and Orthonormality]]
+* [[Matrix Conjugate and Adjoint]]
+* [[Normal Matrix]]
+* [[Self-Adjoint Matrix]]
+* [[Unitary and Orthogonal Operators]]
+
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence]]

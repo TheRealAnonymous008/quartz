@@ -31,6 +31,12 @@
 
 
 * (*Friedberg 5.16*) Let $T$ be a linear operator on a finite dimensional vector space $V$. $T$ is diagonalizable if and only if $V$ is the [[Vector Sum and Direct Sum|direct sum]] of the eigenspaces of $T$.
+	* Suppose $T$ is diagonalizable.  Each eigenspace $E_{\lambda_i}$ is $T$-[[Invariant Subspace|invariant]] with characteristic polynomial $(\lambda_i-t)$. Which means by (*Friedberg 5.29*) The characteristic polynomial of $T$ is the product
+	  $$
+	  f(t) = (\lambda_1-t)^{m_1}\dots (\lambda_k-t)^{m_k}
+	  $$
+	  Where $m_i$ is the algebraic multiplicity of each eigenvalue, equal to the dimension of the corresponding eigenspace.
+
 
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]] - Ch. 5

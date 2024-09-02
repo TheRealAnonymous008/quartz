@@ -27,6 +27,8 @@
 * Chess Openings
 * [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
 * [HackerFactor](https://www.hackerfactor.com/blog/) 
+* [Johnson-Lindenstrauss Lemma](https://en.wikipedia.org/wiki/Johnson–Lindenstrauss_lemma)
+* [Look more into Sparse Autoencoder](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
 
 # Notemarks
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
@@ -68,6 +70,7 @@
 ## What to Learn? 
 * Universities provide curricula that can aid in the self learning process. The autodidact can either follow these curricula, figure out prerequisites needed for a field of study or simply explore what is out there
 	* [Columbus State University](https://catalog.columbusstate.edu/academic-units/)
+	* [Seoul National University](https://en.snu.ac.kr/academics/curriculum)
 	* [University of Michigan](https://catalog.umd.umich.edu/azprograms/)
 # Curios
 * [The Library of Babel Website](https://libraryofbabel.info) 

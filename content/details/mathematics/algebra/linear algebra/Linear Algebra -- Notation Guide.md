@@ -35,7 +35,7 @@
 ***
 * $T, U$ - generic linear transformation
 * $I_V, I$ - identity transformation from $V$ to $V$ 
-* $T_0$ - zero transformation/
+* $T_0$ - zero transformation
 * $N(T)$ - null space of $T$
 * $R(T)$ - column space of $T$
 * $\text{nullity}(T)$ - nullity of $T$
@@ -44,6 +44,7 @@
 * $L_A$ - left multiplication transformation using matrix $A$.
 * $T^{-1}$ - inverse of linear transformation $T$.
 * $A\sim B$ - similar matrices
+* $T_W$ - the restriction of $T$ on $W$. 
 ***
 * $V^\ast$ - the dual space of $V$.
 * $\beta^\ast$ - the dual basis of $\beta$.
@@ -53,3 +54,20 @@
 * $\lambda$ - generic eigenvalue of $A$ or  $T$.
 * $f(t)$ - generic characteristic polynomial
 * $E_\lambda$ - eigenspace corresponding to $\lambda$
+*****
+* $\lim_{m\to\infty}A_m = L$ - The limit of the sequence of matrices $A_1,\dots A_n$ is $L$
+* $p_i(A)$ - sum of absolute values of row $i$ of $A$.
+* $v_j(A)$ - sum of absolute values of column $j$ of $A$.
+* $p(A)$ - row sum
+* $v(A)$ - column sum
+***
+* $\braket{x,y}$ - the inner product of $x$ and $y$.
+* $x\cdot y$ - standard inner product / dot product of $x$ and $y$.
+* $\braket{x,y}_n$ - standard inner product of $x$ and $y$ in $F^n$. 
+* $\overline{x}$ - complex conjugate of $x$
+* $T^\ast$ - adjoint of linear transformation $T$
+* $A^\ast$ - conjugate transpose of matrix $A$
+* $||x||$ - norm of $x$.
+* $d(x,y)$ - distance between $x$ and $y$
+* $S^\perp$ - orthogonal complement of $S$.
+* $x_\perp$ - orthogonal projection of $x$.

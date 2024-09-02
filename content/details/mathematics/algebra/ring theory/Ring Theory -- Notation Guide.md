@@ -16,6 +16,7 @@
 * $\text{char}(R)$ - characteristic of a ring
 ****
 * $F$ - a generic field.
+* $F\le E$ - $E$ is an extension field of $F$ ; $F$ is a subfield of $E$.
 * $D$ - a generic integral domain
 * $\text{Quot}(D)$ - the ring of quotients over the integral domain $D$.
 * $Q(R,T)$ - partial ring of quotients for $R$ where $T\subseteq R$ is closed under multiplication and contains neither $0$ nor divisors of $0$
@@ -29,6 +30,9 @@
 * $V(S)$ - the algebraic variety of subset $S$. 
 * $\text{1t}(f)$ - the leading term of $f$ when $f$ is written in term order [^term_order]
 * $\text{1p}(f)$ - the power product of the leading term of $f$
+* $\text{irr}(\alpha, F)$ - the irreducible polynomial for $\alpha$ over $F$.
+* $\deg(\alpha, F)$ - the degree of $\alpha$ over $F$. 
+* $F(\alpha)$ - a simple extension of field $F$ containing $\alpha$
 ***
 * $R/N$ - the factor ring of $R$ by $N$
 * $A+B$ - sum of two ideals

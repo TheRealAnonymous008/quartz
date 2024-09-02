@@ -37,6 +37,7 @@
 	* [[Factory Design and Policy]]
 
 * [[Supply Chain Management]]
+* [[Swarm Manufacturing]]
 # Links
 * [Industry 4.0 - Introduction to Smart Manufacturing ](https://www.youtube.com/watch?v=SbCTwErZT6I)
 * [[Factory Physics by Hopp and Spearman|Hopp and Spearman]]

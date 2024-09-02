@@ -35,6 +35,8 @@
   
   Let $\gcd(a,m)=d$. The congruence $ax\equiv b \ (\text{mod } m)$ has a solution if and only if $d \ \mid \ b$. When this is the case, the solutions are the integers in exactly $d$ distinct residue classes modulo $m$.   
 
+* An element of $\mathbb{C}$ that is [[Extension Field and Polynomials|algebraic]] over $\mathbb{Q}$ is an **algebraic number**.  A **transcendental number** is an element of $\mathbb{C}$ that is transcendental over $\mathbb{Q}$ 
+
 # Topics
 * [[Number Theory -- Notation Guide]]
 # Links

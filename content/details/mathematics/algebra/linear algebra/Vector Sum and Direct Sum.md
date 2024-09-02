@@ -48,5 +48,39 @@
 	  \dim(V) = \sum_{i=1}^k \dim(W_i)
 	  $$
 
+* We can extend direct sums to matrices as well.
+  
+  Let $B_1\in M_{n\times n}(F)$, and $B_2\in M_{m\times m}(F)$ not necessarily of the same size. The direct sum $A=B_1\oplus B_2$ is the $(m+n)\times (m+n)$ matrix $A$ such that
+  $$
+  A_{ij} =
+  \begin{cases}
+  (B_1)_{ij} & \text{ for } 1\le i,j \le m \\
+  (B_2)_{ij} & \text{ for } m + 1 \le i,j \le m+n \\
+  0& \text{otherwise}
+  \end{cases}
+  $$
+  In other words
+  $$
+  A  = 
+  \begin{bmatrix}
+  B_1 &  O \\ 
+  O & B_2
+  \end{bmatrix}
+  $$
+  In general if $A=B_1\oplus B_2 \oplus \dots \oplus B_k$ 
+  $$
+  A  = 
+  \begin{bmatrix}
+  B_1 &  O  & \cdots & O\\ 
+  O & B_2 & \cdots  & O \\
+  \vdots & \vdots  & \ddots & \vdots \\
+  O & O & \cdots  & B_k
+  \end{bmatrix}
+  $$
+
+* (*Friedberg 5.30*) Let $T$ be a linear operator on a finite-dimensional vector space $V$ and let $W_1,W_2,\dots, W_k$ be $T$-invariant subspaces of $V$ such that $V=W_1\oplus\dots\oplus W_k$. For each $i$, let $\beta_i$ be a basis for $W_i$ and $\beta=\beta_1\cup\dots\cup\beta_k$. If $A=[T]_\beta$ and $A_i=[T_{W_i}]_{\beta_i}$. Then 
+  $$
+  A = A_1 \oplus \cdots \oplus A_k 
+  $$
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]

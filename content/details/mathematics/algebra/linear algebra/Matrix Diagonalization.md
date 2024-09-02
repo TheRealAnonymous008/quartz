@@ -1,6 +1,6 @@
 * $T:V\to V$ is said to be **diagonalizable** if there exists an ordered [[Linear Combination|basis]] $\beta$ for $V$ such that $[T]_\beta$ is a diagonal [[Matrix]]. 
   
-  $A\in M_{n\times n}(F)$ is said to be **diagonaliziable** if $A$ is similar to a diagonal matrix.
+  $A\in M_{n\times n}(F)$ is said to be **diagonalizable** if $A$ is similar to a diagonal matrix.
 
 * (*Friedberg 5.3*) Let $T:V\to V$ and $\beta$ a basis for $V$. Then $T$ is diagonalizable if and only if $[T]_\beta$ is a diagonalizable matrix.
   
@@ -8,7 +8,7 @@
   
   It immediately follows that (*Friedberg 5.3.1*) A matrix $A$ is diagonalizable if and only if $L_A$ is diagonalizable.
 
-* (*Friedberg 5.4*) $T$ is diagonalizable if and only if there exists a basis $\beta=(x_1,\dots,x_n)$ for $B$and scalars $\lambda_1,\dots,\lambda_n$ (not necessarily distinct) such that $T(x_j)=\lambda x_j$ such that
+* (*Friedberg 5.4*) $T$ is diagonalizable if and only if there exists a basis $\beta=(x_1,\dots,x_n)$ for $B$ and scalars $\lambda_1,\dots,\lambda_n$ (not necessarily distinct) such that $T(x_j)=\lambda x_j$ such that
   $$
   [T]_\beta = 
   \begin{bmatrix}
@@ -50,6 +50,7 @@
 	  $$
 	  TU = UT
 	  $$
+	  (*Friedberg e5.4.25*) If $T$ and $U$ are diagonalizable linear operators such that $UT=TU$, then $T$ and $U$ are simultaneously diagonalizable. *
 	* (*Friedberg e5.2.17*) $T$ and $T^m$ are simultaneously diagonalizable for any $m\in \mathbb{Z}^+$.
 
 

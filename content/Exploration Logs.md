@@ -1,6 +1,11 @@
 # File
 
 # Queue
+* [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
+
+
+[^Lyu_2023]: Lyu et al. (2023) [On Centralized Critics in Multi-Agent Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1613/jair.1.14386) 
+
 * [^Kim_2023]   introduces a new mutual information framework for MARL. This leads to the development of an algorithm called **Variational Maximum Mutual Information, Multi-Agent Actor Critic** which allows agents to coordinate simultaneous actions without latency. 
 
 [^Kim_2023]: Kim, Jung, Cho, Sung (2020) [A Maximum Mutual Information Framework for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.02732)

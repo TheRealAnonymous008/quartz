@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9f11c54c5cb1f451",
+        "id": "0b5d3365168e0c13",
         "type": "tabs",
         "children": [
           {
-            "id": "c65bff022473bb17",
+            "id": "96245b73adfb80a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zshortdump/Markov Chain.md",
+                "file": "Exploration Logs.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c89662a7a6fa0ba7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Markov",
+                "query": "\"trace\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exploration Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exploration Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exploration Logs.md"
+              }
             }
           },
           {
@@ -161,35 +156,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c89662a7a6fa0ba7",
+  "active": "96245b73adfb80a6",
   "lastOpenFiles": [
-    "zshortdump/Markov Chain.md",
-    "__meta/The Antilibrary.md",
-    "details/psychology/biases/Thinking Fast And Slow.md",
-    "details/machine learning/supervised/Sequence Based Algorithms.md",
-    "details/machine learning/architectures/Recurrent Neural Network.md",
-    "details/mathematics/probability and statistics/prob_stat/Random Variables and Probability Distributions.md",
-    "details/mathematics/Queueing Theory.md",
-    "details/machine learning/reinforcement learning/pgms/Policy Gradient Methods.md",
-    "details/machine learning/reinforcement learning/fundamentals/Monte Carlo Methods in Reinforcement Learning.md",
-    "details/computer science/data structures and algorithms/Metaheuristics.md",
-    "details/machine learning/reinforcement learning/marl/MARL from a Game Theoretic Perspective.md",
-    "details/machine learning/reinforcement learning/fundamentals/Markov Processes in Machine Learning.md",
-    "details/machine learning/architectures/Language Model.md",
-    "details/computer science/data structures and algorithms/Hashed Data Structure.md",
-    "details/engineering/factories_and_operations/Fundamental Objects in Factory Physics.md",
-    "details/engineering/factories_and_operations/Factory Dynamics.md",
-    "details/machine learning/reinforcement learning/fundamentals/Dynamic Programming for Reinforcement Learning.md",
-    "details/machine learning/reinforcement learning/fundamentals/Backups in Reinforcement Learning.md",
-    "details/machine learning/reinforcement learning/fundamentals/A Unified View on Reinforcement Learning Approaches.md",
-    "details/mathematics/probability and statistics/prob_stat/Probability Theory.md",
-    "details/mathematics/algebra/linear algebra/Matrix.md",
-    "zshortdump/Matrix Limit.md",
-    "details/machine learning/reinforcement learning/marl/MARL Research.md",
-    "__meta/Exploration Logs.md",
-    "__images/Sparrow Swarm Search.png",
-    "details/machine learning/reinforcement learning/pgms/Trust Region Policies.md",
+    "details/computer science/computer graphics/Illuminating Rendered Objects.md",
+    "details/computer science/Computer Graphics.md",
+    "details/computer science/computer graphics/Basic Rendering and the Rendering Pipeline.md",
+    "Exploration Logs.md",
+    "zshortdump/Extension Field and Polynomials.md",
+    "zshortdump/Tarot Cards.md",
+    "details/computer science/theory of computation/Compiler Theory.md",
+    "details/mathematics/probability and statistics/Measure Theory.md",
+    "details/psychology/Human Biases.md",
+    "details/mathematics/calculus/Differential Equation.md",
+    "details/computer science/data structures and algorithms/Sorting Algorithms.md",
+    "__meta/Orphanage.md",
+    "details/mathematics/algebra/linear algebra/Unitary and Orthogonal Operators.md",
+    "details/mathematics/algebra/linear algebra/Matrix Diagonalization.md",
+    "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
+    "details/mathematics/algebra/linear algebra/Self-Adjoint Matrix.md",
     "details/machine learning/reinforcement learning/marl/Self Play.md",
+    "details/mathematics/algebra/linear algebra/Matrix Multiplication.md",
+    "details/mathematics/algebra/linear algebra/Matrix.md",
+    "details/mathematics/algebra/linear algebra/Vector Coordinate System.md",
+    "details/mathematics/algebra/linear algebra/Normal Matrix.md",
+    "details/mathematics/algebra/linear algebra/Inner Product Space.md",
+    "details/engineering/factories_and_operations/Swarm Manufacturing.md",
+    "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
+    "details/mathematics/algebra/linear algebra/Matrix Conjugate and Adjoint.md",
+    "details/mathematics/algebra/linear algebra/Invariant Subspace.md",
+    "__images/C3DP Architecture.png",
+    "details/philosophy/misc",
+    "details/philosophy/thinkers",
+    "details/philosophy/works",
+    "details/philosophy/frameworks",
+    "__images/Sparrow Swarm Search.png",
     "__images/Smart Manufacturing MARL pipeline.png",
     "__images/Smart Manufacturing MARL architecture.png",
     "__images/Merge Sort.png",
@@ -201,14 +201,9 @@
     "__images/TMADDPG.png",
     "details/computer science/software engineering/guidelines",
     "details/mathematics/probability and statistics/Untitled",
-    "details/mathematics/probability and statistics/measure theory",
-    "details/mathematics/probability and statistics/prob_stat",
     "__images/Integral Theory.png",
     "__images/Three point perspective.png",
-    "details/machine learning/architectures",
     "__images/GAN.png",
-    "__images/Intersecting Diagonals.png",
-    "details/mathematics/algebra/ring theory",
     "details/mathematics/Untitled.canvas",
     "Untitled.canvas",
     "__meta/{{Media Board}}.canvas",

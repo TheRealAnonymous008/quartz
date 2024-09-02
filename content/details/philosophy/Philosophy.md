@@ -4,20 +4,23 @@
 	* Part of this is to uncover all presuppositions--all implicit assumptions.
 	* A great deal of practical reasoning is not just coherence but consistency--can this line of thought be actually implemented.
 
-# Others
-* The ‘I’ is the point of view from which interpretation starts. It is not something else given in experience, because nothing given in experience could solve the formal problem for which an ‘I’ is needed. But a point of view is always needed: to represent a scene to yourself is to represent yourself as experiencing it one way or another.
 # Topics
-* [[Beliefs and General Principles ]]- a set of personal beliefs and doctrines derived upon reflection
+* [[Metaphysics]]
+* [[Miscellaneous Philosophical Ideas and Claims]]
 
-* [[Epistemology]]
-* [[Free Will]]
+
 * [[Morality]]
-* [[Philosophy of the Mind]]
-* [[Religion and Mysticism]]
+* [[Philosophical Questions]]
+## Misc
+* [[Beliefs and General Principles ]]- a set of personal beliefs and doctrines derived upon reflection
 * [[Integral Theory]]
-* [[Stoicism]]
+* [[Religion and Mysticism]]
+* [[Stoicism]] 
+
 # Links
+* [The History of Philosophy Visualized](https://www.denizcemonduygu.com/philo/) - showcases a handcrafted timeline of the history of how philosophical ideas developed -- who agreed or disagreed with whom in which domain. On top of being a great visualization, this serves as the inspiration for organizing the ideas in this vault concerning Philosophy. 
+
 * [[Think- A Compelling Introduction to Philosophy by Blackburn]]
-* [[The Pig That Wants to be Eaten and Ninety-Nine Other Thought Experiments by Baggini]]
+* [[A New History of Western Philosophy  By Anthony Kenny]]
 
 * [[Boolean Algebra]] - one important facet to understanding logic and arguments.

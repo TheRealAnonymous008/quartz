@@ -1,4 +1,4 @@
-* Most of Computer Graphics can be understood as the manipulation of $4\times 4$ matrices.
+* Most of Computer Graphics can be understood as the manipulation of $4\times 4$ [[Matrix|matrices]].
 * Textures are not necessarily images, nor are they always necessary to solve graphics problems  (see [[Texturing in Computer Graphics]]).
 
 * Approaches to Volume Rendering

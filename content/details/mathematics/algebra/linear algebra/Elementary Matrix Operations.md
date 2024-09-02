@@ -127,6 +127,7 @@
 	  Then $\{u_1,\dots,u_{n-m}\}$ is [[Linear Combination|basis]] for the solution set of the corresponding homogeneous system and $s_0$ is a solution in the original system. 
 
 * The method for solving systems of linear equations can be phrased as applying a [[Polynomial Ring|division algorithm process]] repeatedly to change a given [[Groebner Basis|ideal basis]] into one that better illustrates the geometry of the associated algebraic variety. 
+ 
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]
 * [[Matrix]]

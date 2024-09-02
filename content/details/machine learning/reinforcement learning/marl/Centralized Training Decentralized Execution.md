@@ -10,10 +10,6 @@
 	* Improved performance
 	* Reduced variance
 	* More robustness.
-* [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
-
-
-[^Lyu_2023]: Lyu et al. (2023) [On Centralized Critics in Multi-Agent Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1613/jair.1.14386) 
 
 
 
