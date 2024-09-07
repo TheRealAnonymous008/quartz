@@ -127,7 +127,16 @@
 	  Then $\{u_1,\dots,u_{n-m}\}$ is [[Linear Combination|basis]] for the solution set of the corresponding homogeneous system and $s_0$ is a solution in the original system. 
 
 * The method for solving systems of linear equations can be phrased as applying a [[Polynomial Ring|division algorithm process]] repeatedly to change a given [[Groebner Basis|ideal basis]] into one that better illustrates the geometry of the associated algebraic variety. 
- 
+
+* (*Friedberg 6.37*) For the system $Ax=b$, where $A$ is invertible and $b\ne 0$, we have the following (see more on the [[Inner Product Space|condition number here]]).
+	* For any norm $||\cdot ||$. 
+	  $$
+	  \frac{1}{\text{cond}(A)} \frac{||\delta b||}{||b||} \le \frac{||\delta x||}{||x||} \le \text{cond}(A) \frac{||\delta b||}{||b||}
+	  $$
+	* Let $\lambda_l$ and $\lambda_m$ be the largest and smallest eigenvalues of $A^\ast A$ (see more [[Self-Adjoint Matrix|here]]). 
+	  $$
+	  \text{cond}(A) = \sqrt{\frac{\lambda_l}{\lambda_m}}
+	  $$
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]
 * [[Matrix]]

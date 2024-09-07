@@ -29,6 +29,7 @@
 * [HackerFactor](https://www.hackerfactor.com/blog/) 
 * [Johnson-Lindenstrauss Lemma](https://en.wikipedia.org/wiki/Johnson–Lindenstrauss_lemma)
 * [Look more into Sparse Autoencoder](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
+* [Dreams are (theorized) as ways humans prevent overfitting](https://www.sciencedirect.com/science/article/pii/S2666389921000945)
 
 # Notemarks
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.

@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0b5d3365168e0c13",
+        "id": "ed569dd35ce9037e",
         "type": "tabs",
         "children": [
           {
-            "id": "96245b73adfb80a6",
+            "id": "5d78b08a1f8f4dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration Logs.md",
+                "file": "zshortdump/Jordan Canonical Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44db529891a2a926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"trace\"",
+                "query": "5.22",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,11 +77,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration Logs.md",
+                "file": "zshortdump/Jordan Canonical Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration Logs.md",
+                "file": "zshortdump/Jordan Canonical Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration Logs.md"
+                "file": "zshortdump/Jordan Canonical Form.md"
               }
             }
           },
@@ -156,34 +170,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96245b73adfb80a6",
+  "active": "5d78b08a1f8f4dc6",
   "lastOpenFiles": [
-    "details/computer science/computer graphics/Illuminating Rendered Objects.md",
-    "details/computer science/Computer Graphics.md",
-    "details/computer science/computer graphics/Basic Rendering and the Rendering Pipeline.md",
-    "Exploration Logs.md",
-    "zshortdump/Extension Field and Polynomials.md",
-    "zshortdump/Tarot Cards.md",
-    "details/computer science/theory of computation/Compiler Theory.md",
-    "details/mathematics/probability and statistics/Measure Theory.md",
-    "details/psychology/Human Biases.md",
-    "details/mathematics/calculus/Differential Equation.md",
-    "details/computer science/data structures and algorithms/Sorting Algorithms.md",
-    "__meta/Orphanage.md",
-    "details/mathematics/algebra/linear algebra/Unitary and Orthogonal Operators.md",
+    "__books/Linear Algebra by Friedberg Insel and Spence.md",
+    "zshortdump/Jordan Canonical Form.md",
+    "details/mathematics/probability and statistics/prob_stat/Markov Chain.md",
+    "details/mathematics/algebra/ring theory/Field.md",
     "details/mathematics/algebra/linear algebra/Matrix Diagonalization.md",
-    "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
-    "details/mathematics/algebra/linear algebra/Self-Adjoint Matrix.md",
-    "details/machine learning/reinforcement learning/marl/Self Play.md",
-    "details/mathematics/algebra/linear algebra/Matrix Multiplication.md",
-    "details/mathematics/algebra/linear algebra/Matrix.md",
-    "details/mathematics/algebra/linear algebra/Vector Coordinate System.md",
-    "details/mathematics/algebra/linear algebra/Normal Matrix.md",
-    "details/mathematics/algebra/linear algebra/Inner Product Space.md",
-    "details/engineering/factories_and_operations/Swarm Manufacturing.md",
     "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
-    "details/mathematics/algebra/linear algebra/Matrix Conjugate and Adjoint.md",
+    "details/mathematics/algebra/linear algebra/Eigenspaces and Eigenbases.md",
+    "__meta/The Antilibrary.md",
     "details/mathematics/algebra/linear algebra/Invariant Subspace.md",
+    "details/mathematics/algebra/linear algebra/Inner Product Space.md",
+    "details/mathematics/algebra/linear algebra/Orthogonality and Orthonormality.md",
+    "details/mathematics/algebra/linear algebra/Elementary Matrix Operations.md",
+    "details/mathematics/algebra/linear algebra/Self-Adjoint Matrix.md",
+    "details/mathematics/algebra/linear algebra/Bilinear Form.md",
+    "zshortdump/Extension Field and Polynomials.md",
+    "details/mathematics/algebra/linear algebra/Quadratic Form.md",
+    "details/mathematics/algebra/ring theory/Fundamental Constructs of Ring Theory.md",
+    "details/mathematics/algebra/linear algebra/Linear Transformation.md",
+    "details/mathematics/algebra/linear algebra/Vector Coordinate System.md",
+    "zshortdump/Cryptography.md",
+    "index.md",
+    "details/mathematics/algebra/linear algebra/Normal Matrix.md",
+    "details/mathematics/algebra/Linear Algebra.md",
+    "details/computer science/Software Engineering.md",
+    "details/natural sciences/biology/cell biology/The Properties of Life from a Biological Perspective.md",
+    "Exploration Logs.md",
+    "__images/Swarm Production System.png",
+    "__images/High Level SPS.png",
+    "details/engineering/manufacturing",
     "__images/C3DP Architecture.png",
     "details/philosophy/misc",
     "details/philosophy/thinkers",
@@ -200,10 +217,7 @@
     "__images/MAPPO.png",
     "__images/TMADDPG.png",
     "details/computer science/software engineering/guidelines",
-    "details/mathematics/probability and statistics/Untitled",
     "__images/Integral Theory.png",
-    "__images/Three point perspective.png",
-    "__images/GAN.png",
     "details/mathematics/Untitled.canvas",
     "Untitled.canvas",
     "__meta/{{Media Board}}.canvas",

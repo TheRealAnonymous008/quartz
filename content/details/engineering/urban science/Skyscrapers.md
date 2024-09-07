@@ -35,7 +35,7 @@
 * Use of glass for natural lighting and temperature control to save energy. 
 * Glass that is self-cleaning.
 * Electrochromic smart glass that changes the appearance of the glass.
-* 3D printing of building components
+* [[Additive Manufacturing|3D printing]] of building components
 * The greenification of buildings. Vertical Gardens that are designed with their plant's needs in mind.
 * Air quality control -- minimizing pollutants.
 * Ergonomic design.

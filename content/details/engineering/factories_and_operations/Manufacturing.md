@@ -37,6 +37,8 @@
 	* [[Factory Design and Policy]]
 
 * [[Supply Chain Management]]
+
+* [[Additive Manufacturing]]
 * [[Swarm Manufacturing]]
 # Links
 * [Industry 4.0 - Introduction to Smart Manufacturing ](https://www.youtube.com/watch?v=SbCTwErZT6I)

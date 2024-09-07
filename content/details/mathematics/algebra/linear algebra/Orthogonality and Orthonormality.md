@@ -109,5 +109,72 @@
   ||x||^2 \ge \sum_{i=1}^n |\braket{x,x_i}| ^2 
   $$ 
 
+* Let $V$ be an inner product space and $T:V\to V$ be a projection. $T$ is an **orthogonal projection** if 
+	* $R(T)^\perp = N(T)$
+	* $N(T)^\perp = R(T)$
+* *Orthogonal Projections are uniquely determined by their range*.
+* (*Friedberg 6.23*) Let $V$ be an inner product space and $T$ be a linear operator on $V$. Then $T$ is an orthogonal projection if and only if
+  $$
+  T^2 = T= T^\ast 
+  $$
+
+# Geometric Interpretation
+* Let $T$ be a linear operator on a finite-dimensional real inner product space $V$. $T$ is a **rotation** if $T$ is the identity on $V$ or if there exists a two dimensional subspace $W$ of $V$, an orthonormal basis $\beta=\set{x_1,x_2}$ for $W$ and a real number $\theta$ such that
+  $$
+  T\left(\begin{bmatrix}
+  x_1 \\
+  x_2
+  \end{bmatrix}
+  \right) = \begin{bmatrix}
+  \cos\theta & \sin\theta \\
+  -\sin\theta & \cos\theta
+  \end{bmatrix}\begin{bmatrix}
+  x_1 \\
+  x_2
+  \end{bmatrix}
+  $$
+  And $T(y)=y$ for all $y\in W^\perp$. 
+  
+  We refer to $W^\perp$ as the **axis of rotation**. $T$ is called a rotation of $W$ about $W^\perp$. 
+
+* Let $T$ be a linear operator on a finite-dimensional real inner product space $V$. The operator $T$ is called a **reflection** if there exists a one-dimensional subspace $W$ of $V$ such that 
+  $$
+  T(x) = \begin{cases}
+  -x & \text{if } x \in W \\ 
+  x & \text{if } x \in W^\perp
+  \end{cases}
+  $$
+  We say that $T$ is a reflection of $V$ about $W^\perp$.
+
+* (*Friedberg 6.38*) Let $T$ be an orthogonal operator on a two dimensional real inner product space $V$. Then $T$ is *either a reflection or a rotation*.
+  
+  Also $T$ is a reflection if and only if the [[Determinant]] $\det(T)=1$
+  $T$ is a rotation if and only if $\det(T)=1$. 
+	* (*Friedberg e6.10.8*) No orthogonal operator can be both a rotation and a reflection.
+* (*Friedberg 6.38.1*) Let $V$ be a two dimensional real inner product space. The [[Fundamental Constructs of Group Theory|composition]] of a reflection and a rotation on $V$ is a reflection on $V$. 
+* (*Friedberg 6.39*) Let $T$ be an orthogonal operator on a nonzero finite dimensional real inner product space $V$. Then there exists a collection of pairwise orthogonal $T$-[[Invariant Subspace|invariant subspaces]] $\set{W_1,\dots, W_n}$ of $V$ such that
+	* $1\le \dim (W_i)\le 2$ 
+	* $V=W_1 \oplus W_2 \oplus \dots\oplus W_n$ 
+	* The restriction of $T$ to $W_i$ is either a rotation or a reflection. 
+	* (*Friedberg 6.40*) 
+		* The number of $i$'s for which $T_{W_i}$ is a reflection is even or odd according to whether $\det(T)=1$ or $\det(T)=-1$.
+		* It is always possible to decompose $V$ as shown so that the number of $i$'s for which $T_{W_i}$ is a reflection is zero or one according to whether $\det(T)=1$ or $\det(T)=-1$. Also if $T_{W_i}$ is a reflection then $\dim(W_i)=1$. 
+
+* (*Friedberg 6.40.1*) Let $T$ be an orthogonal operator on a finite dimensional real inner product space $V$. Then there exists a collection $\set{T_1,\dots,T_m}$ of orthogonal operators such that
+	* Each $T_i$ is either a rotation or a reflection
+	* For at most one $i$, $T_i$ is a reflection.
+	* $T_iT_j=T_jT_i$
+	* $T=T_1T_2\dots T_m$
+	* $$
+	  \det(T) = \begin{cases}
+	  1 & \text{all } T_i's \text{ are rotations} \\ 
+	  -1 & \text{otherwise}
+	  \end{cases}
+	  $$
+
+
+
+
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence]]
+* [[Geometry]]

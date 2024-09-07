@@ -1,5 +1,5 @@
 # Asynchronous Learning 
-* The aim is to speed up the process of [[Off Policy Prediction and Control with Approximation#DQN|DQN]] using asynchronous methods -- that is, by running learning in [[Multiprogramming|parallel]].  [^Minh_2016]
+* The aim is to speed up the process of [[Off Policy Prediction and Control with Approximation#DQN|DQN]] using asynchronous methods -- that is, by running learning in [[Multiprogramming|parallel]].  [^minh_2016]
 * Instead of using replay memory, we rely on different threads running different policies and multiple actors perform exploration (via $\epsilon$-greedy policies where $\epsilon$ is sampled from some distribution)
 	* This reduces training time by exploiting parallelism.
 	* This allows us to instead use [[On Policy Prediction and Control with Approximation|On policy methods]] with stability guarantees

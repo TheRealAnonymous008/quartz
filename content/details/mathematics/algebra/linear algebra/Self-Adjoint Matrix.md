@@ -43,5 +43,29 @@
 
 
 * (*Friedberg Lem.6.18*) Let $V$ be a finite dimensional inner product space and let $U$ be a self adjoint operator on $V$. If $\braket{x,U(x)}=0$ $\forall x\in V$ then $U=T_0$.
+
+# Rayleigh Conditioning
+* Let $B\in M_{n\times n}(F)$ be a self-adjoint matrix. The **Rayleigh quotient** for $x\ne 0$ is defined as the scalar
+  $$
+  R(x) = \frac{\braket{Bx,x}}{||x||^2}
+  $$
+
+* (*Friedberg 6.36*) For a self adjoint matrix $B$, $\max_{x\ne 0} R(x)$ is the largest eigenvalue of $B$. Similarly, $\min_{x\ne 0} R(x)$ is the smallest eigenvalue of $B$. 
+	* *Proof*. Choose an orthonormal basis consisting of eigenvectors of $B$. Represent 
+	  $$
+	  x= \sum_{i=1}^n a_ix_i
+	  $$
+	  Assume that the eigenvalues are sorted  $\lambda_1\le \dots\le \lambda_n$. 
+	  
+	  Computing $R(x)$, we have
+	  $$
+	  R(x)=\frac{\braket{\sum_{i=1}^n a_i\lambda_ix_i, \sum_{i=1}^n a_ix_i}}{||x||^2} =\frac{\sum_{i=1}^n \lambda_i |a_i|^2}{||x||^2}
+	  $$
+	  We can clearly bound this as 
+	  $$
+	  \lambda_1\le R(x) \le \lambda_n
+	  $$
+
+
 # Link
 * [[Linear Algebra by Friedberg Insel and Spence]]

@@ -14,6 +14,14 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 * Notes are organized in a directory structure corresponding to their broad categories. This is a fluid structure that is subject to change. Nevertheless, the search tool exists for a reason.
 * Research based sections are organized based on recency.
 
+# Main Sections
+* [[Creativity]]
+* [[Engineering]]
+* [[Game Design]]
+* [[Machine Learning]]
+* [[Mathematics]]
+* [[Science]]
+
 # Personal Section
 * [[Beliefs and General Principles]]
 * [[Interesting People]]

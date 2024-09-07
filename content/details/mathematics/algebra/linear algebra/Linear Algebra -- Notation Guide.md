@@ -67,7 +67,22 @@
 * $\overline{x}$ - complex conjugate of $x$
 * $T^\ast$ - adjoint of linear transformation $T$
 * $A^\ast$ - conjugate transpose of matrix $A$
-* $||x||$ - norm of $x$.
+* $||x||$ - norm of vector $x$.
+* $||A||$ - norm of matrix $A$
 * $d(x,y)$ - distance between $x$ and $y$
 * $S^\perp$ - orthogonal complement of $S$.
 * $x_\perp$ - orthogonal projection of $x$.
+*****
+* $H$ - generic bilinear form
+* $\mathcal{B}(V)$ - the set of all bilinear forms on $V$.
+* $\psi_\beta(H)$ - the matrix representation of bilinear form $H$ with respect to basis $\beta$. 
+* $K$ - generic quadratic form
+* $p$ - index of a real symmetric matrix
+* $J_{pr}$ - canonical form of a symmetric matrix with index $p$ and rank $r$.
+*****
+* $R(x)$ - Rayleigh quotient 
+* $\text{cond}(A)$ - condition number of $A$.
+*****
+* $J_i$ - generic Jordan block
+* $K_\lambda$ - generalized eigenspace corresponding to $\lambda$.
+* $Z$ - generic cycle of generalized eigenvectors

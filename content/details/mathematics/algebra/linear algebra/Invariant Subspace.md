@@ -54,12 +54,19 @@
   $$
   f(t) = f_1(t) \cdot f_2(t) \cdot \dots \cdot f_k(t)
   $$
+	* (*Friedberg e6.10.14*) Let $T$ be a linear operator on a finite dimensional vector space $V$ such that $V$ is a direct sum of $T$-invariant subspaces $W_i$. That is $V=W_1\oplus\dots\oplus W_k$. Then 
+	  $$
+	  \det(T)= \det(T_{W_1})\cdot \det(T_{W_2}) \cdot \dots \cdot \det(T_{W_k})
+	  $$
 * (*Friedberg e5.4.35*) Let $T$ be a linear operator on a finite dimensional vector space $V$ and suppose $V=W_1\oplus\dots\oplus W_k$ where each $W_i$ are nontrivial $T$-invariant subspaces of $V$. Then the [[Determinant]] is given by
   $$
   \det (T) = \det(T_{W_1}) \cdot \dots\cdot \det (T_{W_k})
   $$
 
-
+* (*Friedberg Lem.6.39*) If $T$ is a linear operator on a nonzero finite dimensional real vector space $V$, then there exists a $T$-invariant subspace  $W$ of $V$ such that
+  $$
+  1\le\dim(W) \le 2
+  $$
 
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]

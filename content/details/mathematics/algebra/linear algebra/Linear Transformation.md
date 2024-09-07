@@ -30,6 +30,8 @@
 * [[Linear Transformation Matrix Isomorphism]]
 * [[Matrix Diagonalization]]
 * [[Invariant Subspace]]
+* [[Bilinear Form]]
+* [[Quadratic Form]]
 
 # Misc
 * Let $V$ be a vector space and $W_1\le V$. A function $T:V\to V$ is called a **projection** on $W_1$ if
@@ -40,6 +42,7 @@
   $$
   V = N(T) \oplus R(T)
   $$
+* (*Friedberg e2.3.14*) $T$ is a projection if and only if $T=T^2$ (that is, applying the projection twice has the same effect as applying it once)
 
 [^oplus]: See [[Vector Sum and Direct Sum]]
 # Links

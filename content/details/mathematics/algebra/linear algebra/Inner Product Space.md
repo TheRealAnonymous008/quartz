@@ -67,6 +67,24 @@
 	  $$
 	  \braket{x,y} = \frac{1}{4}\sum_{k=1}^4 i^k ||x+i^ky||^2 
 	  $$ 
+* The notion of a norm can be generalized to a matrix. Let $A\in M_{n\times n}(F)$. The **Euclidean norm** of $A$ is defined by
+  $$
+  ||A||=\max_{x\ne 0} \frac{||Ax||}{||x||}
+  $$
+  Where $x\in F^n$. 
+	* (*Friedberg 6.36.1*) For any square matrix $A$, $||A||$ is finite. and in fact equals $\sqrt{\lambda}$, where $\lambda$ is the largest [[Matrix Diagonalization|eigenvalue]] of $A^\ast A$.
+	* (*Friedberg Lem.6.36.2*) For any square matrix $A$, $\lambda$ is an eigenvalue of $A^\ast A$ if and only if $\lambda$ is an eigenvalue of $AA^\ast$. 
+	* (*Friedberg 6.36.2*) Let $A$ be an [[Matrix Inversion|invertible matrix]]. Then 
+	  $$
+	  ||A^{-1}|| = \frac{1}{\sqrt{\lambda}}
+	  $$
+	  Where $\lambda$ is the smallest eigenvalue of $A^\ast A$. 
+	* The **condition number** of $A$ is defined as 
+	  $$
+	  \text{cond}(A)= ||A||\cdot ||A^{-1}||
+	  $$
+	* (*Friedberg e6.9.10*) $\text{cond}(A)\ge 1$. In fact, $\text{cond}(A)=1$ if and only if $A$ is a scalar multiple of a [[Unitary and Orthogonal Operators|unitary or orthogonal matrix]]. 
+
 # Dot Product
 
 * The **standard inner product** (also called the **dot product**) is defined such that 

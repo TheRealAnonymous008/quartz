@@ -1,4 +1,8 @@
 # File
+* [^Queralta_2020] gives a survey for multi-robot search and rescue systems. 
+
+
+[^Queralta_2020]: Queralta et al. (2020) [Collaborative Multi-Robot Search and Rescue: Planning, Coordination, Perception, and Active Vision](https://ieeexplore.ieee.org/document/9220149?denied=)
 
 # Queue
 * [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
