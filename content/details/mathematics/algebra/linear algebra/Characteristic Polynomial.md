@@ -46,5 +46,7 @@
 	  $$
 	  f(A) = O
 	  $$
+	* A generalization of this concept is the [[Minimal Polynomial]]
+
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]

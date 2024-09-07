@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed569dd35ce9037e",
+        "id": "bb15c2624d650922",
         "type": "tabs",
         "children": [
           {
-            "id": "5d78b08a1f8f4dc6",
+            "id": "90bb60b3171f8701",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zshortdump/Jordan Canonical Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44db529891a2a926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "5.22",
+                "query": "\"cayley-hamilton\" ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zshortdump/Jordan Canonical Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zshortdump/Jordan Canonical Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zshortdump/Jordan Canonical Form.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +148,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d78b08a1f8f4dc6",
+  "active": "90bb60b3171f8701",
   "lastOpenFiles": [
+    "details/mathematics/algebra/linear algebra/Rational Canonical Form.md",
+    "details/mathematics/algebra/linear algebra/Jordan Canonical Form.md",
+    "details/mathematics/algebra/linear algebra/Minimal Polynomial.md",
+    "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
+    "details/mathematics/algebra/linear algebra/Invariant Subspace.md",
+    "details/mathematics/algebra/linear algebra/Matrix Diagonalization.md",
+    "details/mathematics/algebra/linear algebra/Linear Transformation.md",
+    "details/mathematics/algebra/linear algebra/Matrix.md",
+    "details/mathematics/algebra/group theory/Subgroup.md",
+    "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
     "__books/Linear Algebra by Friedberg Insel and Spence.md",
-    "zshortdump/Jordan Canonical Form.md",
     "details/mathematics/probability and statistics/prob_stat/Markov Chain.md",
     "details/mathematics/algebra/ring theory/Field.md",
-    "details/mathematics/algebra/linear algebra/Matrix Diagonalization.md",
-    "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
     "details/mathematics/algebra/linear algebra/Eigenspaces and Eigenbases.md",
     "__meta/The Antilibrary.md",
-    "details/mathematics/algebra/linear algebra/Invariant Subspace.md",
     "details/mathematics/algebra/linear algebra/Inner Product Space.md",
     "details/mathematics/algebra/linear algebra/Orthogonality and Orthonormality.md",
     "details/mathematics/algebra/linear algebra/Elementary Matrix Operations.md",
@@ -189,15 +173,9 @@
     "zshortdump/Extension Field and Polynomials.md",
     "details/mathematics/algebra/linear algebra/Quadratic Form.md",
     "details/mathematics/algebra/ring theory/Fundamental Constructs of Ring Theory.md",
-    "details/mathematics/algebra/linear algebra/Linear Transformation.md",
     "details/mathematics/algebra/linear algebra/Vector Coordinate System.md",
     "zshortdump/Cryptography.md",
     "index.md",
-    "details/mathematics/algebra/linear algebra/Normal Matrix.md",
-    "details/mathematics/algebra/Linear Algebra.md",
-    "details/computer science/Software Engineering.md",
-    "details/natural sciences/biology/cell biology/The Properties of Life from a Biological Perspective.md",
-    "Exploration Logs.md",
     "__images/Swarm Production System.png",
     "__images/High Level SPS.png",
     "details/engineering/manufacturing",

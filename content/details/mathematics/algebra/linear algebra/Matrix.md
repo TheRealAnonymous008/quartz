@@ -79,7 +79,10 @@
 	  $$
 	  \det(V)=\prod_{0\le i < j \le n} (c_j-c_i)
 	  $$
-
+* A matrix is **nilpotent** if for some  positive$p\in \mathbb{Z}^+$ 
+  $$
+  A^p = O_n
+  $$
 # Topics
 * [[Matrix Multiplication]]
 * [[Matrix Inversion]]

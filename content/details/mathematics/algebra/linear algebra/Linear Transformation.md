@@ -44,6 +44,8 @@
   $$
 * (*Friedberg e2.3.14*) $T$ is a projection if and only if $T=T^2$ (that is, applying the projection twice has the same effect as applying it once)
 
+ * A linear operator $T$ on $V$ is called **nilpotent** if $T^p=T_0$ for some positive integer $p$.
+
 [^oplus]: See [[Vector Sum and Direct Sum]]
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]] - Ch. 2

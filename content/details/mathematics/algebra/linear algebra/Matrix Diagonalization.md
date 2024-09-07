@@ -66,6 +66,7 @@
 * [[Characteristic Polynomial]]
 * [[Eigenspaces and Eigenbases]]
 * [[Jordan Canonical Form]]
+* [[Rational Canonical Form]]
 
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]] - Ch. 5
