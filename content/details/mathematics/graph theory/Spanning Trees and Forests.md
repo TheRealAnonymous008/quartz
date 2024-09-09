@@ -5,9 +5,8 @@
 * (*Wilson 9.3a*) Let $T$ be a spanning forest. Each cut-set of $G$ has an edge in common with $T$
 * (*Wilson 9.3a.z*) Let $T$ be a spanning tree of a connected graph. Each cut-set of $G$ contains an edge in common with $T$.
 * (*Wilson 9.3x*) Every edge $e\in E(G)$ is included in some spanning forest of $G$.
-* (*Wilson e9.10a*) - Let $C^\ast$ be a set of edges of a graph $G$. If $C^\ast$ has an edge in common with each spanning forest, then $C^\ast$ contains a cut-set [^1]
-
-[^1]: Performing an edge deletion $G-C^\ast$ by definition will disconnect $G$. It follows, there must be a minimal set in $C^\ast$ which is out cut-set.
+* (*Wilson e9.10a*) - Let $C^\ast$ be a set of edges of a graph $G$. If $C^\ast$ has an edge in common with each spanning forest, then $C^\ast$ contains a cut-set 
+	* *Intuition*: Performing an edge deletion $G-C^\ast$ by definition will disconnect $G$. It follows, there must be a minimal set in $C^\ast$ which is out cut-set.
 
 * (*Wilson 33.5*) A graph $G$ contains $k$ edge-disjoint spanning forests if and only if for each subgraph $H\subseteq G$ 
   $$
@@ -58,5 +57,7 @@
 
 * We can find the MST using [[Graph Algorithms#Kruskal's Algorithm|Kruskal's algorithm]]
 # Links
+* [[Introduction To Graph Theory by Wilson|Wilson]]
+
 * [[Trees]]
 * [[Matroid Theory]]

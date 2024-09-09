@@ -54,7 +54,7 @@
 	  
 	  But, now consider a cut-set obtained by passing through one of the edges in $D$ which is guaranteed to exist by *Wilson e5.11b*. Such a cut-set now yields $k_1 + k_2-1$ common edges with $C$ which is impossible since there must be an even number of edges shared between $C$ and $C^*$.
 
-
+* [[Matrices in Graph Theory#Linear Algebra|A linear algebra-based interpretation for cut-sets and cycles is provided here]]
 
 # Vertex and Face
 * (*Wilson 19.2*) Let $G$ be a Plane Graph without loops and $G^\ast$ be the dual graph. Then, $G$ is $k$-colorable if and only if $G^\ast$ is $k$-face colorable.
@@ -74,6 +74,8 @@
 * (*Wilson 15.5*) If $G^\ast$ is an algebraic dual of $G$, then $G$ is an algebraic dual of $G^\ast$
  
 # Links
+* [[Introduction To Graph Theory by Wilson]]
+
 * [[Trails, Walks, Paths and Cycles]]
 * [[Graph Planarity]]
 * [[Trees]]

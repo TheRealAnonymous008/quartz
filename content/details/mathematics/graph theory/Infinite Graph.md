@@ -45,5 +45,7 @@
 
 
 # Links
+* [[Introduction To Graph Theory by Wilson|Wilson]]
+
 * [[Fundamental Constructs of Graph Theory]]
 * [[Trails, Walks, Paths and Cycles]]

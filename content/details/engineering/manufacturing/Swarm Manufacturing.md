@@ -54,3 +54,4 @@
 # Links
 * [[Network Science]] and [[Complex Systems]] - swarms can be seen as complex systems.
 * [[Metaheuristics]] - some metaheuristics also use with swarms to solve problems. 
+* [[Swarm Intelligence]]

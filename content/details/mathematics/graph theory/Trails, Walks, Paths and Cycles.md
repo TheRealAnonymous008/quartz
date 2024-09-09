@@ -92,6 +92,9 @@
   In an unweighted graph, this reduces to the path with the minimum number of vertices.
 
 # Links
+* [[Introduction To Graph Theory by Wilson|Wilson]]
+* [[Graph Theory With Applications by Bondy and Murty|Bondy and Murty]]
+
 * [[Graph Connectivity]]
 * [[Families of Graphs]]
 * [[Directed Graph]]

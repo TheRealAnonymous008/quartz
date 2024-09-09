@@ -20,6 +20,9 @@
   
   That is the graph whose edges are not in the spanning tree.
 
+* For [[Directed Graph|directed graphs]], we define an **arborescence** or **out-branching** as a directed acyclic graph such that a vertex $v_T$ is denoted as the root, and there is a directed path from $v_T$ to $v$ for any other vertex $v\in D$.  We say that it is a $v_T$-arborescence.
+  
+  Similarly, an **anti-arborescence** or **in-branching** is one where there exists a directed path from $v$ to $v_T$. 
 # Theorems
 * (*Wilson 9.2*) If $G$ is a forest with $n$ vertices and $k$ components, then $G$ has $n-k$ edges
 * (*Wilson 9.2x*) Any tree on $n\ge 2$ vertices has at least two leaves.
@@ -42,5 +45,7 @@
 * [[Labelled Trees]]
 
 # Links
+* [[Introduction To Graph Theory by Wilson|Wilson]]
+
 * [[Graph Connectivity]] - more on connectivity.
 * [[Trails, Walks, Paths and Cycles]] - more on cycles.

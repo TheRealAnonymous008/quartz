@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bb15c2624d650922",
+        "id": "3af626c9102cd303",
         "type": "tabs",
         "children": [
           {
-            "id": "90bb60b3171f8701",
+            "id": "c81fc8aac79d9d3d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "details/mathematics/graph theory/algebraic graph theory/Graph Laplacian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"cayley-hamilton\" ",
+                "query": "spectrum",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 373.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "details/mathematics/graph theory/algebraic graph theory/Graph Laplacian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "details/mathematics/graph theory/algebraic graph theory/Graph Laplacian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "details/mathematics/graph theory/algebraic graph theory/Graph Laplacian.md"
+              }
             }
           },
           {
@@ -148,34 +158,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90bb60b3171f8701",
+  "active": "c81fc8aac79d9d3d",
   "lastOpenFiles": [
-    "details/mathematics/algebra/linear algebra/Rational Canonical Form.md",
-    "details/mathematics/algebra/linear algebra/Jordan Canonical Form.md",
-    "details/mathematics/algebra/linear algebra/Minimal Polynomial.md",
-    "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
-    "details/mathematics/algebra/linear algebra/Invariant Subspace.md",
-    "details/mathematics/algebra/linear algebra/Matrix Diagonalization.md",
-    "details/mathematics/algebra/linear algebra/Linear Transformation.md",
-    "details/mathematics/algebra/linear algebra/Matrix.md",
-    "details/mathematics/algebra/group theory/Subgroup.md",
-    "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
-    "__books/Linear Algebra by Friedberg Insel and Spence.md",
-    "details/mathematics/probability and statistics/prob_stat/Markov Chain.md",
-    "details/mathematics/algebra/ring theory/Field.md",
-    "details/mathematics/algebra/linear algebra/Eigenspaces and Eigenbases.md",
-    "__meta/The Antilibrary.md",
-    "details/mathematics/algebra/linear algebra/Inner Product Space.md",
-    "details/mathematics/algebra/linear algebra/Orthogonality and Orthonormality.md",
-    "details/mathematics/algebra/linear algebra/Elementary Matrix Operations.md",
+    "details/mathematics/graph theory/algebraic graph theory/Graph Laplacian.md",
+    "details/mathematics/graph theory/algebraic graph theory/Algebraic Graph Theory.md",
+    "details/mathematics/algebra/linear algebra/Spectral Theorem.md",
     "details/mathematics/algebra/linear algebra/Self-Adjoint Matrix.md",
-    "details/mathematics/algebra/linear algebra/Bilinear Form.md",
-    "zshortdump/Extension Field and Polynomials.md",
-    "details/mathematics/algebra/linear algebra/Quadratic Form.md",
-    "details/mathematics/algebra/ring theory/Fundamental Constructs of Ring Theory.md",
-    "details/mathematics/algebra/linear algebra/Vector Coordinate System.md",
+    "details/mathematics/graph theory/algebraic graph theory/Matrices in Graph Theory.md",
     "zshortdump/Cryptography.md",
-    "index.md",
+    "details/mathematics/graph theory/algebraic graph theory",
+    "details/mathematics/algebra/linear algebra/Eigenspaces and Eigenbases.md",
+    "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
+    "details/mathematics/graph theory/Spanning Trees and Forests.md",
+    "details/mathematics/graph theory/Trees.md",
+    "___templates/Matrix Template.md",
+    "details/mathematics/algebra/Group Theory.md",
+    "details/mathematics/algebra/Linear Algebra.md",
+    "Exploration Logs.md",
+    "zshortdump/Graph Theoretic Approaches for Swarms.md",
+    "details/mathematics/algebra/linear algebra/Orthogonality and Orthonormality.md",
+    "details/mathematics/algebra/linear algebra/Unitary and Orthogonal Operators.md",
+    "details/mathematics/algebra/linear algebra/Matrix Diagonalization.md",
+    "details/mathematics/graph theory/Directed Graph.md",
+    "details/mathematics/algebra/linear algebra/Normal Matrix.md",
+    "details/machine learning/reinforcement learning/marl/MARL -- Notation Guide.md",
+    "details/mathematics/graph theory/Graph Duality.md",
+    "details/mathematics/graph theory/Fundamental Constructs of Graph Theory.md",
+    "details/mathematics/Graph Theory.md",
+    "details/mathematics/graph theory/Operations on Graphs.md",
+    "details/mathematics/graph theory/Infinite Graph.md",
+    "details/engineering/swarms",
     "__images/Swarm Production System.png",
     "__images/High Level SPS.png",
     "details/engineering/manufacturing",
@@ -191,10 +203,8 @@
     "details/mathematics/number theory",
     "details/machine learning/reinforcement learning/fundamentals",
     "details/machine learning/reinforcement learning/pgms",
-    "details/machine learning/reinforcement learning/marl",
     "__images/MAPPO.png",
     "__images/TMADDPG.png",
-    "details/computer science/software engineering/guidelines",
     "__images/Integral Theory.png",
     "details/mathematics/Untitled.canvas",
     "Untitled.canvas",

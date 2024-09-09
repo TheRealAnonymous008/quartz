@@ -28,5 +28,7 @@
 
 * [Our right and left hemispheres of the brain experience consciousness differently. Splitting them apart leads to some weird behaviors](https://www.youtube.com/watch?v=_TYuTid9a6k). Dissecting the brain reveals that the most predominant aspect of it is involved in justifying and rationalizing our decisions and experiences, even if it is done so incorrectly or irrationally.
 
+* Tautomers are structural isomers of chemical compounds that readily interconvert. That is, through a process called tautomerization, one can convert one into the other and vice versa.
+
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

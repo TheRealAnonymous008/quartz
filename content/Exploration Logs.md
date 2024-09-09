@@ -1,10 +1,20 @@
 # File
-* [^Queralta_2020] gives a survey for multi-robot search and rescue systems. 
+* [Novelty equates to seeing existing rules in a new light.  Content does not equal novelty. Games can introduce novelty through meaningfully distinct experiences. Aim to give players new options rather than mere statistical upgrades. Novelty is heavily tied to emergence that arises by the elaboration of existing mechanics and their interactions with other mechanics](https://www.youtube.com/watch?v=LjJorDK3nVM)
+
+* [A key element in playtesting that's worth trying out for the purposes of balancing -- accelerate the feedback gathering loop and encourage playtesters to break the game (and acquire player data to make informed adjustments) ](https://www.youtube.com/watch?v=VUwIwnQHnb0)
 
 
-[^Queralta_2020]: Queralta et al. (2020) [Collaborative Multi-Robot Search and Rescue: Planning, Coordination, Perception, and Active Vision](https://ieeexplore.ieee.org/document/9220149?denied=)
+
+
+
+
 
 # Queue
+* [^Queralta_2020] gives a survey for multi-robot search and rescue systems. 
+[^Queralta_2020]: Queralta et al. (2020) [Collaborative Multi-Robot Search and Rescue: Planning, Coordination, Perception, and Active Vision](https://ieeexplore.ieee.org/document/9220149?denied=)
+
+
+
 * [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
 
 

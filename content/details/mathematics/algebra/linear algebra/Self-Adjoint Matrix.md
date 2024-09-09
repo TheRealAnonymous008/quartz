@@ -6,6 +6,9 @@
   $$
   A^\ast = A
   $$
+
+* An important example of such a matrix is a **symmetric matrix** where $F=\mathbb{R}$. 
+
 * (*Friedberg Lem.6.17.1*) Let $T$ be a self-adjoint operator on a finite-dimensional inner product space $V$. Then
 	* Every [[Matrix Diagonalization|eigenvalue]] of $T$ is real.
 	* The [[Characteristic Polynomial|character polynomial]]l of $T$ splits.

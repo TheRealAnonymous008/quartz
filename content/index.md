@@ -15,6 +15,7 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 * Research based sections are organized based on recency.
 
 # Main Sections
+* [[Computer Science]]
 * [[Creativity]]
 * [[Engineering]]
 * [[Game Design]]

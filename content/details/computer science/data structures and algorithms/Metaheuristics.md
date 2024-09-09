@@ -74,7 +74,7 @@ return x*
 * The behavior of the above function is that of a [[Probability Distributions Zoo|Boltzmann distribution]], mimicking the behavior of particles in thermodynamic equilibrium.
 
 # Animal-Inspired Search
-* [^xue_2020] propose a new swarm optimization approach called **sparrow swarm search** inspired by group wisdom, foraging and anti-predation observed in sparrows.  Sparrows have two classes -- producers and scroungers. Sparrows follow the following rules
+* [^xue_2020] propose a new [[Swarm Intelligence|swarm]] optimization approach called **sparrow swarm search** inspired by group wisdom, foraging and anti-predation observed in sparrows.  Sparrows have two classes -- producers and scroungers. Sparrows follow the following rules
 	* Producers have high energy reserves. The level of energy reserves depends on the assessment of fitness values of the individuals.
 	* Sparrows detect predators and send an alarm. When the alarm is strong enough, producers lead all scroungers to a safe area.
 	* Each sparrow can become a producer as long as it searches for the better food sources, but the proportion of the producers and the scroungers is unchanged in the whole population
