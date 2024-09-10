@@ -23,6 +23,7 @@
   $$
   T(x) = \lambda x
   $$
+  The set of eigenvalues is called the **spectrum**, denoted $\text{spec}(T)$ or $\text{spec}(A)$ for matrices. In this set, repetition is allowed.
 
 * (*Friedberg 5.7*) A scalar $\lambda\in F$ is an eigenvalue of $T$ if and only if
   $$
@@ -38,7 +39,7 @@
 
 * A linear operator $T$ is diagonalizable if the following hold.
 	* The corresponding characteristic polynomial of $T$ splits.
-	* The multiplicity of $\lambda$ equals $n-\text{rank}(T-\lambda I)$ for each eigenvalue $\lambda$ of $T$.
+	* $\forall \lambda \in \text{spec}(T), \mu_T(\lambda) = \gamma_T(\lambda) = n - \text{rank}(T-\lambda I)$
 * (*Friedberg e7.1.7e*) $T$ is diagonalizable if and only if for each eigenvalue $\lambda$ 
   $$
   \text{rank}(T-\lambda I) = \text{rank}((T-\lambda I)^2 )
@@ -65,6 +66,7 @@
 # Topics
 * [[Characteristic Polynomial]]
 * [[Eigenspaces and Eigenbases]]
+* [[Spectral Theorem]]
 * [[Jordan Canonical Form]]
 * [[Rational Canonical Form]]
 

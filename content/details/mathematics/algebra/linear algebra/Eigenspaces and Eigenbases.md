@@ -10,7 +10,15 @@
   
   The eigenspace is a [[Vector Subspace|subspace]] of $V$.
 
-* (*Friedberg 5.12*) Let $T$ be a linear operator on a finite dimensional vector space $V$. If $\lambda$ is an eigenvalue of $T$ with multiplicity $m$, then $1\le \dim(E_\lambda) \le m$. 
+* We define the **geometric multiplicity** as
+  $$
+  \gamma_T (\lambda) = \text{nullity}(T-\lambda  I)
+  $$
+  That is, it is the dimension of the eigenspace $E_\lambda$ 
+
+* (*Friedberg 5.12*) Let $T$ be a linear operator on a finite dimensional vector space $V$. If $\lambda$ is an eigenvalue of $T$, then $1\le \gamma_T(\lambda) \le \mu_T(\lambda)$. 
+	* *Intuition*: The geometric multiplicity is not necessarily the same as the algebraic multiplicity. By definition, an eigenvector must be nonzero. However,  the zero vector may appear as a solution to the linear system corresponding to $T-\lambda I$. Furthermore $\gamma_T(\lambda)$ cannot exceed $\mu_T(\lambda)$ because that implies there are more than $\mu_T(\lambda)$ eigenvectors, that $\lambda$ appears more than $\mu_T(\lambda)$. 
+	  
 * (*Friedberg Lem.5.13*) Let $T$ be a linear operator on $V$ and $\lambda_1,\dots,\lambda_k$ be distinct eigenvalues of $T$. For each $i=1,\dots,k$ let $x_i\in E_{\lambda_i}$. If
   $$
   x_1+\dots +x_k = 0
@@ -24,7 +32,7 @@
   $$
   is a linearly independent subset of $V$
 * (*Friedberg 5.14*) Let $T$ be a linear operator on a finite vector space $V$ such that the  [[Characteristic Polynomial|characteristic polynomial]] of $T$ splits. Let $\lambda_1,\dots,\lambda_k$ be distinct eigenvalues of $T$. Then 
-	* $T$ is diagonalizable if and only if the multiplicity of $\lambda_i$ is equal to $\dim(E_i)$ for all $i$.
+	* $T$ is diagonalizable if and only if the $\mu_T(\lambda_i) = \gamma_T(\lambda_i)$ for all $i$.
 	* If $T$ is diagonalizable and $S_i$ is a basis for $E_{\lambda_i}$ then 
 	  $$
 	  \beta = S_1\cup \dots \cup S_k

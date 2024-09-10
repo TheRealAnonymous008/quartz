@@ -6,13 +6,30 @@
   $$
   A^\ast = A
   $$
+  We also call these matrices **Hermitian Matrices**
 
 * An important example of such a matrix is a **symmetric matrix** where $F=\mathbb{R}$. 
 
 * (*Friedberg Lem.6.17.1*) Let $T$ be a self-adjoint operator on a finite-dimensional inner product space $V$. Then
-	* Every [[Matrix Diagonalization|eigenvalue]] of $T$ is real.
-	* The [[Characteristic Polynomial|character polynomial]]l of $T$ splits.
-* (*Friedberg 6.17*) Let $T$ be a linear operator on a finite dimensional real inner product space $V$. Then $T$ is adjoint if and only if there exists an [[Orthogonality and Orthonormality|orthonormal]] basis $\beta$ of eigenvectors of $T$. 
+	* *Every [[Matrix Diagonalization|eigenvalue]] of $T$ is real.* That is 
+	  $$
+	  \text{spec}(T) \subset \mathbb{R}
+	  $$
+	* The [[Characteristic Polynomial|characteristic polynomial]] of $T$ splits.
+
+* (*Friedberg 6.17*) Let $T$ be a linear operator on a finite dimensional real inner product space $V$. Then $T$ is self-adjoint if and only if there exists an [[Orthogonality and Orthonormality|orthonormal]] basis $\beta$ of eigenvectors of $T$. 
+
+* A similar class of matrices is the **skew-adjoint** matrices. Defined such that
+  $$
+  T= -T^\ast 
+  $$
+	* An important example of such a matrix is a **skew-symmetric matrix** where $F=\mathbb{R}$
+	* Let $T$ be a skew-adjoint operator on a finite-dimensional inner product space $V$ on $F=\mathbb{C}$. Then
+		* *Every eigenvalue is pure imaginary*. That is
+		  $$
+		  \text{spec}(T) \subset \mathbb{R} i 
+		  $$
+		* The characteristic polynomial splits.
 
 * Let $A\in M_{n\times n}(\mathbb{R})$. $A$ is a **Gramian matrix** if there exists a real square matrix $B$ such that
   

@@ -6,7 +6,7 @@
 	* The **topology** of a mesh pertains to how its vertices are interconnected.
 		* This also corresponds to how vertex attributes such as normals are connected.
 # Rendering Pipeline
-* Vertex coordinates are transformed in the following sequence using a series of projection matrices.
+* Vertex coordinates are transformed in the following sequence using a series of [[Projection|projection]] matrices.
 	* **Model Space** - the space that a particular object begins in.
 		* Model spaces can be hierarchically arranged so that objects are positioned relative to other model spaces.
 	* **World Coordinates** - relative to a globally defined origin.

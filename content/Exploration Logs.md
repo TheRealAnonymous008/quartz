@@ -1,7 +1,5 @@
 # File
-* [Novelty equates to seeing existing rules in a new light.  Content does not equal novelty. Games can introduce novelty through meaningfully distinct experiences. Aim to give players new options rather than mere statistical upgrades. Novelty is heavily tied to emergence that arises by the elaboration of existing mechanics and their interactions with other mechanics](https://www.youtube.com/watch?v=LjJorDK3nVM)
 
-* [A key element in playtesting that's worth trying out for the purposes of balancing -- accelerate the feedback gathering loop and encourage playtesters to break the game (and acquire player data to make informed adjustments) ](https://www.youtube.com/watch?v=VUwIwnQHnb0)
 
 
 

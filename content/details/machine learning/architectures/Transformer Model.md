@@ -23,7 +23,7 @@
 * The **transformer** model makes use of the attention mechanism to transform an input sequence to another output sequence.
 * The model takes in an **embedding** (from some tokenizer or byte pair encoding) that acts as a more compact representation of the input data. 
 * The model first performs **positional encoding** to represent the position of a token in the sequence. *This is done to account for the fact the order tokens appear in sequence is important*
-	* The original positional encoding proposed encodes both the absolute position of a token, and its position relative to other tokens.  *For any fixed offset $\delta$, the positional encoding at $i+\delta$ can be obtained through linear projection of $\delta$ at $i$.*
+	* The original positional encoding proposed encodes both the absolute position of a token, and its position relative to other tokens.  *For any fixed offset $\delta$, the positional encoding at $i+\delta$ can be obtained through linear [[Projection|projection]] of $\delta$ at $i$.*
 * The model then consists of an [[Encoder-Decoder Network|encoder and a decoder]] 
 	* The **encoder** takes in the input sequence and outputs a latent space representation called a **context variable** for each position in the input sequence. 
 		* *Encoders can attend to the whole sequence as needed*.

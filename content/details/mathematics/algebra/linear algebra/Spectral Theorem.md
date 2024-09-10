@@ -7,7 +7,7 @@
 	* If $W_i'$ denotes the [[Vector Sum and Direct Sum|direct sum]] of the subspaces of $W_j$, $j\ne i$, then $W_i^\perp = W_i'$ 
 	* $T_iT_j = \delta_{ij}T_i$ for $1\le i,j\le k$
 	* $I=T_1 + \dots + T_k$. This decomposition is called the **resolution of the identity operator induced by $T$**
-	* $T=\lambda_1 T_1 + \dots + \lambda_k T_k$.  The eigenvalues are called the **spectrum** of $T$. The decomposition of this sum is called the **spectral decomposition**. 
+	* $T=\lambda_1 T_1 + \dots + \lambda_k T_k$.  The decomposition of this sum is called the **spectral decomposition**. 
 	* *The spectral decomposition is unique*.
 	* If $\beta$ is the union of orthonormal bases of the $W_i$s and $m_i=\dim(W_i)$ then
 	  $$
@@ -20,7 +20,7 @@
 	  \end{bmatrix}
 	  $$
 * (*Friedberg 6.24.1*) If $F=\mathbb{C}$ then $T$ is normal if and only if $T^\ast = g(T)$ for some polynomial $g$. 
-* (*Friedberg 6.24.2*) If $F=\mathbb{C}$, then $T$ is [[Unitary and Orthogonal Operators|unitary]] if and only if $T$ is normal and $|\lambda|=1$ for every eigenvalue $\lambda$ of $T$
+* (*Friedberg 6.24.2*) If $F=\mathbb{C}$, then $T$ is [[Unitary and Orthogonal Operators|unitary]] if and only if $T$ is normal and $|\lambda|=1$ for every $\text{spec}(\lambda) \in T$
 * (*Friedberg 6.24.3*) If $F=\mathbb{C}$ and $T$ is normal, then $T$ is self-adjoint if and only if every eigenvalue of $T$ is real.
 * (*Friedberg 6.24.4*) Let $T$ have a spectral decomposition of $T=\lambda_1T_1 + \dots + \lambda_k T_k$. Then each $T_j$ is a polynomial in $T$
 * (*Friedberg e6.6.7*) Let $T$ be a normal operator and $U$ a linear operator on a finite dimensional complex inner product space $V$. Let $T=\lambda_1 T_1 + \dots + \lambda_k T_k$ be a spectral decomposition of $T$.
@@ -36,7 +36,7 @@
 	  $$
 	* There exists a normal operator $U$ on $V$ such that $U^2 = T$
 	* $T$ is [[Matrix Inversion|invertible]] if $\lambda_i\ne 0$ 
-	* $T$ is a projection if and only if every eigenvalue of $T$ is $1$ or $0$.
+	* $T$ is a [[Projection|projection]] if and only if every eigenvalue of $T$ is $1$ or $0$.
 	* $T=-T^\ast$ if and only if every $\lambda_i$ is an imaginary number. 
 
 # Links

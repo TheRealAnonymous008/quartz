@@ -171,7 +171,7 @@
 * For noiseless data, $\lambda$ has no effect on the smoothness of the posterior mean estimate.
 * *We can treat each data point as being some random variable*. Imputation can be done by computing for a marginal distribution conditioned on the known variables.
 ### Noisy Data
-* In addition to the above, assume further that $y=Ax+\epsilon$, where $\epsilon\sim\mathcal{N}(0,\Sigma_y)$, and $\Sigma_y=\sigma^2I$, with signal noise $\sigma$, and $A$ is an appropriately sized projection matrix that selects out observed elements.
+* In addition to the above, assume further that $y=Ax+\epsilon$, where $\epsilon\sim\mathcal{N}(0,\Sigma_y)$, and $\Sigma_y=\sigma^2I$, with signal noise $\sigma$, and $A$ is an appropriately sized [[Projection|projection]] matrix that selects out observed elements.
 * *The estimation is similar to that for noiseless data.*
 * A strong prior determined by large $\lambda$ causes smooth estimates and small uncertainty.
 * A weak prior determined by small $\lambda$ causes rougher estimates and high uncertainty. 

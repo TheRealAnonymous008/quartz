@@ -21,7 +21,7 @@
   g(T)(x) = g(\lambda)x
   $$
 * (*Friedberg 5.11*) The characteristic polynomial of any diagonalizable linear operator can be factored into linear factors. We say that the characteristic polynomial in this case **splits**.
- * The **algebraic multiplicity** of an eigenvalue $\lambda$ is the largest $k\in \mathbb{Z}^+$ such that $(t-\lambda)^k$ is a factor of the characteristic polynomial $f(t)$
+ * The **algebraic multiplicity** of an eigenvalue $\lambda$ is the largest $k\in \mathbb{Z}^+$ such that $(t-\lambda)^k$ is a factor of the characteristic polynomial $f(t)$. We denote this as $\mu_T(\lambda)$ for linear transformation $T$.
 
 * (*Friedberg 5.28*) **Cayley-Hamilton Theorem**. Let $T$ be a linear operator on a finite dimensional vector space $V$ and let $f(t)$ be the characteristic polynomial of $T$. Then
   $$

@@ -7,4 +7,4 @@
 # Links
 * [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt]]
 
-* [[Graph Theory]]
+* [[Algebraic Graph Theory]] and [[Graph Theory]]

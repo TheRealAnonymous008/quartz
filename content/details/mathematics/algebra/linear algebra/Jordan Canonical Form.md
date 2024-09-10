@@ -57,11 +57,11 @@
   $$
 * (*Friedberg 7.5*) Let $T$ be a linear operator on an $n$-dimensional vector space $V$ such that the characteristic polynomial of $T$ splits. Then there exists a Jordan Canonical Basis for $T$ -- an ordered basis $\beta$ that is a disjoint union of generalized eigenvectors of $T$. 
 
-* (*Friedberg 7.6*) Let $T$ be a linear operator on a finite dimensional vector space $V$ such that the characteristic polynomial of $T$ splits. Suppose $\lambda_1,\dots,\lambda_k$ are the distinct eigenvalues of $T$ with corresponding multiplicities $m_1,\dots, m_k$. Then
-	* $\dim(K_{\lambda_I})=m_i$ 
+* (*Friedberg 7.6*) Let $T$ be a linear operator on a finite dimensional vector space $V$ such that the characteristic polynomial of $T$ splits. Suppose $\lambda_1,\dots,\lambda_k$ are the distinct eigenvalues of $T$. Then
+	* $\dim(K_{\lambda_I})=\mu_T(m_i)$ 
 	* If for each $i$, $S_i$ is a basis for $K_{\lambda_i}$, then the union $S=\cup_{i=1}^k S_k$ is a basis for $V$.
 	* If $\beta$ is a Jordan Canonical basis for $T$, then for each $i$ $\beta_i=\beta\cap K_{\lambda_I}$ is a basis for $K_{\lambda_i}$.
-	* $K_{\lambda_i}= N((T-\lambda_iI)^{m_i}$ 
+	* $K_{\lambda_i}= N((T-\lambda_iI)^{\mu_T(\lambda_i)}$ 
 	* $T$ is diagonalizable if and only if $E_{\lambda_i}=K_{\lambda_i}$ 
 
 * (*Friedberg 7.7*) Let $T$ be a linear operator on a finite dimensional vector space $V$ for which the characteristic polynomial of $T$ splits. Then $V$ is a [[Vector Sum and Direct Sum|direct sum]] of the generalized eigenspaces of $T$.
@@ -78,7 +78,7 @@
 	* From left to right the $j$-th column consists of $p_j$ dots corresponding to the members of $Z_j$. The lowermost dot of the column corresponds to $x_j$, the end vector of $Z_j$. 
 
 * (*Friedberg 7.8*) For any positive integer $r$, the basis vectors in $\beta_i$ that are associated with the dots in the first $r$ rows of a dot diagram for $\beta_i$ form a basis for $N((T-\lambda_iI)^r)$. Hence the number of dots in the first $r$ rows of a dot diagram of $\beta_i$ equals $\text{nullity}((T-\lambda_iI)^r)$ 
-* (*Friedberg 7.8.1*) Let $\beta_i$ be a Jordan canonical basis for the restriction of $T$ to $K_{\lambda_i}$ and suppose that $\beta_i$ is the disjoint union of $k_i$ cycles of generalized eigenvectors corresponding to $\lambda_i$. Then $\dim(E_{\lambda_i})=k_i$.
+* (*Friedberg 7.8.1*) Let $\beta_i$ be a Jordan canonical basis for the restriction of $T$ to $K_{\lambda_i}$ and suppose that $\beta_i$ is the disjoint union of $k_i$ cycles of generalized eigenvectors corresponding to $\lambda_i$. Then $\gamma_T({\lambda_i})=k_i$.
   
   Thus in the Jordan canonical form of $T$, For each eigenvalue $\lambda$, the number of Jordan blocks corresponding to $\lambda$ equals $\dim(E_\lambda)$. 
 

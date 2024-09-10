@@ -86,7 +86,6 @@
 	* (*Friedberg e6.9.10*) $\text{cond}(A)\ge 1$. In fact, $\text{cond}(A)=1$ if and only if $A$ is a scalar multiple of a [[Unitary and Orthogonal Operators|unitary or orthogonal matrix]]. 
 
 # Dot Product
-
 * The **standard inner product** (also called the **dot product**) is defined such that 
   $$
    x\cdot y = \braket{x,y} = \sum_{i=1}^n a_i\overline{b_is}

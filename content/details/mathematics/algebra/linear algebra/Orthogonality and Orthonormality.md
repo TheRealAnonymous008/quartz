@@ -1,4 +1,4 @@
-* Let $V$ be an i[[Inner Product Space|inner product space]]. A vector $x\in V$ is a **unit vector** if $||x||=1$. $x,y\in V$ are **orthogonal** if $\braket{x,y}=0$.
+* Let $V$ be an [[Inner Product Space|inner product space]]. A vector $x\in V$ is a **unit vector** if $||x||=1$. $x,y\in V$ are **orthogonal** if $\braket{x,y}=0$.
   
   A subset $S\subseteq V$ is **orthogonal** if any two distinct elements of $S$ are orthogonal
   
@@ -52,7 +52,7 @@
 	  $$
 	  A_{ij} = \braket{T(x_j), x_i}
 	  $$
-* Let $\beta$ be an orthonormal subset of an inner product space $V$ and $x\in V$. The **Fourier coefficients** of $x$ relative to $\beta$ is the scalars $\braket{x,y}$ where $y\in\beta$.
+* Let $\beta$ be an orthonormal subset of an inner product space $V$ and $x\in V$. The **Fourier coefficients** of $x$ relative to $\beta$ are the scalars $\braket{x,y}$ where $y\in\beta$.
 
 * Let $V$ be an inner product space and $S\subseteq V$. Then $S^\perp$ is the **orthogonal complement** of $S$ defined as the set of all vectors in $V$ orthogonal to every vector in $S$. That is 
   $$
@@ -109,9 +109,10 @@
   ||x||^2 \ge \sum_{i=1}^n |\braket{x,x_i}| ^2 
   $$ 
 
-* Let $V$ be an inner product space and $T:V\to V$ be a projection. $T$ is an **orthogonal projection** if 
+* Let $V$ be an inner product space and $T:V\to V$ be a [[Projection|projection]]. $T$ is an **orthogonal projection** if 
 	* $R(T)^\perp = N(T)$
 	* $N(T)^\perp = R(T)$
+
 * *Orthogonal Projections are uniquely determined by their range*.
 * (*Friedberg 6.23*) Let $V$ be an inner product space and $T$ be a linear operator on $V$. Then $T$ is an orthogonal projection if and only if
   $$
