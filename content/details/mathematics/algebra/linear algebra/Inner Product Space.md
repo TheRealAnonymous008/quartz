@@ -110,6 +110,7 @@
 * [[Matrix Conjugate and Adjoint]]
 * [[Normal Matrix]]
 * [[Self-Adjoint Matrix]]
+* [[Definite Matrix]]
 * [[Unitary and Orthogonal Operators]]
 
 # Links

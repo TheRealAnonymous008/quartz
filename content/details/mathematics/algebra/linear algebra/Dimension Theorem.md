@@ -43,7 +43,26 @@
   \text{nullity}(T) &= \text{nullity}(L_A) 
   \end{split}
   $$
-	* *Intuition*: This follows because [[Linear Transformation Matrix Isomorphism|linear transformations are isomorphic to matrices]]. Hence, vector subspaces are preserved and so are Null Space and Column Space
+	* *Intuition*: This follows because [[Linear Transformation Matrix Isomorphism|linear transformations are isomorphic to matrices]]. Hence, vector subspaces are preserved and so are the Null Space and Column Space.
+	  
+	  Hence, *we can define ranks of matrices in an analogous manner to our definition for linear transformations*
+
+* Let $A$ be a block matrix of the form
+  $$
+  A = 
+  \begin{bmatrix}
+  B & O \\
+  C & D
+  \end{bmatrix}
+  $$
+  Then 
+  $$
+  \text{rank}(A) \ge \text{rank}(B) + \text{rank}(C) 
+  $$
+  A special case is if $C = O$ in which case
+  $$
+  \text{rank}(A) = \text{rank}(B) + \text{rank}(D)
+  $$
 
 
 # Links

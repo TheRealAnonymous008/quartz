@@ -9,11 +9,11 @@
   A^{(n)}
   \end{pmatrix}
   = 
-  c \cdot
+  c \cdot \delta
   \begin{pmatrix}
   A^{(1)} \\
   \vdots \\
-  cA^{(i)} \\
+  A^{(i)} \\
   \vdots\\
   A^{(n)}
   \end{pmatrix} +

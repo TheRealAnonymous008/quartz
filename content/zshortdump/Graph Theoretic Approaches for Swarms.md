@@ -3,6 +3,9 @@
 	* In a **static network** edges are static -- they are not time dependent.
 	* In a **dynamic network**, edges are time dependent. Edges can be created or destroyed in the network
 	* In a **[[Random Network]]**, edges are time dependent and also [[Probability Theory|stochastic]]. 
+\
+# Topics\
+* [[Consensus Protocol]]
 
 # Links
 * [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt]]

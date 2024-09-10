@@ -26,7 +26,7 @@
 * $G\subseteq H$ - $G$ is a subgraph of $H$.
 * $G\subset H$ - $G$ is a proper subgraph of $H$.
 * $G[S]$ - induced subgraph on the set $S$
-* $\bar{G}$ - complement of the graph.
+* $\overline{G}$ - complement of the graph.
 * $G\cup H$ - union of two graphs
 * $G \cap H$ - intersection of two graphs.
 * $\partial G[S]$ - boundary of the induced subgraph $G[S]$.
@@ -87,3 +87,14 @@
 * $t$ - sink vertex
 *****
 * $X_{ij}^o$ - the topological overlap matrix between vertices $i$ and $j$
+*****
+* $\varepsilon(X,Y)$ - the number of edges needed to separate $X,Y\subset{V}$ . 
+* $\lambda_2(G)$ - the second eigenvalue in $\text{L(G)}$ assuming eigenvalues are ordered in ascending order.
+* $\phi(S)$ - conductance of $S$. 
+* $\phi(G)$ - isoperimetric number
+* $\psi(G), \psi$ - generic automorphism
+* $\pi$ - a partition of $G$.
+* $|\pi|$ - cardinality of a partition
+* $G/\pi$ - a quotient of $G$ over $\pi$
+* $p_i$ - characteristic vector of cell $i$
+* $P$ - characteristic matrix

@@ -1,8 +1,8 @@
-* Given an arbitrary orientation to the edge set $E(G)$, the graph Laplacian can be defined as 
+* Given an arbitrary orientation to the edge set $E(G)$, the graph [[Matrices in Graph Theory|Laplacian]] can be defined as 
   $$
   L(G) = B(G^o) B(G^o)^T
   $$
-	* The Laplacian is symmetric and [[Self-Adjoint Matrix|positive semidefinite]]
+	* The Laplacian is [[Self-Adjoint Matrix|self-adjoint]] and [[Definite Matrix|positive semi-definite]]
 	* The Laplacian associated with a weighted graph is given by 
 	  $$
 	  L(G) = B(G) W B(G)^T
@@ -28,11 +28,25 @@
 	* The in-degree version of the Laplacian captures how a node is influenced by others.
 	* The out-degree version of the Laplacian captures how a node influences other nodes. 
 
+* (*Mesbahi e2.5*) Let $G$ be a graph, then
+  $$
+  \text{rank}(L(G)) = |V| - \omega(G) 
+  $$
+	* *Intuition*: The adjacency matrix can be arranged as a block diagonal matrix through reordering of matrices. The rank of which is known  [[Dimension Theorem|to be the sum of the ranks of the block matrices]]). 
+	  
+	  Let $B$ be a block in the Laplacian with $n$. Then, $\text{rank}(B)= n - 1$.  This is the case because $L$ is positive semi-definite. Therefore it has $0$ as an eigenvalue exactly once (by *Mesbahi 2.8*). 
+
 * (*Mesbahi 2.8*) Let $L(G)$ be the Laplacian of $G$. Sort the eigenvalues as $\lambda_1(G)\le \dots \le \lambda_n(G)$.  We refer to this listing as the **Laplacian [[Spectral Theorem|spectrum]]
   
   $G$ is connected if and only if $\lambda_2(G)>0$ 
+	* $\lambda_1(G) = 0$ since $L$ is positive semi-definite. This corresponds to the eigenvector of all $1$s (and it is $0$ because the sum of any row on an incident matrix is $0$).
+	* Using the Spectral Properties of the Laplacian, we can extend the [[Graph Connectivity|connectivity inequality]]
+	  $$
+	  \lambda_2(G) \le   \kappa(G) \le \lambda(G) \le \delta (G)
+	  $$
+	  Provided that $G$ is not the complete graph.
 
-* (*Mesbahi 2.9*) **Matrix [[Trees|tree]] Theorem** Consider the graph $G$ with $n$ vertices and $n-1$ edges. Then using the [[Determinant|determinant]]
+* (*Mesbahi 2.9*) **Kirchhoff's Matrix [[Trees|tree]] Theorem** Consider the graph $G$ with $n$ vertices and $n-1$ edges. Then using the [[Determinant|determinant]]
   $$
   \det (L(G-v)) = 1
   $$

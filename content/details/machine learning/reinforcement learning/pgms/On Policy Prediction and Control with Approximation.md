@@ -83,7 +83,7 @@
 * *Denser tilings = more importance given during generalization*.
 * We may use *[[Hashed Data Structure|hashing]]* to reduce memory requirements -- each bin in the hash set corresponds to a tile.
 
-[^1]: Convergence is guaranteed because $A$ is positive definite and so the inverse exists. See [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto 9.12]]. 
+[^1]: Convergence is guaranteed because $A$ is [[Definite Matrix|positive definite]] and so the inverse exists. See [[Reinforcement Learning - An Introduction by Sutton and Barto|Sutton and Barto 9.12]]. 
 
 
 ### Step Size

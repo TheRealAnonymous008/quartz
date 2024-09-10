@@ -86,6 +86,7 @@
 # Topics
 * [[Matrix Multiplication]]
 * [[Matrix Inversion]]
+* [[Matrix Pseudo-Inverse]]
 * [[Matrix Limit]]
 * [[Elementary Matrix Operations]]
 * [[Determinant]]

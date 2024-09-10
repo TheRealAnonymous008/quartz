@@ -147,3 +147,5 @@
 # Links 
 * [[Network Science by Barabasi|Barabasi]]
 * [[Fundamental Constructs of Network Science]]
+
+* [[Chegeer's Inequality]] - another measure of robustness. 

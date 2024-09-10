@@ -100,7 +100,7 @@
   $$
   $\alpha_0$ controls the strength of the distribution (i.e., how peaked it is) and $\alpha_k$ controls where the peak occurs.
 
-* The **Wishart** is a generalization of the Gamma distribution to positive definite matrices. Its pdf is defined as 
+* The **Wishart** is a generalization of the Gamma distribution to [[Definite Matrix|positive definite]] matrices. Its pdf is defined as 
   $$
   \begin{split}\text{Wi}(\Lambda \mid S,v)&=\frac{1}{Z_{\text{Wi}}}|\Lambda|^{(v-D-1)/2}\exp\left(-\frac{1}{2}\text{tr}(\Lambda S^{-1})\right) \\
   \\

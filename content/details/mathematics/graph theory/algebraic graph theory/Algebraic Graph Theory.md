@@ -8,6 +8,8 @@
 # Topics
 * [[Matrices in Graph Theory]] - could be seen as fundamental objects in Algebraic Graph Theory.
 * [[Graph Laplacian]]
+* [[Graph Symmetry]]
+* [[Chegeer's Inequality]]
 
 # Links
 * [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt]]

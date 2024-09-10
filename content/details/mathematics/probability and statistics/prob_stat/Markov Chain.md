@@ -25,7 +25,7 @@
 	* If $|\lambda|=1$, then $\lambda =1$ and $\dim(E_\lambda)=1$. 
 	* (*Friedberg 5.24.1*) Let $A$ be a regular transition matrix that is diagonalizable. Then $\lim_{m\to \infty}A^m$. 
 * (*Friedberg 5.25*) Let $A$ be an $n\times n$ regular transition matrix. Then 
-	* The multiplicity of $1$ as an eigenvalue of $A$ is $1$
+	* The algebraic multiplicity of $1$ as an eigenvalue of $A$ is $1$
 	* $\lim_{m\to \infty}A^m$ exists
 	* $L=\lim_{m\to\infty} A^m$ is a transition matrix
 	* $AL=LA=L$

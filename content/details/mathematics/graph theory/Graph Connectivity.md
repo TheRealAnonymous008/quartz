@@ -17,10 +17,10 @@
 	* A component is **trivial** if it has no edges
 
 * Two vertices $v,w\in V$ are **connected** if there exists a a [[Trails, Walks, Paths and Cycles|path]] in $G$ that connects $u$ and $v$. Otherwise they are **disconnected vertices**.
-	* Adjacency is a special case of ocnnectivity.
+	* Adjacency is a special case of connectivity.
 
 * A graph is **connected** if each vertex in the graph is connected.  It has only one component otherwise $G$ is **disconnected**
-	* (*Theorem*) If $G$ is simple, then $G$ and $\bar{G}$ cannot both be disconnected
+	* (*Mesbahi e2.12*) If $G$ is simple, then $G$ and $\bar{G}$ cannot both be disconnected.  
 
 # Vertex Subsets
 * A **clique** of $G$ is a set of pairwise adjacent vertices. More formally let $C$ be a clique of $G$. Then: 
@@ -67,10 +67,11 @@
   If $\lambda(G) = k$, we say that $G$ is **$k$-edge connected**
 
 ### General Connectivity
-* (*Bondy and Murty 3.1*) **Connectivity Inequality**  If $G$ is a connected graph, then 
-$$
-\kappa(G) \le \lambda(G) \le \delta (G)
-$$
+* (*Bondy and Murty 3.1*) **Connectivity Inequality**  If $G$ is a connected graph, then
+  $$
+  \kappa(G) \le \lambda(G) \le \delta (G)
+  $$
+  In fact, we can analyze this inequality using [[Graph Laplacian|the Laplacian]]
 
 * Graphs $G$ and $H$ are **disjoint** if they have no vertices in common 
 * Graphs $G$ and $H$ are **edge disjoint** if they have no edges in common

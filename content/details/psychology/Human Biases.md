@@ -3,6 +3,8 @@
 * Humans rationalize things. When making decisions, the goal is not to pick the correct option, but to justify the choice made.
 * Most biases can be explained by [[Thinking Fast And Slow|What you see is all there is]]. Humans ignore external information that would help, and instead jump to conclusions.
 # Topics
+* [[Association Fallacy]] - the tendency to believe that the properties of one thing must also be the properties of another thing if both belong to the same group.
+
 * [[Anchoring Bias]] - the tendency to rely too heavily on one source of information (the anchor) for decision making.
 
 * [[Apophenia]] - the tendency to perceive meaningful connections between unrelated things.
@@ -28,7 +30,6 @@
 * [[Other Biases]]
 
 # Next 
-* [[Association Fallacy]]
 * [[Attribution Bias]]
 * [[Conformity]]
 * [[Social Biases]] - include ingroup bias here

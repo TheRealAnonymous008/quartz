@@ -26,7 +26,7 @@
 	* If $\lambda$ is a complex number, $\lim_{m\to\infty}\lambda^m$ exists if and only if $\lambda\in S$ 
 	* (*Friedberg 5.18*) Let $A$ be a square matrix with complex entries. Then $\lim_{m\to\infty}A^m$ exists if and only if the following hold
 		* If $\lambda$ is an [[Matrix Diagonalization|eigenvalue]] of $A$, then $\lambda \in S$
-		* If $1$ is an eigenvalue of $A$ then the dimension of the [[Eigenspaces and Eigenbases|eigenspace]] corresponding to $1$ equals the multiplicity of $1$ as an eigenvalue of $A$.
+		* If $1$ is an eigenvalue of $A$ then the dimension of the [[Eigenspaces and Eigenbases|eigenspace]] corresponding to $1$ equals the algebraic multiplicity of $1$ as an eigenvalue of $A$.
 	* (*Friedberg 5.19*) Let $A\in M_{n\times n}(\mathbb C)$ be such that the following hold
 	  If $\lambda$ is an eigenvalue of $A$, then $\lambda \in S$ 
 	  $A$ is diagonalizable. 
