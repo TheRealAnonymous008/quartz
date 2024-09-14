@@ -17,6 +17,10 @@
 * The **underlying graph** of a digraph is an undirected graph whose edges are the arcs of $D$ interpreted as unordered pairs
 
 * A digraph is **strongly connected** if for any two vertices, there is a path from $u$ to $v$ and from $v$ to $u$ Otherwise, a digraph is **weakly connected** if there is a path from $u$ to $v$ and from $v$ to $u$ when we view the underlying graph.
+* A digraph is **balanced** if, for every vertex
+  $$
+  \deg^+(v) = \deg^- (v)
+  $$
 
 * Let $G$ be an undirected graph. An **orientation** of $G$ is an assignment of a direction to each edge to $G$ to produce a digraph.
 * An **oriented graph** can be seen as the result of applying an orientation. More formally, it is a graph where no two vertices are connected by symmetric arcs. That is, $u$ has an edge to $v$ implies $v$ does not have an edge to $u$.

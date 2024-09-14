@@ -85,4 +85,5 @@ Without Power, You are Nothing.
 
 * Collective stupidity and collective madness are manifestations of a collective uncertainty where [[Persuasion#Social Proof|members]] of the society try to copy each other and end up going nowhere.
 
-* My main blocks for ideation are [[Conceptual Blocks to Ideation|emotional]].
+* My main blocks for ideation are [[Conceptual Blocks to Ideation|emotional]]. 
+* Maintain a space (an Excalidraw board or a notebook) just for ideation. To remove the filter that prematurely kills ideas, the goal of the space is simple -- to fill it with as many ideas as possible. In this way, deleting ideas from the board is counterproductive 

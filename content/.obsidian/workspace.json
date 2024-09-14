@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "07ec9af31cf3dc6c",
+        "id": "a51500b15cfa87fc",
         "type": "tabs",
         "children": [
           {
-            "id": "19f81149f84ccc57",
+            "id": "f969fc21a3aa1a46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Exploration Logs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dfcb7bc29cdf832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/machine learning/reinforcement learning/marl/MARL Research.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Gersch",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "details/machine learning/reinforcement learning/marl/MARL Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "details/machine learning/reinforcement learning/marl/MARL Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "details/machine learning/reinforcement learning/marl/MARL Research.md"
+              }
             }
           },
           {
@@ -149,34 +170,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19f81149f84ccc57",
+  "active": "8dfcb7bc29cdf832",
   "lastOpenFiles": [
-    "zshortdump/Graph Theoretic Approaches for Swarms.md",
-    "details/psychology/biases/Association Fallacy.md",
-    "details/psychology/Human Biases.md",
-    "details/natural sciences/physics/mechanics/Acoustics.md",
-    "details/psychology/Behavioral Economics.md",
-    "details/mathematics/calculus/Differential Equation.md",
-    "details/mathematics/probability and statistics/Measure Theory.md",
-    "details/__ideas__/Trivia.md",
-    "__meta/Orphanage.md",
-    "details/mathematics/graph theory/algebraic graph theory/Chegeer's Inequality.md",
-    "details/mathematics/graph theory/Graph Connectivity.md",
-    "zshortdump/Consensus Protocol.md",
+    "Exploration Logs.md",
+    "details/engineering/swarms/Static Agreement.md",
+    "details/engineering/swarms/Consensus Protocol.md",
+    "details/mathematics/graph theory/Cartesian Product of Graphs.md",
+    "details/mathematics/algebra/linear algebra/Matrix Kronecker Product.md",
+    "details/mathematics/algebra/linear algebra/Matrix Limit.md",
+    "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
     "details/mathematics/graph theory/algebraic graph theory/Graph Laplacian.md",
-    "details/mathematics/algebra/linear algebra/Matrix Inversion.md",
-    "details/mathematics/algebra/linear algebra/Dimension Theorem.md",
+    "details/mathematics/algebra/group theory/Abelian Group.md",
     "details/mathematics/graph theory/Operations on Graphs.md",
-    "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
-    "details/mathematics/graph theory/algebraic graph theory/Algebraic Graph Theory.md",
-    "details/mathematics/graph theory/algebraic graph theory/Graph Symmetry.md",
-    "__books/Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt.md",
     "details/mathematics/algebra/linear algebra/Matrix.md",
-    "details/mathematics/algebra/group theory/Factor Group.md",
-    "details/engineering/network_science/Network Robustness.md",
-    "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
-    "details/mathematics/algebra/linear algebra/Multilinear Function.md",
-    "details/mathematics/algebra/linear algebra/Determinant.md",
+    "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
+    "details/mathematics/Graph Theory.md",
+    "details/mathematics/graph theory/Directed Graph.md",
+    "details/mathematics/graph theory/algebraic graph theory/Matrices in Graph Theory.md",
+    "details/mathematics/algebra/linear algebra/Matrix Inversion.md",
+    "details/mathematics/algebra/linear algebra/Matrix Multiplication.md",
+    "details/mathematics/algebra/group theory/Symmetric Group.md",
+    "details/mathematics/algebra/group theory/Subgroup.md",
+    "details/mathematics/algebra/group theory/Permutations and Orbits.md",
+    "details/mathematics/algebra/group theory/Normal Group.md",
+    "details/mathematics/algebra/group theory/Group Isomorphism.md",
+    "details/mathematics/algebra/group theory/Group Homomorphism.md",
+    "details/mathematics/algebra/group theory/Group Action.md",
+    "details/mathematics/algebra/group theory/Fundamental Constructs of Group Theory.md",
+    "details/mathematics/algebra/group theory/Families of Groups.md",
     "details/mathematics/graph theory/algebraic graph theory",
     "details/engineering/swarms",
     "__images/Swarm Production System.png",

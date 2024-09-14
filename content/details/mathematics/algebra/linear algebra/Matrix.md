@@ -85,6 +85,7 @@
   $$
 # Topics
 * [[Matrix Multiplication]]
+* [[Matrix Kronecker Product ]]
 * [[Matrix Inversion]]
 * [[Matrix Pseudo-Inverse]]
 * [[Matrix Limit]]

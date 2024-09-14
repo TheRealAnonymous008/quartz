@@ -49,11 +49,14 @@
   \end{split}
   $$
 
-* (*Friedberg 5.21*) **Gerschgorin's Disk Theorem**. Let $A\in M_{n\times n}(\mathbb{C})$ define
+* (*Friedberg 5.21, Mesbahi 3.9*) **Gerschgorin's Disk Theorem**. Let $A\in M_{n\times n}(\mathbb{C})$ define
   $$
   r_i = p_i(A) - |A_{ii}|
   $$
-  and let $C_i$ denote the disk centered at $A_{ii}$ of radius $r_i$. Then each eigenvalue of $A$ lies in some $C_i$.  
+  and let $C_i$ denote the disk centered at $A_{ii}$ of radius $r_i$. Then each eigenvalue of $A$ lies in some $C_i$.  More formally, each eigenvalue is located in 
+  $$
+  \bigcup_{i}\bigg\{z\in \mathbb{C} \mid |z -A_{ii}| \le \sum_{j\ne i } |A_{ij}|\bigg\}
+  $$
 	* (*Friedberg 5.21.1*) Let $\lambda$ be any eigenvalue of $A$. Then 
 	  $$
 	  |\lambda| \le p(A)
@@ -90,6 +93,7 @@
 
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]
+* [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt|Mesbahi and Egerstedt]]
 
 * [[Real Analysis]]
 * [[Matrix]]

@@ -6,7 +6,7 @@
 
 
 ## 0 - The Fool 
-* *Early Interpretation*: Someone who is mentally different and unable to act reasonably. In particular these are the simpletons who were treated as outcasts and madmen. [^fool] The court jester comes to mind.
+* *Early*: Someone who is mentally different and unable to act reasonably. In particular these are the simpletons who were treated as outcasts and madmen. [^fool] The court jester comes to mind.
 
 * *Tarot de Marseille* Interpretations shifted from The Fool being a madman to being a jester or chaotic trickster. This interpretation alludes to freedom and detachment from society -- creative genius but also impulsiveness and folly.
 
@@ -28,7 +28,7 @@
 
 [^fool]: The traditional deck, the Fool had no rank and no power but can mimic any card.
 ## I - The Magician 
-* *Early Interpretation*: The traveling conjurer and swindler. Usually he is either depicted performing a sleight of hand trick or conjuring illusions. The Magician was seen as a street performer who was also a deceitful conman.
+* *Early*: The traveling conjurer and swindler. Usually he is either depicted performing a sleight of hand trick or conjuring illusions. The Magician was seen as a street performer who was also a deceitful conman.
 
 * *Tarot de Marseille*: The Magician is seen more in line with its archetypal role -- someone who can pull an audience in and (seemingly) manipulate reality though the supernatural .
   
@@ -70,6 +70,16 @@
 		* Dishonesty or using knowledge to harm others
 
 ## III - The Empress
+* *Early* : Depicted status, wealth and power. Seen as a pragmatic and powerful authority figure who is nonetheless compassionate. It is seen in both a positive light -- with the Empress' role as wife to the Emperor, and also a negative light -- in the sense of being associated with the negative aspects of femininity.  She is thus the Archetypal Mother Figure
+
+* *Tarot de Marseille*: Associations as Isis. Association as the Queen of Heaven, someone who has risen above the world. Associations with the throat -- i.e., where concepts are uttered. In this sense, she is representative of a Maternal role by actualizing creative energy into something tangible .
+  
+* *Levi*: The Holy Triad. Plentitude, Nature. Associated with the Woman of the Apocalypse 
+
+* *Golden Dawn*: Beauty, Pleasure, Success, Luxury. Sometimes Dissipation. Associated with Gaia. Has both the positive and negative connotations of femininity -- pleasure, charm beauty; frivolity, changeability, superficiality. 
+
+* *Waite*: Fruitfulness, Action, Initiative. Linked to the goddesses Ceres and Persephone. Still associated with femininity and motherhood.
+
 * *Modern* 
 	* *Upright*: Fertility, Abundance, Creativity
 	* *Reversal*
@@ -79,6 +89,16 @@
 		* People pleasing, Putting others first. Fear of one's own depths. Trauma related to women. Imbalance of power.
 
 ## IV - The Emperor
+* *Early*: The Archetypal Patriarchal figure (i.e., kings who ruled over civilizations). If the High Priestess represented the Pope, the Emperor represented the authority of the State. 
+* *Tarot de Marseilles*: Depicted a person of highest status or someone about to pass legal judgment. The Emperor is the ultimate authority with the potential to either be tyrannical or benevolent. Confident, Rational, Strong Willed.
+* *Levi*: Associations with alchemic sulfur (i.e., spirit dominating matter). Associations with the symbol of Jupiter. Stability, Fixed Energy.  The Emperor presides over the birth of all things and rules over the material world. 
+  
+  Also interpreted as someone with mastery, strong will, power, and a influencing, dominating presence. Could also be seen as a tyrant. 
+* *Golden Dawn*: Son of the Morning. Chief of the mighty. War, Victory, Strife, Ambition. Associations with Mars and by proxy, conquest, courage and force. 
+* *Waite*:  Stability, Power, Protection, Realization, A great person, Aid, Reason, Conviction, Authority, Will.  The Emperor  is not just a worldly ruler, he is the Lord of Thought sitting on a throne of intellect.  He is the father to the Empress' mother. 
+  
+  The Emperor emphasizes political power, authority and leadership. He also signifies will, control over one's emotions, and the rule of society.
+
 * *Modern*
 	* *Upright*:  Authority, Leadership, Stability
 	* *Reversal*:

@@ -2,17 +2,9 @@
 
 
 
-
-
-
-
+[Zhong_2023]: Zhong et al. (2023) [Heterogeneous-Agent Reinforcement Learning](https://arxiv.org/pdf/2304.09870)
 
 # Queue
-* [^Queralta_2020] gives a survey for multi-robot search and rescue systems. 
-[^Queralta_2020]: Queralta et al. (2020) [Collaborative Multi-Robot Search and Rescue: Planning, Coordination, Perception, and Active Vision](https://ieeexplore.ieee.org/document/9220149?denied=)
-
-
-
 * [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
 
 
@@ -23,6 +15,7 @@
 [^Kim_2023]: Kim, Jung, Cho, Sung (2020) [A Maximum Mutual Information Framework for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.02732)
 
 
+* [RAMBO Attack](https://www.youtube.com/watch?v=ihtAijebU-M) - an attack involving writing to RAM and picking up on the EM signals emitted. 
 
 * Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
 * Vinyals et al. (2019) [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf) 
@@ -32,5 +25,3 @@
 * [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
 * Ma et al. (2024) [Foundation Methods for Music -- A survey](https://arxiv.org/pdf/2408.14340v2)
 
-
-# Misc

@@ -16,6 +16,8 @@
 * $M_{ij}$ - the entry in matrix $M$ at the $i$-th row and $j$-th column
 * $M^T$ - the transpose of $M$
 * $M^{-1}$ - the inverse of $M$
+* $A\oplus B$ - Kronecker sum of two matrices
+* $A\otimes B$ - Kronecker product of two matrices
 * $\text{tr}(M)$ - trace of $M$ 
 ***
 * $F^n$ - vector space of $n$-tuples over field $F$
@@ -26,6 +28,7 @@
 * $O$ - zero matrix
 * $I, I_n$ - identity matrix (of order $n$)
 * $Q$ - change of coordinate basis
+* $\text{Diag}(x)$ - compact notation for the diagonal matrix constructed by using the entries of the vector $x$. 
 ***
 * $\text{span}(S)$ - span of set $S$
 * $\beta, \gamma$ - basis vector
@@ -53,6 +56,7 @@
 * $|A|,\det (A)$ - the determinant of $A$.
 * $\lambda$ - generic eigenvalue of $A$ or  $T$.
 * $\text{spec}(A)$ - the spectrum of $A$. That is, the set of its eigenvalues.
+* $\Lambda$ - generic diagonal matrix consisting of eigenvalues in an eigendecomposition.
 * $f(t)$ - generic characteristic polynomial
 * $E_\lambda$ - eigenspace corresponding to $\lambda$
 * $\mu_T(\lambda)$ - algebraic multiplicity of $\lambda$ under the linear transformation $T$. 

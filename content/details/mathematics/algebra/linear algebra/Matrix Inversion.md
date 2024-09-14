@@ -101,5 +101,6 @@
   
   Where $N_i$ is a number that makes $\overline{q_i}$ normalized.
 # Links
+* [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 4.3.2.1]]
 * [[Matrix]]

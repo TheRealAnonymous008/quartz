@@ -48,6 +48,9 @@
   G=H_1\oplus H_2 \oplus \dots \oplus H_k
   $$
   analogous to [[Vector Sum and Direct Sum|direct sums]] 
+
+* [[Cartesian Product of Graphs]]
+
 # Edge Operations
 ### Edge Addition
 * Let $G$ be a graph and $F$ a set of edges. The graph obtained from **edge addition** is denoted $G+F$ and is the graph where all edges in $F$ are added to $G$.

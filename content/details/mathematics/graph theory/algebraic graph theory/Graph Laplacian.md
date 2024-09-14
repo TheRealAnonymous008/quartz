@@ -3,10 +3,10 @@
   L(G) = B(G^o) B(G^o)^T
   $$
 	* The Laplacian is [[Self-Adjoint Matrix|self-adjoint]] and [[Definite Matrix|positive semi-definite]]
-	* The Laplacian associated with a weighted graph is given by 
-	  $$
-	  L(G) = B(G) W B(G)^T
-	  $$
+* The Laplacian associated with a weighted graph is given by 
+  $$
+  L(G) = B(G) W B(G)^T
+  $$
 * We may define an **Edge Laplacian** for any $G$ defined as
   $$
   L_e(G) = B(G)^T B(G)
@@ -36,7 +36,7 @@
 	  
 	  Let $B$ be a block in the Laplacian with $n$. Then, $\text{rank}(B)= n - 1$.  This is the case because $L$ is positive semi-definite. Therefore it has $0$ as an eigenvalue exactly once (by *Mesbahi 2.8*). 
 
-* (*Mesbahi 2.8*) Let $L(G)$ be the Laplacian of $G$. Sort the eigenvalues as $\lambda_1(G)\le \dots \le \lambda_n(G)$.  We refer to this listing as the **Laplacian [[Spectral Theorem|spectrum]]
+* (*Mesbahi 2.8*) Let $L(G)$ be the Laplacian of $G$. Sort the eigenvalues as $0=\lambda_1(G)\le \dots \le \lambda_n(G)$.  We refer to this listing as the **Laplacian [[Spectral Theorem|spectrum]]
   
   $G$ is connected if and only if $\lambda_2(G)>0$ 
 	* $\lambda_1(G) = 0$ since $L$ is positive semi-definite. This corresponds to the eigenvector of all $1$s (and it is $0$ because the sum of any row on an incident matrix is $0$).
@@ -64,5 +64,61 @@
   $$
   Where $T_v$ is the set of spanning $v$-arborescences in $D$. 
 
+* (*Mesbahi 3.8*) A digraph $D$ on $n$ vertices contains an arborescence if and only if 
+  $$
+  \text{rank}(L(D)) = n-1
+  $$
+  In that case $N(L(D))$ is spanned by the vector of all ones.
+
+* (*Mesbahi 3.10*) Let $D$ be a weighted digraph on $n$ vertices. By the [[Matrix Limit|Gerschgorin Disk Theorem]]
+  $$
+  \text{spec}(L(D)) \subseteq \set{z\in \mathbb{C} \mid |z - \overline{d}_{in}(D)| \le \overline{d}_\text{in} (D)}
+  $$
+  Where $\overline{d}_\text{in}$ is the maximum weighted in-degree in $D$.
+  
+  Thus, every eigenvalue of $L(D)$ has non-negative real parts.
+
+ * (*Mesbahi 3.11*) Let $L(D) = PJ(\Lambda) P^{-1}$ be the [[Jordan Canonical Form|Jordan]] decomposition of the in-degree Laplacian for $D$. When $D$ contains an arborescence, thee nonsingular matrix $P$ can be chosen such that
+   $$
+   J(\Lambda) = \begin{bmatrix}
+   0 & 0 & \cdots & 0 & 0\\
+   0 & J(\lambda_2) & \cdots & 0 & 0\\
+   0 & 0 & \cdots & 0 & 0 \\
+   \vdots & \vdots & \ddots & \vdots & \vdots \\ 
+   0 & 0 & \cdots & 0 & J(\lambda_n)\\
+   
+   \end{bmatrix}
+   $$
+   Where $J(\lambda_i)$ is the Jordan block associated with $\lambda_i$, and each $\lambda_i$ has positive real parts.
+   
+   This implies that 
+   $$
+   \lim_{t\to\infty} e^{-J(\Lambda) t} = \begin{bmatrix}
+   1 & 0 & \cdots  & 0 \\
+   0 & 0 & \cdots  & 0 \\
+   0 & 0 & \cdots  & 0 \\
+   \vdots & \vdots & \ddots & \vdots \\
+   0 & 0 & \cdots  & 0 \\
+   \end{bmatrix}
+   $$
+   And
+   $$
+   \lim_{t\to \infty} e^{-L(D)t} = p_1q_1^T
+   $$
+   Where  $p_1$ is the first column of $P$ and $q_1^T$ the first row of $P^{-1}$. 
+
+
+
+# Factorization Lemma
+* (*Mesbahi 3.22*) Let $G_1,G_2$ be graphs on $n$ and $m$ vertices respectively. Then 
+  $$
+  L(G_1 \square G_2) = L(G_1) \otimes I_m + I_n \otimes L(G_2) = L(G_1) \oplus L(G_2)
+  $$
+  That is, *The Laplacian of the [[Cartesian Product of Graphs|Cartesian Product]] is the [[Matrix Kronecker Product|Kronecker sum]] of the Laplacians of the individual graphs*.
+* (*Mesbahi 3.23*) Let $G_1,G_2$ be graphs on $n$ and $m$ vertices such that $L(G_1)$ and $L(G_2)$ respectively have as eigenvalues: $\lambda_1,\dots,\lambda_n$ and $\mu_1,\dots,\mu_1$ with associated eigenvectors $u_1,\dots, u_n$ and $v_1,\dots, v_m$. Then $\forall i,j$
+  $$
+  u_i \otimes v_j 
+  $$
+  Is the eigenvector associated with the eigenvalue $\lambda_i + \mu_j$ of $L(G_1 \square G_2)$. 
 # Links
 * [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt]]

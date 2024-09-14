@@ -33,6 +33,7 @@
 * $\text{cl}(G[S])$ - closure of $G[S]$  
 * $G\oplus H$ - sum of graphs. 
 * $G^o$ - oriented graph. Specifically $G$ is strongly oriented (or such an orientation is defined)
+* $G\square H$ - the Cartesian product of $G$ and $H$ .  
 *****
 * $N_n$ - null graph on $n$ vertices.
 * $K_n$ - complete graph on $n$ vertices.

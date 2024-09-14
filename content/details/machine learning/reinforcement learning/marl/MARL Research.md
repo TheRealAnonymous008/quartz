@@ -42,3 +42,23 @@
 
 [^Wang_2022]: Wang, Zhou, and Li (2022) [Stabilizing Voltage in Power Distribution Multi-Agent Reinforcement Learning with Transformer](https://arxiv.org/pdf/2206.03721)
 
+* [^Queralta_2020] gives a survey for multi-robot search and rescue systems. 
+	* Typical agents in SAR include
+		* UAVs - Unmanned Aerial Vehicles. Typically characterized by cameras as sensors due to their size and weight. 
+		* UGVs - Unmanned Ground Vehicles. Typically characterized with dexterous manipulation capabilities and robust against uneven terrain
+		* USV - Unmanned Surface Vehicles. They operate on the water's surface.
+		* UUV - Unmanned Underwater Vehicle. They operate underwater. 
+	* *Interoperability is one challenge in SAR robotics* where different types of agents coordinate with each other.
+	* Common environments for SAR can be divided into three: Maritime, Urban, and Wilderness.
+	* Common challenges for multi-agent SAR include
+		* Visual detection especially over vast areas of search or low visibility settings.
+		* Long distance operation
+		* [[Agent Loocalization|Localization]] / SLAM considering unknown, unstructured environments
+		* Establishing long-term communication, and transmitting messages over potentially long distances.
+		* Large search areas.
+		* Navigation over uneven or unforgiving terrain.
+	* Some avenues for research include:
+		* Victim identification and triage protocols
+		* Human-Swarm Interaction and Collaboration
+
+[^Queralta_2020]: Queralta et al. (2020) [Collaborative Multi-Robot Search and Rescue: Planning, Coordination, Perception, and Active Vision](https://ieeexplore.ieee.org/document/9220149?denied=)

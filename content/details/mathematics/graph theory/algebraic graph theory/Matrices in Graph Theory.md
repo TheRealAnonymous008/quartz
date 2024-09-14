@@ -27,7 +27,7 @@
   $$
   
   We denote the adjacency matrix of $G$ as $A(G)$.
-	* *Notation*: For digraphs, we assume the in-order definition by default unless otherwise stated. 
+	* *Notation*: For digraphs, we assume the in-order definition by default unless otherwise stated.
 
 * The **Incidence Matrix** is an $|V|\times |E|$ matrix $B$ where: 
   $$

@@ -39,13 +39,19 @@
 	  $$
 	  forms a basis for $V$ called the **eigenbasis**. It contains eigenvectors of $T$.
 
-
 * (*Friedberg 5.16*) Let $T$ be a linear operator on a finite dimensional vector space $V$. $T$ is diagonalizable if and only if $V$ is the [[Vector Sum and Direct Sum|direct sum]] of the eigenspaces of $T$.
 	* Suppose $T$ is diagonalizable.  Each eigenspace $E_{\lambda_i}$ is $T$-[[Invariant Subspace|invariant]] with characteristic polynomial $(\lambda_i-t)$. Which means by (*Friedberg 5.29*) The characteristic polynomial of $T$ is the product
 	  $$
 	  f(t) = (\lambda_1-t)^{m_1}\dots (\lambda_k-t)^{m_k}
 	  $$
 	  Where $m_i$ is the algebraic multiplicity of each eigenvalue, equal to the dimension of the corresponding eigenspace.
+
+* If $A$ is a diagonalizable matrix, then it has an **eigendecomposition** which is obtained using the [[Vector Coordinate System|change of coordinate matrix]]
+  
+  $$
+  A = Q\Lambda Q^{-1}
+  $$
+  Where $Q$ is the matrix consisting of linearly independent eigenvalues and $\Lambda = \text{Diag}(\lambda_1,\dots,\lambda_n)$.
 
 # [[Spectral Theorem]]
 
