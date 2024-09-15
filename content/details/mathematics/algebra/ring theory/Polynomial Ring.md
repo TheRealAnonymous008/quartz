@@ -27,6 +27,10 @@
   $$
   Where $d_n = \sum_{i=0}^n a_i b_{n-i}$ 
 * More generally, if we have indeterminates $x_1,\dots,x_n$, we denote the polynomial ring in these indeterminates as $R[x_1,\dots,x_n]$.
+	* An important property, for multiple indeterminates, we have that
+	  $$
+	  (F[x])[y] \cong (F[y])[x]
+	  $$
 
 * (*Fraleigh 22.2*) $R[x]$ is a ring under polynomial addition and multiplication. If $R$ is [[Commutative Ring|commutative]] then so it $R[x]$. If $R$ has a [[Ring with Unity|unity]] $1\ne 0$, then $1$ is also the unity in ring $R[x]$. 
 * (*Fraleigh e22.24* ) If $D$ is an [[Integral Domain]] then so is $D[x]$

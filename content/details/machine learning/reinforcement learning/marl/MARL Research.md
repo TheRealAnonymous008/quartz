@@ -58,7 +58,21 @@
 		* Large search areas.
 		* Navigation over uneven or unforgiving terrain.
 	* Some avenues for research include:
-		* Victim identification and triage protocols
+		* Victim identification, Human condition awareness and triage protocols
 		* Human-Swarm Interaction and Collaboration
+		* Multi-Agent Coordination, including task allocation, path planning, area coverage, exploration, and general planning (both in a centralized and decentralized manner)
+		* Online Learning
+		* Multi-Objective, Multi-Agent optimization.
+		* Agent Perception (see [[Computer Vision]]). 
+		* Making solutions less computationally heavy.
+		* [[Multimodal Models|Multimodal]] Information fusion
+		* **Active Perception** - agents develop an understanding of "why" it senses, chooses "what" to perceive, and then "how, when and where" (see [[Belief-Desire-Intention|an analogous system]])
+		* Shared Autonomy
+		* Closing the gap between simulations and reality.
+		* Heterogeneous swarms that are
+			* Interoperable -- different kinds of robots can coordinate with each other
+			* Ad hoc -- the types of robots are not predefined
+			* Situationally aware -- agents are aware of the variety of robots being used. 
+
 
 [^Queralta_2020]: Queralta et al. (2020) [Collaborative Multi-Robot Search and Rescue: Planning, Coordination, Perception, and Active Vision](https://ieeexplore.ieee.org/document/9220149?denied=)

@@ -32,7 +32,7 @@
 * $\text{1p}(f)$ - the power product of the leading term of $f$
 * $\text{irr}(\alpha, F)$ - the irreducible polynomial for $\alpha$ over $F$.
 * $\deg(\alpha, F)$ - the degree of $\alpha$ over $F$. 
-* $F(\alpha)$ - a simple extension of field $F$ containing $\alpha$
+* $F(\alpha)$ - the set of polynomials with indeterminates as $\alpha$ (field elements) and coefficients in $F[x]$.  That is, $\phi_\alpha(F[x])$
 ***
 * $R/N$ - the factor ring of $R$ by $N$
 * $A+B$ - sum of two ideals
