@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a6b17cbe7bfb0d83",
+        "id": "21fbeb65f1289819",
         "type": "tabs",
         "children": [
           {
-            "id": "24ec44bd5aa9644a",
+            "id": "06ec0ff6e3246321",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zshortdump/Galois Field.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1d68a84827fb930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/mathematics/algebra/ring theory/Ring Theory -- Notation Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"field\" \"finite\"",
+                "query": "23.6",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,12 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 373.50152587890625,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -83,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zshortdump/Galois Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zshortdump/Galois Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zshortdump/Galois Field.md"
+              }
             }
           },
           {
@@ -150,54 +169,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24ec44bd5aa9644a",
+  "active": "06ec0ff6e3246321",
   "lastOpenFiles": [
-    "details/mathematics/algebra/ring theory/Ideal.md",
+    "details/linguistics/languages/Index of Writing Systems.md",
     "details/mathematics/algebra/ring theory/Ring Theory -- Notation Guide.md",
+    "details/mathematics/algebra/ring theory/Ring Theory.md",
+    "zshortdump/Galois Field.md",
+    "details/mathematics/algebra/ring theory/Field.md",
+    "details/game design/development/Unity.md",
     "details/mathematics/algebra/group theory/Extension Field and Polynomials.md",
-    "details/mathematics/algebra/ring theory/Factor Ring.md",
-    "details/mathematics/algebra/ring theory/Quotient Field.md",
-    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
-    "details/mathematics/algebra/ring theory/Ring Homomorphism.md",
+    "__meta/The Antilibrary.md",
+    "details/natural sciences/Geography.md",
+    "details/mathematics/algebra/linear algebra/Orthogonality and Orthonormality.md",
+    "details/machine learning/reinforcement learning/pgms/On Policy Prediction and Control with Approximation.md",
+    "details/mathematics/probability and statistics/prob_stat/Linear Models.md",
+    "__images/Hiragana 2.png",
+    "__images/Hiragana 1.png",
+    "__images/Hiragana 4.png",
+    "Pasted image 20240918152903.png",
+    "Pasted image 20240918152524.png",
+    "__images/Hebrew Syllabary.png",
+    "index.md",
+    "__images/Hiragana 3.png",
     "Exploration Logs.md",
-    "details/mathematics/algebra/group theory/Group Theory -- Notation Guide.md",
-    "details/machine learning/reinforcement learning/marl/MARL Research.md",
-    "details/__other__/Belief-Desire-Intention.md",
-    "details/engineering/swarms/Static Agreement.md",
-    "details/engineering/swarms/Consensus Protocol.md",
-    "details/mathematics/graph theory/Cartesian Product of Graphs.md",
-    "details/mathematics/algebra/linear algebra/Matrix Kronecker Product.md",
-    "details/mathematics/algebra/linear algebra/Matrix Limit.md",
-    "details/mathematics/algebra/linear algebra/Linear Algebra -- Notation Guide.md",
-    "details/mathematics/graph theory/algebraic graph theory/Graph Laplacian.md",
-    "details/mathematics/algebra/group theory/Abelian Group.md",
-    "details/mathematics/graph theory/Operations on Graphs.md",
-    "details/mathematics/algebra/linear algebra/Matrix.md",
-    "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
-    "details/mathematics/Graph Theory.md",
-    "details/mathematics/graph theory/Directed Graph.md",
-    "details/mathematics/graph theory/algebraic graph theory/Matrices in Graph Theory.md",
-    "details/mathematics/algebra/linear algebra/Matrix Inversion.md",
+    "Pasted image 20240918150500.png",
+    "zshortdump/Language.md",
+    "Pasted image 20240918145124.png",
+    "details/linguistics/languages/Orthography.md",
+    "details/mathematics/Geometry.md",
+    "details/mathematics/algebra/ring theory/Algebraic Closure.md",
+    "details/mathematics/Mathematics.md",
+    "__images/Geometric Construction Square Root.png",
+    "details/mathematics/algebra/ring theory/Algebraic Extension.md",
+    "details/mathematics/algebra/ring theory/Integral Domain.md",
+    "details/__ideas__/Trivia.md",
+    "details/mathematics/game theory/Dynamic Games of Incomplete Information.md",
+    "details/mathematics/misc/Set Theory.md",
+    "details/mathematics/Number Theory.md",
+    "details/mathematics/algebra/group theory/Cosets, Group Indices.md",
     "details/mathematics/graph theory/algebraic graph theory",
     "details/engineering/swarms",
-    "__images/Swarm Production System.png",
-    "__images/High Level SPS.png",
     "details/engineering/manufacturing",
-    "__images/C3DP Architecture.png",
     "details/philosophy/misc",
     "details/philosophy/thinkers",
     "details/philosophy/works",
     "details/philosophy/frameworks",
-    "__images/Sparrow Swarm Search.png",
-    "__images/Smart Manufacturing MARL pipeline.png",
-    "__images/Smart Manufacturing MARL architecture.png",
-    "__images/Merge Sort.png",
     "details/mathematics/number theory",
     "details/machine learning/reinforcement learning/fundamentals",
     "details/machine learning/reinforcement learning/pgms",
-    "__images/MAPPO.png",
-    "__images/TMADDPG.png",
-    "__images/Integral Theory.png",
     "details/mathematics/Untitled.canvas",
     "Untitled.canvas",
     "__meta/{{Media Board}}.canvas",

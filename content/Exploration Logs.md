@@ -1,9 +1,18 @@
 # File
+* [^ardon_2022] propose an [[Agent Based Modeling|ABM]] network that is compatible with the use of [[Multi-Agent Reinforcement Learning|MARL]] .  The framework encodes the following
+	* Partial Observability. 
+	* A network model for inter-agent relationships.  Connectivity can either be static or stochastic. 
+	* Agent Utility Functions encapsulated as [[Game Theory - Games|types]].
+	* Heterogeneous Agent Preferences
+	* Support for complex turn orders (i.e., turns based on types)
 
+[^Ardon_2022]: Ardon et al. (2023) [An RL driven multi-agent framework to model complex systems](https://arxiv.org/pdf/2210.06012)
 
 
 [Zhong_2023]: Zhong et al. (2023) [Heterogeneous-Agent Reinforcement Learning](https://arxiv.org/pdf/2304.09870)
 
+
+* [Games can become competitive for their own good -- driving the skill floor and skill ceiling up without an influx of players to make playing sustainable for casuals. ](https://www.youtube.com/watch?v=4rsI6CUPu0s)
 # Queue
 * [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
 

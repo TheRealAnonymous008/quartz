@@ -5,7 +5,26 @@
 <figcaption> The Cherokee Syllabary. Attribution: Sakurambo at English Wikipedia, Public domain, via Wikimedia Commons</figcaption>
 
 # Hebrew 
+![[Hebrew Syllabary.png]]
+<figcaption> The Hebrew Consonants. Read right to left Image taken from https://www.jewfaq.org/hebrew_alphabet. </figcaption>
+
 * Additional information [here](https://en.wikipedia.org/wiki/Hebrew_alphabet) 
+
+# Hiragana
+![[Pasted image 20240918152903.png]]
+<figcaption> Hiragana. Image taken from Omniglot.com </figcaption>
+
+* Diacritics map from unvoiced consonants to voiced consonants namely
+	* k - g
+	* s - z
+	* t - d
+	* h - b (diagonal strokes)
+	* h - p (circle)
+* It is more common to use じ and ず  for ji and zi 
+* We use つ ("tsu") to transcribe double consonants.
+* We use ん ("n") + hiragana with an n-sound  for double consonant n's When it is followed by a vowel or at the end of an utterance, ん indicates that the preceding vowel is [[Phonetics|long and nasalized]]. 
+* For blended vowels
+* [See here for stroke order for Hiragana](https://www.nhk.or.jp/lesson/en/letters/hiragana.html)
 
 # Vai Syllabary
 * Additional Information [here](https://en.wikipedia.org/wiki/Vai_syllabary)

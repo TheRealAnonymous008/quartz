@@ -14,6 +14,12 @@
   A = \{x\in X\mid (x,a)\in nR\}
   $$
   It allows us to cluster different elements of the set $A$ into families.
+
+* A **partial ordering** is a relation $\le$ defined for pairs of elements of $S$ such that the following are true for certain elements.
+	* *Reflexivity*: $\forall a\in S, a\le a$. 
+	* *Antisymmetry*:  $a\le b \wedge b\le a \implies a = b$ 
+	* *Transitivity*: $a\le b \wedge b\le c \implies a\le c$
+
 # Functions 
 * A **function** is a mapping between two sets $X$ and $Y$ that associates each element in $X$ to one element in $Y$. This is denoted $f:X\to Y$.  
 	* $X$ and $Y$ are called the **domain** and **codomain** respectively.

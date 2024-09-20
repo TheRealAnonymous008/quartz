@@ -13,6 +13,7 @@
 
 
 * Lord of Mysteries - https://lordofthemysteries.fandom.com/wiki/Demoness_Pathway. Interesting from a Worldbuilding Perspective
+* [From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/) - specifically focusing on digging through the design and interaction between systems.
 
 # Interesting Topics
 * [Screaming Insects Algorithm](https://www.youtube.com/watch?v=Yu7sF9rcVJY)
@@ -30,7 +31,7 @@
 * [Johnson-Lindenstrauss Lemma](https://en.wikipedia.org/wiki/Johnson–Lindenstrauss_lemma)
 * [Look more into Sparse Autoencoder](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
 * [Dreams are (theorized) as ways humans prevent overfitting](https://www.sciencedirect.com/science/article/pii/S2666389921000945)
-* Neuro Evolution of Augmented Topologies
+* Neuro Evolution of Augmented Topologies and similar algorithms
 * Compositional Pattern Producing Methods
 
 # Notemarks
@@ -75,5 +76,6 @@
 	* [Columbus State University](https://catalog.columbusstate.edu/academic-units/)
 	* [Seoul National University](https://en.snu.ac.kr/academics/curriculum)
 	* [University of Michigan](https://catalog.umd.umich.edu/azprograms/)
+
 # Curios
 * [The Library of Babel Website](https://libraryofbabel.info) 

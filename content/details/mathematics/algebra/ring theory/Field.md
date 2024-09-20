@@ -21,9 +21,6 @@
 	* (*Fraleigh e18.49b*) The intersection of subfields of a field $F$ is again a subfield of $F$
 	*  A field $E$ is an **extension field** of $F$ if $F\le E$. 
 
-* (*Fraleigh 23.6*) If $G$ is a finite subgroup of the multiplicative group $(F,\cdot)$ -- that is, the group from non-zero elements of the field, is [[Cyclic Group|cyclic]].
-	* *Proof*: The multiplicative group $F^\ast$ is [[Abelian Group|Abelian]] therefore it can be factored by the Fundamental Theorem of Finitely Generated Abelian Groups  $\mathbb{Z}_{d_1}\times \dots\times\mathbb{Z}_{d_r}$. Let $m=\text{lcm}(d_1,\dots,d_r) \le d_1d_2\dots d_r$. Now for $a_i\in \mathbb{Z}_{d_i}$$a_i^m=1$ since $d_i$ divides $m$. Thus, every element of $G$ is a [[Polynomial Ring|zero]] of $x^m-1$. But also, $m\ge d_1d_2\dots d_r$ since there are at most $m$ zeros. Therefore $m=d_1d_2\dots d_r$  so it is cyclic.
-
 * The following hold for [[Ordered Ring|ordered]] fields with positive set $P$ and the relation $a<b$ defined as $a-b\in P$
 	* (*Fraleigh e25.22*) $a,b\in P \implies a/b\in P$
 	* (*Fraleigh e25.23*) $0<a<1\implies 1 < 1/a$ 
@@ -37,9 +34,13 @@
 	  $$
 * (*Fraleigh 27.11*) A commutative ring with unity is a field if and only if it has no proper nontrivial ideals.
 
+* An element $\alpha$ of a field is an **$n$-th root of unity** if $a^n=1$. It is a **primitive $n$-th root of unity** if $a^n=1$ and $a^m\ne 1$ for $0<m < n$. 
 # Topics
 * [[Prime Field]]
 * [[Extension Field and Polynomials]]
+* [[Algebraic Extension]]
+* [[Algebraic Closure]]
+* [[Galois Field]]
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

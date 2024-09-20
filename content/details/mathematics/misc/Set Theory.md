@@ -172,9 +172,18 @@
 
 
 # Miscellaneous
-* A collection of sets $\mathcal{C}$ is called a **chain** if for each pair of sets in $A,B\in \mathcal{C}$, either $A\subseteq B$ or $B\subseteq A$
-* The **Maximal Principle** states the following. Let $\mathcal{F}$ be a family of sets. If for each chain $\mathcal{C}\subseteq F$ there exists a member of $\mathcal{F}$ that contains each member of $\mathcal{C}$, then $\mathcal{F}$ contains a maximal element.
+* In a partially ordered set, not every two elements need to be comparable. 
+* A **chain** is a subset $T\subseteq S$ where every two elements are comparable (that is, trichotomy holds so that one of  $a\le b \ \ \ b\le a \ \ \  a = b$ holds)
+* An element $u\in S$ is an **upper bound** of $A\subseteq S$ for partially ordered set $S$  if 
+  $$
+  \forall a\in A, a \le u
+  $$
+* An element $m\in S$ of a partially ordered set is **maximal** if there is no $s\in S$ such that $m < s$. 
 
+* **Maximal Principle** states the following. Let $\mathcal{F}$ be a family of sets. If for each chain $\mathcal{C}\subseteq F$ there exists a member of $\mathcal{F}$ that contains each member of $\mathcal{C}$, then $\mathcal{F}$ contains a maximal element.
+* **Zorn's Lemma** If $S$ is a partially ordered set such that every chain in $S$ has an upper bound in $S$, then $S$ has at least one maximal element.
+
+* *Zorn's Lemma and the Maximal Principle are equivalent* 
 
 # Topics
 * [[ZFC Set Theory]]

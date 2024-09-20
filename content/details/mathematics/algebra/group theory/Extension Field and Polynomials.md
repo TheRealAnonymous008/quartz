@@ -50,11 +50,9 @@
 	*  In either case, an element in $F(\alpha)$ can be expressed as a quotient of polynomials in $F[\alpha]$.
 
 	* (*Fraleigh e29.29*) Let $F\le E$ and $\alpha, \beta \in E$. If $\alpha$ is transcendental over $F$ but algebraic over $F(\beta)$, then $\beta$ is algebraic over $F(\alpha)$.
-	* (*Fraleigh e29.30*) Let $F\le E$ where $F$ is a finite field with $|F|=q$. Let $\alpha\in E$ be algebraic over $F$ such that $\deg(\alpha, F)=n$. Then 
-	  $$
-	  |F(\alpha)| = q^n
-	  $$
 	* (*Fraleigh e29.33*) Let $F\le E$ and $\alpha\in E$ be transcendental over $F$. Every element in $F(\alpha)$ not in $F$ is also transcendental over $F$
+
+	* We can generalize $F(\alpha)$ to more than one element. Let $\alpha_1,\dots,\alpha_n\in E$. Then the smallest extension field of $F$ containing all $\alpha_i$ is denoted $F(\alpha_1,\dots,\alpha_n)$
 
 * (*Fraleigh 29.18*) Let $\alpha$ be algebraic over $F$. Let the degree of $\text{irr}(\alpha, F)=n\ge 1$. Then $\forall \beta\in F(\alpha)$, we can uniquely express $\beta$ in the form
   $$
@@ -71,6 +69,8 @@
   \deg(\beta,F) \le \deg(\alpha, F)
   $$
 
-
+# Topics
+ * [[Algebraic Extension]]
+ * [[Algebraic Closure]]
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]
