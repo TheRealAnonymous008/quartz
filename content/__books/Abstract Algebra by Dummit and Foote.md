@@ -1,0 +1,4 @@
+---
+aliases:
+  - Dummit and Foote
+---

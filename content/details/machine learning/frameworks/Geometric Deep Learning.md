@@ -25,4 +25,5 @@
 # Links
 * [Geometric Deep Learning](https://geometricdeeplearning.com/blogs/)
 * [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges by Bronstein et al](https://arxiv.org/pdf/2104.13478)
+* [Michael Bronstein](https://www.youtube.com/@MichaelBronsteinGDL/videos) - YouTube channel of the author from Geometric Deep Learning. Geometric.
 * [[Geometry]] - GDL aims to mimic the unification of various geometries by studying the invariants of these geometries.

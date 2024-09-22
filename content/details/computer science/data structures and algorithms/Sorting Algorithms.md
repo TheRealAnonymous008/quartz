@@ -51,6 +51,9 @@
 * *Average Case*: $O(n\log n)$
 * *Space Complexity*: $O(n)$ auxiliary memory (using an array)
 
+![[Quick Sort.png]]
+<figcaption> Quick Sort. Image taken from https://www.techiedelight.com/es/quicksort/ </figcaption>
+
 ## Heap Sort
 
 ## Radix Sort 

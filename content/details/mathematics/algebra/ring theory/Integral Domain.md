@@ -23,7 +23,7 @@
 	* (*Fraleigh e19.29*) $\text{char}(D) = 0$ or $\text{char}(D)=p$, where $p$ is prime. 
 
 
-* (*Fraleigh 19.11*) Every finite integral domain is a [[field]]
+* (*Fraleigh 19.11; Dummit 7.1.3*) Every finite integral domain is a [[Fundamental Constructs of Field Theory|field]]
 	* *Proof*: Let $D$ be an integral domain whose elements are $0,1,a_1,\dots, a_n$. 
 	  
 	  All elements in $D$ of the form $a1,aa_1,\dots,aa_n$ are distinct because of the cancellation laws. Also, none of these elements is $0$. Therefore, we can map these to $1,\dots,n$ (i.e., $aa_i=1$ for some $a_i$).
@@ -31,3 +31,4 @@
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]
+* [[Abstract Algebra by Dummit and Foote|Dummit and Foote]]

@@ -27,6 +27,9 @@
 		* **Complementizer** - includes words that can be used to turn a clause into the subject or object of a sentence.
 		* **Argument** - expressions that complete the meaning of a predicate.
 		* **Adjuncts** - optional expressions that may be excluded without changing the meaning of a predicate.
+			* **Noun Adjunct / Modifier Noun** - an optional noun that modifies another noun.
+		* **Modifier** - an optional element in a phrase or clause which modifies the meaning of another element of the structure. 
+		* **Copula** - a word or phrase that links the subject of a sentence to a subject complement.
 
 * For each word in the language, we should specify its syntactical rules--which categories of words (or even which instances of words) can the word combine with to produce a syntactically correct constituent. This is called **selection** 
 	* Arguments are typically subject to selection rules where they tend to prefer to merge with certain word classes. Adjunct are not like this.

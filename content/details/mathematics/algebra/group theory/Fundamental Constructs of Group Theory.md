@@ -1,3 +1,8 @@
+---
+aliases:
+  - group
+---
+
 * A **group** is defined as a pair $G=(G,\ast)$ consisting of a set $G$ and a binary operation $\ast$ on $G$ such that the following properties hold:
 	* There exists an **identity element** $e\in G$ such that $\forall x\in G$ 
 	  $$

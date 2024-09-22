@@ -1,3 +1,8 @@
+---
+aliases:
+  - field
+---
+
 * A **field** is a [[Commutative Ring|commutative]] [[Division Ring|division ring]]. 
 
 * The following axioms hold for a field (which follows from the properties of rings). 
@@ -35,12 +40,5 @@
 * (*Fraleigh 27.11*) A commutative ring with unity is a field if and only if it has no proper nontrivial ideals.
 
 * An element $\alpha$ of a field is an **$n$-th root of unity** if $a^n=1$. It is a **primitive $n$-th root of unity** if $a^n=1$ and $a^m\ne 1$ for $0<m < n$. 
-# Topics
-* [[Prime Field]]
-* [[Extension Field and Polynomials]]
-* [[Algebraic Extension]]
-* [[Algebraic Closure]]
-* [[Galois Field]]
-
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

@@ -30,5 +30,10 @@
 
 * Tautomers are structural isomers of chemical compounds that readily interconvert. That is, through a process called tautomerization, one can convert one into the other and vice versa.
 
+* In Japan, bowing is a sign of respect. The deeper / longer the bow, the more formal and respectful. 
+* Japanese people avoid physical contact. 
+* Meishi - business cards exchanged when meeting someone in a business situation for the first time.
+* Japanese give their names family name first and given name last. They do not have middle names.
+
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

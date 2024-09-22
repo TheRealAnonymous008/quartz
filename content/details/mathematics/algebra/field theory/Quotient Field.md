@@ -1,4 +1,4 @@
-* Every [[Integral Domain]] is contained in a [[Field]] -- the **field of quotients of the integral domain**
+* Every [[Integral Domain]] is contained in a [[Fundamental Constructs of Field Theory|field]] -- the **field of quotients of the integral domain**
 * (*Fraleigh 21.2*) The relation $(a,b)\sim (c,d)\iff ad=bc$ is an equivalence [[Relation]].  Where $b\ne 0$ and $d\ne 0$
 	* *Intuition*: A more suggestive way to say this is that 
 	  $$

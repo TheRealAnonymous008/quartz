@@ -12,7 +12,7 @@
 ![[Geometric Construction Quotient.png]]
 <figcaption> Geometric Construction of quotient. Image taken from Fraleigh </figcaption>
 
-* (*Fraleigh 32.5*) The set of all constructible real numbers forms a subfield $F$ of the [[Field|field]] of real numbers.
+* (*Fraleigh 32.5*) The set of all constructible real numbers forms a subfield $F$ of the [[Fundamental Constructs of Field Theory|field]] of real numbers.
 * (*Fraleigh 32.6*) The field $F$ of constructible real numbers contains precisely of all real numbers that we can obtain from $\mathbb{Q}$ by taking square roots of positive numbers a finite number of times and applying a finite number of $+, -,\times, /$. 
 
 ![[Geometric Construction Square Root.png]]

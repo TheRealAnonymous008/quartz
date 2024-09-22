@@ -1,8 +1,9 @@
 * If every nonzero element of $R$ is a unit, then $R$ is a **division [[Fundamental Constructs of Ring Theory|ring]]**. 
-	* If it is [[Commutative Ring|commutative]], we call it a [[Field]].
+	* If it is [[Commutative Ring|commutative]], we call it a [[Fundamental Constructs of Field Theory|field]].
 	* Otherwise we call it a **strictly skew field**.
 
-* Implicitly, a division ring is a [[Ring with Unity]]
+* Implicitly, a division ring is a [[Ring with Unity]].
+* *In a division ring, it makes sense to define the multiplicative inverse. Every non-zero  2element has a multiplicative inverse*
 
 * (*Fraleigh e19.23*) A division ring contains exactly two idempotent elements
 
@@ -25,7 +26,6 @@
 * (*Fraleigh 24.10*) **Wedderburn's Theorem**: Every finite division ring is  a field. 
   
   Another way to say this is that there are no finite strictly skew fields.
-
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

@@ -11,7 +11,7 @@
   
   Also $\text{Ker}(\gamma)=N$.
 
-* (*Fraleigh e26.24*) A factor ring of a [[Field]] is either the trivial zero ring of one element or is isomorphic to the field.
+* (*Fraleigh e26.24*) A factor ring of a [[Fundamental Constructs of Field Theory|field]] is either the trivial zero ring of one element or is isomorphic to the field.
 
 * (*Fraleigh 27.15*) Let $R$ be a [[Commutative Ring]] with [[Ring with Unity|unity]] and let $N\ne R$ be an ideal in $R$. Then $R/N$ is an [[Integral Domain]] if and only if $N$ is a prime ideal in $R$.
 

@@ -4,28 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "21fbeb65f1289819",
+        "id": "f20a807db6899aa8",
         "type": "tabs",
         "children": [
           {
-            "id": "06ec0ff6e3246321",
+            "id": "281b0ab6ead308fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zshortdump/Galois Field.md",
+                "file": "details/linguistics/languages/Index of Writing Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53cb94f70fbfd3aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/linguistics/language learning/Japanese Words Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f1d68a84827fb930",
+            "id": "df81a13d3909eb67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "details/mathematics/algebra/ring theory/Ring Theory -- Notation Guide.md",
+                "file": "details/__ideas__/Trivia.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "23.6",
+                "query": "zero divisor",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zshortdump/Galois Field.md",
+                "file": "details/linguistics/languages/Index of Writing Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zshortdump/Galois Field.md",
+                "file": "details/linguistics/languages/Index of Writing Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zshortdump/Galois Field.md"
+                "file": "details/linguistics/languages/Index of Writing Systems.md"
               }
             }
           },
@@ -169,44 +182,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06ec0ff6e3246321",
+  "active": "281b0ab6ead308fe",
   "lastOpenFiles": [
+    "details/linguistics/language learning/Japanese Grammar.md",
+    "details/linguistics/language learning/Japanese Words Index.md",
+    "details/__ideas__/Trivia.md",
+    "details/linguistics/languages/Syntax.md",
+    "zshortdump/Language.md",
     "details/linguistics/languages/Index of Writing Systems.md",
-    "details/mathematics/algebra/ring theory/Ring Theory -- Notation Guide.md",
-    "details/mathematics/algebra/ring theory/Ring Theory.md",
-    "zshortdump/Galois Field.md",
-    "details/mathematics/algebra/ring theory/Field.md",
-    "details/game design/development/Unity.md",
-    "details/mathematics/algebra/group theory/Extension Field and Polynomials.md",
     "__meta/The Antilibrary.md",
-    "details/natural sciences/Geography.md",
-    "details/mathematics/algebra/linear algebra/Orthogonality and Orthonormality.md",
-    "details/machine learning/reinforcement learning/pgms/On Policy Prediction and Control with Approximation.md",
-    "details/mathematics/probability and statistics/prob_stat/Linear Models.md",
+    "__images/Quick Sort.png",
+    "details/computer science/data structures and algorithms/Sorting Algorithms.md",
+    "details/machine learning/frameworks/Geometric Deep Learning.md",
+    "zshortdump/Metaphysics.md",
+    "details/engineering/System Science.md",
+    "zshortdump/Attribution Bias.md",
+    "zshortdump/Cryptography.md",
+    "zshortdump/Graph Theoretic Approaches for Swarms.md",
+    "zshortdump/Philosophical Questions.md",
+    "details/linguistics/language learning",
+    "details/mathematics/algebra/field theory/Field Theory.md",
+    "__meta/Orphanage.md",
+    "Exploration Logs.md",
+    "details/mathematics/algebra/Linear Algebra.md",
+    "details/mathematics/Abstract Algebra.md",
+    "details/mathematics/algebra/linear algebra/Vector Space.md",
+    "details/mathematics/algebra/field theory/Fundamental Constructs of Field Theory.md",
+    "details/mathematics/algebra/field theory/Quotient Field.md",
+    "details/mathematics/algebra/field theory/Prime Field.md",
+    "details/mathematics/algebra/ring theory/Factor Ring.md",
+    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
+    "Untitled.canvas",
+    "details/mathematics/algebra/field theory",
+    "__images/Hiragana.png",
     "__images/Hiragana 2.png",
     "__images/Hiragana 1.png",
     "__images/Hiragana 4.png",
-    "Pasted image 20240918152903.png",
     "Pasted image 20240918152524.png",
     "__images/Hebrew Syllabary.png",
-    "index.md",
     "__images/Hiragana 3.png",
-    "Exploration Logs.md",
     "Pasted image 20240918150500.png",
-    "zshortdump/Language.md",
     "Pasted image 20240918145124.png",
-    "details/linguistics/languages/Orthography.md",
-    "details/mathematics/Geometry.md",
-    "details/mathematics/algebra/ring theory/Algebraic Closure.md",
-    "details/mathematics/Mathematics.md",
-    "__images/Geometric Construction Square Root.png",
-    "details/mathematics/algebra/ring theory/Algebraic Extension.md",
-    "details/mathematics/algebra/ring theory/Integral Domain.md",
-    "details/__ideas__/Trivia.md",
-    "details/mathematics/game theory/Dynamic Games of Incomplete Information.md",
-    "details/mathematics/misc/Set Theory.md",
-    "details/mathematics/Number Theory.md",
-    "details/mathematics/algebra/group theory/Cosets, Group Indices.md",
     "details/mathematics/graph theory/algebraic graph theory",
     "details/engineering/swarms",
     "details/engineering/manufacturing",
@@ -215,10 +231,7 @@
     "details/philosophy/works",
     "details/philosophy/frameworks",
     "details/mathematics/number theory",
-    "details/machine learning/reinforcement learning/fundamentals",
-    "details/machine learning/reinforcement learning/pgms",
     "details/mathematics/Untitled.canvas",
-    "Untitled.canvas",
     "__meta/{{Media Board}}.canvas",
     "Test.canvas"
   ]

@@ -1,5 +1,10 @@
+---
+aliases:
+  - ring
+---
+
 * A **ring** $(R,+,\cdot)$ is a set $R$ with two binary operations $+$ and $\cdot$ called **addition** and **multiplication** defined on $R$ such that the following hold
-	* $(R,+)$ is an [[Abelian Group]]. 
+	* $(R,+)$ is an [[Abelian Group]].  [^abelianness]
 	* Multiplication is associative
 	* For all $a,b,c\in R$ the **left distributive law**  holds
 	  $$
@@ -14,6 +19,8 @@
 	* $0$ is the additive identity (which always exists because $(R,+)$ is a group)
 	  
 	  We denote the additive inverse of $r\in R$ as $-r$
+
+[^abelianness]: The requirement that $(R,+)$ be Abelian is forced by distributivity. In particular, if we compute $(1+1)(a+b)$, commutativity is forced for both left distributivity and right distributivity to hold.
 
 * (*Fraleigh 18.8*) If $R$ is a ring, then for any $a,b\in R$ 
 	* $0a=a0=0$

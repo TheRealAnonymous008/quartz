@@ -11,12 +11,9 @@
 * [[Group Ring]]
 * [[Ordered Ring]]
 
-
 * [[Integral Domain]]
-* [[Ring with Unity]]
 * [[Division Ring]]
-* [[Quotient Field]]
-* [[Field]]
+* [[Ring with Unity]]
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]

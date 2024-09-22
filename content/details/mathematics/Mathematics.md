@@ -4,6 +4,7 @@
 * [[Problem Solving]] is applicable to all of mathematics.
 
 # Topics
+* [[Abstract Algebra]]
 * [[Calculus]]
 * [[Game Theory]]
 * [[Graph Theory]]

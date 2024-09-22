@@ -8,7 +8,7 @@
   \overline{F}_E \le E
   $$
 
-* A [[Field|field]] is **algebraically closed** if  every nonconstant [[Polynomial Ring|polynomial]] in $F[x]$ has a zero in $F$.
+* A [[Fundamental Constructs of Field Theory|field]] is **algebraically closed** if  every nonconstant [[Polynomial Ring|polynomial]] in $F[x]$ has a zero in $F$.
 
 * (*Fraleigh 31.15*) A field $F$ is algebraically closed if and only if every nonconstant polynomial in $F[x]$ [[Factorization of Polynomials|factors]] in $F[x]$ into linear factors. 
 	* *Proof*: In the forward case, let $f(x)$ be a polynomial. If $\alpha$ is a zero of $f(x)$, then  $\alpha \in F$ by algebraic closure and so $(x-\alpha)$ is a factor of $f(x)$

@@ -36,7 +36,7 @@
 * (*Fraleigh e22.24* ) If $D$ is an [[Integral Domain]] then so is $D[x]$
 
 
-* (*Fraleigh 22.4*) **The Evaluation Homomorphisms for Field Theory**  [^eval_hom] Let $F$ be a subfield of [[Field]] $E$ and $\alpha\in E$. Let $x$ be the indeterminate. The map $\phi_\alpha: F[x]\to E$ defined by
+* (*Fraleigh 22.4*) **The Evaluation Homomorphisms for Field Theory**  [^eval_hom] Let $F$ be a subfield of [[Fundamental Constructs of Field Theory|field]] $E$ and $\alpha\in E$. Let $x$ be the indeterminate. The map $\phi_\alpha: F[x]\to E$ defined by
   $$
   \phi_a(a_0 + a_1x + \dots + a_nx^n) = a_0+a_1\alpha + \dots + a_n\alpha^n
   $$

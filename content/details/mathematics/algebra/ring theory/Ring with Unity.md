@@ -13,7 +13,9 @@
   $$
   u\cdot u^{-1} = 1
   $$
-* (*Fraleigh e18.37*) If $U$ is the collection of all units in ring $(R,+,\cdot)$ with unity. Then $(U,\cdot)$ is a [[Fundamental Constructs of Group Theory|group]]. 
+
+* Let $R$ be a ring. The set of units of $R$ is denoted $R^\times$. 
+* (*Fraleigh e18.37*) $R^\times$ is a [[Fundamental Constructs of Group Theory|group]]. 
 	* The set $G_n$ of nonzero elements of $\mathbb{Z}_n$ that are not $0$ [[Integral Domain|divisors]] forms a group under multiplication modulo $n$.
 * (*Fraleigh e18.42*) The multiplicative inverse of a unit is unique.
 

@@ -1,4 +1,9 @@
-* Let $G=(V,E)$ be a graph. 
+---
+aliases:
+  - graph
+---
+
+* For the following, let $G=(V,E)$ be a graph. 
 
 # Edge Types
 * A **loop** is an edge whose endpoints are equal.

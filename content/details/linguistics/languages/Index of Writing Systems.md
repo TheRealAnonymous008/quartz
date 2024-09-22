@@ -11,7 +11,7 @@
 * Additional information [here](https://en.wikipedia.org/wiki/Hebrew_alphabet) 
 
 # Hiragana
-![[Pasted image 20240918152903.png]]
+![[Hiragana.png]]
 <figcaption> Hiragana. Image taken from Omniglot.com </figcaption>
 
 * Diacritics map from unvoiced consonants to voiced consonants namely

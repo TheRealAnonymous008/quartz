@@ -1,5 +1,5 @@
 # Finite Fields
-* (*Fraleigh 33.1*) Let $E$ be a [[Extension Field and Polynomials|finite extension]] of degree $n$ over a finite [[Field|field]] $F$. If $F$ has $q$ elements, then $E$ has $q^n$ elements  
+* (*Fraleigh 33.1*) Let $E$ be a [[Extension Field and Polynomials|finite extension]] of degree $n$ over a finite [[Fundamental Constructs of Field Theory|field]] $F$. If $F$ has $q$ elements, then $E$ has $q^n$ elements  
 	* (*Fraleigh e29.30*) Let $F\le E$ where $F$ is a finite field with $|F|=q$. Let $\alpha\in E$ be algebraic over $F$ such that $\deg(\alpha, F)=n$. Then 
 	  $$
 	  |F(\alpha)| = q^n
@@ -7,9 +7,9 @@
 		* *Intuition*: If $\alpha$ is algebraic with degree $n$, then there exists a basis of $n$ elements. Each basis must consist of any of the $q$ elements of $F$. 
 * (*Fraleigh 33.2*) If $E$ is a finite field of characteristic $p$ then $E$ contains exactly $p^n$ elements for some $n\in \mathbb{Z}^+$. 
 * (*Fraleigh 33.3*) Let $E$ be a field of $p^n$ elements contained in an [[Algebraic Closure|algebraic closure]] $\overline{\mathbb{Z}}_p$  of $\mathbb{Z}_p$. The elements of $E$ are precisely the zeros in $\overline{\mathbb{Z}}_p$ of the polynomial $x^{p^n}-x$ in $\mathbb{Z}_p[x]$.
-	* The nonzero elements of a finite field of $p^n$ element are all $(p^n-1)$-th roots of unity
+	* The nonzero elements of a finite field of $p^n$ elements are all $(p^n-1)$-th roots of unity
 
-* (*Fraleigh 23.6*) If $G$ is a finite [[Subgroup|subgroup]] of the multiplicative group $(F,\cdot)$ 
+* (*Fraleigh 23.6*) If $G$ is a finite [[Subgroup|subgroup]] of the multiplicative group $(F,\cdot)$  then $G$ is cyclic.
   (*Fraleigh 33.5*) In particular, the group from non-zero elements of a finite field, is [[Cyclic Group|cyclic]].
 	* *Proof*: The multiplicative group $F^\ast$ is [[Abelian Group|Abelian]] therefore it can be factored by the Fundamental Theorem of Finitely Generated Abelian Groups  $\mathbb{Z}_{d_1}\times \dots\times\mathbb{Z}_{d_r}$. Let $m=\text{lcm}(d_1,\dots,d_r) \le d_1d_2\dots d_r$. Now for $a_i\in \mathbb{Z}_{d_i}$$a_i^m=1$ since $d_i$ divides $m$. Thus, every element of $G$ is a [[Polynomial Ring|zero]] of $x^m-1$. But also, $m\ge d_1d_2\dots d_r$ since there are at most $m$ zeros. Therefore $m=d_1d_2\dots d_r$  so it is cyclic.
 

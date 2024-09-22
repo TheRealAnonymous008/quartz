@@ -1,4 +1,4 @@
-* (*Fraleigh 29.3*) **Kronecker's Theorem** Let $F$ be a [[Field]] and $f(x)$ be a nonconstant polynomial in $F[x]$. Then there exists an extension field $E$ of $F$ and an $\alpha\in E$ such that 
+* (*Fraleigh 29.3*) **Kronecker's Theorem** Let $F$ be a [[Fundamental Constructs of Field Theory]] and $f(x)$ be a nonconstant polynomial in $F[x]$. Then there exists an extension field $E$ of $F$ and an $\alpha\in E$ such that 
   $$
   f(\alpha) = 0
   $$
