@@ -35,5 +35,7 @@
 * Meishi - business cards exchanged when meeting someone in a business situation for the first time.
 * Japanese give their names family name first and given name last. They do not have middle names.
 
+* [Poludnitsa](https://en.wikipedia.org/wiki/Lady_Midday) - A mythical figure in Slavic mythology associated with heat stroke.
+* [The Ghost of Kyiv](https://en.wikipedia.org/wiki/Ghost_of_Kyiv) - a flying ace who shot down six Russian planes during the Kyiv offensive
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

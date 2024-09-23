@@ -7,27 +7,29 @@
 * *A crucial feedback loop is how information reinforces knowledge and knowledge gives more ways to interpret information*. The [[Trade Offs#Freedom of Choice Trade-Off|tradeoff between flexibility and rigidity]] exists. 
 
 * **Concepts** are neural-based models of other systems that we observe. 
-	* More complex concepts are derived and constructed from simpler concepts. Neuronally, this involves forming links between neurons. 
+	* More complex concepts are derived and constructed from simpler concepts. Neurologically, this involves forming links between neurons. 
 	* *Concepts are both abstract and real*. They are abstract because they are models, but they are also real because they are encoded in our neurons. *Concepts are systems*. 
 
-* A **pattern** is any set of components that stand in an organized relationship with one another from one system instance to another. 
+* A **[[Pattern Structure|pattern]]** is any set of components that stand in an organized relationship with one another from one system instance to another. 
 	* **Spatial patterns** exist when there is a consistent set of spatial relations between components. 
 	* **Temporal patterns** exist when there is a consistent temporal relation between components. 
 	* **Maps** are abstract representations that link between a pattern in one feature space to a pattern in another. 
 		* Two objects mapped to each other are **isomorphic**. 
 		* Maps are represented through [[Mathematics|mathematical relations]]. 
-		* *Mappings are developed as one experiences associations in real life* This is the essence of learning. 
+		* *Mappings are developed as one experiences associations in real life* This is the essence of learning.
+	* A **property** is a feature that constitute a pattern.
 	* A **characteristic** is a property of an object that is always present in that kind of object. 
 		* *The properties of an object are actually based on properties of the system itself or its subsystems*
 		* Properties exist in a hierarchy depending on the level of observation. 
-		* Properties are measurable. *Measurement is comparing one system to another*. Consistency assures us that measurements remain consistent and characteristics that are observed will be consistent.
-	* **Features** are arrangements of component parts where such arrangements have properties that can be discriminated by measuring devices
-		* Macro-level features can usually be decomposed into micro-level features. 
-		* Patterns are sets of relations that organize the set of features at any given level in the feature hierarchy, into a map.
+		* Properties are measurable. *Measurement is comparing one system to another via the forces of interaction between them*. Consistency assures us that measurements remain consistent and characteristics that are observed will be consistent.
+		* Measurement operates not on "exact" instantaneous metrics but on differentials. That is *we extrapolate information from measurements using differences between the compared systems.*
+	* **Features** are arrangements of component parts where such arrangements have properties that can be differentiated by measuring devices
+		* Features come in hierarchies. Macro-level features can usually be decomposed into micro-level features. 
 	* **Classes** are groupings of features that imply a generalization. 
 		* Classification of groups of objects with similar features is *a means of increasing the efficiency of mapping* and, hence, pattern recognition and selection. 
 		* Classification means we are able to abstract away certain features that are shared by all objects of a particular class. 
 
+* Patterns are sets of relations that organize the set of features at any given level in the feature hierarchy, into a map.
 * *Repeated experience furnishes our fundamental means of recognizing the regularity of relationship that constitutes pattern or organization*
 
 # Systems as Models 

@@ -4,44 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f20a807db6899aa8",
+        "id": "9924b0b44b5dc5fc",
         "type": "tabs",
         "children": [
           {
-            "id": "281b0ab6ead308fe",
+            "id": "046ae587f8d640cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/linguistics/languages/Index of Writing Systems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53cb94f70fbfd3aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/linguistics/language learning/Japanese Words Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df81a13d3909eb67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/__ideas__/Trivia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zero divisor",
+                "query": "\"observer bias\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -111,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "details/linguistics/languages/Index of Writing Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "details/linguistics/languages/Index of Writing Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "details/linguistics/languages/Index of Writing Systems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,36 +149,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "281b0ab6ead308fe",
+  "active": "046ae587f8d640cd",
   "lastOpenFiles": [
-    "details/linguistics/language learning/Japanese Grammar.md",
-    "details/linguistics/language learning/Japanese Words Index.md",
+    "details/engineering/systems/Systems and Models.md",
+    "details/engineering/systems/Universal Properties of Systems.md",
     "details/__ideas__/Trivia.md",
-    "details/linguistics/languages/Syntax.md",
-    "zshortdump/Language.md",
-    "details/linguistics/languages/Index of Writing Systems.md",
-    "__meta/The Antilibrary.md",
-    "__images/Quick Sort.png",
-    "details/computer science/data structures and algorithms/Sorting Algorithms.md",
-    "details/machine learning/frameworks/Geometric Deep Learning.md",
-    "zshortdump/Metaphysics.md",
-    "details/engineering/System Science.md",
-    "zshortdump/Attribution Bias.md",
-    "zshortdump/Cryptography.md",
-    "zshortdump/Graph Theoretic Approaches for Swarms.md",
-    "zshortdump/Philosophical Questions.md",
-    "details/linguistics/language learning",
-    "details/mathematics/algebra/field theory/Field Theory.md",
+    "zshortdump/Complex Systems.md",
+    "details/mathematics/algebra/group theory/Extension Field and Polynomials.md",
+    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
+    "details/mathematics/algebra/ring theory/Ring Theory.md",
+    "details/mathematics/algebra/ring theory/Fundamental Constructs of Ring Theory.md",
+    "details/mathematics/algebra/ring theory/Integral Domain.md",
+    "details/mathematics/algebra/ring theory/Division Ring.md",
+    "details/mathematics/algebra/ring theory/Commutative Ring.md",
+    "details/philosophy/frameworks/Integral Theory.md",
+    "details/mathematics/algebra/field theory/Fundamental Constructs of Field Theory.md",
+    "__images/Systemic Flow.png",
     "__meta/Orphanage.md",
     "Exploration Logs.md",
-    "details/mathematics/algebra/Linear Algebra.md",
-    "details/mathematics/Abstract Algebra.md",
-    "details/mathematics/algebra/linear algebra/Vector Space.md",
-    "details/mathematics/algebra/field theory/Fundamental Constructs of Field Theory.md",
-    "details/mathematics/algebra/field theory/Quotient Field.md",
-    "details/mathematics/algebra/field theory/Prime Field.md",
-    "details/mathematics/algebra/ring theory/Factor Ring.md",
-    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
+    "zshortdump/Category Theory.md",
+    "details/__ideas__/Unfiled Thoughts.md",
+    "details/creativity/architecture/Christopher Alexander/Pattern Structure.md",
+    "details/engineering/systems/Characterizing Systems.md",
+    "details/engineering/System Science.md",
+    "details/mathematics/graph theory/The Matching Problem.md",
+    "__images/System Domains.png",
+    "details/engineering/systems/System Dynamics.md",
+    "details/linguistics/language learning/Japanese Words Index.md",
+    "details/linguistics/languages/Index of Writing Systems.md",
+    "details/linguistics/language learning/Japanese Grammar.md",
+    "details/linguistics/languages/Syntax.md",
+    "__images/Quick Sort.png",
+    "details/linguistics/language learning",
     "Untitled.canvas",
     "details/mathematics/algebra/field theory",
     "__images/Hiragana.png",
@@ -221,8 +190,6 @@
     "Pasted image 20240918152524.png",
     "__images/Hebrew Syllabary.png",
     "__images/Hiragana 3.png",
-    "Pasted image 20240918150500.png",
-    "Pasted image 20240918145124.png",
     "details/mathematics/graph theory/algebraic graph theory",
     "details/engineering/swarms",
     "details/engineering/manufacturing",

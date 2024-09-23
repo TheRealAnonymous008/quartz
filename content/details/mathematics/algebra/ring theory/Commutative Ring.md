@@ -1,4 +1,4 @@
-* A **commutative ring**  is a [[Fundamental Constructs of Ring Theory|ring]] where the multiplication operation is commutatiive.
+* A **commutative ring**  is a [[Fundamental Constructs of Ring Theory|ring]] where the multiplication operation is commutative.
 
 * In a ring with unity $1$, the distributive laws show that for $n,m\in \mathbb{Z}$
   $$
