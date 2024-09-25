@@ -15,7 +15,7 @@
   \text{RSS}(w)=\sum_i^N(y_i-w^Tx)^2=\sum_i^N\epsilon_i^2
   $$
   
-	* This loss function is [[Convex Geometry|convex]].
+	* This loss function is [[Convex Optimization|convex]].
 	* We may obtain a solution using the following **normal equation** 
 	  $$
 	  \hat w=(X^TX)^{-1}X^T y

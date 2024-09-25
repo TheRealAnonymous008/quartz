@@ -10,8 +10,11 @@
 * [[Computer Vision Models]]
 	* [[Convolutional Neural Network]]
 * [[Sequence Based Algorithms]]
-* [[Natural Language Processing]]
+	* [[Recurrent Neural Network]]
 	* [[Transformer Model]]
+	* [[Mamba Model]]
+* [[Natural Language Processing]]
 	* [[Large Language Model]]
+* [[Graph Neural Network]]
 # Links
 * [[Machine Learning]]

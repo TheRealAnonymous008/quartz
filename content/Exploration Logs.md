@@ -9,7 +9,6 @@
 [^Ardon_2022]: Ardon et al. (2023) [An RL driven multi-agent framework to model complex systems](https://arxiv.org/pdf/2210.06012)
 
 
-[Zhong_2023]: Zhong et al. (2023) [Heterogeneous-Agent Reinforcement Learning](https://arxiv.org/pdf/2304.09870)
 
 
 * [Games can become competitive for their own good -- driving the skill floor and skill ceiling up without an influx of players to make playing sustainable for casuals. ](https://www.youtube.com/watch?v=4rsI6CUPu0s)

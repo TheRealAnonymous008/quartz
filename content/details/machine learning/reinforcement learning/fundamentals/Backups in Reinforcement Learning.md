@@ -1,5 +1,5 @@
 # Definition
-* A backup is an operation that performs an update on the [[Reinforcement Learning|value function]] 
+* A backup is an operation that performs an update on the [[The Setting for Reinforcement Learning|value function]] 
 * We may divide backups based on the following:
 	* Whether or not they update state values or action values (i.e., whether they use $q$ or $v$).
 	* Whether or not they update the value of the optimal policy or an arbitrary policy (i.e., whether they use $\pi$ or $\pi_\ast$). 
@@ -15,6 +15,15 @@
   $$
   
   Where $p$ is the [[Markov Processes in Machine Learning|dynamics]] function
+  
+  We can write the above in a more compact manner
+  $$
+  \begin{split}
+  v_\pi(s) &= \mathbb{E}_{a\sim \pi(s)}  \ [q_\pi(s,a)] \\
+  q_\pi(s,a) &= \mathbb{E}_{s',r'\sim p(s,a)} \ [r + \gamma \cdot v_\pi(s')] 
+  \end{split}
+  $$
+  Where $\pi(s)$ and $p(s,a)$ are marginal distributions given the provided parameters.
 
 * The **optimal Bellman equations** describe the optimal policy $\pi_\ast$.
   $$

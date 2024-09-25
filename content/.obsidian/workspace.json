@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9924b0b44b5dc5fc",
+        "id": "146944b046ad9b14",
         "type": "tabs",
         "children": [
           {
-            "id": "046ae587f8d640cd",
+            "id": "a9e56dd058c12113",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "details/engineering/systems/Complex Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"observer bias\"",
+                "query": "\"transfer learning\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "details/engineering/systems/Complex Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "details/engineering/systems/Complex Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "details/engineering/systems/Complex Systems.md"
+              }
             }
           },
           {
@@ -149,47 +157,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "046ae587f8d640cd",
+  "active": "a9e56dd058c12113",
   "lastOpenFiles": [
-    "details/engineering/systems/Systems and Models.md",
-    "details/engineering/systems/Universal Properties of Systems.md",
-    "details/__ideas__/Trivia.md",
-    "zshortdump/Complex Systems.md",
-    "details/mathematics/algebra/group theory/Extension Field and Polynomials.md",
-    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
-    "details/mathematics/algebra/ring theory/Ring Theory.md",
-    "details/mathematics/algebra/ring theory/Fundamental Constructs of Ring Theory.md",
-    "details/mathematics/algebra/ring theory/Integral Domain.md",
-    "details/mathematics/algebra/ring theory/Division Ring.md",
-    "details/mathematics/algebra/ring theory/Commutative Ring.md",
-    "details/philosophy/frameworks/Integral Theory.md",
-    "details/mathematics/algebra/field theory/Fundamental Constructs of Field Theory.md",
-    "__images/Systemic Flow.png",
-    "__meta/Orphanage.md",
-    "Exploration Logs.md",
-    "zshortdump/Category Theory.md",
-    "details/__ideas__/Unfiled Thoughts.md",
-    "details/creativity/architecture/Christopher Alexander/Pattern Structure.md",
-    "details/engineering/systems/Characterizing Systems.md",
     "details/engineering/System Science.md",
-    "details/mathematics/graph theory/The Matching Problem.md",
+    "details/engineering/systems/Complex Systems.md",
+    "zshortdump/Cryptography.md",
+    "zshortdump/Graph Neural Network.md",
+    "zshortdump/Graph Theoretic Approaches for Swarms.md",
+    "details/psychology/Behavioral Economics.md",
+    "details/mathematics/probability and statistics/Measure Theory.md",
+    "details/computer science/theory of computation/Compiler Theory.md",
+    "details/psychology/Human Biases.md",
+    "details/mathematics/calculus/Differential Equation.md",
+    "details/computer science/data structures and algorithms/Sorting Algorithms.md",
+    "zshortdump/Tarot Cards.md",
+    "zshortdump/Philosophical Questions.md",
+    "zshortdump/Representation Learning.md",
+    "details/mathematics/misc/Convex Optimization.md",
+    "zshortdump/Metaphysics.md",
+    "zshortdump/Attribution Bias.md",
+    "__images/U-QMIX.png",
+    "__images/GPPO.png",
+    "details/linguistics/language learning/Language.md",
+    "details/engineering/systems/Networks in Systems.md",
+    "__books/Graph Neural Networks -- Foundations, Frontiers and Applications by Wu et al..md",
+    "details/machine learning/architectures/Large Language Model.md",
+    "details/machine learning/frameworks/Unsupervised Learning.md",
+    "details/machine learning/frameworks/Supervised Learning.md",
+    "details/machine learning/Machine Learning.md",
+    "details/machine learning/reinforcement learning/marl/Heterogeneous MARL.md",
+    "details/__ideas__/Interesting People.md",
+    "__images/U-MAPPO.png",
+    "__images/UAS Pipeline.png",
+    "__images/Hiragana.png",
+    "__images/HATRPO.png",
+    "__images/HAPPO.png",
+    "__images/Sequential HARL.png",
+    "__images/Systemic Flow.png",
     "__images/System Domains.png",
-    "details/engineering/systems/System Dynamics.md",
-    "details/linguistics/language learning/Japanese Words Index.md",
-    "details/linguistics/languages/Index of Writing Systems.md",
-    "details/linguistics/language learning/Japanese Grammar.md",
-    "details/linguistics/languages/Syntax.md",
-    "__images/Quick Sort.png",
     "details/linguistics/language learning",
     "Untitled.canvas",
     "details/mathematics/algebra/field theory",
-    "__images/Hiragana.png",
-    "__images/Hiragana 2.png",
-    "__images/Hiragana 1.png",
-    "__images/Hiragana 4.png",
-    "Pasted image 20240918152524.png",
-    "__images/Hebrew Syllabary.png",
-    "__images/Hiragana 3.png",
     "details/mathematics/graph theory/algebraic graph theory",
     "details/engineering/swarms",
     "details/engineering/manufacturing",

@@ -32,7 +32,7 @@
 * **Kakutani's Fixed Point Theorem** - A correspondence $C: X\mapsto X$ has a fixed point $x\in C(x)$ if four conditions are satisfied 
 	* $X$ is a non-empty, compact, and convex subset of $\mathbb{R}^n$
 	* $C(x)$ is non-empty for all $x$
-	* $C(x)$ is [[Convex Geometry|convex]] for all $x$
+	* $C(x)$ is [[Convex Optimization|convex]] for all $x$
 	* $C$ has a closed graph. 
 
 * A **Bipartite Network Projection** is an operation for simplifying a [[Families of Graphs|Bipartite Graph]]. 

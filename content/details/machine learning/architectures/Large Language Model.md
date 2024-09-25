@@ -32,7 +32,7 @@
 * [[Prompt Engineering]] - an increasingly important technique in using LLMs  which involves tuning the input prompts.
 * [[Instruction Tuning]] - all about instruction tuning, a technique to get an NLP model to understand instructions.
 # Papers
-* TransferTransfo -- A Transfer Learning Approach for Neural Network based Conversational Agents by Wolf, Sanh, Chaumond, and Delangue (Feb 4, 2019)
+* TransferTransfo -- A [[Transfer Learning|Transfer Learning]] Approach for Neural Network based Conversational Agents by Wolf, Sanh, Chaumond, and Delangue (Feb 4, 2019)
 
 * ⭐ BERT -- Pre-Training of Deep Bidirectional Transformer for Language Understanding by Devlin, Chang, Lee, and Toutanova (May 24, 2019) 
 

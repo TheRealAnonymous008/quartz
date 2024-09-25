@@ -33,6 +33,7 @@
 	  $$
 
 	* A special case where all agents have the same reward function is called a **Decentralized POMDP (Dec-POMDP)**
+		* Time-complexity wise, Dec-POMDP is [[Complexity Theory|NEXP-complete]]. 
 	* Observability conditions introduce special cases  such as 
 		* The agents do not observe the actions of the other agents. $o_i^t =(s^t,a^{t-1})$ 
 		* The agents may observe only a subset of the state and joint action due to having a limited view of the environment $o_i^t=(\bar{s}^t, \bar{a}^t)$, where $\bar{s}^t\subset s^t$ and $\bar{a}^t\subset a^t$. 
@@ -49,7 +50,7 @@
 
 * The **full history** up to time $t$ is denoted as $\hat{h}^t$. It is of the form $(s^0, o^0, a^0, \dots, s^t, a^t)$
 
-* We may introduce *communication as an action* that is observed by the agents but does not affect the environment. In such a case, we have an action space $A_i$ that is a combination oof an environment action space $X_i$ and a communication action space  $M_i$
+* We may introduce *communication as an action* that is observed by the agents but does not affect the environment. In such a case, we have an action space $A_i$ that is a combination of an environment action space $X_i$ and a communication action space  $M_i$
   
   $$
   A_i = X_i \times M_i
@@ -222,6 +223,31 @@ $$
 
 * *Regret assumes that the actions or policies of the other agents remain fixed in each episode*. 
 * When the policies of more than one agent changes, *minimizing regret does not imply maximizing return*. 
+
+# Miscellaneous
+* We can extend concepts from single-agent RL. In particular,  the quantities from [[A Unified View on Reinforcement Learning Approaches|RL]].
+
+* The **state value** is defined as
+  $$
+  v_\pi(s) = \mathbb{E}_{a\sim \pi}[Q_\pi(s,a)]
+  $$
+  Which resembles the [[Backups in Reinforcement Learning|Bellman equation]]. 
+
+* The $Q$-value or the **state-action value** of a subset of agents, $i_{1:m}$ as 
+  $$
+  q_\pi^{i_{1:m}}(s,a_{i_{1:m}})=  \mathbb{E}_{a_{-i_{1:m}}\sim \pi_{i_{1:m}}}\left[q_\pi(s,a_{i_{1:m}} , a_{-i_{1:m}})\right]
+  $$
+  That is, we average out the value from the other agents not in the set $i_{1:m}$.
+
+* The **multi-agent advantage function** of $i_{1:m}$ with respect to $j_{1:k}$ is defined as 
+  $$
+  A_\pi^{i_{1:m}}(s,a_{j_{1:k}}, a_{i_{1:m}}) = q_\pi^{j_{1:k}, i_{1:m}}(s,a_{j_{1:k}}, a_{i_{1:m}}) - q_\pi^{j_{1:k}}(s,a_{j_{1:k}})
+  $$
+  If $j_{1:k}=\emptyset$ the above reduces to 
+  $$
+  A_\pi^{i_{1:m}}(s, a_{i_{1:m}}) = q_\pi^{i_{1:m}}(s, a_{i_{1:m}}) - v_\pi(s)
+  $$
+
 
 # Links 
 * [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer ]] - Ch. 3 - 4

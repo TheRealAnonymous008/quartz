@@ -1,8 +1,14 @@
 * Notation outlined for [[Reinforcement Learning - Notation Guide|reinforcement learning]] and [[Game Theory - Notation Guide|game theory]]  remains relevant unless overwritten here 
 
 * $\mathcal{T}$ - the transition probability of the environment. 
-* $^t_i$ - denotes something for agent $i$ taken at time step $t$. 
+* $^t_i$ - denotes something for agent $i$ taken at time step $t$.  [^time_idx]
 * $^t$ - denotes something joint (for all agents) taken at time step $t$. 
+* $_i$ - pertains to the $i$-th agent 
+* $_{-i}$ - pertains to everything but the $i$-th agent .
+* $i_{1:m}$ - pertains to the agents from the set $\set{i_1,\dots,i_m}$. 
+
+[^time_idx]: Note that sometimes we may write the agent as the superscript. However, we will always use $i$ for agents and $t$ for time.
+
 * $\mu$ - initial state distribution 
 * $O_i$ - the set of observations available to agent $i$
 * $\mathcal{O}_i$ - agent $i$'s observation function

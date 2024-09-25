@@ -27,3 +27,6 @@
 * [Thornton Jones](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
 	* "I dreamt that I had done it. I awoke to find it true"
 	* Cut himself while asleep. 
+
+* [Amou Haji](https://en.wikipedia.org/wiki/Amou_Haji#:~:text=Amou%20Haji%20(Persian%3A%20عمو%20حاجى,for%20more%20than%2060%20years.)
+	* World's Dirtiest Man. 

@@ -34,22 +34,21 @@
 * *Systems are Processes Organized in Structural and Functional Units
 * The least obvious part of the system, its *function or purpose*, is often the most crucial determinant of the system’s behavior, and it can only be deduced by examining this behavior. 
 * *System structure is the source of system behavior*. System behavior reveals itself as a series of events over time. The structure comes from interrelated stocks, flows, and [[System Dynamics|feedback loops]].
-
 * See more [[Universal Properties of Systems|here]]
 ## Networks 
 * *Systems are [[Graph Theory|networks]] of relations among components and can be represented abstractly as such network of relations*. 
 * Many of the *interconnections* in systems operate through the flow of information (via decisions or actions) or resources. These serve to hold the system together and determines how it operates. 
-
+* See more [[Networks in Systems|here]].
 ## Dynamics 
 * *Systems are dynamic over multiple spatial and time scales*. 
 * Systems constantly adjust themselves by feedback loops , but when interdependent components operate with feedback loops of different temporal scales, the system may become unstable
 * In general for the dynamics of the system, the lower the resolution in spatial dimensions, the lower the resolution in the temporal dimensions.
-
+* See more [[System Dynamics|here]].
 ## Complexity 
 * *Systems exhibit various kinds and levels of complexity*. 
 * The purpose of a system may be *emergent* and even accidental -- as in no actor intends for such to happen but the structure of the system makes it so. 
 * [[Complex Systems|Complexity]] and nonlinearity can, themselves, be sources of disruption or failure.
-
+* See more [[Complex Systems|here]].
 ## Evolution
 * *Systems evolve*. Either towards higher organizations, maintaining a steady-state, or decaying.
 * The evolution of systems is based on its flows. When inflows are too low, entropy takes over and the system deteriorates towards disorder 

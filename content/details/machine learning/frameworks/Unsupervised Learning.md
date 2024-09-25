@@ -3,5 +3,7 @@
 * [[Clustering]]
 * [[Association Rule Mining]]
 * [[Dimensionality Reduction Models]]
+
+* [[Representation Learning]]
 # Links
 * [[Unsupervised Learning by Ghahramani]]

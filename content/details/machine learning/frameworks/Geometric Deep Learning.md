@@ -19,7 +19,7 @@
 
 # Geometric Priors
 * [[Convolutional Neural Network|CNNs]] maintain equivariance (i.e., translational symmetry).
-* [[Graph Neural Networks|GNNs]] and [[Transformer Model|Transformers]] make use of permutation invariants
+* [[Graph Neural Network|GNNs]] and [[Transformer Model|Transformers]] make use of permutation invariants
 * [[Recurrent Neural Network|RNNs]] make use of time warping invariants.
 * Another prior is **scale separation** where we produce a hierarchy of spaces by a coarse-graining operator $P$.  A function is **locally stable** if it can be approximated as the composition of coarse-graining operators.
 # Links

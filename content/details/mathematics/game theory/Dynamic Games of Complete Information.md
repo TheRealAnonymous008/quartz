@@ -105,7 +105,7 @@
   
   If $v_i > v_i^\ast$ $\forall i\in N$ and if $\gamma$ is significantly close to $1$, then there exists a subgame-perfect equilibrium of the infinitely repeated game $G(\gamma)$ that achieves an average payoff arbitrarily close to $(v_1,\dots,v_n)$. [^Folk]
 
-[^Folk]: The intuition is that the payoff vector, which is in the [[Convex Geometry|convex]] hull, is a weighted average of some combination of payoffs that result from pure-strategy profiles. We can then construct a sequence of strategy profiles that will imitate the weights required to achieve $(v_1,\dots,v_n)$. A reward-and-punishment strategy is possible because $v_i > v^\ast_i$.  A high enough discount factor discourages players from deviating. 
+[^Folk]: The intuition is that the payoff vector, which is in the [[Convex Optimization|convex]]ex]] hull, is a weighted average of some combination of payoffs that result from pure-strategy profiles. We can then construct a sequence of strategy profiles that will imitate the weights required to achieve $(v_1,\dots,v_n)$. A reward-and-punishment strategy is possible because $v_i > v^\ast_i$.  A high enough discount factor discourages players from deviating. 
 
 ## Reputation
 * We can re-interpret the need for high discounting and an uncertain terminal period (necessary for infinitely repeating games) in a variety of ways. 

@@ -58,4 +58,4 @@
 # Links
 * [[Linear and Nonlinear Programming by Luenberger and Ye]]
 * [[Linear Algebra]]
-* [[Convex Geometry]]
+* [[Convex Optimization]]
