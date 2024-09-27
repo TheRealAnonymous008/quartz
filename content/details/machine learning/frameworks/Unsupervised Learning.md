@@ -5,5 +5,6 @@
 * [[Dimensionality Reduction Models]]
 
 * [[Representation Learning]]
+* [[Variational Autoencoder]]
 # Links
 * [[Unsupervised Learning by Ghahramani]]

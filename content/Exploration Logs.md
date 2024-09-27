@@ -10,8 +10,11 @@
 
 
 
-
 * [Games can become competitive for their own good -- driving the skill floor and skill ceiling up without an influx of players to make playing sustainable for casuals. ](https://www.youtube.com/watch?v=4rsI6CUPu0s)
+
+* [Demo and Writeup for the AI of a Tactical Top Down Shooter](https://www.gamedev.net/blogs/entry/2267533-close-quarters-development-realistic-combat-ai-part-i/)
+* [Final Fantasy VII - Game AI Writeup](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/31903)
+* [Predictive Aiming](https://yal.cc/simplest-possible-predictive-aiming/)
 # Queue
 * [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
 

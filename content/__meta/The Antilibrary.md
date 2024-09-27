@@ -34,6 +34,7 @@
 * [Dreams are (theorized) as ways humans prevent overfitting](https://www.sciencedirect.com/science/article/pii/S2666389921000945)
 * Neuro Evolution of Augmented Topologies and similar algorithms
 * Compositional Pattern Producing Methods
+* Lanczos Algorithm (cited in [[Graph Neural Network#Lanczos Network|Lanczos Networks]])
 
 # Notemarks
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.

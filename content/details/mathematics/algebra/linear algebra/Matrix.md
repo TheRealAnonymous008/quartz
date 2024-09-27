@@ -98,5 +98,7 @@
 * [[Self-Adjoint Matrix]]
 * [[Unitary and Orthogonal Operators]]
 
+* [[Low Rank Approximation]]
+
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence]]

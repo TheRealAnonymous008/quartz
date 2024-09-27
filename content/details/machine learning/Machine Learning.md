@@ -7,6 +7,7 @@
 * The three classic paradigms are suited for different problems:
 	* **[[Supervised Learning]]** - for finding functional mappings between features and labels. 
 	* **[[Unsupervised Learning]]** - for understanding the underlying structure of the data . 
+		* [[Contrastive Learning]]
 	* **[[Reinforcement Learning]]** - for developing policies and behaviors. 
 
 * Machine Learning models have **inductive biases** - assumptions that the model uses to perform a prediction task wherein the model prefers a certain class of solutions. 

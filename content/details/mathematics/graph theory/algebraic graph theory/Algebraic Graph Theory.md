@@ -10,6 +10,7 @@
 * [[Graph Laplacian]]
 * [[Graph Symmetry]]
 * [[Chegeer's Inequality]]
+* [[Spectral Convolution]]
 
 # Links
 * [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt]]
