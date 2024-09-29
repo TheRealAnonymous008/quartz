@@ -12,6 +12,7 @@
 * [[Information Theory]]
 * [[Linear Algebra]]
 * [[Number Theory]]
+* [[Numerical Methods]]
 * [[Probability Theory]]
 * [[Queueing Theory]]
 * [[Statistics]]

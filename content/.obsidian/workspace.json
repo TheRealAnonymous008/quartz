@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a1574f493add9913",
+        "id": "2c4657767236a8f8",
         "type": "tabs",
         "children": [
           {
-            "id": "503bfab1a530194a",
+            "id": "0a199f2552948233",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zshortdump/Cryptography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "359e34da4ef3e520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/__ideas__/Trivia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"infomax\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zshortdump/Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zshortdump/Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zshortdump/Cryptography.md"
+              }
             }
           },
           {
@@ -148,34 +169,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "503bfab1a530194a",
+  "active": "0a199f2552948233",
   "lastOpenFiles": [
-    "details/engineering/systems/Networks in Systems.md",
-    "zshortdump/Attribution Bias.md",
-    "Exploration Logs.md",
+    "details/__ideas__/Trivia.md",
+    "zshortdump/Numerical Methods.md",
+    "details/computer science/Computer Organization.md",
+    "__books/Numerical Methods -- An Inquiry Based Approach with Python.md",
+    "details/mathematics/Mathematics.md",
     "zshortdump/Cryptography.md",
     "zshortdump/Graph Theoretic Approaches for Swarms.md",
+    "details/mathematics/calculus/Differential Equation.md",
+    "details/mathematics/calculus/Differential 1-Form.md",
+    "__meta/Orphanage.md",
+    "details/engineering/systems/Networks in Systems.md",
+    "details/engineering/systems/Systems and Models.md",
+    "details/engineering/network_science/Fundamental Constructs of Network Science.md",
+    "details/engineering/systems/Universal Properties of Systems.md",
+    "details/engineering/Network Science.md",
+    "details/engineering/network_science/Preferential Attachment.md",
+    "details/engineering/network_science/Characterizing Real Networks and Network Phenomena.md",
+    "details/engineering/systems/Characterizing Systems.md",
+    "zshortdump/Attribution Bias.md",
+    "Exploration Logs.md",
     "zshortdump/Metaphysics.md",
     "zshortdump/Philosophical Questions.md",
     "zshortdump/Spectral Convolution.md",
     "details/machine learning/frameworks/Representation Learning.md",
     "details/machine learning/frameworks/Graph Neural Network.md",
     "details/machine learning/unsupervised learning/Unsupervised Graph Neural Network.md",
-    "details/machine learning/unsupervised learning/Supervised Graph Neural Network.md",
-    "details/machine learning/Machine Learning.md",
-    "details/engineering/network_science/Network Communities.md",
-    "details/mathematics/graph theory/algebraic graph theory/Algebraic Graph Theory.md",
-    "details/machine learning/frameworks/Unsupervised Learning.md",
-    "details/machine learning/architectures/Neural Network.md",
-    "__meta/The Antilibrary.md",
-    "details/mathematics/algebra/linear algebra/Matrix.md",
-    "details/machine learning/supervised/Backpropagation through Time.md",
-    "details/computer science/computer graphics/Basic Rendering and the Rendering Pipeline.md",
-    "details/computer science/Computer Graphics.md",
-    "details/computer science/data structures and algorithms/Binary Search Tree.md",
-    "details/linguistics/language learning/Japanese Grammar.md",
-    "details/linguistics/language learning/Japanese Words Index.md",
-    "details/mathematics/algebra/field theory/Galois Field.md",
     "__images/U-QMIX.png",
     "__images/GPPO.png",
     "__images/U-MAPPO.png",

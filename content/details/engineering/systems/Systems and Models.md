@@ -32,6 +32,7 @@
 * Patterns are sets of relations that organize the set of features at any given level in the feature hierarchy, into a map.
 * *Repeated experience furnishes our fundamental means of recognizing the regularity of relationship that constitutes pattern or organization*
 
+* One approach that is important is that of **Abstraction**. One such tool that embodies this is [[Linguistics|language]]
 # Systems as Models 
 * Systems are [[The Psychopathology of Everyday Things|conceptual models]] for the world around us. They usually have a strong congruence with the world. However, they often fall short of [[False Priors|representing]] the world fully
 	* Systems fool us by presenting themselves as a series of events.
@@ -67,6 +68,8 @@
 	* We have our own share of faulty [[Human Biases|biases]] which render it difficult to act rationally. 
 	* One remedy to bounded rationality is to introduce more information. 
 	* The right [[Knowing What To Do -- Constraints, Discoverability and Feedback|feedback]] also helps actors behave rationally as they impose corrective behavior. Incentives and constraints also help. 
+
+* *Our brains naturally form conceptual networks (in the form of neurons) that match conceptualized abstract [[Networks in Systems|networks]]*.
 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 3.4

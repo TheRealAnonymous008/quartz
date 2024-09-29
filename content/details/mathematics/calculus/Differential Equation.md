@@ -6,7 +6,7 @@
 # Ordinary Differential Equations
 * An **integral curve** is a line that, at each point, is tangent to a vector field
   
-  A necessary and sufficient condition for the graph of function $\varphi$ to be an integral curve is that the following relation hold for interval $I$ [^note_1]
+  A necessary and sufficient condition for the graph of function $\varphi$ to be an integral curve is that the following relation hold for interval $I$ 
   
   $$
   \frac{d\varphi}{dt} = v(t,\varphi (t))

@@ -37,5 +37,7 @@
 
 * [Poludnitsa](https://en.wikipedia.org/wiki/Lady_Midday) - A mythical figure in Slavic mythology associated with heat stroke.
 * [The Ghost of Kyiv](https://en.wikipedia.org/wiki/Ghost_of_Kyiv) - a flying ace who shot down six Russian planes during the Kyiv offensive
+
+* [Odesa Catacombs](https://en.wikipedia.org/wiki/Odesa_catacombs) - a vast network of catacombs in Ukraine. It is easy to get lost in these catacombs.
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]
