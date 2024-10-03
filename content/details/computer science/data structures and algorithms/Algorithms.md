@@ -26,6 +26,7 @@
 * [[Linear Programming]]
 	* [[Simplex Method]]
 * [[Metaheuristics]]
+* [[Numerical Methods]]
 
 
 * [[Algorithms in Games]]
@@ -40,5 +41,5 @@
 * [[The Algorithm Design Manual by Skiena]]
 * [[Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein]]
 
-* [[Recurrence Relations]]
+* [[Recurrence Relation]]
 * [[Data Structures]]

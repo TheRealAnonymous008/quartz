@@ -1,6 +1,6 @@
 * A **determinant** on $M_{n\times n}(F)$ is an alternating [[Multilinear Function|multilinear function]] $\delta: M_{n\times n} (F) \to F$ such that $\delta(I_n)=1$. We denote this as $\det(A)$ or $|A|$.
   
-  We can get an explicit, [[Recurrence Relations|recursive]] formula for the determinant below.
+  We can get an explicit, [[Recurrence Relation|recursive]] formula for the determinant below.
 
 * (*Friedberg 4.5.1*)  Let $\delta$ be an alternating $n$-linear function on $M_{n\times n}(F)$. For each $(n+1)\times (n+1)$ matrix $A$ and each $j$, $1\le j \le n+1$ we can define the determinant as  
   $$

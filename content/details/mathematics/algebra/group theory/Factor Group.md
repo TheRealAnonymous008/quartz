@@ -11,7 +11,7 @@
   Both coset multiplication and the isomorphism are independent of $a,b$.
   
   See (*Fraleigh 14.4*) for a proof that $N$ being a normal subgroup is necessary and sufficient for coset multiplication to be well defined. 
-	* In effect, this simplifies the group structure by representing all [[Cosets, Group Indices|Cosets]] with a representative element.
+	* In effect, this simplifies the group structure by *representing all [[Cosets, Group Indices|Cosets]] with a representative element*.
 	* (*Fraleigh 14.5*) The set of cosets forms a group
 		* In the factor group $G/N$, the coset $N$ serves as $0$.
 	* (*Fraleigh 14.1*) One natural choice for $N$ is the [[Group Homomorphism|Kernel]] of the homomorphism $\phi:G\to G'$

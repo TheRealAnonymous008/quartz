@@ -25,6 +25,7 @@
 
 # Topics
 * [[Differential Calculus]]
+	* [[Taylor Series]]
 * [[Integral Calculus]]
 * [[Differential Equation]]
 

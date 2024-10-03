@@ -57,7 +57,7 @@
 ## UAS 
 * [^Yu_2024]  introduces the use of a **Unified Action Space (UAS)** which consists of *semantic representations of agent actions from a latent space of all possible agent actions*, particularly in the case when agents are physically heterogeneous (i.e., different constraints or capabilities). 
 * Action masks are used to generate the agent policies.
-* (*Yu 1*)  There exists a fully-cooperative physically heterogeneous MARL problem such that t*he joint reward with parameter sharing is suboptimal*.
+* (*Yu 1*)  There exists a fully-cooperative physically heterogeneous MARL problem such that *the joint reward with parameter sharing is suboptimal*.
   
   More formally if $J^\ast$ is the optimal joint reward, and $J^\ast_p$ is the optimal joint reward under parameter sharing. Also let $\rho_i$ denote the probability of action $a_i$. and there are $N$ agents, we have
   $$

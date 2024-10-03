@@ -1,4 +1,4 @@
-* **Dynamic Programming** is an [[Algorithms|Algorithm]] applied to [[Recurrence Relations|recursive]] problems.
+* **Dynamic Programming** is an [[Algorithms|Algorithm]] applied to [[Recurrence Relation|recursive]] problems.
 	* It is usually applied to optimization algorithm with **optimal substructure** -- that is, the optimal solution incorporates optimal solutions to related subproblems.  This can be discovered with the following pattern
 		* The problem involves making a choice which splits the problem into one or more subproblems.
 		* For subproblems, we assume that the choice leads to an optimal solution (regardless of how it is obtained).

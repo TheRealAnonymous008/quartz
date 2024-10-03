@@ -33,6 +33,8 @@
 	* More homogeneous compositions correspond to a simpler internal structure and function 
 	* More heterogeneous compositions correspond to more complex structures and more possible interactions 
 
+* At the lowest level, the system is composed of **atoms** -- building blocks for subsystems at different levels of organization
+
 # Internal Organization and Structure 
 * **Structure** refers to the way components are stably linked to one another to form **[[Pattern Structure|patterns]]** that persist over time. 
 * **Organization** concerns both internal structure and how internal structure leads to function.

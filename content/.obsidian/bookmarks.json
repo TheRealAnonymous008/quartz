@@ -47,11 +47,6 @@
         },
         {
           "type": "file",
-          "ctime": 1724929702407,
-          "path": "details/mathematics/calculus/Differential Equation.md"
-        },
-        {
-          "type": "file",
           "ctime": 1724968745826,
           "path": "details/computer science/data structures and algorithms/Sorting Algorithms.md"
         },
@@ -59,6 +54,11 @@
           "type": "file",
           "ctime": 1725976097553,
           "path": "details/psychology/Behavioral Economics.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1727612370649,
+          "path": "zshortdump/Philosophical Questions.md"
         }
       ],
       "title": "Continuation"

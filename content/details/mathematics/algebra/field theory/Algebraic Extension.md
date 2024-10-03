@@ -1,5 +1,6 @@
 * An [[Extension Field and Polynomials|extension field]] $E$ of field $F$ is an **algebraic extension** of $F$ if every element in $E$ is algebraic over $F$.
 * If an extension field $E$ of a field $F$ is of finite dimension $n$ as a [[Vector Space|vector space]] over $F$, then $E$ is a **finite extension of degree $n$ over $F$**. The degree $n$ of $E$ over $F$ is denoted $[E:F]$  
+	* Note that $[E:F]=1\iff E=F$.
 
 * (*Fraleigh 31.3*) A finite extension field $E$ of a field $F$ is an algebraic extension of $F$.
 	* *Proof*: Take $\alpha \in E$. The set $1,\alpha,\dots, \alpha^n$ forms a [[Linear Combination|linearly dependent set]]. Their linear combination gives a nonzero polynomial that evaluates to $0$. Therefore $\alpha$ is algebraic over $F$.

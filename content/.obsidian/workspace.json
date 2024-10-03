@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2c4657767236a8f8",
+        "id": "012336e12ea62f38",
         "type": "tabs",
         "children": [
           {
-            "id": "0a199f2552948233",
+            "id": "6b28b0b4902c3bd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zshortdump/Cryptography.md",
+                "file": "details/engineering/systems/Universal Properties of Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "359e34da4ef3e520",
+            "id": "9eb451a7f3a1728c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "details/__ideas__/Trivia.md",
+                "file": "details/engineering/systems/Complex Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Search Algorithm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zshortdump/Cryptography.md",
+                "file": "details/engineering/systems/Complex Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zshortdump/Cryptography.md",
+                "file": "details/engineering/systems/Complex Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zshortdump/Cryptography.md"
+                "file": "details/engineering/systems/Complex Systems.md"
               }
             }
           },
@@ -169,39 +170,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a199f2552948233",
+  "active": "9eb451a7f3a1728c",
   "lastOpenFiles": [
-    "details/__ideas__/Trivia.md",
-    "zshortdump/Numerical Methods.md",
-    "details/computer science/Computer Organization.md",
-    "__books/Numerical Methods -- An Inquiry Based Approach with Python.md",
-    "details/mathematics/Mathematics.md",
-    "zshortdump/Cryptography.md",
-    "zshortdump/Graph Theoretic Approaches for Swarms.md",
-    "details/mathematics/calculus/Differential Equation.md",
-    "details/mathematics/calculus/Differential 1-Form.md",
-    "__meta/Orphanage.md",
-    "details/engineering/systems/Networks in Systems.md",
-    "details/engineering/systems/Systems and Models.md",
-    "details/engineering/network_science/Fundamental Constructs of Network Science.md",
     "details/engineering/systems/Universal Properties of Systems.md",
-    "details/engineering/Network Science.md",
-    "details/engineering/network_science/Preferential Attachment.md",
-    "details/engineering/network_science/Characterizing Real Networks and Network Phenomena.md",
+    "details/engineering/systems/Complex Systems.md",
     "details/engineering/systems/Characterizing Systems.md",
-    "zshortdump/Attribution Bias.md",
-    "Exploration Logs.md",
-    "zshortdump/Metaphysics.md",
-    "zshortdump/Philosophical Questions.md",
-    "zshortdump/Spectral Convolution.md",
-    "details/machine learning/frameworks/Representation Learning.md",
-    "details/machine learning/frameworks/Graph Neural Network.md",
-    "details/machine learning/unsupervised learning/Unsupervised Graph Neural Network.md",
+    "details/mathematics/approximation/Numerical Integral Calculus.md",
+    "details/mathematics/approximation/Numerical Differential Calculus.md",
+    "zshortdump/Numerical Methods.md",
+    "details/mathematics/calculus/Taylor Series.md",
+    "__meta/Orphanage.md",
+    "__meta/The Antilibrary.md",
+    "details/mathematics/approximation/Root Finding Algorithms.md",
+    "details/computer science/data structures and algorithms/Algorithms.md",
+    "details/mathematics/algebra/group theory/Group Homomorphism.md",
+    "details/mathematics/approximation",
+    "details/mathematics/misc/Recurrence Relation.md",
+    "__books/Numerical Methods -- An Inquiry Based Approach with Python by Sullivan.md",
+    "details/mathematics/algebra/field theory/Algebraic Extension.md",
+    "details/mathematics/algebra/group theory/Extension Field and Polynomials.md",
+    "details/mathematics/algebra/ring theory/Ideal.md",
+    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
+    "details/psychology/biases/Extension Neglect.md",
+    "details/mathematics/algebra/ring theory/Factor Ring.md",
+    "details/mathematics/algebra/field theory/Fundamental Constructs of Field Theory.md",
+    "details/mathematics/algebra/ring theory/Ideal Arithmetic.md",
+    "details/mathematics/algebra/ring theory/Division Ring.md",
+    "details/mathematics/algebra/group theory/Fundamental Constructs of Group Theory.md",
+    "details/mathematics/algebra/Group Theory.md",
+    "details/mathematics/algebra/group theory/Normal Group.md",
+    "__images/Hiragana.png",
     "__images/U-QMIX.png",
     "__images/GPPO.png",
     "__images/U-MAPPO.png",
     "__images/UAS Pipeline.png",
-    "__images/Hiragana.png",
     "__images/HATRPO.png",
     "__images/HAPPO.png",
     "__images/Sequential HARL.png",
@@ -217,7 +219,6 @@
     "details/philosophy/thinkers",
     "details/philosophy/works",
     "details/philosophy/frameworks",
-    "details/mathematics/number theory",
     "details/mathematics/Untitled.canvas",
     "__meta/{{Media Board}}.canvas",
     "Test.canvas"

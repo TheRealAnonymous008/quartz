@@ -48,6 +48,7 @@
 	  F(\alpha) = \text{Quot}(F[\alpha])
 	  $$
 	*  In either case, an element in $F(\alpha)$ can be expressed as a quotient of polynomials in $F[\alpha]$.
+	* Also *$F(\alpha)$ is the smallest field in $E$ containing both $F$ and $\alpha$*
 
 	* (*Fraleigh e29.29*) Let $F\le E$ and $\alpha, \beta \in E$. If $\alpha$ is transcendental over $F$ but algebraic over $F(\beta)$, then $\beta$ is algebraic over $F(\alpha)$.
 	* (*Fraleigh e29.33*) Let $F\le E$ and $\alpha\in E$ be transcendental over $F$. Every element in $F(\alpha)$ not in $F$ is also transcendental over $F$

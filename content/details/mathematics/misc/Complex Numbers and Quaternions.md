@@ -9,7 +9,7 @@
   $$
   e^{i\theta}=\cos \theta + i\sin \theta
   $$
-  Intuitively, this says that *an imaginary number captures the rotation on the unit circle.* This proof follows from expanding the [[Calculus|Taylor series]] of $e^x$ and extracting the terms corresponding to $\cos x$ and $\sin x$. 
+  Intuitively, this says that *an imaginary number captures the rotation on the unit circle.* This proof follows from expanding the [[Taylor Series|Taylor series]] of $e^x$ and extracting the terms corresponding to $\cos x$ and $\sin x$. 
   
   From this we derive **Euler's Identity** 
   

@@ -35,14 +35,22 @@
   $$
   Where $e'$ is the identity of $G'$.
 	* We may think of this as the set of points which the homomorphism maps to a singularity $e'\in G'$
+	* Note that by definition 
+	  $$
+	  \phi(\text{Ker}(\phi)) = e'
+	  $$
 
 * (*Fraleigh 13.15*) If $H=\text{Ker}(\phi)$ and $a\in G$, then we have the cosets of $H$ as 
   $$
   aH=Ha= \{x\in G\mid \phi(x)=\phi(a)\} = \phi^{-1}[\{\phi(a)\}]
   $$
   It follows that the partition of $G$ into cosets is the same.
-  
+	* *Proof*: We have
+	  $$
+	  \phi(aH) = \phi(a)\phi(H)=\phi(a)e'=\phi(a) = e'\phi(a) = \phi(H)\phi(a)=\phi(Ha)
+	  $$
 * (*Fraleigh 13.18*) A homomorphism is one to one if and only if $\text{Ker}(\phi)=\{e\}$. 
+	* *Intuition*: Every element $x\in G$ can be written as $xh$ where $h\in\text{Ker}(\phi)$. Clearly a homomorphism can only be one-to-one if and only if $\phi(xh)$ maps to a unique element in $\phi(G)$, if and only if $\phi(x)\phi(h)$ are unique, if and only if $\phi(h)$ is unique, if and only if $\phi(h)=e'$ and $e'$ only. That is, $h=e$ and so $\text{Ker}(\phi)=\set{e}$
 
 * (*Fraleigh 14.11*) **The Fundamental Homomorphism Theorem**.  Every [[Factor Group]] gives rise to a natural homomorphism.
 

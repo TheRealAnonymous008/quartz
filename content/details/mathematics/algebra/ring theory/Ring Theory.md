@@ -15,6 +15,8 @@
 * [[Division Ring]]
 * [[Ring with Unity]]
 
+* [[Field Theory]]
+
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh|Fraleigh]]
 * [[Group Theory]] - Ring theory is an extension of group theory

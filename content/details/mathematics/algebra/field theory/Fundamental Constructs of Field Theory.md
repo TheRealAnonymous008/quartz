@@ -37,6 +37,7 @@ aliases:
 	  $$
 	  a\in I \implies aa^{-1} \in I \implies 1 \in I \implies \forall x \in F,  1\cdot x =x \in I
 	  $$
+
 * (*Fraleigh 27.11*) A commutative ring with unity is a field if and only if it has no proper nontrivial ideals.
 
 * An element $\alpha$ of a field is an **$n$-th root of unity** if $a^n=1$. It is a **primitive $n$-th root of unity** if $a^n=1$ and $a^m\ne 1$ for $0<m < n$. 
