@@ -10,5 +10,9 @@
 	* They can be trained for pattern recognition tasks. 
 
 * Aphid colonies mostly consist of asexually-produced clone sisters which are easily replaced. The aphids on the edge of a cluster will sit there and allow predators to pick them off without resistance, essentially serving as living shields for their siblings at the center of the colony.
+
+* [Shipworms](https://www.youtube.com/watch?v=zj31k1Wv0hQ) 
+
 # Links 
 * [zefrank](https://www.youtube.com/@zefrank) - has a fantastic series of videos about specific animals delivered in both educational and entertaining fashion. 
+* [Bizarre Beasts](https://www.youtube.com/@BizarreBeasts)

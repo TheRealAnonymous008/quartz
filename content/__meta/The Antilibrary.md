@@ -35,6 +35,7 @@
 * Neuro Evolution of Augmented Topologies and similar algorithms
 * Compositional Pattern Producing Methods
 * Lanczos Algorithm (cited in [[Graph Neural Network#Lanczos Network|Lanczos Networks]])
+* Algorithmic Information Theory
 
 # Notemarks
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.

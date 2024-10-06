@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "012336e12ea62f38",
+        "id": "164bbed974616af7",
         "type": "tabs",
         "children": [
           {
-            "id": "6b28b0b4902c3bd8",
+            "id": "b70f130adc2513cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/engineering/systems/Universal Properties of Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eb451a7f3a1728c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/engineering/systems/Complex Systems.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Search Algorithm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "details/engineering/systems/Complex Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "details/engineering/systems/Complex Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "details/engineering/systems/Complex Systems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,36 +149,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9eb451a7f3a1728c",
+  "active": "b70f130adc2513cb",
   "lastOpenFiles": [
-    "details/engineering/systems/Universal Properties of Systems.md",
-    "details/engineering/systems/Complex Systems.md",
-    "details/engineering/systems/Characterizing Systems.md",
-    "details/mathematics/approximation/Numerical Integral Calculus.md",
-    "details/mathematics/approximation/Numerical Differential Calculus.md",
-    "zshortdump/Numerical Methods.md",
-    "details/mathematics/calculus/Taylor Series.md",
-    "__meta/Orphanage.md",
-    "__meta/The Antilibrary.md",
-    "details/mathematics/approximation/Root Finding Algorithms.md",
-    "details/computer science/data structures and algorithms/Algorithms.md",
-    "details/mathematics/algebra/group theory/Group Homomorphism.md",
-    "details/mathematics/approximation",
-    "details/mathematics/misc/Recurrence Relation.md",
-    "__books/Numerical Methods -- An Inquiry Based Approach with Python by Sullivan.md",
-    "details/mathematics/algebra/field theory/Algebraic Extension.md",
-    "details/mathematics/algebra/group theory/Extension Field and Polynomials.md",
-    "details/mathematics/algebra/ring theory/Ideal.md",
-    "details/mathematics/algebra/ring theory/Polynomial Ring.md",
-    "details/psychology/biases/Extension Neglect.md",
-    "details/mathematics/algebra/ring theory/Factor Ring.md",
-    "details/mathematics/algebra/field theory/Fundamental Constructs of Field Theory.md",
-    "details/mathematics/algebra/ring theory/Ideal Arithmetic.md",
-    "details/mathematics/algebra/ring theory/Division Ring.md",
-    "details/mathematics/algebra/group theory/Fundamental Constructs of Group Theory.md",
-    "details/mathematics/algebra/Group Theory.md",
-    "details/mathematics/algebra/group theory/Normal Group.md",
+    "details/mathematics/calculus/odes/Integral Curve.md",
+    "details/linguistics/language learning/Japanese Words Index.md",
     "__images/Hiragana.png",
+    "details/__other__/Belief-Desire-Intention.md",
+    "zshortdump/Linear ODE.md",
+    "details/mathematics/calculus/odes/Ordinary Differential Equation.md",
+    "details/mathematics/calculus/odes/ODE - Notation Guide.md",
+    "details/mathematics/calculus/Differential Equation.md",
+    "zshortdump/differential .md",
+    "zshortdump/Metaphysics.md",
+    "zshortdump/Attribution Bias.md",
+    "zshortdump/Cryptography.md",
+    "zshortdump/Graph Theoretic Approaches for Swarms.md",
+    "details/mathematics/calculus/Differential 1-Form.md",
+    "details/__ideas__/Animals.md",
+    "details/__ideas__/Trivia.md",
+    "zshortdump/Philosophical Questions.md",
+    "details/mathematics/calculus/odes",
+    "__meta/The Antilibrary.md",
+    "details/computer science/data structures and algorithms/Metaheuristics.md",
+    "Exploration Logs.md",
+    "details/machine learning/reinforcement learning/marl/MARL Research.md",
+    "details/engineering/systems/Complex Systems.md",
+    "details/engineering/systems/System Archetypes.md",
+    "details/engineering/systems/Universal Properties of Systems.md",
+    "details/economics/Scarcity, Supply, and Demand.md",
+    "details/economics/Microeconomics.md",
+    "details/mathematics/approximation",
     "__images/U-QMIX.png",
     "__images/GPPO.png",
     "__images/U-MAPPO.png",
@@ -218,7 +197,6 @@
     "details/philosophy/misc",
     "details/philosophy/thinkers",
     "details/philosophy/works",
-    "details/philosophy/frameworks",
     "details/mathematics/Untitled.canvas",
     "__meta/{{Media Board}}.canvas",
     "Test.canvas"

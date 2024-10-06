@@ -65,6 +65,7 @@
 	* In the hierarchy, overlapping subsystems are represented as shared components. In fact, *Composition is inherently hierarchical*
 
 * Hierarchy gives rise to [[Complex Systems|complexity]]. 
+* *Components form connections because of their interaction potentials*.
 * **[[Network Science|Networks]]** - all systems may be described as organizations based on networks of components and their various interconnections/interactions through forces and flows
 
 * *Systems transform inputs into outputs*

@@ -33,6 +33,10 @@
 * *Repeated experience furnishes our fundamental means of recognizing the regularity of relationship that constitutes pattern or organization*
 
 * One approach that is important is that of **Abstraction**. One such tool that embodies this is [[Linguistics|language]]
+
+* Because a conceptual model is in itself a system, the competency of a brain to use the conceptual model is tied to how high a concept level it can represent.
+	* The conceptual model is a [[Complex Systems|complex system]]. Higher level concepts are composed of interrelated lower level concepts. Lower level concepts can be a part of multiple higher level concepts. 
+	* The dynamics of this conceptual model is encompassed with a complex network between concepts -- both in the same level as well as higher and lower levels of organization.
 # Systems as Models 
 * Systems are [[The Psychopathology of Everyday Things|conceptual models]] for the world around us. They usually have a strong congruence with the world. However, they often fall short of [[False Priors|representing]] the world fully
 	* Systems fool us by presenting themselves as a series of events.

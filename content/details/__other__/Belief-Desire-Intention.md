@@ -1,4 +1,4 @@
-* The **Belief Desire Intention Model** is a model for [[Agent Based Modeling|agent programming]] where agents have
+* The **Belief Desire Intention Model** is a model for [[Agent Based Modeling|agent programming]] where agents have 
 	* **Beliefs** - the [[Bayesian Models|informational state of the agent]], including rules and heuristics that it has. 
 	* **Desires** - the objectives or goals of the agent. 
 	* **Intentions** - the actions that the agents have chosen to do. This presupposes planning.

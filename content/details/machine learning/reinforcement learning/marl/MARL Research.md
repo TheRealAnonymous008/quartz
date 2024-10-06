@@ -42,6 +42,16 @@
 
 [^Wang_2022]: Wang, Zhou, and Li (2022) [Stabilizing Voltage in Power Distribution Multi-Agent Reinforcement Learning with Transformer](https://arxiv.org/pdf/2206.03721)
 
+* [^ardon_2022] propose an [[Agent Based Modeling|ABM]] network that is compatible with the use of [[Multi-Agent Reinforcement Learning|MARL]] .  The framework encodes the following
+	* Partial Observability. 
+	* A network model for inter-agent relationships.  Connectivity can either be static or stochastic. 
+	* Agent Utility Functions encapsulated as [[Game Theory - Games|types]].
+	* Heterogeneous Agent Preferences
+	* Support for complex turn orders (i.e., turns based on types)
+
+[^Ardon_2022]: Ardon et al. (2023) [An RL driven multi-agent framework to model complex systems](https://arxiv.org/pdf/2210.06012)
+
+
 * [^Queralta_2020] gives a survey for multi-robot search and rescue systems. 
 	* Typical agents in SAR include
 		* UAVs - Unmanned Aerial Vehicles. Typically characterized by cameras as sensors due to their size and weight. 
