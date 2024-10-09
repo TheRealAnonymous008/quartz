@@ -21,18 +21,27 @@
             }
           },
           {
-            "id": "1e895ec154e3fcc9",
+            "id": "dbfb0072976eb4bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "details/linguistics/etymology/Proto-Indo-European Etymology.md",
+                "file": "details/linguistics/language learning/Japanese Grammar.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "974004fcb481b346",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "details/linguistics/language learning/Japanese Words Index.md",
+                "file": "details/linguistics/language learning/Japanese Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "details/linguistics/language learning/Japanese Words Index.md",
+                "file": "details/linguistics/language learning/Japanese Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "details/linguistics/language learning/Japanese Words Index.md"
+                "file": "details/linguistics/language learning/Japanese Grammar.md"
               }
             }
           },
@@ -170,14 +179,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cbb8afb6aa03cd8",
+  "active": "dbfb0072976eb4bb",
   "lastOpenFiles": [
+    "details/linguistics/language learning/Japanese Words Index.md",
+    "details/linguistics/language learning/Japanese Grammar.md",
     "details/linguistics/etymology/Proto-Indo-European Etymology.md",
     "details/linguistics/etymology/Etymology.md",
     "details/linguistics/languages/Syntax.md",
     "details/linguistics/languages/Parts of Speech.md",
-    "details/linguistics/language learning/Japanese Words Index.md",
-    "details/linguistics/language learning/Japanese Grammar.md",
     "details/linguistics/languages/Linguistics.md",
     "details/linguistics/languages/Index of Writing Systems.md",
     "__images/Katakana.png",
