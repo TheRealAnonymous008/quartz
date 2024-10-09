@@ -14,7 +14,7 @@
   If $F=\mathbb{C}$, we call $A$ a **unitary matrix**
   If $F=\mathbb{R}$, we call $A$ an **orthogonal matrix** 
 
-* In other words *Unitary operators preserve the lengths of vectors in the vector space*.
+* In other words *Unitary / Orthogonal operators preserve the lengths of vectors in the vector space*.
 
 * (*Friedberg 6.18*) Let $V$ be a finite dimensional inner product space and let $T$ be a linear operator on $V$. Then the following are equivalent
 	* $TT^\ast=T^\ast T=I$ (see [[Normal Matrix]])

@@ -1,5 +1,5 @@
 # Overview
-* In the context of reinforcement learning, Monte Carlo Methods are those that *require no prior knowledge* about the environment, and where the agent *learns from experience*. The agent can also simply learn the values of a *sample of the state space*.
+* In the context of reinforcement learning, [[Numerical Methods|Monte Carlo Methods]] are those that *require no prior knowledge* about the environment, and where the agent *learns from experience*. The agent can also simply learn the values of a *sample of the state space*.
 * It is based on *averaging sample returns*. On each state, simulate episodes starting from that state and average the returns from each state. 
 * *Each estimate from each state is treated independent*. The estimate from one state does not depend on the estimate from subsequent states. 
 * The problem framed this way is analogous to having many interrelated [[The Exploitation-Exploration Trade-Off|bandit problems]] with a non-stationary distribution (since everything is learnt).

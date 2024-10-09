@@ -38,7 +38,7 @@
   \nabla L(y,\hat{y})=\text{softmax}(x)-y
   $$
   
-  Which means *to perform gradient descent, all we need is the difference between the expected and observed probabilities.*
+  Which means *to perform [[Optimization Algorithms in Machine Learning|gradient descent]], all we need is the difference between the expected and observed probabilities.*
   
   Now take the second derivative. We get $$\frac{\partial^2}{\partial^2 x_j} L(y,\hat{y})=S(x)_j \left(1-S(x)_j\right)$$As it turns out, this is equal to the variance of the Softmax function.
 

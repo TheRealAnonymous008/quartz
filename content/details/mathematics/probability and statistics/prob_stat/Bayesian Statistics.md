@@ -26,7 +26,7 @@
 	* Hence why in Normal Distributions, we report $\mu \pm \sigma$. 
 	* These are called **credible intervals** since their mass is $(1-\alpha)$. They are **central** if they have $(1-\alpha)/2$ mass on either side.
 	* *Credible intervals are not sampling intervals*. Credible intervals act on the posterior distribution.
-* We can also use Monte Carlo approximation to draw $S$ samples form the from the posterior
+* We can also use [[Numerical Optimization|Monte Carlo approximation]] to draw $S$ samples form the from the posterior
 	* Sort the $S$ samples
 	* Then, find the entries that rank $\pm \alpha/S$ from the estimator.
 * We may also use the **highest posterior density region / interval** which contains the set of most probable points that in total constitute $1-\alpha$ mass. That is, if we find threshold $p^\ast$ such that for 

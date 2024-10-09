@@ -6,7 +6,7 @@
 statement:  <subject> は <object>    
 ```
 
-* We use subject complements using the です (desu; [[Syntax|copula]]) in the following form
+* We use subject complements using the です (desu; [[Parts of Speech|copula]]) in the following form
 ```
 statement: (implied subject)  <complement> です
 statement: (explicit subject) <subject> は <complement> です

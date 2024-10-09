@@ -24,6 +24,8 @@
 * [[Words]] - words I like.
 * [[Language]] - notes on the languages of the world.
 
+
+
 # Links
 * [MIT 24.900 Introduction to Linguistics, Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j)
 * [The Linguistics Iceberg Explained](https://www.youtube.com/watch?v=GFz6KqZurFY&t=5660s)

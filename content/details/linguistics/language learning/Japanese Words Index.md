@@ -1,16 +1,21 @@
 * Note that the correct spelling of the word is provided in the native writing system (see [[Index of Writing Systems]]). Romanization is only an approximation
 
 # Learning Batch
+
 | Word               | Romanization   | Meaning                                                                                                                                                                                        |
 | ------------------ | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| T シャツ              | Tiishatsu      | T-Shirt                                                                                                                                                                                        |
+| あいさつ               | Aisatsu        | Greeting                                                                                                                                                                                       |
 | あまり / <br><br>あんまり | Amari / Anmari | Remainder / Resiude;<br><br>Not very / Not much (in negative sentences)<br><br>あまり is formal<br>あんまり is informal                                                                               |
 | あめ                 | Ame            | Hard Candy / Toffee                                                                                                                                                                            |
+| アメリカ               | Amerika        | America                                                                                                                                                                                        |
 | あらう                | Arau           | To wash                                                                                                                                                                                        |
 | ある                 | Aru            | To be (as in for inanimate objects).<br><br>Alternatively to exist, to live, to have, to be located.                                                                                           |
 | あるく                | Aruku          | To walk                                                                                                                                                                                        |
 | いい / <br><br>よい    | Ii / Yoi       | Good, Excellent, Fine, Agreeable, Pleasant<br><br>We use いい more commonly in speaking, while よい in writing.<br><br>よい tends to be more formal.<br><br>よい tends to describe non-physical things |
 | いいえ                | Iie.           | No. Not at all.                                                                                                                                                                                |
 | いえ                 | Ie             | House; Residence; Dwelling; Lineage; Family name.                                                                                                                                              |
+| イギリス               | Igirisu        | Britain                                                                                                                                                                                        |
 | いくつ                | Ikutsu         | How many? How old? How much?                                                                                                                                                                   |
 | いけ                 | Ike            | Pond                                                                                                                                                                                           |
 | いしゃ                | Isha           | Physician; Medical Doctor                                                                                                                                                                      |
@@ -20,9 +25,66 @@
 | いっしょ               | Issho          | Together; Meeting; Company                                                                                                                                                                     |
 | いつも                | Itsumo         | Always; Usually; Every Time; Never (w/ negative verb so that it means "never not")                                                                                                             |
 | いぬ                 | Inu            | Dog                                                                                                                                                                                            |
+| いま                 | Ima            | Now (the present moment)                                                                                                                                                                       |
 | いみ                 | Imi            | Meaning ; Significance                                                                                                                                                                         |
 | いもうと               | Imouto         | Younger Sister                                                                                                                                                                                 |
 | いや                 | Iya            | Unpleasant; Disagreeable; Reluctant                                                                                                                                                            |
+| えいご                | Eigo           | English (language)                                                                                                                                                                             |
+| えんぴつ               | Enpitsu        | Pencil                                                                                                                                                                                         |
+| おいしい               | Oishii         | Delicious                                                                                                                                                                                      |
+| おかあ（さん）            | Okaa(san)      | Mother<br><br>Note that the "san" is a honorific.                                                                                                                                              |
+| おとう（さん）            | Otou(san)      | Father<br><br>Note that the "san" is a honorific.                                                                                                                                              |
+| おとうと               | Otouto         | Younger Brother                                                                                                                                                                                |
+| おにい（さん）            | Onii(san)      | Older Brother<br><br>Note that the "san" is a honorific.                                                                                                                                       |
+| おねえ（さん）            | Onee(san)      | Older Sister<br><br>Note that the "san" is a honorific                                                                                                                                         |
+| がくせい               | Gakusei        | Student                                                                                                                                                                                        |
+| かさ                 | Kasa           | Umbrella                                                                                                                                                                                       |
+| かばん                | Kaban          | Bag                                                                                                                                                                                            |
+| かんこく               | Kankoku        | Korea                                                                                                                                                                                          |
+| きっさてん              | Kissaten       | Cafe                                                                                                                                                                                           |
+| きょうし               | Kyoushi        | Teacher or Professor<br><br>A more modest version of せんせい                                                                                                                                      |
+| ぎんこお               | Ginkoo         | Bank                                                                                                                                                                                           |
+| くつ                 | Kutsu          | Shoes                                                                                                                                                                                          |
+| けえざい               | Keezai         | Economics                                                                                                                                                                                      |
+| こうこう               | Koukou         | Highschool                                                                                                                                                                                     |
+| ごご                 | Gogo           | Afternoon (P.M.)                                                                                                                                                                               |
+| ごぜん                | Gozen          | Morning (A.M.)                                                                                                                                                                                 |
+| コンピューター            | Konpyuutaa     | Computer                                                                                                                                                                                       |
+| さい                 | Sai            | Age (noun)                                                                                                                                                                                     |
+| さいふ                | Saifu          | Wallet                                                                                                                                                                                         |
+| さかな                | Sakana         | Fish                                                                                                                                                                                           |
+| ジインズ               | Jiinzu         | Jeans                                                                                                                                                                                          |
+| じかん                | Jikan          | Time (noun)                                                                                                                                                                                    |
+| じしょ                | Jisho          | Dictionary                                                                                                                                                                                     |
+| じてんしゃ              | Jitensha       | Bicycle                                                                                                                                                                                        |
+| しんぶん               | Shinbun        | Newspaper                                                                                                                                                                                      |
+| せんこう               | Senkou         | Major (as in a subject in school)                                                                                                                                                              |
+| せんせい               | Sensei         | Teacher or Professor.<br><br>Honorable Master<br><br>Note that saying わたし は せんせい  (I am Sensei) can be seen as arrogant since it is reserved for Honorable Masters                             |
+| だいがく               | Daigaku        | College / University                                                                                                                                                                           |
+| たかい                | Takai          | Expensive; High price                                                                                                                                                                          |
+| ちゅうごく              | Chuugoku       | China                                                                                                                                                                                          |
+| でんわ                | Denwa          | Telephone                                                                                                                                                                                      |
+| と おじぎ              | Ojigi          | Bowing (in the respectful sense)                                                                                                                                                               |
+| トイレ                | Toire          | Toilet / Restroom                                                                                                                                                                              |
+| とけえ                | Tokee          | Watch / Clock                                                                                                                                                                                  |
+| としょかん              | Toshokan       | Library                                                                                                                                                                                        |
+| ともだち               | Tomodachi      | Friend                                                                                                                                                                                         |
+| とんかつ               | Tonkatsu       | Pork Cutlet                                                                                                                                                                                    |
+| なまえ                | Namae          | Name                                                                                                                                                                                           |
+| にく                 | Niku           | Meat                                                                                                                                                                                           |
+| にほん                | Nihon          | Japan                                                                                                                                                                                          |
+| ノオト                | Nooto          | Notebook                                                                                                                                                                                       |
+| ばんごお               | Bangoo         | Number                                                                                                                                                                                         |
+| ビジネス               | Bijinesu       | Business                                                                                                                                                                                       |
+| ペン                 | Pen            | Pen                                                                                                                                                                                            |
+| ぼおし                | Booshi         | Hat / Cap                                                                                                                                                                                      |
+| ほん                 | Hon            | Book                                                                                                                                                                                           |
+| めいし                | Meishi         | Business card                                                                                                                                                                                  |
+| メニュー               | Menyuu         | Menu                                                                                                                                                                                           |
+| やさい                | Yasai          | Vegetable                                                                                                                                                                                      |
+| ゆうびんきょく            | Yuubinkyoku    | Post office                                                                                                                                                                                    |
+| りゅうがくせい            | Ryugakusei     | International student<br><br>Note the subword "がくせい" (student)                                                                                                                                 |
+| れきし                | Rekishi        | History                                                                                                                                                                                        |
 
 
 
@@ -30,7 +92,7 @@
 
 ## Sayings
 
-| Word          | Romanization             | Meaning                                                                                                             | Additional Remarks                                                                                                                                                   |
+| Phrase        | Romanization             | Meaning                                                                                                             | Additional Remarks                                                                                                                                                   |
 | ------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | すみません。        | Sumimasen.               | Excuse me (as in to get someone's attention). <br><br>I'm sorry (to trouble you).<br><br>Thank you (for your time). |                                                                                                                                                                      |
 | さようなら。        | Sayounara                | Farewell                                                                                                            | Traditionally used when you do not expect to see someone for  a long time.<br><br>However, may also be used casually (i.e., school children taking leave from class) |
@@ -58,46 +120,29 @@
 | あの            | Ano                      | Um...                                                                                                               | Filler word, but  is used as a "pacer" in the sense it signals hesitation to the other person.                                                                       |
 | そうです          | Sou desu                 | That's right                                                                                                        |                                                                                                                                                                      |
 | そうですか         | Sou desu ka              | I see; Is that so?                                                                                                  |                                                                                                                                                                      |
+| いらっしゃいませ      | Irasshaimase             | Welcome (to the store)                                                                                              |                                                                                                                                                                      |
+| （〜を）おねがいします   | (. . . o) Onegaishimasu  | . . .  please                                                                                                       |                                                                                                                                                                      |
+| （〜を） ください     | (. . . o) Kudasai        | Please give me . . .                                                                                                |                                                                                                                                                                      |
+| じゃあ           | Jaa                      | Then . . . ; If that's the case . . .                                                                               |                                                                                                                                                                      |
+| どおぞ           | Doozo                    | Please ; Here it is.                                                                                                |                                                                                                                                                                      |
+| どおも           | Doomo                    | Thank you (less polite)                                                                                             |                                                                                                                                                                      |
 
-## Vocabulary
 
-| Word    | Romanization | Meaning                                                                                                                                                            |
-| ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| いま      | Ima          | Now (the present moment)                                                                                                                                           |
-| えいご     | Eigo         | English (language)                                                                                                                                                 |
-| がくせい    | Gakusei      | Student                                                                                                                                                            |
-| あいさつ    | Aisatsu      | Greeting                                                                                                                                                           |
-| と おじぎ   | Ojigi        | Bowing (in the respectful sense)                                                                                                                                   |
-| めいし     | Meishi       | Business card                                                                                                                                                      |
-| ごご      | Gogo         | Afternoon (P.M.)                                                                                                                                                   |
-| ごぜん     | Gozen        | Morning (A.M.)                                                                                                                                                     |
-| こうこう    | Koukou       | Highschool                                                                                                                                                         |
-| せんこう    | Senkou       | Major (as in a subject in school)                                                                                                                                  |
-| せんせい    | Sensei       | Teacher or Professor.<br><br>Honorable Master<br><br>Note that saying わたし は せんせい  (I am Sensei) can be seen as arrogant since it is reserved for Honorable Masters |
-| きょうし    | Kyoushi      | Teacher or Professor<br><br>A more modest version o fせんせい (Sensei)                                                                                                 |
-| だいがく    | Daigaku      | College / University                                                                                                                                               |
-| でんわ     | Denwa        | Telephone                                                                                                                                                          |
-| ともだち    | Tomodachi    | Friend                                                                                                                                                             |
-| なまえ     | Namae        | Name                                                                                                                                                               |
-| にほん     | Nihon        | Japan                                                                                                                                                              |
-| ばんごお    | Bangoo       | Number                                                                                                                                                             |
-| りゅうがくせい | Ryugakusei   | International student<br><br>Note the subword "がくせい" (student)                                                                                                     |
-| じかん     | Jikan        | Time                                                                                                                                                               |
 ## Numerics
 
-| Symbol | Word        | Romanization   | Meaning |
-| ------ | ----------- | -------------- | ------- |
-| 一      | いち          | Ichi           | One     |
-|        | に           | Ni             | Two     |
-|        | さん          | San            | Three   |
-|        | よん / し /（よ） | Yon / Shi / Yo | Four    |
-| 五      | ご / いつ      | Go / Itsu      | Five    |
-|        | ろく          | Roku           | Six     |
-|        | なな / しち     | Nana / Shichi  | Seven   |
-|        | はち          | Hachi          | Eight   |
-|        | きゅう/く       | Kyuu / ku      | Nine    |
-|        | じゅう         | Juu            | Ten     |
-|        | ひゃく         | Hyaku          | Hundred |
+| Symbol | On Yomi | Kun Yomi  | Preferred Reading | Romanization | Meaning |
+| ------ | ------- | --------- | ----------------- | ------------ | ------- |
+| 一      | いち      | ひと・つ      | いち                | Ichi         | One     |
+| 二      | に       | ふた・つ      | に                 | Ni           | Two     |
+| 三      | さん      | みt・つ      | さん                | San          | Three   |
+| 四      | し       | よん / よっ・つ | よん                | Yon          | Four    |
+| 五      | ご       | いつ・つ      | ご                 | Go           | Five    |
+| 六      | ろく      | むっ・つ      | ろく                | Roku         | Six     |
+| 七      | しち      | なな・つ      | なな                | Nana         | Seven   |
+| 八      | はち      | やっ・つ      | はち                | Hachi        | Eight   |
+| 九      | く / きゅう | ここの・つ     | きゅう               | Kyuu         | Nine    |
+| 十      | じゅう     | とお        | じゅう               | Juu          | Ten     |
+|        |         |           | ひゃく               | Hyaku        | Hundred |
 
 * Numbers are read as in decimal (omitting one). For example, we say にじゅうご to mean $25$.
 
@@ -107,19 +152,35 @@
 |        | いちばん | Ichiban      | First; Best; Number One     |
 | 五日     | いつか  | Itsuka       | Five Days; Fifth Day        |
 
+
 ## Pronouns
 
-| Word  | Romanization | Meaning          | Additional Remarks                                                                                                                                                                                                 |
-| ----- | ------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| なん/なに | Nan / Nani   | What             |                                                                                                                                                                                                                    |
-| わたし   | Watashi      | I                |                                                                                                                                                                                                                    |
-| あなた   | Anata        | You              | Rarely used in casual speech as it has a condescending undertone.<br><br>Typically used when there is no information about the addressed person.<br><br>Used by women to mean "Dear" (i.e., referring to a spouse) |
-| あれ    | Are          | That<br>         | Indicating something away from both speaker and listener, or something understood implicitly                                                                                                                       |
-| いつ    | Itsu         | When / How Soon? |                                                                                                                                                                                                                    |
+| Word  | Romanization | Meaning             | Additional Remarks                                                                                                                                                                                                 |
+| ----- | ------------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| なん/なに | Nan / Nani   | What                |                                                                                                                                                                                                                    |
+| わたし   | Watashi      | I                   |                                                                                                                                                                                                                    |
+| あなた   | Anata        | You                 | Rarely used in casual speech as it has a condescending undertone.<br><br>Typically used when there is no information about the addressed person.<br><br>Used by women to mean "Dear" (i.e., referring to a spouse) |
+| いつ    | Itsu         | When / How Soon?    |                                                                                                                                                                                                                    |
+| イくら   | Ikura        | How much / How many |                                                                                                                                                                                                                    |
+| どれ    | Dore         | Which one           |                                                                                                                                                                                                                    |
+| どの    | Dono         | Which ...           | Must be followed by a noun                                                                                                                                                                                         |
+| どこ    | Doko         | Where               |                                                                                                                                                                                                                    |
+| だれ    | Dare         | Who                 |                                                                                                                                                                                                                    |
 
 
 * Japanese typically does not use pronouns. For example.
 	* Instead of あなた (you), we use the name and title to refer to the second person.
+
+* Japanese has three way distinction when it comes to demonstrative pronouns
+
+|                                                                                      | Proximal (This) | Medial (That) | Distal (That There) |
+| ------------------------------------------------------------------------------------ | --------------- | ------------- | ------------------- |
+| Pertaining to a general thing                                                        | これ              | それ            | あれ                  |
+| Pertaining to a specific thing (must be followed by a noun)                          | この              | その            | あの                  |
+| Pertaining to a place (hence, they might be translated as here / there / over there) | ここ              | そこ            | あそこ                 |
+
+* The distal demonstratives are also used to pertain to implicitly known objects (that is, something both speaker and listener know).
+
 ## Affixes
 
 | Word  | Romanization | Meaning                                                                                                                                                                                                                                                      | Additional Remarks |
@@ -132,18 +193,19 @@
 | 〜ねんせい | . . . nensei | . . . year student                                                                                                                                                                                                                                           |                    |
 | 〜ちゃん  | . . . chan   | Little . . .<br><br>Frequently for girls and small children, close friends or lovers. <br><br>Expresses one finds the person endearing<br><br>Can also be used towards cute things.<br><br>Can also be used to describe oneself (in a childlike manner.)     | Used as honorific  |
 | 〜くん   | . . . kun    | Semi-formal title for a male junior or a young man.<br><br>Can also be used for males in general.<br><br>While typically used for men, it can also be used for women (in which case it is more respectful than 〜ちゃん (chan) while still implying endearment). |                    |
-|       |              |                                                                                                                                                                                                                                                              |                    |
+| 〜えん   | . . . en     | . . . yen                                                                                                                                                                                                                                                    |                    |
 
 
-## Particles and Miscellaneous
+# Particles and Miscellaneous
 
-| Word | Romanization | Meaning                                                    | Additional Remarks                                                                         |
-| ---- | ------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| は    | wa           | Topic                                                      | It is pronounced "wa" instead of the usual "ha" in Hiragana.                               |
-| と    | to           | And (with a specific list in mind)                         |                                                                                            |
-| です   | desu         | "Is / To be"                                               | Technically speaking, です carries no inherent meaning. It functions as a [[Syntax\|Copula]] |
-| か    | ka           | Question particle                                          |                                                                                            |
-| の    | no           | Possessiveness;<br><br>In general acts as  a Noun modifier |                                                                                            |
+| Word | Romanization | Meaning                                                    | Additional Remarks                                                                                  |
+| ---- | ------------ | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| は    | wa           | Topic                                                      | It is pronounced "wa" instead of the usual "ha" in Hiragana.                                        |
+| と    | to           | And (with a specific list in mind)                         |                                                                                                     |
+| です   | desu         | "Is / To be"                                               | Technically speaking, です carries no inherent meaning. It functions as a [[Parts of Speech\|Copula]] |
+| か    | ka           | Question particle                                          |                                                                                                     |
+| の    | no           | Possessiveness;<br><br>In general acts as  a Noun modifier |                                                                                                     |
+| ね    | ne           | "Right? Isn't It?"                                         | Put at the end of the sentence.                                                                     |
 
 # Kanji 
 | Kanji | Furigana | Word  | Meaning                                       |

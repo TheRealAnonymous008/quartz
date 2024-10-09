@@ -4,7 +4,7 @@
 * For each heuristic, let $f$ be the function being optimized. $x$ is an element in the solution space of the problem. 
 
 # Metropolis-Hastings Algorithm
-* The **Metropolis-Hastings Algorithm** is a Monte Carlo method for generating random samples from a [[Random Variables and Probability Distributions|probability distribution]] $P(x)$ whose distribution is difficult to compute.
+* The **Metropolis-Hastings Algorithm** is a [[Numerical Optimization|Monte Carlo]] method for generating random samples from a [[Random Variables and Probability Distributions|probability distribution]] $P(x)$ whose distribution is difficult to compute.
 * The goal is to construct a [[Markov Chain|Markov Process]] that simulates the behavior of $P(x)$ -- it has the same stationary behavior as $P(x)$.
 
 ```

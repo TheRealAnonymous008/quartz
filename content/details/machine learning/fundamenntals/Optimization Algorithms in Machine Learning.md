@@ -16,6 +16,8 @@
 
 * *Limitation*: Even with a good learning, the algorithm may converge slowly for large datasets as it updates on each pass of the dataset. 
 
+* Gradient Descent is technically a [[Numerical Optimization|numerical method for optimization]]. 
+
 # Stochastic Gradient Descent 
 * **Stochastic Gradient Descent** -  A variation of Gradient Decent that is optimized for speed. In particular, rather than updating the model after reading the entire dataset, we instead *update on reading every entry in the dataset.*
 

@@ -18,6 +18,8 @@
 * [[Root Finding Algorithms]]
 * [[Numerical Differential Calculus]]
 * [[Numerical Integral Calculus]]
+* [[Numerical Optimization]]
+* [[Numerical Differential Equations]]
 
 
 # Calculus

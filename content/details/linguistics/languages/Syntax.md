@@ -10,26 +10,10 @@
 
 # Rules
 * Syntactical rules can be described by using a parse tree, which specifies how to assemble linguistic units to form larger units.
-	* Some key units in the parse tree. These are determined by the function of the word or phrase, the latter is determinable through constituent words in the phrase.
-		* **Determiner** - a unit that occurs together with a noun serving to express reference to the noun
-		* **Nouns** - functions as the name of a specific object
-		* **Verbs** - a unit that conveys an action
-			* **Transitive Verbs** - verbs that require an object to act upon.
-			* **Intransitive Verb** - verbs that do not act upon an object.
-		* **Adjective** - a unit that describes a noun.
-		* **Adverb** - a unit that describes a verb.
-		* **Pronoun** - a unit that substitutes a noun or noun phrase in the sentence.
-		* **Adposition**  - used to express spatial or temporal relations or mark semantic relations for a word. This includes prepositions and postpositions.
+	* Some key units in the parse tree are found in [[Parts of Speech|here]].  These are determined by the function of the word or phrase, the latter is determinable through constituent words in the phrase.
+
 	* In the parse tree,  the order we merge the linguistic units matters with respect to topicalization, and thus the overall meaning of the sentence
 	* The **head** of a phrase is the word that determines the syntactic category of the phrase. Its sister in the tree is the **complement**.
-
-	* Other categories
-		* **Complementizer** - includes words that can be used to turn a clause into the subject or object of a sentence.
-		* **Argument** - expressions that complete the meaning of a predicate.
-		* **Adjuncts** - optional expressions that may be excluded without changing the meaning of a predicate.
-			* **Noun Adjunct / Modifier Noun** - an optional noun that modifies another noun.
-		* **Modifier** - an optional element in a phrase or clause which modifies the meaning of another element of the structure. 
-		* **Copula** - a word or phrase that links the subject of a sentence to a subject complement.
 
 * For each word in the language, we should specify its syntactical rules--which categories of words (or even which instances of words) can the word combine with to produce a syntactically correct constituent. This is called **selection** 
 	* Arguments are typically subject to selection rules where they tend to prefer to merge with certain word classes. Adjunct are not like this.
@@ -96,5 +80,6 @@
 	  With whom was he talking?
 # Links
 * [[Morphology]] - more on morphemes.
+* [[Parts of Speech]] - more on different parts of speech
 
 * [[Linguistics]]

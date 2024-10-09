@@ -13,3 +13,5 @@
 *  Influencers (Streamers, VTubers, etc) exploit the same circuitry that lead people to follow cults and organized religion. They are deified as modern day gods.
 
 * [Become Misunderstood as long as you understand yourself](https://www.youtube.com/watch?v=Z7tCN4qOoRs)
+
+* Cognitive Dissonance is not necessarily a bad thing. You can do something good even when you feel otherwise.  Separate feelings from action.

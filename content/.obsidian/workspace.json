@@ -4,15 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "164bbed974616af7",
+        "id": "b06c9a7dd8409fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "b70f130adc2513cb",
+            "id": "6cbb8afb6aa03cd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "details/linguistics/language learning/Japanese Words Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e895ec154e3fcc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/linguistics/etymology/Proto-Indo-European Etymology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"monte carlo\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "details/linguistics/language learning/Japanese Words Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "details/linguistics/language learning/Japanese Words Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "details/linguistics/language learning/Japanese Words Index.md"
+              }
             }
           },
           {
@@ -149,35 +170,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b70f130adc2513cb",
+  "active": "6cbb8afb6aa03cd8",
   "lastOpenFiles": [
-    "details/mathematics/calculus/odes/Integral Curve.md",
+    "details/linguistics/etymology/Proto-Indo-European Etymology.md",
+    "details/linguistics/etymology/Etymology.md",
+    "details/linguistics/languages/Syntax.md",
+    "details/linguistics/languages/Parts of Speech.md",
     "details/linguistics/language learning/Japanese Words Index.md",
-    "__images/Hiragana.png",
-    "details/__other__/Belief-Desire-Intention.md",
-    "zshortdump/Linear ODE.md",
-    "details/mathematics/calculus/odes/Ordinary Differential Equation.md",
-    "details/mathematics/calculus/odes/ODE - Notation Guide.md",
-    "details/mathematics/calculus/Differential Equation.md",
-    "zshortdump/differential .md",
-    "zshortdump/Metaphysics.md",
-    "zshortdump/Attribution Bias.md",
-    "zshortdump/Cryptography.md",
-    "zshortdump/Graph Theoretic Approaches for Swarms.md",
-    "details/mathematics/calculus/Differential 1-Form.md",
-    "details/__ideas__/Animals.md",
-    "details/__ideas__/Trivia.md",
-    "zshortdump/Philosophical Questions.md",
-    "details/mathematics/calculus/odes",
-    "__meta/The Antilibrary.md",
+    "details/linguistics/language learning/Japanese Grammar.md",
+    "details/linguistics/languages/Linguistics.md",
+    "details/linguistics/languages/Index of Writing Systems.md",
+    "__images/Katakana.png",
+    "details/mathematics/approximation/Numerical Optimization.md",
+    "zshortdump/Numerical Methods.md",
+    "details/machine learning/reinforcement learning/fundamentals/Monte Carlo Methods in Reinforcement Learning.md",
     "details/computer science/data structures and algorithms/Metaheuristics.md",
-    "Exploration Logs.md",
-    "details/machine learning/reinforcement learning/marl/MARL Research.md",
-    "details/engineering/systems/Complex Systems.md",
-    "details/engineering/systems/System Archetypes.md",
-    "details/engineering/systems/Universal Properties of Systems.md",
-    "details/economics/Scarcity, Supply, and Demand.md",
-    "details/economics/Microeconomics.md",
+    "details/mathematics/probability and statistics/prob_stat/Bayesian Statistics.md",
+    "details/machine learning/fundamenntals/Loss Function.md",
+    "details/economics/Competition between Firms.md",
+    "details/machine learning/fundamenntals/Optimization Algorithms in Machine Learning.md",
+    "details/machine learning/reinforcement learning/fundamentals/A Unified View on Reinforcement Learning Approaches.md",
+    "details/mathematics/calculus/odes/Linear ODE.md",
+    "details/__other__/Dirac Delta Function.md",
+    "details/mathematics/algebra/linear algebra/Elementary Matrix Operations.md",
+    "Pasted image 20241008200240.png",
+    "details/__ideas__/Trivia.md",
+    "__images/Hiragana.png",
+    "__images/Simple Monodrony.png",
+    "details/psychology/biases/Cognitive Dissonance.md",
+    "details/__ideas__/Unfiled Thoughts.md",
+    "details/__other__/Rigid Body Simulation.md",
+    "details/mathematics/algebra/linear algebra/Unitary and Orthogonal Operators.md",
+    "details/natural sciences/Physics.md",
+    "details/mathematics/calculus/odes",
     "details/mathematics/approximation",
     "__images/U-QMIX.png",
     "__images/GPPO.png",
@@ -185,9 +210,6 @@
     "__images/UAS Pipeline.png",
     "__images/HATRPO.png",
     "__images/HAPPO.png",
-    "__images/Sequential HARL.png",
-    "__images/Systemic Flow.png",
-    "__images/System Domains.png",
     "details/linguistics/language learning",
     "Untitled.canvas",
     "details/mathematics/algebra/field theory",

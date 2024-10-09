@@ -20,3 +20,6 @@
 	* Another reason is that *we like things we associate with ourselves*.
 
 * **Ben-Franklin Effect** - people like someone more after doing a favor for them. The rationalization is that they help others because they like them.
+
+
+* *Cognitive Dissonance is not necessarily a bad thing*. Consider separating negative feelings and beliefs and doing positive actions.

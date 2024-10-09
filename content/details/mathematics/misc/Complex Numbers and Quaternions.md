@@ -1,8 +1,4 @@
 * A **complex Number** is a number that is of the form $$a+bi$$Where $a,b\in\mathbb{R}$ and $i=\sqrt{-1}$.
-* A **quaternion** $w+xi+yj+zk$ can be represented as the rotation corresponding to 
-  $$
-  \cos{\left(\frac{w}{2}\right)} + \sin{\left(\frac{w}{2}\right)}(x\hat{i}+y\hat{j}+z\hat{k})
-  $$
 
 * **Euler's Formula** states that
   
@@ -29,6 +25,20 @@
 	  U_n=\set{e^{2k\pi i/n} | k \in \set{1,2,\dots, n}}
 	  $$
 	  This follows immediately from Euler's identity . 
+# Quaternion
+* A **quaternion** $w+xi+yj+zk$ can be represented as the rotation corresponding to 
+  $$
+  \cos{\left(\frac{w}{2}\right)} + \sin{\left(\frac{w}{2}\right)}(x\hat{i}+y\hat{j}+z\hat{k})
+  $$
+* If we are given a Rotation [[Matrix|Matrix]] we can convert from quaternion to rotation matrix as follows
+  $$
+  \begin{bmatrix}
+  1 - 2y^2 - 2z^2  & 2xy - wz &2xz + 2wy \\
+  2xy + 2wz & 1-2x^2 -2z^2  & 2yz - 2wx \\
+  2xz - 2wy & 2yz + 2wx & 1 - 2x^2 -2y^2
+  \end{bmatrix}
+  $$
+
 # Links 
 * [[Mathematics]]
 

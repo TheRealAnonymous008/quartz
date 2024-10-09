@@ -26,6 +26,13 @@
 * For blended vowels
 * [See here for stroke order for Hiragana](https://www.nhk.or.jp/lesson/en/letters/hiragana.html)
 
+# Katakana
+![[Katakana.png]]
+<figcaption> Katakana. Image taken from Omniglot.com </figcaption>
+
+* Katakana is similar to [[#Hiragana]] except long vowels are written with — (If writing vertically, it is also written vertically). 
+* To transcribe foreign sounds, we combine existing sounds in Japanese.
+
 # Vai Syllabary
 * Additional Information [here](https://en.wikipedia.org/wiki/Vai_syllabary)
 

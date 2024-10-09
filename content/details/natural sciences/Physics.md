@@ -16,7 +16,8 @@
 * [[Continuum Mechanics]]
 * [[Fluid Mechanics]]
 * [[Periodic Motion]]
- 
+
+* [[Rigid Body Simulation]]
 # Links
 * [[University Physics with Modern Physics 15th Edition By Freedman]]
 * [[The Feynman Lectures]]
