@@ -26,7 +26,7 @@
 			* This can only work if the regulators aren't weak or corrupt, and the mutual coercion agreement is consistently implemented and it is clear why it exists. 
 			* The mutual coercion agreement limits the freedom to abuse the commons while preserving the freedom to use it. 
 
-* **Drift to Low Performance** - [[Egocentric Biases|Allowing]] performance standards to be influenced by past performance, especially if there is a negative bias in perceiving past performance, sets up a reinforcing feedback loop of *eroding goals that sets a system drifting towards low performance*. 
+* **Drift to Low Performance** - [[Egocentric Biases|Allowing]] performance standards to be influenced by past performance, especially if there is a negative bias in perceiving past performance, sets up a reinforcing [[Feedback Loop|feedback loop]] of *eroding goals that sets a system drifting towards low performance*. 
 	* The actors tend to [[Logical Fallacy Biases|believe]] bad news [[Framing Effect|more]] than good news. The perceived state in turn affects performance. 
 	* This is especially bad when the performance decline is gradual. 
 	* Remedies: 

@@ -32,7 +32,7 @@
 
 ## Dynamic Engine 
 * *Intent*: A source produces an adjustable flow of resources. Players can invest resources to improve the flow.
-* *Motivation*: A dynamic engine produces a steady flow of resources and opens the possibility for long-term investment by allowing the player to spend resources to improve production. The core of a dynamic engine is a positive constructive feedback loop.
+* *Motivation*: A dynamic engine produces a steady flow of resources and opens the possibility for long-term investment by allowing the player to spend resources to improve production. The core of a dynamic engine is a positive constructive [[Feedback Loop|feedback loop]].
 
 ### Applicability 
 * You want to introduce a [[Trade Offs|trade off]] between short term goals and long-term investment. 

@@ -5,9 +5,9 @@
   $$
   The integral line lies in the direct product of the time axis and phase space (called the **extended phase space**)
 	* *Integral Curves are solutions to an ODE*. 
-	* Singular points correspond to points where $F$ vanishes. That is, when
+	* **Singular points** also called **Equilibrium points** correspond to points where $F$ vanishes. That is, when
 	  $$
-	  F(x_0) = 0
+	  \frac{d}{dt} \Big | _{t=0}  \varphi(t) =  F(x_0) = 0
 	  $$
 
 

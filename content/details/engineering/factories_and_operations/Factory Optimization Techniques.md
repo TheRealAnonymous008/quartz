@@ -37,7 +37,7 @@
 * Planning and analysis tools must be consistent across levels. A planning framework has the following steps [^planning]
 	* Divide the system appropriately in both temporal and spatial scales. Wider planning horizons require lower level of detail.
 	* Identify links between the divisions. The links should be simple.
-	* *Use [[System Dynamics|feedback]] to enforce consistency.* However, this is often offset by the distributed nature of the production line. 
+	* *Use [[Feedback Loop|feedback]] to enforce consistency.* However, this is often offset by the distributed nature of the production line. 
 
 
 

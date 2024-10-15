@@ -97,4 +97,4 @@
 * [[Game Mechanics -- Advanced Game Design by Adams and Dormans|Adams and Dormans]] Ch. 4, 6-7
 * [[Internal Economy Design Patterns]]
 
-* [[System Dynamics]] - more on feedback loops. 
+* [[Feedback Loop]] - more on feedback loops. 

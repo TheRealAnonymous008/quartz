@@ -84,7 +84,7 @@
 		* If resources are infinite, the game can, in principle, go on forever.
 		* If resources are placed in the landscape, one dominant strategy to look out for is **resource rushes** where players monopolize these resources. The fix if this is not the intent is to *make economic opportunities symmetrical*. 
 	* *Another dominant strategy to look out for is concentrated firepower*. This can happen as a result of unbalanced production rates. 
-	* *Reducing combat effectiveness over time introduces [[System Dynamics|a positive feedback loop]]* which can result in the weaker side losing too quickly (or a stalemate if both sides are weak)
+	* *Reducing combat effectiveness over time introduces [[Feedback Loop|a positive feedback loop]]* which can result in the weaker side losing too quickly (or a stalemate if both sides are weak)
 * *Adding a tech tree and upgrade systems introduce a delay* so that players are not introduced to the more powerful units early on. 
 	* In a highly representational wargame, upgrades need not apply to entire unit families immediately. We may require the player to upgrade them individually. 
 	* Permanent upgrades are ideal for long term strategy. Short term upgrades give huge temporary bonuses that are not sustainable long term.

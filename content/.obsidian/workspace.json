@@ -4,44 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b06c9a7dd8409fcd",
+        "id": "bdfafb2404c50c7a",
         "type": "tabs",
         "children": [
           {
-            "id": "6cbb8afb6aa03cd8",
+            "id": "db5a0ee0a16d51db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "details/linguistics/language learning/Japanese Words Index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbfb0072976eb4bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/linguistics/language learning/Japanese Grammar.md",
+                "file": "details/mathematics/calculus/odes/Diffeomorphism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "974004fcb481b346",
+            "id": "58dc0a3fec8267a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "details/__other__/Tangent Space.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"monte carlo\"",
+                "query": "\"dropout\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "details/linguistics/language learning/Japanese Grammar.md",
+                "file": "details/mathematics/calculus/odes/Diffeomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "details/linguistics/language learning/Japanese Grammar.md",
+                "file": "details/mathematics/calculus/odes/Diffeomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "details/linguistics/language learning/Japanese Grammar.md"
+                "file": "details/mathematics/calculus/odes/Diffeomorphism.md"
               }
             }
           },
@@ -179,38 +169,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbfb0072976eb4bb",
+  "active": "db5a0ee0a16d51db",
   "lastOpenFiles": [
-    "details/linguistics/language learning/Japanese Words Index.md",
-    "details/linguistics/language learning/Japanese Grammar.md",
-    "details/linguistics/etymology/Proto-Indo-European Etymology.md",
-    "details/linguistics/etymology/Etymology.md",
-    "details/linguistics/languages/Syntax.md",
-    "details/linguistics/languages/Parts of Speech.md",
-    "details/linguistics/languages/Linguistics.md",
-    "details/linguistics/languages/Index of Writing Systems.md",
-    "__images/Katakana.png",
-    "details/mathematics/approximation/Numerical Optimization.md",
-    "zshortdump/Numerical Methods.md",
-    "details/machine learning/reinforcement learning/fundamentals/Monte Carlo Methods in Reinforcement Learning.md",
-    "details/computer science/data structures and algorithms/Metaheuristics.md",
-    "details/mathematics/probability and statistics/prob_stat/Bayesian Statistics.md",
-    "details/machine learning/fundamenntals/Loss Function.md",
-    "details/economics/Competition between Firms.md",
-    "details/machine learning/fundamenntals/Optimization Algorithms in Machine Learning.md",
-    "details/machine learning/reinforcement learning/fundamentals/A Unified View on Reinforcement Learning Approaches.md",
-    "details/mathematics/calculus/odes/Linear ODE.md",
+    "details/__other__/Tangent Space.md",
+    "details/mathematics/calculus/odes/Ordinary Differential Equation.md",
+    "details/mathematics/calculus/odes/Diffeomorphism.md",
+    "details/mathematics/algebra/group theory/Group Homomorphism.md",
+    "details/mathematics/calculus/Differential Calculus.md",
+    "details/mathematics/calculus/odes/ODE - Notation Guide.md",
+    "zshortdump/Vector Field.md",
+    "details/mathematics/algebra/linear algebra/Vector Space.md",
+    "__meta/Orphanage.md",
+    "zshortdump/Anatomical Drawing -- Torso.md",
     "details/__other__/Dirac Delta Function.md",
-    "details/mathematics/algebra/linear algebra/Elementary Matrix Operations.md",
+    "details/machine learning/architectures/Neural Network.md",
+    "details/machine learning/supervised/The Evolution of Recurrent Neural Networks.md",
+    "details/machine learning/architectures/Recurrent Neural Network.md",
+    "details/machine learning/fundamenntals/Model Performance.md",
+    "details/engineering/systems/Kinds of System Dynamics and Dynamical States.md",
+    "zshortdump/Chaos Theory.md",
+    "details/engineering/systems/Systems and Models.md",
+    "details/engineering/systems/System Dynamics.md",
+    "zshortdump/Tarot Cards.md",
+    "details/engineering/systems/Stocks and Flows.md",
+    "details/mathematics/game theory/Dynamic Games of Complete Information.md",
+    "details/engineering/systems/System Archetypes.md",
+    "details/arts/Lighting Principles.md",
+    "details/engineering/factories_and_operations/Quality-Based Manufacturing.md",
+    "details/engineering/systems/Networks in Systems.md",
+    "__images/Lighting.png",
+    "__images/Katakana.png",
     "Pasted image 20241008200240.png",
-    "details/__ideas__/Trivia.md",
     "__images/Hiragana.png",
     "__images/Simple Monodrony.png",
-    "details/psychology/biases/Cognitive Dissonance.md",
-    "details/__ideas__/Unfiled Thoughts.md",
-    "details/__other__/Rigid Body Simulation.md",
-    "details/mathematics/algebra/linear algebra/Unitary and Orthogonal Operators.md",
-    "details/natural sciences/Physics.md",
     "details/mathematics/calculus/odes",
     "details/mathematics/approximation",
     "__images/U-QMIX.png",
@@ -218,7 +209,6 @@
     "__images/U-MAPPO.png",
     "__images/UAS Pipeline.png",
     "__images/HATRPO.png",
-    "__images/HAPPO.png",
     "details/linguistics/language learning",
     "Untitled.canvas",
     "details/mathematics/algebra/field theory",

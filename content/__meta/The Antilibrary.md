@@ -53,6 +53,8 @@
 * [[Linear and Nonlinear Programming by Luenberger and Ye]] - Resume Ch. 5
 * [[Drawing on the Right Side of the Brain by Edwards]] - Resume Ch. 8
 * [[Code Complete by McConnell]] - Resume Ch. 10
+* [[Color and Lights by Gurney]] 
+	* Skipped Ch. 5
 
 
 # Utilities

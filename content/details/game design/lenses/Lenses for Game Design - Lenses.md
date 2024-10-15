@@ -546,7 +546,7 @@
 
 ### 63. Feedback 
 * The feedback a player gets from the game is many things -- judgment, reward, instruction, encouragement, and challenge .
-* Make sure the feedback loop in the game is creating the desired experience. 
+* Make sure the [[Feedback Loop|feedback loop]] in the game is creating the desired experience. 
 
 * What do players need to know at this moment?
 * What do players want to know at this moment?

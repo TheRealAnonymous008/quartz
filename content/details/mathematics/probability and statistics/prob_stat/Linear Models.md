@@ -16,7 +16,7 @@
   $$
   
 	* This loss function is [[Convex Optimization|convex]].
-	* We may obtain a solution using the following **normal equation** 
+	* We may obtain a solution using the following **[[Numerical Linear Algebra|normal equation]]** 
 	  $$
 	  \hat w=(X^TX)^{-1}X^T y
 	  $$
@@ -54,7 +54,7 @@
 	  w_\text{ridge}=(\lambda I_D +X^TX)^{-1}X^Ty
 	  $$
 	  Where $\lambda = \sigma^2/\tau^2$. $\sigma^2$ is given by the variance of Gaussian Noise $\epsilon$ (see above). 
-	* This also tends to be easier to fit numerically *using a QR decomposition* on a design matrix augmented with the Cholesky decomposition of the precision matrix $\Gamma = 1/\tau^2 I_D$ (see [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 7.5.2]])
+	* This also tends to be easier to fit numerically *using a [[Numerical Linear Algebra|QR Decomposition]]* on a design matrix augmented with the Cholesky decomposition of the precision matrix $\Gamma = 1/\tau^2 I_D$ (see [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 7.5.2]])
 		* When the dimensions is greater than the number of samples ($D\gg N$), we can perform SVD first for dimensionality reduction.
 	* Ridge Regression aims to shrink the principal components with the smallest singular values (and thus have the highest posterior variance. See [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy 7.5.3]]). 
 	* *Ill-determined parameters are reduced towards $0$ through **shrinkage***. 

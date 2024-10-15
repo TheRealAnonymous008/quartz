@@ -19,6 +19,7 @@
 * [[Numerical Differential Calculus]]
 * [[Numerical Integral Calculus]]
 * [[Numerical Optimization]]
+* [[Numerical Linear Algebra]]
 * [[Numerical Differential Equations]]
 
 

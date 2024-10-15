@@ -15,7 +15,7 @@
 * Targets (i.e., clickable or tappable areas) should be big enough and have sufficient spacing between them. 
 
 ## Goal Gradient Effect 
-* As people get closer to a reward, they [[System Dynamics|speeds]] up their behavior to get to their goal faster. 
+* As people get closer to a reward, they [[Feedback Loop|speeds]] up their behavior to get to their goal faster. 
 * Provide artificial progress to ensure users have motivation to complete the task. 
 * Have some form of visible progress. 
 

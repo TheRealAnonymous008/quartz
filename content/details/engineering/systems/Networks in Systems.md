@@ -5,7 +5,7 @@
 * *Networks are not solely governed by physical interactions. Connections can be logical as well.* In the case of a logical network, nodes correspond to [[Systems and Models|concepts]]. 
 * *Networks can either be fixed or changing* 
 	* **Fixed Networks** abstract the structure of the network (based on the features one is studying).
-	* **Dynamic Networks** involve either structural changes or the flow of material, energy and information between nodes (see [[System Dynamics|here for more]]).
+	* **Dynamic Networks** involve either structural changes or the flow of material, energy and information between nodes (see [[Stocks and Flows|here for more]]).
 	  
 	  In fact we can use networks to model the [[Flow Network|flow]] of material between nodes.
 
@@ -25,7 +25,7 @@
 		* [[Small World Networks]] and especially [[Scale Free Network]]
 		* The existence of hubs which connect to a lot of notes.
 		* The link distribution for hubs and [[Network Communities|clusters]] follows an inverse power law. 
-		* The growth of hubs and clusters follow a simple rule -- *nodes with more connections attract more new connections*. That is, growth exhibits a positive feedback loop.
+		* The growth of hubs and clusters follow a simple rule -- *nodes with more connections attract more new connections*. That is, growth exhibits a positive [[Feedback Loop|feedback loop]].
 
 [^growth]: See [[Models for Scale Free Networks|here for examples]]
 

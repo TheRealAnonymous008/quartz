@@ -33,7 +33,7 @@
 ## Processes 
 * *Systems are Processes Organized in Structural and Functional Units
 * The least obvious part of the system, its *function or purpose*, is often the most crucial determinant of the system’s behavior, and it can only be deduced by examining this behavior. 
-* *System structure is the source of system behavior*. System behavior reveals itself as a series of events over time. The structure comes from interrelated stocks, flows, and [[System Dynamics|feedback loops]].
+* *System structure is the source of system behavior*. System behavior reveals itself as a series of events over time. The structure comes from interrelated stocks, flows, and [[Feedback Loop|feedback loops]].
 * See more [[Universal Properties of Systems|here]]
 ## Networks 
 * *Systems are [[Graph Theory|networks]] of relations among components and can be represented abstractly as such network of relations*. 

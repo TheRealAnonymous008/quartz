@@ -79,7 +79,7 @@
 * New developments in production technology can shift the LRAC in ways that can alter the size distribution of firms in an industry.
 * *Technology that increases production will drive the LRAC down*. It may also allow for more economies of scale (depending on the technology)
 	* Introducing this technology will give a clearer minima (i.e., the bottom of the LRAC is more pointed). This means *firms will compete to adopt this new technology*.
-	* Competition drives [[System Dynamics#Feedback|more innovation]] which then leads to more competition and more production 
+	* Competition drives [[Feedback Loop|more innovation]] which then leads to more competition and more production 
 ## Profit 
 * *All businesses try to earn a profit*
   

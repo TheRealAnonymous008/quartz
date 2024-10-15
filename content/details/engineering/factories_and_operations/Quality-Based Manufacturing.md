@@ -43,7 +43,7 @@
 	* *In most cases, the cost of being short exceeds that of being over.*
 	* *The best approach is to eliminate scrap*
 
-[^loop]: In effect, this introduces a longer [[System Dynamics|delay]] to the feedback loop.
+[^loop]: In effect, this introduces a longer [[System Dynamics|delay]] to the [[Feedback Loop|feedback loop]].
 
 * *Quality is tied to the [[Supply Chain Management|supply chain]]*. When there is a significant dependency on outside sources, internal and external quality at the plant will critically depend on these inputs.
 	* Good quality at the supplier level promotes good operations and quality at the plant level.

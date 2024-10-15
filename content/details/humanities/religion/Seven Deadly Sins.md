@@ -194,7 +194,7 @@
 * Contemporary, secular work suggests that Lust is the virtue and Chastity is the vice. The explanation is due to shifts in attitudes towards sexual practices, although the issue stems mostly from where to draw the line between what is sexually permissible.
 	* Blackburn describes lust as the enthusiastic desire, the desire that infuses the body, for sexual activity and its pleasures for their own sake.
 	* Lust is a felt desire. It is also associated with excess in the sense it diverts our attention away from the rest of the world towards ecstasy. 
-	* In Lust, we don't want to be in control, we want to be swept away. Lust offers a positive [[System Dynamics|Feedback loop]]. 
+	* In Lust, we don't want to be in control, we want to be swept away. Lust offers a positive [[Feedback Loop|Feedback loop]]. 
 	* In this view, however, Lust can still be problematic when it leads one to see the other merely as an object for  pleasure. 
 
 * *At the core of the question of Lust is the sense of objectification of the other and the degree of harm it could cause (or where, even, to draw the line).*

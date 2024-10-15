@@ -41,5 +41,10 @@
 * [Odesa Catacombs](https://en.wikipedia.org/wiki/Odesa_catacombs) - a vast network of catacombs in Ukraine. It is easy to get lost in these catacombs.
 * [The Strid](https://en.wikipedia.org/wiki/River_Wharfe) - A portion of  the River Wharfe in England. While it looks like an ordinary stream of water on the surface, underneath it consists of a network of sedimentary rock that can rip a human to shreds.
 	* [What lies at the bottom](https://www.youtube.com/watch?v=ot8lr_5oHE4)
+
+
+* [Gout](https://www.youtube.com/watch?v=5c_YoU0Kdvk) was also called the "Disease of Kings"
+
+* [Microburst](https://en.wikipedia.org/wiki/Downburst)
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

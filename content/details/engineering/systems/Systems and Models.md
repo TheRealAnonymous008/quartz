@@ -4,7 +4,7 @@
 
 * *Information is the news of differences*. It talks about facts in the system which are relevant for the specific analysis being conducted. 
 * *Knowledge is the base of patterned expectation*. We use knowledge to assess information.
-* *A crucial feedback loop is how information reinforces knowledge and knowledge gives more ways to interpret information*. The [[Trade Offs#Freedom of Choice Trade-Off|tradeoff between flexibility and rigidity]] exists. 
+* *A crucial [[Feedback Loop|feedback loop]] is how information reinforces knowledge and knowledge gives more ways to interpret information*. The [[Trade Offs#Freedom of Choice Trade-Off|tradeoff between flexibility and rigidity]] exists. 
 
 * **Concepts** are neural-based models of other systems that we observe. 
 	* More complex concepts are derived and constructed from simpler concepts. Neurologically, this involves forming links between neurons. 
@@ -32,7 +32,8 @@
 * Patterns are sets of relations that organize the set of features at any given level in the feature hierarchy, into a map.
 * *Repeated experience furnishes our fundamental means of recognizing the regularity of relationship that constitutes pattern or organization*
 
-* One approach that is important is that of **Abstraction**. One such tool that embodies this is [[Linguistics|language]]
+* One approach that is important is that of **Abstraction**. One such tool that embodies this is [[Linguistics|language]].
+	* Note however, that much, perhaps even most, of the associations and concepts neurologically are not accessible as discrete concepts like nouns and verbs. 
 
 * Because a conceptual model is in itself a system, the competency of a brain to use the conceptual model is tied to how high a concept level it can represent.
 	* The conceptual model is a [[Complex Systems|complex system]]. Higher level concepts are composed of interrelated lower level concepts. Lower level concepts can be a part of multiple higher level concepts. 
@@ -74,6 +75,7 @@
 	* The right [[Knowing What To Do -- Constraints, Discoverability and Feedback|feedback]] also helps actors behave rationally as they impose corrective behavior. Incentives and constraints also help. 
 
 * *Our brains naturally form conceptual networks (in the form of neurons) that match conceptualized abstract [[Networks in Systems|networks]]*.
+
 
 # Links 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw|Shapiro, MacDonald and Greenlaw]] - Ch. 3.4

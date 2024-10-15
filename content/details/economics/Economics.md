@@ -23,7 +23,7 @@
 	* *Division of labor counters scarcity*. 
 	* *Division of labor increases production* for three reasons [^1]
 		* **Specialization** of workers on tasks they are well suited for, which makes them more effective.
-		* Specialization leads to a [[System Dynamics|feedback loop]] where workers learn to produce more quickly and with higher quality. This also leads to **innovation**.
+		* Specialization leads to a [[Feedback Loop|feedback loop]] where workers learn to produce more quickly and with higher quality. This also leads to **innovation**.
 		* Specialization takes advantage of **economies of scale** where as production increases, the average cost of production for each individual unit decreases. 
 	* *This necessitates trade* because each individual specializes and must exchange their services for other needs that they are unable to produce. 
 

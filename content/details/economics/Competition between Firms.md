@@ -35,7 +35,7 @@
 * **Entry** pertains to new firms entering the industry in response to increased industry profits 
 * **Exit** pertains to firms that cease production due to losses accrued in the long run. Firms exit because they cannot consistently make money
 
-* Entry and exit to and from the market are the driving forces behind a negative feedback loop towards an equilibrium point 
+* Entry and exit to and from the market are the driving forces behind a negative [[Feedback Loop|feedback loop]] towards an equilibrium point 
 	* In the long run, *positive profits attract competition* to the market which fuels a negative feedback loop as more firms = more supply = lower market price= lower profit 
 	* *Losses cause firms below the shutdown point to leave*. This fuels a negative feedback loop as less firms = less supply = higher market price = higher profit. 
 

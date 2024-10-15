@@ -47,7 +47,7 @@
 	* There are different ways to implement them
 		* Loans are never paid back and instead count against the player's final money or victory points.
 		* Players play interest each turn based on their loans
-	* Loans can cause a positive feedback loop towards a death spiral where players become more buried in debt.
+	* Loans can cause a positive [[Feedback Loop|feedback loop]] towards a death spiral where players become more buried in debt.
 
 * **Always Available Purchases** - Certain resources are Always Available to Purchase, while others may not or may be limited in quantity.
 
