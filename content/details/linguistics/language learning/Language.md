@@ -7,3 +7,6 @@
 	* Kanji is from borrowed Chinese characters. 
 * [[Japanese Words Index]]
 * [[Japanese Grammar]]
+
+# English
+* [[English Words Index]]

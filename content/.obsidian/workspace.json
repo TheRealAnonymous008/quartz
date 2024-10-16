@@ -4,34 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "bdfafb2404c50c7a",
+        "id": "b1e931bcf1a68896",
         "type": "tabs",
         "children": [
           {
-            "id": "db5a0ee0a16d51db",
+            "id": "b216ca78b81c4ef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "details/mathematics/calculus/odes/Diffeomorphism.md",
+                "file": "details/arts/Color Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58dc0a3fec8267a6",
+            "id": "6106b666055b8e23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a2c9d35e7f8d509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "details/__other__/Tangent Space.md",
+                "file": "details/arts/Drawing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"dropout\"",
+                "query": "\"rayleigh scattering\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "details/mathematics/calculus/odes/Diffeomorphism.md",
+                "file": "details/arts/Drawing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "details/mathematics/calculus/odes/Diffeomorphism.md",
+                "file": "details/arts/Drawing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "details/mathematics/calculus/odes/Diffeomorphism.md"
+                "file": "details/arts/Drawing.md"
               }
             }
           },
@@ -169,15 +179,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db5a0ee0a16d51db",
+  "active": "3a2c9d35e7f8d509",
   "lastOpenFiles": [
+    "details/arts/Color Theory.md",
+    "details/arts/Lighting Principles.md",
+    "details/machine learning/reinforcement learning/marl/Heterogeneous MARL.md",
+    "zshortdump/English Words Index.md",
+    "details/linguistics/language learning/Language.md",
+    "details/linguistics/language learning/Japanese Words Index.md",
+    "details/machine learning/reinforcement learning/marl/MARL Research.md",
+    "details/__other__/Vector Field.md",
+    "Exploration Logs.md",
+    "zshortdump/Control Theory.md",
     "details/__other__/Tangent Space.md",
-    "details/mathematics/calculus/odes/Ordinary Differential Equation.md",
     "details/mathematics/calculus/odes/Diffeomorphism.md",
+    "details/mathematics/calculus/odes/Ordinary Differential Equation.md",
     "details/mathematics/algebra/group theory/Group Homomorphism.md",
     "details/mathematics/calculus/Differential Calculus.md",
     "details/mathematics/calculus/odes/ODE - Notation Guide.md",
-    "zshortdump/Vector Field.md",
     "details/mathematics/algebra/linear algebra/Vector Space.md",
     "__meta/Orphanage.md",
     "zshortdump/Anatomical Drawing -- Torso.md",
@@ -188,15 +207,6 @@
     "details/machine learning/fundamenntals/Model Performance.md",
     "details/engineering/systems/Kinds of System Dynamics and Dynamical States.md",
     "zshortdump/Chaos Theory.md",
-    "details/engineering/systems/Systems and Models.md",
-    "details/engineering/systems/System Dynamics.md",
-    "zshortdump/Tarot Cards.md",
-    "details/engineering/systems/Stocks and Flows.md",
-    "details/mathematics/game theory/Dynamic Games of Complete Information.md",
-    "details/engineering/systems/System Archetypes.md",
-    "details/arts/Lighting Principles.md",
-    "details/engineering/factories_and_operations/Quality-Based Manufacturing.md",
-    "details/engineering/systems/Networks in Systems.md",
     "__images/Lighting.png",
     "__images/Katakana.png",
     "Pasted image 20241008200240.png",

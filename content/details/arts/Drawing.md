@@ -2,6 +2,7 @@
 	* In order to draw a perceived subject -- something seen with the eyes, requires a [[Conceptual Blocks to Ideation|shift]] to using the more [[Faculties of the Mind|visual-spatial]] aspects of the mind instead of our more symbolic, semantic, language-dominated perception.
 	* Ask yourself questions related to space rather than to the subject itself. Think in terms of lines, shapes and curves
 	* *Draw what you see without thinking about what it is.* [^see]
+	* *The way you paint is a record of how you see*.  (from [[Color and Lights by Gurney|Gurney]]).
 * The fundamental skills of drawing are as follows:
 	* Perceiving edges -- the shared edges or boundaries between two objects
 	* Perceiving space 
