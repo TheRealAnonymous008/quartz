@@ -2,8 +2,7 @@
 * *From the outside, the system appears opaque* and we can only infer or speculate on how the system works through how it behaves through the use of models. 
 * *From the inside, the system appears to be a part of a larger system*. An observer from inside the system must be aware that it is prone to bias, and that it is also a component of the system using its subjective abilities to observe the system 
 
-* *Information is the news of differences*. It talks about facts in the system which are relevant for the specific analysis being conducted. 
-* *Knowledge is the base of patterned expectation*. We use knowledge to assess information.
+* *Knowledge is the base of patterned expectation*. We use knowledge to assess [[Information in Systems|information]].
 * *A crucial [[Feedback Loop|feedback loop]] is how information reinforces knowledge and knowledge gives more ways to interpret information*. The [[Trade Offs#Freedom of Choice Trade-Off|tradeoff between flexibility and rigidity]] exists. 
 
 * **Concepts** are neural-based models of other systems that we observe. 

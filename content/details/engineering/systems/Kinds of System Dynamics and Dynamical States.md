@@ -19,8 +19,21 @@
 * Involves a change in the behavior of the system using existing resources in response to an environmental change.
 * *Adaptation is necessary for systems that exist in an environment that can change the system.*
 * It involves a reallocation of material and resources within the system so that it can respond to the environment better.
-* Adaptivity necessitates information and [[System Control|control systems]] that regulate the process.
+* Adaptivity necessitates [[System Control|control systems]] that regulate the process.
+* Adaptive Systems use [[Information in Systems|information]] to modify their internal structures to sustain their basic overall structure and functions.
+	* Adaptive Systems have the emergent capacity to actively use information to anticipate future states (based on the system's [[Random Variables and Probability Distributions|expectation]] of this state) of the environment.
+	* That is, they follow [[Bayesian Statistics|Bayesian methods]] (or an approximation of such), with updates dependent on the amount of information received.
+	* Another way to put it *Adaptive systems advance to a future for which they are perfectly prepared*. This is because, no new updates imply no new information received from the environment, which imply no surprise.
 
+* For complex adaptive systems. *Information is the basis for decisions*. Some models for this include:
+	* Decision Trees - which assume perfect rationality and perfect information
+	* [[Game Theory|Game Theoretic Models]] - which need not assume perfect rationality or perfect information but may be difficult to compute 
+	* Using [[False Priors|Heuristics]]  - which are only approximations and may not be optimal, but are easy to compute.
+
+* Adaptive systems may also be **Anticipatory Systems**. That is, they attempt to know the future state based on what is known to be possible. 
+	* Anticipation allows the system to alter its behavior to change future states.
+	* *Compared to Predictive Systems, Anticipatory Systems are more proactive with regards to the future state.*
+	* Anticipation is based on [[Statistical Models|statistical models]] of the world. 
 # Dynamical States
 ## Equilibrium
 * **Equilibrium** pertains to a state where energy and matter are uniformly distributed throughout the interior. 

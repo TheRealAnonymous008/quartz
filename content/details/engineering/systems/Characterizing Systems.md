@@ -56,6 +56,7 @@
 ## Information 
 * *Systems encode knowledge and receive and send [[Information Theory|information]]*. 
 * The system, by its very own structure, knows how to react to a situation.
+* [[Information in Systems]]
 
 ## Regulation 
 * *Systems have regulatory subsystems to achieve stability*. 

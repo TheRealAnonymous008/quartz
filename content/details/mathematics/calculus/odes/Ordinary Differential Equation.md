@@ -60,6 +60,7 @@
 * [[Linear ODE]]
 * [[Phase Flow]]
 * [[Diffeomorphism]]
+	* [[Solving Differential Equations with Diffeomorphisms]]
 * [[Tangent Space]]
 
 

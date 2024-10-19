@@ -38,6 +38,7 @@
 * [[Machine Learning and Mathematical Reasoning]]
 * [[Computer Vision]]
 * [[Natural Language Processing]]
+* [[Generative AI]]
 # Tools
 * [HuggingFace](https://huggingface.co)- an open source platform provider of machine learning technologies. They also provide datasets.
 * [PyTorch](https://pytorch.org) - a machine learning framework. *Opinon:* More developer friendly than TensorFlow
