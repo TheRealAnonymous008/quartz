@@ -6,7 +6,9 @@
 	* Katakana is used for loan words.
 	* Kanji is from borrowed Chinese characters. 
 * [[Japanese Words Index]]
+* [[Japanese Common Sayings]]
 * [[Japanese Grammar]]
+* [[Kanji Index]]
 
 # English
 * [[English Words Index]]
