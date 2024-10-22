@@ -1,23 +1,25 @@
 
 
-# File
-* [Games can become competitive for their own good -- driving the skill floor and skill ceiling up without an influx of players to make playing sustainable for casuals. ](https://www.youtube.com/watch?v=4rsI6CUPu0s)
+# Topic Queue
+* [Screaming Insects Algorithm](https://www.youtube.com/watch?v=Yu7sF9rcVJY)
+* [Look more into Sparse Autoencoder](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
+* [Proportional Navigation](https://en.wikipedia.org/wiki/Proportional_navigation)
 
+# File
 * [Demo and Writeup for the AI of a Tactical Top Down Shooter](https://www.gamedev.net/blogs/entry/2267533-close-quarters-development-realistic-combat-ai-part-i/)
 * [Final Fantasy VII - Game AI Writeup](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/31903)
 * [Predictive Aiming](https://yal.cc/simplest-possible-predictive-aiming/)
 * [RAMBO Attack](https://www.youtube.com/watch?v=ihtAijebU-M) - an attack involving writing to RAM and picking up on the EM signals emitted. 
-# Queue
-* [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
 
+
+# Paper Queue
+* [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
 
 [^Lyu_2023]: Lyu et al. (2023) [On Centralized Critics in Multi-Agent Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1613/jair.1.14386) 
 
 * [^Kim_2023]   introduces a new mutual information framework for MARL. This leads to the development of an algorithm called **Variational Maximum Mutual Information, Multi-Agent Actor Critic** which allows agents to coordinate simultaneous actions without latency. 
 
 [^Kim_2023]: Kim, Jung, Cho, Sung (2020) [A Maximum Mutual Information Framework for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.02732)
-
-
 
 * Branching Reinforcement Learning by Du, and Chen (Jun 15, 2022) 
 * Vinyals et al. (2019) [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf) 

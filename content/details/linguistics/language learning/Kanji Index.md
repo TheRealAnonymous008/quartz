@@ -14,11 +14,13 @@
 | 女     | Woman                                                          |
 | 学     | Study; Learning; Science                                       |
 | 家     | House; Home; Family; Professional; Expert; Performer           |
+| 家     | House; Home; Family; Professional; Expert; Performer           |
 | 寝     | Lie down; Sleep; Rest; Bed; Remain Unsold                      |
 | 帰     | Homecoming; Arrive At; Lead To; Result In                      |
+| 庭     | Courtyard; Garden; Yard                                        |
 | 強     | Strong                                                         |
 | 後     | Behind                                                         |
-| 日     | Sun; Day (calendar sense)                                      |
+| 日     | Sun; Day (calendar sense); Japan; Counter for days             |
 | 早     | Early; Fast                                                    |
 | 明     | Bright; Light                                                  |
 | 映     | Reflect; Reflection; Projection                                |
@@ -59,6 +61,14 @@
 | 飯     | Daytime; Noon                                                  |
 | 飲     | Drink; Smoke; Take                                             |
 | 駅     | Station                                                        |
+| 角     | Angle; Corner; Square; Horn; Antlers                           |
+| 鞄     | Suitcase; Bag; Briefcase                                       |
+| 火     | Fire                                                           |
+| 曜     | Weekday                                                        |
+| 川     | Stream; River                                                  |
+| 河     | River                                                          |
+| 木     | Tree; Wood; Timber                                             |
+| 聞     | Hear; Ask; Listen                                              |
 
 # Links
 * [Wanikani](https://www.wanikani.com/kanji/%E8%B5%B7) - Kanji resource

@@ -33,4 +33,5 @@
 | Ubiquitous    | (adj.) Present; Appearing or found everywhere.                                                                                                                                                                                        |
 | Wherewithal   | (n). The necessary means                                                                                                                                                                                                              |
 | Auspicious    | (adj.) Showing or suggesting that future success is likely;  <br><br>(adj.) Fortunate; Prosperous                                                                                                                                     |
+| Cacoethes     | (n.) An irresistible urge to do something inadvisable; Compulsion                                                                                                                                                                     |
  

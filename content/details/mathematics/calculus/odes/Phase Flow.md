@@ -47,7 +47,7 @@
   To find the phase flow, it suffices to solve $\varphi(t) = g^tx_0$ with initial condition $\varphi(0)=x_0$.
 	* *Not every smooth vector field is a phase velocity vector field of a flow.* In particular, we require the smooth vector field to be defined on a [[Real Analysis|compact vector space]].
 	* Every smooth vector field $v$ on the line that has at most linear growth at infinity (i.e., $|v(x)| \le a + b|x|$) is the phase velocity field of a one-parameter group of diffeomorphisms on the line
-		* *Proof*: It can be verified that $\dot v(x) \le b + 1$. Thus, it is bound and is continuous on the entire $t$-axis. 
+		* *Proof*: It can be verified that $\dot v(x) \le b + 1$. Thus, it is bounded and is continuous on the entire $t$-axis.  Clearly a phase flow exists by solving for $g^t x$. 
 
 
 # Links

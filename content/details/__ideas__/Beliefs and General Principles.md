@@ -55,8 +55,12 @@ Without Power, You are Nothing.
 * *In learning, Understand the Definitions*. It is important to know exactly what is being referred to before understanding how they interact. It lets one communicate in the language of the experts; a more precise language.
 
 * [Motivation decreases as you talk about what it is you're trying to do. In general this translates to using the language as a substitute for action. If you have the urge to talk about it, channel that urge to action. If you talk about it reinternalize it](https://www.youtube.com/watch?v=uDDeves6Crs)
-
 * Strive to be a [[Polymathy and Learning|Polymath]]
+
+* Learn some **Meta Skills** to boost learning
+	* Be humble and cognizant enough to know the limits of your knowledge
+	* Be an autodidact -- someone who can teach themselves anything all on their own.
+	* Be motivated by the act of doing rather than motivation itself. Motivation and Inspiration are fickle and unreliable.
 # Machine Learning
 * It is interesting how most of the advances in Machine Learning try to copy the advances in [[Biology]] NNs simulate real biological networks; RNNs via LSTMs try to simulate our ability to remember; and Attention Mechanisms simulate our ability to focus on certain things. Even the manner of learning mimics real life.  This  leads to the conjecture that *The next advancements in AI as a whole will likely necessitate understanding and simulating our cognitive and human aspects*
 

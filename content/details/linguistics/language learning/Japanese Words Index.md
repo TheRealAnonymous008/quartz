@@ -39,32 +39,33 @@
 |       | あいさつ             | Greeting                                                                                              |
 
 # i 
-| Kanji | Word            | Meaning                                                                                                                                                                                        |
-| ----- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | いい / <br><br>よい | Good, Excellent, Fine, Agreeable, Pleasant<br><br>We use いい more commonly in speaking, while よい in writing.<br><br>よい tends to be more formal.<br><br>よい tends to describe non-physical things |
-|       | いいえ             | No. Not at all.                                                                                                                                                                                |
-| 言う    | いう              | To say; To call or give name to something<br><br>言 (Say)                                                                                                                                       |
-| 家     | いえ              | House; Residence; Dwelling; Lineage; Family name.                                                                                                                                              |
-|       | イギリス            | Britain                                                                                                                                                                                        |
-| 行く    | いく              | To go; To proceed; To take place; To continue<br><br>行 (Go)                                                                                                                                    |
-|       | いけ              | Pond                                                                                                                                                                                           |
-|       | いしゃ             | Physician; Medical Doctor                                                                                                                                                                      |
-|       | いす              | Chair; Stool; Post; Office; Position                                                                                                                                                           |
-|       | いそがしい           | Busy; Hectic; Occupied; Engaged                                                                                                                                                                |
-|       | いたい             | Painful; Sore                                                                                                                                                                                  |
-|       | いっしょ            | Together; Meeting; Company                                                                                                                                                                     |
-|       | いつも             | Always; Usually; Every Time; Never (w/ negative verb so that it means "never not")                                                                                                             |
-|       | いぬ              | Dog                                                                                                                                                                                            |
-| 今     | いま              | Now; The Present; Just Now; Immediately                                                                                                                                                        |
-|       | いみ              | Meaning ; Significance                                                                                                                                                                         |
-|       | いもうと            | Younger Sister                                                                                                                                                                                 |
-|       | いや              | Unpleasant; Disagreeable; Reluctant                                                                                                                                                            |
-| 入口    | いりぐち            | Entrance; Gate; Opening; Mouth<br><br>入 (enter) 口 (mouth)                                                                                                                                      |
-|       | いる              | To Need                                                                                                                                                                                        |
-|       | いる              | To be (for animate objects)<br><br>To have (for people or animals)<br>To stay <br>(after the -te form of a verb) To continue an action or state                                                |
-| 入れる   | いれる             | To put in; To admit; To employ; To hire<br><br>入 (enter) れる (spontaneous occurrence)                                                                                                           |
-|       | いろ              | Color                                                                                                                                                                                          |
-|       | いろいろ            | Various                                                                                                                                                                                        |
+| Kanji   | Word            | Meaning                                                                                                                                         |
+| ------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+|         | いい / <br><br>よい | Good, Excellent, Fine, Agreeable, Pleasant<br><br>We use いい more commonly in speaking, in informal writing, and for describing physical things. |
+|         | いいえ             | No. Not at all.                                                                                                                                 |
+| 言う      | いう              | To say; To call or give name to something<br><br>言 (Say)                                                                                        |
+| 家       | いえ              | House; Residence; Dwelling; Lineage; Family name.                                                                                               |
+|         | イギリス            | Britain                                                                                                                                         |
+| 行く      | いく              | To go; To proceed; To take place; To continue<br><br>行 (Go)                                                                                     |
+|         | いけ              | Pond                                                                                                                                            |
+|         | いしゃ             | Physician; Medical Doctor                                                                                                                       |
+|         | いす              | Chair; Stool; Post; Office; Position                                                                                                            |
+|         | いそがしい           | Busy; Hectic; Occupied; Engaged                                                                                                                 |
+|         | いたい             | Painful; Sore                                                                                                                                   |
+|         | いっしょ            | Together; Meeting; Company                                                                                                                      |
+|         | いつも             | Always; Usually; Every Time; Never (w/ negative verb so that it means "never not")                                                              |
+|         | いぬ              | Dog                                                                                                                                             |
+| 今       | いま              | Now; The Present; Just Now; Immediately                                                                                                         |
+|         | いみ              | Meaning ; Significance                                                                                                                          |
+|         | いもうと            | Younger Sister                                                                                                                                  |
+|         | いや              | Unpleasant; Disagreeable; Reluctant                                                                                                             |
+| 入口      | いりぐち            | Entrance; Gate; Opening; Mouth<br><br>入 (enter) 口 (mouth)                                                                                       |
+|         | いる              | To Need                                                                                                                                         |
+|         | いる              | To be (for animate objects)<br><br>To have (for people or animals)<br>To stay <br>(after the -te form of a verb) To continue an action or state |
+| 入れる     | いれる             | To put in; To admit; To employ; To hire<br><br>入 (enter) れる (spontaneous occurrence)                                                            |
+|         | いろ              | Color                                                                                                                                           |
+|         | いろいろ            | Various                                                                                                                                         |
+
 # u
 | Kanji | Word | Meaning                                                               |
 | ----- | ---- | --------------------------------------------------------------------- |
@@ -139,41 +140,61 @@
 | 女の子   | おんなのこ                          | GIrl<br><br>女 (woman)  のこ (child).                                                                                         |
 
 # ka / ga
-| Kanji | Word   | Meaning                                                                                        |
-| ----- | ------ | ---------------------------------------------------------------------------------------------- |
-| 外国    | がいこく   | Foreign Country<br><br>外 (outside) 国 (country)                                                 |
-| 外国人   | がいこくじん | Foreigner<br><br>外 (outside) 国 (country) 人 (person)                                            |
-|       | かいしゃ   | Company ; Corporation                                                                          |
-|       | かいだん   | Stairs; Stairway; Staircase                                                                    |
-| 買いもの  | かいもの   | Shopping; Purchased Goods<br><br>買 (buy) いもの (something)                                       |
-| 買う    | かう     | To buy<br><br>買 (buy)<br>                                                                      |
-|       | かえす    | To return (something); To restore; To put back; To turn over; To turn upside down; To overturn |
-| 帰る    | かえる    | To go back; To return; To come back; To go home; To leave<br><br>帰 (homecoming)                |
-|       | かお     | Countenance; A person's face                                                                   |
-|       | かかる    | (1) To take (time or money)<br>(2) To hang                                                     |
-|       | かぎ     | (1) Key<br>(2) Lock                                                                            |
-| 書く    | かく     | To Write<br><br>書 (write)                                                                      |
-| 学生    | がくせい   | Student<br><br>(esp. a university student)<br><br>学 (study) 生 (life)                           |
-|       | かける    | To make (a call)                                                                               |
-|       | かさ     | Umbrella                                                                                       |
-|       | かさ     | Umbrella; Parasol                                                                              |
-|       | かぜ     | Wind; Breeze                                                                                   |
-|       | かぜ     | Cold (Illness); Common Cold                                                                    |
-| 学校    | がっこう   | School<br><br>学 (study) 校 (school)                                                             |
-|       | かばん    | Bag                                                                                            |
-|       | かんこく   | Korea                                                                                          |
-|       | かす     | To lend; To loan; To rent out; To hire out                                                     |
-|       | かぞく    | Family; Members of a family                                                                    |
-|       | かた     | Direction; Way; Person; Lady; Gentleman                                                        |
+| Kanji   | Word     | Meaning                                                                                                                        |
+| ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 外国      | がいこく     | Foreign Country<br><br>外 (outside) 国 (country)                                                                                 |
+| 外国人     | がいこくじん   | Foreigner<br><br>外 (outside) 国 (country) 人 (person)                                                                            |
+|         | かいしゃ     | Company ; Corporation                                                                                                          |
+|         | かいだん     | Stairs; Stairway; Staircase                                                                                                    |
+| 買いもの    | かいもの     | Shopping; Purchased Goods<br><br>買 (buy) いもの (something)                                                                       |
+| 買う      | かう       | To buy<br><br>買 (buy)<br>                                                                                                      |
+|         | かえす      | To return (something); To restore; To put back; To turn over; To turn upside down; To overturn                                 |
+| 帰る      | かえる      | To go back; To return; To come back; To go home; To leave<br><br>帰 (homecoming)                                                |
+|         | かお       | Countenance; A person's face                                                                                                   |
+|         | かかる      | (1) To take (time or money)<br>(2) To hang                                                                                     |
+|         | かぎ       | (1) Key<br>(2) Lock                                                                                                            |
+| 書く      | かく       | To Write<br><br>書 (write)                                                                                                      |
+| 学生      | がくせい     | Student<br><br>(esp. a university student)<br><br>学 (study) 生 (life)                                                           |
+|         | かける      | To make (a call)                                                                                                               |
+|         | かさ       | Umbrella; Parasol                                                                                                              |
+|         | かす       | To lend; To loan; To rent out; To hire out                                                                                     |
+|         | かぜ       | Wind; Breeze                                                                                                                   |
+|         | かぜ       | Cold (Illness); Common Cold                                                                                                    |
+|         | かぞく      | Family; Members of a family                                                                                                    |
+|         | かた       | Direction; Way; Person; Lady; Gentleman                                                                                        |
+| 学校      | がっこう     | School<br><br>学 (study) 校 (school)                                                                                             |
+|         | カップ      | Cup                                                                                                                            |
+| 家庭      | かてい      | Household; Home; Family; Hearth<br><br>家 (house) 庭 (garden)                                                                    |
+| 角       | かど       | Corner; Edge                                                                                                                   |
+| 鞄       | かばん      | Bag; Satchel; Briefcase; Basket<br><br>Does not pertain to paper or plastic bags                                               |
+|         | かびん      | Flower vase                                                                                                                    |
+|         | かぶる      | To wear (on head)                                                                                                              |
+|         | かみ       | Paper                                                                                                                          |
+|         | カメラ      | Camera                                                                                                                         |
+| 火曜日     | かようび     | Tuesday<br><br>火 (fire) 曜 (weekday) 日 (days)<br><br>                                                                           |
+|         | からい      | (1) Spicy; Hot; Tough (on someone); Adverse; Harsh<br><br>(2) Salty                                                            |
+|         | からだ      | Body; Health                                                                                                                   |
+|         | かりる      | To borrow; To have a loan; To rent; To hire                                                                                    |
+|         | かるい      | Light (not heavy); Feeling light (moving easily); Light footed; Nimble; Agile                                                  |
+|         | カレー      | Curry                                                                                                                          |
+|         | カレンダー    | Calendar                                                                                                                       |
+| 川,<br>河 | かわ<br>がわ | (1) River<br>(2) . . . River (as in, the suffix used for river names)<br><br>There are two possible kanji: 川 (River) 河 (River) |
+|         | かわいい     | Cute; Adorable; Charming; Lovely; Pretty; Precious; Darling; Pet; Cute; Tiny; Little                                           |
+|         | かんこく     | Korea                                                                                                                          |
+|         | かんじ      | Kanji                                                                                                                          |
+| 木       | き        | Tree; Wood; Timber                                                                                                             |
 
 # ki / gi
-| Kanji | Word  | Meaning                                                   |
-| ----- | ----- | --------------------------------------------------------- |
-| 聞く    | きく    | To listen; To hear<br><br>聞 (hear; listen)                |
-|       | きっさてん | Cafe                                                      |
-| 今日    | きょう   | Today <br><br>今 (now) 日 (day)                             |
-|       | きょうし  | Teacher or Professor<br><br>A more modest version of せんせい |
-|       | ぎんこお  | Bank                                                      |
+| Kanji | Word            | Meaning                                                                      |
+| ----- | --------------- | ---------------------------------------------------------------------------- |
+| 聞く    | きく              | To listen; To hear<br><br>聞 (hear; listen)                                   |
+|       | きっさてん           | Cafe                                                                         |
+| 今日    | きょう             | Today <br><br>今 (now) 日 (day)                                                |
+|       | きょうし            | Teacher or Professor<br><br>A more modest version of せんせい                    |
+|       | ぎんこお            | Bank                                                                         |
+|       | きいろ<br><br>きいろい | Yellow<br><br>More technically きいろ means "color of wood"                     |
+|       | きえる             | To disappear; To go out; To vanish                                           |
+| 聞く    | きく              | (1) To hear; To listen (to music)<br>(2) To ask<br><br>聞 (hear; ask; listen) |
 
 # ku / gu
 
@@ -343,10 +364,11 @@
 | ----- | ------- | ----------- |
 |       | ゆうびんきょく | Post office |
 # yo
-| Kanji | Word | Meaning                 |
-| ----- | ---- | ----------------------- |
-| 読む    | よむ   | To read<br><br>読 (read) |
-|       | よく   | Often; Much             |
+| Kanji | Word | Meaning                                                                                                                                           |
+| ----- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 読む    | よむ   | To read<br><br>読 (read)                                                                                                                           |
+|       | よく   | Often; Much                                                                                                                                       |
+|       | よい   | Good, Excellent, Fine, Agreeable, Pleasant<br><br>We use よい in writing. It is more formal and tends to be used for describing non-physical things |
 
 # ra 
 # ri

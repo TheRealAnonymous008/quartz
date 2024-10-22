@@ -57,10 +57,11 @@
 * *Systems encode knowledge and receive and send [[Information Theory|information]]*. 
 * The system, by its very own structure, knows how to react to a situation.
 * [[Information in Systems]]
+* [[Theory of Computation]] - part of processing information is some form of computation.
 
 ## Regulation 
 * *Systems have regulatory subsystems to achieve stability*. 
-* As systems evolve toward greater complexity, the interactions between different levels of subsystems require coordination and [[Control Theory|control]] in the form of feedback loops
+* As systems evolve toward greater complexity, the interactions between different levels of subsystems require coordination and [[Cybernetics|control]] in the form of feedback loops
 
 ## Models of Others 
 * *Systems can contain models of other systems*. 

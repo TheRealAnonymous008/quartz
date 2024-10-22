@@ -25,7 +25,7 @@
 	* We can define a **monodromy** -- a mapping $A:\mathbb{R}\to\mathbb{R}$ such that we map the value $\varphi(0)$ to the value $\varphi(T)$ of the same solution for $t=T>0$.
 	* *Intuition*: We get a homogeneous linear equation with $T$-periodic coefficient when we study the case of **limit cycles**.
 	  
-	  The linearity comes a monodromy which "unwraps" the limit cycle and maps it onto the real number line.  Since it is cyclic it is periodic with period $T$. Movement along the limit cycle can be encapsulated using a linear ODE. 
+	  The linearity comes a monodromy which "unwraps" the limit cycle and maps it onto the real number line.  Since it is cyclic it is periodic with period $T$. Movement along the limit cycle can be encapsulated using the linear ODE above, hence linearity.
 
 	* (*Arnold 3.2.1*) The monodromy operator is linear and is actually multiplication by a number $\lambda$. The behavior of solutions is determined by $\lambda$
 	  
@@ -80,7 +80,7 @@
 
 * The solution of the equation
   $$
-  \frac{dx}{dt} = f(t) y + \delta(t-\xi), \ \ \ \xi > 0
+  \frac{dx}{dt} = f(t) x + \delta(t-\xi), \ \ \ \xi > 0
   $$
   Where $\delta$ is the [[Dirac Delta Function|Dirac Delta function]]. 
   
@@ -101,7 +101,7 @@
 		* The above corresponds to the solution to a homogeneous equation with initial condition $x(\xi)= 1$. 
 	* (*Arnold 3.4.2*) The solution of the inhomogeneous equation with inhomogeneity $g$ and with zero initial condition is expressed in terms of the influence function by the formula
 	  $$
-	  x(t) = \int_0^t G_\xi (x) g(\xi) \ d\xi
+	  x(t) = \int_0^t G_\xi (t) g(\xi) \ d\xi
 	  $$
 	  For $t>0$.
 

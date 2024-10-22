@@ -1,14 +1,18 @@
 * An **integral curve** is a line that, at each point, is tangent to a [[Vector Field|vector field]] $F$
+* The problem of finding an integral curve can be viewed as a problem of [[Integral Calculus|integrating]] a given continuous function
+	* *Intuition*: The integral curve of a vector field in $\mathbb{R}$ is a graph in $\mathbb{R}^2$. Each point in $\mathbb{R}$ has an associated slope, i.e., an associated derivative. The fundamental theorem of calculus then suggests we can find the integral curve via integration
 * A necessary and sufficient condition for the graph of function $\varphi$ to be an integral curve is that the following relation hold for interval $I$ 
   $$
-  \frac{d\varphi}{dt} = F(\varphi (t))
+  \frac{d\varphi}{dt} = F(t,\varphi (t))
   $$
   The integral line lies in the direct product of the time axis and phase space (called the **extended phase space**)
 	* *Integral Curves are solutions to an ODE*. 
+	* In fact *Every first order ODE determines a direction field  on the plane*. At $(t,x)$, the slope is $F(t,\varphi(t))$. 
 	* **Singular points** also called **Equilibrium points** correspond to points where $F$ vanishes. That is, when
 	  $$
 	  \frac{d}{dt} \Big | _{t=0}  \varphi(t) =  F(x_0) = 0
 	  $$
+	  At such points, we have constant functions of the form $\varphi(t)=a$ as solutions. 
 
 
 * (*Arnold 2.1.1*)  Consider a differential equation of the form
