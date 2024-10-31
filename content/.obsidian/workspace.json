@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d6bcfa57a962275a",
+        "id": "60448551a69f53d3",
         "type": "tabs",
         "children": [
           {
-            "id": "761d3906fcf2fa0e",
+            "id": "f306595e994b8195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration Logs.md",
+                "file": "zshortdump/Cybernetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploration Logs"
-            }
-          },
-          {
-            "id": "13ada59ee6860b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/game design/Game Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Design"
+              "title": "Cybernetics"
             }
           }
         ]
@@ -66,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "learning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "details/linguistics/language learning/Kanji Index.md",
+                "file": "details/engineering/swarms/Graph Theoretic Approaches for Swarms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kanji Index"
+              "title": "Backlinks for Graph Theoretic Approaches for Swarms"
             }
           },
           {
@@ -190,36 +176,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "761d3906fcf2fa0e",
+  "active": "f306595e994b8195",
   "lastOpenFiles": [
-    "details/game design/Game Design.md",
-    "__meta/The Antilibrary.md",
-    "Exploration Logs.md",
-    "details/computer science/Theory of Computation.md",
-    "details/__ideas__/Trivia.md",
-    "details/engineering/systems/Characterizing Systems.md",
-    "__meta/Orphanage.md",
-    "details/linguistics/language learning/Kanji Index.md",
-    "zshortdump/Solving Differential Equations with Diffeomorphisms.md",
-    "details/linguistics/language learning/Japanese Words Index.md",
-    "details/__ideas__/Beliefs and General Principles.md",
-    "zshortdump/Procedural Generation.md",
-    "details/linguistics/language learning/English Words Index.md",
-    "details/psychology/mind/Polymathy and Learning.md",
-    "details/machine learning/reinforcement learning/fundamentals/A Unified View on Reinforcement Learning Approaches.md",
-    "__images/Hiragana.png",
-    "__images/Katakana.png",
-    "details/mathematics/calculus/Differential Calculus.md",
-    "details/mathematics/calculus/odes/ODE - Notation Guide.md",
-    "details/__other__/Tangent Space.md",
-    "details/mathematics/calculus/odes/Diffeomorphism.md",
-    "details/mathematics/calculus/odes/Ordinary Differential Equation.md",
-    "details/mathematics/calculus/odes/Integral Curve.md",
-    "details/mathematics/calculus/odes/Phase Flow.md",
-    "details/mathematics/calculus/Taylor Series.md",
-    "details/mathematics/calculus/odes/Linear ODE.md",
-    "details/linguistics/language learning/Japanese Grammar.md",
     "zshortdump/Metaphysics.md",
+    "zshortdump/Attribution Bias.md",
+    "zshortdump/Cybernetics.md",
+    "details/engineering/systems/Characterizing Systems.md",
+    "details/engineering/System Science.md",
+    "details/engineering/systems/Working with Systems.md",
+    "details/linguistics/language learning/Japanese Grammar.md",
+    "details/linguistics/language learning/Kanji Index.md",
+    "details/linguistics/language learning/Japanese Words Index.md",
+    "__images/Katakana.png",
+    "__meta/The Antilibrary.md",
+    "__books/Writing Systems -- An Introduction to their Linguistic Analysis by Coulmas.md",
+    "details/__ideas__/Trivia.md",
+    "details/computer science/misc/Procedural Worlds.md",
+    "details/mathematics/misc/Relation.md",
+    "details/engineering/swarms/Graph Theoretic Approaches for Swarms.md",
+    "details/engineering/Network Science.md",
+    "details/computer science/data structures and algorithms/Procedural Generation.md",
+    "details/computer science/software engineering/Cohesion and Coupling.md",
+    "details/computer science/misc",
+    "details/mathematics/calculus/odes/Diffeomorphism.md",
+    "zshortdump/Solving Differential Equations with Diffeomorphisms.md",
+    "zshortdump/Cryptography.md",
+    "zshortdump/Chaos Theory.md",
+    "details/engineering/systems/Kinds of System Dynamics and Dynamical States.md",
+    "details/humanities/religion/Tarot Cards.md",
+    "details/mathematics/misc/Fuzzy Computation.md",
+    "details/engineering/systems/Systems and Models.md",
+    "__images/Hiragana.png",
     "__images/One Parameter Diffeomorphism Rectification.png",
     "__images/Lighting.png",
     "Pasted image 20241008200240.png",
@@ -238,7 +225,6 @@
     "details/engineering/manufacturing",
     "details/philosophy/misc",
     "details/philosophy/thinkers",
-    "details/philosophy/works",
     "details/mathematics/Untitled.canvas",
     "__meta/{{Media Board}}.canvas",
     "Test.canvas"

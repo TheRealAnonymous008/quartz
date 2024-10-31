@@ -1,5 +1,6 @@
 * A **metaheuristic** is a heuristic designed to find or select a heuristic that gives a "good enough" solution to an optimization problem, especially applicable for [[Complexity Theory|NP hard]] problems.
 * *Metaheuristics are generally applicable, but do not guarantee optimality or polynomial running time*
+	* From the perspective of logic, Metaheuristics are inductive and abductive rather than deductive. 
 
 * For each heuristic, let $f$ be the function being optimized. $x$ is an element in the solution space of the problem. 
 
@@ -90,3 +91,4 @@ return x*
 
 # Links
 * [Metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)
+* [[Fuzzy Computation]]

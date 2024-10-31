@@ -34,6 +34,8 @@
 	* Anticipation allows the system to alter its behavior to change future states.
 	* *Compared to Predictive Systems, Anticipatory Systems are more proactive with regards to the future state.*
 	* Anticipation is based on [[Statistical Models|statistical models]] of the world. 
+
+* *Adaptation implies some form of data storage and retrieval*.
 # Dynamical States
 ## Equilibrium
 * **Equilibrium** pertains to a state where energy and matter are uniformly distributed throughout the interior. 

@@ -1,3 +1,4 @@
+* See [[Exploration Logs]] as well for backlogs. 
 # Future Readings
 * [Alex Sludd](https://alexsludds.github.io) - includes Silicon Photonics, running Neural Networks through light meshes.
 * Better Videogame Characters by Design by Katherine Isbister
@@ -34,25 +35,13 @@
 * Compositional Pattern Producing Methods
 * Lanczos Algorithm (cited in [[Graph Neural Network#Lanczos Network|Lanczos Networks]])
 * Algorithmic Information Theory
+* [Some interesting things to explore further](https://www.youtube.com/watch?v=-uIwboK4nwE) - PSLQ, Sinkhorn Limits, Kruithoff Limits
 
 # Notemarks
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
 * Forecasting -- specifically classical techniques for  [[Time Series Analysis]].
 * [[Abnormal Psychology]]. Specifically Mental Illnesses.
 
-# Bookmarks
-* [[Factory Physics]] - Workforce Planning.
-* [[Virtues and their Vices by Kevin and Craig]] 
-	* Cardinal Virtues
-	* Intellectual Virtues
-	* Theological Virtues
-* [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
-	* https://en.wikipedia.org/wiki/Köppen_climate_classification
-* [[Linear and Nonlinear Programming by Luenberger and Ye]] - Resume Ch. 5
-* [[Drawing on the Right Side of the Brain by Edwards]] - Resume Ch. 8
-* [[Code Complete by McConnell]] - Resume Ch. 10
-* [[Color and Lights by Gurney]] 
-	* Skipped Ch. 5
 
 
 # Utilities
@@ -73,6 +62,7 @@
 * [Nlab](https://ncatlab.org/nlab/show/HomePage) - wiki on mathematics, physics, and philosophy (from a pure math perspective)
 * [IQuiLezles](https://iquilezles.org/) - math, art and computer graphics
 * [Math3ma](https://www.math3ma.com) - math
+* [For h in hexes](https://forhinhexes.blogspot.com/) - tabletop 
 
 * [HackerFactor](https://www.hackerfactor.com/blog/)  - Security 
 ## What to Learn? 

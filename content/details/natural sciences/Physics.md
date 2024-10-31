@@ -18,6 +18,9 @@
 * [[Periodic Motion]]
 
 * [[Rigid Body Simulation]]
+
+
+* [[Quantum Mechanics]]
 # Links
 * [[University Physics with Modern Physics 15th Edition By Freedman]]
 * [[The Feynman Lectures]]

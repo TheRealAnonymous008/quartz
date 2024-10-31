@@ -89,13 +89,14 @@
 
 * An equation is **homogeneous** if the direction field defining it on the plane is homogeneous; that is it is invariant with respect to the one parameter group of dilations.
   $$
-  g^s (t,x)  =e^s (t,x)
+  g^s (x,y)  =e^s (x,y)
   $$
 	* If $K$ is an integral curve, then the curve $e^sK$ homothetic to it is also an integral curve. 
+	* *Intuition*: An equation is homogeneous if, when all variables are scaled by some constant, the equation remains the same (after cancellation). 
 
 * (*Arnold 6.3.1*) A homogeneous equation 
   $$
-  \frac{dx}{dt} = F(t,x)
+  \frac{dy}{dx} = F(x,y)
   $$
   Can be reduced to an equation with separable variables by the substitution $y=xv$ in the domain $x>0$. This performs a change of variables to $(x,v)$ coordinates
 
@@ -108,8 +109,42 @@
 	  \sum x_i \frac{\partial f}{\partial x_i} = rf
 	  $$
 	  Another way to say this: *$f$ is an eigenvector of the differentiation operator along the phase velocity field of dilations $e^s$ with eigenvector $r$*. 
+		* *Proof*: In the forward direction, calculate $\partial f/\partial s$ at $s=0$. 
+		  
+		  In the reverse direction, integrate the differential equation with separable variables defined by the Euler relation. That is, using $df/dx = rf/x$. 
 
-* The homogeneous function of degree $r$ is a common [[Matrix Diagonalization|eigenvector]] of all linear operators $(e^s)^\ast$ with eigenvalues $e^{rs}$. 
+	* The homogeneous function of degree $r$ is a common [[Matrix Diagonalization|eigenvector]] of all linear operators $(e^s)^\ast$ with eigenvalues $e^{rs}$. 
+	* A necessary and sufficient condition for the direction field of the differential equation $\frac{dx}{dt}=F(t,x)$ to be homogeneous is 
+	  $$
+	  \sum x_i \frac{\partial f}{\partial x_i} = 0
+	  $$ 
 
-# Links
+* The **$\sigma$-process** also called **inflating $0$** is defined by mapping
+  $$
+  (x,y) \mapsto
+  \begin{cases}
+  (x,y/x) & x \ne 0 \\
+  (x/y,y) & y \ne 0
+  \end{cases}
+  $$
+	* This allows us to turn any algebraic curve with a singularity at the origin into a curve having no singularities except ordinary self-intersections.
+
+* A **[[Fundamental Constructs of Group Theory|group]] of quasi-homogeneous dilations** of the plane is a one-parameter group of linear transformations
+  $$
+  g^s (x,y) = (e^{\alpha s} x, e^{\beta s} y)
+  $$
+  We refer to $\alpha,\beta$ as **weights**, we denote $\alpha = \deg x$, and $\beta = \deg y$. 
+* An equation is called **quasi-homogeneous** with weights $\alpha,\beta$ if in the direction field that defines it in, the plane is invariant with respect to the group of quasi-homogeneous dilations
+	* (*Arnold 6.4.1*) A quasi-homogeneous equation $\frac{dy}{dx} = F(x,y)$ with weights $\deg \alpha$ and $\deg \beta$ can be reduced to an equation with separable variables by passing the coordinates 
+	  $$
+	  \left(x,\frac{y^\alpha}{x^\beta}\right)
+	  $$
+	  in the domain $x>0$
+* A function $f$ is called **quasi-homogeneous** of degree $r$ if it satisfies the identity 
+  $$
+  f(e^{\alpha s} x, e^{\beta s} y) = e^{rs} f(x,y)
+  $$
+  That is $f$ is a common eigenvector of the operators $(g^s)^\ast$, where $g^s$ is a quasi-homogeneous dilation with, with eigenvalues $e^{rs}$. 
+
+#  Links
 * [[Ordinary Differential Equations by Arnold|Arnold]]

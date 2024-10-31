@@ -57,7 +57,15 @@
 * *Systems encode knowledge and receive and send [[Information Theory|information]]*. 
 * The system, by its very own structure, knows how to react to a situation.
 * [[Information in Systems]]
-* [[Theory of Computation]] - part of processing information is some form of computation.
+* [[Theory of Computation]] - part of processing information is some form of computation. *Computational processes can be framed as ways for the system to gain information to facilitate its own functions*. 
+	* Computational Processes in practice behave like any other systemic process -- taking input, producing output, performing work, requiring energy, and releasing waste heat.
+		* [[Metaheuristics]] also come into play here as a form of probabilistic computation. Even living systems use metaheuristics (i.e., a form of instinctual or reflexive action)
+		* [[Fuzzy Computation]] - a form of computation that can adjust its own computational rules according to experience
+		* [[Biological Computation]]
+	* Computation is applied to many aspects of a system
+		* [[Problem Solving]]. 
+		* Data Capture, Storage, and Retrieval.
+		* Modeling. In particular, for anticipation and prediction
 
 ## Regulation 
 * *Systems have regulatory subsystems to achieve stability*. 

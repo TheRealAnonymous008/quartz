@@ -195,6 +195,13 @@
 |       | きいろ<br><br>きいろい | Yellow<br><br>More technically きいろ means "color of wood"                     |
 |       | きえる             | To disappear; To go out; To vanish                                           |
 | 聞く    | きく              | (1) To hear; To listen (to music)<br>(2) To ask<br><br>聞 (hear; ask; listen) |
+| 北     | きた              | North                                                                        |
+|       | きたない            | Dirty; Filthy; Unclean                                                       |
+|       | きっさてん           | Coffee Lounge; Coffee Shop; Cafe                                             |
+|       | きって             | Postage Stamp; Merchandise Certificate                                       |
+|       | きっぷ             | Ticket                                                                       |
+|       | きのう             | Yesterday                                                                    |
+|       | ぎゅうにく           | Beef                                                                         |
 
 # ku / gu
 

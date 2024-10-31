@@ -69,6 +69,7 @@
 | 河     | River                                                          |
 | 木     | Tree; Wood; Timber                                             |
 | 聞     | Hear; Ask; Listen                                              |
+| 北     | North                                                          |
 
 # Links
 * [Wanikani](https://www.wanikani.com/kanji/%E8%B5%B7) - Kanji resource

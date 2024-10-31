@@ -1,5 +1,6 @@
 * Information is a fundamental aspect of systems separate from both matter and energy
 * *Information is the news of difference that makes a difference*. It talks about facts in the [[Characterizing Systems|system]] which are relevant for the specific analysis being conducted. 
+	* Because it is a difference between two things *it is inherently comparative*. 
 
 * Information flow can be both internal -- facilitating the mechanisms of the system, and external -- allowing the system to respond to the environment.
 
