@@ -48,11 +48,33 @@
 * [[Philosophy]] - read through [[A New History of Western Philosophy  By Anthony Kenny]] 
 
 * [[Factory Physics]] - Workforce Planning.
-* [[Virtues and their Vices by Kevin and Craig]] 
-	* Cardinal Virtues
-	* Intellectual Virtues
-	* Theological Virtues
+* [[Virtues and their Vices by Kevin and Craig]]  -Cardinal Virtues, Intellectual Virtues, Theological Virtues
 * [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
 	* https://en.wikipedia.org/wiki/Köppen_climate_classification
 * [[Linear and Nonlinear Programming by Luenberger and Ye]] - Resume Ch. 5
 * [[Drawing on the Right Side of the Brain by Edwards]] - Resume Ch. 8
+* [[Ordinary Differential Equations by Arnold]] - Ch. 6 (but restart all of Part 1) with better math background
+
+
+# Interesting Topics
+* [HEMA](https://wiktenauer.com/wiki/Main_Page)
+* Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
+* [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))
+* [Von Neumann Morgenstern Utility Theorem](https://en.wikipedia.org/wiki/Von_Neumann–Morgenstern_utility_theorem)
+* [Petri Nets](https://en.wikipedia.org/wiki/Petri_net#:~:text=A%20Petri%20net%2C%20also%20known,of%20elements%3A%20places%20and%20transitions.)
+* [Hopfield Networks](https://www.youtube.com/watch?v=1WPJdAW-sFo&list=WL&index=15)
+* General Method of Moments / Simulated Method of Moments
+* [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
+* [Socionics](https://en.wikipedia.org/wiki/Socionics)
+* Chess Openings
+* [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
+* [Johnson-Lindenstrauss Lemma](https://en.wikipedia.org/wiki/Johnson–Lindenstrauss_lemma)
+* [Dreams are (theorized) as ways humans prevent overfitting](https://www.sciencedirect.com/science/article/pii/S2666389921000945)
+* Neuro Evolution of Augmented Topologies and similar algorithms
+* Compositional Pattern Producing Methods
+* Lanczos Algorithm (cited in [[Graph Neural Network#Lanczos Network|Lanczos Networks]])
+* Algorithmic Information Theory
+* [Some interesting things to explore further](https://www.youtube.com/watch?v=-uIwboK4nwE) - PSLQ, Sinkhorn Limits, Kruithoff Limits
+	* https://en.wikipedia.org/wiki/Iterative_proportional_fitting 
+* [Combinatorial Maps](https://en.wikipedia.org/wiki/Combinatorial_map)
+* [Surface Nets](https://bonsairobo.medium.com/smooth-voxel-mapping-a-technical-deep-dive-on-real-time-surface-nets-and-texturing-ef06d0f8ca14)

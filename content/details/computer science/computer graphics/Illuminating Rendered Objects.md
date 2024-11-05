@@ -30,15 +30,42 @@
 	* *Specular Highlights do not linearly interpolate well*.
 * **Microfacets** - refer to imperfections on the surface which introduce roughness.		
 	* This is controllable by *adjusting the distribution of surface normals*.
-	* The **Phong Model** is a simple model which states that light reflected in the direction of the viewer varies based on the difference *between the view direction and direction of perfect reflection*.
-		* One limitation of this is depicting rough surfaces that still have specular highlights since *it does not allow specular contributions from areas outside a certain region*
-		* Another limitation is it *only allows for view angles less than $90\degree$ have a specular contribution.* 
-	* The **Blinn-Phong Model** is an extension of the Phong Model.
-		* It does this by checking if *the half angle is aligned with the surface normal*. 
-	* The **Gaussian Specular Model** is an extension of the Blinn model which *actually simulates the microfacets*. It assumes that at a given point, the intensity *follows a normal distribution parameterized by the half-angle offset from the surface normal*. 
-		* This is parameterized by a  **Gaussian Smoothness** parameter that controls the apparent smoothness (from $[0,1]$ )
-		* It offers more distinct highlights for shiny surfaces.
+# Lighting Models
+* The **Phong Model** is a simple model which states that light reflected in the direction of the viewer varies based on the difference *between the view direction and direction of perfect reflection*.
+	* The model is defined as follows. We define constants
+	  $k_s$ - specular reflection
+	  $k_d$ - diffuse reflection
+	  $k_a$ - ambient reflection
+	  $\alpha$ - shininess.
+	  
+	  Let $\mathcal{L}$ be the set of all light sources.  We index with $m$ for light sources.
+	  
+	  We define the following vectors. Note that $\hat{v}$ denotes a normalized vector.
+	  $\hat{L}_m$ - the direction vector from the surface point towards light source $m$
+	  $\hat{N}$ - the normal at the surface point
+	  $\hat{R}_m$ - the direction a perfectly reflected ray from $m$ would take from the surface.
+	  $\hat{V}$ - the direction pointing towards the viewer.
+	  
+	  The model is then defined as
+	  $$
+	  I_p = k_a i_a + \sum_{m\in \mathcal{L}} (k_d(\hat{L}_m \cdot \hat{N}) i_{m,d} + k_s(\hat{R}_m \cdot \hat{V})^\alpha i_{m,s})
+	  $$
+	  
+	  We note that $\hat{R}_m$ is calculated as follows
+	  $$
+	  \hat{R}_m = 2(\hat{L}_m \cdot \hat{N}) \hat{N} - \hat{L}_m
+	  $$
+	  Additionally, each term in the Phong model should only be included if the corresponding dot product is positive.  The specular term is included only if the dot product of the diffuse term is positive.
+	  
+	* One limitation of this is depicting rough surfaces that still have specular highlights since *it does not allow specular contributions from areas outside a certain region*
+	* Another limitation is it *only allows for view angles less than $90\degree$ have a specular contribution.* 
+* The **Blinn-Phong Model** is an extension of the Phong Model.
+	* It does this by checking if *the half angle is aligned with the surface normal*. 
+* The **Gaussian Specular Model** is an extension of the Blinn model which *actually simulates the microfacets*. It assumes that at a given point, the intensity *follows a normal distribution parameterized by the half-angle offset from the surface normal*. 
+	* This is parameterized by a  **Gaussian Smoothness** parameter that controls the apparent smoothness (from $[0,1]$ )
+	* It offers more distinct highlights for shiny surfaces.
 
+# Corrections
 * **High Dynamic Range Rendering** simulates how the human iris adjusts based on the luminance of the environment (i.e., at day, the iris lets in less light to not damage the retina).
 	* This manifests as *filtering out some of the light*. 
 	* Additionally, we note that *light does not have global maximum brightness*, but this necessitates **tone mapping** from HDR to **Low Dynamic Range**. 
@@ -77,3 +104,5 @@
 * [[Basic Rendering and the Rendering Pipeline]] - for more information on how to render and position objects.
 
 * [Learning Modern 3D Graphics Programming Ch. 3](https://paroj.github.io/gltut/index.html)
+
+* [[Linear Algebra]]

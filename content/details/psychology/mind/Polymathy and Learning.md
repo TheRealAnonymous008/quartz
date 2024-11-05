@@ -4,6 +4,16 @@
 
 * [Why Even Learn Things Anymore? ](https://www.youtube.com/watch?v=qqijEATGnlA) - humans learn out of an innate curiosity, regardless of what happens to society. There is a satisfaction in seeing how everything is interconnected.
 
+* [I Drew for 11700 hours- Here's what I learned by Oridays](https://www.youtube.com/watch?v=s9FmIhMGYjg). Key takeaways
+	* For [[Creativity|creative]] work specifically, make things, get things done, and get feedback.
+	* The struggle is getting started because you are at a point where you do not know what you are doing, you may not be able to create what you wanted, and feedback is scarce.  *Motivation is fickle*.
+	* The best "motivator" is trying to meet your own standards.
+	* You don't need to reinvent the wheel. 
+	* Be a generalist with broad knowledge and a specialist with in depth knowledge on a specific topic. 
+	* Focus. We can only improve if we exert cognitive effort. 
+	* Identify which subskills we need to learn based on our own goals.
+	* A breakthrough can only happen as a byproduct of hours of effort.
+
 # About Learning
 * There are many kinds of learning -- some do not require conscious effort. 
 * *Humans and other animals adapt well because they are predisposed to learn*, and because they respond particularly strongly to certain types of events: 

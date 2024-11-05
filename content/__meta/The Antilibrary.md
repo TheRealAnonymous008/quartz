@@ -17,26 +17,6 @@
 * Lord of Mysteries - https://lordofthemysteries.fandom.com/wiki/Demoness_Pathway. Interesting from a Worldbuilding Perspective
 * [From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/) - specifically focusing on digging through the design and interaction between systems.
 
-# Interesting Topics
-* [HEMA](https://wiktenauer.com/wiki/Main_Page)
-* Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
-* [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))
-* [Von Neumann Morgenstern Utility Theorem](https://en.wikipedia.org/wiki/Von_Neumann–Morgenstern_utility_theorem)
-* [Petri Nets](https://en.wikipedia.org/wiki/Petri_net#:~:text=A%20Petri%20net%2C%20also%20known,of%20elements%3A%20places%20and%20transitions.)
-* [Hopfield Networks](https://www.youtube.com/watch?v=1WPJdAW-sFo&list=WL&index=15)
-* General Method of Moments / Simulated Method of Moments
-* [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
-* [Socionics](https://en.wikipedia.org/wiki/Socionics)
-* Chess Openings
-* [Sound Design](https://www.youtube.com/watch?v=_J56n496u6k)
-* [Johnson-Lindenstrauss Lemma](https://en.wikipedia.org/wiki/Johnson–Lindenstrauss_lemma)
-* [Dreams are (theorized) as ways humans prevent overfitting](https://www.sciencedirect.com/science/article/pii/S2666389921000945)
-* Neuro Evolution of Augmented Topologies and similar algorithms
-* Compositional Pattern Producing Methods
-* Lanczos Algorithm (cited in [[Graph Neural Network#Lanczos Network|Lanczos Networks]])
-* Algorithmic Information Theory
-* [Some interesting things to explore further](https://www.youtube.com/watch?v=-uIwboK4nwE) - PSLQ, Sinkhorn Limits, Kruithoff Limits
-
 # Notemarks
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
 * Forecasting -- specifically classical techniques for  [[Time Series Analysis]].

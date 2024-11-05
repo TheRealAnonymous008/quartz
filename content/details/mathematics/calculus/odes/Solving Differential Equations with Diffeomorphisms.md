@@ -144,7 +144,26 @@
   $$
   f(e^{\alpha s} x, e^{\beta s} y) = e^{rs} f(x,y)
   $$
-  That is $f$ is a common eigenvector of the operators $(g^s)^\ast$, where $g^s$ is a quasi-homogeneous dilation with, with eigenvalues $e^{rs}$. 
+  That is $f$ is a common eigenvector of the operators $(g^s)^\ast$, where $g^s$ is a quasi-homogeneous dilation with, with eigenvalues $e^{rs}$.
+	* (*Arnold 6.4.2*) A necessary and sufficient condition for the direction field of the equation 
+	  $$
+	  \frac{dy}{dx} = F(x,y)
+	  $$
+	  to be a quasi-homogeneous is that the right-hand side be quasi-homogeneous and its quasi-homogeneous degree be
+	  $$
+	  \deg F = \deg y - \deg x = \beta - \alpha
+	  $$
+	* (*Arnold 6.5.1*) Under a quasi-homogeneous dilation $(x,y)\mapsto (e^{\alpha s} x, e^{\beta s} y)$ the graph of the function $y=\varphi(x)$ transforms into the graph of the function $y=\Phi (x)$ for which
+	  $$
+	  \frac{d^k\Phi}{dx^k}(z_{t+1}) = e^{(\beta -k\alpha)s} \frac{d^k\varphi}{dx^k} (z_t) 
+	  $$
+	  Thus, $d^ky/(dx)^k$ transforms like $y/x^k$. 
+
+* A **quasi-homogeneous vector field** is defined by the condition 
+  $$
+  \deg \frac{\partial}{\partial x_i} = -\deg x_i
+  $$
+
 
 #  Links
 * [[Ordinary Differential Equations by Arnold|Arnold]]

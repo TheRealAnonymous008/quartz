@@ -37,6 +37,7 @@
 
 
 * *The amount of information in a message is actually a property of the receiver (observer) and not of the sender (or the observed)*
+	* Another way to say this, the same message (data) can be interpreted differently by different systems and thus contain different amounts of information based on what the system expects.
 
 * **Knowledge** can be defined as the cumulative expectations with which a system moves into the future. It is the internal structure that *matches the capacity of the system to dissipate flows in a steady-state equilibrium*. 
 	* Another way to put it: It is the fit between the system's expectation and the actual state of the environment. 

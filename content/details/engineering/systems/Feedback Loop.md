@@ -23,6 +23,12 @@
 	* A quantity growing exponentially toward a constraint or limit reaches that limit in a surprisingly short time.
 	* If the physical constraint is higher, the growth loop will elude the constraint loop and the convergence to the limit will be slower. 
 
+# Control
+* Feedback loops are the basis of [[Cybernetics|control]] for systems.
+	* **Open Loop Control** involves a controller simply issuing a command to a process and the process carries out the command. *This type of control has no feedback loop*
+	* **Closed Loop Control** involves the presence of a feedback loop where flows are monitored and adjusted based on desired performance.
+* A form of feedback control involves maintaining homeostasis -- maintaining a stable, healthy state for the system.
+
 # Links 
 * [[Thinking in Systems by Meadows]] - Ch. 1 -2 
 * [[Principles of Systems Science by Mobus and Kalton]]

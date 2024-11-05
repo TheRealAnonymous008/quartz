@@ -39,6 +39,7 @@
 	* The conceptual model is a [[Complex Systems|complex system]]. Higher level concepts are composed of interrelated lower level concepts. Lower level concepts can be a part of multiple higher level concepts. 
 	* The dynamics of this conceptual model is encompassed with a complex network between concepts -- both in the same level as well as higher and lower levels of organization.
 
+* The ability to form time-lagged linkages, that is to "causally link" or correlate two events, is a foundation for the emergence of "imagination".
 # Systems as Models 
 * Systems are [[The Psychopathology of Everyday Things|conceptual models]] for the world around us. They usually have a strong congruence with the world. However, they often fall short of [[False Priors|representing]] the world fully
 	* Systems fool us by presenting themselves as a series of events.
