@@ -19,6 +19,10 @@
 		  $x$ can be normalized to be between $0$ and $1$. 
 	* One thing to be wary of is any visual artifact due to the noise function used
 		* *Each term in an octave may overlap with each other and produce artifacts*. 
+	* Note: *Perlin Noise is not uniformly distributed*. It roughly follows a [[Probability Distributions Zoo|Gaussian Distribution]].
+
+
+* [More Noise Functions](https://www.decarpentier.nl/scape-procedural-basics). These are typically build off of Perlin Noise
 
 * For maps, we can make use of curves (i.e., exponentiation curves) to exaggerate differences between troughs and crests.
 * Generate [[Climate|biomes and climates]] using multiple maps that are related to each other. 

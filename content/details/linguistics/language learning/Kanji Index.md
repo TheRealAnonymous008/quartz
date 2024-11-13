@@ -2,11 +2,13 @@
 | Kanji | Meaning                                                                            |
 | ----- | ---------------------------------------------------------------------------------- |
 | 上     | Above; Up                                                                          |
+| 下     | Below; Down; Descend; Give; Lower; Inferior                                        |
 | 人     | Person                                                                             |
 | 今     | Now; The Present                                                                   |
 | 入     | Enter                                                                              |
 | 全     | Complete                                                                           |
 | 勉     | Exertion; Endeavor; Encourage; Strive; Make Effort; Diligent                       |
+| 北     | North                                                                              |
 | 口     | Mouth                                                                              |
 | 国     | Country                                                                            |
 | 外     | Outside                                                                            |
@@ -16,6 +18,7 @@
 | 家     | House; Home; Family; Professional; Expert; Performer                               |
 | 家     | House; Home; Family; Professional; Expert; Performer                               |
 | 寝     | Lie down; Sleep; Rest; Bed; Remain Unsold                                          |
+| 川     | Stream; River                                                                      |
 | 帰     | Homecoming; Arrive At; Lead To; Result In                                          |
 | 庭     | Courtyard; Garden; Yard                                                            |
 | 強     | Strong                                                                             |
@@ -26,24 +29,31 @@
 | 映     | Reflect; Reflection; Projection                                                    |
 | 時     | Time                                                                               |
 | 晩     | Night; Nightfall                                                                   |
+| 曜     | Weekday                                                                            |
 | 書     | Write                                                                              |
 | 朝     | Morning; Dynasty; Regime; Epoch; Period; (North) Korea                             |
+| 木     | Tree; Wood; Timber                                                                 |
 | 末     | End; Close; Tip; Powder; Posterity                                                 |
+| 本     | Book, Present (adj); Main; Origin; True; Real; Counter for long cylindrical things |
 | 来     | Come; Due; Next; Cause; Become                                                     |
 | 校     | Exam; School; Printing; Proofo; Correction                                         |
 | 楽     | Music; Comfort; Ease                                                               |
 | 母     | Mother                                                                             |
 | 毎     | Every                                                                              |
 | 水     | Water                                                                              |
+| 河     | River                                                                              |
+| 火     | Fire                                                                               |
 | 然     | Well                                                                               |
 | 父     | Father                                                                             |
 | 生     | Birth; Life; Genuine                                                               |
 | 男     | Man                                                                                |
 | 画     | Brush Stroke; Picture                                                              |
 | 聞     | Hear; Ask; Listen                                                                  |
+| 聞     | Hear; Ask; Listen                                                                  |
 | 茶     | Tea                                                                                |
 | 行     | Go  / Going; Journey; Carry Out; Conduct; Act; Line; Row; Bank                     |
 | 見     | See; Hopes; Chances; Idea; Opinion; Look At; Visible                               |
+| 角     | Angle; Corner; Square; Horn; Antlers                                               |
 | 言     | Say                                                                                |
 | 話     | To speak; To talk                                                                  |
 | 誌     | Document; Records                                                                  |
@@ -55,23 +65,15 @@
 | 金     | Gold                                                                               |
 | 雑     | Miscellaneous                                                                      |
 | 雨     | Rain                                                                               |
+| 鞄     | Suitcase; Bag; Briefcase                                                           |
 | 音     | Sound; Noise                                                                       |
 | 食     | Eat                                                                                |
 | 飯     | Meal; Boiled Rice                                                                  |
 | 飯     | Daytime; Noon                                                                      |
 | 飲     | Drink; Smoke; Take                                                                 |
 | 駅     | Station                                                                            |
-| 角     | Angle; Corner; Square; Horn; Antlers                                               |
-| 鞄     | Suitcase; Bag; Briefcase                                                           |
-| 火     | Fire                                                                               |
-| 曜     | Weekday                                                                            |
-| 川     | Stream; River                                                                      |
-| 河     | River                                                                              |
-| 木     | Tree; Wood; Timber                                                                 |
-| 聞     | Hear; Ask; Listen                                                                  |
-| 北     | North                                                                              |
-| 本     | Book, Present (adj); Main; Origin; True; Real; Counter for long cylindrical things |
-| 下     | Below; Down; Descend; Give; Lower; Inferior                                        |
+| 先     | Before; Ahead; Previous; Future; Precedence                                        |
+| 小     | Little; Small                                                                      |
 
 # Links
 * [Wanikani](https://www.wanikani.com/kanji/%E8%B5%B7) - Kanji resource

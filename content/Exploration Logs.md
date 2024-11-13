@@ -1,5 +1,3 @@
-
-
 # Topic Queue
 * [Screaming Insects Algorithm](https://www.youtube.com/watch?v=Yu7sF9rcVJY)
 * [Look more into Sparse Autoencoder](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
@@ -9,7 +7,7 @@
 * [Demo and Writeup for the AI of a Tactical Top Down Shooter](https://www.gamedev.net/blogs/entry/2267533-close-quarters-development-realistic-combat-ai-part-i/)
 * [Final Fantasy VII - Game AI Writeup](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/31903)
 * [Predictive Aiming](https://yal.cc/simplest-possible-predictive-aiming/)
-* [RAMBO Attack](https://www.youtube.com/watch?v=ihtAijebU-M) - an attack involving writing to RAM and picking up on the EM signals emitted. 
+
 
 
 # Paper Queue
@@ -30,12 +28,13 @@
 * Ma et al. (2024) [Foundation Methods for Music -- A survey](https://arxiv.org/pdf/2408.14340v2)
 
 # Backlogs
+* Note, some entries in [[Trivia]] are also interesting.
+
 * [[Fuzzy Computation]] and Fuzzy Logic
 * [[Numerical Methods]] 
 	* ODEs
 	* PDEs
 * [[Theory of Computation]]
-* Cursory Philosophy -- Philosophical Questions
 * [[Rigid Body Simulation]] - Nonpenetration constraints
 * Japanese Mythology
 * Algebraic Graph Theory
@@ -46,6 +45,7 @@
 * [[Code Complete by McConnell]] - Resume Ch. 10
 * [[Group Theory]] - advanced topics
 * [[Philosophy]] - read through [[A New History of Western Philosophy  By Anthony Kenny]] 
+	* Cursory Philosophy -- [[Philosophical Questions]]
 
 * [[Factory Physics]] - Workforce Planning.
 * [[Virtues and their Vices by Kevin and Craig]]  -Cardinal Virtues, Intellectual Virtues, Theological Virtues
@@ -55,8 +55,6 @@
 * [[Drawing on the Right Side of the Brain by Edwards]] - Resume Ch. 8
 * [[Ordinary Differential Equations by Arnold]] - Ch. 6 (but restart all of Part 1) with better math background
 
-
-# Interesting Topics
 * [HEMA](https://wiktenauer.com/wiki/Main_Page)
 * Extreme Performance Artists. Prompted by [this](https://www.youtube.com/watch?v=GrBZuCQAPAw) 
 * [Dramaturgy](https://en.wikipedia.org/wiki/Dramaturgy_(sociology))

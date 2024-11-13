@@ -50,5 +50,7 @@
 
 * The same neural clusters that are used in sensory perception are used in conceptual imagining.
 * Storytelling is really what the brain does. We experience the world as a sequence of events that flow, generally, from one to the next over time. When we try to communicate with others and with ourselves, we actually construct stories
+
+* [RAMBO Attack](https://www.youtube.com/watch?v=ihtAijebU-M) - an attack involving writing to RAM and picking up on the EM signals emitted. 
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

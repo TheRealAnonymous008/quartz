@@ -220,9 +220,10 @@
 
 # ke / ge
 
-| Kanji | Word | Meaning   |
-| ----- | ---- | --------- |
-|       | けえざい | Economics |
+| Kanji | Word | Meaning                                                                         |
+| ----- | ---- | ------------------------------------------------------------------------------- |
+|       | けえざい | Economics                                                                       |
+|       | けす   | To erase; To delete; To cross off; To turn off power; To extinguish; To put out |
 
 
 # ko / go
@@ -237,12 +238,14 @@
 |       | ごしゅじん   | Your/ Her Husband                |
 
 # sa / za
-| Kanji | Word | Meaning    |
-| ----- | ---- | ---------- |
-|       | さい   | Age (noun) |
-|       | さいふ  | Wallet     |
-|       | さかな  | Fish       |
-| 雑誌    | ざっし  | Magazine   |
+| Kanji | Word | Meaning                                           |
+| ----- | ---- | ------------------------------------------------- |
+|       | さい   | Age (noun)                                        |
+|       | さいふ  | Wallet                                            |
+|       | さかな  | Fish                                              |
+| 雑誌    | ざっし  | Magazine                                          |
+| 先     | さき   | Previous; Prior; Former; Some time ago; Preceding |
+|       | さあ   | (interjection) Well . . .                         |
 
 # shi / ji
 | Kanji | Word                                        | Meaning                                                                                                     |
@@ -282,13 +285,16 @@
 | 食べる   | たべる  | To eat<br><br>食 (eat) |
 |       | たいてい | Usually               |
 |       | タクシー | Taxi                  |
-# chi / ji
+|       | たてもの | Building              |
+# chi 
+
 | Kanji | Word  | Meaning                                                                                                             |
 | ----- | ----- | ------------------------------------------------------------------------------------------------------------------- |
 |       | ちゅうごく | China                                                                                                               |
 |       | ちょっと  | (adv.) A little<br><br>It is also commonly used as a polite refusal, translating to "impossible" or "inconvenient". |
-|       | じしょ   | Dictionary; Lexicon                                                                                                 |
-# tsu / zu
+|       | ちかい   | Near; Close; Short distance                                                                                         |
+| 小さな   | ちいさな  | Little; Small; Tiny<br><br>小 (little; small)                                                                        |
+# tsu 
 
 # te / de
 | Kanji | Word | Meaning                                                                                                                  |
@@ -342,6 +348,8 @@
 | 早い    | はやい    | Early<br><br>早 (early)                   |
 |       | はれ     | Clear Weather                            |
 |       | はじく    | To play a stringed instrument (or piano) |
+|       | バス     | Bus                                      |
+|       | パン     | Bread                                    |
 # hi / pi / bi
 | Kanji | Word  | Meaning                                |
 | ----- | ----- | -------------------------------------- |
@@ -349,11 +357,13 @@
 | 昼ご飯   | ひるごはん | Lunch<br><br>飯 (Noon) 飯 (Meal)         |
 |       | ひろい   | Spacious; Vast; Wide                   |
 |       | ひく    | To play a stringed instrument or piano |
+|       | びょうき  | Illness; Disease; Sickness             |
 
 # fu / pu / bu
 | Kanji | Word | Meaning |
 | ----- | ---- | ------- |
 |       | ふゆ   | Winter  |
+|       | ぶたにく | Pork    |
 
 # he / pe  / be
 |       | ペン      | Pen                                      |

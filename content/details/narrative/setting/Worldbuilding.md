@@ -49,6 +49,8 @@
 	* Highlight the interesting things of the world, and then how they impact the culture of the world.
 	* Importantly, have everything *be interconnected*. Run with the logical consequences of the core focus of the worldbuilding.
 
+* [The Tiffany Problem](https://www.youtube.com/watch?v=uHCPHXdcvg0) - Things that are historically accurate tend to sound anachronistic.
+	* The implication for worldbuilding is that the names for these things will be jarring or immersion breaking.
 # Links
 * [[The Planet Construction Kit by Rosenfelder]]
 * [[Fantasy Maps]]
