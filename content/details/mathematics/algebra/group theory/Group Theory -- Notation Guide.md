@@ -27,6 +27,8 @@
 ***
 * $G\times H$ - the direct product of $G$ and $H$.
 * $G\oplus H$ - the direct sum of $G$ and $H$ (assuming both are Abelian)
+* $GH$ - subgroup product of $G$ and $H$.
+* $G\vee H$ - the join of $G$ and $H$
 ***
 * $\sigma$ - permutation
 * $\sigma^k$ - permutation applied $k$ times. (negative power means reversing the permutation)

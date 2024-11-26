@@ -17,7 +17,9 @@
 	* (*Fraleigh 14.1*) One natural choice for $N$ is the [[Group Homomorphism|Kernel]] of the homomorphism $\phi:G\to G'$
 
 * For any group $G/\{e\} \cong G$ and $G/G \cong \{e\}$
+* *The larger the normal group $N$, the smaller the factor group $G/N$*
 
+=
 * (*Fraleigh 14.9*)  Let $N\unlhd G$. Then $\gamma : G\to G/N$ where 
   $$
   \gamma(x)=xN

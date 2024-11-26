@@ -28,6 +28,31 @@
 	* $\phi$ is a homomorphism
 	* $\text{Ker}(\phi) = \{e\}$
 	* $\phi$ is onto.
+
+* (*Fraleigh 34.5*) **Second Isomorphism Theorem**  Let $H\le G$ and $N\unlhd G$. Then 
+  $$
+  (HN)/N \cong H/(H\cap N)
+  $$
+  (see [[Normal Group]])
+	* *Idea*: Let $\gamma$ be the canonical homomorphism for $G$ such that $N=\text{Ker}(\gamma)$ We have the following commutative diagram:  
+![[Second Isomorphism Theorem.png|500]]
+<figcaption> Diagrammatic Proof Sketch of the Second Isomorphism Theorem. Original Image</figcaption>
+
+* (*Fraleigh e34.9*) Let $K,L\unlhd G$ with $K\vee L = G$ and $K\cap L=\set{e}$. Then 
+  $$
+  G/K\cong L \ \ \ \ \  G/L\cong K
+  $$
+
+* (*Fraleigh 34.7*) **Third Isomorphism Theorem**. Let $H,K\unlhd G$ with $K\le H$. Then 
+  $$
+  G/H \cong (G/K) / (H/K)
+  $$
+  (see [[Factor Group]]) 
+	* *Idea*: 
+
+![[Third Isomorphism Theorem.png|500]]
+<figcaption> Diagrammatic Proof Sketch of the Third Isomorphism Theorem. Image taken from Fraleigh </figcaption>
+
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]
 * [[Fundamental Constructs of Group Theory]]

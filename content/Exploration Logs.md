@@ -1,3 +1,8 @@
+* [A better way to handle worldbuilding in games is to make the player care about the setting -- treat the world not just as a backdrop but as a world that the player inhabits and interacts with. Make players care about the world rather than giving them all the answers.](https://www.youtube.com/watch?v=bups0ZUQdvc)
+
+* [In terms of game balance, sometimes it is in our interest as designers to favor the less skilled player. This can make the experience as a whole more fun and engaging](https://www.youtube.com/watch?v=Fs2drSTqd-0)
+ 
+* [Introversion Games - Subversion](https://www.youtube.com/watch?v=1giu6sMnAxY)
 # Topic Queue
 * [Screaming Insects Algorithm](https://www.youtube.com/watch?v=Yu7sF9rcVJY)
 * [Look more into Sparse Autoencoder](https://www.youtube.com/watch?v=9-Jl0dxWQs8)

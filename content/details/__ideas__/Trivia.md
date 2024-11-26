@@ -52,5 +52,7 @@
 * Storytelling is really what the brain does. We experience the world as a sequence of events that flow, generally, from one to the next over time. When we try to communicate with others and with ourselves, we actually construct stories
 
 * [RAMBO Attack](https://www.youtube.com/watch?v=ihtAijebU-M) - an attack involving writing to RAM and picking up on the EM signals emitted. 
+
+* [Jerusalem Syndrome](https://www.youtube.com/watch?v=rr-x_6sQVlw) - a psychological phenomenon associated with tourists visiting Jerusalem.
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

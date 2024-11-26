@@ -103,6 +103,9 @@
 * Motivate users through visible indicators of progress or even artificial progress. 
 * Signify additional content to motivate content discovery. 
 
+
+# Miscellaneous Techniques
+* Because we are more attuned to contrast, one way to assess the readability of a UI is to turn it into grayscale.
 # Links 
 * [Laws Of UX](https://lawsofux.com) - primary source 
 * [[Framing Effect]] - some laws play on a particular way of framing. 

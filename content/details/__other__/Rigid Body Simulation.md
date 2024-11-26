@@ -10,8 +10,7 @@
   The dynamics follow that of [[Newtonian Mechanics|Newton]] (see the [[Ordinary Differential Equation|ODE]] below)
   $$
   \dot X(t) = \begin{bmatrix}
-  v(t) \\ 
-  F(t) / m
+  v(t) & F(t) / m
   \end{bmatrix}
   $$
   With initial conditions $x(0)$ and $v(0)$. 
@@ -49,7 +48,7 @@
   0 & -a_z & a_y \\ 
   a_z & 0 & -a_x \\ 
   -a_y & a_x & 0
-  \end{bmatrix} = a\times b
+  \end{bmatrix} b= a\times b
   $$
   And we apply this column wise so that
   $$
@@ -58,9 +57,9 @@
   \end{bmatrix}
   $$
 
-* To calculate mass, we *conceptually assume that the rigid body is composed of $N$ particles*. Let $r_{0i}$ denote  the location of the particle in rigid body space.  The dynamics of this particle are the same as that of the rigid body
+* To calculate mass, we *conceptually assume that the rigid body is composed of $N$ particles*. Let $r_{i}$ denote  the location of the particle in rigid body space.  The dynamics of this particle are the same as that of the rigid body
   $$
-  r_i(t) = R(t) r_0 + x(t) 
+  r_i(t) = R(t) r_{0i} + x(t) 
   $$
   The total mass $M$ is simply the sum of all individual particle masses $m_i$
   $$
@@ -127,7 +126,7 @@
 	  $$
 	  F(t) = \dot P(t) 
 	  $$
-* The angular momentum of the body is defined ass
+* The angular momentum of the body is defined as
   $$
   L(t) = I(t) \omega(t) 
   $$

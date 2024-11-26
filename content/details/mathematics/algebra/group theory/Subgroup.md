@@ -30,6 +30,14 @@
 	* If two different sequences of arc types starting from $g$ lead to the same vertex $h$, then those same arc types starting from any vertex $u$ will lead to $v$. 
 	  
 	  If $gq=h, gr=h$, then $uq=ug^{-1}h=ur$
+# Misc
+* If $H,K\le G$ then we define
+  $$
+  HK = \set{hk\mid h\in H, k\in K}
+  $$
+* The **join** of  subgroups $H,K\le G$ is denoted $H\vee K$ and is defined as the intersection of all subgroups of $G$ that contain $HK$.
+	* $H\vee K$ is the smallest subgroup of $G$ containing $HK$ as well as both $H$ and $K$.
+
 # Links
 * [[Fundamental Constructs of Group Theory]]
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

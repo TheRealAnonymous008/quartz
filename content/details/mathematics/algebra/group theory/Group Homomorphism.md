@@ -52,26 +52,29 @@
 * (*Fraleigh 13.18*) A homomorphism is one to one if and only if $\text{Ker}(\phi)=\{e\}$. 
 	* *Intuition*: Every element $x\in G$ can be written as $xh$ where $h\in\text{Ker}(\phi)$. Clearly a homomorphism can only be one-to-one if and only if $\phi(xh)$ maps to a unique element in $\phi(G)$, if and only if $\phi(x)\phi(h)$ are unique, if and only if $\phi(h)$ is unique, if and only if $\phi(h)=e'$ and $e'$ only. That is, $h=e$ and so $\text{Ker}(\phi)=\set{e}$
 
-* (*Fraleigh 14.11*) **The Fundamental Homomorphism Theorem**.  Every [[Factor Group]] gives rise to a natural homomorphism.
+* (*Fraleigh 14.11*) **The Fundamental Homomorphism Theorem / First Isomorphism Theorem**.  Every [[Factor Group]] gives rise to a natural homomorphism.
 
   Let $\phi:G\to G'$ be a homomorphism with kernel $H$. 
-  
-  (*Fraleigh 13.20*) $\text{Ker}(\phi)$ is a [[Normal Group|normal subgroup]] subgroup of $G$
   
   Then $\phi(G)$ is a group and $\mu:G/H\to \phi(G)$ given by $\mu(gH)=\phi(g)$ is an isomorphism. In other words 
   $$
   G/\text{Ker}(\phi) \cong \phi(G)
   $$
-  If $\phi$ is onto, then  the isomorphism changes to 
-  $$
-  G/\text{Ker}(\phi) \cong G'
-  $$
-  
   If $\gamma:G\to G/H$ is the homomorphism given by $\gamma(g)=gH$, then $\forall g\in G$
   $$
   \phi(g)=\mu\gamma(g)
   $$
-  We refer to $\mu$ and $\gamma$ as the **natural isomorphism** and **natural homomorphism** respectively. 
+  We refer to $\mu$ and $\gamma$ as the **natural (canonical) isomorphism** and **natural (canonical) homomorphism** respectively.
+	*   If $\phi$ is onto, then  the isomorphism changes to 
+	  $$
+	  G/\text{Ker}(\phi) \cong G'
+	  $$
+	* (*Fraleigh 13.20*) $\text{Ker}(\phi)$ is a [[Normal Group|normal subgroup]] of $G$
+	* (*Fraleigh 34.3*) Let $N\unlhd G$ and $\gamma : G\to G/N$ be the canonical homomorphism. Then the map $\phi$ from the set of normal subgroups of $G$ containing $N$ to the set of normal subgroups of $G/N$ given by $\phi(L)=\gamma[L]$ is bijective. 
+
+![[First Isomorphism Theorem.png|500]]
+<figcaption> First Isomorphism Theorem. Image taken from Fraleigh
+</figcaption>
 
 * An [[Group Isomorphism|isomorphism]] is a homomorphism that is bijective.
 * An **endomorphism** is a homomorphism from $G$ to itself.

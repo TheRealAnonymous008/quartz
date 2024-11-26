@@ -14,6 +14,8 @@
 * [Shipworms](https://www.youtube.com/watch?v=zj31k1Wv0hQ) 
 
 * [Parasitoid Wasps](https://www.youtube.com/watch?v=ANyJVMhOpkk)  
+
+* [Mud Dauber](https://en.wikipedia.org/wiki/Mud_dauber) - their nests are particularly interesting. Crack them open and they may house spiders.
 # Links 
 * [zefrank](https://www.youtube.com/@zefrank) - has a fantastic series of videos about specific animals delivered in both educational and entertaining fashion. 
 * [Bizarre Beasts](https://www.youtube.com/@BizarreBeasts)

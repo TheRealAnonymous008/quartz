@@ -25,5 +25,16 @@
 * A **maximal normal subgroup** of a group $G$ is a normal subgroup $M\ne G$ such that there is no proper normal subgroup $M< N\unlhd G$
 * (*Fraleigh 15.18*) $M$ is the maximal normal [[Subgroup]] of $G$ if and only if $G/M$ is simple.
 
+* (*Fraleigh 34.4*) If $N\unlhd G$ and $H\le G$, then 
+  $$
+  H\vee  N = NH = HN
+  $$
+  Also if $H$ is also normal in $G$, then $HN$ is also normal in $G$. 
+	* *Idea*: To show the theorem, show that $NH$ is a subgroup of $G$. Since $H\vee N$ is the smallest subgroup containing $NH$, clearly if $NH$ is a subgroup $H\vee N = NH$. 
+
+* Let $H,K\unlhd G$ and $K\le H$.  Then 
+  $$
+  H/K \unlhd G/K
+  $$
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]
