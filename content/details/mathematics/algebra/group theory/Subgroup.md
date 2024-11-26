@@ -37,6 +37,7 @@
   $$
 * The **join** of  subgroups $H,K\le G$ is denoted $H\vee K$ and is defined as the intersection of all subgroups of $G$ that contain $HK$.
 	* $H\vee K$ is the smallest subgroup of $G$ containing $HK$ as well as both $H$ and $K$.
+* [[Subgroup Series]]
 
 # Links
 * [[Fundamental Constructs of Group Theory]]

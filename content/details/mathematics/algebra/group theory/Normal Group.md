@@ -36,5 +36,38 @@
   $$
   H/K \unlhd G/K
   $$
+
+
+
+* (*Fraleigh 35.10*) **Zassenhaus Lemma / Butterfly Lemma**. Let $H,K\le G$ and $H^\ast \unlhd H$ and $K^\ast \unlhd K$. Then
+	* $H^\ast (H\cap K^\ast) \unlhd H^\ast (H\cap K)$ 
+	* $K^\ast (H^\ast \cap K) \unlhd K^\ast (H\cap K)$
+	* $(H^\ast \cap K) (H\cap K^\ast) \unlhd H\cap K$
+	* 
+	  $$
+	  \begin{split}
+	  H^\ast(H\cap K) / H^\ast(H\cap K^\ast) &\cong K^\ast(H\cap H)/K^\ast(H^\ast \cap K) \\ 
+	  & \cong (H\cap K)/[(H^\ast \cap K)(H\cap K^\ast)]
+	  \end{split}
+	  $$
+	* *Proof*: Let $H,K$ and $H^\ast, K^\ast$ be defined as the theorem. The statements about the normal subgroup relations immediately follow from (*Fraleigh 34.4*). Let $L=(H^\ast \cap K)(H\cap K^\ast)$
+	  
+	  To show the isomorphism, define the [[Group Homomorphism|homomorphism]] $\phi: H^\ast (H\cap K) \to (H\cap K)/L$ such that for $h\in H^\ast$ and $x\in H\cap K$, we have
+	  $$
+	  \phi(hx) = xL
+	  $$
+	  It is easy to show that $\phi$ is a well-defined homomorphism.  It is also onto.  Thus 
+	  $$
+	  \phi(Hx) = xL = L \iff x\in L \vee hx\in H^\ast L=H^\ast (H\cap K^\ast)
+	  $$
+	  Therefore $\text{Ker}(\phi) = H^\ast (H\cap K^\ast)$. The First Isomorphism Theorem guarantees the isomorphism.
+
+![[Butterfly Lemma.png|500]]
+<figcaption> Butterfly Lemma. Bold Lines indicate Normal Subgroup relations. The quotient groups formed from these relations are isomorphic. Image taken from Fraleigh</figcaption>
+
+
+# Misc
+* [[Subgroup Series]]
+
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

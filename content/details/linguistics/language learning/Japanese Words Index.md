@@ -43,6 +43,7 @@
 |       | あらう              | To wash                                                                                               |
 |       | ある               | To be (as in for inanimate objects).<br><br>Alternatively to exist, to live, to have, to be located.  |
 |       | あるく              | To walk                                                                                               |
+|       | あお               | Blue; Green                                                                                           |
 
 # i 
 | Kanji | Word            | Meaning                                                                                                                                         |
@@ -273,12 +274,13 @@
 |       | しょうゆ                                        | Soy sauce                                                                                                   |
 
 # su / zu
-| Kanji | Word | Meaning                                                        |
-| ----- | ---- | -------------------------------------------------------------- |
-|       | スポーツ | Sports                                                         |
-|       | する   | To do                                                          |
-|       | すむ   | To live (of humans); To reside; To inhabit; To dwell; To abide |
-|       | すき   | Liking; Fondness; Love                                         |
+| Kanji | Word | Meaning                                                                               |
+| ----- | ---- | ------------------------------------------------------------------------------------- |
+|       | スポーツ | Sports                                                                                |
+|       | する   | To do                                                                                 |
+|       | すむ   | To live (of humans); To reside; To inhabit; To dwell; To abide                        |
+|       | すき   | Liking; Fondness; Love                                                                |
+
 
 # se / ze
 | Kanji | Word | Meaning                                                                                                                                                            |
@@ -366,6 +368,7 @@
 | Kanji | Word | Meaning                                  |
 | ----- | ---- | ---------------------------------------- |
 | 寝る    | ねる   | To sleep; To go to sleep<br><br>寝(sleep) |
+|       | ねこ   | Cat                                      |
 # no
 | Kanji | Word | Meaning                                                                   |
 | ----- | ---- | ------------------------------------------------------------------------- |
@@ -377,6 +380,10 @@
 # ha / pa / ba
 | Kanji | Word   | Meaning                                                                                                                 |
 | ----- | ------ | ----------------------------------------------------------------------------------------------------------------------- |
+|       | パーティー  | Party                                                                                                                   |
+|       | はい     | Yes (polite). <br><br>May also mean "Here" (as in I am present)<br><br>OK (used to get attention prior to an utterance) |
+|       | はいざら   | Ash tray                                                                                                                |
+|       | はがき    | Postcard; Memo; Note; Card                                                                                              |
 |       | はじく    | To play a stringed instrument (or piano)                                                                                |
 |       | バス     | Bus                                                                                                                     |
 |       | はたち    | 20 years old; Young Adult                                                                                               |
@@ -386,14 +393,11 @@
 | 速い    | はやい    | Quick; Fast; Hasty; Brisk                                                                                               |
 |       | はる     | To stick; To link (as in a URL); To paste; To affix                                                                     |
 |       | はれ     | Clear Weather                                                                                                           |
+|       | はれる    | To be sunny; To clear up; To stop raining; To refresh (spirits); To be cleared (i.e., of suspicion)                     |
 |       | パン     | Bread                                                                                                                   |
 |       | ばんごお   | Number                                                                                                                  |
 | 晩ご飯   | ばんごはん  | Dinner<br><br>晩 (Night) 飯 (Meal)                                                                                        |
 |       | ハンバーガー | Hamburger                                                                                                               |
-|       | はがき    | Postcard; Memo; Note; Card                                                                                              |
-|       | はい     | Yes (polite). <br><br>May also mean "Here" (as in I am present)<br><br>OK (used to get attention prior to an utterance) |
-|       | はれる    | To be sunny; To clear up; To stop raining; To refresh (spirits); To be cleared (i.e., of suspicion)                     |
-|       | パーティー  | Party                                                                                                                   |
 # hi / pi / bi
 | Kanji | Word  | Meaning                                |
 | ----- | ----- | -------------------------------------- |
@@ -402,7 +406,8 @@
 |       | ひろい   | Spacious; Vast; Wide                   |
 |       | ひく    | To play a stringed instrument or piano |
 |       | びょうき  | Illness; Disease; Sickness             |
-| 一人    | ひとり   | One person                             |
+| 一人    | ひとり   | One person<br><br>一 (one) 人 (person)   |
+| 人     | ひと    | Person                                 |
 
 # fu / pu / bu
 | Kanji | Word | Meaning                                  |
@@ -413,10 +418,12 @@
 |       | ふとい  | (1) Fat<br>(2) Daring; Shameless; Brazen |
 
 # he / pe  / be
-|       | ペン      | Pen                                      |
-| ----- | ------- | ---------------------------------------- |
 | Kanji | Word    | Meaning                                  |
+| ----- | ------- | ---------------------------------------- |
 | 勉強する  | べんきょうする | To study<br><br>勉 (endeavor)  強 (strong) |
+|       | ページ     | Page                                     |
+|       | ペン      | Pen                                      |
+
 # ho / po / bo
 | Kanji | Word | Meaning                                                                                  |
 | ----- | ---- | ---------------------------------------------------------------------------------------- |
@@ -443,10 +450,12 @@
 | 耳     | みみ   | Ear; Hearing; Edge; Crust                   |
 |       | みどり  | Green                                       |
 | 水     | みず   | Water (cold, fresh)                         |
+|       | みじかい | Short                                       |
 # mu
-| Kanji | Word | Meaning |
-| ----- | ---- | ------- |
-|       | むら   | Village |
+| Kanji | Word | Meaning                                                                               |
+| ----- | ---- | ------------------------------------------------------------------------------------- |
+|       | むら   | Village                                                                               |
+|       | むこう  | Over there; That way; Far away; Beyond; Opposite Side; Other side; Opposite Direction |
 # me 
 | Kanji | Word | Meaning       |
 | ----- | ---- | ------------- |
@@ -454,9 +463,9 @@
 |       | メニュー | Menu          |
 # mo
 
-| Kanji | Word | Meaning |
-| ----- | ---- | ------- |
-|       | もん   | Gate    |
+| Kanji | Word | Meaning                                                                                           |
+| ----- | ---- | ------------------------------------------------------------------------------------------------ |
+| 門     | もん   Gate, particularly that of Japanese style in Buddhist / Shinto temples and Japanese architecture e  |
 
 # ya
 | Kanji | Word | Meaning             |

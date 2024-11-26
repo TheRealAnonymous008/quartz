@@ -52,7 +52,7 @@
 * (*Fraleigh 13.18*) A homomorphism is one to one if and only if $\text{Ker}(\phi)=\{e\}$. 
 	* *Intuition*: Every element $x\in G$ can be written as $xh$ where $h\in\text{Ker}(\phi)$. Clearly a homomorphism can only be one-to-one if and only if $\phi(xh)$ maps to a unique element in $\phi(G)$, if and only if $\phi(x)\phi(h)$ are unique, if and only if $\phi(h)$ is unique, if and only if $\phi(h)=e'$ and $e'$ only. That is, $h=e$ and so $\text{Ker}(\phi)=\set{e}$
 
-* (*Fraleigh 14.11*) **The Fundamental Homomorphism Theorem / First Isomorphism Theorem**.  Every [[Factor Group]] gives rise to a natural homomorphism.
+* (*Fraleigh 14.11, Fraleigh 34.2*) **The Fundamental Homomorphism Theorem / First Isomorphism Theorem**.  Every [[Factor Group]] gives rise to a natural homomorphism.
 
   Let $\phi:G\to G'$ be a homomorphism with kernel $H$. 
   

@@ -83,6 +83,7 @@
 | 飯     | Daytime; Noon                                                                      |
 | 飲     | Drink; Smoke; Take                                                                 |
 | 駅     | Station                                                                            |
+| 門     | Gate; Counter for Cannons                                                          |
 
 # Links
 * [Wanikani](https://www.wanikani.com/kanji/%E8%B5%B7) - Kanji resource
