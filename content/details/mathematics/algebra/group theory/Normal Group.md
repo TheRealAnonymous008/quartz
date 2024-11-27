@@ -50,7 +50,9 @@
 	  & \cong (H\cap K)/[(H^\ast \cap K)(H\cap K^\ast)]
 	  \end{split}
 	  $$
-	* *Proof*: Let $H,K$ and $H^\ast, K^\ast$ be defined as the theorem. The statements about the normal subgroup relations immediately follow from (*Fraleigh 34.4*). Let $L=(H^\ast \cap K)(H\cap K^\ast)$
+	* *Proof*: Let $H,K$ and $H^\ast, K^\ast$ be defined as the theorem. Clearly all products involved are groups by (*Fraleigh 34.4*).  To show the normal subgroup relation, we must show that $(H\cap K^\ast)\unlhd (H\cap K)$ and similarly $(H^\ast \cap K)\unlhd (H\cap K)$. All normal subgroup relations in the theorem then follow immediately from (*Fraleigh 34.4*). 
+	  
+	  Let $L=(H^\ast \cap K)(H\cap K^\ast)$
 	  
 	  To show the isomorphism, define the [[Group Homomorphism|homomorphism]] $\phi: H^\ast (H\cap K) \to (H\cap K)/L$ such that for $h\in H^\ast$ and $x\in H\cap K$, we have
 	  $$
