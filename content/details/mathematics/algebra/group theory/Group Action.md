@@ -81,6 +81,17 @@
 	  $$
 	  \sum_{x\in X} \frac{1}{\text{Orb}_G(x)} = \sum_{O\in \mathcal{O}} \sum_{x\in O} \frac{1}{|O|} = \sum_{O\in \mathcal{O}} |O| \frac{1}{|O|} = \sum_{O\in \mathcal{O}}1 = |\mathcal{O}| =r
 	  $$ 
+	* Every element of $X$ is in precisely one orbit. Therefore 
+	  $$
+	  |X| = \sum_{\mathcal{O}} |\mathcal{O}|
+	  $$
+	* Every element of $X^g$ consists of one-element orbits in $X$. Therefore 
+	  $$
+	  |X| = |X^G| + \sum_{\mathcal{O}\notin X^g} |\mathcal{O}|
+	  $$
+	  Where $\mathcal{O}\notin X^g$ is notational shorthand for orbits with more than one element.
+
+
 # Links
 * [[Cosets, Group Indices]]
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

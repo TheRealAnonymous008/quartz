@@ -1,4 +1,4 @@
-* Let $(G,\ast)$ and $(H,\circ)$ be binary algebraic structures. A bijection $\phi: G\to H$ is an **isomorphism** if $\forall g_1,g_2,\in G$ 
+*** Let $(G,\ast)$ and $(H,\circ)$ be binary algebraic structures. A bijection $\phi: G\to H$ is an **isomorphism** if $\forall g_1,g_2,\in G$ 
   $$
   \phi(g_1\ast g_2)=\phi(g_1)\circ \phi(g_2)
   $$

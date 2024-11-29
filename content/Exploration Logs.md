@@ -3,6 +3,8 @@
 * [In terms of game balance, sometimes it is in our interest as designers to favor the less skilled player. This can make the experience as a whole more fun and engaging](https://www.youtube.com/watch?v=Fs2drSTqd-0)
  
 * [Introversion Games - Subversion](https://www.youtube.com/watch?v=1giu6sMnAxY)
+
+* [Coral Toxins can melt your eyeballs](https://www.youtube.com/watch?v=0IqXlhaGJm4)
 # Topic Queue
 * [Screaming Insects Algorithm](https://www.youtube.com/watch?v=Yu7sF9rcVJY)
 * [Look more into Sparse Autoencoder](https://www.youtube.com/watch?v=9-Jl0dxWQs8)

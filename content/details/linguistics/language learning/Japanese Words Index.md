@@ -28,10 +28,13 @@
 | ----- | ---------------- | ----------------------------------------------------------------------------------------------------- |
 |       | あいさつ             | Greeting                                                                                              |
 |       | アイスクリーム          | Ice Cream                                                                                             |
+|       | あお               | Blue; Green                                                                                           |
+|       | あける              | To open (a door, etc...); To unwrap; To open (for business); To empty; To clear out                   |
 | 朝     | あさ               | Morning                                                                                               |
-| 朝ご飯   | あさごはん            | Breakfast<br><br>朝 (Morning)  飯 (Meal)                                                                |
+| 朝ご飯   | あさごはん            | Breakfast<br><br>朝 / あさ (Morning)  飯 (Meal)                                                           |
 |       | あそぶ              | To play; To make a visit (for pleasure); To be idle; To do nothing                                    |
 | 新しい   | あたらしい            | New                                                                                                   |
+|       | あつい              | Hot (thing)                                                                                           |
 | 後     | あと               | (1) Behind<br>(2) Descendant; Successor; Heir                                                         |
 |       | あに               | Older brother; Eldest brother                                                                         |
 |       | あの               | That (Distal);<br><br>Um . . .                                                                        |
@@ -43,7 +46,6 @@
 |       | あらう              | To wash                                                                                               |
 |       | ある               | To be (as in for inanimate objects).<br><br>Alternatively to exist, to live, to have, to be located.  |
 |       | あるく              | To walk                                                                                               |
-|       | あお               | Blue; Green                                                                                           |
 
 # i 
 | Kanji | Word            | Meaning                                                                                                                                         |
@@ -74,6 +76,10 @@
 | 入れる   | いれる             | To put in; To admit; To employ; To hire<br><br>入 (enter) れる (spontaneous occurrence)                                                            |
 |       | いろ              | Color                                                                                                                                           |
 |       | いろいろ            | Various                                                                                                                                         |
+| 一日    | いちにち            | One day; First of the month                                                                                                                     |
+|       | いちばん            | First; Best; Number One                                                                                                                         |
+| 五日    | いつか             | Five Days; Fifth Day                                                                                                                            |
+|       | いっさくじつ          | Day before yesterday                                                                                                                            |
 
 # u
 | Kanji | Word | Meaning                                                               |
@@ -96,57 +102,60 @@
 | 映画    | えいが    | Movie; Film<br><br>映 (projection) 画 (picture) |
 |       | えいがかん  | Movie Theatre; Theatre; Cinema                |
 |       | えいご    | English (language)                            |
+|       | ええ     | Yes                                           |
 | 駅     | えき     | Station                                       |
 |       | エレベーター | Elevator                                      |
 |       | えんぴつ   | Pencil                                        |
 # o
-| Kanji | Word                           | Meaning                                                                                                                    |
-| ----- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-|       | おいしい                           | Delicious                                                                                                                  |
-| 多い    | おおい                            | Many; Numerous<br><br>多 (many)                                                                                             |
-| 大きい   | おおきい<br>おおきな                   | Big; Large; Great<br><br>おおきい has predictive and restrictive usage<br>おおきな is only restrictive .<br><br>大 (big)            |
-|       | おおぜい                           | Crowd (of people); Many people                                                                                             |
-| お母さん  | おかあ（さん）                        | Mother<br><br>Note that the "san" is a honorific.<br>母 (mother)                                                            |
-|       | おかし                            | Sweets ; Confections; Candy                                                                                                |
-| お金    | おかね                            | Money<br><br>金 (gold)                                                                                                      |
-| 起きる   | おきる                            | (1) To get up; To rise; To wake up<br><br>(2) To occur (usually of unfavorable incidents)<br><br>起 (Wake Up) きる (To start) |
-|       | おく                             | To put; To place; To leave behind; To do something in advance                                                              |
-|       | おくさん                           | (your) Wife; Wife; Married Lady; Madam                                                                                     |
-| お酒    | おさけ                            | Alcohol; Sake<br><br>酒 (Alcohol; Sake)                                                                                     |
-|       | おさら                            | Plate; Dish                                                                                                                |
-|       | おじいさん                          | Grandfather; Old Male Citizen<br><br>Note that the "san" is a honorific.                                                   |
-|       | おしえる                           | To teach; To tell; To inform; To Instruct                                                                                  |
-|       | おじさん                           | Uncle; Old Man; Mister<br><br>Note that the "san" is a honorific.                                                          |
-| 明日    | おした                            | Tomorrow<br><br>明 (bright light) 日 (day)                                                                                   |
-|       | おす                             | To push; To press; To stamp; To apply a seal                                                                               |
-|       | おそい                            | Slow; Late (as in late at night); Too late                                                                                 |
-| 茶     | おちゃ                            | Tea (usually green); Tea break; Tea Ceremony.<br><br>茶 (Tea)                                                               |
-|       | おてあらい                          | Bathroom; Toilet; Restroom; Lavatory                                                                                       |
-| お父さん  | おとう（さん）                        | Father<br><br>Note that the "san" is a honorific.<br><br>父 (father)                                                        |
-|       | おとうと                           | Younger Brother                                                                                                            |
-| 男     | おとこ                            | Man                                                                                                                        |
-| 男の子   | おとこのこ                          | Boy; Male Child; Baby Boy<br><br>男 (man)  のこ (child)                                                                       |
-|       | おととい<br><br>いっさくじつ<br><br>おとつい | Day before yesterday                                                                                                       |
-|       | おととし<br><br>いっさくねん             | Year before last                                                                                                           |
-| 大人    | おとな                            | Adult<br><br>大 (big) 人 (person)                                                                                            |
-|       | おなか                            | Stomach                                                                                                                    |
-|       | おなじ                            | Same; Identical; Equal; Uniform; Equivalent; Common origin; Changeless; Alike                                              |
-|       | おにい（さん）                        | Older Brother; Elder brother; Young lad; Mister<br><br>Note that the "san" is a honorific.                                 |
-|       | おねえ（さん）                        | Older Sister; Elder sister; Young lady; Miss<br><br>Note that the "san" is a honorific                                     |
-|       | おばあさん                          | Grandmother; Female senior citizen                                                                                         |
-|       | おばさん                           | Aunt; Old lady; Ma'am                                                                                                      |
-|       | おふろ                            | Bath                                                                                                                       |
-|       | おべんとう                          | Bento box / Japanese box lunch                                                                                             |
-|       | おぼえる                           | To remember; To recollect; To memorize<br><br>To feel                                                                      |
-|       | おまわりさん                         | (friendly term for a) Policeman                                                                                            |
-|       | おもい                            | Heavy; Massive; Serious; Important; Severe; Oppressed                                                                      |
-|       | おもしろい                          | Interesting; Amusing                                                                                                       |
-|       | およぐ                            | To swim                                                                                                                    |
-|       | おりる                            | To descend; To go down; To get off; To disembark; To dismount                                                              |
-|       | おわる                            | To finish                                                                                                                  |
-| 音楽    | おんがく                           | Music; Musical Movement<br><br>音 (sound) 楽 (music; ease)                                                                   |
-| 女     | おんな                            | Woman                                                                                                                      |
-| 女の子   | おんなのこ                          | GIrl<br><br>女 (woman)  のこ (child).                                                                                         |
+| Kanji | Word               | Meaning                                                                                                                    |
+| ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+|       | おいしい               | Delicious                                                                                                                  |
+| 多い    | おおい                | Many; Numerous<br><br>多 (many)                                                                                             |
+| 大きい   | おおきい<br>おおきな       | Big; Large; Great<br><br>おおきい has predictive and restrictive usage<br>おおきな is only restrictive .<br><br>大 (big)            |
+|       | おおぜい               | Crowd (of people); Many people                                                                                             |
+| お母さん  | おかあ（さん）            | Mother<br><br>Note that the "san" is a honorific.<br>母 (mother)                                                            |
+|       | おかし                | Sweets ; Confections; Candy                                                                                                |
+| お金    | おかね                | Money<br><br>金 (gold)                                                                                                      |
+| 起きる   | おきる                | (1) To get up; To rise; To wake up<br><br>(2) To occur (usually of unfavorable incidents)<br><br>起 (Wake Up) きる (To start) |
+|       | おく                 | To put; To place; To leave behind; To do something in advance                                                              |
+|       | おくさん               | (your) Wife; Wife; Married Lady; Madam                                                                                     |
+| お酒    | おさけ                | Alcohol; Sake<br><br>酒 (Alcohol; Sake)                                                                                     |
+|       | おさら                | Plate; Dish                                                                                                                |
+|       | おじいさん              | Grandfather; Old Male Citizen<br><br>Note that the "san" is a honorific.                                                   |
+|       | おしえる               | To teach; To tell; To inform; To Instruct                                                                                  |
+|       | おじさん               | Uncle; Old Man; Mister<br><br>Note that the "san" is a honorific.                                                          |
+| 明日    | おした                | Tomorrow<br><br>明 (bright light) 日 (day)                                                                                   |
+|       | おす                 | To push; To press; To stamp; To apply a seal                                                                               |
+|       | おそい                | Slow; Late (as in late at night); Too late                                                                                 |
+| 茶     | おちゃ                | Tea (usually green); Tea break; Tea Ceremony.<br><br>茶 (Tea)                                                               |
+|       | おてあらい              | Bathroom; Toilet; Restroom; Lavatory                                                                                       |
+| お父さん  | おとう（さん）            | Father<br><br>Note that the "san" is a honorific.<br><br>父 (father)                                                        |
+|       | おとうと               | Younger Brother                                                                                                            |
+| 男     | おとこ                | Man                                                                                                                        |
+| 男の子   | おとこのこ              | Boy; Male Child; Baby Boy<br><br>男 (man)  のこ (child)                                                                       |
+|       | おととい               | Day before yesterday                                                                                                       |
+|       | おととし<br><br>いっさくねん | Year before last                                                                                                           |
+| 大人    | おとな                | Adult<br><br>大 (big) 人 (person)                                                                                            |
+|       | おなか                | Stomach                                                                                                                    |
+|       | おなじ                | Same; Identical; Equal; Uniform; Equivalent; Common origin; Changeless; Alike                                              |
+|       | おにい（さん）            | Older Brother; Elder brother; Young lad; Mister<br><br>Note that the "san" is a honorific.                                 |
+|       | おねえ（さん）            | Older Sister; Elder sister; Young lady; Miss<br><br>Note that the "san" is a honorific                                     |
+|       | おばあさん              | Grandmother; Female senior citizen                                                                                         |
+|       | おばさん               | Aunt; Old lady; Ma'am                                                                                                      |
+|       | おふろ                | Bath                                                                                                                       |
+|       | おべんとう              | Bento box / Japanese box lunch                                                                                             |
+|       | おぼえる               | To remember; To recollect; To memorize<br><br>To feel                                                                      |
+|       | おまわりさん             | (friendly term for a) Policeman                                                                                            |
+|       | おもい                | Heavy; Massive; Serious; Important; Severe; Oppressed                                                                      |
+|       | おもしろい              | Interesting; Amusing                                                                                                       |
+|       | およぐ                | To swim                                                                                                                    |
+|       | おりる                | To descend; To go down; To get off; To disembark; To dismount                                                              |
+|       | おわる                | To finish                                                                                                                  |
+| 音楽    | おんがく               | Music; Musical Movement<br><br>音 (sound) 楽 (music; ease)                                                                   |
+| 女     | おんな                | Woman                                                                                                                      |
+| 女の子   | おんなのこ              | GIrl<br><br>女 (woman)  のこ (child).                                                                                         |
+|       | オ-ストラリア            | Australia                                                                                                                  |
+|       | おとつい               | Day before yesterday                                                                                                       |
 
 # ka / ga
 | Kanji   | Word     | Meaning                                                                                                                        |
@@ -191,11 +200,13 @@
 |         | かわいい     | Cute; Adorable; Charming; Lovely; Pretty; Precious; Darling; Pet; Cute; Tiny; Little                                           |
 |         | かんこく     | Korea                                                                                                                          |
 |         | かんじ      | Kanji                                                                                                                          |
-| 木       | き        | Tree; Wood; Timber                                                                                                             |
+|         | かがく      | Science                                                                                                                        |
+|         | かいしゃいん   | Office worker                                                                                                                  |
 
 # ki / gi
 | Kanji | Word            | Meaning                                                                               |
 | ----- | --------------- | ------------------------------------------------------------------------------------- |
+| 木     | き               | Tree; Wood; Timber                                                                    |
 |       | きいろ<br><br>きいろい | Yellow<br><br>More technically きいろ means "color of wood"                              |
 |       | きえる             | To disappear; To go out; To vanish                                                    |
 | 聞く    | きく              | (1) To hear; To listen (to music)<br>(2) To ask<br><br>聞 (hear; ask; listen)          |
@@ -236,15 +247,20 @@
 
 
 # ko / go
-| Kanji | Word    | Meaning                          |
-| ----- | ------- | -------------------------------- |
-|       | コーヒー    | Coffee                           |
-|       | こうこう    | Highschool                       |
-|       | ごご      | Afternoon (P.M.)                 |
-|       | ごしゅじん   | Your/ Her Husband                |
-|       | ごぜん     | Morning (A.M.)                   |
-| 今晩    | こんばん    | Tonight<br><br>今 (now) 晩 (night) |
-|       | コンピューター | Computer                         |
+| Kanji | Word     | Meaning                                                  |
+| ----- | -------- | -------------------------------------------------------- |
+|       | コーヒー     | Coffee                                                   |
+|       | こうこう     | Highschool                                               |
+|       | ごご       | Afternoon (P.M.)                                         |
+|       | ごしゅじん    | Your/ Her Husband                                        |
+|       | ごぜん      | Morning (A.M.)                                           |
+| 今晩    | こんばん     | Tonight<br><br>今 (now) 晩 (night)                         |
+|       | コンピューター  | Computer                                                 |
+|       | こくさいかんけい | International Relations                                  |
+|       | こうこうせい   | Highschool student<br><br>こうこう (highschool) せい (student) |
+| 今年    | ことし      | This year<br><br>今 (Present) 年 (Year)                    |
+| 今週    | こんしゅう    | This Week<br><br>今 (Present) 週 (Week)                    |
+|       |          |                                                          |
 
 # sa / za
 | Kanji | Word | Meaning                                           |
@@ -272,14 +288,19 @@
 |       | しめる                                         | To close; To shut; To tie; To fasten; To be strict with; To total; To sum                                   |
 |       | じぶん                                         | Oneself; Myself; Yourself; Himself; Herself; I; Me                                                          |
 |       | しょうゆ                                        | Soy sauce                                                                                                   |
+|       | じんるいがく                                      | Anthropology                                                                                                |
+|       | しごと                                         | Job; Work; Occupation                                                                                       |
+|       | しゅふ                                         | Housewife                                                                                                   |
 
 # su / zu
-| Kanji | Word | Meaning                                                                               |
-| ----- | ---- | ------------------------------------------------------------------------------------- |
-|       | スポーツ | Sports                                                                                |
-|       | する   | To do                                                                                 |
-|       | すむ   | To live (of humans); To reside; To inhabit; To dwell; To abide                        |
-|       | すき   | Liking; Fondness; Love                                                                |
+| Kanji | Word   | Meaning                                                              |
+| ----- | ------ | -------------------------------------------------------------------- |
+|       | スポーツ   | Sports                                                               |
+|       | する     | To do                                                                |
+|       | すむ     | To live (of humans); To reside; To inhabit; To dwell; To abide       |
+|       | すき     | Liking; Fondness; Love                                               |
+|       | スウイーデン | Sweden                                                               |
+| 少ない   | すくない   | A few; A little; Scarce; Insufficient; Seldom<br><br>少 (few; little) |
 
 
 # se / ze
@@ -290,6 +311,7 @@
 | 全然    | ぜんぜん | Not at all (+ negative)<br><br>全 (complete) 然 (well)                                                                                                               |
 |       | せいと  | Pupil (student)                                                                                                                                                    |
 | 先月    | せんげつ | Last Month<br><br>先 (Previous) 月 (Moon)                                                                                                                            |
+|       | せいじ  | Politics                                                                                                                                                           |
 
 
 # so / zo
@@ -298,18 +320,21 @@
 |       | そちら<br><br>そっち | That way (by you); There; That one; You; Your family |
 
 # ta / da
-| Kanji | Word | Meaning                                                                                       |
-| ----- | ---- | --------------------------------------------------------------------------------------------- |
-|       | だいがく | College / University                                                                          |
-|       | たかい  | Expensive; High price                                                                         |
-| 食べる   | たべる  | To eat<br><br>食 (eat)                                                                         |
-|       | たいてい | Usually; Mostly; Ordinarily; Probably; Most; Almost All                                       |
-|       | タクシー | Taxi                                                                                          |
-|       | たてもの | Building                                                                                      |
-| 立つ    | たつ   | To stand; To rise; To stand up                                                                |
-|       | たばこ  | Tobacco; Cigarettes                                                                           |
-| 出す    | だす   | (1) To turn in; To publish; To send (a letter)<br>(2) To submit (a thesis)<br><br>出 (put out) |
-|       | だれか  | Somebody; Someone                                                                             |
+| Kanji | Word     | Meaning                                                                                       |
+| ----- | -------- | --------------------------------------------------------------------------------------------- |
+| 大学    | だいがく     | College / University<br><br>大 (large) 学 (study)                                               |
+|       | たかい      | Expensive; High price                                                                         |
+| 食べる   | たべる      | To eat<br><br>食 (eat)                                                                         |
+|       | たいてい     | Usually; Mostly; Ordinarily; Probably; Most; Almost All                                       |
+|       | タクシー     | Taxi                                                                                          |
+|       | たてもの     | Building                                                                                      |
+| 立つ    | たつ       | To stand; To rise; To stand up                                                                |
+|       | たばこ      | Tobacco; Cigarettes                                                                           |
+| 出す    | だす       | (1) To turn in; To publish; To send (a letter)<br>(2) To submit (a thesis)<br><br>出 (put out) |
+|       | だれか      | Somebody; Someone                                                                             |
+|       | だいがくいんせい | Graduate student                                                                              |
+|       | だいがくせい   | College student                                                                               |
+|       | たんじょうび   | Birthday                                                                                      |
 # chi 
 
 | Kanji | Word  | Meaning                                                                                                             |
@@ -318,6 +343,7 @@
 |       | ちょっと  | (adv.) A little<br><br>It is also commonly used as a polite refusal, translating to "impossible" or "inconvenient". |
 |       | ちかい   | Near; Close; Short distance                                                                                         |
 | 小さな   | ちいさな  | Little; Small; Tiny<br><br>小 (little; small)                                                                        |
+| 茶色    | ちゃいろ  | Light brown; Tawny<br><br>茶 / ちゃ (Tea) 色 / いろ(Color)                                                                |
 # tsu 
 | Kanji | Word | Meaning                                                                                                        |
 | ----- | ---- | -------------------------------------------------------------------------------------------------------------- |
@@ -326,14 +352,15 @@
 
 
 # te / de
-| Kanji | Word | Meaning                                                                                                                  |
-| ----- | ---- | ------------------------------------------------------------------------------------------------------------------------ |
-|       | デート  | (Romantic) Date                                                                                                          |
-|       | です   | "Is / To be" <br><br>Technically speaking, です carries no inherent meaning. It functions as a [[Parts of Speech\|Copula]] |
-|       | テニス  | Tennis                                                                                                                   |
-|       | テレビ  | TV                                                                                                                       |
-|       | でんわ  | Telephone                                                                                                                |
-|       | でも   | But; However; Though; Nevertheless; Still; Yet; Even so                                                                  |
+| Kanji | Word     | Meaning                                                                                                                  |
+| ----- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
+|       | デート      | (Romantic) Date                                                                                                          |
+|       | です       | "Is / To be" <br><br>Technically speaking, です carries no inherent meaning. It functions as a [[Parts of Speech\|Copula]] |
+|       | テニス      | Tennis                                                                                                                   |
+|       | テレビ      | TV                                                                                                                       |
+|       | でんわ      | Telephone                                                                                                                |
+|       | でも       | But; However; Though; Nevertheless; Still; Yet; Even so                                                                  |
+|       | テープレコーダー | Tape Recorder                                                                                                            |
 # to / do
 | Kanji | Word  | Meaning                                            |
 | ----- | ----- | -------------------------------------------------- |
@@ -355,6 +382,7 @@
 |       | なまえ  | Name                                                     |
 | 中     | なか   | Middle; Center; Inside; In; Among; Within; During; While |
 | 七日    | なのか  | Seven days; Seventh (day of the month)                   |
+|       | なに   | What                                                     |
 # ni
 | Kanji | Word | Meaning                          |
 | ----- | ---- | -------------------------------- |
@@ -398,6 +426,7 @@
 |       | ばんごお   | Number                                                                                                                  |
 | 晩ご飯   | ばんごはん  | Dinner<br><br>晩 (Night) 飯 (Meal)                                                                                        |
 |       | ハンバーガー | Hamburger                                                                                                               |
+|       | はん     | Half                                                                                                                    |
 # hi / pi / bi
 | Kanji | Word  | Meaning                                |
 | ----- | ----- | -------------------------------------- |
@@ -410,12 +439,14 @@
 | 人     | ひと    | Person                                 |
 
 # fu / pu / bu
-| Kanji | Word | Meaning                                  |
-| ----- | ---- | ---------------------------------------- |
-|       | ふゆ   | Winter                                   |
-|       | ぶたにく | Pork                                     |
-|       | ふうとう | Envelope                                 |
-|       | ふとい  | (1) Fat<br>(2) Daring; Shameless; Brazen |
+| Kanji | Word | Meaning                                                         |
+| ----- | ---- | --------------------------------------------------------------- |
+|       | ふゆ   | Winter                                                          |
+|       | ぶたにく | Pork                                                            |
+|       | ふうとう | Envelope                                                        |
+|       | ふとい  | (1) Fat<br>(2) Daring; Shameless; Brazen                        |
+|       | ぶんがく | Literature                                                      |
+| 二人    | ふたり  | Two people; Two persons; Pair; Couple<br><br>二 (two) 人 (people) |
 
 # he / pe  / be
 | Kanji | Word    | Meaning                                  |
@@ -423,6 +454,9 @@
 | 勉強する  | べんきょうする | To study<br><br>勉 (endeavor)  強 (strong) |
 |       | ページ     | Page                                     |
 |       | ペン      | Pen                                      |
+|       | べんごし    | Lawyer                                   |
+|       | へや      | Room                                     |
+|       | ペット     | Pet                                      |
 
 # ho / po / bo
 | Kanji | Word | Meaning                                                                                  |
@@ -442,15 +476,16 @@
 |       | まいあさ | Every morrning                                          |
 |       | まずい  | Unpleasant (taste, appearance, situation); Unappetizing |
 # mi
-| Kanji | Word | Meaning                                     |
-| ----- | ---- | ------------------------------------------- |
-| 見る    | みる   | To see; To look at; To watch<br><br>見 (see) |
-| 見せる   | みせる  | To show; To display<br><br>見 (see)          |
-| 道     | みち   | Street; Road; Way; Path; Route; Lane        |
-| 耳     | みみ   | Ear; Hearing; Edge; Crust                   |
-|       | みどり  | Green                                       |
-| 水     | みず   | Water (cold, fresh)                         |
-|       | みじかい | Short                                       |
+| Kanji | Word          | Meaning                                                                             |
+| ----- | ------------- | ----------------------------------------------------------------------------------- |
+| 見る    | みる            | To see; To look at; To watch<br><br>見 (see)                                         |
+| 見せる   | みせる           | To show; To display<br><br>見 (see)                                                  |
+| 道     | みち            | Street; Road; Way; Path; Route; Lane                                                |
+| 耳     | みみ            | Ear; Hearing; Edge; Crust                                                           |
+|       | みどり           | Green                                                                               |
+| 水     | みず            | Water (cold, fresh)                                                                 |
+|       | みじかい          | Short                                                                               |
+|       | みな<br><br>みんな | Everyone; All; Everybody; Everything<br><br>みな is more formal<br>みんな is more casual |
 # mu
 | Kanji | Word | Meaning                                                                               |
 | ----- | ---- | ------------------------------------------------------------------------------------- |
@@ -468,10 +503,11 @@
 | 門     | もん   Gate, particularly that of Japanese style in Buddhist / Shinto temples and Japanese architecture e  |
 
 # ya
-| Kanji | Word | Meaning             |
-| ----- | ---- | ------------------- |
-|       | やさい  | Vegetable           |
-|       | やさしい | Easy; Plain; Simple |
+| Kanji | Word | Meaning                                                                                                                                  |
+| ----- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+|       | やさい  | Vegetable                                                                                                                                |
+|       | やさしい | Easy; Plain; Simple                                                                                                                      |
+| 休み    | やすみ  | Rest; Recess; Respite; Vacation; Holiday; Absence; Suspension; To rest; To have a break; To be absent; To take a day off<br><br>休 (rest) |
 # yu
 | Kanji | Word    | Meaning     |
 | ----- | ------- | ----------- |
@@ -498,16 +534,18 @@
 |       | りょこう    | Travel; Trip                                                   |
 # ru
 # re 
-| Kanji | Word | Meaning      |
-| ----- | ---- | ------------ |
-|       | れきし  | History      |
-|       | れい   | Zero; Nought |
+| Kanji | Word  | Meaning      |
+| ----- | ----- | ------------ |
+|       | れきし   | History      |
+|       | れい    | Zero; Nought |
+|       | れんしゅう | Practice     |
 # ro
 
 # wa 
 | Kanji | Word | Meaning                                                                                                                                       |
 | ----- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 |       | わたす  | To hand over; To hand in; To pass; To give; To transfer; To traverse; To ferry across (a river); To carry across; To go across; To cross over |
+|       | わすれる | To forget; To leave carelessly; To be forgetful of; To forget about; To forget                                                                |
 # wo
 # n
 

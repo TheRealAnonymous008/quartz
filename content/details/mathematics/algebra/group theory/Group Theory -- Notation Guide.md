@@ -18,6 +18,8 @@
 ***
 * $G \cong H$ - $G$ is isomorphic to $H$. 
 * $\phi$ - a homomorphism
+* $\gamma$ - the canonical homomorphism. We notate its image as $\gamma(G)$ or $\gamma[G]$.
+* $\mu$ - the canonical isomorphism. We notate its image as $\mu(G)$ or $\mu[G]$
 * $\text{Ker}(\phi)$ - the kernel of homomorphism $\phi$
 * $\braket{a}$ - the cyclic subgroup containing the generator $a$.
 * $i_g(x)$ - the inner automorphism by $g$.
@@ -57,3 +59,4 @@
  * $\text{Orb}_G(x)$ - the orbit of $x$ under $G$ 
  * $\text{Stab}_G(x)$ - the stabilizer of $x$ under $G$.
  * $X^g$ - subset of a $G$-set $X$ where $\{x\in X \mid  g x= x\}$. 
+ * $N[H]$ - the normalizer of $H\le G$. 

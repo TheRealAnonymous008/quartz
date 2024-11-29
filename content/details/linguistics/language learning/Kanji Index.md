@@ -6,6 +6,7 @@
 | 中     | In; Inside; Middle; Mean; Center                                                   |
 | 人     | Person                                                                             |
 | 今     | Now; The Present                                                                   |
+| 休     | Rest                                                                               |
 | 先     | Before; Ahead; Previous; Future; Precedence                                        |
 | 入     | Enter                                                                              |
 | 全     | Complete                                                                           |
@@ -16,6 +17,7 @@
 | 国     | Country                                                                            |
 | 外     | Outside                                                                            |
 | 多     | Many                                                                               |
+| 大     | Large; Big                                                                         |
 | 女     | Woman                                                                              |
 | 学     | Study; Learning; Science                                                           |
 | 家     | House; Home; Family; Professional; Expert; Performer                               |
@@ -24,6 +26,7 @@
 | 川     | Stream; River                                                                      |
 | 希     | Hope; Beg; Request; Pray; Beseech; Greece; Dilute (acid); Rare; Few; Phenomenal    |
 | 帰     | Homecoming; Arrive At; Lead To; Result In                                          |
+| 年     | Year; Counter for Years                                                            |
 | 庭     | Courtyard; Garden; Yard                                                            |
 | 強     | Strong                                                                             |
 | 後     | Behind; Back; Later                                                                |
@@ -74,6 +77,7 @@
 | 道     | Street; Road Way; District; Journey; Course; Moral; Teachings                      |
 | 酒     | Alcohol; Sake                                                                      |
 | 金     | Gold                                                                               |
+| 門     | Gate; Counter for Cannons                                                          |
 | 雑     | Miscellaneous                                                                      |
 | 雨     | Rain                                                                               |
 | 鞄     | Suitcase; Bag; Briefcase                                                           |
@@ -83,7 +87,8 @@
 | 飯     | Daytime; Noon                                                                      |
 | 飲     | Drink; Smoke; Take                                                                 |
 | 駅     | Station                                                                            |
-| 門     | Gate; Counter for Cannons                                                          |
+| 色     | Color                                                                              |
+| 少     | Few; Little                                                                        |
 
 # Links
 * [Wanikani](https://www.wanikani.com/kanji/%E8%B5%B7) - Kanji resource

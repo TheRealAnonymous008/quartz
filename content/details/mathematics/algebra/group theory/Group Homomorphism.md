@@ -70,7 +70,7 @@
 	  G/\text{Ker}(\phi) \cong G'
 	  $$
 	* (*Fraleigh 13.20*) $\text{Ker}(\phi)$ is a [[Normal Group|normal subgroup]] of $G$
-	* (*Fraleigh 34.3*) Let $N\unlhd G$ and $\gamma : G\to G/N$ be the canonical homomorphism. Then the map $\phi$ from the set of normal subgroups of $G$ containing $N$ to the set of normal subgroups of $G/N$ given by $\phi(L)=\gamma[L]$ is bijective. 
+	* (*Fraleigh 34.3*) Let $N\unlhd G$ and $\gamma : G\to G/N$ be the canonical homomorphism. Then the map $\phi$ from the set of normal subgroups of $G$ containing $N$ to the set of normal subgroups of $G/N$ given by $\phi(L)=\gamma(L)$ is bijective. 
 
 ![[First Isomorphism Theorem.png|500]]
 <figcaption> First Isomorphism Theorem. Image taken from Fraleigh

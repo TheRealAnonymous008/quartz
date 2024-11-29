@@ -18,6 +18,8 @@
 
 * [[Group Action]]
 
+* [[p-Group and the Sylow Theorems]]
+
 # Links
 * [[Linear Algebra]] - for a related algebra to group theory.
 
