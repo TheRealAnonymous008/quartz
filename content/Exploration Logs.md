@@ -50,7 +50,6 @@
 * Ballistics
 * [[Graph Theoretic Approaches for Swarms]] - Resume Ch. 4
 * [[Code Complete by McConnell]] - Resume Ch. 10
-* [[Group Theory]] - advanced topics
 * [[Philosophy]] - read through [[A New History of Western Philosophy  By Anthony Kenny]] 
 	* Cursory Philosophy -- [[Philosophical Questions]]
 
@@ -83,3 +82,4 @@
 	* https://en.wikipedia.org/wiki/Iterative_proportional_fitting 
 * [Combinatorial Maps](https://en.wikipedia.org/wiki/Combinatorial_map)
 * [Surface Nets](https://bonsairobo.medium.com/smooth-voxel-mapping-a-technical-deep-dive-on-real-time-surface-nets-and-texturing-ef06d0f8ca14)
+* [Halton Sequences](https://en.wikipedia.org/wiki/Halton_sequence)

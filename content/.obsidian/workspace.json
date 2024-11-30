@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "860ed79fd1ae09fc",
+        "id": "f0b6e5df47d9a617",
         "type": "tabs",
         "children": [
           {
-            "id": "913ee0943de2b647",
+            "id": "ed5ce82120abc8af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zshortdump/p-Group and the Sylow Theorems.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "p-Group and the Sylow Theorems"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hamilton",
+                "query": "36.2",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -73,12 +69,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -176,39 +172,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "913ee0943de2b647",
+  "active": "ed5ce82120abc8af",
   "lastOpenFiles": [
-    "details/mathematics/algebra/group theory/Group Isomorphism.md",
     "details/mathematics/algebra/group theory/Normal Group.md",
+    "details/mathematics/algebra/group theory/Group Theory -- Notation Guide.md",
+    "details/mathematics/algebra/group theory/Group Action.md",
+    "zshortdump/p-Group and the Sylow Theorems.md",
+    "details/mathematics/algebra/group theory/Subgroup.md",
+    "details/mathematics/algebra/group theory/Cyclic Group.md",
+    "details/mathematics/algebra/linear algebra/Inner Product Space.md",
+    "details/mathematics/algebra/ring theory/Factor Ring.md",
+    "details/mathematics/algebra/group theory/Abelian Group.md",
+    "details/mathematics/algebra/group theory/Subgroup Series.md",
+    "__meta/Whiteboard.excalidraw",
+    "Exploration Logs.md",
+    "details/mathematics/algebra/group theory/Group Isomorphism.md",
     "details/mathematics/algebra/group theory/Factor Group.md",
     "details/mathematics/algebra/group theory/Group Homomorphism.md",
     "details/mathematics/algebra/ring theory/Ring Homomorphism.md",
-    "zshortdump/p-Group and the Sylow Theorems.md",
-    "details/mathematics/algebra/group theory/Group Theory -- Notation Guide.md",
-    "details/mathematics/algebra/group theory/Group Action.md",
     "details/mathematics/algebra/Group Theory.md",
     "zshortdump/Sylow Theorems.md",
     "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
     "details/mathematics/algebra/group theory/Permutations and Orbits.md",
     "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
-    "details/mathematics/algebra/group theory/Subgroup Series.md",
-    "Exploration Logs.md",
     "details/linguistics/language learning/Kanji Index.md",
     "details/linguistics/language learning/Japanese Words Index.md",
-    "__meta/Whiteboard.excalidraw",
-    "details/mathematics/algebra/group theory/Abelian Group.md",
     "details/natural sciences/physics/mechanics/Impulse and Momentum.md",
     "details/mathematics/algebra/group theory/Direct Product of Groups.md",
-    "details/mathematics/algebra/group theory/Subgroup.md",
     "details/linguistics/language learning/Japanese Grammar.md",
     "details/linguistics/language learning/English Words Index.md",
-    "details/mathematics/algebra/group theory/Alternating Group.md",
     "__images/Butterfly Lemma.png",
     "__images/First Isomorphism Theorem.png",
     "__images/Third Isomorphism Theorem.png",
     "__images/Second Isomorphism Theorem.png",
-    "details/game design/genres/Game Study Index.md",
-    "details/game design/genres/Tabletop Mechanics.md",
     "__images/Control Hierarchy.png",
     "__images/Katakana.png",
     "__images/Hiragana.png",

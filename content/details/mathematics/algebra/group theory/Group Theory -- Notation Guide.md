@@ -59,4 +59,5 @@
  * $\text{Orb}_G(x)$ - the orbit of $x$ under $G$ 
  * $\text{Stab}_G(x)$ - the stabilizer of $x$ under $G$.
  * $X^g$ - subset of a $G$-set $X$ where $\{x\in X \mid  g x= x\}$. 
+ * $X^G$ - the set of fixed points of a $G$-set $X$.
  * $N[H]$ - the normalizer of $H\le G$. 

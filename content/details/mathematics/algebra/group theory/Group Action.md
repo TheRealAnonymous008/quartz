@@ -85,11 +85,23 @@
 	  $$
 	  |X| = \sum_{\mathcal{O}} |\mathcal{O}|
 	  $$
-	* Every element of $X^g$ consists of one-element orbits in $X$. Therefore 
-	  $$
-	  |X| = |X^G| + \sum_{\mathcal{O}\notin X^g} |\mathcal{O}|
-	  $$
-	  Where $\mathcal{O}\notin X^g$ is notational shorthand for orbits with more than one element.
+* **General Class Equation**: Every element of $X^g$ consists of one-element orbits in $X$. Therefore 
+  $$
+  |X| = |X^G| + \sum_{x \notin X^G} |{\text{Orb}_G(x)}|
+  $$
+* **Classic Class Equation**. From the General Class Equation, suppose $X=G$ and the action of $G$ on $G$ is by conjugation so $g\in G$ maps $x\in G$ to $gxg^{-1}$. Then 
+  $$
+  \begin{split}
+  X^G  &= \set{x\in G \mid gxg^{-1} = x \ \forall g\in G} = Z(G)
+  \end{split}
+  $$
+  Now we have
+  $$
+  |G| = |Z(G)| + \sum_{x\notin Z(G) } |\text{Orb}_G (x) |
+  $$
+	* We refer to each orbit in $G$ under conjugation by $G$ as a **conjugate class** in $G$. 
+
+
 
 
 # Links

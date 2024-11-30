@@ -37,6 +37,12 @@
   $$
 * The **join** of  subgroups $H,K\le G$ is denoted $H\vee K$ and is defined as the intersection of all subgroups of $G$ that contain $HK$.
 	* $H\vee K$ is the smallest subgroup of $G$ containing $HK$ as well as both $H$ and $K$.
+* (*Fraleigh 37.8*) If $H$ and $K$ are finite subgroups of $G$, then
+  $$
+  |HK| = \frac{|H| \cdot |K|}{|H\cap K| }
+  $$
+	* *Idea*: Each element $hk\in HK$ can be represented in the form $h_ik_i$ for $h_i\in H$ and $k_i\in K$ as many times as there are elements in $H\cap K$. 
+
 * [[Subgroup Series]]
 
 # Links
