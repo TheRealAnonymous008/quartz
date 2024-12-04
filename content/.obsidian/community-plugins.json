@@ -1,10 +1,10 @@
 [
-  "dataview",
-  "obsidian-minimal-settings",
-  "obsidian-style-settings",
-  "obsidian-vault-statistics-plugin",
   "table-editor-obsidian",
+  "dataview",
+  "obsidian-vault-statistics-plugin",
   "templater-obsidian",
+  "obsidian-style-settings",
   "obsidian-sort-and-permute-lines",
+  "obsidian-minimal-settings",
   "obsidian-excalidraw-plugin"
 ]

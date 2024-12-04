@@ -89,6 +89,8 @@
 | 駅     | Station                                                                            |
 | 色     | Color                                                                              |
 | 少     | Few; Little                                                                        |
+| 厚     | Thick; Heavy; Rich; Kind; Cordial; Brazen; Shameless                               |
+| 南     | South                                                                              |
 
 # Links
 * [Wanikani](https://www.wanikani.com/kanji/%E8%B5%B7) - Kanji resource

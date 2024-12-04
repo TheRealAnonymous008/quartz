@@ -39,11 +39,11 @@
 
 # Pronouns
 
-| Word  | Romanization | Meaning            | Additional Remarks                                                                                                                                                                                                 |
-| ----- | ------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| なん/なに | Nan / Nani   | What               |                                                                                                                                                                                                                    |
-| わたし   | Watashi      | I                  |                                                                                                                                                                                                                    |
-| あなた   | Anata        | You                | Rarely used in casual speech as it has a condescending undertone.<br><br>Typically used when there is no information about the addressed person.<br><br>Used by women to mean "Dear" (i.e., referring to a spouse) |
+| Word  | Romanization | Meaning | Additional Remarks                                                                                                                                                                                                                                                         |
+| ----- | ------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| なん/なに | Nan / Nani   | What    |                                                                                                                                                                                                                                                                            |
+| わたし   | Watashi      | I       |                                                                                                                                                                                                                                                                            |
+| あなた   | Anata        | You     | Rarely used in casual speech as it has a condescending undertone. It typically refers to someone of equal or lower status<br><br>Typically used when there is no information about the addressed person.<br><br>Used by women to mean "Dear" (i.e., referring to a spouse) |
 
 
 ## Demonstratives

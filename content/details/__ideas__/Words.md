@@ -37,6 +37,7 @@
 * **Habsuchtig** - (German) literally translates to the sickness (passion) for having. In other words, greed.
 
 * **Kafkaesque** - having a nightmarishly complex, bizarre, or illogical quality. Marked by surreal distortion and a sense of looming danger.
+* **Kensei** - (Japanese). lit. Sword Saint
 
 * **Lament** - a passionate expression of grief or sorrow, often in music, poetry, or song form. The grief is born of regret or mourning.
 * **Legerdemain** - sleight of hand. Trickery. 

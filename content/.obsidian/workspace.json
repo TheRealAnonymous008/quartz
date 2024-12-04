@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b6e5df47d9a617",
+        "id": "cf12f64b083560e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5ce82120abc8af",
+            "id": "547e6dca37933882",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "details/mathematics/algebra/group theory/Abelian Group.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Abelian Group"
+            }
+          },
+          {
+            "id": "e4f1b8c6e9a74f5b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "__meta/Whiteboard.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Whiteboard"
             }
           }
         ]
@@ -48,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "36.2",
+                "query": "torsion",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -148,8 +164,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -161,7 +177,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,38 +184,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed5ce82120abc8af",
+  "active": "547e6dca37933882",
   "lastOpenFiles": [
+    "__meta/Whiteboard.excalidraw",
+    "details/mathematics/algebra/group theory/Abelian Group.md",
+    "details/mathematics/Number Theory.md",
+    "details/mathematics/algebra/group theory/Fundamental Constructs of Group Theory.md",
+    "zshortdump/Free Abelian Group.md",
+    "details/__ideas__/Words.md",
+    "details/mathematics/algebra/group theory/Group Homomorphism.md",
+    "details/mathematics/algebra/linear algebra/Linear Combination.md",
+    "details/mathematics/algebra/group theory/p-Group and the Sylow Theorems.md",
+    "__books/Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt.md",
+    "details/engineering/swarms/Graph Theoretic Approaches for Swarms.md",
+    "details/computer science/data structures and algorithms/Procedural Generation.md",
+    "details/mathematics/algebra/field theory/Algebraic Extension.md",
+    "details/mathematics/algebra/group theory/Extension Field and Polynomials.md",
+    "details/mathematics/algebra/ring theory/Ideal.md",
+    "details/linguistics/language learning/Japanese Grammar.md",
+    "details/linguistics/language learning/Japanese Words Index.md",
+    "details/linguistics/language learning/Kanji Index.md",
     "details/mathematics/algebra/group theory/Normal Group.md",
     "details/mathematics/algebra/group theory/Group Theory -- Notation Guide.md",
     "details/mathematics/algebra/group theory/Group Action.md",
-    "zshortdump/p-Group and the Sylow Theorems.md",
     "details/mathematics/algebra/group theory/Subgroup.md",
     "details/mathematics/algebra/group theory/Cyclic Group.md",
     "details/mathematics/algebra/linear algebra/Inner Product Space.md",
     "details/mathematics/algebra/ring theory/Factor Ring.md",
-    "details/mathematics/algebra/group theory/Abelian Group.md",
     "details/mathematics/algebra/group theory/Subgroup Series.md",
-    "__meta/Whiteboard.excalidraw",
-    "Exploration Logs.md",
-    "details/mathematics/algebra/group theory/Group Isomorphism.md",
-    "details/mathematics/algebra/group theory/Factor Group.md",
-    "details/mathematics/algebra/group theory/Group Homomorphism.md",
-    "details/mathematics/algebra/ring theory/Ring Homomorphism.md",
-    "details/mathematics/algebra/Group Theory.md",
-    "zshortdump/Sylow Theorems.md",
-    "details/mathematics/algebra/linear algebra/Characteristic Polynomial.md",
-    "details/mathematics/algebra/group theory/Permutations and Orbits.md",
-    "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
-    "details/linguistics/language learning/Kanji Index.md",
-    "details/linguistics/language learning/Japanese Words Index.md",
-    "details/natural sciences/physics/mechanics/Impulse and Momentum.md",
-    "details/mathematics/algebra/group theory/Direct Product of Groups.md",
-    "details/linguistics/language learning/Japanese Grammar.md",
-    "details/linguistics/language learning/English Words Index.md",
     "__images/Butterfly Lemma.png",
     "__images/First Isomorphism Theorem.png",
     "__images/Third Isomorphism Theorem.png",

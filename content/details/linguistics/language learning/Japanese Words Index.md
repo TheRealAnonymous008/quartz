@@ -46,6 +46,7 @@
 |       | あらう              | To wash                                                                                               |
 |       | ある               | To be (as in for inanimate objects).<br><br>Alternatively to exist, to live, to have, to be located.  |
 |       | あるく              | To walk                                                                                               |
+| 厚い    | あつい              | Kind; Cordial; Warm hearted; Serious; Faithful; Thick; Deep; Heavy; Abundant                          |
 
 # i 
 | Kanji | Word            | Meaning                                                                                                                                         |
@@ -207,7 +208,7 @@
 | Kanji | Word            | Meaning                                                                               |
 | ----- | --------------- | ------------------------------------------------------------------------------------- |
 | 木     | き               | Tree; Wood; Timber                                                                    |
-|       | きいろ<br><br>きいろい | Yellow<br><br>More technically きいろ means "color of wood"                              |
+|       | きいろ<br><br>きいろい | Yellow<br><br>More technically きいろ means "color of wood" from き (tree) いろ (color)     |
 |       | きえる             | To disappear; To go out; To vanish                                                    |
 | 聞く    | きく              | (1) To hear; To listen (to music)<br>(2) To ask<br><br>聞 (hear; ask; listen)          |
 | 北     | きた              | North                                                                                 |
@@ -229,6 +230,7 @@
 |       | きれい             | Pretty; Lovely; Beautiful; Fair; Clean; Clear; Pure; Tidy; Neat; Completely; Entirely |
 |       | キロ<br><br>キログラム | Kilogram                                                                              |
 |       | ぎんこお            | Bank                                                                                  |
+| 金よう日  | きんようび           | Friday<br><br>金 (Gold) 日 (Day)                                                        |
 
 # ku / gu
 
@@ -291,6 +293,7 @@
 |       | じんるいがく                                      | Anthropology                                                                                                |
 |       | しごと                                         | Job; Work; Occupation                                                                                       |
 |       | しゅふ                                         | Housewife                                                                                                   |
+|       | しかし                                         | However; But                                                                                                |
 
 # su / zu
 | Kanji | Word   | Meaning                                                              |
@@ -361,6 +364,7 @@
 |       | でんわ      | Telephone                                                                                                                |
 |       | でも       | But; However; Though; Nevertheless; Still; Yet; Even so                                                                  |
 |       | テープレコーダー | Tape Recorder                                                                                                            |
+| 出口    | でぐち      | Exit; Gateway; Way out; Outlet; Leak; Vent<br><br>出 (Exit) 口 (Mouth)                                                     |
 # to / do
 | Kanji | Word  | Meaning                                            |
 | ----- | ----- | -------------------------------------------------- |
@@ -459,14 +463,14 @@
 |       | ペット     | Pet                                      |
 
 # ho / po / bo
-| Kanji | Word | Meaning                                                                                  |
-| ----- | ---- | ---------------------------------------------------------------------------------------- |
-|       | ぼおし  | Hat / Cap                                                                                |
-|       | ほん   | Book                                                                                     |
-| 本     | ほん   | (1) Book; Counter for long cylindrical things<br>(2) Main; Head; This; Our Present; Real |
-|       | ポケット | Pocket                                                                                   |
-|       | ほんとう | Truth; Reality                                                                           |
-|       | ポスト  | Post; Position; Postbox; Mail box; Pillar box                                            |
+| Kanji | Word | Meaning                                                                                         |
+| ----- | ---- | ----------------------------------------------------------------------------------------------- |
+|       | ぼおし  | Hat / Cap                                                                                       |
+| 本     | ほん   | (1) Book <br>(2) Main; Head; This; Our Present; Real<br>(3) Counter for long cylindrical things |
+|       | ポケット | Pocket                                                                                          |
+|       | ほんとう | Truth; Reality                                                                                  |
+|       | ポスト  | Post; Position; Postbox; Mail box; Pillar box                                                   |
+|       | ほう   | One side (of a comparison)                                                                      |
 
 # ma 
 | Kanji | Word | Meaning                                                 |
@@ -486,6 +490,7 @@
 | 水     | みず            | Water (cold, fresh)                                                                 |
 |       | みじかい          | Short                                                                               |
 |       | みな<br><br>みんな | Everyone; All; Everybody; Everything<br><br>みな is more formal<br>みんな is more casual |
+| 南     | みなみ           | South                                                                               |
 # mu
 | Kanji | Word | Meaning                                                                               |
 | ----- | ---- | ------------------------------------------------------------------------------------- |
@@ -498,9 +503,10 @@
 |       | メニュー | Menu          |
 # mo
 
-| Kanji | Word | Meaning                                                                                           |
+| Kanji | Word | Meaning                                                                                          |
 | ----- | ---- | ------------------------------------------------------------------------------------------------ |
-| 門     | もん   Gate, particularly that of Japanese style in Buddhist / Shinto temples and Japanese architecture e  |
+| 門     | もん   | Gate, particularly that of Japanese style in Buddhist / Shinto temples and Japanese architecture |
+|       | もちろん | Of course; Certainly; Naturally                                                                  |
 
 # ya
 | Kanji | Word | Meaning                                                                                                                                  |
@@ -539,6 +545,7 @@
 |       | れきし   | History      |
 |       | れい    | Zero; Nought |
 |       | れんしゅう | Practice     |
+|       | レコード  | Record       |
 # ro
 
 # wa 
