@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e41518192e69a1f",
+        "id": "47a868e97d445b08",
         "type": "tabs",
         "children": [
           {
-            "id": "d03f51938b290a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/linguistics/language learning/Japanese Misc Words Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Japanese Misc Words Index"
-            }
-          },
-          {
-            "id": "fd7a39520be035fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "details/linguistics/language learning/Japanese Common Sayings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Japanese Common Sayings"
-            }
-          },
-          {
-            "id": "44e068462d3c9987",
+            "id": "af691910ae85dabb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -45,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,14 +171,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44e068462d3c9987",
+  "active": "af691910ae85dabb",
   "lastOpenFiles": [
     "details/linguistics/language learning/Japanese Misc Words Index.md",
-    "details/linguistics/language learning/Japanese Common Sayings.md",
+    "details/linguistics/language learning/Japanese Verbs.md",
+    "details/linguistics/language learning/Japanese Nouns.md",
+    "details/linguistics/language learning/English Words Index.md",
     "details/linguistics/language learning/Japanese Words Index.md",
     "details/linguistics/language learning/Japanese Time-Related Words.md",
+    "zshortdump/Chaos Theory.md",
+    "Exploration Logs.md",
+    "index.md",
+    "details/machine learning/reinforcement learning/fundamentals/Temporal Difference Learning.md",
+    "details/linguistics/language learning/Japanese Common Sayings.md",
     "details/linguistics/language learning/Japanese People-Related Words.md",
-    "details/linguistics/language learning/Japanese Nouns.md",
     "details/linguistics/language learning/Kanji Index.md",
     "details/linguistics/language learning/Language.md",
     "Japanese  Words Index.md",
@@ -218,20 +194,14 @@
     "zshortdump/Cryptography.md",
     "zshortdump/Metaphysics.md",
     "zshortdump/Generative Art.md",
-    "zshortdump/Chaos Theory.md",
     "details/mathematics/algebra/group theory/Group Presentation.md",
     "details/mathematics/algebra/group theory/Free Group.md",
     "details/mathematics/algebra/group theory/Group Theory -- Notation Guide.md",
-    "Exploration Logs.md",
     "details/psychology/archetypes/The Characters (Theophrastus).md",
     "details/philosophy/misc/The 48 Laws of Power.md",
     "details/mathematics/probability and statistics/prob_stat/Bayesian Linear Regression.md",
     "details/mathematics/algebra/Group Theory.md",
     "__meta/Whiteboard.excalidraw",
-    "details/__ideas__/Trivia.md",
-    "details/mathematics/algebra/group theory/Subgroup.md",
-    "details/mathematics/algebra/group theory/Free Abelian Group.md",
-    "details/mathematics/algebra/group theory/Commutator Group.md",
     "__images/Butterfly Lemma.png",
     "__images/First Isomorphism Theorem.png",
     "__images/Third Isomorphism Theorem.png",

@@ -35,4 +35,5 @@
 | Auspicious    | (adj.) Showing or suggesting that future success is likely;  <br><br>(adj.) Fortunate; Prosperous                                                                                                                                     |
 | Cacoethes     | (n.) An irresistible urge to do something inadvisable; Compulsion                                                                                                                                                                     |
 | Amanuensis    | (n.) One employed to take dictation, or copy manuscripts. Secretary, Transcriber or Scribe.                                                                                                                                           |
+| Suzerain      | (n.) A superior feudal lord to whom fealty is due<br><br>(n..) A dominant state controlling the foreign relations of a vassal state but allowing it sovereign authority in its internal affairs                                       |
  

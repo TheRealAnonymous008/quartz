@@ -4,6 +4,7 @@
 * [[Japanese Nouns]]
 * [[Japanese People-Related Words]]
 * [[Japanese Time-Related Words]]
+* [[Japanese Verbs]]
 
 # Numbers
 ## The Numbers
