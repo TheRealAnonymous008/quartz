@@ -99,25 +99,6 @@
 |                      | Indicates a question to extend an invitation<br><br>It is the Present Negative + the particle か | 〜ませんか     | 〜ませんか                                                                                                                                                      |
 |                      | Question Form<br><br>It is the Present Affirmative + the particle か                             | 〜ますか      | 〜ますか                                                                                                                                                       |
  
-# Numerics
-
-| Symbol | On Yomi | Kun Yomi  | Preferred Reading | Romanization | Meaning      |
-| ------ | ------- | --------- | ----------------- | ------------ | ------------ |
-| 一      | いち      | ひと・つ      | いち                | Ichi         | One          |
-| 二      | に       | ふた・つ      | に                 | Ni           | Two          |
-| 三      | さん      | みt・つ      | さん                | San          | Three        |
-| 四      | し       | よん / よっ・つ | よん                | Yon          | Four         |
-| 五      | ご       | いつ・つ      | ご                 | Go           | Five         |
-| 六      | ろく      | むっ・つ      | ろく                | Roku         | Six          |
-| 七      | しち      | なな・つ      | なな                | Nana         | Seven        |
-| 八      | はち      | やっ・つ      | はち                | Hachi        | Eight        |
-| 九      | く / きゅう | ここの・つ     | きゅう               | Kyuu         | Nine         |
-| 十      | じゅう     | とお        | じゅう               | Juu          | Ten          |
-|        |         |           | ひゃく               | Hyaku        | Hundred      |
-|        |         |           | せん                | Sen          | Thousand     |
-|        |         |           | まん                | Man          | Ten thousand |
-
-* Numbers are read as in decimal (omitting one). For example, we say にじゅうご to mean $25$.
 
 
 

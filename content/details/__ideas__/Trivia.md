@@ -54,5 +54,18 @@
 * [RAMBO Attack](https://www.youtube.com/watch?v=ihtAijebU-M) - an attack involving writing to RAM and picking up on the EM signals emitted. 
 
 * [Jerusalem Syndrome](https://www.youtube.com/watch?v=rr-x_6sQVlw) - a psychological phenomenon associated with tourists visiting Jerusalem.
+
+* [The Ignoble Prize (2024)](https://www.youtube.com/watch?v=GC7-Xz8St0s).  All of these are based on one paper. Skepticism allowed but these are silly facts nonetheless. 
+	* Beards most likely evolved as a mechanism to protect the jaw. Hence, why they only grow on a specific part of the face. 
+	* You can control impulsive behavior by controlling your urge to pee.
+	* You can relieve an itch by having an image of scratching a non-itchy area.
+	* You can train people with dog clickers effectively (via operant conditioning)
+	* Orgasms can help decongest a clogged nose.
+	* There are 100 hairs per nostril regardless of sex and race. 
+	* The left scrotum tends to be warmer than the right. 
+	* There is a correlation between finding a romantic interest and synchronized heart rates
+	* There is a correlation between narcissism and having distinct eyebrows.
+	* There is a memetic effect induced by looking at a window which attracts a crowd to look at the same window.  The contagiousness is dependent on whether the person looking stops what they are doing. 
+
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

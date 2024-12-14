@@ -5,9 +5,9 @@
 	* [[Index of Writing Systems#Hiragana|Hiragana]] is used for native Japanese words not covered in Kanji. It also good for beginners. 
 	* Katakana is used for loan words.
 	* Kanji is from borrowed Chinese characters. 
-* [[Japanese Words Index]]
 * [[Japanese Common Sayings]]
 * [[Japanese Grammar]]
+* [[Japanese Words Index]]
 * [[Kanji Index]]
 
 # English
