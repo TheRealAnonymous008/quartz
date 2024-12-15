@@ -10,5 +10,8 @@
 * [[Japanese Words Index]]
 * [[Kanji Index]]
 
+* References
+	* [[Genki - Elementary Japanese]]
+
 # English
 * [[English Words Index]]

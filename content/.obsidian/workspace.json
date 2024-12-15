@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47a868e97d445b08",
+        "id": "688a9feaada350ff",
         "type": "tabs",
         "children": [
           {
-            "id": "af691910ae85dabb",
+            "id": "2053dc6dacb90733",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "details/linguistics/language learning/Japanese Particles.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Japanese Particles"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ひがし",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -171,26 +175,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af691910ae85dabb",
+  "active": "2053dc6dacb90733",
   "lastOpenFiles": [
-    "details/linguistics/language learning/Japanese Misc Words Index.md",
-    "details/linguistics/language learning/Japanese Verbs.md",
+    "details/linguistics/language learning/Japanese Particles.md",
+    "details/linguistics/language learning/Japanese Grammar.md",
+    "__books/Genki - Elementary Japanese.md",
+    "details/linguistics/language learning/Language.md",
     "details/linguistics/language learning/Japanese Nouns.md",
-    "details/linguistics/language learning/English Words Index.md",
     "details/linguistics/language learning/Japanese Words Index.md",
     "details/linguistics/language learning/Japanese Time-Related Words.md",
+    "details/linguistics/language learning/Japanese Misc Words Index.md",
+    "__images/Hiragana.png",
+    "details/linguistics/language learning/Japanese Verbs.md",
+    "details/linguistics/language learning/Kanji Index.md",
+    "details/linguistics/language learning/English Words Index.md",
     "zshortdump/Chaos Theory.md",
     "Exploration Logs.md",
     "index.md",
     "details/machine learning/reinforcement learning/fundamentals/Temporal Difference Learning.md",
     "details/linguistics/language learning/Japanese Common Sayings.md",
     "details/linguistics/language learning/Japanese People-Related Words.md",
-    "details/linguistics/language learning/Kanji Index.md",
-    "details/linguistics/language learning/Language.md",
     "Japanese  Words Index.md",
-    "details/linguistics/language learning/Japanese Grammar.md",
     "__images/Katakana.png",
-    "__images/Hiragana.png",
     "zshortdump/Cryptography.md",
     "zshortdump/Metaphysics.md",
     "zshortdump/Generative Art.md",
@@ -199,8 +205,6 @@
     "details/mathematics/algebra/group theory/Group Theory -- Notation Guide.md",
     "details/psychology/archetypes/The Characters (Theophrastus).md",
     "details/philosophy/misc/The 48 Laws of Power.md",
-    "details/mathematics/probability and statistics/prob_stat/Bayesian Linear Regression.md",
-    "details/mathematics/algebra/Group Theory.md",
     "__meta/Whiteboard.excalidraw",
     "__images/Butterfly Lemma.png",
     "__images/First Isomorphism Theorem.png",

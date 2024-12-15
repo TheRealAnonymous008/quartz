@@ -97,6 +97,8 @@
 | 会     | Meeting; Meet; Party; Association; Interview; Join                                 |
 | 取     | Take; Fetch; Take up                                                               |
 | 持     | Hold; Have                                                                         |
+| 天     | Heavens; Sky; Imperial                                                             |
+| 気     | Spirit; Mind; Air; Atmosphere; Mood                                                |
 
 # Links
 * [Wanikani](https://www.wanikani.com/kanji/%E8%B5%B7) - Kanji resource

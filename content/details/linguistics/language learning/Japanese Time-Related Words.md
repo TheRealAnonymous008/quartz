@@ -21,6 +21,9 @@
 | 早い    | はやい      | Early<br><br>早 (early)                                                             |
 | 今     | いま       | Now; The Present; Just Now; Immediately                                            |
 |       | いつも      | Always; Usually; Every Time; Never (w/ negative verb so that it means "never not") |
+| 年     | とし       | Year; Age                                                                          |
+| 日     | にち       | Day; Sun                                                                           |
+|       | すぐに      | Instantly; Immediately                                                             |
 
 ## Time of Day
 | Kanji | Hiragana | Name                                |
@@ -35,22 +38,25 @@
 |       | 〜じ       | . . . 'o clock                      |
 
 
+
 ## Relative to Other Time Steps
-| Kanji | Hiragana           | Name                                     |
-| ----- | ------------------ | ---------------------------------------- |
-|       | いっさくじつ<br><br>おとつい | Day before yesterday                     |
-| 明日    | おした                | Tomorrow<br><br>明 (bright light) 日 (day) |
-|       | おととし<br><br>いっさくねん | Year before last                         |
-| 昨日    | きのう                | Yesterday<br><br>昨 (Previous) 日 (Day)    |
-| 今日    | きょう                | Today <br><br>今 (now) 日 (day)            |
-|       | きょねん               | Last Year                                |
-| 今年    | ことし                | This year<br><br>今 (Present) 年 (Year)    |
-| 今週    | こんしゅう              | This Week<br><br>今 (Present) 週 (Week)    |
-| 先月    | せんげつ               | Last Month<br><br>先 (Previous) 月 (Moon)  |
-| 毎日    | まいにち               | Every day<br><br>毎 (every) 日 (day)       |
-| 毎晩    | まいばん               | Every night<br><br>毎 (every) 晩 (night)   |
-| 毎朝    | まいあさ               | Every morning<br>毎 (every) 朝 (morning)   |
-| 毎週    | まいしゅう              | Every Week<br><br>毎 (every) 週 (week)     |
+| Kanji | Hiragana           | Name                                       |
+| ----- | ------------------ | ------------------------------------------ |
+|       | いっさくじつ<br><br>おとつい | Day before yesterday                       |
+| 明日    | おした                | Tomorrow<br><br>明 (bright light) 日 (day)   |
+|       | おととし<br><br>いっさくねん | Year before last                           |
+| 昨日    | きのう                | Yesterday<br><br>昨 (Previous) 日 (Day)      |
+| 今日    | きょう                | Today <br><br>今 (now) 日 (day)              |
+|       | きょねん               | Last Year                                  |
+| 今年    | ことし                | This year<br><br>今 (Present) 年 (Year)      |
+| 今月    | こんげつ               | This month<br><br>今 (Present) 月 (Month)    |
+| 今週    | こんしゅう              | This Week<br><br>今 (Present) 週 (Week)      |
+| 先月    | せんげつ               | Last Month<br><br>先 (Previous) 月 (Moon)    |
+| 毎朝    | まいあさ               | Every morning<br><br>毎 (every) 朝 (morning) |
+| 毎週    | まいしゅう              | Every Week<br><br>毎 (every) 週 (week)       |
+| 毎日    | まいにち               | Every day<br><br>毎 (every) 日 (day)         |
+| 毎晩    | まいばん               | Every night<br><br>毎 (every) 晩 (night)     |
+
 
 
 ## Counter Days 

@@ -1,6 +1,22 @@
 * Note that the correct spelling of the word is provided in the native writing system (see [[Index of Writing Systems]]). Romanization is only an approximation
 * See also the [[Kanji Index]] for the meaning of individual kanji
 
+| Kanji | Word            | Meaning                                                                  |
+| ----- | --------------- | ------------------------------------------------------------------------ |
+|       | それから            | After that; And then                                                     |
+|       | それでは            | In that situation; In which case; Well then                              |
+|       | あちら/<br><br>あっち | Over there; That way; Yonder; That one; That person                      |
+|       | げんき             | Health; Robust; Vigor; Energy; Vitality; Vim; Stamina; Spirit; Courage   |
+|       | じゅぎょう           | Lesson; Class work                                                       |
+|       | そして             | And then; And; Thus; And now                                             |
+|       | つぎ              | Next; Following; Subsequent                                              |
+|       | でんき             | Electricity; Electric Light                                              |
+|       | こまる             | To be worried; To be bothered<br><br>5r I                                |
+|       | ならぶ             | To line up; To stand in a line; To rival; To match; To equal<br><br>5b I |
+
+
+
+
 
 # Affixes
 # a
@@ -190,9 +206,9 @@
 
 
 # fu / pu / bu
-| Kanji | Word | Meaning                                  |
-| ----- | ---- | ---------------------------------------- |
-|       | ふとい  | (1) Fat<br>(2) Daring; Shameless; Brazen |
+| Kanji | Word | Meaning                                                            |
+| ----- | ---- | ------------------------------------------------------------------ |
+|       | ふとい  | (1) Fat; Thick; Deep (of a voice)<br>(2) Daring; Shameless; Brazen |
 
 
 

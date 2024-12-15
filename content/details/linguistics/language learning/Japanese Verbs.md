@@ -68,3 +68,4 @@
 |       | わたす      | To hand over; To hand in; To pass; To give; To transfer; To traverse; To ferry across (a river); To carry across; To go across; To cross over   | 5s      | T          |
 |       | わすれる     | To forget; To leave carelessly; To be forgetful of; To forget about; To forget                                                                  | 1       | T          |
 |       | わかる      | To understand                                                                                                                                   | 5r      | I          |
+|       | はたらく     | To work; To labor; To function; To operate; To work (as a machine works); To come into play                                                     | 5k      | I          |

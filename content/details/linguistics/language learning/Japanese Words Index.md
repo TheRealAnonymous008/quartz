@@ -30,7 +30,7 @@
 ## Pertaining to Numbers in General 
 | Kanji | Hiragana | Name                            |
 | ----- | -------- | ------------------------------- |
-|       | ばんごお     | Number                          |
+|       | ばんごう     | Number                          |
 |       | はん       | Half                            |
 |       | れい       | Zero; Nought                    |
 |       | いちばん     | First; Best; Number One         |
@@ -51,7 +51,7 @@
 | 左     | ひだり      | Left （〜の）                                                                             |
 | 前     | まえ       | Front; Before （〜の）                                                                    |
 | 後ろ    | うしろ      | Back; Behind; Rear（〜の）                                                                |
-| 後     | あに       | Behind; Back; Later                                                                   |
+| 後     | あと       | Behind; Back; Later                                                                   |
 | 上     | うえ       | (1) Above; Up; Over; Top; Summit; Surface; On<br>(2) Before; Previous （〜の）            |
 | 下     | した       | Below; Down, Underneath; Under （〜の）                                                   |
 | 近い    | ちかい      | Near; Nearby; Close; Short distance （〜の）                                              |

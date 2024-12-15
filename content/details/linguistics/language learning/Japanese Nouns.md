@@ -1,16 +1,18 @@
 # Things in Nature
-| Kanji | Hiragana | Meaning                       |
-| ----- | -------- | ----------------------------- |
-|       | おなか      | Stomach                       |
-|       | かぜ       | Wind; Breeze                  |
-| 木     | き        | Tree; Wood; Timber            |
-| 雨     | あめ       | Rain                          |
-|       | ふゆ       | Winter                        |
-| 花     | はな       | Flower; Blossom; Bloom; Petal |
-| 耳     | みみ       | Ear; Hearing; Edge; Crust     |
-| 水     | みず       | Water (cold, fresh)           |
-|       | はれ       | Clear Weather                 |
-|       | ゆき       | Snow                          |
+| Kanji | Hiragana | Meaning                                                                          |
+| ----- | -------- | -------------------------------------------------------------------------------- |
+|       | おなか      | Stomach                                                                          |
+|       | かぜ       | Wind; Breeze                                                                     |
+| 木     | き        | Tree; Wood; Timber                                                               |
+| 雨     | あめ       | Rain                                                                             |
+|       | ふゆ       | Winter                                                                           |
+| 花     | はな       | Flower; Blossom; Bloom; Petal                                                    |
+| 耳     | みみ       | Ear; Hearing; Edge; Crust                                                        |
+| 水     | みず       | Water (cold, fresh)                                                              |
+|       | はれ       | Clear Weather                                                                    |
+|       | ゆき       | Snow                                                                             |
+|       | なつ       | Summer                                                                           |
+| 天気    | てんき      | Weather; The elements; Fair weather; Fine weather<br><br>天 ( Sky) 気 (Atmosphere) |
 ## Animals 
 | Kanji | Hiragana | Meaning                                            |
 | ----- | -------- | -------------------------------------------------- |
@@ -34,6 +36,8 @@
 |       | ぼおし      | Hat / Cap                                                                        |
 |       | ペット      | Pet                                                                              |
 |       | T シャツ    | T-Shirt                                                                          |
+|       | ズボン      | Trousers; Pants<br><br>From French "Jupon"                                       |
+|       | めがね      | Glasses; Spectacles                                                              |
 ### Vehicles
 | Kanji | Hiragana | Meaning |
 | ----- | -------- | ------- |
