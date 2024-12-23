@@ -1,27 +1,33 @@
 # Things in Nature
 | Kanji | Hiragana | Meaning                                                                          |
 | ----- | -------- | -------------------------------------------------------------------------------- |
-|       | おなか      | Stomach                                                                          |
 |       | かぜ       | Wind; Breeze                                                                     |
 | 木     | き        | Tree; Wood; Timber                                                               |
 | 雨     | あめ       | Rain                                                                             |
-|       | ふゆ       | Winter                                                                           |
+|       | ふゆ       | Winter<br><br>                                                                   |
 | 花     | はな       | Flower; Blossom; Bloom; Petal                                                    |
-| 耳     | みみ       | Ear; Hearing; Edge; Crust                                                        |
 | 水     | みず       | Water (cold, fresh)                                                              |
 |       | はれ       | Clear Weather                                                                    |
 |       | ゆき       | Snow                                                                             |
 |       | なつ       | Summer                                                                           |
 | 天気    | てんき      | Weather; The elements; Fair weather; Fine weather<br><br>天 ( Sky) 気 (Atmosphere) |
+|       | でんき      | Electricity; Electric Light                                                      |
 ## Animals 
-| Kanji | Hiragana | Meaning                                            |
-| ----- | -------- | -------------------------------------------------- |
-| 犬     | いぬ       | Dog                                                |
-|       | さかな      | Fish                                               |
-| 猫     | ねこ       | Cat                                                |
-|       | とり       | Bird; Bird meat (esp. Chicken meat); Fowl; Poultry |
+| Kanji | Hiragana<br><br>どうぶつ | Meaning<br><br>Animal                              |
+| ----- | -------------------- | -------------------------------------------------- |
+| 犬     | いぬ                   | Dog                                                |
+|       | さかな                  | Fish                                               |
+| 猫     | ねこ                   | Cat                                                |
+|       | とり                   | Bird; Bird meat (esp. Chicken meat); Fowl; Poultry |
 
 
+## Body Parts
+| Kanji | Hiragana | Meaning                             |
+| ----- | -------- | ----------------------------------- |
+|       | おなか      | Stomach                             |
+| 耳     | みみ       | Ear; Hearing; Edge; Crust           |
+| 口     | くち       | Mouth; Opening; Gap; Hole; Orifice  |
+|       | て        | Hand; Arm; Forepaw; Foreleg; Handle |
 
 # Artificial Things
 ### Clothing and Apparel
@@ -38,12 +44,14 @@
 |       | T シャツ    | T-Shirt                                                                          |
 |       | ズボン      | Trousers; Pants<br><br>From French "Jupon"                                       |
 |       | めがね      | Glasses; Spectacles                                                              |
+|       | スリッパ     | Slippers                                                                         |
 ### Vehicles
-| Kanji | Hiragana | Meaning |
-| ----- | -------- | ------- |
-|       | タクシー     | Taxi    |
-|       | じてんしゃ    | Bicycle |
-|       | バス       | Bus     |
+| Kanji | Hiragana | Meaning                         |
+| ----- | -------- | ------------------------------- |
+|       | タクシー     | Taxi                            |
+|       | じてんしゃ    | Bicycle                         |
+|       | バス       | Bus                             |
+| 車     | くるま      | Car; Automobile; Vehicle; Wheel |
 
 ### Media
 
@@ -76,41 +84,43 @@
 
 ### Other Things
 
-| Kanji | Hiragana | Meaning                                                                                                                                  |
-| ----- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-|       | いす       | Chair; Stool; Post; Office; Position                                                                                                     |
-| お金    | おかね      | Money<br><br>金 (gold)                                                                                                                    |
-|       | かお       | Countenance; A person's face                                                                                                             |
-|       | カップ      | Cup                                                                                                                                      |
-|       | かびん      | Flower vase                                                                                                                              |
-|       | きって      | Postage Stamp; Merchandise Certificate                                                                                                   |
-|       | きっぷ      | Ticket                                                                                                                                   |
-| 金     | かね       | Gold; Metal; Money                                                                                                                       |
-|       | さいふ      | Wallet                                                                                                                                   |
-|       | たばこ      | Tobacco; Cigarettes                                                                                                                      |
-| 机     | つくえ      | Desk                                                                                                                                     |
-|       | テニス      | Tennis                                                                                                                                   |
-|       | と        | Japanese style door                                                                                                                      |
-|       | とけえ      | Watch / Clock                                                                                                                            |
-|       | ナイフ      | Knife                                                                                                                                    |
-|       | はいざら     | Ash tray                                                                                                                                 |
-|       | ポケット     | Pocket                                                                                                                                   |
-|       | ポスト      | Post; Position; Postbox; Mail box; Pillar box                                                                                            |
-|       | ボタン      | Button                                                                                                                                   |
-| お土産   | おみやげ     | Souvenir<br><br>土 (Ground) 産 (Products)                                                                                                  |
-| 買い物   | かいもの     | Shopping; Purchased Goods<br><br>買 (buy)  物 (something)                                                                                  |
-|       | コンピューター  | Computer                                                                                                                                 |
-|       | ふうとう     | Envelope                                                                                                                                 |
-|       | かぎ       | (1) Key<br>(2) Lock                                                                                                                      |
-|       | おじぎ      | Bowing (in the respectful sense)                                                                                                         |
+| Kanji | Hiragana | Meaning                                                 |
+| ----- | -------- | ------------------------------------------------------- |
+|       | いす       | Chair; Stool; Post; Office; Position                    |
+| お金    | おかね      | Money<br><br>金 (gold)                                   |
+|       | かお       | Countenance; A person's face                            |
+|       | カップ      | Cup                                                     |
+|       | かびん      | Flower vase                                             |
+|       | きって      | Postage Stamp; Merchandise Certificate                  |
+|       | きっぷ      | Ticket                                                  |
+| 金     | かね       | Gold; Metal; Money                                      |
+|       | さいふ      | Wallet                                                  |
+|       | たばこ      | Tobacco; Cigarettes                                     |
+| 机     | つくえ      | Desk                                                    |
+|       | テニス      | Tennis                                                  |
+|       | と        | Japanese style door                                     |
+|       | とけえ      | Watch / Clock                                           |
+|       | ナイフ      | Knife                                                   |
+|       | はいざら     | Ash tray                                                |
+|       | ポケット     | Pocket                                                  |
+|       | ポスト      | Post; Position; Postbox; Mail box; Pillar box           |
+|       | ボタン      | Button                                                  |
+| お土産   | おみやげ     | Souvenir<br><br>土 (Ground) 産 (Products)                 |
+| 買い物   | かいもの     | Shopping; Purchased Goods<br><br>買 (buy)  物 (something) |
+|       | コンピューター  | Computer                                                |
+|       | ふうとう     | Envelope                                                |
+|       | かぎ       | (1) Key<br>(2) Lock                                     |
+|       | おじぎ      | Bowing (in the respectful sense)                        |
+|       | じゅぎょう    | Lesson; Class work                                      |
 
 
 ## Food
 ### Pertaining to Food Itself
-| Kanji | Hiragana | Meaning     |
-| ----- | -------- | ----------- |
-|       | おさら      | Plate; Dish |
-|       | メニュー     | Menu        |
+| Kanji | Hiragana | Meaning                   |
+| ----- | -------- | ------------------------- |
+|       | おさら      | Plate; Dish               |
+|       | メニュー     | Menu                      |
+|       | りょうり     | Cuisine; Cooking; Cookery |
 
 
 ### Food Items
@@ -135,6 +145,7 @@
 |       | ぶたにく     | Pork                                                         |
 |       | やさい      | Vegetable                                                    |
 |       | とんかつ     | Pork Cutlet                                                  |
+|       | さとう      | Sugar                                                        |
 
 
 
@@ -159,13 +170,16 @@
 |       | クラス      | Class                                                                                                                                    |
 |       | じかん      | Time (noun)                                                                                                                              |
 |       | さい       | Age (noun)                                                                                                                               |
-|       | なまえ      | Name                                                                                                                                     |
+|       | なまえ      | Name; Full name; Given name; First name                                                                                                  |
 | 日     | にち       | Sun; Day (in the calendar sense)                                                                                                         |
 |       | ほんとう     | Truth; Reality                                                                                                                           |
 |       | あいさつ     | Greeting                                                                                                                                 |
 |       | うち       | My Place / House / Home                                                                                                                  |
 |       | いみ       | Meaning ; Significance                                                                                                                   |
 | 休み    | やすみ      | Rest; Recess; Respite; Vacation; Holiday; Absence; Suspension; To rest; To have a break; To be absent; To take a day off<br><br>休 (rest) |
+|       | げんき      | Health; Robust; Vigor; Energy; Vitality; Vim; Stamina; Spirit; Courage                                                                   |
+|       | すき       | Liking; Fondness; Love                                                                                                                   |
+|       | びょうき     | Illness; Disease; Sickness                                                                                                               |
 
 ## Topics and Fields of Study
 | Kanji | Hiragana | Meaning                           |
@@ -181,3 +195,5 @@
 |       | れきし      | History                           |
 |       | ニュース     | News                              |
 |       | こくさいかんけい | International Relations           |
+|       | せっけん     | Economy; Thrift                   |
+

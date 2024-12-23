@@ -2,7 +2,9 @@
 * Atmospheric [[Fluid Mechanics|pressure]] exists due to the *continuous collision of molecules in the atmosphere*.
 * *Temperature gradients are the main driver for atmospheric motion*. 
 	* Insolation causes an increase in temperature, which causes an increase in volume, and a decrease in air pressure. 
-	* The above also results in **pressure gradients**. *Wind is primarily driven by pressure gradients*
+	* The above also results in **[[Fluid Mechanics|pressure]] gradients**. *Wind is primarily driven by pressure gradients*
+
+* **Vertical wind shear** refers to the change in wind speed and/or direction with altitude in the atmosphere.
 # Rules for Wind Flow
 ### Pressure Gradients
 * Winds flow from areas of *high pressure (low temperature) to low pressure (high temperature).*

@@ -26,6 +26,7 @@
 * [[Queueing Theory]]
 * [[Measure Theory]] - a more formal treatment of probabilities
 * [[Markov Chain]]
+* [[Probabilistic Graphical Models]]
 
 # Links
 * [[Probability Theory -- Notation Guide]]

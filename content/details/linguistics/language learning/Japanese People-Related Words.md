@@ -76,6 +76,7 @@
 |       | だいがくせい          | College student                                                                                                                                                    |
 |       | べんごし            | Lawyer                                                                                                                                                             |
 |       | りゅうがくせい         | International student<br><br>Note the subword "がくせい" (student)                                                                                                     |
+|       | やおや             | Greengrocer                                                                                                                                                        |
 
 # Work Related Terms
 | Kanji | Hiragana | Meaning                  |

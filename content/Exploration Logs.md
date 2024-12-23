@@ -34,6 +34,10 @@
 * [Ecoclimates -- Climate-Response Modeling of Vegetation by Palubicki et al. (2022)](https://storage.googleapis.com/pirk.io/papers/Palubicki.etal-2022-Ecoclimates.pdf)
 * Ma et al. (2024) [Foundation Methods for Music -- A survey](https://arxiv.org/pdf/2408.14340v2)
 
+# Front Logs
+* [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
+	* https://en.wikipedia.org/wiki/Köppen_climate_classification
+
 # Backlogs
 * Note, some entries in [[Trivia]] are also interesting.
 
@@ -55,8 +59,6 @@
 
 * [[Factory Physics]] - Workforce Planning.
 * [[Virtues and their Vices by Kevin and Craig]]  -Cardinal Virtues, Intellectual Virtues, Theological Virtues
-* [[Exploring Physical Geography by Reynolds]] - start at Weather Systems
-	* https://en.wikipedia.org/wiki/Köppen_climate_classification
 * [[Linear and Nonlinear Programming by Luenberger and Ye]] - Resume Ch. 5
 * [[Drawing on the Right Side of the Brain by Edwards]] - Resume Ch. 8
 * [[Ordinary Differential Equations by Arnold]] - Ch. 6 (but restart all of Part 1) with better math background

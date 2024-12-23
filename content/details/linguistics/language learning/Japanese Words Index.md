@@ -1,10 +1,11 @@
-* See also [[Japanese Misc Words Index]]
+* See also [[Japanese Misc Words Index]] for a dump of other words not yet filed
 
 # Categories
 * [[Japanese Nouns]]
 * [[Japanese People-Related Words]]
 * [[Japanese Time-Related Words]]
 * [[Japanese Verbs]]
+* [[Japanese Adjectives]]
 
 # Numbers
 ## The Numbers
@@ -64,15 +65,8 @@
 | 南     | みなみ      | South                                                                                 |
 | 東     | ひがし      | East                                                                                  |
 | 西     | にし       | West                                                                                  |
+| 前     | まえ       | Before some event; Ago; Previously; In front of; Before                               |
 
-# Colors
-
-| Kanji<br>色 | Hiragana<br>いろ  | Name<br>Color                                                                     |
-| ---------- | --------------- | --------------------------------------------------------------------------------- |
-|            | あお              | Blue; Green                                                                       |
-|            | きいろ<br><br>きいろい | Yellow<br><br>More technically きいろ means "color of wood" from き (tree) いろ (color) |
-|            | くろい             | Black; Dark; Illicit; Wicked; Underground                                         |
-|            | みどり             | Green                                                                             |
 
 # Countries
 ## General
@@ -141,6 +135,7 @@
 |         | むら       | Village                                                                                                                        |
 | 門       | もん       | Gate, particularly that of Japanese style in Buddhist / Shinto temples and Japanese architecture                               |
 |         | ゆうびんきょく  | Post office                                                                                                                    |
+|         | ドア       | (Western Style) Door                                                                                                           |
  
 # Links
 * [[Kanji Index]]

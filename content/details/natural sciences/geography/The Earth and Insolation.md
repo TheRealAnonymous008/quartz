@@ -11,6 +11,7 @@
 	* By contrast, at latitudes closer to the Poles, the insolation is spread out over a wider area and they receive less.
 	* The larger the **zenith angle**, the farther the energy has to travel through the atmosphere. *Thus, the atmosphere at higher latitudes absorb more of the energy*. 
 	* A more precise, empirical formulation of the above can be found in [[Exploring Physical Geography by Reynolds|Reynolds Ch. 2.16]]
+
 # Insolation and Earth's Surface
 * Considering various natural mechanisms, the *Earth has a low average but highly variational surface albedo*. This albedo is important since it determines *heat balance*. 
 	* *Land gets warmer at a much faster rate than the ocean*. This is because of the specific heat capacity of water compared to rocks. Also, water tends to transfer this heat to latent heat (i.e., evaporation)
@@ -32,6 +33,20 @@
 * Regions near the equator and the tropics receive more insolation that they transmit back. This excess energy is then transmitted towards the Poles. We refer to such regions as having an **energy surplus**.
 	* *More than half of the planet has an energy surplus when it comes to insolation*.  These contribute to wind patterns.
 	* *An increase in latitude means a decrease in energy surplus*. As a result, in higher latitudes, the ocean tends to be warmer than the continent.
+
+# The Atmosphere and Insolation
+* Some atmospheric components can partially **reflect** incoming insolation. This reflected energy can be returned to space or be contained within the atmosphere.
+* Some components can **absorb** energy which increases the temperature of the component. 
+* Some components can **scatter** atmospheric components which diffuse the energy in various directions. 
+	* The sky is blue because the *atmosphere tends to scatter blue light*
+	* The sun appears yellow because the *atmosphere tends to allow red and green light through* .
+	* *When the sun is at a low angle, the insolation has to pass through more of the atmosphere.*. This is why sunrises and sunsets appear red or orange. 
+* The atmospheric layers interact with insolation differently.
+	* *The thermosphere intercepts high energy electromagnetic waves* such as X-rays and gamma rays, which causes the layer to warm up at the parts closest to space (although it remains relatively cold because of the sparse number of atoms).
+	* *The stratosphere contains the Ozone Layer which absorbs UV light*. Like with the thermosphere, this causes the stratosphere to heat up at higher altitudes.
+	* The temperature gradient for the other layers can generally be seen as a consequence of *the sun heating the surface more, and the surface heating the atmosphere from below*.
+* *Clouds also help in intercepting insolation*. The amount of energy that is reflected by clouds varies because of their composition, location, and season.
+
 # Seasons
 * The seasons are indicative of the amount of sunlight received by a region.
 * The seasons are *caused by the Earth's axis of rotation being tilted* relative to the plane in which we orbit the sun.
@@ -42,6 +57,7 @@
 * On the **Tropics**, latitudes which have an angle from the equator that matches the tilt off the Earth's axis, *the amount of insolation received is the maximal and minimal depending on which solstice*.
 	* In other times of the year, the sun delivers constant insolation between these regions which causes *the tropics to be warm*. 
 * On the **Polar Circles**, latitudes which have a complementary angle matching the tilt of the Earth so that they are perpendicular to the sun's rays, during the day of the solstice, *one pole will have no night while the other pole will have no day* .
+
 # Daylight
 * Sunrise and sunset are *brought about by the rotation of the Earth*.
 	* At any given point, *half of the Earth is covered in darkness*. 

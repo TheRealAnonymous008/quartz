@@ -69,3 +69,8 @@
 |       | わすれる     | To forget; To leave carelessly; To be forgetful of; To forget about; To forget                                                                  | 1       | T          |
 |       | わかる      | To understand                                                                                                                                   | 5r      | I          |
 |       | はたらく     | To work; To labor; To function; To operate; To work (as a machine works); To come into play                                                     | 5k      | I          |
+|       | こまる      | To be worried; To be bothered                                                                                                                   | 5r      | I          |
+|       | ならぶ      | To line up; To stand in a line; To rival; To match; To equal                                                                                    | 5b      | I          |
+| 出かける  | でかける     | To go out (i.e, on an excursion); To depart; To set out; To start; To be going out<br><br>出 (Exit)                                              | 1       | I          |
+|       | ならう      | To learn                                                                                                                                        | 5u      | T          |
+|       | わかる      | To be understood; To be comprehended; To be grasped                                                                                             | 5r      | I          |

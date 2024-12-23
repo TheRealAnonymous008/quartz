@@ -56,17 +56,24 @@
 | 毎週    | まいしゅう              | Every Week<br><br>毎 (every) 週 (week)       |
 | 毎日    | まいにち               | Every day<br><br>毎 (every) 日 (day)         |
 | 毎晩    | まいばん               | Every night<br><br>毎 (every) 晩 (night)     |
+| 来年    | らいねん               | Next year<br><br>来 (Next) 年 (Year)         |
 
 
 
-## Counter Days 
+## Days of the Month
 
 | Kanji | Hiragana | Name                                   |
 | ----- | -------- | -------------------------------------- |
-| 一月    | いちがつ     | One month                              |
 | 一日    | いちにち     | One day; First of the month            |
 | 五日    | いつか      | Five Days; Fifth Day                   |
+| 六日    | むいか      | Sixth day of the month                 |
 | 七日    | なのか      | Seven days; Seventh (day of the month) |
+| 九日    | ここのか     | Ninth (day of the month)               |
+
+## Months of the Year
+| Kanji | Hiragana | Katakana  |
+| ----- | -------- | --------- |
+| 一月    | いちがつ     | One month |
 
 # Events and Activities
 
