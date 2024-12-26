@@ -123,6 +123,13 @@
 |       | りょうり     | Cuisine; Cooking; Cookery |
 
 
+### Meals
+| Kanji | Hiragana | Meaning                                |
+| ----- | -------- | -------------------------------------- |
+| 朝ご飯   | あさごはん    | Breakfast<br><br>朝 (Morning)  飯 (Meal) |
+| 昼ご飯   | ひるごはん    | Lunch<br><br>飯 (Noon) 飯 (Meal)         |
+| 晩ご飯   | ばんごはん    | Dinner<br><br>晩 (Night) 飯 (Meal)       |
+
 ### Food Items
 
 | Kanji | Hiragana | Meaning                                                      |
@@ -149,13 +156,6 @@
 
 
 
-### Meals
-| Kanji | Hiragana | Meaning                                     |
-| ----- | -------- | ------------------------------------------- |
-| 朝ご飯   | あさごはん    | Breakfast<br><br>朝 / あさ (Morning)  飯 (Meal) |
-| 昼ご飯   | ひるごはん    | Lunch<br><br>飯 (Noon) 飯 (Meal)              |
-| 晩ご飯   | ばんごはん    | Dinner<br><br>晩 (Night) 飯 (Meal)            |
-
 
 # Abstract Things
 ## In general
@@ -180,6 +180,7 @@
 |       | げんき      | Health; Robust; Vigor; Energy; Vitality; Vim; Stamina; Spirit; Courage                                                                   |
 |       | すき       | Liking; Fondness; Love                                                                                                                   |
 |       | びょうき     | Illness; Disease; Sickness                                                                                                               |
+|       | せっけん     | Economy; Thrift                                                                                                                          |
 
 ## Topics and Fields of Study
 | Kanji | Hiragana | Meaning                           |
@@ -195,5 +196,5 @@
 |       | れきし      | History                           |
 |       | ニュース     | News                              |
 |       | こくさいかんけい | International Relations           |
-|       | せっけん     | Economy; Thrift                   |
+
 

@@ -1,16 +1,29 @@
 * Note that the correct spelling of the word is provided in the native writing system (see [[Index of Writing Systems]]). Romanization is only an approximation
 * See also the [[Kanji Index]] for the meaning of individual kanji
 
-| Kanji | Word | Meaning                                                                                |
-| ----- | ---- | -------------------------------------------------------------------------------------- |
-|       | どの   | Which; What way                                                                        |
-|       | なぜ   | How; Why                                                                               |
-
-
-
-
-
-
+| Kanji | Word  | Meaning                                                                                          |
+| ----- | ----- | ------------------------------------------------------------------------------------------------ |
+|       | どの    | Which; What way                                                                                  |
+|       | なぜ    | How; Why                                                                                         |
+|       | せまい   | Narrow; Confined; Small                                                                          |
+|       | なくす   | To lose something<br><br>v5s; vt                                                                 |
+|       | にもつ   | Luggage; Baggage                                                                                 |
+|       | こうちゃ  | Black tea                                                                                        |
+|       | せ     | Height; Stature                                                                                  |
+|       | まいばん  | Every night                                                                                      |
+| 目     | め     | Eye; Eyeball; Eyesight; Sight; Vision                                                            |
+| 十日    | とおか   | Ten Days; Tenth day of the month                                                                 |
+|       | すう    | To smoke; To breathe; To inhale; To such; To sip; To slurp; To absorb; To soak up<br><br>v5u; vt |
+|       | ボールペン | Ball point pen                                                                                   |
+|       | は     | Tooth                                                                                            |
+|       | けっこう  | Splendid; Nice; Sufficient; "I'm fine" (no thank you); OK; Tolerable                             |
+|       | だいすき  | Very likeable; Lovable; Like very much                                                           |
+|       | つとめる  | To work someone; To be employed (at); To serve (in)<br><br>v1; vt                                |
+|       | はる    | Spring; Spring time; Prime (of one's life, period); Adolescence                                  |
+|       | どうして  | For what reason; Why; How; In what way; For what purpose; What for                               |
+|       | つける   | To turn on; To switch on; To light up<br><br>v1; vt                                              |
+|       | なく    | To cry; To weep; To sob; To howl<br><br>v5k                                                      |
+|       | あかい   | Red                                                                                              |
 
 # Unfiled
 
