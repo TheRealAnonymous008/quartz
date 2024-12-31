@@ -1,5 +1,13 @@
 * A collection of notes on learning languages
 
+
+# English
+* [[English Words Index]]
+
+# German 
+* [[German Words Index]]
+
+
 # Japanese
 * The main writing systems are Hiragana, Katakana and Kanji (see [[Index of Writing Systems|here]]). 
 	* [[Index of Writing Systems#Hiragana|Hiragana]] is used for native Japanese words not covered in Kanji. It also good for beginners. 
@@ -12,6 +20,3 @@
 
 * References
 	* [[Genki - Elementary Japanese]]
-
-# English
-* [[English Words Index]]

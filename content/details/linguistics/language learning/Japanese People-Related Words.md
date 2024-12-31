@@ -61,22 +61,22 @@
 # Occupations
 ### People
 
-| Kanji | Hiragana<br>しごと | Meaning<br>Job; Work; Occupation                                                                                                                                   |
-| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       | いしゃ             | Physician; Medical Doctor                                                                                                                                          |
-|       | おまわりさん          | (friendly term for a) Policeman                                                                                                                                    |
-|       | かいしゃいん          | Office worker                                                                                                                                                      |
-| 学生    | がくせい            | Student<br><br>(esp. a university student)<br><br>学 (study) 生 (life)                                                                                               |
-|       | きょうし            | Teacher or Professor<br><br>A more modest version of せんせい                                                                                                          |
-|       | こうこうせい          | Highschool student<br><br>こうこう (highschool) せい (student)                                                                                                           |
-|       | しゅふ             | Housewife                                                                                                                                                          |
-|       | せんせい            | Teacher or Professor.<br><br>Honorable Master<br><br>Note that saying わたし は せんせい  (I am Sensei) can be seen as arrogant since it is reserved for Honorable Masters |
-|       | せいと             | Pupil (student)                                                                                                                                                    |
-|       | だいがくいんせい        | Graduate student                                                                                                                                                   |
-|       | だいがくせい          | College student                                                                                                                                                    |
-|       | べんごし            | Lawyer                                                                                                                                                             |
-|       | りゅうがくせい         | International student<br><br>Note the subword "がくせい" (student)                                                                                                     |
-|       | やおや             | Greengrocer                                                                                                                                                        |
+| Kanji | Hiragana<br>しごと | Meaning<br>Job; Work; Occupation                                                                                                                                                             |
+| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | いしゃ             | Physician; Medical Doctor                                                                                                                                                                    |
+|       | おまわりさん          | (friendly term for a) Policeman                                                                                                                                                              |
+|       | かいしゃいん          | Office worker                                                                                                                                                                                |
+| 学生    | がくせい            | Student<br><br>(esp. a university student)<br><br>学 (study) 生 (life)                                                                                                                         |
+|       | きょうし            | Teacher or Professor<br><br>A more modest version of せんせい                                                                                                                                    |
+|       | こうこうせい          | Highschool student<br><br>こうこう (highschool) せい (student)                                                                                                                                     |
+|       | しゅふ             | Housewife                                                                                                                                                                                    |
+| 先生    | せんせい            | Teacher or Professor.<br><br>Honorable Master<br><br>先 (ahead) 生 (life)<br><br>Note that saying わたし は せんせい  (I am Sensei) can be seen as arrogant since it is reserved for Honorable Masters |
+|       | せいと             | Pupil (student)                                                                                                                                                                              |
+|       | だいがくいんせい        | Graduate student                                                                                                                                                                             |
+|       | だいがくせい          | College student                                                                                                                                                                              |
+|       | べんごし            | Lawyer                                                                                                                                                                                       |
+|       | りゅうがくせい         | International student<br><br>Note the subword "がくせい" (student)                                                                                                                               |
+|       | やおや             | Greengrocer                                                                                                                                                                                  |
 
 # Work Related Terms
 | Kanji | Hiragana | Meaning                  |

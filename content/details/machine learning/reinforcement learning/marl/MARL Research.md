@@ -88,6 +88,6 @@
 [^Queralta_2020]: Queralta et al. (2020) [Collaborative Multi-Robot Search and Rescue: Planning, Coordination, Perception, and Active Vision](https://ieeexplore.ieee.org/document/9220149?denied=)
 
 
-* [^Weil_2024]  introduces a decentralized approach to MARL using a graph-based message passing algorithm to pass agent states to their neighbors. 
+* [^Weil_2024]  introduces a decentralized approach to MARL using a graph-based message passing algorithm to pass agent states to their neighbors.  In this approach, agents form a communication network. Agents pass their local states to their neighbors in the network, and aggregate incoming messages to form a local observation of the entire network. This approach can be used with any RL training algorithm by performing the message passing step in each episode and augmenting agent observations with the local graph observation. 
 
 [^Weil_2024] Wel et al. (2024) [Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing](https://arxiv.org/abs/2402.05027)

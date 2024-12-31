@@ -16,9 +16,9 @@
 | 曜日              | ようび      | Week day                                             |
 
 ## General
-| Kanji | Hiragana | Name                                                                               |
+| Kanji | Hiragana | Meaning                                                                            |
 | ----- | -------- | ---------------------------------------------------------------------------------- |
-| 早い    | はやい      | Early<br><br>早 (early)                                                             |
+| 早い    | はやい      | Early; (too) soon; (too) early; Not yet;<br><br>早 (early)                          |
 | 今     | いま       | Now; The Present; Just Now; Immediately                                            |
 |       | いつも      | Always; Usually; Every Time; Never (w/ negative verb so that it means "never not") |
 | 年     | とし       | Year; Age                                                                          |
@@ -26,7 +26,7 @@
 |       | すぐに      | Instantly; Immediately                                                             |
 
 ## Time of Day
-| Kanji | Hiragana | Name                                |
+| Kanji | Hiragana | Meaning                             |
 | ----- | -------- | ----------------------------------- |
 | 朝     | あさ       | Morning                             |
 |       | ごご       | Afternoon (P.M.)                    |
@@ -40,7 +40,7 @@
 
 
 ## Relative to Other Time Steps
-| Kanji | Hiragana           | Name                                       |
+| Kanji | Hiragana           | Meaning                                    |
 | ----- | ------------------ | ------------------------------------------ |
 |       | いっさくじつ<br><br>おとつい | Day before yesterday                       |
 | 明日    | おした                | Tomorrow<br><br>明 (bright light) 日 (day)   |
@@ -62,13 +62,16 @@
 
 ## Days of the Month
 
-| Kanji | Hiragana | Name                                   |
-| ----- | -------- | -------------------------------------- |
-| 一日    | いちにち     | One day; First of the month            |
-| 五日    | いつか      | Five Days; Fifth Day                   |
-| 六日    | むいか      | Sixth day of the month                 |
-| 七日    | なのか      | Seven days; Seventh (day of the month) |
-| 九日    | ここのか     | Ninth (day of the month)               |
+| Kanji | Hiragana | nth day |
+| ----- | -------- | ------- |
+| 一日    | いちにち     | 1       |
+| 二日    | ふつか      | 2       |
+| 四日    | よっか      | 4       |
+| 五日    | いつか      | 5       |
+| 六日    | むいか      | 6       |
+| 七日    | なのか      | 7       |
+| 九日    | ここのか     | 9       |
+| 十日    | とおか      | 10      |
 
 ## Months of the Year
 | Kanji | Hiragana | Katakana  |

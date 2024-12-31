@@ -1,3 +1,4 @@
+
 | Kanji | Hiragana | Meaning                                                                                                                                         | Type    | Transitive |
 | ----- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- |
 |       | あける      | To open (a door, etc...); To unwrap; To open (for business); To empty; To clear out                                                             | 1       | T          |
@@ -74,3 +75,12 @@
 | 出かける  | でかける     | To go out (i.e, on an excursion); To depart; To set out; To start; To be going out<br><br>出 (Exit)                                              | 1       | I          |
 |       | ならう      | To learn                                                                                                                                        | 5u      | T          |
 |       | わかる      | To be understood; To be comprehended; To be grasped                                                                                             | 5r      | I          |
+|       | つける      | To turn on; To switch on; To light up                                                                                                           | 1       | T          |
+|       | なく       | To cry; To weep; To sob; To howl                                                                                                                | 5k      | I          |
+|       | つとめる     | To work someone; To be employed (at); To serve (in)                                                                                             | 1       | T          |
+|       | なくす      | To lose something                                                                                                                               | 5s      | T          |
+|       | すう       | To smoke; To breathe; To inhale; To such; To sip; To slurp; To absorb; To soak up                                                               | 5u      | T          |
+|       | ぬぐ       | To undress; To take off (clothes, etc...)                                                                                                       | 5g      | T          |
+|       | のぼる      | To climb; To ascend; To go up; To rise; To go to (the capital); To be promoted                                                                  | 5r      | I          |
+| 話す    | はなす      | To speak<br><br>話 (talk)                                                                                                                        | 5s      | T          |
+|       | しまる      | To close; To be closed; To be shut; To be locked; To tighten; To be tightened                                                                   | 5r      | I          |

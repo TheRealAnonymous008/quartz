@@ -1,17 +1,19 @@
 # Things in Nature
-| Kanji | Hiragana | Meaning                                                                          |
-| ----- | -------- | -------------------------------------------------------------------------------- |
-|       | かぜ       | Wind; Breeze                                                                     |
-| 木     | き        | Tree; Wood; Timber                                                               |
-| 雨     | あめ       | Rain                                                                             |
-|       | ふゆ       | Winter<br><br>                                                                   |
-| 花     | はな       | Flower; Blossom; Bloom; Petal                                                    |
-| 水     | みず       | Water (cold, fresh)                                                              |
-|       | はれ       | Clear Weather                                                                    |
-|       | ゆき       | Snow                                                                             |
-|       | なつ       | Summer                                                                           |
-| 天気    | てんき      | Weather; The elements; Fair weather; Fine weather<br><br>天 ( Sky) 気 (Atmosphere) |
-|       | でんき      | Electricity; Electric Light                                                      |
+| Kanji   | Hiragana | Meaning                                                                                                                        |
+| ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
+|         | かぜ       | Wind; Breeze                                                                                                                   |
+| 木       | き        | Tree; Wood; Timber                                                                                                             |
+| 雨       | あめ       | Rain                                                                                                                           |
+|         | ふゆ       | Winter<br><br>                                                                                                                 |
+| 花       | はな       | Flower; Blossom; Bloom; Petal                                                                                                  |
+| 水       | みず       | Water (cold, fresh)                                                                                                            |
+|         | はれ       | Clear Weather                                                                                                                  |
+|         | ゆき       | Snow                                                                                                                           |
+|         | なつ       | Summer                                                                                                                         |
+| 天気      | てんき      | Weather; The elements; Fair weather; Fine weather<br><br>天 ( Sky) 気 (Atmosphere)                                               |
+|         | でんき      | Electricity; Electric Light                                                                                                    |
+|         | はる       | Spring; Spring time; Prime (of one's life, period); Adolescence                                                                |
+| 川,<br>河 | かわ<br>がわ | (1) River<br>(2) . . . River (as in, the suffix used for river names)<br><br>There are two possible kanji: 川 (River) 河 (River) |
 ## Animals 
 | Kanji | Hiragana<br><br>どうぶつ | Meaning<br><br>Animal                              |
 | ----- | -------------------- | -------------------------------------------------- |
@@ -22,12 +24,15 @@
 
 
 ## Body Parts
-| Kanji | Hiragana | Meaning                             |
-| ----- | -------- | ----------------------------------- |
-|       | おなか      | Stomach                             |
-| 耳     | みみ       | Ear; Hearing; Edge; Crust           |
-| 口     | くち       | Mouth; Opening; Gap; Hole; Orifice  |
-|       | て        | Hand; Arm; Forepaw; Foreleg; Handle |
+| Kanji | Hiragana | Meaning                               |
+| ----- | -------- | ------------------------------------- |
+|       | おなか      | Stomach                               |
+| 耳     | みみ       | Ear; Hearing; Edge; Crust             |
+| 口     | くち       | Mouth; Opening; Gap; Hole; Orifice    |
+|       | て        | Hand; Arm; Forepaw; Foreleg; Handle   |
+| 目     | め        | Eye; Eyeball; Eyesight; Sight; Vision |
+|       | は        | Tooth                                 |
+|       | はな       | Nose                                  |
 
 # Artificial Things
 ### Clothing and Apparel
@@ -45,6 +50,9 @@
 |       | ズボン      | Trousers; Pants<br><br>From French "Jupon"                                       |
 |       | めがね      | Glasses; Spectacles                                                              |
 |       | スリッパ     | Slippers                                                                         |
+|       | シャツ      | Shirt; Singlet                                                                   |
+|       | ネクタイ     | Necktie                                                                          |
+|       | くつした     | Socks; Stockings                                                                 |
 ### Vehicles
 | Kanji | Hiragana | Meaning                         |
 | ----- | -------- | ------------------------------- |
@@ -52,35 +60,38 @@
 |       | じてんしゃ    | Bicycle                         |
 |       | バス       | Bus                             |
 | 車     | くるま      | Car; Automobile; Vehicle; Wheel |
+|       | ひこうき     | Airplane; Aircraft              |
 
 ### Media
 
-| Kanji | Hiragana | Meaning                                                                                         |
-| ----- | -------- | ----------------------------------------------------------------------------------------------- |
-|       | かみ       | Paper                                                                                           |
-|       | カレンダー    | Calendar                                                                                        |
-| 雑誌    | ざっし      | Magazine                                                                                        |
-|       | じしょ      | Dictionary                                                                                      |
-|       | しんぶん     | Newspaper                                                                                       |
-| 写真    | しゃしん     | Picture; Photograph<br><br>写 (Copy) 真 (Reality)                                                 |
-|       | テープレコーダー | Tape Recorder                                                                                   |
-| 手紙    | てがみ      | Letter; Note<br><br>手 (Hand) 紙 (Paper)                                                          |
-|       | テレビ      | TV                                                                                              |
-|       | でんわ      | Telephone                                                                                       |
-|       | はがき      | Postcard; Memo; Note; Card                                                                      |
-|       | ページ      | Page                                                                                            |
-|       | ペン       | Pen                                                                                             |
-| 本     | ほん       | (1) Book <br>(2) Main; Head; This; Our Present; Real<br>(3) Counter for long cylindrical things |
-|       | メール      | Email ; Mail                                                                                    |
-|       | ラジオ      | Radio                                                                                           |
-|       | レコード     | Record                                                                                          |
-|       | ノオト      | Notebook                                                                                        |
-|       | カメラ      | Camera                                                                                          |
-| 音楽    | おんがく     | Music; Musical Movement<br><br>音 (sound) 楽 (music; ease)                                        |
-|       | うた       | Song; Tanka / Japanese Poetry; Modern Poetry                                                    |
-|       | え        | Picture; Drawing; Sketch                                                                        |
-| 映画    | えいが      | Movie; Film<br><br>映 (projection) 画 (picture)                                                   |
-|       | えんぴつ     | Pencil                                                                                          |
+| Kanji | Hiragana | Meaning                                                                                                 |
+| ----- | -------- | ------------------------------------------------------------------------------------------------------- |
+|       | かみ       | Paper                                                                                                   |
+|       | カレンダー    | Calendar                                                                                                |
+| 雑誌    | ざっし      | Magazine                                                                                                |
+|       | じしょ      | Dictionary                                                                                              |
+|       | しんぶん     | Newspaper                                                                                               |
+| 写真    | しゃしん     | Picture; Photograph<br><br>写 (Copy) 真 (Reality)                                                         |
+|       | テープレコーダー | Tape Recorder                                                                                           |
+| 手紙    | てがみ      | Letter; Note<br><br>手 (Hand) 紙 (Paper)                                                                  |
+|       | テレビ      | TV                                                                                                      |
+|       | でんわ      | Telephone                                                                                               |
+|       | はがき      | Postcard; Memo; Note; Card                                                                              |
+|       | ページ      | Page                                                                                                    |
+|       | ペン       | Pen                                                                                                     |
+| 本     | ほん       | (1) Book; Volume <br>(2) Main; Head; This; Our Present; Real<br>(3) Counter for long cylindrical things |
+|       | メール      | Email ; Mail                                                                                            |
+|       | ラジオ      | Radio                                                                                                   |
+|       | レコード     | Record                                                                                                  |
+|       | ノオト      | Notebook                                                                                                |
+|       | カメラ      | Camera                                                                                                  |
+| 音楽    | おんがく     | Music; Musical Movement<br><br>音 (sound) 楽 (music; ease)                                                |
+|       | うた       | Song; Tanka / Japanese Poetry; Modern Poetry                                                            |
+|       | え        | Picture; Drawing; Sketch                                                                                |
+| 映画    | えいが      | Movie; Film<br><br>映 (projection) 画 (picture)                                                           |
+|       | えんぴつ     | Pencil                                                                                                  |
+|       | ボールペン    | Ball point pen                                                                                          |
+|       | ぶんしょう    | Sentence; Article; Composition                                                                          |
 
 ### Other Things
 
@@ -112,6 +123,7 @@
 |       | かぎ       | (1) Key<br>(2) Lock                                     |
 |       | おじぎ      | Bowing (in the respectful sense)                        |
 |       | じゅぎょう    | Lesson; Class work                                      |
+|       | にもつ      | Luggage; Baggage                                        |
 
 
 ## Food
@@ -124,11 +136,11 @@
 
 
 ### Meals
-| Kanji | Hiragana | Meaning                                |
-| ----- | -------- | -------------------------------------- |
-| 朝ご飯   | あさごはん    | Breakfast<br><br>朝 (Morning)  飯 (Meal) |
-| 昼ご飯   | ひるごはん    | Lunch<br><br>飯 (Noon) 飯 (Meal)         |
-| 晩ご飯   | ばんごはん    | Dinner<br><br>晩 (Night) 飯 (Meal)       |
+| Kanji         | Hiragana          | Meaning                                                                                                                                                                                                                                 |
+| ------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 朝ご飯           | あさごはん             | Breakfast<br><br>朝 (Morning)  飯 (Meal)                                                                                                                                                                                                  |
+| 昼ご飯           | ひるごはん             | Lunch<br><br>飯 (Noon) 飯 (Meal)                                                                                                                                                                                                          |
+| 晩ご飯<br><br>夕飯 | ばんごはん<br><br>ゆうはん | Dinner<br><br><br>夕 (Evening) 飯 (Meal)<br>晩 (Night) 飯 (Meal)<br><br>Strictly speaking, 夕飯 would be placed at around 5 - 6 PM (early evening). 晩ご飯 for later times. In practice, there is virtually no difference and both are "dinner". |
 
 ### Food Items
 
@@ -153,6 +165,7 @@
 |       | やさい      | Vegetable                                                    |
 |       | とんかつ     | Pork Cutlet                                                  |
 |       | さとう      | Sugar                                                        |
+|       | こうちゃ     | Black tea                                                    |
 
 
 
@@ -181,6 +194,7 @@
 |       | すき       | Liking; Fondness; Love                                                                                                                   |
 |       | びょうき     | Illness; Disease; Sickness                                                                                                               |
 |       | せっけん     | Economy; Thrift                                                                                                                          |
+|       | せ        | Height; Stature                                                                                                                          |
 
 ## Topics and Fields of Study
 | Kanji | Hiragana | Meaning                           |

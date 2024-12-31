@@ -37,11 +37,12 @@
 |       | いちばん     | First; Best; Number One         |
 |       | 〜ぐらい     | About (approximate measurement) |
 ## Counters and To be Counted
-| Kanji | Hiragana        | Name             |
-| ----- | --------------- | ---------------- |
-|       | 〜さい             | . .. . years old |
-|       | 〜えん             | . . . yen        |
-|       | キロ<br><br>キログラム | Kilogram         |
+| Kanji | Hiragana         | Name             |
+| ----- | ---------------- | ---------------- |
+|       | 〜さい              | . .. . years old |
+|       | 〜えん              | . . . yen        |
+|       | キロ<br><br>キログラム  | Kilogram         |
+|       | キロ<br><br>キロメートル | Kilometer        |
 
 
  
@@ -96,46 +97,47 @@
 
 # Locations and Landmarks
 
-| Kanji   | Hiragana | Meaning                                                                                                                        |
-| ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------ |
-|         | レストラン    | Restaurant                                                                                                                     |
-|         | たてもの     | Building                                                                                                                       |
-|         | うみ       | Sea; Beach                                                                                                                     |
-|         | いけ       | Pond                                                                                                                           |
-| 入口      | いりぐち     | Entrance; Gate; Opening; Mouth<br><br>入 (enter) 口 (mouth)                                                                      |
-| 駅       | えき       | Station                                                                                                                        |
-|         | エレベーター   | Elevator                                                                                                                       |
-|         | えいがかん    | Movie Theatre; Theatre; Cinema                                                                                                 |
-|         | おてあらい    | Bathroom; Toilet; Restroom; Lavatory                                                                                           |
-| お寺      | おてら      | Temple                                                                                                                         |
-|         | かいだん     | Stairs; Stairway; Staircase                                                                                                    |
-| 学校      | がっこう     | School<br><br>学 (study) 校 (school)                                                                                             |
-| 角       | かど       | Corner; Edge                                                                                                                   |
-| 川,<br>河 | かわ<br>がわ | (1) River<br>(2) . . . River (as in, the suffix used for river names)<br><br>There are two possible kanji: 川 (River) 河 (River) |
-|         | きょうしつ    | Classroom                                                                                                                      |
-|         | きっさてん    | Coffee Lounge; Coffee Shop; Cafe                                                                                               |
-|         | ぎんこお     | Bank                                                                                                                           |
-| 公園      | こうえん     | Park<br><br>公 (Public) 園 (Garden)                                                                                              |
-|         | こうこう     | Highschool                                                                                                                     |
-|         | しょくどう    | Dining hall; Dining room; Cafeteria; Messroom; Diner; Restaurant; Eatery                                                       |
-|         | スーパー     | Supermarket                                                                                                                    |
-| 大学      | だいがく     | College / University<br><br>大 (large) 学 (study)                                                                                |
-| 出口      | でぐち      | Exit; Gateway; Way out; Outlet; Leak; Vent<br><br>出 (Exit) 口 (Mouth)                                                           |
-|         | デパート     | Department Store                                                                                                               |
-|         | トイレ      | Toilet / Restroom                                                                                                              |
-|         | としょかん    | Library                                                                                                                        |
-|         | にわ       | Garden                                                                                                                         |
-| バス停     | バスてい     | Bus Stop<br><br>停 (Stopping)                                                                                                   |
-| 病院      | びょういん    | Hospital<br><br>病 (Ill) 院 (Institution)                                                                                        |
-|         | へや       | Room                                                                                                                           |
-|         | ホテル      | Hotel                                                                                                                          |
-| 本屋      | ほんや      | Bookstore<br><br>本 (Book) 屋 (Shop)<br>                                                                                         |
-| 町       | まち       | Town; City                                                                                                                     |
-| 道       | みち       | Street; Road; Way; Path; Route; Lane                                                                                           |
-|         | むら       | Village                                                                                                                        |
-| 門       | もん       | Gate, particularly that of Japanese style in Buddhist / Shinto temples and Japanese architecture                               |
-|         | ゆうびんきょく  | Post office                                                                                                                    |
-|         | ドア       | (Western Style) Door                                                                                                           |
+| Kanji | Hiragana                               | Meaning                                                                                          |
+| ----- | -------------------------------------- | ------------------------------------------------------------------------------------------------ |
+|       | レストラン                                  | Restaurant                                                                                       |
+|       | たてもの                                   | Building                                                                                         |
+|       | うみ                                     | Sea; Beach                                                                                       |
+|       | いけ                                     | Pond                                                                                             |
+| 入口    | いりぐち                                   | Entrance; Gate; Opening; Mouth<br><br>入 (enter) 口 (mouth)                                        |
+| 駅     | えき                                     | Station                                                                                          |
+|       | エレベーター                                 | Elevator                                                                                         |
+|       | えいがかん                                  | Movie Theatre; Theatre; Cinema                                                                   |
+|       | おてあらい                                  | Bathroom; Toilet; Restroom; Lavatory                                                             |
+| お寺    | おてら                                    | Temple                                                                                           |
+|       | かいだん                                   | Stairs; Stairway; Staircase                                                                      |
+| 学校    | がっこう                                   | School<br><br>学 (study) 校 (school)                                                               |
+| 角     | かど                                     | Corner; Edge                                                                                     |
+|       | きょうしつ                                  | Classroom                                                                                        |
+|       | きっさてん                                  | Coffee Lounge; Coffee Shop; Cafe                                                                 |
+|       | ぎんこお                                   | Bank                                                                                             |
+| 公園    | こうえん                                   | Park<br><br>公 (Public) 園 (Garden)                                                                |
+|       | こうこう                                   | Highschool                                                                                       |
+|       | しょくどう                                  | Dining hall; Dining room; Cafeteria; Messroom; Diner; Restaurant; Eatery                         |
+|       | スーパー                                   | Supermarket                                                                                      |
+| 大学    | だいがく                                   | College / University<br><br>大 (large) 学 (study)                                                  |
+| 出口    | でぐち                                    | Exit; Gateway; Way out; Outlet; Leak; Vent<br><br>出 (Exit) 口 (Mouth)                             |
+|       | デパート                                   | Department Store                                                                                 |
+|       | トイレ                                    | Toilet / Restroom                                                                                |
+|       | としょかん                                  | Library                                                                                          |
+|       | にわ                                     | Garden                                                                                           |
+| バス停   | バスてい                                   | Bus Stop<br><br>停 (Stopping)                                                                     |
+| 病院    | びょういん                                  | Hospital<br><br>病 (Ill) 院 (Institution)                                                          |
+|       | へや                                     | Room                                                                                             |
+|       | ホテル                                    | Hotel                                                                                            |
+| 本屋    | ほんや                                    | Bookstore<br><br>本 (Book) 屋 (Shop)<br>                                                           |
+| 町     | まち                                     | Town; City                                                                                       |
+| 道     | みち                                     | Street; Road; Way; Path; Route; Lane                                                             |
+|       | むら                                     | Village                                                                                          |
+| 門     | もん                                     | Gate, particularly that of Japanese style in Buddhist / Shinto temples and Japanese architecture |
+|       | ゆうびんきょく                                | Post office                                                                                      |
+|       | ドア                                     | (Western Style) Door                                                                             |
+|       | アパート<br><br> アパートメント<br><br>アパートメントハウス | Apartment (house, block, building, etc...)                                                       |
+|       | まど                                     | Window                                                                                           |
  
 # Links
 * [[Kanji Index]]
