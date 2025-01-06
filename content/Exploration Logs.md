@@ -55,7 +55,6 @@
 * [[Graph Theoretic Approaches for Swarms]] - Resume Ch. 4
 * [[Code Complete by McConnell]] - Resume Ch. 10
 * [[Philosophy]] - read through [[A New History of Western Philosophy  By Anthony Kenny]] 
-	* Cursory Philosophy -- [[Philosophical Questions]]
 
 * [[Factory Physics]] - Workforce Planning.
 * [[Virtues and their Vices by Kevin and Craig]]  -Cardinal Virtues, Intellectual Virtues, Theological Virtues

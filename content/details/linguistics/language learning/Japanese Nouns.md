@@ -158,7 +158,7 @@
 | ご飯    | ごはん      | Rice; Meal                                                   |
 |       | コーヒー     | Coffee                                                       |
 |       | しょうゆ     | Soy sauce                                                    |
-|       | にく       | Meat                                                         |
+|       | にく       | Meat; Flesh                                                  |
 |       | パン       | Bread                                                        |
 |       | ハンバーガー   | Hamburger                                                    |
 |       | ぶたにく     | Pork                                                         |
@@ -166,6 +166,7 @@
 |       | とんかつ     | Pork Cutlet                                                  |
 |       | さとう      | Sugar                                                        |
 |       | こうちゃ     | Black tea                                                    |
+|       |          |                                                              |
 
 
 

@@ -71,7 +71,7 @@
 * *Systems transform inputs into outputs*
 	* A **function** or **purpose** is a process that transforms inputs into outputs. Purpose is used for systems aimed at something, otherwise we use function 
 	* *Functions exist in a hierarchy* where nodes correspond to functions and edges correspond to connections based on inputs and outputs. 
-	* *Functions and Purposes can be emergent* 
+	* *Functions and Purposes can be [[Emergence|emergent]]* 
 
 [^conn_1]: Taking inspiration from [[Physics]].
 [^conn_2]: Universal in the sense that many systems feature these forces although why these forces exist vary from system to system and sometimes we do not know the precise "why" behind these forces. 

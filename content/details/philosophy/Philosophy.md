@@ -4,6 +4,11 @@
 	* Part of this is to uncover all presuppositions--all implicit assumptions.
 	* A great deal of practical reasoning is not just coherence but consistency--can this line of thought be actually implemented.
 
+* Accepting that it can be rational to be non-rational does not open the door to irrationality.
+
+
+* **Cogito Ergo Sum** -- If "I think, therefore I am", then what happens if "I" change? It shows that we may exist but not what kind of thing we are. The moment the "thought" passes, we do not necessarily retain our self.
+
 # Topics
 * [[Metaphysics]]
 * [[Miscellaneous Philosophical Ideas and Claims]]

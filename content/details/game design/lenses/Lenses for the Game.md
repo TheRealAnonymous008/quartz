@@ -55,7 +55,7 @@
 * **Basic Actions** - the base actions that a player can take. 
 * **Strategic Action** - actions that are only meaningful in the large picture of the game. [^mechanics_1]
 * Strategic Actions are usually those that emerge naturally as the game is played, but are otherwise not integrated into the rules themselves. 
-* Interesting emergent actions are the hallmark of a good game. *More strategic actions = more emergence*
+* Interesting [[Emergence|emergent]] actions are the hallmark of a good game. *More strategic actions = more emergence*
 * We can make more emergent gameplay by doing the following: 
 	* *Add more verbs -- more basic actions.*  Strategic actions appear as the interactions of basic actions with each other, objects, and space.  Do keep in mind game bloat. 
 	* *Verbs that can act on many objects*.

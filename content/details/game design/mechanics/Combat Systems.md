@@ -3,7 +3,7 @@
 
 * The key to designing the system is through layers.  [[details/creativity/design/DOET/Design Thinking|Follow an iterative approach]].
 	* A layered approach keeps scope low and allows for more organic growth. 
-	* Layered systems lend themselves nicely to providing deeper combat without necessitating more complex development simply through emergent interactions.
+	* Layered systems lend themselves nicely to providing deeper combat without necessitating more complex development simply through [[Emergence|emergent]] interactions.
 * Be mindful of camera-genre expectations. *Closer camera = Higher Fidelity. Farther Camera = More macro view*. 
 	* Note that if the camera is close to the player, make sure the camera does not get in the way of combat (i.e., snapping into awkward places)
 	* Closer camera = More interactivity = More scope 

@@ -2,14 +2,11 @@
 	"nodes":[
 		{"type":"text","text":"# Eighty Six\n\n**98/100**\n","id":"9fe91d1e2a988c98","x":-1220,"y":-960,"width":260,"height":160},
 		{"type":"text","text":"# Assassination Classroom\n\n**97/100**\n","id":"c322b610529c1a2c","x":-960,"y":-960,"width":260,"height":160},
-		{"type":"text","text":"# Angel Beats\n\n**95 / 100**\n","id":"46e90aed66c893df","x":-700,"y":-960,"width":260,"height":160},
-		{"type":"text","text":"# Violet Evergarden\n\n**95 / 100**\n","id":"50b931f199cd7d10","x":-440,"y":-960,"width":260,"height":160},
 		{"type":"text","text":"# Death Note\n\n**93/100**\n","id":"157d05a1e0a1e3a0","x":-1220,"y":-800,"width":260,"height":160},
 		{"type":"text","text":"# The Saga of Tanya The Evil\n\n**93/100**\n","id":"e49b1127d603376b","x":-960,"y":-800,"width":260,"height":160},
 		{"type":"text","text":"# Tsuu To Laika To Nosferatu\n\n**93 / 100**\n","id":"91d3d630b5ac92cd","x":-700,"y":-800,"width":260,"height":160},
 		{"type":"text","text":"# Fate Zero\n**91 / 100**\n","id":"91fd7d4749ae38a1","x":-440,"y":-800,"width":260,"height":160},
 		{"type":"text","text":"# Oregairu\n\n**91 / 100**\n","id":"4741b3af37b14f52","x":-180,"y":-800,"width":260,"height":160},
-		{"type":"text","text":"# Chainsaw Man\n**91 / 100**\n","id":"270842f1a2031721","x":80,"y":-800,"width":260,"height":160},
 		{"type":"text","text":"# The End of Evangelion\n\n**89/100**\n","id":"dead213afa3099cb","x":-1220,"y":-640,"width":260,"height":160},
 		{"type":"text","text":"# Neon Genesis Evangelion\n\n**89/100**\n","id":"c5d5686c2853890b","x":-960,"y":-640,"width":260,"height":160},
 		{"type":"text","text":"# Bocchi The Rock!\n**89 / 100**\n","id":"3ae02ee9fd7b487a","x":-700,"y":-640,"width":260,"height":160},
@@ -32,9 +29,14 @@
 		{"type":"text","text":"# Re Creators\n**24 / 100**\n","id":"6b5e897282efc2dc","x":-700,"y":-160,"width":260,"height":160},
 		{"type":"text","text":"# Girl's Frontline The Anime\n**10 / 100**\n","id":"00d7d69e0915119d","x":-440,"y":-160,"width":260,"height":160},
 		{"type":"text","text":"# Silent Voice (Manga)\n\n**95/100**\n\nhttps://ww5.mangakakalot.tv/manga/manga-as956575\n\n\n","id":"00b5177041381f4b","x":-1700,"y":-960,"width":260,"height":160},
-		{"type":"text","text":"# Oshi No Ko\n\n**95/100**\n","id":"79b6316434ae3ca6","x":-180,"y":-960,"width":260,"height":160},
 		{"type":"text","text":"# Hell's Paradise\n**/100**\n\n\n","id":"97ce18cb60042e70","x":-1220,"y":-1300,"width":260,"height":160,"color":"3"},
-		{"id":"a51d7e1dc2773ca8","x":-1700,"y":-720,"width":260,"height":160,"type":"text","text":"# Bōkyaku Tantei\n\nTo watch"}
+		{"id":"a51d7e1dc2773ca8","type":"text","text":"# Bōkyaku Tantei\n\nTo watch","x":-1700,"y":-720,"width":260,"height":160},
+		{"type":"text","text":"# Violet Evergarden\n\n**95 / 100**\n","id":"50b931f199cd7d10","x":-180,"y":-960,"width":260,"height":160},
+		{"type":"text","text":"# Angel Beats\n\n**95 / 100**\n","id":"46e90aed66c893df","x":-440,"y":-960,"width":260,"height":160},
+		{"type":"text","text":"# Sousou no Frieren\n**97 / 100**\n","id":"04c3f503aea97b4b","x":-700,"y":-960,"width":260,"height":160},
+		{"type":"text","text":"# Oshi No Ko\n\n**80/100**\n","id":"79b6316434ae3ca6","x":600,"y":-640,"width":260,"height":160},
+		{"type":"text","text":"# Chainsaw Man\n**90 / 100**\n","id":"270842f1a2031721","x":340,"y":-800,"width":260,"height":160},
+		{"type":"text","text":"# Spice and Wolf \n**91 / 100**\n","id":"b3929048d852872e","x":80,"y":-800,"width":260,"height":160}
 	],
 	"edges":[]
 }

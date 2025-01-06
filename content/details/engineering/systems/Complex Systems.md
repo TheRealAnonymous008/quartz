@@ -90,6 +90,7 @@
 # Control
 * Systems that are overly complex at a given level of organization tend to have numerous stability problems due to an adequate method of coordinating the behaviors (functions) of numerous interacting components.
 
+# [[Emergence]]
 # Links
 * [[Principles of Systems Science by Mobus and Kalton]]
 

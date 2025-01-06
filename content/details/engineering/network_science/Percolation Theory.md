@@ -1,7 +1,7 @@
 * **Percolation Theory** describes the behavior of a [[Network Science|network]] when nodes or links are [[Operations on Graphs|added]]. 
 * A **percolation** is a process wherein given a lattice, we place pebbles with probability $p$ at each lattice point. Neighboring pebbles are considered connected. 
 	* An **inverse percolation process** involves removing nodes instead of adding them from the lattice. 
-* The **percolating cluster** is an emergent property during a percolation process. 
+* The **percolating cluster** is an [[Emergence|emergent]] property during a percolation process. 
 	* We may define a threshold function, where, when $p\to p_c$, we go from a system of tiny clusters to one having a giant cluster. $p_c$ is the *breakdown threshold*.  
 
 # Fundamental Quantities 

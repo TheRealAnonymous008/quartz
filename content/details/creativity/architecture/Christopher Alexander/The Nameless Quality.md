@@ -22,7 +22,7 @@
 	* *Because of this, we can recognize the quality in our work.* We need only ask which has caused us to feel this quality.
 	* Places which have this quality invite this quality to come to life in us, and in turn we tend to make it come to life in the things we build. *It is the quality of life and we must seek it simply in order that we can ourselves become alive*
 
-* *The nameless quality is emergent*. It arises not from being made but from a generative process.
+* *The nameless quality is [[Emergence|emergent]]*. It arises not from being made but from a generative process.
 # The Quality of Nature
 * Nature is [[System Science|systemic]] 
 * Nature is full of almost similar units, but no two things are alike. 

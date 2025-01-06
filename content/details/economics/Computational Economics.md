@@ -9,7 +9,7 @@
 		* Agents have *psychological traits* (heuristics) and socio-demographic *attributes*. These traits could be based on real world data. 
 		* Agents operate on an *environment* where they interact with others. 
 		* Agents operate under *rules of interactions* and decision making processes are deduced from social and psychological theories. 
-		* *Macro-level structure* that [[Complex Systems|emergent]] as a consequence of micro-level behavior. Tuning the micro helps understand the macro. 
+		* *Macro-level structure* that [[Emergence|emergent]] as a consequence of micro-level behavior. Tuning the micro helps understand the macro. 
 	* *Data driven ABMS are initialized and validated using data* from surveys, digital media, social [[Network Science|network data]], crowd sourced data, digital sensors and information networks, existing databases, census data, and urban data. 
 	* *Heuristics can be used to model [[Human Biases|human behavior]]*. Agents in the system can either be "automatic" (i.e., have no cognitive function) or learn from the environment. 
 		* Behavioral heuristics underutilize the possibilities offered by expectation formation theory -- that is, heuristics based on the expectation of a variable (such as price). 

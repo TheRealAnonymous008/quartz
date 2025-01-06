@@ -1,3 +1,8 @@
+* **Nicomachus' Theorem**.  
+  $$
+  \sum_{k=1}^n k^3 = \left(\sum_{k=1}^n k\right)^2
+  $$
+
 * (*Fraleigh 20.1*) **Fermat's Little Theorem**.  If $a\in \mathbb{Z}$ and $p$ is a prime not dividing $a$, then
   $$
   a^{p-1}\equiv 1 \ (\text{mod } p)

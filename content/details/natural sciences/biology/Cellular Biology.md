@@ -1,6 +1,6 @@
-* Life possibly came as a product of [[Complex Systems|emergent behavior]], as shown by the [Miller-Urey Experiment](https://en.wikipedia.org/wiki/Miller–Urey_experiment) It is interesting to try simulating life and all the processes that gave rise to it. 
+* Life possibly came as a product of [[Emergence|emergent behavior]], as shown by the [Miller-Urey Experiment](https://en.wikipedia.org/wiki/Miller–Urey_experiment) It is interesting to try simulating life and all the processes that gave rise to it. 
 	* Related to this is the importance of self-assembly in biological processes
-	* Life cannot exist under equilibrium.
+	* Life cannot exist under [[Thermodynamics|equilibrium]].
 
 * Protein Folding is fascinating considering it only arises from the amino acids encoded in the DNA. Interestingly, it is also subject to natural selection and sometimes self-assembly such that a particular protein performs a particular purpose based on its structure. 
 

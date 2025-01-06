@@ -4,7 +4,7 @@
 * LLMs are capable of being fine-tuned using only a small amount of data. This makes them more economical to use (ignoring the hardware costs)
 * LLMs can be preconditioned to take or speak in certain roles or tuned for specific tasks.
 * LLMS scale not only due to the amount of parameters but also on the amount of training data used.
-* At scale, LLMs have a bunch of useful, emergent behavior such as:
+* At scale, LLMs have a bunch of useful, [[Emergence|emergent]] behavior such as:
 	* In-context learning (Language Models are Few-Shot Learners by Brown et. al, (Jul. 22, 2020)|Brown et. al (2020)) and zero shot generalization to unseen tasks.
 	* Instruction Tuning Amenability (Finetuned Language Models are Zero Shot Learners by Wei et al. (Feb 8, 2022)|Wei et al (2022))
 	* Chinchilla scaling (i.e., increased performance with more tokens used on training) (Training Compute-Optimal Large Language Models by Hoffmann et. al (Mar 29, 2022)|Hoffman et. al (2022))

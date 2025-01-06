@@ -72,6 +72,10 @@
 	* **Inverse Gambler's Fallacy** - on the basis of an unlikely outcome, the process must have happened many times before.
 * **Magical Thinking** - false attribution of cause and effect (i.e., irrationality or cultural beliefs)
 * *Do not attribute a cause when in fact none such cause exists*. 
+
+### Others
+* **Categorical Mistake** - the false belief that a singular noun should correspond to a singular idea. for example, saying that "The Group" signifies the existence of an entity called a group when in reality it is a collection of individual components.
+
 # Red Herrings
 * These are arguments that are irrelevant and draws attention away from the original topic.
 ### Ad Hominem

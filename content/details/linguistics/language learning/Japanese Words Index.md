@@ -32,7 +32,7 @@
 | Kanji | Hiragana | Name                            |
 | ----- | -------- | ------------------------------- |
 |       | ばんごう     | Number                          |
-|       | はん       | Half                            |
+| 半     | はん       | Half                            |
 |       | れい       | Zero; Nought                    |
 |       | いちばん     | First; Best; Number One         |
 |       | 〜ぐらい     | About (approximate measurement) |

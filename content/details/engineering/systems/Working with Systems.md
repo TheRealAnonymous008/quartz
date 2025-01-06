@@ -10,7 +10,7 @@
 
 * **Self-organization** - the capacity of a system to make its own structure more complex. 
 	* It produces heterogeneity and unpredictability. It can make new structures, but it requires the [[The Exploitation-Exploration Trade-Off|ability to experiment]]. 
-	* These systems diversify and complexify, often from just [[Complex Systems|simple rules]].
+	* These systems diversify and complexify, often from just [[Emergence|simple rules]].
 
 * **Hierarchy** - as a consequence of self-organization, a hierarchy emerges. 
 	* A complex system can  evolve from a simple system only if there are stable intermediate forms. 

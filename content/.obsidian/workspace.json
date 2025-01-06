@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7aeaaba0afc0a36",
+        "id": "01af143ccae73885",
         "type": "tabs",
         "children": [
           {
-            "id": "dccd0bbfb8dbf478",
+            "id": "e2997c10a0dcc92b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "zshortdump/Philosophical Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Philosophical Questions"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "はやい",
+                "query": "evolution",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -172,36 +176,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dccd0bbfb8dbf478",
+  "active": "e2997c10a0dcc92b",
   "lastOpenFiles": [
-    "details/linguistics/language learning/Japanese Words Index.md",
-    "details/linguistics/language learning/Japanese Nouns.md",
-    "details/linguistics/language learning/Japanese Misc Words Index.md",
-    "details/linguistics/language learning/Japanese Adjectives.md",
-    "details/linguistics/language learning/Japanese Verbs.md",
-    "Exploration Logs.md",
-    "zshortdump/German Words Index.md",
+    "details/philosophy/Philosophy.md",
     "zshortdump/Philosophical Questions.md",
-    "details/linguistics/language learning/Language.md",
-    "details/linguistics/language learning/Japanese Time-Related Words.md",
-    "details/machine learning/reinforcement learning/pgms/Energy-Based Reinforcement Learning Models.md",
-    "details/machine learning/reinforcement learning/pgms/Policy Gradient Method Algorithms.md",
+    "__meta/{{Media Board}}.canvas",
+    "Emergence.md",
+    "details/engineering/systems/Characterizing Systems.md",
+    "details/computer science/databases/Data Analytics.md",
+    "details/engineering/systems/System Dynamics.md",
+    "details/engineering/systems/Kinds of System Dynamics and Dynamical States.md",
+    "details/engineering/Cybernetics.md",
+    "details/engineering/control/Adaptive and Anticipatory Control.md",
+    "details/engineering/systems/Complex Systems.md",
+    "details/engineering/System Science.md",
+    "details/engineering/systems/Working with Systems.md",
+    "details/__ideas__/Words.md",
+    "details/engineering/systems/Universal Properties of Systems.md",
+    "details/creativity/architecture/Christopher Alexander/The Timeless Way of Building.md",
+    "details/creativity/architecture/Christopher Alexander/The Nameless Quality.md",
+    "details/game design/mechanics/tabletop/Tabletop Mechanics -- Set Collection.md",
+    "details/game design/genres/Strategy Games.md",
+    "details/engineering/systems/Systems and Models.md",
+    "details/engineering/network_science/Random Network.md",
+    "details/game design/puzzles/Puzzle Design.md",
+    "details/psychology/interaction/Persuasion.md",
+    "details/engineering/network_science/Percolation Theory.md",
+    "details/humanities/Motifs of Folk Literature.md",
+    "details/warfare/Mercenary.md",
+    "details/game design/Level Design Principles.md",
     "__images/SAC.png",
-    "details/machine learning/reinforcement learning/pgms/Trust Region Policies.md",
-    "details/machine learning/reinforcement learning/fundamentals/A Unified View on Reinforcement Learning Approaches.md",
-    "details/machine learning/unsupervised learning/Supervised Graph Neural Network.md",
-    "details/machine learning/frameworks/Graph Neural Network.md",
-    "details/machine learning/reinforcement learning/marl/MARL Research.md",
-    "details/machine learning/unsupervised learning/Unsupervised Graph Neural Network.md",
-    "details/linguistics/language learning/Japanese People-Related Words.md",
-    "details/mathematics/probability and statistics/prob_stat/Time Series Analysis.md",
-    "details/philosophy/misc/The 48 Laws of Power.md",
-    "__books/48 Laws of Power by Robert Greene.md",
     "Pasted image 20241223075359.png",
-    "details/linguistics/language learning/Japanese Grammar.md",
-    "details/natural sciences/geography/Weather Systems.md",
-    "details/__ideas__/Trivia.md",
-    "details/natural sciences/geography/Thunder Storms.md",
     "__images/Cyclone Occlusion.png",
     "__images/Hiragana.png",
     "__images/Katakana.png",
@@ -222,7 +227,6 @@
     "details/engineering/swarms",
     "details/engineering/manufacturing",
     "details/mathematics/Untitled.canvas",
-    "__meta/{{Media Board}}.canvas",
     "Test.canvas"
   ]
 }

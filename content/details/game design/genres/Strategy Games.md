@@ -77,7 +77,7 @@
 	* *Dash* to a destination while avoiding enemies
 	* *Patrol* a given route defined by waypoints.
 
-* *Progression mechanics in strategy games are rare*. They tend to be emergent, although single player campaigns may have scripts. 
+* *Progression mechanics in strategy games are rare*. They tend to be [[Games as Rules#Emergent Systems|Emergent]], although single player campaigns may have scripts. 
 
 * *Strategy games require balance to be fun to play*
 	* A game's [[Game Mechanics Design|economy]] is important to consider -- what resources are available and how are they spent. 

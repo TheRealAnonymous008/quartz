@@ -31,7 +31,7 @@
 	* Often these mechanism are the centerpiece of the design.
 
 * **Combo Abilities** - A collection of Abilities that are acquired separately and synergize together.
-	* Combos are an emergent aspect of gameplay.
+	* Combos are an [[Games as Rules#Emergent Systems|Emergent]] aspect of gameplay.
 	* Usually requires the game to have a modular approach to actions.
 	* Typically needs to have a few types of resources, and a variety of domains within which game elements can exist.
 	* Made more dynamic with [[Tabletop Mechanics -- Turn Order and Structure|open turn structures]] and more options for how to play.

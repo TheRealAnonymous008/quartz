@@ -46,7 +46,7 @@
 * See more [[System Dynamics|here]].
 ## Complexity 
 * *Systems exhibit various kinds and levels of complexity*. 
-* The purpose of a system may be *emergent* and even accidental -- as in no actor intends for such to happen but the structure of the system makes it so. 
+* The purpose of a system may be *[[Emergence|emergent]]* and even accidental -- as in no actor intends for such to happen but the structure of the system makes it so. 
 * [[Complex Systems|Complexity]] and nonlinearity can, themselves, be sources of disruption or failure.
 * See more [[Complex Systems|here]].
 ## Evolution
