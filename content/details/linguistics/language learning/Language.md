@@ -2,7 +2,8 @@
 
 
 # English
-* [[English Words Index]]
+* [[English Language Learning Index]]
+* [[English Words Index]] - for basic words in English. Use as a guide for vocabulary learning in other languages.
 
 # German 
 * [[German Words Index]]

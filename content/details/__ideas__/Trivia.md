@@ -66,5 +66,13 @@
 	* There is a correlation between narcissism and having distinct eyebrows.
 	* There is a memetic effect induced by looking at a window which attracts a crowd to look at the same window.  The contagiousness is dependent on whether the person looking stops what they are doing. 
 
+* The **Toulmin Model** is a framework for understanding arguments. An argument is broken down into six parts. Every argument has a claim, the grounds, and a warrant.
+	* The **claim** is the main argument.
+	* The **grounds** are the evidence and facts that support the claim.
+	* The **warrant** is the assumption that links the grounds to the claim.
+	* The **backing** refers to any additional support of the warrant. 
+	* The **qualifier** shows that a claim may not be true in all circumstances (i.e., using "some" or "maybe").
+	* The **rebuttal** is an acknowledgment of another valid view of the situation.
+
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

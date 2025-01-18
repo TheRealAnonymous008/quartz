@@ -12,6 +12,7 @@
 * [[Graph Neural Network]] - Learns representation for network based data. 
 	* [[Graph Embedding]] - non deep learning related techniques for embedding graphs
 * [[Transfer Learning]]
+* [[Contrastive Learning]]
 * [[Belief Network]]
 # Links
 * [[Graph Neural Networks -- Foundations, Frontiers and Applications by Wu et al.]]

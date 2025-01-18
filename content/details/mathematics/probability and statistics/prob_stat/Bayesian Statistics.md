@@ -204,7 +204,7 @@ $$
 * The expected value $\mathbb{E}[X]$ is interpreted as the expected value of the label given the observations.
 * For  Bayesian Decision Theory, we minimize the **posterior expected loss** 
   $$
-  \rho(a\mid x) = \mathbb{E}_{P(y\mid x)} [L(y,a) = \sum_{y}L(y,a)P(y\mid x)
+  \rho(a\mid x) = \mathbb{E}_{P(y\mid x)} [L(y,a)] = \sum_{y}L(y,a)P(y\mid x)
   $$
 * The **Bayes decision rule** is given as *minimizing the posterior expected loss*
   $$

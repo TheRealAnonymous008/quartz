@@ -1,9 +1,7 @@
-# Nouns
+# Words
 
 | Word                       | Meaning                          | Gender |
 | -------------------------- | -------------------------------- | ------ |
-| Adler                      | Eagle                            | M      |
-| Ameise                     | Ant                              | F      |
 | Baum                       | Tree                             | M      |
 | Berg                       | Hill; Mountain                   | M      |
 | Blitz                      | Lightning                        | M      |
@@ -11,8 +9,6 @@
 | Bruder                     | Brother                          | M      |
 | Burg                       | Castle                           | F      |
 | Dummkopf                   | Idiot; Fool                      | M      |
-| Eintagsfliege              | Mayfly                           | F      |
-| Falke                      | Hawk; Falcon                     | M      |
 | Feind                      | Enemy                            | M      |
 | Freude                     | Joy; Pleasure; Delight           | F      |
 | Freund                     | Friend; Lover                    | M      |
@@ -25,20 +21,16 @@
 | Gold                       | Gold                             | N      |
 | Hass                       | Hate                             | M      |
 | Kirche                     | Church                           | F      |
-| Krähe                      | Crow                             | F      |
 | Krieg                      | War; Warfare                     | M      |
 | Leben                      | Life                             | N      |
-| Lerche                     | Lark                             | F      |
 | Licht                      | Light                            | N      |
 | Liebe                      | Love; Sex; Favor; Darling        | F      |
 | Lied                       | Song; Hymn; Carol                | N      |
-| Löwe                       | Lion                             | M      |
 | Meer                       | Sea; Ocean                       | N      |
 | Mutter                     | Mother                           | F      |
 | Nacht                      | Night                            | F      |
 | Norden                     | North                            | M      |
 | Osten                      | East                             | M      |
-| Rabe                       | Raven                            | M      |
 | Rot                        | Red; Rouge                       | N      |
 | Schatten                   | Shadow; Shade                    | M      |
 | Schwert                    | Sword                            | M      |
@@ -62,13 +54,26 @@
 | Traum                      | Dream; Daydream; Reverie         | M      |
 | Turm                       | Tower; Spire; (chess) Rook       | M      |
 | Vater                      | Father                           | M      |
-| Wal                        | Whale                            | M      |
 | Wald                       | Forest; Woodland; Woods          | M      |
 | Westen                     | West                             | M      |
-| Wolf                       | Wolf                             | M      |
-| Tausendfüßer               | Centipede                        | M      |
 | Opfer                      | Sacrifice; Victim                | N      |
-| Biene                      | Bee                              | F      |
 | Kirschblüte                | Cherry Blossom                   | F      |
-| Stachelschwein             | Porcupine                        | N      |
-| Weisel                     | Queen bee                        | M      |
+
+
+# Animals
+| Word           | Meaning      | Gender |
+| -------------- | ------------ | ------ |
+| Adler          | Eagle        | M      |
+| Ameise         | Ant          | F      |
+| Eintagsfliege  | Mayfly       | F      |
+| Falke          | Hawk; Falcon | M      |
+| Krähe          | Crow         | F      |
+| Löwe           | Lion         | M      |
+| Lerche         | Lark         | F      |
+| Rabe           | Raven        | M      |
+| Wolf           | Wolf         | M      |
+| Tausendfüßer   | Centipede    | M      |
+| Stachelschwein | Porcupine    | N      |
+| Weisel         | Queen bee    | M      |
+| Biene          | Bee          | F      |
+| Wal            | Whale        | M      |

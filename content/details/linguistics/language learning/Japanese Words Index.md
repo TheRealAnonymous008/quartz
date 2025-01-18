@@ -36,37 +36,42 @@
 |       | れい       | Zero; Nought                    |
 |       | いちばん     | First; Best; Number One         |
 |       | 〜ぐらい     | About (approximate measurement) |
-## Counters and To be Counted
+## To be Counted
 | Kanji | Hiragana         | Name             |
 | ----- | ---------------- | ---------------- |
 |       | 〜さい              | . .. . years old |
 |       | 〜えん              | . . . yen        |
 |       | キロ<br><br>キログラム  | Kilogram         |
 |       | キロ<br><br>キロメートル | Kilometer        |
+|       | グラム              | Gram             |
 
-
+## Counters 
+| Kanji | Hiragana | Name                                                   |
+| ----- | -------- | ------------------------------------------------------ |
+| 服     | ふく       | Counter for doses (of medicine, tea, cigarettes, etc). |
  
 # Location, Direction, and Time Words
-| Kanji | Hiragana | Name                                                                                  |
-| ----- | -------- | ------------------------------------------------------------------------------------- |
-| 右     | みぎ       | Right （〜の）                                                                            |
-| 左     | ひだり      | Left （〜の）                                                                             |
-| 前     | まえ       | Front; Before （〜の）                                                                    |
-| 後ろ    | うしろ      | Back; Behind; Rear（〜の）                                                                |
-| 後     | あと       | Behind; Back; Later                                                                   |
-| 上     | うえ       | (1) Above; Up; Over; Top; Summit; Surface; On<br>(2) Before; Previous （〜の）            |
-| 下     | した       | Below; Down, Underneath; Under （〜の）                                                   |
-| 近い    | ちかい      | Near; Nearby; Close; Short distance （〜の）                                              |
-| 隣     | となり      | Next ; Neighboring（〜の）                                                                |
-| 先     | さき       | Previous; Prior; Former; Some time ago; Preceding （〜の）                                |
-| 間     | あいだ      | Between （A て B の）                                                                     |
-| 向こう   | むこう      | Over there; That way; Far away; Beyond; Opposite Side; Other side; Opposite Direction |
-| 中     | なか       | Middle; Center; Inside; In; Among; Within; During; While; Between (〜の)                |
-| 北     | きた       | North                                                                                 |
-| 南     | みなみ      | South                                                                                 |
-| 東     | ひがし      | East                                                                                  |
-| 西     | にし       | West                                                                                  |
-| 前     | まえ       | Before some event; Ago; Previously; In front of; Before                               |
+| Kanji | Hiragana | Name                                                                                               |
+| ----- | -------- | -------------------------------------------------------------------------------------------------- |
+| 右     | みぎ       | Right （〜の）                                                                                         |
+| 左     | ひだり      | Left （〜の）                                                                                          |
+| 前     | まえ       | Front; Before （〜の）                                                                                 |
+| 後ろ    | うしろ      | Back; Behind; Rear（〜の）                                                                             |
+| 後     | あと       | Behind; Back; Later                                                                                |
+| 上     | うえ       | (1) Above; Up; Over; Top; Summit; Surface; On<br>(2) Before; Previous （〜の）                         |
+| 下     | した       | Below; Down, Underneath; Under （〜の）                                                                |
+| 近い    | ちかい      | Near; Nearby; Close; Short distance （〜の）                                                           |
+| 隣     | となり      | Next ; Neighboring（〜の）                                                                             |
+| 先     | さき       | Previous; Prior; Former; Some time ago; Preceding （〜の）                                             |
+| 間     | あいだ      | Between （A て B の）                                                                                  |
+| 向こう   | むこう      | Over there; That way; Far away; Beyond; Opposite Side; Other side; Opposite Direction              |
+| 中     | なか       | Middle; Center; Inside; In; Among; Within; During; While; Between (〜の)                             |
+| 北     | きた       | North                                                                                              |
+| 南     | みなみ      | South                                                                                              |
+| 東     | ひがし      | East                                                                                               |
+| 西     | にし       | West                                                                                               |
+| 前     | まえ       | Before some event; Ago; Previously; In front of; Before                                            |
+|       | よこ       | Horizontal; Lying down; Width; Breadth; Side-to-side; Side (of a box, etc); Beside; Aside; Next to |
 
 
 # Countries
@@ -138,6 +143,8 @@
 |       | ドア                                     | (Western Style) Door                                                                             |
 |       | アパート<br><br> アパートメント<br><br>アパートメントハウス | Apartment (house, block, building, etc...)                                                       |
 |       | まど                                     | Window                                                                                           |
+|       | へん                                     | Area; Vicinity; Side (of triangle / rectangle); Circumstances                                    |
+| 国     | くに                                     | Country; (the) state; Region; Hometown; Home country                                             |
  
 # Links
 * [[Kanji Index]]

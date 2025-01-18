@@ -14,6 +14,7 @@
 |         | でんき      | Electricity; Electric Light                                                                                                    |
 |         | はる       | Spring; Spring time; Prime (of one's life, period); Adolescence                                                                |
 | 川,<br>河 | かわ<br>がわ | (1) River<br>(2) . . . River (as in, the suffix used for river names)<br><br>There are two possible kanji: 川 (River) 河 (River) |
+|         | そら       | Sky; Heavens                                                                                                                   |
 ## Animals 
 | Kanji | Hiragana<br><br>どうぶつ | Meaning<br><br>Animal                              |
 | ----- | -------------------- | -------------------------------------------------- |
@@ -92,6 +93,7 @@
 |       | えんぴつ     | Pencil                                                                                                  |
 |       | ボールペン    | Ball point pen                                                                                          |
 |       | ぶんしょう    | Sentence; Article; Composition                                                                          |
+| 新聞    | しんぶん     | Newspaper<br><br>新 (new) 聞 (listen)<br>                                                                 |
 
 ### Other Things
 
@@ -108,7 +110,6 @@
 |       | さいふ      | Wallet                                                  |
 |       | たばこ      | Tobacco; Cigarettes                                     |
 | 机     | つくえ      | Desk                                                    |
-|       | テニス      | Tennis                                                  |
 |       | と        | Japanese style door                                     |
 |       | とけえ      | Watch / Clock                                           |
 |       | ナイフ      | Knife                                                   |
@@ -122,8 +123,9 @@
 |       | ふうとう     | Envelope                                                |
 |       | かぎ       | (1) Key<br>(2) Lock                                     |
 |       | おじぎ      | Bowing (in the respectful sense)                        |
-|       | じゅぎょう    | Lesson; Class work                                      |
 |       | にもつ      | Luggage; Baggage                                        |
+|       | でんきストーブ  | Electric heater (Electric Stove)                        |
+| 服     | ふく       | (1) Clothes (esp. western clothes)                      |
 
 
 ## Food
@@ -196,6 +198,10 @@
 |       | びょうき     | Illness; Disease; Sickness                                                                                                               |
 |       | せっけん     | Economy; Thrift                                                                                                                          |
 |       | せ        | Height; Stature                                                                                                                          |
+|       | もんだい     | Problem; Question                                                                                                                        |
+|       | となり      | Neighbor; Next to (esp. living next to)                                                                                                  |
+|       | じゅぎょう    | Lesson; Class work                                                                                                                       |
+|       | テニス      | Tennis                                                                                                                                   |
 
 ## Topics and Fields of Study
 | Kanji | Hiragana | Meaning                           |

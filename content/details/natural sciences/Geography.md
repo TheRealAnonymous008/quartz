@@ -13,6 +13,7 @@
 
 # Topics
 * [[The Atmosphere]]
+* [[The Hydrosphere]]
 # Links
 * [[Data Visualization]] - for techniques on visualizing map data.
 

@@ -84,3 +84,5 @@
 |       | のぼる      | To climb; To ascend; To go up; To rise; To go to (the capital); To be promoted                                                                  | 5r      | I          |
 | 話す    | はなす      | To speak<br><br>話 (talk)                                                                                                                        | 5s      | T          |
 |       | しまる      | To close; To be closed; To be shut; To be locked; To tighten; To be tightened                                                                   | 5r      | I          |
+|       | くもる      | To become cloudy; To be become dim                                                                                                              | 5r      | I          |
+|       | さく       | To bloom                                                                                                                                        | 5k      | I          |

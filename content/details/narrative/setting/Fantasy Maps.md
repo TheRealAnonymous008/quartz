@@ -17,7 +17,7 @@
 
 [^1]: WASD20 recommends using beans, but you can easily do this with anything that lets you sculpt (or example [[Pixel Art]]).
 
-* Consider the [[Winds and Atmospheric Kinetics]], specifically the different wind speeds and the regions of wind. These affect the local climate -- and by extension the biomes that can grow. 
+* Consider the [[Winds and Atmospheric Kinetics]], specifically the different wind speeds and the regions of wind. These affect the local [[Climate]] -- and by extension the biomes that can grow. 
 
 * Consider the placement of *mountains*
 	* Mountains form at the boundary of convergent plates 

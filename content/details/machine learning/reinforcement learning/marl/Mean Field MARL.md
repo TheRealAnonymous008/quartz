@@ -81,3 +81,23 @@
 
 
 [^yang_2018]: Yang et al. (2018) [Mean Field Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v80/yang18d/yang18d.pdf)
+
+* [^mondal_2021] gives an approximation bound for applying Mean Field Control to the case of cooperative [[Heterogeneous MARL]] problems where we have  a collection of $N_{\text{pop}}$ agents segregated into $K$ agent types, with $N_k$ agents of each type.  We denote $\mathcal{A}$ and $\mathcal{S}$ as the action and state space of each agent
+  
+  The bounds are given below, dependent on what the reward and transition dynamics of all agents are a function of:
+	* The joint state and action distributions across all classes
+	  $$
+	  O\left(\frac{\sqrt{|\mathcal{A}|} + \sqrt{|\mathcal{S}|}}{N_\text{pop}} \sum_k\sqrt{N_k}\right)
+	  $$
+	* The individual distributions of each class
+	  $$
+	  O\left(\left[\sqrt{|\mathcal{A}}| + \sqrt{|\mathcal{S}|}\right] \sum_k \frac{1}{\sqrt{N_k}}\right)
+	  $$
+	*  The marginal distribution of the entire population. We define $A,B$ as proportionality constants.
+	  $$
+	  O\left(\left[\sqrt{|\mathcal{A}}| + \sqrt{|\mathcal{S}|}\right] \left[\frac{A}{N_\text{pop}} \sum_{k} \sqrt{N_k} + \frac{B}{\sqrt{N_{\text{pop}}}}\right]\right)
+	  $$
+
+
+
+[^mondal_2021]: Mondal et al. (2021) [On the Approximation of Cooperative Heterogeneous Multi-Agent Reinforcement Learning (MARL) using Mean Field Control (MFC)](https://arxiv.org/abs/2109.04024)

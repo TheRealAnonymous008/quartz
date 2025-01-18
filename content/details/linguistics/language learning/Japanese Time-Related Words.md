@@ -26,16 +26,16 @@
 |       | すぐに      | Instantly; Immediately                                                             |
 
 ## Time of Day
-| Kanji | Hiragana | Meaning                             |
-| ----- | -------- | ----------------------------------- |
-| 朝     | あさ       | Morning                             |
-|       | ごご       | Afternoon (P.M.)                    |
-|       | ごぜん      | Morning (A.M.)                      |
-| 今晩    | こんばん     | Tonight<br><br>今 (now) 晩 (night)    |
-|       | ゆうべ      | Last night                          |
-|       | 〜ごろ      | At about . . . (pertaining to time) |
-|       | 〜じかん     | . . . hours                         |
-|       | 〜じ       | . . . 'o clock                      |
+| Kanji | Hiragana | Meaning                                     |
+| ----- | -------- | ------------------------------------------- |
+| 朝     | あさ       | Morning                                     |
+| 午後    | ごご       | Afternoon (P.M.)<br><br>午 (noon) 後 (later)  |
+|       | ごぜん      | Morning (A.M.)                              |
+| 今晩    | こんばん     | Tonight<br><br>今 (now) 晩 (night)            |
+|       | ゆうべ      | Last night                                  |
+|       | 〜ごろ      | At about . . . (pertaining to time)         |
+|       | 〜じかん     | . . . hours                                 |
+|       | 〜じ       | . . . 'o clock                              |
 
 
 
@@ -57,6 +57,7 @@
 | 毎日    | まいにち               | Every day<br><br>毎 (every) 日 (day)         |
 | 毎晩    | まいばん               | Every night<br><br>毎 (every) 晩 (night)     |
 | 来年    | らいねん               | Next year<br><br>来 (Next) 年 (Year)         |
+|       | さらいねん              | Year after next                            |
 
 
 

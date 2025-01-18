@@ -62,6 +62,10 @@
 
 * The $\frac{1}{|\alpha|}$ term is present to make the function continuous. 
 * This acts as a combination of L1 and L2 [[Linear Models|regression]]
+
+# Misc
+* [[Contrastive Learning#Training Objectives|The training objectives for contrastive learning]]
+
 # Links 
 * [[Differential Calculus]]
 * [[Optimization Algorithms in Machine Learning]] - how to actually minimize or maximize the loss.

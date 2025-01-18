@@ -1,30 +1,26 @@
 * Note that the correct spelling of the word is provided in the native writing system (see [[Index of Writing Systems]]). Romanization is only an approximation
 * See also the [[Kanji Index]] for the meaning of individual kanji
 
-| Kanji | Word    | Meaning                                                                                              |
-| ----- | ------- | ---------------------------------------------------------------------------------------------------- |
-|       | どの      | Which; What way                                                                                      |
-|       | なぜ      | How; Why                                                                                             |
-|       | けっこう    | Splendid; Nice; Sufficient; "I'm fine" (no thank you); OK; Tolerable                                 |
-|       | だいすき    | Very likeable; Lovable; Like very much                                                               |
-|       | どうして    | For what reason; Why; How; In what way; For what purpose; What for                                   |
-|       | ~かた     | Method of; Manner of; Way of                                                                         |
-|       | へん      | Area; Vicinity; Side (of triangle / rectangle); Circumstances                                        |
-|       | はじめて    | For the first time; <br><br>Only after ... is it ...<br><br>Only when ... do you ...                 |
-|       | となり     | Neighbor; Next to (esp. living next to)                                                              |
-|       | そら      | Sky; Heavens                                                                                         |
-|       | くもる     | To become cloudy; To be become dim<br><br>v5r, vi<br>                                                |
-|       | よこ      | Horizontal; Lying down; Width; Breadth; Side-to-side; Side (of a box, etc); Beside; Aside; Next to   |
-| 服     | ふく      | (1) Clothes (esp. western clothes)<br><br>(2) Counter for doses (of medicine, tea, cigarettes, etc). |
-|       | さらいねん   | Year after next                                                                                      |
-|       | しずか     | Quiet; Peaceful                                                                                      |
-|       | もんだい    | Problem; Question                                                                                    |
-| 国     | くに      | Country; (the) state; Region; Hometown; Home country                                                 |
-|       | グラム     | Gram                                                                                                 |
-|       | さく      | To bloom                                                                                             |
-|       | でんきストーブ | Electric heater (Electric Stove)                                                                     |
-|       | どうぞ     | Please (as in please do); Kindly; By all means                                                       |
-| 新聞    | しんぶん    | Newspaper<br><br>新 (new) 聞 (listen)<br>                                                              |
+| Kanji | Word  | Meaning                                                                     |
+| ----- | ----- | --------------------------------------------------------------------------- |
+|       | どうぞ   | Please (as in please do); Kindly; By all means                              |
+|       | ばん    | Evening; Counter for nights                                                 |
+|       | こうばん  | (1) Alternation; Alternating<br>(2) Police box<br>                          |
+|       | テーブル  | Table                                                                       |
+|       | じどうしゃ | Automobile                                                                  |
+| 店     | みせ    | Shop                                                                        |
+|       | しぬ    | To die <br>v5n vi                                                           |
+|       | あお    | Green light                                                                 |
+|       | とけい   | Watch; Timepiece; Clock                                                     |
+|       | せんたく  | Washing; Laundry                                                            |
+|       | ことば   | Language                                                                    |
+| 父     | ちち    | Father                                                                      |
+|       | マッチ   | Match (contest)<br>Match (thing to light fire with)                         |
+|       | たいへん  | Very; Greatly; Immense; Enormous; Great; Serious; Grave; Dreadful; Terrible |
+|       | ほんだな  | Bookshelves                                                                 |
+|       | べんり   | Convenient; Handy; Useful                                                   |
+
+
 
 
 
@@ -73,6 +69,11 @@
 |       | だんだん                                        | Gradually<br><br>だん means "step" so this also translates to "step by step"                                                                                                      |
 |       | よく                                          | Well; Nicely; Properly; Skillfully; Often; Frequently                                                                                                                           |
 |       | とても                                         | (adv.) Very; Awfully; Exceedingly; (before a negative form) (not) at all; By no means;                                                                                          |
+|       | どの                                          | Which; What way                                                                                                                                                                 |
+|       | なぜ                                          | How; Why                                                                                                                                                                        |
+|       | どうして                                        | For what reason; Why; How; In what way; For what purpose; What for                                                                                                              |
+|       | ~かた                                         | Method of; Manner of; Way of                                                                                                                                                    |
+|       | はじめて                                        | For the first time; <br><br>Only after ... is it ...<br><br>Only when ... do you ...                                                                                            |
 
 
 

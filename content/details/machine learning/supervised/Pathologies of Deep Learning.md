@@ -30,6 +30,7 @@
   $$
   \beta_i=\exp\left(h(x^{(i)}\right)
   $$
+  A related family of approaches is found under [[Contrastive Learning#Training Objectives|Noise Contrastive Estimation]].
 
 ### Label Shift 
 * In **Label Shift** we assume that the distribution of label changes but not $P(x\mid y)$. 

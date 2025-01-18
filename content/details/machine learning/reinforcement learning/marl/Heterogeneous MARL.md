@@ -14,7 +14,7 @@
 
 * *The inherent trade off between homogeneity and heterogeneity is that of sample efficiency (homogeneous) and resilience / performance (heterogeneous)*.
 # HARL
-* [^Zhong_2023] proposes Heterogeneous MARL (HARL) algorithms for the cooperative setting designed to coordinate agent updates.  In particular, the key idee of their scheme is to *perform sequential updates on each individual agent's policy rather than update the whole joint policy*,
+* [^Zhong_2023] proposes Heterogeneous MARL (HARL) algorithms for the cooperative setting designed to coordinate agent updates.  In particular, the key ideA of their scheme is to *perform sequential updates on each individual agent's policy rather than update the whole joint policy*,
 * (*Zhong 4*) **Multi-Agent Advantage Decomposition**. In any cooperative Markov games given a joint policy $\pi$, for any state $s$ and agent subset $i_{1:m}$, the following holds for the [[MARL from a Game Theoretic Perspective#Miscellaneous|Multi-agent Advantage]]. 
   
   $$
@@ -36,7 +36,7 @@
   The sequential update scheme is given below
 
 ![[Sequential HARL.png]]
-<figcaption> Sequential HARL. Image taken from Zhon et al. (2023) </figcaption>
+<figcaption> Sequential HARL. Image taken from ZhonG et al. (2023) </figcaption>
 
 * In performing the sequential update, we take into account the previous agent updates.
 * (*Zhong 7*) The Multi-Agent Policy Iteration with Monotonic Improvement Guarantee monotonically improves. In fact, (*Zhong 8*) The policy converges to the Nash Equilibrium.
@@ -127,6 +127,40 @@
 <figcaption> U-QMIX. Image taken from Yu et al. (2024) </figcaption>
 
 [^Yu_2024]: Yu et al. (2024) [Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space](https://arxiv.org/pdf/2408.07395) 
+
+## SHPPO
+* [^guo_2024] proposes  a parameter-sharing based approach but with heterogeneous layers for each agent's policy network, which are given by a latent distribution learned via an encoder network. 
+* The strategy pattern of each agent is represented by a latent variable $l$ obtained using the encoder network as follows
+  $$
+  \begin{split}
+  \mu_i , \sigma_i &= \text{ENCODER} (o_i, h_i^{t-1}) \\
+  l_i &\sim  \mathcal{N(\mu_i, \sigma_i)}
+  \end{split}
+  $$
+* To learn the parameters for the encoder, we also include an InferenceNet as a critic that learns to minimize the difference between the value function and the reward. It outputs the value $V_I$
+	* More formally, let $\mu, \sigma$ be the concatenation of all $\mu_i$ and $\sigma_i$;  $\theta_L$ denotes the parameters of the InferenceNet; $\lambda_e,\lambda_d$ are regularization constants; $\mathcal{H}$ is the entropy function of the distribution; $\mathcal{D}_i$ is the latent distribution (in this case, a Gaussian parameterized on $\mu_i, \sigma_i$); $\text{Norm}$ pertains to normalization. 
+	  $$
+	  \begin{split}
+	  \mathcal{L}_L (\theta_L) &= -\mathcal{L}_v(\theta_L) + \lambda_e \mathcal{L}_e(\theta_L) -\lambda_d \mathcal{L}_d(\theta_L) \\
+	  \mathcal{L}_v(\theta_L) &= V_I(o_g, \mu (o, h^{t-1}\mid \theta_L), \sigma(o, h^{t-1} \mid \theta_L)) \\
+	  \mathcal{L}_e(\theta_L) &= \frac{1}{n} \sum_{i}  \mathcal{H}(\mathcal{D_i}(o_i, h_i^{t-1} \mid \theta_L)) \\
+	  \mathcal{L}_d(\theta_L) &= \frac{1}{n(n-1)} \sum_i \sum_{j\ne i} \text{Norm}(1-\text{cos\_sim}(l_i(o_i, h_i^{t-1}\mid \theta_L),l_j(o_i, h_i^{t-1} \mid \theta_L))
+	  \end{split}
+	  $$
+		* Maximizing $\mathcal{L}_v$ means learned latent variables help choose better heterogeneous layers (since we maximize value)
+		* Maximizing $\mathcal{L}_e$ means latent distributions are more identifiable.
+		* Maximizing $\mathcal{L}_d$ means latent distributions are more diverse .
+
+
+* Each $l_i$ is then used to generate a heterogeneous layer. That is, we get the heterogeneous parameters $w_i$ from $l_i$.
+![[SHPPO.png]]
+<figcaption> SHPPO. Image taken from Guo et al., 2024</figcaption>
+
+[^guo_2024]: (Guo et al., 2024) [Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration](https://arxiv.org/abs/2404.03869)
+
+
+
+
 
 
 # Communication

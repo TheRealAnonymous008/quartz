@@ -1,0 +1,1 @@
+* Learning by imitating an expert (i.e., something that knows how to solve the task). A model is then created based on the expert's actions such that the agent can perform the task similarly to the agent.

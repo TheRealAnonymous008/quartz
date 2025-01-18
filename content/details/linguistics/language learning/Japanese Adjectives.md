@@ -40,6 +40,9 @@
 |              | わるい             | Bad; Poor; Inferior; Evil; Sinful; Unprofitable; Unbeneficial                                                                                                                                                                                                                                 |
 |              | やすい             | Cheap; Inexpensive                                                                                                                                                                                                                                                                            |
 |              | へた              | Unskillful; Poor; Awkward; Impudent; Untactful                                                                                                                                                                                                                                                |
+|              | けっこう            | Splendid; Nice; Sufficient; "I'm fine" (no thank you); OK; Tolerable                                                                                                                                                                                                                          |
+|              | だいすき            | Very likeable; Lovable; Like very much                                                                                                                                                                                                                                                        |
+|              | しずか             | Quiet; Peaceful                                                                                                                                                                                                                                                                               |
 
 # Colors
 

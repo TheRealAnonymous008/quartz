@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "01af143ccae73885",
+        "id": "53c318919384fcd8",
         "type": "tabs",
         "children": [
           {
-            "id": "e2997c10a0dcc92b",
+            "id": "174cda2cb71f6680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zshortdump/Philosophical Questions.md",
+                "file": "Exploration Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophical Questions"
+              "title": "Exploration Logs"
+            }
+          },
+          {
+            "id": "7c927c319b63049a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evolution",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -73,7 +83,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,39 +183,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e2997c10a0dcc92b",
+  "active": "174cda2cb71f6680",
   "lastOpenFiles": [
-    "details/philosophy/Philosophy.md",
-    "zshortdump/Philosophical Questions.md",
-    "__meta/{{Media Board}}.canvas",
-    "Emergence.md",
-    "details/engineering/systems/Characterizing Systems.md",
-    "details/computer science/databases/Data Analytics.md",
-    "details/engineering/systems/System Dynamics.md",
-    "details/engineering/systems/Kinds of System Dynamics and Dynamical States.md",
-    "details/engineering/Cybernetics.md",
-    "details/engineering/control/Adaptive and Anticipatory Control.md",
-    "details/engineering/systems/Complex Systems.md",
-    "details/engineering/System Science.md",
-    "details/engineering/systems/Working with Systems.md",
-    "details/__ideas__/Words.md",
-    "details/engineering/systems/Universal Properties of Systems.md",
-    "details/creativity/architecture/Christopher Alexander/The Timeless Way of Building.md",
-    "details/creativity/architecture/Christopher Alexander/The Nameless Quality.md",
-    "details/game design/mechanics/tabletop/Tabletop Mechanics -- Set Collection.md",
-    "details/game design/genres/Strategy Games.md",
-    "details/engineering/systems/Systems and Models.md",
-    "details/engineering/network_science/Random Network.md",
-    "details/game design/puzzles/Puzzle Design.md",
-    "details/psychology/interaction/Persuasion.md",
-    "details/engineering/network_science/Percolation Theory.md",
+    "Exploration Logs.md",
+    "details/machine learning/reinforcement learning/pgms/Decision Time Planning.md",
+    "details/machine learning/reinforcement learning/marl/MARL Research.md",
+    "details/machine learning/unsupervised learning/Contrastive Learning.md",
+    "details/machine learning/fundamenntals/Loss Function.md",
+    "details/machine learning/supervised/Pathologies of Deep Learning.md",
+    "zshortdump/English Words Index.md",
+    "details/linguistics/language learning/German Words Index.md",
+    "details/machine learning/frameworks/Representation Learning.md",
+    "__images/WINNE Model.png",
+    "zshortdump/Imitation Learning.md",
+    "index.md",
+    "zshortdump/Attribution Bias.md",
+    "zshortdump/Chaos Theory.md",
+    "zshortdump/Cryptography.md",
+    "zshortdump/Transfer Learning.md",
+    "details/natural sciences/geography/Climate.md",
+    "details/machine learning/reinforcement learning/marl/Heterogeneous MARL.md",
+    "details/machine learning/reinforcement learning/marl/Mean Field MARL.md",
+    "__images/SHPPO.png",
+    "details/__ideas__/Trivia.md",
+    "details/__ideas__/Animals.md",
+    "details/natural sciences/geography/Atmospheric Moisture.md",
+    "details/natural sciences/geography/The Atmosphere.md",
+    "details/natural sciences/geography/Weather Systems.md",
+    "details/psychology/archetypes/The Characters (Theophrastus).md",
+    "details/computer science/misc/Procedural Worlds.md",
     "details/humanities/Motifs of Folk Literature.md",
-    "details/warfare/Mercenary.md",
-    "details/game design/Level Design Principles.md",
+    "details/natural sciences/simulation",
+    "__meta/{{Media Board}}.canvas",
     "__images/SAC.png",
     "Pasted image 20241223075359.png",
     "__images/Cyclone Occlusion.png",
@@ -214,8 +227,6 @@
     "__images/Butterfly Lemma.png",
     "__images/First Isomorphism Theorem.png",
     "__images/Third Isomorphism Theorem.png",
-    "__images/Second Isomorphism Theorem.png",
-    "__images/Control Hierarchy.png",
     "details/engineering/control",
     "details/computer science/misc",
     "details/mathematics/calculus/odes",
@@ -225,7 +236,6 @@
     "details/mathematics/algebra/field theory",
     "details/mathematics/graph theory/algebraic graph theory",
     "details/engineering/swarms",
-    "details/engineering/manufacturing",
     "details/mathematics/Untitled.canvas",
     "Test.canvas"
   ]

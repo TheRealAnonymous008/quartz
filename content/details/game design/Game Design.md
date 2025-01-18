@@ -29,6 +29,17 @@
 
 * [Games can become competitive for their own good -- driving the skill floor and skill ceiling up without an influx of players to make playing sustainable for casuals. ](https://www.youtube.com/watch?v=4rsI6CUPu0s)
 
+* [What makes a good game idea?](https://www.youtube.com/watch?v=6670PR0_sLk)
+	* A good hook based on the mechanics of the game. The setting is not the hook.
+	* Is there an audience for the game?
+	* How stream-able is the game? That is, can the game use content creators as marketing? Can a person watching the game understand the hook in a few seconds?
+	* Do the game mechanics scale? That is, can the core experience and gameplay loop be sustained for a long period of time?  Think of meta-progression and narrative.
+	* Is the game feasible for the level of skill, time, and budget you have? 
+
+* [A better way to handle worldbuilding in games is to make the player care about the setting -- treat the world not just as a backdrop but as a world that the player inhabits and interacts with. Make players care about the world rather than giving them all the answers.](https://www.youtube.com/watch?v=bups0ZUQdvc)
+
+* [In terms of game balance, sometimes it is in our interest as designers to favor the less skilled player. This can make the experience as a whole more fun and engaging](https://www.youtube.com/watch?v=Fs2drSTqd-0)
+ 
 # Topics
 * [[The Fundamentals of Game Design]]
 * [[Players and Why We Play Games]]
