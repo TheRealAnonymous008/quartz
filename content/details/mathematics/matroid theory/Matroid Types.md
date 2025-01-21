@@ -37,7 +37,7 @@
   
   It corresponds to [[Graph Planarity|planar graphs]].
 
-* A **[[Families of Graphs|bipartite]] matroid** is a matroid in which each cycle has an even number of elements.
+* A **[[Bipartite Graph|bipartite]] matroid** is a matroid in which each cycle has an even number of elements.
 * An **[[Trails, Walks, Paths and Cycles#Eulerian Graphs|Eulerian]] Matroid** is a matroid on $E$ if $E$ can be written as a set of disjoint of disjoint cycles. 
 
 ## [[Transversal Theory|Transversal]] Related  

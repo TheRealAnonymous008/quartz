@@ -4,7 +4,7 @@
 
 * A matching is a **maximum matching** if it contains as many edges as possible. Every vertex is adjacent to at most one edge of the matching.
 
-* A **Complete Matching** from $V_1$ to $V_2$ in a bipartite with partitions $V_1$ and $V_2$ is a injection between the vertices in $V_1$ and a subset of vertices in $V_2$ such that corresponding vertices are joined.
+* A **Complete Matching** from $V_1$ to $V_2$ in a [[Bipartite Graph|bipartite]] with partitions $V_1$ and $V_2$ is a injection between the vertices in $V_1$ and a subset of vertices in $V_2$ such that corresponding vertices are joined.
 
 # Hall's Marriage Theorem
 * Let  $G$ be a bipartite graph with partitions $V_1$ and $V_2$. For each subset $A\subseteq V_1$, let $\phi(A)$ be the neighborhood of $A$.

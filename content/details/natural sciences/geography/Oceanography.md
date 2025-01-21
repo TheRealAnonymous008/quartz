@@ -63,3 +63,5 @@
 * The **thermohaline conveyor** is the global circulation system driven by differences in temperature and salinity. 
 # Links
 * [[Exploring Physical Geography by Reynolds|Reynolds]]
+
+* [[Water Resources]] - includes a discussion on the flow of water with oceans acting as one store.

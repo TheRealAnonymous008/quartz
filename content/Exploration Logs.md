@@ -47,23 +47,46 @@
 
 	* *Limitation*: The estimation converges within $20-30$ timesteps. Shorter games may not benefit from Albatross.
 	* *Limitation*: Planning is dependent on the joint action space. 
-
-
 [^Mahlau_2024]: Mahlau, Schubert, and Rosenhahn (2024) [Mastering Zero-Shot Interactions in Cooperative and Competitive Simultaneous Games](https://arxiv.org/abs/2402.03136)
 
-* [^Vanneste_2021] examines communication learning in a mixed cooperative-competitive, partially-observable multi-agent setting where goals are shared between teams and are competitive across teams. 
-	* Communication is done via a C-Net which takes in observations and outputs a vector message..
-	* An A-Net then uses the vector message and the observations in the environment to determine the next action.
-	* Communication is learnt via Differentiable Inter-Agent Learning
-	* *Limitation*: In scenarios where communication is shared across teams, performance will decline significantly
-	* *Limitation*: Not tested for cases with a large number of agents.
-[^Vanneste_2021]: Vaneste et al. (2021) [Mixed Cooperative-Competitive Communication Using Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2110.15762) 
+
+* [^Kimenko_2021] discusses limitations for generic learning algorithms for pursuing adversarial goals in competitive environments
+	* Let $p_i',p_j''$ be playing programs for a particular game. Define a [[Theory of Computation|Computational Algorithm]] $C$. such that 
+	  $$
+	  C_{ij}= C(p_i',p_j'') =\begin{cases}
+	  +1 & p_i'\succ p_j'' & \text{player 1 wins} \\ 
+	  0 & p_i'\sim p_j'' & \text{draw} \\
+	  -1 & p_i'\prec p_j'' & \text{player 1 loses}
+	  \end{cases}
+	  $$
+	  We treat $C$ itself as characterizing a [[Game Theory - Games|game]]. 
+	  
+	  We also assume that each playing program runs within a time limit, and the game only has a finite state. Thus, the set of possible playing programs is large but finite. 
+	* Consider the Normal Form representation of the game given by the matrix whose entries are $C_{ij}$.  Each program then represents a [[Game Theory - Strategy|strategy]]. 
+	* We can perform the analysis using a [[Turing Machine]]. One particular case to consider is when learning is allowed called **open source competition** . That is Player $1$ can learn Player $2$'s strategy $p_j''$ and vice versa via information exchange. 
+	  
+	  We do this as follows. Let $U\braket{M}[D_0]\to D_1$ be a universal Turing machine with header $M$ applied to input $D_0$ and produces output $D_1$. The learning algorithms can be defined as 
+	  $$
+	  \begin{split}
+	  U\braket{L'}[C, L''] &\to p_i' \\ 
+	  U\braket{L''}[C, L'] &\to p_j'' \\ 
+	  \end{split}
+	  $$
+	  An algorithm $L'$ **wins** over $L''$ either by producing $L'[L'']\to p_i'(L'')\succ p_j'(L')$ where $L''[L']\to p_j''(L')$ or by producing $L'[L'']\to p_i'(L'')$ and the competing algorithm does not halt (i.e., winning requires the program to halt.)
+	  
+	  $L$' is a **universal winner** for game $C$ when it can defeat every opposing algorithm $L''$. 
+	* (*[^Kimenko_2021]Thm. 1*): Any algorithm competing in an open source competition associated with any strongly intransitive game cannot be a universal winner.
+	  
+	  In fact ([^Kimenko_2021] *Thm 3*) provides the stronger statement: Any algorithm competing in an open source competition cannot be a universal winner.
+		* *Proof*:  For Thm 1. A hypothetical universal winner $L_w$ halts so that $L_w[L'']\to p_i'$ . However, by strong intransitivity, take the program that runs $L_w$ first and then obtains $p_j''\succ p_i'$ which is guaranteed to exist. 
+		  
+		  For Thm. 3, we can show that $L_w$ cannot implement a  universal halting function so it cannot determine whether $L_h$ halts given data $D_h$. Hence $L''[L_w]$ that ignores $L_w$ and executes $L_h[D_h]$ is not defeated by $L_w[L']$. Hence, $L_w$ is not a universal winner.
+	* Thus, there is a new strategy: *Refuse to halt while hiding any intention to halt*. 
+	* This also implies *No learned algorithm can always win* and *Intransitivity adds complexity*. 
 
 
-* [^Bahceci_2023] examines how strategies can be evolved for use in Competitive Multi-Agent Search (CMAS). It gives a framework for viewing human creative problem solving as CMAS. 
+[^Kimenko_2021]: Kimenko, and Kimenko (2020) [On Limitations of Learning Algorithms in Competitive Environments](https://arxiv.org/abs/2011.12728)
 
-
-[^Bahceci_2023]:: Bahceci, Katila, and Mikkulainen (2023) [Evolving Strategies for Competitive Multi-Agent Search](https://arxiv.org/abs/2306.10640)
 
 
 * Some approaches in RL for learning strategy:
@@ -114,6 +137,7 @@
 * Forms of Government
 
 * [[Theory of Computation]]
+	* Algorithmic Information Theory
 * [[Rigid Body Simulation]] - Nonpenetration constraints
 * Japanese Mythology
 * [[Graph Neural Network]] - GNNs
@@ -143,9 +167,10 @@
 * [Johnson-Lindenstrauss Lemma](https://en.wikipedia.org/wiki/Johnson–Lindenstrauss_lemma)
 * [Dreams are (theorized) as ways humans prevent overfitting](https://www.sciencedirect.com/science/article/pii/S2666389921000945)
 * Neuro Evolution of Augmented Topologies and similar algorithms
-* Compositional Pattern Producing Methods
+	* [Evolutionary Acquisition of Neural Topologies](https://en.wikipedia.org/wiki/Evolutionary_acquisition_of_neural_topologies) 
+	* [Compositional Pattern Producing Network](https://en.wikipedia.org/wiki/Compositional_pattern-producing_network)
+	* [NEAT Particles](https://en.wikipedia.org/wiki/NEAT_Particles)
 * Lanczos Algorithm (cited in [[Graph Neural Network#Lanczos Network|Lanczos Networks]])
-* Algorithmic Information Theory
 * [Some interesting things to explore further](https://www.youtube.com/watch?v=-uIwboK4nwE) - PSLQ, Sinkhorn Limits, Kruithoff Limits
 	* https://en.wikipedia.org/wiki/Iterative_proportional_fitting 
 * [Combinatorial Maps](https://en.wikipedia.org/wiki/Combinatorial_map)

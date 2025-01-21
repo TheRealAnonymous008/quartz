@@ -1,9 +1,17 @@
+* Graph coloring is a type of [[Graph Homomorphism|graph homomorphism]].
+
+
 * Let $G$ be graph. The graph is $k$-**colorable** if it is possible to assign for each vertex $v\in V(G)$ colors such that adjacent vertices have different colors.
 * A graph is **$k$-edge colorable** if its edges can be colored with $k$ colors so that no two adjacent edges (i.e., edges that share an endpoint) have the same color .
 * A map is $k$-**face colorable** if its faces can be colored with $k$ colors such that no two faces with a boundary edge in common have the same color.
+
 # Chromatic Number
 * The **chromatic number** of $G$ denoted $\chi(G)=k$ implies that $G$ is $k$-colorable but not $(k+1)$-colorable.
 * A graph $G$ has a **chromatic index** denoted $\chi'(G)$ if it is $k$-edge colorable but not $k-1$ edge colorable.
+
+* (*Godsil 1.4.1*) The chromatic number of a graph $X$ is the least integer $r$ such that there is a homomorphism from $X$ to $K_r$. 
+	* *Proof*: In the forward case, if the homomorphism exists, then a partition based on which elements map to $y$ in the image will form independent sets which correspond to the color classes.
+	  Conversely, if such a coloring exists, then the homomorphism maps $V(X)$ to $K_r$.  
 
 * (*Wilson Ch. 18*) **Brook's Theorem** - If $G$ is a simple connected graph and not an odd cycle, and if $\Delta(G)\ge 3$, then $G$ is $\Delta$-colorable.
 * **Vizing's Theorem**  [^2]
@@ -26,7 +34,7 @@
   \end{equation}
   $$
   
-* (*Wilson 20.4*) **Konig's Theorem** If $G$ is bipartite,  then 
+* (*Wilson 20.4*) **Konig's Theorem** If $G$ is [[Bipartite Graph|bipartite]],  then 
   $$
   \chi'(G)=\Delta
   $$
@@ -94,22 +102,23 @@
   \chi(G-v) = k-1
   $$
 
-* (*Wilson e17.11.3a*) Let $G$ be $k$-critical. Then [^3
+* (*Wilson e17.11.3a*) Let $G$ be $k$-critical. Then
   $$
   \delta(G) \ge k-1
   $$
+	* *Proof*:   Argue by contradiction. If $\deg v < k-1$, then $v$ has at most $k-2$ neighbors, and the induced subgraph is $k-1$ colorable. The Pigeonhole Principle applies and we find that we can replace the color of $v$ and we have the original graph as $k-1$ colorable. 
 
-[^3]: Argue by contradiction. If $\deg v < k-1$, then $v$ has at most $k-2$ neighbors, and the induced subgraph is $k-1$ colorable. The Pigeonhole Principle applies and we find that we can replace the color of $v$ and we have the original graph as $k-1$ colorable. 
-
-* (*Wilson e17.11.3b*) Let $G$ be a $k$-critical graph. Then $G$ does not contain cut vertices. A special case of *Wilson e17.11.3b*.  [^4]
-
-[^4]: Let $G-v$ consist of components by virtue of $v$ beng a cut-set. Now, $G-v$ is $k-1$ colorable. Any component combined with $v$ (and the edges to $v$) $C_i+v$ is $k-1$ colorable. Taking the union of the components gives us a $k-1$ coloring.
+* (*Wilson e17.11.3b*) Let $G$ be a $k$-critical graph. Then $G$ does not contain cut vertices. A special case of *Wilson e17.11.3b*.  
+	* *Proof*:  Let $G-v$ consist of components by virtue of $v$ beng a cut-set. Now, $G-v$ is $k-1$ colorable. Any component combined with $v$ (and the edges to $v$) $C_i+v$ is $k-1$ colorable. Taking the union of the components gives us a $k-1$ coloring.
 
 * (*Wilson e17.11z*) Let $G$ be a $k$-critical graph. Any vertex cut of $G$ cannot be in a clique. 
 	* This follows from *Wilson e17.11.3b* except applying the argument to multiple vertices instead.
 
 # Links
 * [[An Exploration of the Chromatic Polynomial by Aydelotte]]
+* [[Introduction To Graph Theory by Wilson]]
+* [[Algebraic Graph Theory by Godsil and Royle]]
+
 
 * [[Fundamental Constructs of Graph Theory]]
 * [[Families of Graphs]]

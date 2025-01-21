@@ -88,6 +88,8 @@ return x*
 
 [^Xue_2020]: Xue and Shen (2020) [A novel swarm intelligence optimization approach: sparrow search algorithm](https://www.tandfonline.com/doi/pdf/10.1080/21642583.2019.1708830)
 
+* [[Neuroevolution]] can be seen as a metaheuristic. 
+
 
 # Links
 * [Metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)

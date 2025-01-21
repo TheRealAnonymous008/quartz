@@ -12,5 +12,8 @@
 * [[Chegeer's Inequality]]
 * [[Spectral Convolution]]
 
+* [[Algebraic Graph Theory -- Notation Guide]]
+
 # Links
 * [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt]]
+* [[Algebraic Graph Theory by Godsil and Royle]]

@@ -36,7 +36,7 @@
 	* $C(x)$ is [[Convex Optimization|convex]] for all $x$
 	* $C$ has a closed graph. 
 
-* A **Bipartite Network Projection** is an operation for simplifying a [[Families of Graphs|Bipartite Graph]]. 
+* A **Bipartite Network Projection** is an operation for simplifying a [[Bipartite Graph|bipartite graph]]. 
   
   Let $U, V$ be bipartitions of the bipartite graph. Then, its **projection on $U$*** is defined as a graph whose nodes are the same as the vertices of $U$, and two nodes are connected if and only if they are linked to the same node in $V$. 
   

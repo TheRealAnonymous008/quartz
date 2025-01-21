@@ -151,6 +151,37 @@
 	* For higher level strategic learning, planning considers player's intentions to cooperate or compete.
 
 	[^Weiner_2016]: Weiner et al. (2016) [Coordinate to cooperate or compete: Abstract goals and joint intentions in social interaction](https://par.nsf.gov/servlets/purl/10026426)
+
+* [^Gupta_2023] proposes **CAMMARL**, a MARL agent-modeling approach which *models the actions of other agents using conformal prediction*
+	* At each time step, we use a conformal prediction model, defined as $\mathcal{C} : \mathbb{R}^d \to 2^{|\mathcal A_{-i}|}$. It takes as input $o_{-i}^t$ and outputs the conformal action predictive set $\set{A_{-i}^t}$.
+	* Let $o_{-i}\in \mathcal{O}_{-i}$ and $\hat{\pi}_{-i}\in\mathbb{R}^{|\mathcal{A}_{-i}|}$ be the predicted probability vector for the actions of other agents. Then we can define the total probability mass of the set of actions more probable than $a$
+	  $$
+	  \rho(a\mid o_{-i}) = \sum_{a'\in\mathcal{A}_{-i}} \hat\pi(a'\mid o_{-i} ) \ \mathbb{1}\left[\hat\pi(a'\mid o_{-i}) \ge \hat\pi(a\mid o_{-i} )\right] 
+	  $$
+	  And the rank as 
+	  $$
+	  z(a\mid o_{-i}) = \left|\set{a'\in\mathcal{A}_{-i} \mid \hat\pi(a'\mid o_{-i}) \ge \hat\pi(a'\mid o_{-i})}\right|
+	  $$
+	  Then the predictive action set is estimated as follows
+	  $$
+	  \mathcal{C} (o_{-i}) = \set{a : \rho(a\mid o_{-i}) + \hat{\pi}(a\mid o_{-i})\cdot u + \lambda\cdot(z(a\mid o_{-i}) -k)^+\le \tau}
+	  $$
+	  Where $x^+$ denotes the positive portion of $x$, $\lambda, k\ge 0$ are regularization hyperparameters and $u\sim U_{[0,1]}$ is to allow for randomization and $\tau$ is a tuning parameter for controlling the sizes of the sets.
+
+	* Inference using this method favors smaller set sizes which implies the model learns to refine the conformal prediction.
+	* *Limitation*: The model assumes that the state space is accessible globally. 
+	* *Limitation*: The results of the paper are based on a simple two-player environment.
+
+
+![[CAMMARL.png]]
+<figcaption> CAMMARL Algorithm. Image taken from Gupta, Nath and Kahou (2023) </figcaption>
+
+![[CAMMARL Conformal Model.png|500]]
+<figcaption> CAMMARL Conformal Action Modeling. Image taken from Gupta, Nath and Kahou (2023) </figcaption>
+
+
+[^Gupta_2023]: Gupta, Nath and Kahou (2023) [CAMMARL: Conformal Action Modeling in Multi Agent Reinforcement Learning](https://arxiv.org/abs/2306.11128) 
+
 # Links 
 * [[MARL Problem Statement]]
 * [[MARL from a Game Theoretic Perspective]]

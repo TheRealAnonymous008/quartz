@@ -158,23 +158,3 @@
 
 [^guo_2024]: (Guo et al., 2024) [Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration](https://arxiv.org/abs/2404.03869)
 
-
-
-
-
-
-# Communication
-* [^bettini_2023] proposes a [[Graph Neural Network|GNN]] based approach called **Heterogeneous GNN PPO (HetGPPO)** which enables both inter-agent communication and learning in Dec-POMDP environments.
-	* *Motivation*: Prior methods address heterogeneity without considering the use of communication to mitigate the partial observability in a Dec-POMDP (i.e., [[Centralized Training Decentralized Execution|CTDE]] relaxes this constraint for the critic during training). Relaxing the assumption to the case of homogeneous agents prevents agents from using heterogeneous actions to achieve their objectives.
-	* We can extend the regular [[MARL from a Game Theoretic Perspective|Game theoretic formulation]] by introducing a [[Graph Theoretic Approaches for Swarms|communication graph]] for each agent.
-	  
-	  At each time step, the observation $o_i^t$ is communicated to an agent in the neighborhood $N_i^t$. 
-	  
-	  The goal is still the same, however, to learn policies for each agent .
-	* The model allows for **behavioral typing** -- where environmental conditions nudge agents to behave in particular ways. 
-	* The proposed solution is both performant (compared to Homogeneous parameter sharing) and resilient (i.e., even with observation noise, the agents perform well.)
-
-![[GPPO.png]]
-<figcaption> HETGPPO. Image taken from Bettini, Shankar, and Porok (2023) </figcaption>
-
-[^Bettini_2023]: Bettini, Shankar, and Prorok (2023) [Heterogeneous Multi-Robot Reinforcement Learning](https://arxiv.org/pdf/2301.07137)

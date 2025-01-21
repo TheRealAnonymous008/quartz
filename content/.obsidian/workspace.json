@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53c318919384fcd8",
+        "id": "c129ac92776203c7",
         "type": "tabs",
         "children": [
           {
-            "id": "174cda2cb71f6680",
+            "id": "27bd5364de60b14d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,17 @@
             }
           },
           {
-            "id": "7c927c319b63049a",
+            "id": "eef8863c0d3ece11",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b08a8e838347164e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -31,7 +41,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intransitive game",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -183,50 +194,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "174cda2cb71f6680",
+  "active": "b08a8e838347164e",
   "lastOpenFiles": [
+    "details/mathematics/game theory/Game Theory - Notation Guide.md",
     "Exploration Logs.md",
-    "details/machine learning/reinforcement learning/pgms/Decision Time Planning.md",
-    "details/machine learning/reinforcement learning/marl/MARL Research.md",
-    "details/machine learning/unsupervised learning/Contrastive Learning.md",
-    "details/machine learning/fundamenntals/Loss Function.md",
-    "details/machine learning/supervised/Pathologies of Deep Learning.md",
-    "zshortdump/English Words Index.md",
-    "details/linguistics/language learning/German Words Index.md",
-    "details/machine learning/frameworks/Representation Learning.md",
+    "details/game design/mechanics/tabletop/Tabletop Mechanics -- Resolution.md",
+    "details/mathematics/game theory/Game Theory - Strategy.md",
+    "details/machine learning/reinforcement learning/marl/Communication with MARL.md",
+    "details/machine learning/reinforcement learning/marl/MARL -- Notation Guide.md",
+    "__images/ClusterComm.png",
+    "details/mathematics/graph theory/Line Graph.md",
+    "details/natural sciences/geography/Groundwater.md",
+    "details/natural sciences/geography/The Hydrosphere.md",
+    "details/natural sciences/geography/Water Resources.md",
+    "details/engineering/systems/System Evolution.md",
+    "__meta/Whiteboard.excalidraw",
+    "details/natural sciences/geography/Oceanography.md",
+    "details/natural sciences/geography/The Earth and Insolation.md",
+    "__meta/Orphanage.md",
+    "details/engineering/systems/Emergence.md",
+    "details/engineering/network_science/Fundamental Constructs of Network Science.md",
+    "details/engineering/systems/Kinds of System Dynamics and Dynamical States.md",
+    "z__unfiled__/Management.md",
+    "details/engineering/Cybernetics.md",
+    "details/humanities/religion/Creation (Kabbalah).md",
+    "details/engineering/systems/Characterizing Systems.md",
+    "details/engineering/Atkin's Laws of Spacecraft Design.md",
+    "details/mathematics/graph theory/Fundamental Constructs of Graph Theory.md",
+    "details/mathematics/Graph Theory.md",
+    "details/mathematics/graph theory/Graph Connectivity.md",
+    "details/mathematics/graph theory/algebraic graph theory/Graph Homomorphism.md",
+    "__images/QRC-TSC.png",
+    "__images/CAMMARL Conformal Model.png",
+    "__images/CAMMARL.png",
+    "__images/CMAS.png",
     "__images/WINNE Model.png",
-    "zshortdump/Imitation Learning.md",
-    "index.md",
-    "zshortdump/Attribution Bias.md",
-    "zshortdump/Chaos Theory.md",
-    "zshortdump/Cryptography.md",
-    "zshortdump/Transfer Learning.md",
-    "details/natural sciences/geography/Climate.md",
-    "details/machine learning/reinforcement learning/marl/Heterogeneous MARL.md",
-    "details/machine learning/reinforcement learning/marl/Mean Field MARL.md",
     "__images/SHPPO.png",
-    "details/__ideas__/Trivia.md",
-    "details/__ideas__/Animals.md",
-    "details/natural sciences/geography/Atmospheric Moisture.md",
-    "details/natural sciences/geography/The Atmosphere.md",
-    "details/natural sciences/geography/Weather Systems.md",
-    "details/psychology/archetypes/The Characters (Theophrastus).md",
-    "details/computer science/misc/Procedural Worlds.md",
-    "details/humanities/Motifs of Folk Literature.md",
     "details/natural sciences/simulation",
     "__meta/{{Media Board}}.canvas",
     "__images/SAC.png",
     "Pasted image 20241223075359.png",
     "__images/Cyclone Occlusion.png",
-    "__images/Hiragana.png",
-    "__images/Katakana.png",
-    "__meta/Whiteboard.excalidraw",
-    "__images/Butterfly Lemma.png",
-    "__images/First Isomorphism Theorem.png",
-    "__images/Third Isomorphism Theorem.png",
     "details/engineering/control",
     "details/computer science/misc",
     "details/mathematics/calculus/odes",

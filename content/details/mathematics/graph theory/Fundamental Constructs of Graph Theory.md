@@ -55,11 +55,6 @@ $$
   $$
 
 # Relations between Graphs
-* An **[[Group Isomorphism|isomorphism]]** from $G$ to $H$ is a bijection $f:V(G)\to V(H)$ such that if $xy\in E(G)$ , then $f(x)f(y)\in E(H)$. 
-	* We say that if an isomorphism between $G$ and $H$ exists, then the two graphs are **isomorphic**, which we denote as $G\cong H$ .
-	* Isomorphism is an equivalence class
-	* *Adjacency is preserved under isomorphism*.
-
 * The graph $H$ is a **subgraph** of a graph $G$, denoted as $H\subseteq G$ if and only if $V(H)\subseteq V(G)$ and $E(G)\subseteq E(H)$. We refer to $G$ as the **supergraph**
 	* If $V(H) = V(G)$, we say that $H$ is a **spanning subgraph** of $G$. 
 
@@ -72,7 +67,7 @@ $$
 
 
 
-
+* [[Graph Homomorphism]]
 * [[Matrices in Graph Theory]]
 
 # Links

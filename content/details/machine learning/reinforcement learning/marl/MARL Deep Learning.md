@@ -191,6 +191,7 @@ $$
 * [[Value Reward Decomposition]] - approaches that involve decomposing the joint value reward function to something simpler (i.e., based on the local value reward function for each agent) 
 * [[Mean Field MARL]] 
 * [[Heterogeneous MARL]]
+* [[Communication with MARL]]
 
 
 # Links 

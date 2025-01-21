@@ -28,7 +28,7 @@
 * (*Wilson 9.2x*) Any tree on $n\ge 2$ vertices has at least two leaves.
 * (*Wilson 9.3b*) Each cycle of $G$ has an edge in common with the cotree of $T$.
 * (*Wilson 9.3b*) Each cycle of $G$ has an edge in common with $G-T$.
-* (*Wilson e9.3.1*) Every tree is bipartite
+* (*Wilson e9.3.1*) Every tree is [[Bipartite Graph|bipartite]]
 * (*Wilson e9.9*) A tree has either one center or two adjacent centers [^1]
 
 [^1]: This is based on deleting vertices starting from the leaf nodes.

@@ -14,10 +14,6 @@
 
 * [[Fundamental Constructs of Graph Theory]]
 * [[Families of Graphs]]
-	* [[Trails, Walks, Paths and Cycles]]
-	* [[Trees]]
-	* [[Infinite Graph]]
-	* [[Directed Graph]]
 
 * [[Operations on Graphs]]
 * [[Graph Connectivity]]

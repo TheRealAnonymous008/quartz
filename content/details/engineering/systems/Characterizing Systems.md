@@ -8,7 +8,7 @@
 		* $n_i$ is an integer enumeration of the number of components of the particular type.
 		* The number of times a tuple appears is equal to the number of variations of that tuple 
 	* $N$ is a **[[Fundamental Constructs of Network Science|network]] description** of the system, in particular which internal components are connected and at what level of complexity. 
-	* $I$ is a [[Graph Theory|bipartite graph]] where half of the nodes are entities in the environment, the other half are component subsystems .Edges indicate the **connections** *between objects in the environment and objects in the subsystem*
+	* $I$ is a [[Bipartite Graph|bipartite graph]] where half of the nodes are entities in the environment, the other half are component subsystems .Edges indicate the **connections** *between objects in the environment and objects in the subsystem*
 	* $B$ is a complex object that describes the **boundaries** of the system. 
 	* $K$ is a complex object that describes the **dynamics** -- that is, how the components interact with each other and the environment. 
 	* $H$ is a complex object of the **history** of the system or its state transitions as it develops. 
@@ -52,6 +52,7 @@
 ## Evolution
 * *Systems evolve*. Either towards higher organizations, maintaining a steady-state, or decaying.
 * The evolution of systems is based on its flows. When inflows are too low, entropy takes over and the system deteriorates towards disorder 
+* See more [[System Evolution|here]]
 
 ## Information 
 * *Systems encode knowledge and receive and send [[Information Theory|information]]*. 

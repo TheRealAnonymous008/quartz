@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 13250351
       }
+    },
+    {
+      "query": "path:z__unfiled__  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.6383052389994872,
+  "scale": 0.0372826075337512,
   "close": true
 }

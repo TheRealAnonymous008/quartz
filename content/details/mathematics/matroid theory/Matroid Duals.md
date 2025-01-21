@@ -47,7 +47,7 @@
 	  \end{split}\end{equation}
 	  $$
 
-* (*Wilson e32.9*) $M$ is Eulerian if and only if $M^\ast$ is bipartite. 
+* (*Wilson e32.9*) $M$ is Eulerian if and only if $M^\ast$ is [[Bipartite Graph|bipartite]]. 
 	* *Remark*:  This generalizes *Wilson e15.9*.
 # Links 
 * [[Matroid Definitions and Constructs]]
