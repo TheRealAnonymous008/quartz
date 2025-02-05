@@ -29,8 +29,11 @@
 * $\overline{G}$ - complement of the graph.
 * $G\cup H$ - union of two graphs
 * $G \cap H$ - intersection of two graphs.
-* $\partial G[S]$ - boundary of the induced subgraph $G[S]$.
+* $\partial_e S$ - edge boundary of $S$
+* $\partial S$ - outer boundary of $S$.
+* $\partial G[S]$ - induced subgraph associated with $\partial S$. 
 * $\text{cl}(G[S])$ - closure of $G[S]$  
+* $\text{cl}(S)$ - set of vertices in the closure of $G[S]$. 
 * $G\oplus H$ - sum of graphs. 
 * $G^o$ - oriented graph. Specifically $G$ is strongly oriented (or such an orientation is defined)
 * $G\square H$ - the Cartesian product of $G$ and $H$ .  

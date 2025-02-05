@@ -91,7 +91,7 @@
    [^1]: Same logic as *Wilson 13.4a* but observing that each face is incident to at least $r$ edges.
 
  * (*Wilson 15.6*) A graph is planar if and only if it has an [[Graph Duality|algebraic dual]].
- * (*Wilson 15.9*) Let $G$ be a connected, plane graph. $G$ is [[Bipartite Graph|bipartite]] if and only if $G^\ast$ is [[Trails, Walks, Paths and Cycles#Eulerian Graphs|Eulerian]].
+ * (*Wilson 15.9*) Let $G$ be a connected, plane graph. $G$ is [[Bipartite Graph|bipartite]] if and only if $G^\ast$ is [[Eulerian Graph|Eulerian]].
 
 # Links
 * [[Graph Duality]]

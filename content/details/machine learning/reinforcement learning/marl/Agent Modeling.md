@@ -141,7 +141,7 @@
 * [^Weiner_2016] develops a method to determine the intentions of other agents in the environment and determines whether or not to cooperate or compete, leading to the *emergence of social norms*.
 	* The paper aims to bridge high-level strategic decision making over abstract social goals such as cooperation and competition with low-level planning over realizing these goals.. This is done through **hierarchical social planning** where *learning is done on both levels*
 	* *Low-level learning has two modes -- cooperative and competitive High-level learning decides whether to cooperate or compete*. 
-	* *Cooperation is achieved through a group utility function*
+	* *Cooperation is achieved through a group [[Utility|utility function]]*
 		* A high level policy will be conditioned on the joint actions. Low level policies of each agent marginalize out the actions of the other player from the joint policy. 
 		* Policies contain intertwined intentions. *Cooperation is built as part of planning*. 
 		* Agents interact and after each interaction infer how much they weigh the utility of the other agent. *This is akin to a form of [[Dynamic Games of Complete Information|virtual bargaining]]* 

@@ -52,7 +52,7 @@
   l_\theta(x) &= \log p_\theta(x) - \log q(x)
   \end{split}
   $$ 
-* **InfoNCE Loss** uses the categorical cross entropy loss for positive and negative samples. 
+* **InfoNCE Loss** uses the categorical cross entropy loss for positive and negative samples. e
   
   Let $c$ be a context vector. Generate $x^+\sim p(x\mid c)$ and $\set{x^-_i}_{i=1}^{N-1}\sim q(x)$. Also let $X=\set{x^+} \cup \set{x_i^-}_{i=1}^{N-1} = \set{x_i}_{i=1}^N$. 
   

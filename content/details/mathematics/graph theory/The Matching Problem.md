@@ -115,7 +115,8 @@
   Since $\mu(G)\le \tau(G)$ and $\mu(G)\ge \tau(G)$, the theorem is proven.
 
 # Menger's Theorem 
-* Can be thought of as a special case of the [[Flow Network|Max-Flow Min-Cut]] Theorem
+* Can be thought of as a special case of the [[Flow Network|Max-Flow Min-Cut]] Theorem. 
+	* *Intuition*: Consider a weighted graph. For each edge with weight $w$, incident to $u,v$ delete it and create $w$ new edges.  Edge independent / Vertex independent paths now correspond flows in this flow network, while Edge / Vertex cuts now correspond to cuts in the flow network. 
 * (*Wilson 28.1*) **Edge Version** - the maximum number of edge-independent paths connecting two distinct vertices $v$ and $w$ of a connected graph is equal to the minimum number of edges in a $v,w$-edge cut.
 * (*Wilson 28.1*) **Vertex Version** - the maximum number of vertex disjoint paths connected two distinct vertices $v$ and $w$ of a connected graph is equal to the minimum number of edges in a $v,w$-vertex cut.
 * (*Wilson 28.6*) **Menger's Theorem implies Hall's Theorem**

@@ -76,7 +76,7 @@
 * An **equity** is the monetary value the owner of a property would have after selling these properties and repaying any outstanding bank loans used to purchase the assets.
 * *Investing in tangible assets can lead to both financial and non-financial returns*. 
 	* The idea here is to pay low and sell high and receive capital gains.
-	* The rate of return is moderate if there are non-financial benefits as well (i.e., there is utility to this.)
+	* The rate of return is moderate if there are non-financial benefits as well (i.e., there is [[Utility|utility]] to this.)
 
 | Option | Return | Risk | Liquidity |
 | ---- | ---- | ---- | ---- |

@@ -21,7 +21,7 @@
   \dots,v_{-1},e_{-1},v_0, e_1, v_1, e_2, \dots
   $$
    such that of $\dots, v_0, \dots \in V$ and $\dots, e_{-1}, e_1, \dots \in E$ and each edge is incident to the vertices to its left and right in the sequence (i.e., $e_1=v_0v_1$).
-* An **Eulerian Line** generalizes Eulerian trails to infinite graphs. It is a two-way infinite path that traverses each edge.
+* An **Eulerian Line** generalizes [[Eulerian Graph|Eulerian]] trails to infinite graphs. It is a two-way infinite path that traverses each edge.
 
 * An **Eulerian Infinite Graph** is an infinite graph wherein there exists an Eulerian Line in the graph
 

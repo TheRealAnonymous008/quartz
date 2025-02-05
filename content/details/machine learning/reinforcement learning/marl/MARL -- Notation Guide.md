@@ -1,7 +1,7 @@
 * Notation outlined for [[Reinforcement Learning - Notation Guide|reinforcement learning]] and [[Game Theory - Notation Guide|game theory]]  remains relevant unless overwritten here 
 
 * $\mathcal{T}$ - the transition probability of the environment. 
-* $^t_i$ - denotes something for agent $i$ taken at time step $t$.  [^time_idx]
+* $^t_i, ^i_t$ - denotes something for agent $i$ taken at time step $t$.  [^time_idx]
 * $^t$ - denotes something joint (for all agents) taken at time step $t$. 
 * $_i$ - pertains to the $i$-th agent 
 * $_{-i}$ - pertains to everything but the $i$-th agent .

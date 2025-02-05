@@ -13,6 +13,24 @@
 	* Decide whether the economic change affects supply and demand 
 	* Decide how it affects supply or demand (does it induce a shift to the right or the left) . If there are multiple variables and effects, analyze each individually. 
 	* Compare the new equilibrium to the old equilibrium
+
+# Misc
+* Consider an economic system with $n$ agents and $m$ resources. 
+  
+  Assume we have a price vector $p\in \mathbb{R}^{+m}$ corresponding to the price of each commodity, and an allocation matrix $x$ where $x_{ij}$ represents the amount of resource $j$ allocated to agent $i$.
+  
+  Each agent also has an endowment $e_i\in\mathbb{R}^m$ and a utility function $u_i : \mathbb{R}^m\to \mathbb{R}$
+  
+  The **Competitive (Walrasian)** equilibrium $(x^\ast, p^\ast)$ satisfies the following properties. 
+	* The allocation is feasible  $\forall j$:  
+	  $$
+	  \sum_i x_{ij}^\ast \le \sum_{i} e_{ij}
+	  $$
+	* All agents maximize their utilities under the budget induced by the prices. $\forall i$
+	  $$
+	  x_i^\ast = \underset{x_i\in[0,1]^m}{\text{argmax}}  \ u_i(x_i) \ \ \ \ \ \text{subject to } p^{\ast T}x_i \le p^{\ast T} e_i
+	  $$
+
 # Topics 
 * [[Scarcity, Supply, and Demand]]
 * [[Consumer Behavior and Transactions]]

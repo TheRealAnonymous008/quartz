@@ -18,9 +18,20 @@
 	* *Intuition*: We establish that $\sigma_g$ is a one-to-one map of $X$ onto itself, which proves that it is a permutation, which follows from the two properties of the group action.
 	  
 	  The homomorphism follows by showing that $\phi(g_1 g_2)$ maps $x$ to the same element as $\phi(g_1)\phi(g_2)$ satisfying the homomorphism property. This immediately follows from the composition of permutations.
-	* $G$ is **transitive** on $G$-set $X$ if and only if $\phi(G)$ is transitive.
+	* $G$ is **transitive** on $G$-set $X$ if for every $x,y\in X$, there exists $g$ such that
+	  $$
+	  gx = y
+	  $$
 
-* The subset of $G$ leaving every element of $X$ fixed is a [[Normal Group]] $N\unlhd G$.
+
+* The subset of $G$ leaving every element of $X$ fixed is a [[Normal Group]] $N\unlhd G$.  
+* A subset $S\subseteq X$ is **$G$-invariant** if 
+  $$
+  \forall x\in S, g\in G \ \ \ gx = x
+  $$
+
+
+
 * $G$ **acts faithfully** on $X$ if only the identity element leaves every $x\in X$ fixed.
 * Two $G$-sets $X,Y$ are **isomorphic** if there exists a bijective mapping $\phi:X\to Y$ such that $\forall x\in X, g\in G$ 
   $$
@@ -32,6 +43,15 @@
   \text{Stab}_G(x) =\{g\in G\mid gx=x\}
   $$
   See (*Fraleigh 16.12*) for why it is a [[Subgroup]]. 
+	* If $x_1,\dots,x_n$ are distinct elements of $X$ then
+	  $$
+	  \text{Stab}_G(x_1,\dots,x_n) = \bigcap_{i} \ \text{Stab}_G(x_i)
+	  $$
+	  Which is also a subgroup since intersections of subgroups are subgroups. We call this the **pointwise stabilizer** of $\set{x_1,\dots,x_n}$. 
+	* If $S\subseteq X$, then the **setwise stabilizer** is the stabilizer 
+	  $$
+	  \text{Stab}_G(S) = \set{g\in G\mid \sigma_g(S) = S}
+	  $$
 
 * The **orbit** of $x\in X$ under $G$ is defined as the partition of the equivalence relation defined where: 
   $$
@@ -45,7 +65,7 @@
 	* See (*Fraleigh 16.14*) for why it is an equivalence [[Relation]]. 
 	* (*Fraleigh e16.6*) Every $G$-set is the union of its orbits. Also, the union of $G$-sets is a $G$-set.
 
-* (*Fraleigh 16.16*) **Orbit-Stabilizer Theorem**  Let $X$ be a $G$-set and $x\in X$. Then 
+* (*Fraleigh 16.16*, *Godsil 2.2.2*) **Orbit-Stabilizer Theorem**  Let $X$ be a $G$-set and $x\in X$. Then 
   $$
   |\text{Orb}_G(x)|=(G : \text{Stab}_G(x))
   $$
@@ -54,12 +74,15 @@
   |G|=|\text{Orb}_G(x)| \ |\text{Stab}_G(x)|
   $$
 	* *Intuition*: We can establish a one-to-one map from $\text{Orb}_G(x)$ to the collection of left cosets of $\text{Stab}_G(x)$ which gives the first relation. The second relation follows immediately from the definition of the group index.
+	  
+	  A more precise lemma is given below
+		* (*Godsil 2.2.1*) Let $G$ be a permutation group acting on $X$ and $S$ an orbit of $G$.  If $x,y\in S$, the set of permutations in $G$ that map $x$ to $y$ is a right coset of $\text{Stab}_G(x)$. Conversely, all elements in a right coset of $\text{Stab}_G(x)$ map $x$ to the same point in $S$. 
 	* *Intuition* A second way to view this is with the lens of the [[Group Homomorphism|fundamental homomorphism theorem]]. Define a homomorphism $\phi:G\to G$ in the obvious way using the group operation on $G$. The elements of $G$ form a $G$-set. 
 	  It can then be shown that $\text{Stab}_G(e)=\text{ker}(\phi)$ and $\text{Orb}_G(e) =\phi(G)$. The Orbit-Stabilizer theorem immediately follows.  
 
 * (*Fraleigh e16.16*) Every $G$-set is isomorphic to a disjoint union of left coset $G$-sets.
 
-* (*Fraleigh 17.1*) **Burnside's Lemma**. Let $G$ be a finite group and $X$ a finite $G$-set. Then the number of orbits $|X/G|$ is calculated as 
+* (*Fraleigh 17.1*, *Godsil 2.2.4*) **Burnside's Lemma**. Let $G$ be a finite group and $X$ a finite $G$-set. Then the number of orbits $|X/G|$ is calculated as 
   $$
   |X/G|=\frac{1}{|G|}\sum_{g\in G}|X^g|
   $$
@@ -70,20 +93,20 @@
 	  $$
 	  Both sides count how many total fixed points are possible. That is, the number of $(g,x)$ pairs where $gx=x$. 
 	  
-	  The RHS counts this on $g$, counting the fixed points for each element$g$
+	  The RHS counts this on $g$, counting the fixed points for each element $g$
 	  
 	  The LHS counts this on $x$ can be better expressed as follows. The number is precisely by $\text{Stab}_G(x)$. The Orbit-Stabilizer Theorem then gives the following.
 	  $$
 	  \sum_{x\in X} |\text{Stab}_G(x)| = \sum_{x\in X} \frac{|G|}{|\text{Orb}_G(x)|} = |G| \sum_{x\in X} \frac{1}{\text{Orb}_G(x)}
 	  $$
-	  Let $\mathcal{O}$ be the set of unique orbits. Let $|\mathcal{O}|= r$. We can group each $x$ that are part of the same orbit (since orbits define an equivalence relation).
+	  Let $X/G$ be the set of unique orbits. Let $|X/G|= r$. We can group each $x$ that are part of the same orbit (since orbits define an equivalence relation).
 	  
 	  $$
-	  \sum_{x\in X} \frac{1}{\text{Orb}_G(x)} = \sum_{O\in \mathcal{O}} \sum_{x\in O} \frac{1}{|O|} = \sum_{O\in \mathcal{O}} |O| \frac{1}{|O|} = \sum_{O\in \mathcal{O}}1 = |\mathcal{O}| =r
+	  \sum_{x\in X} \frac{1}{\text{Orb}_G(x)} = \sum_{O\in X/G} \sum_{x\in O} \frac{1}{|O|} = \sum_{O\in X/G} |O| \frac{1}{|O|} = \sum_{O\in X/G}1 = |X/G| =r
 	  $$ 
 	* Every element of $X$ is in precisely one orbit. Therefore 
 	  $$
-	  |X| = \sum_{\mathcal{O}} |\mathcal{O}|
+	  |X| = \sum_{\mathcal{O}\in X/G} |\mathcal{O}|
 	  $$
 * **General Class Equation**: Every element of $X^g$ consists of one-element orbits in $X$. Therefore 
   $$
@@ -101,9 +124,22 @@
   $$
 	* We refer to each orbit in $G$ under conjugation by $G$ as a **conjugate class** in $G$. 
 
+* (*Godsil e2.3*) If $G$ is a non-trivial transitive permutation group on the set $V$, there is an element of $G$ with no fixed points. 
+	* *Proof*: If $G$ has one orbit (i.e., it  is a cycle), then any non-identity element $g\in G$ will suffice. 
+	  
+	  Otherwise, by (*Fraleigh 9.8*) we can construct $g'\in G$ with no fixed points. For each $\mathcal{O}_i\in X/G$, take $g_i$ (which permutes all elements in its orbit) and form $g'$ by 
+	  $$
+	  g' = \prod_i g_i
+	  $$
 
 
+
+# Topics
+* [[Group Action Orbital]]
+* [[Primitive Permutation]]
 
 # Links
-* [[Cosets, Group Indices]]
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]
+* [[Algebraic Graph Theory by Godsil and Royle]]
+
+* [[Cosets, Group Indices]]

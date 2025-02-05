@@ -31,34 +31,10 @@
 # Topics
 * [[Prompt Engineering]] - an increasingly important technique in using LLMs  which involves tuning the input prompts.
 * [[Instruction Tuning]] - all about instruction tuning, a technique to get an NLP model to understand instructions.
-# Papers
-* TransferTransfo -- A [[Transfer Learning|Transfer Learning]] Approach for Neural Network based Conversational Agents by Wolf, Sanh, Chaumond, and Delangue (Feb 4, 2019)
 
-* ⭐ BERT -- Pre-Training of Deep Bidirectional Transformer for Language Understanding by Devlin, Chang, Lee, and Toutanova (May 24, 2019) 
+# Foundational Models
+* [[DeepSeek]]
 
-* Towards a Human-like Open-Domain Chatbot by Adiwardana et. al (Feb 27, 2020) 
-
-* ⭐ Language Models are Few-Shot Learners by Brown et. al, (Jul. 22, 2020) 
-
-* Dense Passage Retrieval for Open-Domain Question Answering by Karpukhin et. al (Sep 30, 2020) 
-
-* TOD-BERT -- Pre-trained Natural Language Understanding for Task-Oriented Dialogue by Wu, Hoi, Socher, and Xiong (November 2020) 
-
-* ⭐Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks by Lewis et. al., (2020) 
-
-* ⭐ LaMDA- Language Models for Dialog Applications by Thoppilan et. al (Feb 10, 2022) 
-
-* Language-Agnostic BERT Sentence Embedding by Feng et. al (Mar 8, 2022) 
-
-* ⭐ Training Compute-Optimal Large Language Models by Hoffmann et. al (Mar 29, 2022)
-
-* Generating Training Data with Language Models- Towards Zero-Shot Language Understanding by Meng, Huang, Zhang, Han (Oct 12, 2022)
-
-* ⭐ LLaMA- Open and Efficient Foundation Language Models by Touvron et. al (Feb 27, 2023) 
-
-* ⭐ OpenAGI--When LLM Meets Domain Experts by Ge et. al (Apr 12, 2023) 
-
-* HuaTuo- Tuning LLaMA Model with Chinese Medical Knowledge by Wang et. al (Apr 14, 2023)
 # Links
 * [[Transformer Model]] - discusses one of the most common mechanisms used in LLMs.
 * [[Language Model]] - a discussion on some of the earlier and smaller Language Models.

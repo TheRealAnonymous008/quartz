@@ -14,14 +14,41 @@
 
 * *The inherent trade off between homogeneity and heterogeneity is that of sample efficiency (homogeneous) and resilience / performance (heterogeneous)*.
 # HARL
+* [^Juang_2024] introduces **Comparative Advantage Maximization (CAM)** to enhance specialization within multi-agent systems.
+	* The general idea is to first *Develop a general policy via CTDE*. and then *guide agents to leverage their comparative advantage*. 
+	* On top of the usual [[Policy Gradient Methods|Policy Gradient]]-based approach, we modify the loss function to include the [[Information Theory|Mutual Information]] written as  follows for two agents $i,j$. 
+	  $$
+	  J'(\theta) = J(\theta) + \lambda I(a_i; a_j \mid s)
+	  $$
+	* Agents are identified using IDs (denoted $d$). Implicitly, all localized inputs $Q, \pi, V$ depend on $d$. 
+	* In the first stage, The base policy is trained on states and agent IDs with the goal of maximizing mutual information across agent pairs. Mutual information means *agent behaviors are interlinked and aligned while still allowing some room for diversity*. In particular, the goal is to maximize the following 
+	  $$
+	  \begin{split}
+	  \sum_{s,a_i, a_j} \left[Q(s,a_i)\right]\left[\pi_\theta (a_i,a_j\mid s) \log(\pi_{\theta}(a_i,a_j\mid s)) \right] \\
+	  - V(s) \left[\pi_{\theta} (a_i,a_j\mid s) \left[\log(\pi_\theta(a_i\mid s))  + \log(\pi_\theta(a_j\mid s))\right]\right]
+	  \end{split}
+	  $$
+	* In the second stage, we use the baseline policy from the first stage. Each agent maximizes its comparative advantage, in such a way that *agents learn to specialize*. The goal is to maximize the $Q$-value of individual actions.
+	  
+	  To ensure evolution, policies are added to the opponent pool for refinement and competition.
+	  
+	  Our objective function is to maximize the following. We denote the base model as $f$. For each $i$, $s_i$ denotes the state of the world where $f(a_{-i})$ and agent $i$ does nothing.
+	  $$
+	  \begin{split}
+	  \frac{1}{N}\sum_{i}\sum_{s_i ,a_{-i}}\pi_\phi(a_i\mid s_i) \cdot \left[Q(s_i, a) \log(\pi_\phi(a_i\mid s)) - V(s_i)\log(\pi_\phi(a_i\mid s_i))\right]
+	  \end{split}
+	  $$
+
+[^Juang_2024]: Juang et al. (2024) [Breaking the mold: The challenge of large scale MARL specialization](https://arxiv.org/abs/2410.02128)
+
 * [^Zhong_2023] proposes Heterogeneous MARL (HARL) algorithms for the cooperative setting designed to coordinate agent updates.  In particular, the key ideA of their scheme is to *perform sequential updates on each individual agent's policy rather than update the whole joint policy*,
-* (*Zhong 4*) **Multi-Agent Advantage Decomposition**. In any cooperative Markov games given a joint policy $\pi$, for any state $s$ and agent subset $i_{1:m}$, the following holds for the [[MARL from a Game Theoretic Perspective#Miscellaneous|Multi-agent Advantage]]. 
+* (*[^Zhong_2023] 4*) **Multi-Agent Advantage Decomposition**. In any cooperative Markov games given a joint policy $\pi$, for any state $s$ and agent subset $i_{1:m}$, the following holds for the [[MARL from a Game Theoretic Perspective#Miscellaneous|Multi-agent Advantage]]. 
   
   $$
   A_\pi^{1:m} (s,a^{i_{1:m}}) = \sum_{j=1}^m A_\pi^{i_j}(s,a^{i_{1:j-1}}, a^{i_j})
   $$
   That is, *a joint policy can be improved sequentially*.
-* (*Zhang 6*) Let $\pi$ be a joint policy. For any joint policy $\overline\pi$ we have
+* (*[^Zhong_2023] 6*) Let $\pi$ be a joint policy. For any joint policy $\overline\pi$ we have
   $$
   J(\overline\pi) \ge J(\pi) + \sum_{m=1}^n L_{\pi}^{i_{1:m}} (\overline\pi_{i_{1:m-1}}, \overline{\pi}_{i_m}) - \text{C} \ \cdot \max{\text{KL}}(\pi_{i_m}, \overline\pi_{i_m})
   $$
@@ -39,7 +66,7 @@
 <figcaption> Sequential HARL. Image taken from ZhonG et al. (2023) </figcaption>
 
 * In performing the sequential update, we take into account the previous agent updates.
-* (*Zhong 7*) The Multi-Agent Policy Iteration with Monotonic Improvement Guarantee monotonically improves. In fact, (*Zhong 8*) The policy converges to the Nash Equilibrium.
+* (*[^Zhong_2023] 7*) The Multi-Agent Policy Iteration with Monotonic Improvement Guarantee monotonically improves. In fact, (*Zhong 8*) The policy converges to the Nash Equilibrium.
 	* The algorithm is not practical however since it (1) assumes the use of the full state space and action space and (2) requires the computation of the [[Information Theory|KL Divergence]]. 
 
 
@@ -51,7 +78,11 @@
 
 ![[HAPPO.png]]
 <figcaption> HAPPO. Image taken from Zhong et al. (2023) </figcaption>
-[Zhong_2023]: Zhong et al. (2023) [Heterogeneous-Agent Reinforcement Learning](https://arxiv.org/pdf/2304.09870)
+
+
+
+
+[^Zhong_2023]: Zhong et al. (2023) [Heterogeneous-Agent Reinforcement Learning](https://arxiv.org/pdf/2304.09870)
 
 # Parameter Sharing Methods
 ## UAS 
@@ -147,14 +178,19 @@
 	  \mathcal{L}_d(\theta_L) &= \frac{1}{n(n-1)} \sum_i \sum_{j\ne i} \text{Norm}(1-\text{cos\_sim}(l_i(o_i, h_i^{t-1}\mid \theta_L),l_j(o_i, h_i^{t-1} \mid \theta_L))
 	  \end{split}
 	  $$
-		* Maximizing $\mathcal{L}_v$ means learned latent variables help choose better heterogeneous layers (since we maximize value)
+		* Minimizing $\mathcal{L}_v$ means learned latent variables help choose better heterogeneous layers (since we maximize value)
 		* Maximizing $\mathcal{L}_e$ means latent distributions are more identifiable.
-		* Maximizing $\mathcal{L}_d$ means latent distributions are more diverse .
+		* Minimizing $\mathcal{L}_d$ means latent distributions are more diverse .
 
 
 * Each $l_i$ is then used to generate a heterogeneous layer. That is, we get the heterogeneous parameters $w_i$ from $l_i$.
+* *Limitation*: The heterogeneous layers chosen are simple.  It is also reliant on the population distribution.
 ![[SHPPO.png]]
 <figcaption> SHPPO. Image taken from Guo et al., 2024</figcaption>
 
-[^guo_2024]: (Guo et al., 2024) [Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration](https://arxiv.org/abs/2404.03869)
+[^guo_2024]: Guo et al., 2024 [Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration](https://arxiv.org/abs/2404.03869)
 
+
+$$
+\mathbb{E}_{i,j : i\ne j; o^t \sim \mathcal{D}}\left[\text{dist}(\pi_i(\cdot \mid o_i^t) ,\pi_j(\cdot \mid o_j^t))\right]
+$$

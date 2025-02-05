@@ -33,6 +33,15 @@
 
 [^Kaven_2024]: Kaven et al. [Multi agent reinforcement learning for online layout planning and scheduling in flexible assembly systems](https://link.springer.com/article/10.1007/s10845-023-02309-8)
 
+* [^Siedler_2023] investigates a MARL setup for a cooperative-competitive task (in this case, microplastic cleanup)
+	* It makes use of a [[Graph Neural Network|GNN]]-based communication system. 
+	* *Limitation*: It's very limited in scope. At best, it illustrates how MARL can be applied to a real world problem.
+
+
+[^Siedler_2023]: Siedler (2023) [Learning to Communicate and Collaborate in a Competitive Multi-Agent Setup to Clean the Ocean from Macroplastics](https://arxiv.org/abs/2304.05872)
+
+
+
 * [^Wang_2022] proposes a [[Transformer Model|Transformer]]-based multi actor-critic framework for active voltage control. It also aims to stabilize the training process of [[MARL Algorithms and Approaches|MARL algorithms]] with a transformer.
 	* The network operates on a power distribution network (represented as a graph). 
 	* Raw observations are projected into an embedding space. Since it operates on a graph, it makes use of the adjacency matrix as additional positional information.  This information is then fed to a transformer
@@ -45,11 +54,68 @@
 * [^ardon_2022] propose an [[Agent Based Modeling|ABM]] network that is compatible with the use of [[Multi-Agent Reinforcement Learning|MARL]] .  The framework encodes the following
 	* Partial Observability. 
 	* A network model for inter-agent relationships.  Connectivity can either be static or stochastic. 
-	* Agent Utility Functions encapsulated as [[Game Theory - Games|types]].
+	* Agent [[Utility|utility functions]] encapsulated as [[Game Theory - Games|types]].
 	* Heterogeneous Agent Preferences
 	* Support for complex turn orders (i.e., turns based on types)
 
 [^Ardon_2022]: Ardon et al. (2023) [An RL driven multi-agent framework to model complex systems](https://arxiv.org/pdf/2210.06012)
+
+* [^Wen_2021] proposes **MARL framework for Auto-Bidding (MAAB)** which learns auto-bidding strategies in a multi-agent setting.  It also examines the use of a [[Mean Field MARL|Mean field approach]] for scale. 
+	* *Motivation*: Prior approaches focused only on an Independent-Learning setting where agents ignore the presence of others. 
+	  
+	  The goal here is to formulate the problem as a cooperative, competitive scenario between individual agents. 
+	* The problem is as follows. The agents have $T$ impression opportunities and can give a bid $b_i^t$ on behalf of advertiser $i$ at time $t$. The agents play a  [[Auction Theory|closed second-price auction]] , where if agent $i$ wins they receive impression value (interpreted as reward)  $v_i^t$ and makes payment $p^t$. Each agent also has a budget constraint $B_i$. The goal is 
+	  
+	 $$
+	  \begin{split}
+	  \text{maximize } & \ \ \ \ \ \sum_{t=1}^T v_i^t x_i^t \\  
+	  \text{subject to} & \ \ \ \ \ \sum_{t=1}^T p^t x_i^t \le B_i
+	  & \ \ \ \ \
+	  \end{split}
+	  $$
+	  Where $x_i^t\in \set{0,1}$ denotes whether advertiser $i$ wins impression at $t$.
+	  
+	  The policy of the agent outputs the bid price. That is
+	  $$
+	  \begin{split}
+	  b_i^t &= \pi_i(o_i^t) \\
+	  o_i^t &= (B_i^t, v_i^t, T-t)
+	  \end{split}
+	  $$
+	  Where $B_i^t$ is the remaining budget (clamped at $0$). 
+	* In a full competition setting, the above causes a [[Competition between Firms|Monopoly]] to emerge. In a full cooperative setting, the social welfare is much higher but each agent has a lower profit. 
+		* To balance both, we introduce a weighting parameter $a_i$ that weighs each agent's contribution to the total reward (i.e., the social welfare) $r^{\text{tot}}$ Where
+		  $$
+		  \begin{split}
+		  r_i&=z_ i \ a_tr^{\text{tot}} \\
+		  a_i &= \frac{\exp(b_i/\tau)}{\sum_j \exp(b_j/\tau)}
+		  \end{split}
+		  $$
+		  The temperature $\tau$ regulates the trade off between competition and cooperation.
+		  $z_i$ is an indicator variable that is $1$ when the bid exceeds the bar set and $0$ otherwise (see below for a description) 
+		  
+		* (*[^Wen_2021] 4.1*) In the two agent bidding cases  where $v_1>v_2$, and $b_1,b_2\in [b_{\text{min}}, b_{\text{max}}]$ In the case where either $v_1\ge 2v_2$ or when $v_1 < 2v_2$ but 
+		  $$
+		  \tau \ge \frac{\log(2v_2/v_1 - 1)}{b_{\text{min}} - b_{\text{max}}}
+		  $$
+		  Then $b_1\ge b_2$ and the relation is cooperative. Otherwise, competitive. 
+	* To prevent agents from harming the platform's revenue, we *introduce bar agents during training (not during execution)*. A bar agent introduces a bidding bar for their corresponding agent. 
+	  
+	  The bar agents are rewarded with the reward
+	  $$
+	  \bar r_i = z_ip
+	  $$
+	* To scale this, we use the mean-field setting. In this setting, we group individual agents based on their advertiser's objective. 
+	  
+	  In the mean field case, we consider for each group the mean field policy that outputs the mean value and budget. The bid is derived based on the advantage over the mean value.
+
+![[MAAB.png]]
+<figcaption> MAAB. Image taken from Wen et al. (2021) </figcaption>
+
+![[Mean Field MAAB.png]]
+<figcaption> Mean MAAB. Image taken from Wen et al. (2021)  </figcaption>
+
+[^Wen_2021]: Wen et al. (2021) [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising](https://arxiv.org/abs/2106.06224)
 
 
 * [^Queralta_2020] gives a survey for multi-robot search and rescue systems. 
@@ -88,6 +154,3 @@
 [^Queralta_2020]: Queralta et al. (2020) [Collaborative Multi-Robot Search and Rescue: Planning, Coordination, Perception, and Active Vision](https://ieeexplore.ieee.org/document/9220149?denied=)
 
 
-* [^Weil_2024]  introduces a decentralized approach to MARL using a graph-based message passing algorithm to pass agent states to their neighbors.  In this approach, agents form a communication network. Agents pass their local states to their neighbors in the network, and aggregate incoming messages to form a local observation of the entire network. This approach can be used with any RL training algorithm by performing the message passing step in each episode and augmenting agent observations with the local graph observation. 
-
-[^Weil_2024] Wel et al. (2024) [Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing](https://arxiv.org/abs/2402.05027)

@@ -53,7 +53,7 @@
 
 * *If a player is mixing between several strategies, he must be indifferent between them*.  Hence, for mixed strategies, we can check which opponent strategies causes the player to be indifferent.
 	* This follows from the fact that suppose the player weren't indifferent, then clearly one strategy must be better than the other in which case it is more optimal to simply not mix.
-	* Indifference means that the expected utility from choosing either strategy is the same. 
+	* Indifference means that the expected [[Utility|utility]] from choosing either strategy is the same. 
 
 ## Behavioral Strategies 
 * A **behavioral strategy** specifies for each information set $h_i \in H_i$ an independent probability distribution over $A_i(h_i)$ and is denoted $\sigma: H_i\to \Delta A_i(h_i)$, where $\sigma_i(a_i(h_i))$ is the probability that player $i$ plays action $a_i(h_i)\in A_i(h_i)$ in information set $h_i$/

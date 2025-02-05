@@ -12,9 +12,15 @@
 	  The map $\mu: G\to S_G$ defined by $\mu(x) = \rho_{x^{-1}}$ is the **right regular representation** of $G$.
 	* We can think of the left and right regular representations as encoding [[Group Action|group actions]] and defining a bijection from a group element to its corresponding group action.
 
-* Let $A$ be a set. Then $H\le S_A$ is **transitive on** $A$ if $\forall a,b\in A$ $\exists \sigma$ such that $\sigma(a) =b$.  
+* Let $A$ be a set. Then $H\le S_A$ is **transitive on** $A$ if 
+  $$
+  \forall a,b\in A$ $\exists \sigma
+  $$
+  such that $\sigma(a) =b$.  
+
 
 * (*Fraleigh e9.29*) Every subgroup $H\le S_n$ for $n\ge 2$, either all permutations in $H$ are even or exactly half of them are even.
 	* *Intuition*: Any odd permutation $\tau$ has a corresponding group action which maps the group to itself. In $\tau H$, the evens become odds and the odds become evens but the number of elements must stay the same because the group elements did not change.
+
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]] 

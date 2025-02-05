@@ -1,55 +1,49 @@
-# TRPO
-* **Trust Region Policy Optimization** [^Schulman_2015]. It aims to optimize large non-linear policies (i.e., those that use neural networks) by using a surrogate loss function. In particular, this is based on the [[Information Theory|KL divergence]]
-* For convenience, we let
-  
+# GRPO
+* **Group Relative Policy Optimization** [^Shao_2024]
+* It builds upon [[#PPO]] while optimizing for memory usage by removing a Value Model.
+	* Instead of a Value Model that acts as a critic, *use the average reward of multiple sample model outputs using the same input*. 
+	* The objective is then formulated as follows (see [[#PPO-CLIP]]).  Let $\mathcal{G}$ be the output group sampled from $\pi_{\theta_\text{old}}$ with $a$ as the output (which can be a sequence of outputs over time) and  $s$ the fixed input. Then
+	  $$
+	  J^\text{GRPO} (\theta) = \mathbb{E}_{s\sim\mathcal{S}, \mathcal{G} \sim \pi_{\theta_\text{old}}(\cdot \mid s)} \left[ \frac{1}{|a_i|}\sum_{t=1}^{|a_i|} \min\left(\tau_{i,t}(\theta)\hat{A}_{i,t}, \text{clip}(\tau_{i,t}(\theta), 1-\epsilon,1+\epsilon\right)\hat{A}_{i,t}\right] - \beta \text{KL}(\pi_\theta \| \pi_{\text{ref}})
+	  $$
+	  With the probability ratio being given by 
+	  $$
+	  r_{i,t}(\theta) = \frac{\pi_\theta(a_{i,t}\mid s, o_{<t})}{\pi_{\theta_\text{old}} (a_t\mid s, o_{<t} )}
+	  $$
+	  And advantage $\hat{A}$ calculated based on relative rewards of outputs inside each group only. 
+	* We can estimate the [[Information Theory|KL divergence]] as
+	  $$
+	  \text{KL}(P\| Q) \approx \frac{Q(x)}{P(x)} - \log \frac{Q(x)}{P(x)} - 1
+	  $$
+* **Outcome Supervision** provides the normalized reward at the end of each output. This is done as follows. For outputs $\set{a_1,\dots, a_G}$, a reward model scores these [^llm] to yield $r = \set{r_1,\dots, r_G}$. The rewards are normalized and the advantage is given as the normalized reward. That is 
   $$
-  \text{KL}(\pi_{\theta_\text{old}}, \pi) = \text{KL}\left(\pi_{\theta_\text{old}}(\cdot\mid s_t) \mid\mid \pi_{\theta}(\cdot\mid s_t)\right)
+  \text{norm}(r_i) = \frac{r_i - \text{mean(r)}}{\text{std}(r)}
   $$
+  And
+  $$
+  \hat{A}_{i,t} = \text{norm}(r_i)
+  $$
+* **Policy Supervision** can also be done to provide rewards at the end of each reasoning step In this case, $R=\set{\set{r_1^{\text{idx}(1)}, \dots r_1^{\text{idx}(K_1)}},\dots \set{r_G^{\text{idx}(G)}, \dots r_G^{\text{idx}(K_G)}}}$ where $\text{idx}(j)$ is the end token index of the $j$-th step and $K_i$ is the total number of steps. The total reward is then given by
+  $$
+  \hat{A}_{i,t} = \sum_{\text{idx}(j) \ge t} \text{norm} (r_i^{\text{idx}(j)})
+  $$
+* To make GRPO **Iterative**, we can generate new training sets for the reward model based on the sampling results from the policy model. We could then train the reward model via a replay mechanism. 
 
+![[GRPO.png]]
+<figcaption> GRPO. Image taken from Shao et al. (2024) </figcaption>
 
-* [[Policy Gradient Methods#Advantage function|The notes here are helpful as a background for why we have TRPO]].  The theoretical bound is then given for old policy $\pi_0$ and new policy $\pi_1$ as 
-  
-  $$
-  \begin{split}
-  \eta(\pi_1) &\ge J_{\pi_0}(\pi_1) - C \max_s \text{KL} (\pi(\cdot \mid s) \mid\mid \bar\pi(\cdot \mid s))\\
-  
-  C &= \frac{4\epsilon\gamma}{(1-\gamma)^2} \\ 
-  \epsilon &= \max_{s,a} |\hat{A}_\pi(s,a) |
-  \end{split}
-  $$
-* This gives the following algorithm for policy improvement. 
-![[TRPO.png]]
-<figcaption> Theoretical TRPO from Schulman et al. (2015). TRPO itself is an approximation of this </figcaption>
+![[Iterative GRPO.png]]
+<figcaption> Iterative GRPO. Image taken from Shao et al. (2024) </figcaption>
 
-* TRPO reframes the objective as maximizing $\eta(\pi_1)$ (see above). However, we use the approximation $L_{\theta_\text{old}}$. More specifically, we can use the [[Importance Sampling]] ratio $\rho_{\theta_\text{old}}$and replace the advantage with $Q$.  That is, the objective becomes 
-  
-  $$
-  \begin{split}
-  J_{\theta_{\text{old}}} &= \mathbb{E}_{\ s\sim \rho_{\theta_\text{old}}, \  a\sim \pi_{\theta_\text{old}} } \left[\frac{\pi_\theta(a\mid s)}{\pi_{\theta_\text{old}}(a\mid s)} Q _{\theta_\text{old}} (s,a) \right]    \\
-  \end{split}
-  $$
-  
-* In practice, we do not use $C$ because this gives small step sizes. Instead we maximize $L_{\theta_\text{old}}(\theta)$ subject to the constraint that for threshold $\delta$. 
-  $$
-  \begin{split}
-  \overline{\text{KL}}(\theta_1, \theta_2) &=  \mathbb{E}_{s\sim p}\left[\text{KL} (\pi_{\theta_1}(\cdot \mid s) \mid\mid \pi_{\theta_2} (\cdot \mid s))  \ \right]\\
-  \overline{\text{KL}} (\theta_\text{old}, \theta) &\le \delta
-  \end{split}
-  $$
-  This is the **trust region constraint** 
-* The trust region constraint guarantees that old and new policies do not diverge too much while guaranteeing monotonic improvement.  [^TRPO_2]
-* The $Q$ value can be replaced with an empirical estimate. 
-	* **Single Path** - Estimates for $Q$ comes from a single trajectory
-	* **Vine** -Given a single trajectory, sample states, and from each sampled state, sample actions. From there, perform a [[Decision Time Planning|rollout]] and estimate $Q$ from the rollout trajectories. 
-	* *Vine gives a better estimate with lower variance* at the cost of requiring more calls as well as not being feasible for systems where "undoing" is not possible .
+[^llm]: Keep in mind this was written in an [[Large Language Model|LLM]] context. In practice, if we don't have a reward model for scoring, refer to the resulting rewards via the environment dynamics 
 
-[^Schulman_2015]: Schulman et al. (2015) [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)
-[^TRPO_1]: Note the original paper uses $D_{\text{TV}}$ and $D_\text{KL}$ in place of their respective divergences
-[^TRPO_2]: The KL divergence makes this intuitive since it measures the similarity between two probability distributions, and recall that policies are probability distributions.
+[^Shao_2024]: Shao et al. (2024) [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+
 
 # PPO
 * **Proximal Policy Optimization** [^Schulman_2017]. These alternate between sampling data through interaction with the environment, and optimizing a “surrogate” objective function using [[Optimization Algorithms in Machine Learning#Stochastic Gradient Descent|SGD]].
 * The goal is scalability since [[#TRPO]] is complicated and not good for noisy architectures. 
+* The assumed objective by default is [[#PPO-CLIP]]. 
 
 ### PPO-CLIP
 * It introduces the **clipped surrogate objective**. Let $r_t(\theta)$ denote the probability ratio 
@@ -64,7 +58,7 @@
   J^{\text{CLIP}} (\theta) =  \hat{\mathbb{E}}_t \left[\min \left(r_t(\theta) \ \hat{A}_t\  , \ \text{clip}( r_t(\theta), 1-\epsilon, 1+\epsilon) \right)\hat{A}_t\right]
   $$
   
-  The first term in the min function above is the same objective as [[#TRPO]]. The second modifies the surrogate objective by clipping the probability ratio, removing the incentive for moving $r_t$ outside the interval $[1-\epsilon, 1+\epsilon]$. 
+  The first term in the min function above is the same objective as [[#TRPO]]. The second modifies the surrogate objective by clipping the probability ratio, removing the incentive for moving $r_t$ outside the interval $[1-\epsilon, 1+\epsilon]$.  This is to make things more stable. 
   
   *The final bound given by the loss function above is a lower bound (i.e., a pessimistic bound) on the unclipped objective.* 
   
@@ -173,3 +167,52 @@
 * KFAC approximates the gradient using Kronecker products between smaller matrices 
 
 [^Yuhai_Wu_2017]:  Wu et al. (2017) [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/pdf/1708.05144.pdf)
+
+# TRPO
+* **Trust Region Policy Optimization** [^Schulman_2015]. It aims to optimize large non-linear policies (i.e., those that use neural networks) by using a surrogate loss function. In particular, this is based on the [[Information Theory|KL divergence]]
+* For convenience, we let
+  
+  $$
+  \text{KL}(\pi_{\theta_\text{old}}, \pi) = \text{KL}\left(\pi_{\theta_\text{old}}(\cdot\mid s_t) \mid\mid \pi_{\theta}(\cdot\mid s_t)\right)
+  $$
+
+
+* [[Policy Gradient Methods#Advantage function|The notes here are helpful as a background for why we have TRPO]].  The theoretical bound is then given for old policy $\pi_0$ and new policy $\pi_1$ as 
+  
+  $$
+  \begin{split}
+  \eta(\pi_1) &\ge J_{\pi_0}(\pi_1) - C \max_s \text{KL} (\pi(\cdot \mid s) \mid\mid \bar\pi(\cdot \mid s))\\
+  
+  C &= \frac{4\epsilon\gamma}{(1-\gamma)^2} \\ 
+  \epsilon &= \max_{s,a} |\hat{A}_\pi(s,a) |
+  \end{split}
+  $$
+* This gives the following algorithm for policy improvement. 
+![[TRPO.png]]
+<figcaption> Theoretical TRPO from Schulman et al. (2015). TRPO itself is an approximation of this </figcaption>
+
+* TRPO reframes the objective as maximizing $\eta(\pi_1)$ (see above). However, we use the approximation $L_{\theta_\text{old}}$. More specifically, we can use the [[Importance Sampling]] ratio $\rho_{\theta_\text{old}}$and replace the advantage with $Q$.  That is, the objective becomes 
+  
+  $$
+  \begin{split}
+  J_{\theta_{\text{old}}} &= \mathbb{E}_{\ s\sim \rho_{\theta_\text{old}}, \  a\sim \pi_{\theta_\text{old}} } \left[\frac{\pi_\theta(a\mid s)}{\pi_{\theta_\text{old}}(a\mid s)} Q _{\theta_\text{old}} (s,a) \right]    \\
+  \end{split}
+  $$
+  
+* In practice, we do not use $C$ because this gives small step sizes. Instead we maximize $L_{\theta_\text{old}}(\theta)$ subject to the constraint that for threshold $\delta$. 
+  $$
+  \begin{split}
+  \overline{\text{KL}}(\theta_1, \theta_2) &=  \mathbb{E}_{s\sim p}\left[\text{KL} (\pi_{\theta_1}(\cdot \mid s) \mid\mid \pi_{\theta_2} (\cdot \mid s))  \ \right]\\
+  \overline{\text{KL}} (\theta_\text{old}, \theta) &\le \delta
+  \end{split}
+  $$
+  This is the **trust region constraint** 
+* The trust region constraint guarantees that old and new policies do not diverge too much while guaranteeing monotonic improvement.  [^TRPO_2]
+* The $Q$ value can be replaced with an empirical estimate. 
+	* **Single Path** - Estimates for $Q$ comes from a single trajectory
+	* **Vine** -Given a single trajectory, sample states, and from each sampled state, sample actions. From there, perform a [[Decision Time Planning|rollout]] and estimate $Q$ from the rollout trajectories. 
+	* *Vine gives a better estimate with lower variance* at the cost of requiring more calls as well as not being feasible for systems where "undoing" is not possible .
+
+[^Schulman_2015]: Schulman et al. (2015) [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)
+[^TRPO_1]: Note the original paper uses $D_{\text{TV}}$ and $D_\text{KL}$ in place of their respective divergences
+[^TRPO_2]: The KL divergence makes this intuitive since it measures the similarity between two probability distributions, and recall that policies are probability distributions.

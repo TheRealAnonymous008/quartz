@@ -165,7 +165,7 @@
 * **Scarcity** - Knowing the scarcity principle is not enough when the emotional reaction it draws overpowers the knowledge. *Recognize the signs that scarcity is playing a factor in our decisions*. 
 	* Ask: What it is that we want from the item 
 		* We could want an item for the advantages of possessing a rare item, in which case we can use the scarcity principle to inform us of its price. 
-		* However, we could simply want the item for its utility and in the spur of the moment end up wanting it because it suddenly becomes scarce. *Scarcity does not affect utility*
+		* However, we could simply want the item for its [[Utility|utility]] and in the spur of the moment end up wanting it because it suddenly becomes scarce. *Scarcity does not affect utility*
 
 # Manipulation 
 * The general principles of manipulation are as follows

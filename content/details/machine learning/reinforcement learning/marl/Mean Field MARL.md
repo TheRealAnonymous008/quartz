@@ -82,6 +82,101 @@
 
 [^yang_2018]: Yang et al. (2018) [Mean Field Multi-Agent Reinforcement Learning](https://proceedings.mlr.press/v80/yang18d/yang18d.pdf)
 
+
+* [^Zaman_2024]  introduces a  mean field approach to the problem of cooperative team-based MARL with infinitely many agents -- The **General-Sum LQ Mean-Field Type Game (GS-MFTG)**. The paper also develops the corresponding **Multi-Player Receding-Horizon Natural Policy Gradient (MRPG)** 
+	* *Assume* The LQ setting where agent dynamics are linear and costs are quadratic. This is to simplify things.
+	  
+	  Agents are grouped into $N$ teams. Each team has $M_i$ agents and team $j$ in team $i$ has linear dynamics -- that is, it is driven by a linear function of the agent state, action, and mean state and actions of population $i$. We term this setting as Cooperating-Competing (CC). In particular, the dynamics in the setting is given by
+	  $$
+	  x_{t+1}^{i,j} = A_t^ix_t^{i,j} +\overline{A}_t^i\overline{x}_t^i + \sum_{k=1}^N (B_t^{i,k}u_t^{i,j,k} + \overline{B}_t^{i,k}\overline{u}_t^{i,k}) + \omega_{t+1}^{0,i} + \omega_{t+1}^{i,j}
+	  $$
+	  Where each $A, B$ are matrices of appropriate size. and $\omega_t^{i,j}\sim \mathcal{N}(0.\Sigma^i)$ represents noise and $\omega_t^{0,i}\sim\mathcal{N}(0,\Sigma^0)$ represents common noise.  
+	  
+	  Actions for the $j$-th agent in team $i$ is denoted  $u_t^{i,j,i}$ and $u_t^{i,j,k}$ denotes the adversarial input of player $k$ into the dynamics of $j$ in $i$.
+	  
+	  The objective is the following for the team (and the $i$-th agent). Here, the $R$'s are positive definite and $Q$ are positive semi-definite symmetric matrices.
+	  
+	  $$
+	  \begin{split}
+	  J_M^i(u^i,u^{-i}) &= \frac{1}{M_i} \mathbb{E}\sum_{j\in M_i} \sum_{t=0}^{T-1} \|x_t^{i,j} -\overline{x}_t^i\|_{Q_t^i}^2 + \|x_t^i\| ^2 _{\overline{Q}_t^i} \\
+	  &+ \sum_{k=1}^N \|u_t^{k,j,i} -\overline u_t^{k,i}\| _{R_t^{k,i}}^2 + \|\overline{u}_t^{k,i}\|^2_{\overline{R}_t^{k,i}}  + \|x_T^{i,j} -\overline{x}_T^i\|^2_{Q_T^i} + \|\overline{x}_T^i\|_{\overline Q_T^i} ^2 
+	  \end{split}
+	  $$
+	  
+	  We also assume the mean field setting. The game itself is termed a **Mean Field Type Game** with the **GS-MFTG** its limit. 
+	  
+	  We denote $\mathcal{U}^i$ as the set of all policies causally adapted to the state and mean field process for agent $i$. 
+	  
+	  We will also use, for notation, $_M^i$ pertaining to the $i$-th agent for the $M$-th team. 
+		* *Define* $\|x\|_A = (x^TAx)^{\frac{1}{2}}$ see [[Quadratic Form]].
+
+		* The [[MARL from a Game Theoretic Perspective|Nash Equilibrium]] of the MFTG is an $\epsilon$-Nash for the finite agent CC game where  $\epsilon=O(1/\min_i M_i)$. We have that 
+		  $$
+		  J_M^i (u^{i\ast} , u^{-i\ast}) -\inf_{u^i \in \mathcal{U}_M^i} J^i_M (u^i,u^{-i\ast}) = O(\frac{T\sigma}{\min_i M_i})
+		  $$
+		* We decompose the MFG into two parts
+		  $$
+		  \begin{split}
+		  J^i(u^i, u^{-i}) &= J_y^i (v^i, v^{-i}) + J_\hat{x} ^i (\overline u^i , \overline u^{-i})) \\ 
+		  
+		  J_y^i(v^i, v^{-i}) &= \mathbb{E}\left[\sum_{t=0}^T \left[\|y_t\|^2_{Q_t^i} + \|v_t^i\|^2_{R_t^i}\right] + \|y_T\|_{Q_T^i}^2\right] \\
+		  
+		  
+		  J_y^i(\overline{u}^i, \overline u^{-i}) &= \mathbb{E}\left[\sum_{t=0}^T \left[\|\overline x_t\|^2_{Q_t^i} + \|u_t^i\|^2_{R_t^i}\right] + \|\overline x_T\|_{Q_T^i}^2\right]
+		  \end{split}
+		  $$
+		  
+		  Where
+		  $$
+		  \begin{split}
+		  y_{t+1} &= A_ty_t + \sum_{i=1}^N B_t^iv_t^i + \omega_{t+1} \\
+		  x_{t+1} &= \overline{A}_tx_t + \sum_{i=1}^N \overline{B}_t^i u_t^i + \omega_{t+1}^0
+		  \end{split}
+		  $$
+		  *The above shows that we can decouple the dynamics in the setting as the mean-field setting and the deviation from the mean-field*.  
+	* We use the Hamilton-Jacobi-Isaac equations to solve the Nash Equilibrium:
+	  $$
+	  \pi_i^{t\ast} = \underset{\pi}{\text{argmin}}  C_i^t (\pi, \pi_{-i}^t \mid \pi^{\ast [t+1,T-1]})
+	  $$
+	  For $t\in \set{0,\dots, T-1}$ and $\forall i$. Here $C_i^t$ is the partial cost of agent $i$ and $\pi^{[t,t']}$ is the set of policies for all agents from time $t$ to $t'$. We use the **Natural Policy Gradient (NPG)** to perform the minimization using the approximator $\overline{\pi}_{i}^t$. 
+	  
+	  In fact, because of the LQ conditions, $\overline{\pi}_i^t \approx \pi_i^t$ $\forall i, t$.   
+		* The key idea is as follows
+		  For the deviation dynamics:  find the policies for all agents at a fixed time $t$ and move backwards in time.
+		  
+		  For the mean field dynamics: find the policies for all agents at a fixed time $t$ and move forwards in time .
+		* At each time step $t$, solve for the set of controllers at time $t$, $K_t^i$ which minimize the cost $\overline{J}_{y,t}^{i,1}(K^i, K^{-i})$ while keeping $(K_s)_{t<s<T}$ fixed. More specifically, for process $y$ above,  choose an arbitrary agent (say agent $1$) and: 
+		  $$
+		  \min_{K_t^i} \overline{J}_{y,t}^{i,1} (K^i,K^{-i}) = \mathbb{E}\left[\|y_t^1\|^2_{Q_t^i + (K_t^i)^T R_t^i K_t^i} + \sum_{s={t+1}}^T \|y_s^1\| ^2 _{Q_s^i + (K_s^i)^T R_s^i K_s^i}\right]
+		  $$
+		  For $\overline{x}$, we calculate the set of controllers $\overline{K}_t^i$ by minimizing the cost while keeping $(\overline K_s)_{t<s<T}$  fixed. More specifically, for $\overline{x}$, we have: 
+		   $$
+		  \min_{\overline K_t^i} \overline{J}_{\overline x,t}^{i,1} (\overline K^i,\overline K^{-i}) = \mathbb{E}\left[\|\overline x_t\|^2_{\overline Q_t^i + (\overline K_t^i)^T \overline R_t^i \overline K_t^i} + \sum_{s={t+1}}^T \|\overline x_s\| ^2 _{Q_s^i + (\overline K_s^i)^T \overline R_s^i \overline K_s^i}\right]
+		  $$
+		* The algorithm proceeds using gradient descent. In particular, we use the Natural Policy gradient. In particular, if we assume that $y_t\sim \mathcal{N}(0,\Sigma_y)$ and $\overline x \sim\mathcal{N}(0, \Sigma_{\overline x})$
+		  
+		  $$
+		  {K^i_t\choose \overline{K}_t^i} \gets {K^i_t\choose \overline{K}_t^i} + \eta_k^i {\overline\nabla _{y,t}^i (K^i, K^{-i}) \Sigma_y^{-1}
+		  \choose
+		  {\overline\nabla _{\overline x,t}^i (\overline K^i, \overline K^{-i}) \Sigma_{\overline x} ^{-1}}}
+		  $$
+		  Where the gradients are calculated as follows (the calculation for $\overline{K}$) is done similarly
+		  $$
+		  \overline{\nabla}_{y,t}^i (K^i, K^{-i}) = \frac{m}{N_br^2}\sum_{j=1}^{N_b} \overline{J}_{y,t}^i (\hat{K}^i(e_j,t), K^{-i}) e_j
+		  $$
+		  Where $e_j \sim \mathbb{S}(r)$ is a perturbation and 
+		  $$
+		  \hat{K}^i(e,t) = (K_t^i + e, \dots, K^{i}_{T-1})
+		  $$
+		  is a controller set perturbed at time $t$. 
+
+![[MRPG.png|300]]
+<figcaption> MRPG approach. Image taken from  Zaman, Koppel, Lauriere and Basar (2024)</figcaption>
+
+
+[^Zaman_2024]: Zaman, Koppel, Lauriere, and Basar (2024) [Independent RL for Cooperative-Competitive Agents: A Mean-Field Perspective](https://arxiv.org/abs/2403.11345)
+
+
 * [^mondal_2021] gives an approximation bound for applying Mean Field Control to the case of cooperative [[Heterogeneous MARL]] problems where we have  a collection of $N_{\text{pop}}$ agents segregated into $K$ agent types, with $N_k$ agents of each type.  We denote $\mathcal{A}$ and $\mathcal{S}$ as the action and state space of each agent
   
   The bounds are given below, dependent on what the reward and transition dynamics of all agents are a function of:

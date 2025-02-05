@@ -85,6 +85,7 @@
 * (*Bondy and Murty 3.2.2*) If $G$ is a block with $|V(G)|\ge 3$, then any two edges of $G$ lie on a common cycle.
 * **Whitney's Theorem** A graph $G$ with $|V(G)|\ge 3$ is biconnected if and only if two vertices of $G$ are connected by at least two internally disjoint paths.
 
+
 # Links
 * [[Fundamental Constructs of Graph Theory]]
 * [[Families of Graphs]]

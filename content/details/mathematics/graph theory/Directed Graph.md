@@ -1,4 +1,4 @@
-# Tournaments and Orientability
+# Tournaments
 * A **tournament** is a digraph in which any two vertices are joined by exactly one arc.
 * A tournament $T$ is **irreducible** if it is impossible to split the set of vertices of $T$ into the disjoint sets $V_1,V_2$ so that each arc joining a vertex from $V_1$ and a vertex of $V_2$ is directed from $V_1$ to $V_2$.
 * A tournament is **transitive** if $uv$ and $vw$ imply the existence of $uw$
@@ -21,6 +21,20 @@
   $$
   \deg^+(v) = \deg^- (v)
   $$
+	* (*Godsil 2.6.1*) In a balanced digraph, $D$ is strongly connected if and only if it is weakly connected.
+		* *Proof*: Argue  by contradiction. We focus on the converse -- that weak connectivity implies strong connectivity.
+		  
+		  Let $D_1,\dots, D_r$ be the strong components of $D$. An from $D_i$ to $D_j$ implies any arc from $D_i$ to $D_j$  must start in $D_i$.  This implies an order relation so we can construct a new digraph of $r$ vertices where an arc $ij$, implies an arc between  $D_i$ and $D_j$.  
+		  
+		  This new graph does not contain cycles as that would contradict our ordering relation. Hence, for any component $D_i$, all arcs must be self-contained within $D_i$. In other words, the sum of in-degrees of the vertex in it equals the number of arcs.
+		  
+		  Since $D$ is weakly connected, there must be at least one arc going into $D_i$ and at least one going out.  Thus, the number of arcs in $D_i$ is less than the sum of out-degrees of the vertices in it. 
+		  
+		  We have established our contradiction as we have found the in-degree sum less than the out-degree sum. 
+
+		  
+ 
+# Orientability
 
 * Let $G$ be an undirected graph. An **orientation** of $G$ is an assignment of a direction to each edge to $G$ to produce a digraph.
 * An **oriented graph** can be seen as the result of applying an orientation. More formally, it is a graph where no two vertices are connected by symmetric arcs. That is, $u$ has an edge to $v$ implies $v$ does not have an edge to $u$.
@@ -51,15 +65,6 @@
 
 
 
-* An **Eulerian Trail** is a trail in a digraph which contains all arcs of the digraph 
-* A connected digraph is **Eulerian** if there exists an Eulerian Trail.
-
-* (*Wilson 23.1*) A connected graph is Eulerian if and only if for all $v$
-  
-  $$
-  \deg^+(v) = \deg^{-}(v)
-  $$
- 
 * **Ghouila-Houri Criterion** Let $D$ be a strongly connected digraph with $n$ vertices. If $\deg^+(v)\ge \frac{n}{2}$ and $\deg^-(v)\ge \frac{n}{2}$ for each vertex then $D$ is Hamiltonian
 
 * (*Wilson 23.3*) **Redei's Theorem**. 
@@ -70,6 +75,7 @@
 # Link
 * [[Introduction To Graph Theory by Wilson|Wilson]]
 * [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt|Mesbahi and Egerstedt]]
+* [[Algebraic Graph Theory by Godsil and Royle|Godsil and Royle]]
 
 * [[Fundamental Constructs of Graph Theory]]
 * [[Trails, Walks, Paths and Cycles]] 

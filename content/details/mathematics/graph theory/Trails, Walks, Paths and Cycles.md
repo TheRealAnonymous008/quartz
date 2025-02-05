@@ -60,16 +60,6 @@
 [^1]: The proof is by induction. Given a triangle free graph, perform an edge deletion on $e=uv$to get a smaller triangle-free graph. Show we can choose at most $2n-2$ vertices to join to one of $u,v$ but not both. This implies, there are at most $2n-1$ vertices not in the smaller graph. This will completes the proof.
 [^2]:  Given an edge $e=uv$, we may partition the remaining vertices into sets if they are connected to $u$ or $v$.
 
-# Eulerian Graphs
-* An **Eulerian Trail** is a trial in an undirected graph that visits every edge exactly once.
-* An **Eulerian Cycle** is an Eulerian trail that starts and ends on the same vertex.
-* A graph $G$ is **Eulerian** if it contains an Eulerian Cycle.
-* A graph is **Semi-Eulerian** if it contains an Eulerian trail but not an Eulerian Cycle
-
-* (*Wilson 6.2*) **Euler's Theorem**: A connected graph $G$ is Eulerian if and only if the degree of each vertex of $G$ is even.
-* (*Wilson 6.3*) A connected graph is Eulerian if and only if its set of edges can be split into disjoint cycles.
-* (*Wilson 6.4*) A connected graph is Semi-Eulerian if and only if it has exactly two vertices of odd-degree.
-
 # Hamiltonian Graphs
 * A **Hamiltonian Path** is a path contained within a graph such that it passes through vertex exactly once.
 * A **Hamiltonian Cycle** is a cycle contained within a Graph such that it passes through each vertex exactly once.

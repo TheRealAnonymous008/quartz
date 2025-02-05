@@ -22,49 +22,44 @@
   
   The set of all endomorphisms of $X$ is the **endomorphism monoid** $\text{End}(X)$. 
 
+# Isomorphism
 * An **[[Group Isomorphism|isomorphism]]** from $G$ to $H$ is a bijection $f:V(G)\to V(H)$ such that if $xy\in E(G)$ , then $f(x)f(y)\in E(H)$. 
 	* We say that if an isomorphism between $G$ and $H$ exists, then the two [[Fundamental Constructs of Graph Theory|graphs]] are **isomorphic**, which we denote as $G\cong H$ .
 	* Isomorphism is an equivalence class
 	* *Adjacency is preserved under isomorphism*.
 
-# Automorphism
-* An **[[Group Automorphism|automorphism]]** is an isomorphism from graph $G$ to itself. 
-  The set of automorphisms of $G$ forms the Automorphism group $\text{Aut}(G)$. 
-	* Clearly, by  definition, a group on permutations is a subgroup of the [[Symmetric Group]]. Therefore
-	  $$
-	  \text{Aut}(G) \le Sym(V(G))
-	  $$
-	* For $g\in\text{Sym}(V)$, the graph obtained by applying $g$ is denoted $Y^g$. It is the graph where
-	  $$
-	  \begin{split}
-	  V(Y^g) &= \set{gx : x\in V(Y)} \\
-	  E(Y^g) &= \set{(gx,gy) \mid (x,y) \in E(Y)}
-	  \end{split}
-	  $$
-* (*Godsil 1.3.1*) If $x\in V(X)$ and $g\in \text{Aut}(X)$, then
-  $$
-  \deg(gx) = \deg(x)
-  $$
-    
-  In other words, $\text{Aut}(X)$ *[[Permutations and Orbits|permutes]] the vertices of equal degree among themselves*.
+* Given a graph $X$, the set of graphs isomorphic to $X$ forms an isomorphism class which partition the set of graphs with vertex set $V$ (where $|V|=n$) 
   
-  Additionally, In a [[Directed Graph|digraph]], directions are also preserved.
-* (*Godsil 1.3.2*) If $x,y\in V(X)$ and $g\in\text{Aut}(X)$, then 
-  $$
-  d(x,y)=d(gx,gy)
-  $$
-  In other words *Automorphisms preserve distances between vertices*.
-* (*Godsil 1.3.3*) $\text{Aut}(X)=\text{Aut}(\overline X)$. (see [[Operations on Graphs|graph complements]]).
-* Clearly, $\text{Aut}(X)\le \text{End}(X)$.
-
-
-* $\mathbb{Z}_n \times \mathbb{Z}_2 \le \text{Aut}(C_n)$. In fact, 
-  $$
-  |\text{Aut}(C_n)| = 2n
-  $$
-  Here $\mathbb{Z}_2$ corresponds to the observation that we can map vertex $i$ to $-i$.
-
-  
+  Isomorphism classes are [[Permutations and Orbits|orbits]] of $\text{Sym}(V(X))$ with the [[Group Action|action]] defined on the subsets of $E(K_n)$. 
+	* (*Godsil 2.3.1*) The size of the isomorphism class containing $X$ is 
+	  $$
+	  \frac{n!}{|\text{Aut}(X)|}
+	  $$
+		* *Proof*: From the Orbit-Stabilizer Theorem. There are $n!$ permutations and $|\text{Aut}(X)|=|\text{Stab}_{\text{Sym}(V)}(X)|$   by the definition of an [[Graph Automorphism|automorphism]].
+	* (*Godsil 2.3.2*) The number of isomorphism classes of graphs on $n$ vertices is at most.
+	  $$
+	  (1 + o(1)) \frac{2^{n \choose 2}}{n!}
+	  $$
+		* *Idea*: Show that among the permutations of $\text{Sym}(V)$ with size $2r$, the maximum value of $\lg |V^g|$ is realized by the permutation with exactly $r$ cycles of length $2$. 
+		  
+		  Let  $g\in \text{Sym}(V)$. An orbit of $g$ corresponds to a clique of the vertices within the orbit. Hence, if $g$ has $r$ orbits on $E(K_n)$, then $g$ fixes $2^r$ graphs (every possible choice of clique subgraphs to include). 
+		  	  
+		  Fix an even integer $m\le n-2$ and divide $\text{Sym}(V)$ into three classes -- the identity, the permutations containing support of size at most $m$ and the rest. The size of each class is given as 
+		  $$
+		  \begin{split}
+		  |C_1| &= 1 \\
+		  |C_2| &\le {n\choose m}m ! &< n^m \\
+		  |C_3| &< n! &< m
+		  \end{split}
+		  $$
+		  Elements $g_2\in C_2$ and $g_3\in C_3$ have orbit counts bounded as follows
+		  $$
+		  \begin{split}
+		  \lg |V^{g_2} | &\le {n\choose 2} - (n-2) \\
+		  \lg |V^{g_3} | &= {n\choose 2} - \frac{m}{2}\left(n-\frac{m}{2} - 1\right) &\le {n\choose 2} - \frac{nm}{4} 
+		  \end{split}
+		  $$
+		  The result follows using Burnside's lemma. 
 
 # Links
 * [[Introduction To Graph Theory by Wilson]]

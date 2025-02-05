@@ -11,7 +11,7 @@
 	* It is a *store of value* because it is non-perishable and it retains its value as money.
 	* It is a *unit of account* which serves as a way to measure the value of goods and services.  It simplifies evaluating transactions. 
 	* It is a *standard of deferred payment* which makes it acceptable to have transactions where the buyer pays in the future. 
-* **Commodity Money** pertains to things which act as money but also as things with value or utility beyond being money.
+* **Commodity Money** pertains to things which act as money but also as things with value or [[Utility|utility]] beyond being money.
 * **Commodity-backed Currency** pertains to currency backed up by commodities held at a bank.
 * **Fiat Money** - money that has no intrinsic value beyond being an accepted standard by all involved parties for use as legal tender.
 

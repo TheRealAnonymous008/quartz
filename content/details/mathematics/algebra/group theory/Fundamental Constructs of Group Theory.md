@@ -63,6 +63,7 @@ $$
 	  $$
 
 * The **order of a group** pertains to the number of elements. This is denoted $|G|$.
+	* **Frobenius' Lemma**. If $|G|$ is divisible by $p$, then it contains an element of order $p$.
 	* **Lagrange's Theorem on Orders** If $G$ is a finite group, then $\forall x\in G$
 	  $$
 	  x^{|G|}=e

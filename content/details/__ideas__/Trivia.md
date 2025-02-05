@@ -74,5 +74,8 @@
 	* The **qualifier** shows that a claim may not be true in all circumstances (i.e., using "some" or "maybe").
 	* The **rebuttal** is an acknowledgment of another valid view of the situation.
 
+* [Dreams are (theorized) as ways humans prevent overfitting](https://www.sciencedirect.com/science/article/pii/S2666389921000945)
+
+
 #### Bottom
 Unstructured exploration goes [[Exploration Logs|here]]

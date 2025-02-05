@@ -37,7 +37,7 @@
   $$
   Where $\bar{U}_i^z$ denotes the average return across episodes.   
 # Extensions 
-* MARL can either be **cooperative** wherein agents work together; **competitive** where the game is zero-sum or a mix of the two. 
+* MARL can either be **cooperative** wherein agents work together; **[[Competitive MARL]]** where the game is zero-sum or a mix of the two. 
 
 * MARL environments can be **homogeneous** in which case all agents share the same set of actions, observations and rewards. 
 	* An environment has **weakly homogeneous agents** if for any joint policy $\pi$  and permutation between agents $\sigma: N\to N$, it follows that $\forall i\in N$
@@ -141,6 +141,7 @@ Here *robustness comes from mitigating against perturbations in observed states*
 	* Communication
 
 [^Zhou_2023]: Zhou, Liu, and Tang (2023) [Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges](https://arxiv.org/pdf/2305.10091.pdf)
+
 # Links 
 * [[Multi-Agent Reinforcement Learning -- Foundations and Modern Approaches by Albrecht, Christianos and Schafer|Albrecht, Christianos, and Schafer]] 
 	* Ch. 9.7 talks about homogeneous agents

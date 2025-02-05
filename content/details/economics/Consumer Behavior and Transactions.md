@@ -1,7 +1,7 @@
 * *Consumers are trying to maximize utility, governed by their personal preferences, given [[Scarcity, Supply, and Demand|budget constraints]]*. 
 
 * We can examine **Marginal Utility per unit price** as a metric for *satisfaction per price*. In this case the consumer's goal is to purchase the item with the greatest marginal utility per unit price .
-	* The marginal utility calculated here is with respect to the first instance of the product bought. 
+	* The marginal [[Utility|utility]] calculated here is with respect to the first instance of the product bought. 
 	* When maximizing this, and when exhausting the budget, the maximizing choice should occur when the marginal utility per dollar spent is the same for all goods. That is 
   
   $$
@@ -16,7 +16,7 @@
 
 * Consumer behavior can be *affected by income*
 	* A change in income typically means a change in the budget constraint due to having more disposable income. 
-	* *The income elasticity of demand* also affects things.
+	* *The income [[Elasticity|elasticity]] of demand* also affects things.
 		* For normal goods, more income = more quantity of the good purchased. 
 		* For inferior goods, more income = less quantity of the good purchased since better, more expensive alternatives are available.
 		* An increase in income means gravitating more towards goods which have high income elasticity of demand.

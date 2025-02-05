@@ -1,4 +1,34 @@
+# RIAL / DIAL
+* [^Foerseter_2016] introduces **Reinforced Inter-Agent Learning (RIAL)** and **Differentiable Inter-Agent Learning (DIAL)** to facilitate learning communication strategies in cooperative MARL settings.
+	* We assume a Dec-POMDP in the CTDE setting. In addition to environment action $u\in U$, agents also have a communication action $m\in M$. 
+	* **RIAL** uses a [[Off Policy Prediction and Control with Approximation|DQN ]] with a [[Recurrent Neural Network|RNN]] for partial observability.
+		* Here, we use [[MARL Deep Learning#Independent Learning|Independent Learning]] for action and communication selection. We use two networks for environment and communication actions respectively. This way, we do not need $|U||M|$ model outputs. 
+		* For performance, we train the model with the following in mind:
+			* We disable experience replay since the environment is not stationary. 
+			* To account for partial observability, feed the actions taken by each agent as inputs to the next time step.
+		* This can be extended to the Parameter Sharing case. 
+	* **DIAL** extends RIAL by allowing it to also be end-to-end trainable between agents by passing real-valued messages (gradients) to be shared between agents during centralized learning.
+		* *Rationale*: RIAL does not allow agents to give feedback on communication actions. 
+		* During centralized learning, communication actions are replaced with direct connections between the output of one agent’s network and the input of another’s
+		* The **C-Net** network used here outputs two values -- the $Q$-values for environment actions and $m_t^a$, the real-valued message to other agents that bypasses the action selector and is processed by the discretize/regularize unit.
+			* During training, the DRU regularizes the output.
+			  $$
+			  \text{DRU}(m_t^a) = \text{Logistic}(\mathcal{N}(m_t^a, \sigma))
+			  $$
+			  where $\sigma$ is noise added to the channel
+			* During execution, the DRU discretizes the output. 
+			  $$
+			  \text{DRU}(m_t^a) = \mathbb{1}[m_t^a > 0]
+			  $$
+		* In DIAL, the gradient term for $m$ is the backpropagated error from the recipient of the message. 
+	* In DIAL, we find that *the presence of noise forces messages to be made more distinct*
+![[RIAL and DIAL.png]]
+<figcaption> RIAL and DIAL. Image taken from Foerster, Assael, de Freitas and Whiteson (2016)</figcaption>
 
+
+[^Foerseter_2016]: Foerster, Assael, de Freitas, and Whiteson (2016) [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1605.06676)
+
+# Other
 * [^Muller_2024] proposes **ClusterComm**, a fully decentralized MARL framework for communication in collaborative tasks.
 	* Discrete messages are created by clustering the output of the policy layer via $K$-means (more specifically, Lloyd's algorithm).
 	* *It is based on how humans learned to communicate*. Thus, it does not rely on parameter sharing or differentiable communication. *All agents act independently and training is done fully decentralized*.
@@ -78,4 +108,53 @@
 	* *Limitation*: Not tested for cases with a large number of agents.
 [^Vanneste_2021]: Vaneste et al. (2021) [Mixed Cooperative-Competitive Communication Using Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2110.15762) 
 
+
+* [^Ding_2020] proposes **Individually Inferred Communication (I2C)** a MARL approach to learning a [[Bayesian Statistics|prior]] for agent-to-agent communication. The prior is learned via causal inference. 
+	* Each agent is capable of exploiting its learned prior knowledge to *figure out which agent is relevant and influential* by just local observation (i.e., it does not broadcast messages).
+	* Communication works as follows. A prior network $b_i$ takes $o_i$ and index information of agent $j$. It *outputs a belief on whether to communicate with $j$*.
+	  
+	  Agent $i$ then sends a request to $j$, which then responds with $m_j$. 
+	  
+	  All received messages for agent $i$ are fed to the encoder $e_i$ to produce the encoded message $c_i$. We learn the policy $\pi_i(a_i\mid c_i,o_i)$.
+	* Agents are more likely to communicate to agents which have more influence. The influence of agent $j$ on $i$ is measured via the causal effect $\mathcal{I}_i^j$ defined as follows
+	  $$
+	  \mathcal I_i^j =\text{KL} (P(a_i\mid a_{-i}, o) \ \| \ P(a_i\mid a_{-ij},o))
+	  $$
+	  Where $o$ is the joint observation and $a_{-ij}$ is the joint action of all agents other than $i$ and $j$. 
+	  
+	  The respective distributions are then calculated as follows:
+	  $$
+	  P(a_i\mid a_{-i}, o) = \frac{\exp(\lambda Q(a_i,a_{-i},o))}{\sum_{a_i'} \exp(\lambda Q(a_i',a_{-i},o))}
+	  $$
+	  Where $\lambda \in \mathbb{R}^+$ is a temperature parameter. 
+	  
+	  We also calculate $P(a_i\mid a_{-ij},o)$ as a marginal distribution of $P(a_i,a_j\mid a_{-ij},o)$ 
+	  $$
+	  P(a_i\mid a_{-i}, o) = \sum_{a_j}\frac{\exp(\lambda Q(a_i, a_j, a_{-ij},o))}{\sum_{a_i', a_j'} \exp(\lambda Q(a_i', a_j' ,a_{-ij},o))}
+	  $$
+	* The belief network learns the causal effect under the current state. More specifically, it learns using the dataset $\set{(o_i,d_i), \mathcal{I}_i^j}$ during training.
+	* We also introduce **correlation regularization** to help the agent correlate other agent's observation to the actions. This is done using the term 
+	  $$
+	  \text{KL} (P(a_i\mid a_{-i}, o) \ \| \ \pi_i(a_i\mid e_i(o_j, o_k), o_i)
+	  $$
+	* Accounting for communication gives the following gradient 
+	  $$
+	  \begin{split}
+	  \nabla_{\theta_{\pi_i}} \mathcal{J} (\theta_{\pi_i}) = \mathbb{E}_{o,a} \left[\mathbb{E} _{\pi_i} \left[\nabla_{\theta_{\pi_i}} \log \pi _i (a_i\mid c_i,o_i)  \ Q^\pi (a,o)\right]- \\ \eta \nabla_{\theta_{\pi_i}} \text{KL}(\pi_i(\cdot \mid c_i,o_i) \ \| \
+	   P(\cdot \mid a_{-i},o))\right]
+	   \end{split}
+	  $$
+	  The encoder network's gradient is given by
+	  $$
+	  \begin{split}
+	  \nabla_{\theta_{e_i}}\mathcal{J}(\theta_{e_i}) = \mathbb{E}_{o,m,a} \left[\mathbb{E}_{\pi_i} \left[\nabla_{\theta_{e_i}} e_i(c_i\mid m_i) \nabla_{c_i}\log\pi(a_i\mid c_i, o_i) Q^\pi (a,o )\right] \\ 
+	  -\eta \nabla_{\theta_{e_i}} e_i(c_i\mid m_i) \nabla_{c_i} \text{KL}(\pi_i(\cdot\mid c_i, o_i)\ \| \ P(\cdot \mid a_{-i},o ))
+	  \right]
+	  \end{split}
+	  $$
+
+![[I2C.png]]
+<figcaption> I2C Framework. Image taken from Ding, Huang, Lu (2020) </figcaption>
+
+[^Ding_2020]: Ding, Huang, Lu (2020) [Learning Individually Inferred Communication for Multi-Agent Cooperation](https://arxiv.org/abs/2006.06455)
 

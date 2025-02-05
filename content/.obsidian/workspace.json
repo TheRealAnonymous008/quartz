@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c129ac92776203c7",
+        "id": "90188e75ccb2f01d",
         "type": "tabs",
         "children": [
           {
-            "id": "27bd5364de60b14d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exploration Logs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exploration Logs"
-            }
-          },
-          {
-            "id": "eef8863c0d3ece11",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b08a8e838347164e",
+            "id": "5f822e9dc2966a84",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -41,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intransitive game",
+                "query": "boundary graph",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -94,13 +70,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c92ef6319fc1e58a",
@@ -198,47 +172,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b08a8e838347164e",
+  "active": "5f822e9dc2966a84",
   "lastOpenFiles": [
-    "details/mathematics/game theory/Game Theory - Notation Guide.md",
-    "Exploration Logs.md",
-    "details/game design/mechanics/tabletop/Tabletop Mechanics -- Resolution.md",
-    "details/mathematics/game theory/Game Theory - Strategy.md",
-    "details/machine learning/reinforcement learning/marl/Communication with MARL.md",
-    "details/machine learning/reinforcement learning/marl/MARL -- Notation Guide.md",
-    "__images/ClusterComm.png",
-    "details/mathematics/graph theory/Line Graph.md",
-    "details/natural sciences/geography/Groundwater.md",
-    "details/natural sciences/geography/The Hydrosphere.md",
-    "details/natural sciences/geography/Water Resources.md",
-    "details/engineering/systems/System Evolution.md",
-    "__meta/Whiteboard.excalidraw",
-    "details/natural sciences/geography/Oceanography.md",
-    "details/natural sciences/geography/The Earth and Insolation.md",
-    "__meta/Orphanage.md",
-    "details/engineering/systems/Emergence.md",
-    "details/engineering/network_science/Fundamental Constructs of Network Science.md",
-    "details/engineering/systems/Kinds of System Dynamics and Dynamical States.md",
-    "z__unfiled__/Management.md",
-    "details/engineering/Cybernetics.md",
-    "details/humanities/religion/Creation (Kabbalah).md",
-    "details/engineering/systems/Characterizing Systems.md",
-    "details/engineering/Atkin's Laws of Spacecraft Design.md",
-    "details/mathematics/graph theory/Fundamental Constructs of Graph Theory.md",
-    "details/mathematics/Graph Theory.md",
+    "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
+    "details/mathematics/graph theory/The Matching Problem.md",
+    "details/mathematics/graph theory/Operations on Graphs.md",
+    "Transitive Graph.md",
     "details/mathematics/graph theory/Graph Connectivity.md",
-    "details/mathematics/graph theory/algebraic graph theory/Graph Homomorphism.md",
-    "__images/QRC-TSC.png",
-    "__images/CAMMARL Conformal Model.png",
-    "__images/CAMMARL.png",
-    "__images/CMAS.png",
-    "__images/WINNE Model.png",
+    "details/mathematics/graph theory/Flow Network.md",
+    "Exploration Logs.md",
+    "DeepSeek.md",
+    "__images/__meta/Whiteboard.excalidraw",
+    "details/mathematics/graph theory/Families of Graphs.md",
+    "details/game design/puzzles/Connected Region Puzzles.md",
+    "details/game design/puzzles/Number Placement Puzzles.md",
+    "details/mathematics/algebra/group theory/Cayley Digraph.md",
+    "details/mathematics/graph theory/Eulerian Graph.md",
+    "details/mathematics/matroid theory/Matroid Types.md",
+    "details/mathematics/matroid theory/Matroid Duals.md",
+    "details/mathematics/graph theory/Infinite Graph.md",
+    "details/mathematics/graph theory/Graph Planarity.md",
+    "details/mathematics/graph theory/Graph Algorithms.md",
+    "details/mathematics/graph theory/Directed Graph.md",
+    "details/mathematics/graph theory/Trails, Walks, Paths and Cycles.md",
+    "details/mathematics/algebra/group theory/Group Action.md",
+    "details/mathematics/algebra/group theory/Subgroup.md",
+    "details/mathematics/algebra/Group Theory.md",
+    "details/mathematics/algebra/group theory/Cosets, Group Indices.md",
+    "details/mathematics/algebra/group theory/Factor Group.md",
+    "details/machine learning/reinforcement learning/pgms/Trust Region Policies.md",
+    "__images/Iterative GRPO.png",
+    "__images/GRPO.png",
+    "__images/DeepSeekMath Crawler.png",
+    "details/machine learning/specific models",
     "__images/SHPPO.png",
+    "__images/HyperMARL.png",
+    "__images/RIAL and DIAL.png",
+    "__images/Mean Field MAAB.png",
+    "Pasted image 20250129134959.png",
+    "__images/MAAB.png",
+    "__images/MRPG.png",
     "details/natural sciences/simulation",
-    "__meta/{{Media Board}}.canvas",
-    "__images/SAC.png",
-    "Pasted image 20241223075359.png",
-    "__images/Cyclone Occlusion.png",
+    "__images/__meta/{{Media Board}}.canvas",
     "details/engineering/control",
     "details/computer science/misc",
     "details/mathematics/calculus/odes",
@@ -247,7 +222,6 @@
     "Untitled.canvas",
     "details/mathematics/algebra/field theory",
     "details/mathematics/graph theory/algebraic graph theory",
-    "details/engineering/swarms",
     "details/mathematics/Untitled.canvas",
     "Test.canvas"
   ]

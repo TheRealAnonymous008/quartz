@@ -124,6 +124,94 @@
 
 	[^Klar_2021]: Klar, Glatt, and Aurich (2021) [An implementation of a reinforcement learning based algorithm for factory layout planning](https://www.sciencedirect.com/science/article/pii/S2213846321000651) 
 
+
+* [^Guo_2021] explores an online learning mechanism to learn an [[Game Theory|equilibrium]] for resource allocation within exchange [[Microeconomics|economies]].
+	* Rather than rely on modeling the agents' utilities, we instead make use of feedback from the environment. The goal is Pareto-efficiency. 
+	* The problem is defined as follows. Assume we have  $n$ agents and $m$ divisible resources. We initialize an endowment for each agent $e_i=\set{e_{i1},\dots ,e_{im}}$.  For simplicity and WLOG, assume that for each resource $j$
+	  $$
+	  \sum_{i}e_{ij} = 1
+	  $$
+	  So that the resource space can be denoted $[0,1]^m$. 
+	  
+	  An allocation $x=(x_1,\dots,x_n)$, $x_i\in[0,1]^m$ and $x_{ij}$ denotes the amount of resource $j$ allocated to agent $i$.  The set of feasible allocations is denoted
+	  $$
+	  \mathcal{X} =\set{x \mid \sum_{i=1}^m x_{ij} \le 1, \forall i, j: x_{ij} \ge 0 }
+	  $$
+	  An agent's utility $u_i:[0,1]^m\to [0,1]$ determines the valuation for allocation $x_i$. We also assume that $u_i$ is non-decreasing since more allocations do not hurt.
+	  $$
+	  \forall x_i \le x_i', u_i(x_i)\le u_i(x_i')
+	  $$
+	  A price vector $p, p\in \mathbb{R}^{+m}$, $1^Tp=1$ (to make sure all prices are normalized since only relative prices matter), is defined for the exchange economy. $p_j$ denotes the price  for resource $j$.
+	  
+	  Thus, each agent has a price budget $p^Te$.
+	  
+	  The goal of each agent is to maximize the utility under the budget. That is, for the entire system, we find the demand under equilibrium
+	  $$
+	  d_i (p) = \underset{x_i\in[0,1]^m}{\text{argmax}}  \ u_i(x_i) \ \ \ \ \ \text{subject to } p^Tx_i \le p^T e_i
+	  $$
+	* To allocate resources, we set the prices for the resources and have agents maximize utility under this price system. 
+	  
+	  We seek the [[Microeconomics|Walrasian equilibrium]] in the context of fair division.
+	  
+	  Under fair division, we require the following
+		* Allocations have **sharing incentive** -- $u_i(x_i)\ge u_i(e_i)$.  Each agent has an incentive to share because doing so may yield greater utility.
+		* Allocations are **Pareto Efficient** -- the utility of one agent can be increased if another agent's utility decreases.  That is, if there is no $x'$ where $u_i(x_i ) \ge u_j(x_i') \ \forall i$ and there exists no $i$ where $u_i(x_i)>u_i(x_i')$. The set of all $x'$ that are Pareto Efficient is denoted $\mathcal{PE}$
+	* To make the setting not require a priori knowledge of the utilities, we frame the problem further as follows.
+	  
+	  Each agent reports feedback for a given time step $\set{y_i^t}$ where $y_i^t$ is sub-Gaussian and 
+	  $$
+	  \mathbb{E}[y_i^{t+1} \mid x_i^t] = u_i(x_i^t)
+	  $$
+	  We optimize two varieties of losses.
+
+		* The CE loss $L_T^{\text{CE}}$ is the difference of the utility between current allocation and the CE equilibrium. Denote $x^+=\max(0,x)$
+		  $$
+		  \begin{split}
+		  l^{\text{CE}} (x,p) &= \sum_{i=1}^n \left(\max_{x_i' : \ \ p^Tx_i' \le p^Te_i} u_i(x_i') - u_i(x) \right)^+ \\
+		  L_T^\text{CE} &= \sum_{t=1}^T l^{\text{CE}} (x_t, p_t) 
+		  \end{split} 
+		  $$
+		* The SI loss is defined with fair allocation in mind, defined as follows
+		  $$
+		  \begin{split}
+		  l^{\text{SI}} (x) &= \sum_{i=1}^n (u_i(e_i) - u_i(x_i))^+ \\
+		  l^{\text{PE}} &= \inf_{x'\in\mathcal{PE}} \sum_{i=1}^n (u_i(x_i')-u_i(x_i))^+ \\
+		  l^{\text{FD} (x)} &= \max(l^{\text{PE}}(x), l^{\text{SI}}(x)) \\
+		  L_T^\text{FD} &= \sum_{t=1}^T l^\text{FD}(x_t)
+		  \end{split}
+		  $$
+	* We make additional assumptions. Let $\phi_j : [0,1]\to[0,1]$ be an increasing function mapping $x_{ij}$ to a feature value; $\mu: \mathbb{R}^+\to [0,1]$ be an increasing function, and $\Theta \subset \mathbb{R}^{+m}$ be a set of positive parameters. Then we consider utilities in the following class
+	  $$
+	  \mathcal{P} = \set{\set{u_i}_{i=1}^n ; \ \ u_i(x_i ) =\mu(\theta_i^T\phi(x_i)  \ \text{for some } \theta_i \in \Theta, \forall i}
+	  $$
+	  We aim to learn $\theta_i^\ast \in \Theta$. We relax these assumptions further for the sake of practical use
+		* $\mu$ is continuously differentiable. It is Lipschitz-continuous with constant $L_\mu$ and $C_\mu= \inf_{\theta\in \Theta, x\in \mathcal{X}} \dot\mu (\theta^T\phi(x)) > 0$
+		* $\Theta\subset [\theta_{\text{min}},\infty)^m$, $\theta_\text{min} >0$. 
+	* For the algorithm, we define 
+	  $$
+	  \begin{split}
+	  \alpha_t^2 &= 4\frac{\kappa^2 \sigma^2}{C_\mu^2} m\log(t) \log\left(\frac{m}\delta_k{}\right) \\
+	  \kappa &= 3+ 2\log(1+2 \| \phi(1)\|_2^2)
+	  \end{split} 
+	  $$
+	* We can prove the following bounds for the loss under the relaxed conditions above. Both show that learning is done at $\sqrt T$ rate. 
+		* (*[^Guo_2021] Thm 4.1*) Let $\delta>0$. Choose $\delta_t = \frac{2\delta}{n\pi^2 t^2}$. The following upper bounds hold with probability $1-\delta$ 
+		  $$
+		  L^{\text{FD}}(T), L^\text{CE}(T) = O\left(n\left(m+\frac{m^2}{\sqrt M}\right) \sqrt T (\log(nT/ \delta) + \log(T))\right) 
+		  $$
+
+		* (*[^Guo_2021] Thm 4.2*) Let $T>M\max(m^2,n)$. Choose $\delta_t = \frac{1}{T}$. Then the following upper bounds hold 
+		  $$
+		  \mathbb{E}[L^{\text{FD}}(T)] , \mathbb{E}[L^{\text{CE}}(T)] \in O\left(n\left(m + \frac{m^2}{\sqrt M}\right) \sqrt T (\log(T))\right)
+		  $$
+
+
+![[Learning EEs via Bandits.png]]
+<figcaption> Online Learning for Competitive Equilibria. Image taken from Guo et al. (2021) </figcaption>
+
+[^Guo_2021]: Guo et al. (2021) [Learning Competitive Equilibria in Exchange Economies with Bandit Feedback](https://arxiv.org/abs/2106.06616)
+
+
 * [^kim_2020] proposes a flexible smart [[Manufacturing|manufacturing system]] with distributed intelligence
 	* Unlike previous work, it aims to decentralize the decision making process for planning and scheduling. It also aims to make RL agents be more adaptive and flexible when responding to a dynamic manufacturing environment.
 	* Consists of three agents 
@@ -155,7 +243,7 @@
 		* Prior methods for mechanism design did not consider agents that learnt how to behave .Agents were assumed to be static. 
 		* It is also hard to test economic policy since it can deal with long time scales. 
 	* Both the workers in the economy and the policy maker are powered by reinforcement learning.  
-		* In the model, higher skilled workers earn more for building houses. Building houses takes effort which lowers utility. 
+		* In the model, higher skilled workers earn more for building houses. Building houses takes effort which lowers [[Utility|utility]]. 
 		* To quantify equality, the Gini Index is used as follows 
 		  
 		  $$

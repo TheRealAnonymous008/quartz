@@ -18,7 +18,7 @@
 * If everything above the level of [[Quantum Mechanics|quantum mechanics]] is deterministic, then to what degree do we have [[Free Will|free will]]? Assuming sufficient technological advancements, is it possible to accurately predict human behavior, and if it isn't possible, why?
 * Is being predictable in the deterministic sense contradictory to having free will? 
 
-* What is fairness and how can we allocate resources with fairness in mind? Is it really fair to distribute equally? Should we distribute based on "merit" or "utility" instead? 
+* What is fairness and how can we allocate resources with fairness in mind? Is it really fair to distribute equally? Should we distribute based on "merit" or "[[Utility|utility]]" instead? 
 
 * *The Ship of Theseus*: Is a ship where every single part is replaced over time the same ship as the original ship? If the identity of the ship of Theseus not a factual matter, then can there be a fact about the identity of anything that gradually changes over time, human being included? 
 

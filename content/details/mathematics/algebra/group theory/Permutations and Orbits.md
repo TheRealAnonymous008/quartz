@@ -16,5 +16,6 @@
 		* If we use the corresponding [[Matrix|permutation matrix]], the [[Determinant|determinant]]'s sign remains constant.
 	* The **parity** of a permutation is **even** if it needs an even number of transpositions and **odd** otherwise .
 
+* The **support** of a permutation is the set of points that are not fixed.
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

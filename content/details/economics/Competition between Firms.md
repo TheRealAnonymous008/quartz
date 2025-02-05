@@ -9,7 +9,7 @@
 
 * A **price taker** is a firm that is in perfect competition. *Market pressures force price takers to sell at equilibrium price*.  
 
-* The product they produce will have *perfectly elastic demand* since price is fixed. 
+* The product they produce will have *perfectly [[Elasticity|elastic]] demand* since price is fixed. 
 	* Raising the price will mean consumers buy from other price takers. 
 	* Lowering the price means temporary gains but eventually the rest of the market will follow and price will return to equilibrium. 
 
@@ -134,7 +134,7 @@
 	* A **cartel** is a group of firms in agreement to collude and behave like a monopoly -- selling the monopoly quantity and the monopoly price. 
 	* *Firms tend to [[Static Games of Complete Information|avoid competing]] to charge higher prices*.
 
-* The perspectives from [[Game Theory]] are very much applicable here. Sometimes, firms will find themselves in situations where, due to maximizing their own utility given beliefs about the other firms, they do not achieve the Pareto optimal outcome, or an outcome that maximizes total welfare. *To incentivize cooperation requires policies that change the firms' payoffs for cooperative behavior.* 
+* The perspectives from [[Game Theory]] are very much applicable here. Sometimes, firms will find themselves in situations where, due to maximizing their own [[Utility|utility]] given beliefs about the other firms, they do not achieve the Pareto optimal outcome, or an outcome that maximizes total welfare. *To incentivize cooperation requires policies that change the firms' payoffs for cooperative behavior.* 
 
 * **Kinked demand curves** are one measure whereby firms commit to match price cuts but not price increases . *This forces firms to honor their commitments and acts as a form of [[System Archetypes|self-enforcing behavior]]*
 	* If the firm tries to increase its quantity sold, the other oligopolists will cut prices so that the firm is forced to (by the steep demand curve) also reduce prices. 

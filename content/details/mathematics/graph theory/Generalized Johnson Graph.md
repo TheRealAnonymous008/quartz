@@ -35,7 +35,7 @@
 	  The converse is also true: If $A,B$ are $(n-k)$-sets, then the intersection of their complements has magnitude $i$.
 
 
-* (*Godsil 1.6.2*) If $n\ge k\ge i$, then the [[Graph Homomorphism|automorphism]] $\text{Aut}(J(n,k,i))$ contains a [[Subgroup|subgroup]] [[Group Isomorphism|isomorphic]] to $\text{Sym}(n)$.
+* (*Godsil 1.6.2*) If $n\ge k\ge i$, then the [[Graph Automorphism|automorphism]] $\text{Aut}(J(n,k,i))$ contains a [[Subgroup|subgroup]] [[Group Isomorphism|isomorphic]] to $\text{Sym}(n)$.
 	* *Idea*: A [[Permutations and Orbits|permutation]] $\sigma$ on sets $A,B$ does not change the size of their intersections. That is
 	  $$
 	  |A\cap B| = |\sigma A \cap \sigma B| 

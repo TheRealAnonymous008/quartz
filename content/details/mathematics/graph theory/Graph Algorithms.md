@@ -130,7 +130,7 @@ while Q not empty:
 
 # Fleury's Algorithm 
 ### Algorithm
-* Let $G$ be an [[Trails, Walks, Paths and Cycles#Eulerian Graphs|Eulerian]] Graph. Then, the following construction is always possible and produces an Eulerian trail of $G$.
+* Let $G$ be an [[Eulerian Graph]]. Then, the following construction is always possible and produces an Eulerian trail of $G$.
   
   Start at any vertex $u$ and traverse the edges in an arbitrary manner subject to only the following rules:
 1. Delete the edges as they are traversed and if any isolated vertices arise, erase them too.
