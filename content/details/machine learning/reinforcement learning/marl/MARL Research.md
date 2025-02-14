@@ -23,7 +23,7 @@
 	* The paper addresses the following related problems
 		* The layout problem (since Mobile Assembly systems have a flexible factory layout). The goal is to determine the layout plan and minimize the cost of rearranging facilities.
 		*  Job shop [[Scheduling Problem]]. In particular, the Flexible Job Shop Problem. 
-	* The control approach used is an asynchronous, cooperative, heterogeneous MARL
+	* The control approach used is an asynchronous, cooperative, [[Heterogeneous MARL|heterogeneous]] MARL
 		* The control algorithm determines the placement of stations (coordinates of the station in the environment) and the scheduling of jobs
 		* The Discrete Event Simulator requests decisions from the RL algorithm. 
 			* The layout planner solves the layout problem by computing the placement of each station per decision step, given the state vector (as encoded by the encoder)

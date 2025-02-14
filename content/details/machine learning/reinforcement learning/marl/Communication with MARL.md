@@ -67,8 +67,8 @@
 * [^Bokade_2023] proposes a communication-based MARL framework for Traffic Signal Control. Agents learn what to communicate and to whom in a decentralized manner. 
 	* Agents learn to compress observations and action intentions into a message. 
 	* The proposed model called **QRC-TSC** improves upon DIAL by: 
-		* Using variational inference to maximize [[Information Theory|mutual information]] between sent messages (and the communication action), and the recipient's action.
-		* Introduce an entropy regularization term for communication policies to explore the communication action space.
+		* Using variational inference to maximize [[Mutual Information|mutual information]] between sent messages (and the communication action), and the recipient's action.
+		* Introduce an [[Information Theory|entropy]] regularization term for communication policies to explore the communication action space.
 		* Make communication policies differentiable .
 	* Let $i$ and $j$ be sender and recipient respectively, $m_{ij}$ the message and $c_{ij}$ the corresponding communication action.
 	  

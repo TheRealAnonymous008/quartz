@@ -11,7 +11,7 @@
 * The **Special Linear Group** is the group of $n\times n$ matrices whose [[Determinant]] is $1$. It is denoted as $SL_n(\mathbb{R})$.
 * [[Abelian Group]]
 * [[Cyclic Group]]
-* The **Dihedral Group** of order $n$ is the group of symmetries of a regular $n$-gon which includes rotations and reflections. It consists to two generators $r$ and $s$ which correspond to rotation and reflection . It is denoted as $D_n$.
+* The **Dihedral Group** of order $2n$ is the group of symmetries of a regular $n$-gon which includes rotations and reflections. It consists to two generators $r$ and $s$ which correspond to rotation and reflection . It is denoted as $D_n$.
 * [[Symmetric Group]]
 
 * [[Alternating Group]]

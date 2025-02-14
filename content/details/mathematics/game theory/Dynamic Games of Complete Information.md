@@ -22,7 +22,7 @@
 * *Backward induction cannot be applied to games of imperfect information, nor to games that do not end in finite time*. 
 
 ## Subgame-Perfect Nash Equilibrium 
-* A **proper subgame** $G$ of an extensive-form game $\Gamma$ consists of only a single node and all its successors in $\Gamma$ with the property that if $x\in G$ and $x'\in h(x)$, then $x'\in G$. The subgame $G$ is a game [[Trees|tree]] that is a subtree of $\Gamma$.  
+* A **proper subgame** $G$ of an extensive-form game $\Gamma$ consists of only a single node and all its successors in $\Gamma$ with the property that if $x\in G$ and $x'\in h(x)$, then $x'\in G$. The subgame $G$ is a game [[Tree|tree]] that is a subtree of $\Gamma$.  
 	* In other words, it is a smaller game within the larger game. 
 	* A  player’s best response depends only on his beliefs about what the other players are doing within the subgame
 

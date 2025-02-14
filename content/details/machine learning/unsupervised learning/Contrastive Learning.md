@@ -64,7 +64,7 @@
   &= \frac{f(x^+, c)}{\sum_{x'\in X} f(x',c)}
   \end{split}
   $$
-  Where $f(x,c)\propto \frac{p(x\mid c)}{p(x)}$. The approximator is used to maximize [[Information Theory|Mutual Information]] between $x$ and $c$. 
+  Where $f(x,c)\propto \frac{p(x\mid c)}{p(x)}$. The approximator is used to maximize [[Mutual Information|Mutual Information]] between $x$ and $c$. 
   
   The InfoNCE loss is then
   $$

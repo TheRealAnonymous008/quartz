@@ -91,7 +91,7 @@
 	* *Supercritical Region* -  If $\braket{k}>1$, the cascades can continue indefinitely, so all cascades are global and the network can experience major breakdowns
 
 ## Branching Model
-* *This builds on the observation that cascading failures follow a [[Trees|tree]]-like process*. 
+* *This builds on the observation that cascading failures follow a [[Tree|tree]]-like process*. 
 * It is a simpler variation of the failure propagation model that works as follows 
 	* Start with a single active node 
 	* In the next time step, each active node produces $k\sim p_k$ offspring. 

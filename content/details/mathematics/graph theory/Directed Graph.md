@@ -4,7 +4,7 @@
 * A tournament is **transitive** if $uv$ and $vw$ imply the existence of $uw$
 
 * (*Wilson e23.6*) A tournament is irreducible if and only if it is strongly connected
-	* *Proof*: By *Redei's Theorem* if a tournament is strongly connected, it is Hamiltonian
+	* *Proof*: By *Redei's Theorem* if a tournament is strongly connected, it is [[Hamiltonian Graph]]
 	  
 	  If $T$ is a Hamiltonian tournament, then there is a Hamiltonian Cycle, but this means that for vertices $v, w$ we may follow the arcs in the cycle to go from $v$ to $w$ and $w$ to $v$. Since this is true for any pair of vertices, it is impossible to divide the tournament to two sets of vertices based on the definition of irreducibility.
 	  

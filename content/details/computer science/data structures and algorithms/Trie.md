@@ -30,7 +30,7 @@
 	* For general alphabets, assuming each edge is lexicographically sorted, the construction is bound by $\Omega(n\log n)$.  With linear construction, the bound becomes exactly $\Theta(n\log \sigma)$, where $\sigma$ is the number of distinct characters. 
 
 # Links
-* [[Trees]]
+* [[Tree]]
 * [[Labelled Trees]]
 
 * [Optimal Suffix Construction with Large Alphabets by Farach](https://users.cs.utah.edu/~pandey/courses/cs6968/spring23/papers/optsuffixtree.pdf)

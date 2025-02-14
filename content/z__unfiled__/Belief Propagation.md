@@ -33,7 +33,7 @@
   \mu_{a\to v}(x_v) = \underset{x_a':x_v'=x_v}{\mathrm{argmax}} \left( f_a(x_a') \prod_{v^\ast \in N(a)-\set{v}} \mu_{v^\ast\to a} (x_{v^\ast}')\right)
   $$
 
-* The Belief Propagation algorithm gives an exact value if the PGM is [[Trees|acyclic]].
+* The Belief Propagation algorithm gives an exact value if the PGM is [[Tree|acyclic]].
   
   However, it can still be performed for graphs with cycles with no exact value guarantees. 
 

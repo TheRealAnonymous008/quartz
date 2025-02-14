@@ -158,7 +158,7 @@ $$
 * *Assumption*: The environment has weakly homogeneous agents. 
 
 * It has the following advantages over parameter sharing :
-	* This allows parameters to be trained on more diverse 
+	* This allows parameters to be trained on more diverse data
 	* It retains the flexibility of each agent to adopt its own policy (which has been shown to yield higher returns). 
 	* It is more sample efficient 
 	* It leads to agents having a uniform learning progression since agents that perform poorly have access to the experiences of the best agents. 

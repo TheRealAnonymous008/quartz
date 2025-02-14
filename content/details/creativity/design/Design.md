@@ -25,6 +25,7 @@
 * [[Lenses for the Game#Players Play games through an interface|Lenses for the Game]] - notes on interfaces. 
 * [[UX Design Principles]]
 * [[Organizing Ideas]] - part of design is knowing how to organize your ideas
+* [[Getting Things Done]] 
 
 * [[Creativity]]
 * [[The Timeless Way of Building]]

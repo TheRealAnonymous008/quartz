@@ -15,15 +15,16 @@
 
 * **Hypercube Graph** - $Q_n$ - the graph whose vertices correspond to the vertices and edges correspond to that of a $n$-dimensional hypercube
 	* It can also be interpreted as the graph on $2^n$ binary numbers where edges connect tuples which differ in one bit. 
-	* (*Godsil 3.1.1*) $Q_n$ is [[Transitive Graph|vertex transitive]].
+	* (*Godsil 3.1.1*) $Q_n$ is [[Vertex Transitive Graph|vertex transitive]].
 	* $|\text{Aut}(Q_n)| = 2^kk!$  
 
 * [[Trails, Walks, Paths and Cycles]]
 	* A **path** of $n$ vertices is denoted $P_n$.
 	* A **cycle** of $n$ vertices is denoted $C_n$ 
 * [[Eulerian Graph]]
+* [[Hamiltonian Graph]]
 * [[Bipartite Graph]]
-* [[Trees]]
+* [[Tree]]
 * [[Infinite Graph]]
 * [[Directed Graph]]
 
@@ -42,10 +43,11 @@
 * [[Line Graph]]
 
 * [[Asymmetric Graph]]
-* [[Transitive Graph]]
+* [[Vertex Transitive Graph]]
+* [[Edge Transitive Graph]]
 * [[Cayley Digraph]]
 
-* The **Halin Graph** is a graph constructed as follows. Start with a [[Trees|tree]] with no vertex of degree $2$ and with at least one vertex of degree greater than $2$. Draw $T$ on the [[Graph Planarity|plane]] and then connect all leaves to form a cycle. 
+* The **Halin Graph** is a graph constructed as follows. Start with a [[Tree|tree]] with no vertex of degree $2$ and with at least one vertex of degree greater than $2$. Draw $T$ on the [[Graph Planarity|plane]] and then connect all leaves to form a cycle. 
 # Links
 * [[Fundamental Constructs of Graph Theory]]
 

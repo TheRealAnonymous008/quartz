@@ -1,7 +1,7 @@
 * A [[Fundamental Constructs of Graph Theory|graph]] is **asymmetric** if its [[Graph Automorphism|automorphism group]] is the identity group. 
 
 * (*Godsil 2.3.3*) Almost all graphs are asymmetric.
-	* *Proof*: Let the proportion of asymmetric isomorphism classes on $V$ be $\mu$.  Note that the proportion of asymmetric graphs will be larger than $\mu$ so $\mu$ gives a lower bound.
+	* *Proof*: Let the proportion of asymmetric [[Graph Isomorphism|isomorphism]] classes on $V$ be $\mu$.  Note that the proportion of asymmetric graphs will be larger than $\mu$ so $\mu$ gives a lower bound.
 	  
 	  Each isomorphic class of a graph that is not asymmetric contains at most $\frac{n!}{2}$ graphs.
 	  

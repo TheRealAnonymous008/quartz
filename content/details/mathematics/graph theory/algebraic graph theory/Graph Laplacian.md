@@ -46,7 +46,7 @@
 	  $$
 	  Provided that $G$ is not the complete graph.
 
-* (*Mesbahi 2.9*) **Kirchhoff's Matrix [[Trees|tree]] Theorem** Consider the graph $G$ with $n$ vertices and $n-1$ edges. Then using the [[Determinant|determinant]]
+* (*Mesbahi 2.9*) **Kirchhoff's Matrix [[Tree|tree]] Theorem** Consider the graph $G$ with $n$ vertices and $n-1$ edges. Then using the [[Determinant|determinant]]
   $$
   \det (L(G-v)) = 1
   $$

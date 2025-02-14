@@ -1,20 +1,52 @@
 {
   "main": {
-    "id": "95cfc6b0893952cb",
+    "id": "15959736bd7db196",
     "type": "split",
     "children": [
       {
-        "id": "90188e75ccb2f01d",
+        "id": "4a568fe4615231c1",
         "type": "tabs",
         "children": [
           {
-            "id": "5f822e9dc2966a84",
+            "id": "9df36bfc5e705e37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "details/mathematics/algebra/group theory/Symmetric Group.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Symmetric Group"
+            }
+          },
+          {
+            "id": "427c5bb81458087f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/mathematics/algebra/group theory/Group Theory -- Notation Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Group Theory -- Notation Guide"
+            }
+          },
+          {
+            "id": "c5e16394ff9216cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "details/mathematics/algebra/group theory/Regular Group.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regular Group"
             }
           }
         ]
@@ -23,15 +55,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4fa55c86a7eb7bc0",
+    "id": "0ae08ca985dadbc3",
     "type": "split",
     "children": [
       {
-        "id": "8f2e3d782be35c34",
+        "id": "62e7d60e4382d4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "67c5f0240da2a960",
+            "id": "3b4a0ec1830269ad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,14 +76,14 @@
             }
           },
           {
-            "id": "07fdb3ccaf7b9fa5",
+            "id": "d3ee17e48183920d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "boundary graph",
-                "matchingCase": false,
-                "explainSearch": true,
+                "query": "X^G",
+                "matchingCase": true,
+                "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -61,7 +93,7 @@
             }
           },
           {
-            "id": "434dffcc6b7bec35",
+            "id": "8774b852c7fe44f9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,27 +102,29 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "c92ef6319fc1e58a",
+    "id": "beadb9c745d4b947",
     "type": "split",
     "children": [
       {
-        "id": "41dfd0ccab7c3a33",
+        "id": "edbf786eb5a20478",
         "type": "tabs",
         "children": [
           {
-            "id": "dae92ad53a40aa41",
+            "id": "86435ca1c8a062bf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "details/engineering/swarms/Graph Theoretic Approaches for Swarms.md",
+                "file": "DeepSeek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,63 +134,58 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Graph Theoretic Approaches for Swarms"
+              "title": "Backlinks for DeepSeek"
             }
           },
           {
-            "id": "c0a8edbbb1097e0c",
+            "id": "bb7e49178c1dd953",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "details/linguistics/language learning/Kanji Index.md",
+                "file": "DeepSeek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kanji Index"
+              "title": "Outgoing links from DeepSeek"
             }
           },
           {
-            "id": "e04b1d42fb4a8bfc",
+            "id": "11e9697898ea583b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "60c787e9e202937f",
+            "id": "a901a3a15220c2e7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "details/linguistics/language learning/Kanji Index.md"
+                "file": "DeepSeek.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kanji Index"
-            }
-          },
-          {
-            "id": "789a95632acf50ac",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of DeepSeek"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -172,57 +201,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f822e9dc2966a84",
+  "active": "9df36bfc5e705e37",
   "lastOpenFiles": [
-    "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
-    "details/mathematics/graph theory/The Matching Problem.md",
-    "details/mathematics/graph theory/Operations on Graphs.md",
-    "Transitive Graph.md",
-    "details/mathematics/graph theory/Graph Connectivity.md",
-    "details/mathematics/graph theory/Flow Network.md",
-    "Exploration Logs.md",
-    "DeepSeek.md",
-    "__images/__meta/Whiteboard.excalidraw",
-    "details/mathematics/graph theory/Families of Graphs.md",
-    "details/game design/puzzles/Connected Region Puzzles.md",
-    "details/game design/puzzles/Number Placement Puzzles.md",
-    "details/mathematics/algebra/group theory/Cayley Digraph.md",
-    "details/mathematics/graph theory/Eulerian Graph.md",
-    "details/mathematics/matroid theory/Matroid Types.md",
-    "details/mathematics/matroid theory/Matroid Duals.md",
-    "details/mathematics/graph theory/Infinite Graph.md",
-    "details/mathematics/graph theory/Graph Planarity.md",
-    "details/mathematics/graph theory/Graph Algorithms.md",
-    "details/mathematics/graph theory/Directed Graph.md",
-    "details/mathematics/graph theory/Trails, Walks, Paths and Cycles.md",
+    "details/mathematics/algebra/group theory/Regular Group.md",
+    "details/mathematics/algebra/group theory/Symmetric Group.md",
     "details/mathematics/algebra/group theory/Group Action.md",
-    "details/mathematics/algebra/group theory/Subgroup.md",
+    "details/mathematics/algebra/group theory/Group Theory -- Notation Guide.md",
+    "details/mathematics/algebra/group theory/p-Group and the Sylow Theorems.md",
     "details/mathematics/algebra/Group Theory.md",
-    "details/mathematics/algebra/group theory/Cosets, Group Indices.md",
-    "details/mathematics/algebra/group theory/Factor Group.md",
-    "details/machine learning/reinforcement learning/pgms/Trust Region Policies.md",
-    "__images/Iterative GRPO.png",
-    "__images/GRPO.png",
-    "__images/DeepSeekMath Crawler.png",
-    "details/machine learning/specific models",
-    "__images/SHPPO.png",
-    "__images/HyperMARL.png",
-    "__images/RIAL and DIAL.png",
-    "__images/Mean Field MAAB.png",
-    "Pasted image 20250129134959.png",
-    "__images/MAAB.png",
-    "__images/MRPG.png",
-    "details/natural sciences/simulation",
-    "__images/__meta/{{Media Board}}.canvas",
-    "details/engineering/control",
-    "details/computer science/misc",
-    "details/mathematics/calculus/odes",
-    "details/mathematics/approximation",
-    "details/linguistics/language learning",
-    "Untitled.canvas",
-    "details/mathematics/algebra/field theory",
-    "details/mathematics/graph theory/algebraic graph theory",
-    "details/mathematics/Untitled.canvas",
-    "Test.canvas"
+    "details/machine learning/reinforcement learning/marl/MARL Research.md",
+    "details/mathematics/game theory/Static Games of Complete Information.md",
+    "details/mathematics/graph theory/Line Graph.md",
+    "details/mathematics/graph theory/Tree.md",
+    "details/mathematics/algebra/group theory/Commutator Group.md",
+    "details/mathematics/algebra/group theory/Permutations and Orbits.md",
+    "__baskets/Whiteboard.excalidraw",
+    "details/mathematics/Matroid Theory.md",
+    "details/mathematics/matroid theory/Matroid Definitions and Constructs.md",
+    "Exploration Logs.md",
+    "details/mathematics/Mathematics.md",
+    "Vertex Transitive Graph.md",
+    "details/mathematics/graph theory/Generalized Johnson Graph.md",
+    "details/mathematics/game theory/Dynamic Games of Incomplete Information.md",
+    "details/computer science/software engineering/design patterns/Abstract Factory.md",
+    "details/computer science/software engineering/design patterns/Adapter.md",
+    "details/mathematics/algebra/group theory/Cayley Digraph.md",
+    "details/machine learning/reinforcement learning/marl/Agent Modeling.md",
+    "details/mathematics/graph theory/Graph Theory -- Notation Guide.md",
+    "details/mathematics/graph theory/Graph Connectivity.md",
+    "details/mathematics/Graph Theory.md",
+    "__baskets/{{Media Board}}.canvas",
+    "__images/ESC Signaling Game.png",
+    "__images/ESC Framework.png",
+    "details/creativity/productivity",
+    "__images/Workflow Processing.png",
+    "__images/I2C.png",
+    "details/mathematics/information theory"
   ]
 }

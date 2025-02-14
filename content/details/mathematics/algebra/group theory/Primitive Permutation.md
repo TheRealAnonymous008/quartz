@@ -1,9 +1,9 @@
-* Let $G$ be a transitive group on $X$. A nonempty subset $S\subseteq X$ is a **block of primitivity** for $G$ if, for any $g\in G$, either $S^g=S$ or $S\cap S^g=\emptyset$.  A partition of $X$ into distinct blocks of primitivity gives a **system of imprimitivity** for $G$ .
+* Let $G$ be a [[Transitive Group|transitive group]] group on $X$. A nonempty subset $S\subseteq X$ is a **block of primitivity** for $G$ if, for any $g\in G$, either $S^g = S$ or $S\cap S^g=\emptyset$.  A partition of $X$ into distinct blocks of primitivity gives a **system of imprimitivity** for $G$ .
 
-* A transitive group with no nontrivial system of primitivity is **primitive** otherwise it is **imprimitive.**
-* In other words, *a primitive group acts transitively and the action preserves only the trivial partitions -- $S$ or $|S|$ singletons*.
+* A transitive group with no nontrivial system of imprimitivity is **primitive** otherwise it is **imprimitive.**
+* In other words, *a primitive group acts transitively and the action preserves only the trivial partitions -- $S$ or $|S|$ singletons*. 
 
-* (*Godsil 2.5.1*) Let $G$ be a transitive permutation group on $X$ and $x\in X$. Then $G$ is primitive if and only if $\text{Stab}_G(x)$ is a maximal subgroup of $G$
+* (*Godsil 2.5.1*) Let $G$ be a transitive permutation group on $X$ and $x\in X$. Then $G$ is primitive if and only if $G_x$ is a maximal subgroup of $G$
 
 * Motivated by [[Directed Graph|Godsil 2.6.1]], a non-symmetric orbit $\Omega$ is **connected** if the corresponding [[Directed Graph|digraph]], whose vertex set is $X$ and arc set based on $\Omega$, is strongly / weakly connected. 
   
@@ -16,7 +16,7 @@
 	  
 	  $G$ is primitive, therefore it is transitive. Thus, there exists a permutation mapping $x\to z$ for all $z\in X$. Let $g$ be this mapping. Then, $g\sigma g^{-1}$ gives us another transposition between $(z, gy)$.
 	  
-	  Since $G$ is primitive, $\text{Stab}_G(z)$ acts transitively on $X-\set{z}$. Which means, there must exist  $h$ such that $gy\to a$. This lets us generate the transposition $(z,a)$ for arbitrary $z$ and $a$.
+	  Since $G$ is primitive, $G_z$ acts transitively on $X-\set{z}$. Which means, there must exist  $h$ such that $gy\to a$. This lets us generate the transposition $(z,a)$ for arbitrary $z$ and $a$.
 	   
 	  Since $G$ must contain all transpositions, it must also contain all permutations. It is thus $\text{Sym(G)}$
 

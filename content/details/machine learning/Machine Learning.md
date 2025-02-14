@@ -22,7 +22,8 @@
 * [[Pathologies of Deep Learning]]
 
 * [[Geometric Deep Learning]]
-*  [[Low Level of Training a Model]
+*  [[Low Level of Training a Model]]
+
 
 ## Neural Network Architectures
 * [[Neural Network]]

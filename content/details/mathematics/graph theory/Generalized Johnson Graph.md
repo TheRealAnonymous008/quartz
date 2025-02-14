@@ -9,6 +9,8 @@
 	  $$
 	  J(n,k) = J(n,k,k-1)
 	  $$
+	* The **Petersen Graph** is defined as a special Johnson graph $J(5,2)$
+
 	* The **Kneser Graph** is the graph
 	  $$
 	  K(n,k) = J(n,k,0)
@@ -20,6 +22,8 @@
   $$
   {k\choose i}{n-k\choose k-i}
   $$
+	* In fact, it's [[Edge Transitive Graph|edge transitive]]. 
+
 * (*Godsil 1.6.1*) if $n\ge k \ge i$, then 
   $$
   J(n,k,i)\cong J(n,n-k,n-2k+i)
@@ -41,8 +45,8 @@
 	  |A\cap B| = |\sigma A \cap \sigma B| 
 	  $$
 
-
-
+* (*Godsil e3.2*) The Petersen graph is not a [[Cayley Digraph|Cayley graph]]. In fact, it is the smallest vertex-transitive graph that is not  a Cayley graph.
+	* *Proof*: Suppose $\text{Cay}(G,S)$ is a Cayley graph on $10$ elements isomorphic to the Petersen graph. Since $G$ must be order $10$, Either $G=\text{C}_{10}$ or $G=D_5$. In both cases, there are no $5$-cycles, which the Petersen graph contains.  
 
 # Links
 * [[Algebraic Graph Theory by Godsil and Royle]]

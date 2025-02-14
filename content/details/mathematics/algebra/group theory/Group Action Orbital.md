@@ -1,4 +1,4 @@
-* Let $G$ be a transitive [[Permutations and Orbits|permutation]] group [[Group Action|acting]] on $X$. Of interest to us is $G$ acting on the pairs $X^2$.  The orbits of $G$ acting on $X^2$ are sometimes called  **orbitals** [^orbitals]
+* Let $G$ be a [[Transitive Group|transitive]] [[Permutations and Orbits|permutation]] group [[Group Action|acting]] on $X$. Of interest to us is $G$ acting on the pairs $X^2$.  The orbits of $G$ acting on $X^2$ are sometimes called  **orbitals** [^orbitals]
 
 * The **diagonal orbital** is defined as the set 
   $$
@@ -15,10 +15,10 @@
 
 * (*Godsil 2.4.1*) Let $G$ be a group acting transitively on $X$, where $x\in X$. Then there is a one-to-one correspondence $f$
   $$
-  f: X^2/ G \mapsto X/\text{Stab}_G(x)
+  f: X^2/ G \mapsto X/G_x
   $$
-* The **rank** of $G$ is the number of orbits of $\text{Stab}_G(x)$ on $X$. 
-* If $\Omega$ is symmetric, then the corresponding orbit of $\text{Stab}_G(x)$ is said to be **self-paired**.  [^self-pairing]
+* The **rank** of $G$ is the number of orbits of $G_x$ on $X$. 
+* If $\Omega$ is symmetric, then the corresponding orbit of $G_x$ is said to be **self-paired**.  [^self-pairing]
 
 [^orbitals]: Note the similarities with [[Matrix|Matrices]]
 [^self-pairing]: One nice example of this. If we consider a group acting on a graph with vertex set $X$ and arc-set $\Omega$ then if $\Omega$ is self-paired, the graph is undirected. Otherwise it is [[Directed Graph|oriented]]. 

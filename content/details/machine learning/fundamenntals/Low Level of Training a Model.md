@@ -2,5 +2,9 @@
 
 * Pytorch: Models can be made to run faster and with less memory at the cost of some numerical instability by using `torch.autocast` (to make use of FP16)
 	* **Gradient Accumulation** can be used as an approximation to having a higher batch size beyond the one that hardware allows for without OOM-ing.
+
+* [Pytorch autograd does not work if you don't use the pytorch ops](http://discuss.pytorch.org/t/numpy-operations-in-pytorch-autograd/81392/2)
+
+
 # Links
-* [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy]]
+* [[Machine Learning - A Probabilistic Perspective by Murphy]]

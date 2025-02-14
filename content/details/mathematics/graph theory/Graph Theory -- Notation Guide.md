@@ -43,13 +43,21 @@
 * $K_{r,s}$ - complete bipartite graph.
 * $P_n$ - path of $n$ vertices
 * $C_n$ - cycle of $n$ vertices
-* $C$ - generic cycle
-* $C^\ast$ - generic cut-set related to cycle $C$
+* $J(n,k,i)$ - the generalized Johnson graph on $k$-element subsets on an $n$-element set with intersection parameter $i$.
+* $J(n,k)$ - the Johnson graph on $n$-element sets with $k$-element subsets.
+* $K(n,k)$ -  the Kneser graph on $n$-element sets with $k$-element subsets.
+* $L(X)$ - the line graph of $X$
+* $Q_n$ - the hypercube graph on $n$ vertices.
+* $\text{Cay}(G,C)$ - Cayley graph using the group $G$ and $C$, subset of a generating set of $G$. 
 *****
 * $G+F, G+e$ - edge addition, assuming $F$ is an edge set
 * $G/e$ - edge contraction.
 * $G-F,G-e$ - edge deletion, assuming $F$ is an edge set
 * $G-F, G-v$ - vertex deletion, assuming $F$ is a vertex set
+* $S(G)$ - the subdivision graph of $G$.
+*****
+* $C$ - generic cycle
+* $C^\ast$ - generic cut-set related to cycle $C$
 *****
 * $\deg(v)$ - degree of vertex $v$
 * $\delta(G), \delta$ - minimum degree of $G$.
@@ -61,6 +69,7 @@
 * $\omega(G), \omega$ - number of components of $G$
 * $\kappa(G), \kappa$ - vertex connectivity of $G$.
 * $\lambda(G), \lambda$ - edge connectivity of $G$
+* $\alpha(G), \alpha$ - size of the largest independent set of $G$. 
 *****
 * $T$ - generic tree.
 * $\overline{T}$ - cotree.

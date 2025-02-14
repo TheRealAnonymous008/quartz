@@ -59,5 +59,5 @@
 # Links
 * [[Introduction To Graph Theory by Wilson|Wilson]]
 
-* [[Trees]]
+* [[Tree]]
 * [[Matroid Theory]]

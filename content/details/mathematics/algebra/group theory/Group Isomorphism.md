@@ -13,17 +13,6 @@
   \{\phi(x) \mid x\in G\} \le G'
   $$
 
-* An **automorphism** is an isomorphism of a group to itself (i.e., $\phi: G\to G$)
-	* The **inner automorphism** of $G$ by $g$ is defined as 
-	  $$
-	  i_g(x)=gxg^{-1}
-	  $$
-	  Performing it is called the **conjugation** of $x$ by $g$
-	*  A **conjugate subgroup** of $H$ is given by
-	  $$
-	  K=i_g(H)
-	  $$
-
 * As a corollary to (*[[Group Homomorphism|Fraleigh 13.18]]*) a mapping $\phi:G\to G'$ can be shown to be an Isomorphism by showing the following
 	* $\phi$ is a homomorphism
 	* $\text{Ker}(\phi) = \{e\}$
@@ -52,6 +41,9 @@
 
 ![[Third Isomorphism Theorem.png|500]]
 <figcaption> Diagrammatic Proof Sketch of the Third Isomorphism Theorem. Image taken from Fraleigh </figcaption>
+
+# Topics
+* [[Group Isomorphism]]
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

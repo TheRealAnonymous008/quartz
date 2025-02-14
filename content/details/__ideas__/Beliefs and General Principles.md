@@ -36,19 +36,6 @@ Even if one does not wish to rule over others, one is forced by virtue of human 
 
 Without Power, You are Nothing.
 
-# Productivity 
-* [Speeding up development: A collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/)
-	* Feel good and keep stress to a minimum 
-	* Keep yourself focused 
-	* Allocate specific times for emails 
-	* Do not answer your colleagues within 5 minutes. Let them find the answer themselves 
-	* Use quick win labels -- short term victories and strategically placed low hanging fruit 
-	* Automation 
-	* Gain more knowledge. 
-	* Be an expert in what you do. 
-
-* [[The Cult of Done Manifesto|Get things done]].
-
 # Learning
 * [Metalearning--Learning what, why and how to learn a subject improves the pace of self-learning](https://www.youtube.com/watch?v=NuTU9YFqZqQ)*
 

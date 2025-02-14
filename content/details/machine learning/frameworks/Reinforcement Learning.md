@@ -1,4 +1,12 @@
 * Reinforcement Learning can be thought of as an adversarial process between generating a good policy based on a value function and generating a value function from a given policy. Both converge to the optimum.
+
+
+* Some approaches in RL for learning strategy:
+	* [[Transfer Learning]]
+	* [[Imitation Learning]]
+	* [[Competitive MARL|Competitive Learning]] - learn how to counter an opponent's actions in a simple game. 
+	* Continual Learning - the model constantly adapts. 
+
 # Topics
 * [[Reinforcement Learning - Notation Guide]]
 

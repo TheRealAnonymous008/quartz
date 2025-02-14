@@ -15,7 +15,7 @@
 	* `DECREASE_KEY` assigns to element $x$ within heap $H$ the new key value $k$ which is no greater than the current key value.
 	* `DELETE` deletes element $x$ from heap $H$.
 
-* More formally, a Fibonacci heap is a collection of rooted [[Trees]] where each tree obeys the min-heap property.
+* More formally, a Fibonacci heap is a collection of rooted [[Tree]] where each tree obeys the min-heap property.
 	* All nodes in the tree are, ideally, linked together in a circular, doubly linked list.
 	* All nodes keep track of their degree and whether or not they are marked. A node is marked if it lost a child since the last time they were made the child of another node. 
 	* The roots of all trees in a Fibonacci heap are linked together into a circular doubly linked list referred to as the **root list**

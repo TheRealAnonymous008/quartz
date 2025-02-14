@@ -7,6 +7,7 @@
 	* More readable code that aligns with the problem specifications.
 
 * A lot of Software Engineering approaches borrow from [[Manufacturing]] which makes sense considering the similarities between the two processes.
+
 # Topics
 * [[Object Oriented Programming]]
 * [[The Design Patterns]] 

@@ -35,7 +35,7 @@
 * **Problem Definition Prerequisite** - a [[Ideation|clear statement of the problem]] that the system is supposed to solve.
 	* The problem statement should not reference any solution.
 	* The problem statement should be described from a user's point of view (unless the problem is of a technical nature)
-	* *[[Conceptual Blocks to Ideation|Defining the wront problem]] means wasting time solving the wrong problem*
+	* *[[Conceptual Blocks to Ideation|Defining the wrong problem]] means wasting time solving the wrong problem*
 
 * **Requirements Prerequisite** - a statement of what the software system is supposed to do.
 	* Explicit requirements help to ensure that the user rather than the programmer drives the system’s functionality. We don't have to guess what the user wants.

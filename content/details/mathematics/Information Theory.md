@@ -55,28 +55,42 @@
 	* It measures the discrepancy between these occurring together compared to what would be expected by chance.
 	* It is also the amount we learn from updating a [[Bayesian Statistics|prior]] into a posterior.
 
-* The **Mutual Information** determines how similar the joint distribution $p(X,Y)$ is to the factored distribution $p(X)p(Y)$. It is defined, therefore as 
+* [[Mutual Information]]
+
+# Miscellaneous
+* The **Kozachenko-Leonenko Estimate*** [^kozachenko] for Entropy works as follows. Let $X$ be a continuous random variable with values in some metric space and $\mu(x)$ be the density. The entropy is defined as  
   $$
-  I(X;Y)=\text{KL}(p(X,Y) \mid\mid p(X)p(Y)) =\sum_{x}\sum_{y}p(x,y)\log{\frac{p(x,y)}{p(x)p(y)}}
+  H(X) = -\int \mu(x) \log\mu(x) \ dx
   $$
+  And estimated using the digamma function $\psi(x)$. Let $\epsilon(i)$ be twice the distance from $x_i$ to its $k$-th nearest neighbor.
   
-	* This determines how much information can be extracted about one random variable given observations on another.
-	* It can also be expressed as 
+  Then
+  $$
+  H(X)\approx -\psi(k) + \psi(N) + \log c_d + \frac{d}{N}\sum_{i=1}^N \log \epsilon(i)
+  $$
+  Where $d$ is the dimension of $x$ and $c_d$ is the volume of the $d$-dimensional unit ball. 
+	* The idea is to estimate $\log \mu(x)$using the probability distribution $P_k(\epsilon)$ between $x_i$ and its $k$-th nearest neighbor -- specifically, $P_k(\epsilon)d\epsilon$, is the probability that a point is within $r\in [\epsilon/2, \epsilon/2 + d\epsilon/2]$ from $x_i$, that there are $k-1$ other points at smaller distances, and $N-k-1$ points at larger distances. 
+	  
+	  Let $p_i$ be the mass of the $\epsilon$-ball centered at $x_i$.  
+	  
+	  It can be shown that 
 	  $$
-	  I(X;Y)=H(X)-H(X\mid Y)=H(Y)-H(Y\mid X)
+	  \mathbb{E}[\log p_i] = \psi(k)-\psi(N)
 	  $$
-	* It can also be expressed as the expected value of the pointwise mutual information.
-	* For continuous random variables, the mutual random variable can be approximated using the **Maximal Information Coefficient**. We define 
+	  If we assume that $\mu(x)$ is constant in the entire $\epsilon$-ball, we have
 	  $$
-	  m(x,y)=\frac{\max_{G\in \mathcal{G}(x,y)}  I(X(G);Y(G))}{\log\min(x,y)}
+	  p_i(\epsilon) \approx c_d\epsilon^d \mu(x_i)
 	  $$
-	  Where $\mathcal{G}(x,y)$ denotes the set of 2D grids of size $x\times y$ and $X(G),Y(G)$ are discretizations of the variables on this grid. Then, the maximal information coefficient is defined as
+	  And
 	  $$
-	  \text{MIC}=\max_{x,y,xy<B}m(x,y)
+	  \log(\mu(x_i)) \approx \psi(k) - \psi(N) - d\mathbb{E} (\log\epsilon) - \log c_d
 	  $$
-	  Where $B$ is a sample size dependent bound on the number of bins we can use. 
-		* A MIC of $0$ represents no relationship between the variables
-		* A MIC of $1$ represents a noise-free relationship of any form, not just linear.
+	* For maximum norm, set $c_d=1$
+	* For Euclidean norm, set $c_d=\frac{2^d \pi^{d/2}}{\Gamma(1+d/2)}$
+	* The estimator is unbiased if $\mu(x)$ is strictly constant. 
+  
+[^kozachenko]::  A specification is given in  [Kraskov, Stoegbauer, and Grassberger (2003) Estimating Mutual Information](https://arxiv.org/abs/cond-mat/0305641). The original paper is in Russian. 
+
 # Links
 * [[Probability Theory]] - more on probability which is the basis of Information Theory.
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2.8]]

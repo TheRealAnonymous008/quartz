@@ -96,7 +96,7 @@
 		  $$
 		  |\partial (A\cup B) | = |\partial (A\cap B)| = \lambda (X)
 		  $$
-		  But this is impossible since $\emptyset \ne A\cap B\subset A$ so $A\cap B = \emptyset$ 
+		  But this is impossible since $\emptyset \ne A\cap B\subset A$ which contradicts the fact that $\lambda(X)=|\partial (A\cap B)| < |A|=\lambda(X)$ so $A\cap B = \emptyset$ 
 
 * The **closure** of $G[S]$ is defined as the union between $G[S]$ and its boundary
   $$
@@ -148,6 +148,11 @@ $$
 
 ### Edge Subdivision
 * Let $e=uv$ be an edge of $G$. **Edge subdivision** involves deleting this edge and replacing it with a path of length $2$ by adding new edges $uw, wv$.
+* The **Subdivision Graph** of a graph $G$, denoted $S(G)$ is obtained by subdividing all edges. 
+	* $V(S(G)) = V(G) \cup E(G)$
+	* $E(S(G)) = \set{v\in V(G), e\in E(G) \mid e \text{ incident to} v}$
+	* The subdivision graph is [[Bipartite Graph|bipartite]], with the partitions corresponding to whether a vertex in $S(G)$ belongs to $V(G)$ or $E(G)$. 
+* If $G$ is $k$-regular, then $S(G)$ is a semiregular bipartite graph.
 
 # Vertex Operations
 * Let $F\subseteq V(G)$. The graph obtained from **vertex deletion** is denoted as $G-F$ and is the graph with all vertices and all incident edges from vertices in $F$ removed from $G$.

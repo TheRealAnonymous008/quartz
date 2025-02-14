@@ -57,7 +57,7 @@
 [^2]: Each cut set partitions the graph into $S_1,T_1$ and $S_2,T_2$ respectively. Clearly $S_1\cap T_2$ and $T_2\cap S_1$ cannot be empty (show this is true). The cut-set $S_1\cap T_2$ and $T_2\cap S_1$ whichever is non-empty is the one we desire. Demonstrate $e$ cannot be in this cut-set either 
 
 * A **bridge** is a cut-set with only one edge.
-	* (*Theorem*): If $e$ is a bridge, then it appears in every [[Trees|spanning forest]]. 
+	* (*Theorem*): If $e$ is a bridge, then it appears in every [[Tree|spanning forest]]. 
 		* If it didn't then the spanning forest would not be able to cover all vertices since removing it disconnects the graph.
 
 * Let $G$ be a connected graph. The **edge connectivity** of $G$, denoted $\lambda(G)$ is the size of the smallest cut-set in $G$.

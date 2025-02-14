@@ -82,7 +82,7 @@
 
 ### Learnability
 * A value function is **learnable** if given any amount of experience, we converge to the optimal / true value function. 
-* 
+
 * *The Bellman Error is not learnable* unless we have access to the underlying model itself.
 * *The VE objective is not learnable* -  given two MDPs that give the same streams of experience, we cannot distinguish between them from the experience stream alone.
 	* *Still, the parameter that optimizes VE is learnable*.  This follows from using the mean square return error. Observe how RE is just VE but with a variance term independent of $w$.

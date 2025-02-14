@@ -31,7 +31,7 @@
 
 * The **cutset matroid** also called the **cographic matroid** of a graph $G$ is an isomorphism class of matroids associated with $G$ denoted $M^\ast(G)$
   
-  It is the matroid on the set of edges of $G$ with the bases being the [[Trees|cotrees]] and the cycles being the [[Graph Connectivity|cut-sets]]
+  It is the matroid on the set of edges of $G$ with the bases being the [[Tree|cotrees]] and the cycles being the [[Graph Connectivity|cut-sets]]
 
 * A **Planar Matroid** is a matroid that is both graphic and cographic. 
   

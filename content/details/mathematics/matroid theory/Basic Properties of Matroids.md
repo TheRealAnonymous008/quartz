@@ -34,7 +34,7 @@
 * (*Wilson e31.10.1*) Any minor of a graphic matroid is also graphic. 
 	* *Proof*: Since matroid contraction and matroid restriction correspond to [[Operations on Graphs|edge contraction]] and edge deletion we have that the resulting matroid minor is still graphic as it corresponds to a new graph with some edges removed or contracted, and no new edges were added so no new [[Spanning Trees and Forests|spanning forests]] were added. 
 * (*Wilson e31.10.2*) Any minor of a cographic matroid is also cographic. 
-	* *Proof*: Similar to (*Wilson e31.10.1*), except applying to [[Trees|cotrees]].  
+	* *Proof*: Similar to (*Wilson e31.10.1*), except applying to [[Tree|cotrees]].  
 * (*Wilson e31.10.3*) Any minor of a regular matroid is also regular.
 	* *Proof*: If $M$ is regular, then it is representable in every field $F$. So, there exists a map $\phi$ and a [[Vector Space]] $V$ that maps independent sets of $M$ to linearly independent subsets of $V$. 
 	  

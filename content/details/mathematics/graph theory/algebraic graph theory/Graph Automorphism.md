@@ -1,4 +1,4 @@
-* An **[[Group Automorphism|automorphism]]** is an [[Graph Homomorphism|isomorphism]] from graph $G$ to itself. 
+* An **[[Group Automorphism|automorphism]]** is an [[Graph Isomorphism|isomorphism]] from graph $G$ to itself. 
   The set of automorphisms of $G$ forms the Automorphism group $\text{Aut}(G)$. 
 	* Clearly, by  definition, a group on permutations is a subgroup of the [[Symmetric Group]]. Therefore
 	  $$

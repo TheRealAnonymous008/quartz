@@ -18,10 +18,6 @@
 	* *Intuition*: We establish that $\sigma_g$ is a one-to-one map of $X$ onto itself, which proves that it is a permutation, which follows from the two properties of the group action.
 	  
 	  The homomorphism follows by showing that $\phi(g_1 g_2)$ maps $x$ to the same element as $\phi(g_1)\phi(g_2)$ satisfying the homomorphism property. This immediately follows from the composition of permutations.
-	* $G$ is **transitive** on $G$-set $X$ if for every $x,y\in X$, there exists $g$ such that
-	  $$
-	  gx = y
-	  $$
 
 
 * The subset of $G$ leaving every element of $X$ fixed is a [[Normal Group]] $N\unlhd G$.  
@@ -110,12 +106,12 @@
 	  $$
 * **General Class Equation**: Every element of $X^g$ consists of one-element orbits in $X$. Therefore 
   $$
-  |X| = |X^G| + \sum_{x \notin X^G} |{\text{Orb}_G(x)}|
+  |X| = |\text{fix}_G(X)| + \sum_{x \notin \ \text{fix}_G(X)} |{\text{Orb}_G(x)}|
   $$
 * **Classic Class Equation**. From the General Class Equation, suppose $X=G$ and the action of $G$ on $G$ is by conjugation so $g\in G$ maps $x\in G$ to $gxg^{-1}$. Then 
   $$
   \begin{split}
-  X^G  &= \set{x\in G \mid gxg^{-1} = x \ \forall g\in G} = Z(G)
+  \text{fix}_G(X)  &= \set{x\in G \mid gxg^{-1} = x \ \forall g\in G} = Z(G)
   \end{split}
   $$
   Now we have
@@ -123,20 +119,21 @@
   |G| = |Z(G)| + \sum_{x\notin Z(G) } |\text{Orb}_G (x) |
   $$
 	* We refer to each orbit in $G$ under conjugation by $G$ as a **conjugate class** in $G$. 
-
-* (*Godsil e2.3*) If $G$ is a non-trivial transitive permutation group on the set $V$, there is an element of $G$ with no fixed points. 
-	* *Proof*: If $G$ has one orbit (i.e., it  is a cycle), then any non-identity element $g\in G$ will suffice. 
-	  
-	  Otherwise, by (*Fraleigh 9.8*) we can construct $g'\in G$ with no fixed points. For each $\mathcal{O}_i\in X/G$, take $g_i$ (which permutes all elements in its orbit) and form $g'$ by 
+	* (*Godsil 2.2.3*) Let $G$ be a permutation group acting on $X$ and let  $x\in X, g\in G$. Then 
 	  $$
-	  g' = \prod_i g_i
+	  g \ G_x   g^{-1} = G_{gx}
 	  $$
-
-
-
+	  In other words, *the stabilizers of two points in the same orbit are conjugates*
+		* *Proof*: If $gx= y$ then we show every element of the LHS fixes $y$. If $h\in G_x$ then 
+		  $$
+		  ghg^{-1} y = ghx = gx = y
+		  $$
+		  So $ghg^{-1} \in G_x$. Similarly, we can show that if $h\in G_y$, then $g^{-1}hg$ fixes $x$ which proves the theorem.
 # Topics
 * [[Group Action Orbital]]
 * [[Primitive Permutation]]
+* [[Transitive Group]]
+* [[Regular Group]]
 
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

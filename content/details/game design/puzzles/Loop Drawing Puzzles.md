@@ -140,7 +140,7 @@
 
 ### Purenrupu
 * *Goal*: Draw a single loop passing through cell centers
-* *Constraint*: The loop visits all white cells [[Trails, Walks, Paths and Cycles#Hamiltonian Graphs|exactly once]].
+* *Constraint*: The loop visits all white cells [[Hamiltonian Graph|exactly once]].
 
 ### Rimotoeiji
 * *Goal*: Connect all dots with a single continuous non-intersecting loop.

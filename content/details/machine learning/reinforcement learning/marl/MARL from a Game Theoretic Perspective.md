@@ -8,7 +8,7 @@
   $N$ is the number of agents. 
   $S$ is the set of environmental states shared by all agents. $\bar{S}\subset S$ denotes terminal states of the environment
   $A_i$ is the set of actions of the $i$-th agent. The set of all action configurations is denoted $\mathbb{A}=\mathcal{A}^1\times\dots\times \mathcal{A}^N$ 
-  $R_i: S\times \mathbb{A} \to S$ is the reward function for the $i$-th agent
+  $R_i: S\times \mathbb{A} \to \mathbb{R}$ is the reward function for the $i$-th agent
   $\mathcal{T}:S\times\mathbb{A}\times S\to [0,1]$ for each time step $t\in N$ gives the **transition probability** from state $s$ to $s'$ given action $a$ was taken. 
   $\mu: S\to [0,1]$ gives the **initial state distribution**.  We sample the initial state from this. 
   

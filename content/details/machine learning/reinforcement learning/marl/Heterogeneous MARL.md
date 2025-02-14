@@ -13,10 +13,13 @@
 		* **Different Objective Heterogeneity** means that the agents have different objective functions that they optimize.
 
 * *The inherent trade off between homogeneity and heterogeneity is that of sample efficiency (homogeneous) and resilience / performance (heterogeneous)*.
+
+[^Bettini_2023]: Bettini, Shankar, and Prorok (2023) [Heterogeneous Multi-Robot Reinforcement Learning](https://arxiv.org/pdf/2301.07137)
+
 # HARL
 * [^Juang_2024] introduces **Comparative Advantage Maximization (CAM)** to enhance specialization within multi-agent systems.
 	* The general idea is to first *Develop a general policy via CTDE*. and then *guide agents to leverage their comparative advantage*. 
-	* On top of the usual [[Policy Gradient Methods|Policy Gradient]]-based approach, we modify the loss function to include the [[Information Theory|Mutual Information]] written as  follows for two agents $i,j$. 
+	* On top of the usual [[Policy Gradient Methods|Policy Gradient]]-based approach, we modify the loss function to include the [[Mutual Information|Mutual Information]] written as  follows for two agents $i,j$. 
 	  $$
 	  J'(\theta) = J(\theta) + \lambda I(a_i; a_j \mid s)
 	  $$
@@ -41,48 +44,48 @@
 
 [^Juang_2024]: Juang et al. (2024) [Breaking the mold: The challenge of large scale MARL specialization](https://arxiv.org/abs/2410.02128)
 
-* [^Zhong_2023] proposes Heterogeneous MARL (HARL) algorithms for the cooperative setting designed to coordinate agent updates.  In particular, the key ideA of their scheme is to *perform sequential updates on each individual agent's policy rather than update the whole joint policy*,
-* (*[^Zhong_2023] 4*) **Multi-Agent Advantage Decomposition**. In any cooperative Markov games given a joint policy $\pi$, for any state $s$ and agent subset $i_{1:m}$, the following holds for the [[MARL from a Game Theoretic Perspective#Miscellaneous|Multi-agent Advantage]]. 
-  
-  $$
-  A_\pi^{1:m} (s,a^{i_{1:m}}) = \sum_{j=1}^m A_\pi^{i_j}(s,a^{i_{1:j-1}}, a^{i_j})
-  $$
-  That is, *a joint policy can be improved sequentially*.
-* (*[^Zhong_2023] 6*) Let $\pi$ be a joint policy. For any joint policy $\overline\pi$ we have
-  $$
-  J(\overline\pi) \ge J(\pi) + \sum_{m=1}^n L_{\pi}^{i_{1:m}} (\overline\pi_{i_{1:m-1}}, \overline{\pi}_{i_m}) - \text{C} \ \cdot \max{\text{KL}}(\pi_{i_m}, \overline\pi_{i_m})
-  $$
-  Where
-  $$
-  C= \frac{4\gamma \max_{s,a} [A_\pi(s,a)]}{(1-\gamma)^2}
-  $$
-  We define $L$ as follows. Let $\pi$ be the joint policy, $\overline{\pi}_{i_{1:m-1}}$ be some other joint policy of agents $i_{1:m-1}$ and $\hat{\pi}_{i_m}$ be some other policy of $i_m$. Then
-  $$
-  L_\pi^{i_{1:m}} (\overline{\pi}_{i_{1:m-1}}, \hat{\pi}_{i_m}) = \mathbb{E}_{s\sim \rho_\pi, \ \ \ a_{i_{1:m-1}}\sim\overline{\pi}_{i_{1:m-1}} \ \ \ a_{i_m} \sim \hat{\pi}_{i_m}} [A_\pi^{i_m} (s,a_{i_{1:m-1}}, a_m)]
-  $$
-  The sequential update scheme is given below
-
-![[Sequential HARL.png]]
-<figcaption> Sequential HARL. Image taken from ZhonG et al. (2023) </figcaption>
-
-* In performing the sequential update, we take into account the previous agent updates.
-* (*[^Zhong_2023] 7*) The Multi-Agent Policy Iteration with Monotonic Improvement Guarantee monotonically improves. In fact, (*Zhong 8*) The policy converges to the Nash Equilibrium.
-	* The algorithm is not practical however since it (1) assumes the use of the full state space and action space and (2) requires the computation of the [[Information Theory|KL Divergence]]. 
-
-
-* The Sequential HARL algorithm can be made more practical using [[Trust Region Policies|TRPO and PPO]] versions as shown below
-![[HATRPO.png]]
-<figcaption> HATRPO. Image taken from Zhong et al. (2023)  
-</figcaption>
-
-
-![[HAPPO.png]]
-<figcaption> HAPPO. Image taken from Zhong et al. (2023) </figcaption>
-
-
-
-
-[^Zhong_2023]: Zhong et al. (2023) [Heterogeneous-Agent Reinforcement Learning](https://arxiv.org/pdf/2304.09870)
+* [^Zhong_2023] proposes Heterogeneous MARL (HARL) algorithms for the cooperative setting designed to coordinate agent updates.  In particular, the key idea of their scheme is to *perform sequential updates on each individual agent's policy rather than update the whole joint policy*,
+	* (*[^Zhong_2023] 4*) **Multi-Agent Advantage Decomposition**. In any cooperative Markov games given a joint policy $\pi$, for any state $s$ and agent subset $i_{1:m}$, the following holds for the [[MARL from a Game Theoretic Perspective#Miscellaneous|Multi-agent Advantage]]. 
+	  
+	  $$
+	  A_\pi^{1:m} (s,a^{i_{1:m}}) = \sum_{j=1}^m A_\pi^{i_j}(s,a^{i_{1:j-1}}, a^{i_j})
+	  $$
+	  That is, *a joint policy can be improved sequentially*.
+	* (*[^Zhong_2023] 6*) Let $\pi$ be a joint policy. For any joint policy $\overline\pi$ we have
+	  $$
+	  J(\overline\pi) \ge J(\pi) + \sum_{m=1}^n L_{\pi}^{i_{1:m}} (\overline\pi_{i_{1:m-1}}, \overline{\pi}_{i_m}) - \text{C} \ \cdot \max{\text{KL}}(\pi_{i_m}, \overline\pi_{i_m})
+	  $$
+	  Where
+	  $$
+	  C= \frac{4\gamma \max_{s,a} [A_\pi(s,a)]}{(1-\gamma)^2}
+	  $$
+	  We define $L$ as follows. Let $\pi$ be the joint policy, $\overline{\pi}_{i_{1:m-1}}$ be some other joint policy of agents $i_{1:m-1}$ and $\hat{\pi}_{i_m}$ be some other policy of $i_m$. Then
+	  $$
+	  L_\pi^{i_{1:m}} (\overline{\pi}_{i_{1:m-1}}, \hat{\pi}_{i_m}) = \mathbb{E}_{s\sim \rho_\pi, \ \ \ a_{i_{1:m-1}}\sim\overline{\pi}_{i_{1:m-1}} \ \ \ a_{i_m} \sim \hat{\pi}_{i_m}} [A_\pi^{i_m} (s,a_{i_{1:m-1}}, a_m)]
+	  $$
+	  The sequential update scheme is given below
+	
+	![[Sequential HARL.png]]
+	<figcaption> Sequential HARL. Image taken from ZhonG et al. (2023) </figcaption>
+	
+	* In performing the sequential update, we take into account the previous agent updates.
+	* (*[^Zhong_2023] 7*) The Multi-Agent Policy Iteration with Monotonic Improvement Guarantee monotonically improves. In fact, (*Zhong 8*) The policy converges to the Nash Equilibrium.
+		* The algorithm is not practical however since it (1) assumes the use of the full state space and action space and (2) requires the computation of the [[Information Theory|KL Divergence]]. 
+	
+	
+	* The Sequential HARL algorithm can be made more practical using [[Trust Region Policies|TRPO and PPO]] versions as shown below
+	![[HATRPO.png]]
+	<figcaption> HATRPO. Image taken from Zhong et al. (2023)  
+	</figcaption>
+	
+	
+	![[HAPPO.png]]
+	<figcaption> HAPPO. Image taken from Zhong et al. (2023) </figcaption>
+	
+	
+	
+	
+	[^Zhong_2023]: Zhong et al. (2023) [Heterogeneous-Agent Reinforcement Learning](https://arxiv.org/pdf/2304.09870)
 
 # Parameter Sharing Methods
 ## UAS 
@@ -169,7 +172,7 @@
   \end{split}
   $$
 * To learn the parameters for the encoder, we also include an InferenceNet as a critic that learns to minimize the difference between the value function and the reward. It outputs the value $V_I$
-	* More formally, let $\mu, \sigma$ be the concatenation of all $\mu_i$ and $\sigma_i$;  $\theta_L$ denotes the parameters of the InferenceNet; $\lambda_e,\lambda_d$ are regularization constants; $\mathcal{H}$ is the entropy function of the distribution; $\mathcal{D}_i$ is the latent distribution (in this case, a Gaussian parameterized on $\mu_i, \sigma_i$); $\text{Norm}$ pertains to normalization. 
+	* More formally, let $\mu, \sigma$ be the concatenation of all $\mu_i$ and $\sigma_i$;  $\theta_L$ denotes the parameters of the InferenceNet; $\lambda_e,\lambda_d$ are regularization constants; $\mathcal{H}$ is the [[Information Theory|entropy]] function of the distribution; $\mathcal{D}_i$ is the latent distribution (in this case, a Gaussian parameterized on $\mu_i, \sigma_i$); $\text{Norm}$ pertains to normalization. 
 	  $$
 	  \begin{split}
 	  \mathcal{L}_L (\theta_L) &= -\mathcal{L}_v(\theta_L) + \lambda_e \mathcal{L}_e(\theta_L) -\lambda_d \mathcal{L}_d(\theta_L) \\
@@ -184,6 +187,7 @@
 
 
 * Each $l_i$ is then used to generate a heterogeneous layer. That is, we get the heterogeneous parameters $w_i$ from $l_i$.
+
 * *Limitation*: The heterogeneous layers chosen are simple.  It is also reliant on the population distribution.
 ![[SHPPO.png]]
 <figcaption> SHPPO. Image taken from Guo et al., 2024</figcaption>
@@ -191,6 +195,4 @@
 [^guo_2024]: Guo et al., 2024 [Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration](https://arxiv.org/abs/2404.03869)
 
 
-$$
-\mathbb{E}_{i,j : i\ne j; o^t \sim \mathcal{D}}\left[\text{dist}(\pi_i(\cdot \mid o_i^t) ,\pi_j(\cdot \mid o_j^t))\right]
-$$
+

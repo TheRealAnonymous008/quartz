@@ -3,7 +3,7 @@
 * Social behavior is influenced by the constant automatic reaction to and interpretation of our environment
 # Leadership
 * **Leadership** pertains to when someone tries to influence the group as a whole.  *Leadership is primarily determined by the functions the group needs a leader to fulfill.* 
-* A participative style, which attempts to involve all in decision-making, promotes high productivity with good relationships between group members. 
+* A participative style, which attempts to involve all in decision-making, promotes high [[Productivity]] with good relationships between group members. 
 * A more authoritarian, directive style allows group members less say in decisions and produces equal productivity (provided the leader is present), but tends to lead to poorer relationships and less cooperation. 
 * Laissez-faire leadership, which leaves the group to its own devices, results in lower productivity.
 

@@ -13,7 +13,7 @@
 * Can an action be wrong but a person blameless? 
 * To what degree should "the ends justify the means"? 
 
-* *The Euthyphro Dillema*: "Is the pious loved by the [[Religion and Mysticism|gods]] because it is pious, or is it pious because it is loved by the gods?"  
+* *The Euthyphro Dilemma*: "Is the pious loved by the [[Religion and Mysticism|gods]] because it is pious, or is it pious because it is loved by the gods?"  
 
 * If everything above the level of [[Quantum Mechanics|quantum mechanics]] is deterministic, then to what degree do we have [[Free Will|free will]]? Assuming sufficient technological advancements, is it possible to accurately predict human behavior, and if it isn't possible, why?
 * Is being predictable in the deterministic sense contradictory to having free will? 
@@ -163,7 +163,7 @@
 
 * Which is more important -- physical pleasures (i.e., food, entertainment, sensual pleasures) or intellectual pleasures (i.e., art and music)? What makes one superior over the other? What defines such "intellectual pleasures"?
 
-* is the value (i.e., point of existence) of art intrinsic to the artwork itself, or does the value lie with the beholder, that is, would the value of art go down if no one saw it? 
+* Is the value (i.e., point of existence) of art intrinsic to the artwork itself, or does the value lie with the beholder, that is, would the value of art go down if no one saw it? 
 
 * When is inequality acceptable? Is it permissible when it is to the benefits of the least well off? Should equality and inequality only be seen in materialistic terms or should we also consider the psychological dimension (i.e., the effects of perceived wealth gaps)? 
 

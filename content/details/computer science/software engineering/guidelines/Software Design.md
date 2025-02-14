@@ -112,6 +112,7 @@
 
 * **Determine how much design is enough** - when the design descends to the level of a task that you’ve done before or to a simple modification or extension of such a task, you’re probably ready to stop designing and begin coding.
 	* While you can’t know the exact right amount of design with any confidence, *two amounts of design are guaranteed to be wrong every time: designing every last detail and not designing anything at all*
+	* [[Getting Things Done - Project Planning]] - software engineering necessitates having a plan in mind. Design is the plan. Design to the point that the code eventually writes itself
 
 * **Capture Design Work** - the following are some alternatives to documentation
 	* Insert design documentation into the code itself.

@@ -17,8 +17,10 @@
 
 * [Mud Dauber](https://en.wikipedia.org/wiki/Mud_dauber) - their nests are particularly interesting. Crack them open and they may house spiders.
 
-
 * [Coral Toxins can melt your eyeballs](https://www.youtube.com/watch?v=0IqXlhaGJm4)
+
+* [Penguin, Depressed](https://www.reddit.com/r/todayilearned/comments/1tjusn/til_that_penguins_when_depressed_or_had_enough/?rdt=38134). When sad, penguins will just wander on their own willingly -- as if starving themselves.
+
 
 # Links 
 * [zefrank](https://www.youtube.com/@zefrank) - has a fantastic series of videos about specific animals delivered in both educational and entertaining fashion. 

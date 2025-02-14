@@ -31,7 +31,7 @@
 * A family of paths in a graph is **internally disjoint** if no vertex of $G$ is an internal vertex of more than one path in the family.
 
 * (*Wilson 28.3*) A graph is $k$-edge connected if and only if two distinct vertices of $G$ are connected by at least $k$-edge disjoint paths
-* (*Wilson 28.4*) A graph with at least $k+1$ vertices is $k$-connected if and only if two distinct vertices of $G$ are connected by at least $k$ vertex disjoint paths.
+* (*Wilson 28.4*) A graph with at least $k+1$ vertices is $k$-connected if and only if two distinct vertices of $G$ are connected by at least $k$ vertex disjoint paths
 
 ### Cycle
 * A **cycle** is a graph that is connected and 2-regular.
@@ -60,21 +60,6 @@
 [^1]: The proof is by induction. Given a triangle free graph, perform an edge deletion on $e=uv$to get a smaller triangle-free graph. Show we can choose at most $2n-2$ vertices to join to one of $u,v$ but not both. This implies, there are at most $2n-1$ vertices not in the smaller graph. This will completes the proof.
 [^2]:  Given an edge $e=uv$, we may partition the remaining vertices into sets if they are connected to $u$ or $v$.
 
-# Hamiltonian Graphs
-* A **Hamiltonian Path** is a path contained within a graph such that it passes through vertex exactly once.
-* A **Hamiltonian Cycle** is a cycle contained within a Graph such that it passes through each vertex exactly once.
-* A **Hamiltonian Graph** is a graph which contains a Hamiltonian Cycle
-* A graph is **Semi-Hamiltonian** if it contains a Hamiltonian Path but not a Hamiltonian Cycle
-
-* (*Bondy and Murty 4.2*) If $G$ is Hamiltonian, then for every non-empty $S\subset V$. 
-  $$
-  \omega(G-S) \le |S|
-  $$
-* (*Bondy and Murty 4.3*) **Dirac's Theorem**. If $G$ is a graph with $n\ge 3$ vertices and $\delta \ge \frac{n}{2}$ then $G$ is Hamiltonian.
-
-* *(Wilson 7.1)* **Ore's Theorem** [^2]. Let $G$ be a simple graph with $n\ge 3$ vertices. If $$\deg(v)+\deg(w)\ge n$$for each pair of non-adjacent vertices $v$ and $w$, then $G$ is Hamiltonian
-
-[^2]: Ore's Theorem generalizes Dirac's Theorem
 
 # Shortest Paths
 * Let $G$ be a weighted graph. The **shortest path** is the path between two vertices $u$ and $v$ that has a minimum weight.

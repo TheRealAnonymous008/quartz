@@ -42,7 +42,7 @@
 	  * The [[Bayesian Models|prior]] distribution may be a poor choice
 	  * Need to account for the sparsity of the graph in the decoder. 
 ## Deep Graph Infomax
-* **Deep Graph Infomax** aims to maximize [[Information Theory|mutual information]] as possible between the latent representation of nodes (local information) and the latent representation of the graph (global information).
+* **Deep Graph Infomax** aims to maximize [[Mutual Information|mutual information]] as possible between the latent representation of nodes (local information) and the latent representation of the graph (global information).
 * Node representations are obtained using an encoder $\varepsilon$. We have
   $$
   H = \varepsilon(X,A)

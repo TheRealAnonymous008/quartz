@@ -197,7 +197,7 @@
   
   *Proof Idea*: We use the invariant that if tree $T$ contains an interval that overlaps $i$, then the subtree rooted at $x$ contains such an interval.
 # Links
-* [[Trees]]
+* [[Tree]]
 * [[Labelled Trees]]
 * [[Spanning Trees and Forests]]
 

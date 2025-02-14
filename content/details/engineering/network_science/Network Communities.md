@@ -233,7 +233,7 @@
 	  L=qH(Q)+\sum_{c=1}^{n_c} p_{\odot}^c H(P_c) 
 	  $$
 	  Where 
-	  $H(Q)$ is entropy
+	  $H(Q)$ is [[Information Theory|entropy]]
 	  $q$ is the probability that the random walker switches communities.
 	  
 		* The first term of the formula corresponds to the average number of bits to represent the movement between communities.
@@ -245,7 +245,7 @@
 # Benchmarks
 * We can compare the predicted communities of the algorithm to those planted in the benchmark as follows.
 	* Consider an arbitrary partition into non-overlapping communities. At each step, randomly sample a node and record the label of the community it belongs to. This gives the probability distribution $p(C)$ on whether or not a node belongs to $C$.
-* Consider two partitions of the same network, one being the benchmark (ground truth), and the other partition predicted by the algorithm. Each partition has its own $p(C_1)$ and $p(C_2)$ distribution. Consider the joint distribution $p(C_1, C_2)$ and *calculate the normalized mutual information $I_N$.*
+* Consider two partitions of the same network, one being the benchmark (ground truth), and the other partition predicted by the algorithm. Each partition has its own $p(C_1)$ and $p(C_2)$ distribution. Consider the joint distribution $p(C_1, C_2)$ and *calculate the normalized [[Mutual Information|mutual information]] $I_N$.*
 	*  If $I_N$ is high, then the detected partitions are identical. Which means, the community detection algorithm can correctly identify community structure.
 
 * When the link density within communities is high compared to their surroundings, most algorithms accurately identify the planted communities

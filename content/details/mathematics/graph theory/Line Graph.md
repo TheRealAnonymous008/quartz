@@ -32,7 +32,7 @@
 
 * (*Godsil 1.7.2*) **Krausz Characterization of Line Graphs** A nonempty graph is a line graph if and only if its edge set can be partitioned into a set of cliques with the property that any vertex is in at most two cliques.
 	* If $X$ is triangle-free, then all cliques are all maximal.
-* (*Godsil 1.7.3*) Except for the pair $K_3, K_{1,3}$, the following is true
+* (*Godsil 1.7.3*) **Whitney's Isomorphism Theorem** Except for the pair $K_3, K_{1,3}$, the following is true
   $$
   X\cong Y \iff L(X) \cong L(Y)
   $$
@@ -51,7 +51,8 @@
 	  
 	  This can only happen because of two adjacent vertices with the same degree (i.e., in an odd cycle). If the graph has no odd cycle, it is bipartite and by our characterization semiregular. 
 
-
+* (*Godsil e1.21*) If two [[Tree|trees]] have [[Graph Isomorphism|isomorphic line graphs]] then they are isomorphic.
+	* *Proof*:  Let $T_1, T_2$ be trees such that $L(T_1)\cong L(T_2)$. Each vertex in $T_1$ bijectively maps to a maximum clique in $L(T_1)$. This bijectively maps to a maximum clique in $L(T_2)$ preserving adjacencies within and between cliques. And, the maximum clique in $L(T_2)$ bijectively maps to a vertex in $T_2$. Thus, each vertex in $T_1$ can be made to bijectively map to $T_2$ and so $T_1\cong T_2$
 
 # Links
 * [[Algebraic Graph Theory by Godsil and Royle]]

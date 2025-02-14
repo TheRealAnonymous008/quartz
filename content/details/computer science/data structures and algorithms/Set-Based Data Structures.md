@@ -60,7 +60,7 @@
 	* (*CLRS 21.1*) Using the linked list representation of disjoint sets, a sequence of $m$ `MAKE_SET`, `UNION` and `FIND_SET` operations $n$ of which are `MAKE_SET` operations, takes $O(m + n\lg n)$ time. 
 		* This follows because each object's pointer is updated at most $\lg n$ times over all `UNION` operations
 
-* Another possible representation is through [[Trees|Rooted trees]] where each node contains one member and each tree represents one set. The root of each tree contains its representative and is its own parent
+* Another possible representation is through [[Tree|Rooted trees]] where each node contains one member and each tree represents one set. The root of each tree contains its representative and is its own parent
 	* A `UNION` operation causes the root of one tree to point to the root of another.
 	* `FIND_SET` traverses the tree until we reach the root of the tree. 
 	* We can use the following heuristics:

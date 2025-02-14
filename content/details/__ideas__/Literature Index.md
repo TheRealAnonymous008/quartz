@@ -68,5 +68,7 @@
 * [The Refugium by Biblaridon](https://www.youtube.com/watch?v=OJOo7TXWJT0) -  magic system arguably roughly based on the [[Seven Deadly Sins]].
 
 * [The Egg by Andy Weir](https://galactanet.com/oneoff/theegg_mod.html) 
+
+* [[Media Board]] - for stuff consumed and personal evaluations on them
 # Links
 * [Lithub](https://lithub.com) - a hub for fiction and non-fiction.

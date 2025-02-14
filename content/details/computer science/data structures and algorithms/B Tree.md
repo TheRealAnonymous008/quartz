@@ -1,4 +1,4 @@
-* A **B-Tree** is a balanced search [[Trees|tree]] designed to work on external memory. They minimize the number of [[Models of Computation|I/O operations]]. 
+* A **B-Tree** is a balanced search [[Tree|tree]] designed to work on external memory. They minimize the number of [[Models of Computation|I/O operations]]. 
   
   More specifically it is a rooted tree of minimum degree $m\ge 2$ where
 	* Every node has at most $2m$ children. A node is full if it has exactly this amount.

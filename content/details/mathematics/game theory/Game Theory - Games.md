@@ -26,7 +26,7 @@ aliases:
 
 * An **extensive-from game** is a tuple $\Gamma = (\mathcal{K}, \mathbb{H}, \{H_i\}, \{A(H)\}, a, \rho, v)$ where 
 	* Let $D = V-Z$ represent the decision nodes 
-	* $\mathcal{K}=(V,v_0,Z,p)$ is a finite [[Trees|tree]] called the **game tree** with vertices $V$, a unique initial node $v^0\in V$, a set of terminal nodes $Z\subset V$. and an immediate predecessor function $p:V\to D$ on which the game rules are represented.  
+	* $\mathcal{K}=(V,v_0,Z,p)$ is a finite [[Tree|tree]] called the **game tree** with vertices $V$, a unique initial node $v^0\in V$, a set of terminal nodes $Z\subset V$. and an immediate predecessor function $p:V\to D$ on which the game rules are represented.  
 	* $\mathbb{H}$ is a partition on $D$ called the **information partition**. 
 		* The information partition consists of information sets $h_i\in H_i$ which *partition the nodes of the game* at which player $i$ moves with the player properties. 
 			* If $h_i$ is singleton, that includes only $x$, then player $i$ who moves at $x$ knows he is at $x$

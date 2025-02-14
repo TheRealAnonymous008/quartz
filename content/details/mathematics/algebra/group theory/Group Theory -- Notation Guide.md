@@ -56,10 +56,10 @@
 * $(G:H)$ - the index of $H\le G$. 
 * $G/H$ - the factor group of $G$ modulo $H$
 ***
- * $\text{Orb}_G(x)$ - the orbit of $x$ under $G$ 
+ * $\text{Orb}_G(x), x^G$ - the orbit of $x$ under $G$ 
  * $\text{Stab}_G(x)$, $G_x$ - the stabilizer of $x$ under $G$.
  * $X^g$ - subset of a $G$-set $X$ where $\{x\in X \mid  g x= x\}$. 
- * $X^G$ - the set of fixed points of a $G$-set $X$.
+ * $\text{fix}_G(X)$ - the set of fixed points of a $G$-set $X$.
  * $X/G$ - the set of orbits of $X$ under $G$. 
  * $N[H]$ - the normalizer of $H\le G$. 
  * $\Omega^T$ - the transpose of $\Omega$. 
