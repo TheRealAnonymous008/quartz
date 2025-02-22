@@ -14,6 +14,7 @@
 * [[Statistical Models]]
 * [[Bayesian Statistics]]
 * [[Frequentist Statistics]]
+* [[Information Theory]]
 
 # Links
 * [[Probability Theory]] - corequisite

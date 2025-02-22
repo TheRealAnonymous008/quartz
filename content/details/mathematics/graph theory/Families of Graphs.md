@@ -3,15 +3,6 @@
 
 * **Complete Graph** - $K_n$ - the graph where each pair of distinct vertices is adjacent.
 
-* A **regular** graph is a graph where the [[Graph Connectivity|degree]] of each vertex in the graph is equal. If each vertex has degree $k$, then the graph is $k$-regular.
-  
-  More formally, if $G$ is the $k$-regular graph then 
-  
-  $$
-  \forall v\in V(G), \ \deg(v)=k
-  $$
-
-* **Cubic Graph** - a $3$-regular graph.
 
 * **Hypercube Graph** - $Q_n$ - the graph whose vertices correspond to the vertices and edges correspond to that of a $n$-dimensional hypercube
 	* It can also be interpreted as the graph on $2^n$ binary numbers where edges connect tuples which differ in one bit. 
@@ -45,7 +36,9 @@
 * [[Asymmetric Graph]]
 * [[Vertex Transitive Graph]]
 * [[Edge Transitive Graph]]
+* [[Arc Transitive Graph]]
 * [[Cayley Digraph]]
+* [[Regular Graph]]
 
 * The **Halin Graph** is a graph constructed as follows. Start with a [[Tree|tree]] with no vertex of degree $2$ and with at least one vertex of degree greater than $2$. Draw $T$ on the [[Graph Planarity|plane]] and then connect all leaves to form a cycle. 
 # Links

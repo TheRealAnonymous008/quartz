@@ -2,7 +2,7 @@
 
 * A **spanning forest** is a collection of spanning trees
 * (*Wilson 9.3*) Let $T$ be a spanning forest of a connected graph. Each cycle of $G$ contains an edge in common with the cotree $\overline T$
-* (*Wilson 9.3a*) Let $T$ be a spanning forest. Each cut-set of $G$ has an edge in common with $T$
+* (*Wilson 9.3a*) Let $T$ be a spanning forest. Each [[Edge Connectivity|cut-set]] of $G$ has an edge in common with $T$
 * (*Wilson 9.3a.z*) Let $T$ be a spanning tree of a connected graph. Each cut-set of $G$ contains an edge in common with $T$.
 * (*Wilson 9.3x*) Every edge $e\in E(G)$ is included in some spanning forest of $G$.
 * (*Wilson e9.10a*) - Let $C^\ast$ be a set of edges of a graph $G$. If $C^\ast$ has an edge in common with each spanning forest, then $C^\ast$ contains a cut-set 

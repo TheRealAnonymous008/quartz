@@ -415,6 +415,8 @@
 # Links
 * [[48 Laws of Power by Robert Greene]]
 
+* [[The Wisdom of Psychopaths]] - a good supplemental read.
+
 * [[Persuasion]] - these techniques are crucial for power.
 * [[Doublespeak]]
 * [[Problem Solving Strategies]] - additional strategies which may be applied to the game of power.

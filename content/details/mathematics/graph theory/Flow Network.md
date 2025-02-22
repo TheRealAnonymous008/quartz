@@ -28,7 +28,7 @@
 
 * The **maximum flow** in a flow network is the maximum value of a flow from source to sink.
 	* A network is in maximum flow if and only if there are no augmenting paths.
-* The **minimum cut** of a flow network is an edge cut that separates the source and skink in such a way that the capacity of the cut is minimized.
+* The **minimum cut** of a flow network is an [[Edge Connectivity|edge cut]] that separates the source and skink in such a way that the capacity of the cut is minimized.
 
 * Computing the max flow can be formulated as a [[Linear Programming]] problem. 
   $$

@@ -1,8 +1,63 @@
-* [ABM never took off in economics because it was already a “model-oriented” discipline.](https://economistwritingeveryday.com/2022/03/14/why-agent-based-modeling-never-happened-in-economics/) ABM is inherently empirical which means that: 
+* [ABM never took off in economics because it was already a “model-oriented” discipline.](https://economistwritingeveryday.com/2022/03/14/why-agent-based-modeling-never-happened-in-economics/) [[Agent Based Modeling|ABM]] is inherently empirical which means that: 
 	* It is hard to validate the created model; 
 	* It is hard to prove that these models are indeed theoretically sound; 
 	* There are a lot of bad ABM models for economics compared to good ones since it is easy to do; and 
 	* [[Data Analytics]] had more ground compared to [[Agent Based Modeling]]
+
+
+# ABM
+* *[[Microeconomics|Microeconomics]] Models*
+	* A simple model can be used to simulate [[Scarcity, Supply, and Demand|Supply and demand]] using the following assumptions:
+		* Buyers with heterogeneous internal valuations will create a downward sloping demand curve.
+		* Sellers with heterogeneous costs will produce an upward sloping supply curve.
+		* High market efficiency arises when buyers pay less than their internal values and sellers try to cover costs.
+
+* Simulating markets 
+	* The **Albin-Foley Model** which involves distributed decentralized bilateral [[Trade|trading]] with local price formation
+	* The **Sugarscape Model** which extends the Albin-Foley model to include heterogeneous agents and changing preferences. 
+	* The **Wilhite Model** which adds network topologies.
+
+* [[Auction Theory|Auctions]]
+
+* [[Bipartite Graph|Bipartite Matching]]
+
+* [[Game Theory]]
+	* ABM has the advantage that it can include facets such as memory and network structures.  It also relaxes the assumption of rationality 
+	* ABM models allow for ergodicity that is only apparent at large time scales.
+	* The **El Farol Model** - an ABM model for learning inductive rather than rational behavior. Agents with heterogeneous preferences determine whether or not to attend a club -- with a club that is too full or too empty being undesirable. *Agents arrive at the Nash equilibrium without trying to compute it*.
+
+* Simulating [[Firms, Production and Externalities|firms]],  organizational behavior, and firm operations. This also includes
+	* [[Supply Chain Management|Supply Chain Management]]
+	* Customer Behavior
+	* Product and Information Diffusion
+	* E-Commerce
+	* [[Manufacturing|Manufacturing Logistics]]
+	* Hierarchy Dynamics
+
+* Studying [[Labor Market Theory|Labor Markets]]. 
+* Studying the [[Financial Market|Financial Market]]
+	* Stocks trading and analysis of the Stock market. 
+	* The **Santa Fe Stock Market Model** - simulates investors choosing between  a stock or a bond. Agents had brains powered by machine learning. The goal was to understand the volatility of the stock market.
+	* Modeling systemic risk in the financial market.
+	* Diffusion
+	* Policies and interventions for the financial market. 
+
+* Studying [[Macroeconomics|Macroeconomics]]
+	* It is possible to simulate macroeconomic phenomena using microeconomic dynamics.
+	* Some applications:
+		* Barter and Trade dynamics.
+		* [[Money]] dynamics
+		* [[Macroeconomic Policy|Fiscal]] policies. 
+		* Taxation policies
+		* Modeling Wealth inequality
+
+* Environmental Economics -- assessing the impact of economic processes to the environment 
+
+# Research
+* [^Axtell_2022] provides a survey of the use of Agent-Based Modeling Techniques in [[Economics|Economics]] and Finance. 
+
+[^Axtell_2022]: Axtell  and Farmer (2022) [Agent-Based Modeling in Economics and Finance](https://oms-inet.files.svdcdn.com/staging/files/JEL-v2.0.pdf)
+
 
 * [^Steinbacher_2021]  gives a review on ABM with regards to modeling economic behavior 
 	* In the context of computational social science, ABM can be characterized as having the following components 
@@ -34,3 +89,5 @@
 # Links 
 * [[Economics]]
 * [[Machine Learning]]
+
+* [[Computational Macroeconomics]]

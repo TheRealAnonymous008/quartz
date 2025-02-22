@@ -189,7 +189,8 @@
 	* Empathize with the opposition. Understand where they are coming from.
 	* Steelman argument -- respond to the strongest argument of the opposition.
 # Links 
-* [[Influence -- The Psychology of Persuasion by Cialdini|Cialdini]]
-* [[Social Engineering -- The Science of Human Hacking by Hadnagy|Hadnagy]]
+* [[Influence -- The Psychology of Persuasion by Cialdini]]
+* [[Social Engineering -- The Science of Human Hacking by Hadnagy]]
+* [[The Wisdom of Psychopaths]]
 
 * [[Social Engineering]]

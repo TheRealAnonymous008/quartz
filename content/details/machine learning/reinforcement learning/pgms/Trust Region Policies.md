@@ -11,7 +11,7 @@
 	  r_{i,t}(\theta) = \frac{\pi_\theta(a_{i,t}\mid s, o_{<t})}{\pi_{\theta_\text{old}} (a_t\mid s, o_{<t} )}
 	  $$
 	  And advantage $\hat{A}$ calculated based on relative rewards of outputs inside each group only. 
-	* We can estimate the [[Information Theory|KL divergence]] as
+	* We use Schulman's approximation to estimate the [[F Divergence#KL-Divergence|KL Divergence]]
 	  $$
 	  \text{KL}(P\| Q) \approx \frac{Q(x)}{P(x)} - \log \frac{Q(x)}{P(x)} - 1
 	  $$

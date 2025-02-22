@@ -28,7 +28,8 @@ The purpose of this Library is to archive and share my Second Brain to others. T
 * [[Interesting People]]
 * [[Literature Index]]
 * [[Unfiled Thoughts]] 
-* [[Trivia]]
 * [[Words]]
 
 * [[The Antilibrary]] - contains unread or interesting material for the very far future.
+* [[Exploration Logs]] - contains material I am currently exploring. Mostly kept empty
+* [[Trivia]] - stock for notes that don't fit anywhere. 

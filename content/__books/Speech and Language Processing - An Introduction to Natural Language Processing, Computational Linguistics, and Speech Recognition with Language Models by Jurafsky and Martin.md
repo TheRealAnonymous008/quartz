@@ -1,0 +1,4 @@
+---
+aliases:
+  - Jurafsky and Martin
+---

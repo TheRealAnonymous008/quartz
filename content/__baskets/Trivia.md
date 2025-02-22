@@ -74,6 +74,15 @@
 
 * [Dreams are (theorized) as ways humans prevent overfitting](https://www.sciencedirect.com/science/article/pii/S2666389921000945)
 
+
+* Irrationality can sometimes be rational.
+	* Pure unconditional aggression and pure unconditional capitulation are destined to fail as strategies of social exchange in a society of multiple interaction and mutual dependence.
+	* Neither unqualified cooperation nor unqualified competition may be regarded as evolutionarily stable. Both may be trumped by invading or mutating counterstrategies
+	* Altruism, though undoubtedly an ingredient of basic group cohesion, is perfectly capable of arising not out of some higher-order differential such as the good of the species or even the good of the tribe, but out of a survival differential existing purely between individuals.
+
+* (*W. Somerset Maugham in "Of Human Bondage"* ): “Man performs actions because they are good for him, and when they are good for other people as well they are thought virtuous … It is for your private pleasure that you give twopence to a beggar as much as it is for my private pleasure that I drink another whiskey and soda. I, less of a humbug than you, neither applaud myself for my pleasure nor demand your admiration.”
+
+
 # Research Papers
 
 * [^Kimenko_2021] discusses limitations for generic learning algorithms for pursuing adversarial goals in competitive environments

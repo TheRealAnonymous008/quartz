@@ -13,40 +13,40 @@
   Consider a network with internal representation $H$. We may then write this internal representation with the weight matrix $W$ and the bias $U$ using the following equation, taking input $X$.
   $$
   \begin{equation} \begin{split}
-  H_{i,j} &=U_{i,j} +\sum_{k}\sum_lW_{i,j,k,l}X_{k,l} \\ 
-  &= U_{ij} + \sum_{a}\sum_{b}V_{i,j,a,b}{X_{i+a,j+b}}
+  H_{ij} &=U_{ij} +\sum_{k}\sum_lW_{ij,kl}X_{kl} \\ 
+  &= U_{ij} + \sum_{a}\sum_{b}V_{ij,ab}{X_{i+a,j+b}}
   \end{split}\end{equation}
   $$
-  Where $V_{i,j,a,b}=W_{i,j,i+a,j+b}$. 
+  Where $V_{ij,ab}=W_{ij+a,ij+b}$. 
   
-  Note that $X$ and $H$ are two dimensional.
+  Note that $X$ and $H$ are two dimensional since they correspond to images.
   
   Now, we may invoke translational equivariance to simplify the equation by removing the dependency of $U,V$ with $i,j$ to get for constant $u$:
   $$
-  H_{i,j}=u+\sum_{a}\sum_b V_{i,j}X_{i+a,j+b}
+  H_{ij}=u+\sum_{a}\sum_b V_{ij}X_{i+a,j+b}
   $$
   
-  By locality, as well we my set $V_{a,b}=0$ if $a>\Delta, b>\Delta$. for some appropriate $\Delta$
+  By locality, as well we my set $V_{ab}=0$ if $a>\Delta, b>\Delta$. for some appropriate $\Delta$
   $$
-  H_{i,j}=u+\sum_{a=-\Delta}^\Delta \sum_{b=-\Delta}^\Delta V_{i,j}X_{i+a,j+b}
+  H_{ij}=u+\sum_{a=-\Delta}^\Delta \sum_{b=-\Delta}^\Delta V_{ij}X_{i+a,j+b}
   $$
   
-  Effectively, this procedure has reduced the number of parameters we need to store, at the cost of having to assume our assumptions above. We refer to $V$ as the *convolutional kernel* (even though the operation above really does cross-correlation).
+  Effectively, this procedure has reduced the number of parameters we need to store, at the cost of having to assume our assumptions above. We refer to $V$ as the **convolutional kernel** (even though the operation above really does cross-correlation).
   
   The last concern of deep layers being able to capture global information can be achieved through interleaving non-linearities and convolutional layers.
 
 # Convolutional Layer
 * A **Convolutional Layer** is a layer which performs the cross correlation (a.k.a. convolution) operation between the input and a **convolution kernel** then adds a bias.
   
-  Let $H$ be the output of the convolutional layer
-  $X$ be the input of the convolutional layer, assumed to be appropriately sized.
+  Let $y$ be the output of the convolutional layer
+  $x$ be the input of the convolutional layer, assumed to be appropriately sized.
   $V$ be the convolution kernel of appropriate size
   $u$ be a scalar bias term.
   
   Then 
   
   $$
-  H = u + X\ast V
+  y = V\ast x + u
   $$
 * The kernel $V$ of a convolutional layer is a learnt parameter. That is, we update this kernel in the same way we update most parameters during training
 * Strictly speaking, *a convolutional layer does not perform any convolutions*. 

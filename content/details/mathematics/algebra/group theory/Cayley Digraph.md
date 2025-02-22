@@ -22,6 +22,17 @@
 
 * (*Godsil 3.1.2*) Cayley graphs are [[Vertex Transitive Graph|vertex transitive]]. 
 
+
+* (*Godsil 3.7.1; Godsil 3.7.2*) Let $G$ be a group and $C$ an inverse-closed subset of $G-\set{e}$. Then the [[Group Automorphism|automorphism group]] $\text{Aut}(\text{Cay}(G,C))$ contains a [[Regular Group|regular]] subgroup [[Group Isomorphism|isomorphic]] to $G$.  
+  
+  Conversely if a group $G$ acts regularly on the vertices of $X$, then $X$ is a Cayley graph for $G$ relative to some inverse closed subset of $G-\set{e}$. 
+	* *Proof*: The forward direction follows by considering the permutation $\lambda_g$. It can be shown that $\forall g\in G: \  \lambda_g \in\text{Aut}(\text{Cay}(G,C))$. The left regular permutations $\set{\lambda_g\mid g\in G}$ form a subgroup isomorphic to $G$.  
+	  
+	  The converse is shown as follows. Fix $u\in X$ and choose $v\in X$. Because $G$ is regular, it is transitive thus, there exists $g\in G$ such that $gu = v$. 
+	  
+	  Let $C_v=\set{g^nv\mid n\in \mathbb{Z}^+}$. These classes ([[Subgroup|formed via the generators of ]] $G$) determine subgraphs in the Cayley graph. Inverse closure is provided because $G$ is transitive. 
+
+
 * (*Godsil 3.7.3*) If $\theta$ is an [[Group Automorphism|automorphism]] of $G$, then  
   $$
   \text{Cay}(G,C)\cong \text{Cay}(G,\theta(C))
@@ -36,6 +47,26 @@
 * (*Godsil 3.8.2*) If $n$ is even and $n\ge 4$, then the directed Cayley graph corresponding to $\text{Sym}(n)$ is not [[Hamiltonian Graph|Hamiltonian]]. 
 	* *Proof*: If $n$ is even, the vertices can be partitioned into an even number of directed cycles, which means there are no Hamiltonian cycles. 
 
+* (*Godsil e3.9*) Let $G$ be an [[Abelian Group|Abelian group]] and $C$ an inverse closed subset of $G-\set{e}$. If $|C|\ge 3$ then $\text{Cay}(G,C)$ has girth of at most $4$.
+	* *Proof*:: Let $g_i\in C$ and $h\in G$.  A cycle of length $4$ can always be formed as follows assuming $|C|>3$
+	  $$
+	  \begin{split}
+	  h &\to& g_1h &\to& g_2 g_1 h&\to& g^{-1}_1 g_2g_1h &\to& g_2^{-1}g_1^{-1}g_2g_1 h \\
+	  h &\to& g_1h &\to& g_2g_1h&\to& g_2 h&\to& h
+	  \end{split}
+	  $$
+	  If $|C|=3$ then we have at least one element $g_1$ such that $g_1=g_1^{-1}$. The above cycle can still be formed by replacing $g_1^{-1}$ with $g_1$.
+
+* (*Godsil e3.10*) Let $C$ be an inverse-closed subset of $G-\set{e}$. If $G$ is Abelian and contains an element $g$ such that $\text{ord}(g)\ge 3$, then $|\text{Aut}(\text{Cay}(G,C))| \ge 2|G|$ 
+	* *Proof*: By (*Godsil 3.7.1*) $\text{Aut}(\text{Cay}(G,C))$ contains a regular subgroup $H\cong G$.   Let $\phi$ be the automorphism defined by $\phi(x)=x^{-1}$.  Clearly this preserves adjacency since $\phi(cx)= (cx)^{-1}= x^{-1}c^{-1} = c^{-1}x^{-1}=\phi(c)\phi(x)$ so it is a [[Graph Automorphism|graph automorphism]].  
+	  
+	  $\phi$ is non-trivial because $\phi(g)=g^{-1}\ne g$.  
+	  
+	  Also $\phi\notin H$. Otherwise  for any $h\in G$  
+	  $$
+	  \phi(x)=\lambda_h(x)\implies x^{-1}=hx\implies x^2 = h^{-1} \implies h=x^{-2}
+	  $$
+	  So it is always possible to find an element for which left multiplication does not map to the inverse. Alternatively $x^{-2}=k$ for all $x$ but this contradicts the existence of $g$. Therefore $\phi$ is not  a left multiplication and the subgroup formed by $\set{e,\phi}$ gives us our second subgroup. By Lagrange's Theorem, we get our bound.  
 # Links
 * [[Algebraic Graph Theory by Godsil and Royle]]
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

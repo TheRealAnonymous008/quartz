@@ -1,10 +1,12 @@
 * A **language model** is a type of model which aims to estimate the [[Random Variables and Probability Distributions|joint probability]] that a sequence exists in some distribution.
-* Language models are [[Time Series Analysis|autoregressive]]. It models prediction by decomposing the joint probability of a sequence as follows (using the Chain rule of Probability)
+* The modern approach for language models is  [[Time Series Analysis|autoregressive]] (also called **causal language model generation**). It models prediction by decomposing the joint probability of a sequence as follows (using the Chain rule of Probability)
   
   $$
   P(x_1,\dots,x_T)=P(x_1 ) \prod_{t=2}^TP(x_t \ | \ x_{t-1}, \dots, x_1)
   $$
   We may also simplify the above if we make use of the [[Markov Chain|Markov]] property.
+  
+  The goal is to then predict $x_t$ given the previous tokens in the sequence.  We refer to the previous tokens as the **context**. 
 
 # Pipeline
 * In general, the pipeline for language data is:
@@ -44,6 +46,18 @@
 		* This ignores the meaning of words.
 		* Long word sequences are likely to be less common
 
+
+* [[Recurrent Neural Network]]
+* [[Transformer Model]] - more on the transformer model 
+* [[Large Language Model]] - an expansion of LMs 
+
+# Techniques
+* One technique we can employ to reduce parameters is to use **weight tying**. Assume we have an embedding layer for our language model, we make the embedding layer share its parameters with the final layer of the language model.
+	* This not only reduces the parameters but also improves perplexity.
+	* This is based on the insight that for next token prediction, often the embedding matrix $E$ and the final layer (sometimes denoted $E^T$) have the same dimensions (up to transposition).
+
+* [C5W3LO4 Beam Search](https://www.youtube.com/watch?v=RLWuzLLSIgw) - beam search is an algorithm similar to BFS and DFS (but is not guaranteed to find maxima), wherein given beam length $B$, we select the top $B$ likely outputs at each step of the search. The goal is to find the likely $B$-length sentence using this search.
+* [C5W3LO4 Refining Beam Search](https://www.youtube.com/watch?v=gb__z7LlN_4) - use length normalization techniques to optimize beam search (maximize log likelihood, average based on sentence length).
 # Papers
 * On Natural Language Processing and Plan Recognition by Geib and Steedman (2007)
 
@@ -55,6 +69,5 @@
 
 * UnifiedSKG -- Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models by Xie et. al (Oct 18, 2022)
 # Links
-* [[Transformer Model]] - more on the transformer model 
-* [[Large Language Model]] - an expansion of LMs 
 * [[Metrics for Language Modeling]] 
+* [[Speech and Language Processing - An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models by Jurafsky and Martin]]

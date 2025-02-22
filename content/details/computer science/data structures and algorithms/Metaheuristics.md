@@ -90,6 +90,12 @@ return x*
 
 * [[Neuroevolution]] can be seen as a metaheuristic. 
 
+* [Screaming Insects Algorithm](https://www.youtube.com/watch?v=Yu7sF9rcVJY)- an algorithm that simulates [[Swarm Intelligence|swarm intelligence]]. An abstract description  is provided below 
+	* Agents maintain an internal representation of their current state. They also maintain counters corresponding to each search item.
+	* Agents have a private goal corresponding to a specific item in search space. However, they can also interact with other objectives within search space.
+	* Agents search the search space. If they land on a desired item within the search space, maintain a counter corresponding to the distance of that agent to this item.
+	* Agents shout the values of their counters plus the maximum distance they can be heard at. Agents also listen to the other agents.
+	* If the heard value is less than the counter, update that counter and proceed with searching in the direction of the shouting if that is in line with the agent's goal.
 
 # Links
 * [Metaheuristics](https://en.wikipedia.org/wiki/Table_of_metaheuristics)

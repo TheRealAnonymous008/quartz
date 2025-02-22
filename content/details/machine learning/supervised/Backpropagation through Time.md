@@ -1,3 +1,5 @@
+* **Backpropagation through time** is a method for training [[Recurrent Neural Network|RNNs]] by "unrolling" the network along its temporal dimension. 
+	* In practice, of course, we unroll up to what is feasible for our hardware.
 
 * Because of this training method, RNNs are susceptible to [[Pathologies of Deep Learning|Vanishing and Exploding gradients]].
 * RNNs are also more susceptible to local optima.

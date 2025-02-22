@@ -35,12 +35,14 @@
 * $\sigma$ - permutation
 * $\sigma^k$ - permutation applied $k$ times. (negative power means reversing the permutation)
 * $\mathcal{O}_{a,\sigma}$  - orbit of a set on the element $a$ under the permutation $\sigma$.
+* $\lambda_g$ - the permutation on the group such that $\lambda_g(x) = xg$.
+* $\rho_g$ - the permutation on the group such that $\rho_g(x)=gx$.
 ***
 * $V$ - Klein-4 group
 * $\text{GL}_n(\mathbb{R})$ - General Linear Group on $n$ dimensions
 * $\text{SL}_n(\mathbb{R})$ - Special Linear Group on $n$ dimensions.
 * $D_n$ - Dihedral Group of order $n$
-* $S_n$ - Symmetric Group of order $n$
+* $S_n, \text{Sym}(n)$ - Symmetric Group of order $n$
 * $\mathbb{Z}_n$ - Cyclic Group of order $n$
 * $A_n$ - Alternating group of order $n$
 * $N$ - generic normal group

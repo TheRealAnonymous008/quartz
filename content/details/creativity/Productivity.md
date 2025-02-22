@@ -8,6 +8,7 @@
 	* Gain more knowledge. 
 	* Be an expert in what you do.
 
+# Goals
 * Set **SMART** goals in line with your vision. 
 	* **Specific** - Target a particular area for improvement. The goal is clear and narrow. 
 	* **Measurable** - Quantify an indicator of progress.
@@ -21,9 +22,36 @@
 	* **Irrelevant** - It is not linked to what we value.
 	* **Delayed** - There is no time frame. 
 
+# Time
+* Consider **Time Blocking** -divide the  day into blocks of time with each block allocated to a specific task or group of tasks.
+	* Advantages:
+		* To-do list items become more time bounded.
+		* Similar items become clustered and work becomes more organized. 
+		* There is a clear structure to the day.
+	* The process
+		* Identify the tasks
+		* Assign specific periods for each task or group of tasks. Remember to account for breaks and leisure activities as well.
+		* Stick to the schedule. If a task doesn't get finished in its work block, move it to a future block rather than extending the current one.
+		* Review and refine the system.
+	* Some sister-variants
+		* *Time blocking* - each block is dedicated to one task.
+		* *Time batch* - each block is dedicated to one category of tasks to reduce [[Multiprogramming|context switches]]
+		* *Theming* - each day has a specific theme and each block contributes to that theme
+		* *Time boxing* - aim to do as much as you can within the block.
+	* Some pitfalls
+		* Underestimating the time needed for tasks.
+		* Being too rigid with the schedule and not adapting if things don't go as planned.
+		* Overscheduling leisure time
+		* Not prioritizing tasks.
+		* Not accounting for interruptions.
+	* Some tips
+		* Pad the schedule with buffer times. When starting, prefer to allocate too much rather than too little.
+		* The time block is  a guide not a strict plan.
+
 # Topics
 * [[Getting Things Done]]
 * [[The Cult of Done Manifesto]]
 * [[Stoicism]] 
 
 * [[Management]] - for productivity involving other people.
+* [Time blocking](https://www.todoist.com/productivity-methods/time-blocking)

@@ -9,7 +9,7 @@
   This extends the notion of the dual graph. We assert that the bijection exists rather than say any arbitrary cycle is the dual of any arbitrary cut-set
 # Cycle and Cut-set
 
-* The **cut-set rank** is the number of edges in a spanning forest of a graph $G$.  If $G$ is a graph with $n$ vertices and $k$ components, we have the cut-set rank as 
+* The **cut-set rank** is the number of edges in a spanning forest of a graph $G$.  If $G$ is a graph with $n$ vertices and $k$ components, we have the [[Edge Connectivity|cut-set]] rank as 
   
   $$
   \xi(G)=n-k

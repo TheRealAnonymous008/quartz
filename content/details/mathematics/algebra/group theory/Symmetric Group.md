@@ -11,6 +11,7 @@
 	  
 	  The map $\mu: G\to S_G$ defined by $\mu(x) = \rho_{x^{-1}}$ is the **right regular representation** of $G$.
 	* We can think of the left and right regular representations as encoding [[Group Action|group actions]] and defining a bijection from a group element to its corresponding group action.
+	* The set of left regular representations and right regular representations are equal if and only if $G$ is [[Abelian Group|Abelian]].
 
 * Let $A$ be a set. Then $H\le S_A$ is **[[Transitive Group|transitive]] on** $A$ if 
   $$
@@ -40,7 +41,7 @@
 	  
 	* We can state this using [[Matroid Theory]]. Consider the matroid on the underlying set $\text{Sym}(n)$. $\mathcal{T}$ can be treated as a [[Matroid Definitions and Constructs|basis]]. Sets of transpositions with fewer than $|\mathcal{T}|$ elements as independent sets.  
 	* $\text{Cay}(\text{Sym}(n), \mathcal{T})$ has no triangles. Otherwise, this would imply that $h,g,hg\in\mathcal{T}$ which is impossible since the product of transpositions is not a  transposition. 
-	* (*Godsil e3.5*) $\text{Cay}(\text{Sym},\mathcal{T})$ is bipartite. 
+	* (*Godsil e3.5*) $\text{Cay}(\text{Sym}(n),\mathcal{T})$ is bipartite. 
 		* *Proof*: The bipartition is between even and odd permutations. The parity only changes by multiplying with a single transposition by (*Fraleigh 9.15*).  Thus, each $\tau\in\mathcal T$ joins an even and an odd permutation.
 
 * (*Godsil 3.10.3*) Let $\mathcal{T}$ be a set of transpositions from $\text{Sym}(n)$ and let $g,h\in \mathcal T$. Suppose the graph of $\mathcal T$ contains no triangles. If $gh\ne hg$ then $g$ and $h$ have exactly one common neighbor in $\text{Cay}(\text{Sym}(n),\mathcal{T})$  and exactly two common neighbors otherwise
@@ -54,11 +55,13 @@
   $$
   \text{Aut}(\text{Cay}(\text{Sym}(n), \mathcal{T})) \cong \text{Sym}(n)
   $$
-	* *Proof*:  Since $\mathcal{T}$ is a minimal generating set, by (*Godsil 3.10.2*), the underlying graph $T$ is a tree. It contains no cycles.  The tree $T$ is determined by its [[Line Graph|line graph]] constructed using the transpositions within $\mathcal T$ that have overlapping support. 
+	* *Proof*:  Since $\mathcal{T}$ is a minimal generating set, by (*Godsil 3.10.2*), the underlying graph $T$ is a tree. It contains no cycles.  By (*Godsil 3.10.3*), we can determine which pairs of transpositions in $\mathcal{T}$ have overlapping support (that is, they are incident). Thus, we can construct the [[Line Graph|line graph]] $L(T)$ using $\text{Cay}(\text{Sym}(n), \mathcal T)$. Also, $L(T)$ determines $T$. 
 	  
-	  Any $g\in \text{Aut}(\text{Cay}(\text{Sym}(n),\mathcal T))_e$ induces a permutation of $\mathcal{T}$. The restriction of $g$ to $\mathcal{T}$ is an automorphism of $\mathcal{T}$. Thus $g=e$. 
+	  Any $g\in \text{Aut}(\text{Cay}(\text{Sym}(n),\mathcal T))_e$ induces a permutation of $\mathcal{T}$. The restriction of $g$ to $\mathcal{T}$ is an automorphism of $\mathcal{T}$. Thus $g=e$ since $T$ is asymmetric. That is $\set{e} = \text{Aut}(\text{Cay}(\text{Sym}(n),\mathcal T))_e$
 	  
-	  Now if $g$ fixes at least one vertex. We show that the automorphism group is [[Regular Group|regular]] by showing that $g=e$ .Argue by contradiction and suppose not. Since $\text{Cay}(\text{Sym}(n),\mathcal T)$ is connected, there is an edge incident to one fixed point $v$ and one non-fixed point $w$.   
+	  Now if $g$ fixes at least one vertex. We show that the automorphism group is [[Regular Group|regular]] by showing that $g=e$ .Argue by contradiction and suppose not. Since $\text{Cay}(\text{Sym}(n),\mathcal T)$ is connected, there is an edge incident to one fixed point $v$ and one non-fixed point $w$.   Thus $\lambda_v g\lambda_v^{-1}$ fixes $e$ and moves the adjacent vertex $wv^{-1}$ which is impossible since $\lambda_v g\lambda_v^{-1}\notin \text{Aut}(\text{Cay}(\text{Sym}(n),\mathcal T))_e$. 
+	  
+	  Since the automorphism group is regular (*Godsil 3.7.1; Godsil 3.7.2*) implies $\text{Aut}(\text{Cay}(\text{Sym}(n), \mathcal{T}))$ contains a subgroup. isomorphic to $\text{Sym}(n)$.  Since the automorphism group is regular, the only such subgroup is the automorphism group itself.
 
 
 

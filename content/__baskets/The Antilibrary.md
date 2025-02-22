@@ -89,17 +89,16 @@
 * [Birch and Swinnerton-Dyver Conjecture](https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture) 
 
 * Vexillology and Heraldry 
-* Sewing / Tailoring
-* [F Divergence](https://en.wikipedia.org/wiki/F-divergence)
-	* All $f$-divergences with differentiable $f$ look like KL divergence up to second order when $q$ close to $p$. Specifically
-	  $$
-	  D_f(P_0, p_\theta) = \frac{f''(1)}{2}\theta^T F\theta + O(\theta^3)
-	  $$
-	  Where $F$ is the Fisher Information matrix for $p_\theta$ calculated at $p_\theta = p_0$.
+* Sewing / Tailoring / Cosplay
 * [Bergman Divergence](https://en.wikipedia.org/wiki/Bregman_divergence) and in general Information Geometry
 * [Haruhi Theorem and Superpermutations](https://en.wikipedia.org/wiki/Superpermutation)
 * Cattell’s 16 primary personality factors
 * [Generative Flow Networks](https://arxiv.org/abs/2111.09266) 
+* [JEPA](https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/)
+* [[Fuzzy Computation]] and Fuzzy Logic
+* [Mining Large Datasets](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) 
+
+* [Gwern](https://gwern.net/me)
 
 # Bookstops
 * [[Rigid Body Simulation]] - Nonpenetration constraints
@@ -135,7 +134,7 @@
 * [[Geometric Deep Learning]] - stopped at the intro portion of the paper. Need to review Group Theory first.
 * Forecasting -- specifically classical techniques for  [[Time Series Analysis]].
 * [[Abnormal Psychology]]. Specifically Mental Illnesses.
-
+* [[Linear Models]]
 
 
 # Utilities

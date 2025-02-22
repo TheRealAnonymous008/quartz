@@ -27,6 +27,7 @@
 * [[Measure Theory]] - a more formal treatment of probabilities
 * [[Markov Chain]]
 * [[Probabilistic Graphical Models]]
+* [[Information Theory]]
 
 # Links
 * [[Probability Theory -- Notation Guide]]

@@ -26,14 +26,15 @@
 * $G\subseteq H$ - $G$ is a subgraph of $H$.
 * $G\subset H$ - $G$ is a proper subgraph of $H$.
 * $G[S]$ - induced subgraph on the set $S$
-* $\overline{G}$ - complement of the graph.
+* $\overline{G}, G^c$ - complement of the graph.
 * $G\cup H$ - union of two graphs
 * $G \cap H$ - intersection of two graphs.
 * $\partial_e S$ - edge boundary of $S$
-* $\partial S$ - outer boundary of $S$.
+* $\partial S, \phi(v), \phi(S)$  - outer boundary of $S$ or vertex $x$.
 * $\partial G[S]$ - induced subgraph associated with $\partial S$. 
 * $\text{cl}(G[S])$ - closure of $G[S]$  
 * $\text{cl}(S)$ - set of vertices in the closure of $G[S]$. 
+* $\overline{S}$ - the complement of $\text{cl}(S)$ in $G$. 
 * $G\oplus H$ - sum of graphs. 
 * $G^o$ - oriented graph. Specifically $G$ is strongly oriented (or such an orientation is defined)
 * $G\square H$ - the Cartesian product of $G$ and $H$ .  
@@ -64,7 +65,6 @@
 * $\Delta(G), \Delta$ - maximum degree of $G$.
 * $\deg^-(v)$ - indegree of vertex $v$
 * $\deg^+(v)$ - outdegree of vertex $v$
-* $\phi(v), \phi(A)$ - neighborhood of vertex $v$ or vertex set $A$.
 * $D(G), D$ - density of $G$.
 * $\omega(G), \omega$ - number of components of $G$
 * $\kappa(G), \kappa$ - vertex connectivity of $G$.

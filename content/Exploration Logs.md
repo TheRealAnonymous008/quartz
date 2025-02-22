@@ -1,8 +1,18 @@
+* http://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html
 
 
-* [^Li_2022] ***UNFINISHED**
 
-[^Li_2022]: Li (2022) [The impact of moving expenses on social segregation: a simulation with RL and ABM](https://arxiv.org/abs/2211.12475)
+* [^miyake_2024] shows the use of MARL for analyzing and predicting the evolution of social [[Network Science|networks]].  Each node represents a rational agent in an RL setting. 
+	* The goal is to design explainable reward and policy functions. Each agent's policy is to add or remove edges or change their attributes. 
+	* The NetEvolve system consists of three phases:
+		* Learn the reward function for each node. 
+			* The reward function consists of a linear combination of interpretable features and represents the desirability of the network to each node. 
+			* The weights used in the reward function are learnt. 
+			* *Optimization is done by assuming that the input time series evolution of the network is optimized*. 
+		* Learn the policy for each node. The policy expresses the tendency to change attributes and edges. 
+		* Predict future networks based on the multi-agent simulation using learned policies.
+
+[^Miyake_2024]: Miyake et al. (2024) [NetEvolve: Social Network Forecasting using Multi-Agent Reinforcement Learning with Interpretable Features](https://dl.acm.org/doi/pdf/10.1145/3589334.3647982)
 
 
 * [^Weil_2024]  introduces a decentralized approach to MARL using a [[Graph Neural Network|graph]]-based message passing algorithm to pass agent states to their neighbors.  
@@ -17,8 +27,6 @@
 * [[Numerical Methods]] 
 	* ODEs
 	* PDEs
-* [[Fuzzy Computation]] and Fuzzy Logic
-* [Screaming Insects Algorithm](https://www.youtube.com/watch?v=Yu7sF9rcVJY)
 * [Look more into Sparse Autoencoder](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
 * [Proportional Navigation](https://en.wikipedia.org/wiki/Proportional_navigation)
 

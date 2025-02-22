@@ -58,7 +58,7 @@
   
   The first term in the above clips the gradient and adds a baseline $V_w$  to reduce variance.  The second term makes a correction to achieve an unbiased estimation.
 
-* Finally, it makes use of a modified version of [[Trust Region Policies#TRPO|TRPO]] . Instead of using the KL divergence, we maintain a running average of past policies and force the updated policy not to deviate from this average to reduce the variance of policy updates. 
+* Finally, it makes use of a modified version of [[Trust Region Policies#TRPO|TRPO]] . Instead of using the [[F Divergence#KL-Divergence|KL Divergence]], we maintain a running average of past policies and force the updated policy not to deviate from this average to reduce the variance of policy updates. 
 
 * For continuous actor-critic, we make modifications to the estimate $V_\pi$ and $Q_\pi$ off policy. We compute a stochastic estimate $\tilde{Q_\theta}$  and a deterministic estimate $V_\theta$ given by 
   

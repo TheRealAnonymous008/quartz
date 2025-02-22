@@ -82,7 +82,7 @@
 	* *Entropy maximization* to enable stability and exploration.
 
 *  **Soft Policy Evaluation** (*Haarnoja Lem. 1*) - Let $Q^0:\mathcal{S}\times \mathcal{A} \to \mathbb{R}$ where $|\mathcal{A}|<\infty$. Let $Q^{k+1}=\mathcal{T}^\pi$. The sequence $Q^k$ converges to the soft $Q$ value of $\pi$ as $k\to \infty$. In other words, we can compute the soft $Q$ value using repeated applications of the soft Bellman operator.  
-* We restrict the choice of policy $\pi$ to be in some set of policies $\Pi$. TO that end, we use the Kullback-Liebler divergence. Thus, for each improvement step, we update according to 
+* We restrict the choice of policy $\pi$ to be in some set of policies $\Pi$. TO that end, we use the [[F Divergence#KL-Divergence|KL Divergence]]. Thus, for each improvement step, we update according to 
   
   $$
   \pi_\text{new} = \underset{\pi'\in \Pi}{\text{argmin}} \ \text{KL}\left(\pi(\cdot \mid s_t) \ \bigg{|}\bigg{|} \   \frac{\exp (Q^{\pi_\text{old}} (s_t,\cdot))}{Z^{\pi_\text{old}}(s_t)} \right)

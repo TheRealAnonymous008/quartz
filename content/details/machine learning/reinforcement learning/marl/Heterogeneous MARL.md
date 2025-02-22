@@ -70,7 +70,7 @@
 	
 	* In performing the sequential update, we take into account the previous agent updates.
 	* (*[^Zhong_2023] 7*) The Multi-Agent Policy Iteration with Monotonic Improvement Guarantee monotonically improves. In fact, (*Zhong 8*) The policy converges to the Nash Equilibrium.
-		* The algorithm is not practical however since it (1) assumes the use of the full state space and action space and (2) requires the computation of the [[Information Theory|KL Divergence]]. 
+		* The algorithm is not practical however since it (1) assumes the use of the full state space and action space and (2) requires the computation of the [[F Divergence#KL-Divergence|KL Divergence]]. 
 	
 	
 	* The Sequential HARL algorithm can be made more practical using [[Trust Region Policies|TRPO and PPO]] versions as shown below

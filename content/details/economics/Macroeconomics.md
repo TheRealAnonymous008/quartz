@@ -9,6 +9,8 @@
 * [[Trade]]
 * [[Macroeconomic Policy]]
 * [[Macroeconomics at the International Level]]
+
+* [[Computational Macroeconomics]]
 # Links 
 * [[Game Theory]] 
 * [[Principles of Economics by Shapiro, MacDonald and Greenlaw]]

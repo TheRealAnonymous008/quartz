@@ -21,6 +21,7 @@
 
 * [Penguin, Depressed](https://www.reddit.com/r/todayilearned/comments/1tjusn/til_that_penguins_when_depressed_or_had_enough/?rdt=38134). When sad, penguins will just wander on their own willingly -- as if starving themselves.
 
+* [Pine Processionaries](https://en.wikipedia.org/wiki/Pine_processionary#) - caterpillars which form lines or processions when migrating from their nest.
 
 # Links 
 * [zefrank](https://www.youtube.com/@zefrank) - has a fantastic series of videos about specific animals delivered in both educational and entertaining fashion. 

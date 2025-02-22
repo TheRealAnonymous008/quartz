@@ -5,16 +5,14 @@
 	* If $G$ is regular on $X$, then $|G|=|X|$. 
 	* The group $G$ acts on itself regularly. 
 
-* (*Godsil 3.7.1; Godsil 3.7.2*) Let $G$ be a group and $C$ an inverse-closed subset of $G-\set{e}$. Then the [[Group Automorphism|automorphism group]] $\text{Aut}(X(G,C))$ contains a regular subgroup [[Group Isomorphism|isomorphic]] to $G$.  
-  
-  Conversely if a group $G$ acts regularly on the vertices of $X$, then $X$ is a [[Cayley Digraph|Cayley graph]] for $G$ relative to some inverse closed subset of $G-\set{e}$. 
-	* *Proof*: The forward direction follows because the Cayley graph is [[Vertex Transitive Graph|vertex transitive]].
+* (*Godsil e3.8*) A transitive [[Abelian Group|Abelian]] permutation group is regular.
+	* *Proof*: Let $G$ be a transitive Abelian permutation group. We show that $G$ is semi-regular. Let $x\in X$ be fixed by $g$. By transitivity, there exists $h\in G$ such that for any $y$, $hx=y$.  Since $G$ is Abelian
+	  $$
+	  gy = gh x = hgx = hx = y 
+	  $$
+	  Thus  $\forall y, gy = y$ which means $g=e$. Therefore, $G$ is semi-regular and in combination with transitivity, regular. 
+	   
 	  
-	  The converse is shown as follows. Fix $u\in X$ and choose $v\in X$. Because $G$ is regular, it is transitive thus, there exists $g\in G$ such that $gu = v$. 
-	  
-	  Let $C_v=\set{g^nv\mid n\in \mathbb{Z}^+}$. These classes (the [[Subgroup|formed via the generators of ]]) $G$ determine subgraphs in the Cayley graph. Inverse closure is provided because $G$ is transitive. 
-
-
 # Links
 * [[Algebraic Graph Theory by Godsil and Royle]]
 

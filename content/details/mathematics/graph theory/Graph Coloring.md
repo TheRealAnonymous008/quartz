@@ -109,7 +109,7 @@
 	* *Proof*:   Argue by contradiction. If $\deg v < k-1$, then $v$ has at most $k-2$ neighbors, and the induced subgraph is $k-1$ colorable. The Pigeonhole Principle applies and we find that we can replace the color of $v$ and we have the original graph as $k-1$ colorable. 
 
 * (*Wilson e17.11.3b*) Let $G$ be a $k$-critical graph. Then $G$ does not contain cut vertices. A special case of *Wilson e17.11.3b*.  
-	* *Proof*:  Let $G-v$ consist of components by virtue of $v$ beng a cut-set. Now, $G-v$ is $k-1$ colorable. Any component combined with $v$ (and the edges to $v$) $C_i+v$ is $k-1$ colorable. Taking the union of the components gives us a $k-1$ coloring.
+	* *Proof*:  Let $G-v$ consist of components by virtue of $v$ being a [[Vertex Connectivity|cut-vertex]]. Now, $G-v$ is $k-1$ colorable. Any component combined with $v$ (and the edges to $v$) $C_i+v$ is $k-1$ colorable. Taking the union of the components gives us a $k-1$ coloring.
 
 * (*Wilson e17.11z*) Let $G$ be a $k$-critical graph. Any vertex cut of $G$ cannot be in a clique. 
 	* This follows from *Wilson e17.11.3b* except applying the argument to multiple vertices instead.

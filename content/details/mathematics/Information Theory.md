@@ -15,30 +15,6 @@
   $$
 	* It is a measure of the average number of bits needed to identify an event drawn from the set if a coding scheme used for the set is optimized for an estimated probability distribution $q$ rather than the true distribution $p$.
 
-* The **Kullback-Leibler Divergence** is defined as
-  $$
-  \text{KL}(p\mid\mid q)=\sum_{x}p(x)\log\frac{p(x)}{q(x)}
-  $$
-	* It measures the coding inefficiency from using a model $q$ to compress the data, when the true distribution is $p$. 
-	* It also measures the dissimilarity between $p$ and $q$
-	* It can also be formulated as: 
-	  $$
-	  \text{KL}(p \ \| \ q)=H(p,q)-H(p)
-	  $$
-	  Formulated this way, the KL divergence is the average number of extra bits needed to encode the data due to the fact we used distribution $q$ rather than the true distribution $p$.
-		* This formulation informally motivates the following inequality 
-		  $$
-		  \text{KL}(p\mid\mid q) \ge 0, \ \ \  \ \ \text{KL}(p\mid\mid q)=0\iff p=q
-		  $$
-	* The KL-divergence can be [estimated](http://joschu.net/blog/kl-approx.html) as follows. Assume we have access to sample points $x$ but we cannot analytically compute the sum. Let $r(x)=p(x)/q(x)$. Then 
-	  $$
-	  \begin{split}
-	  \text{KL}(p \ \| \ q) &= \mathbb{E}_{x\sim q} \left[r(x)\log r(x) - r(x) - 1\right] \\ 
-	  
-	  \text{KL}(q \ \| \ p) &= \mathbb{E}_{x\sim q} \left[r(x) - 1 - \log r(x)\right] \\ 
-	  \end{split}
-	  $$
-
 * The **conditional entropy** is defined as 
   $$
   H(Y\mid X)=\sum_{x}p(x) \ H(Y|X=x)
@@ -55,6 +31,8 @@
 	* It measures the discrepancy between these occurring together compared to what would be expected by chance.
 	* It is also the amount we learn from updating a [[Bayesian Statistics|prior]] into a posterior.
 
+# Topics
+* [[F Divergence]] 
 * [[Mutual Information]]
 
 # Miscellaneous

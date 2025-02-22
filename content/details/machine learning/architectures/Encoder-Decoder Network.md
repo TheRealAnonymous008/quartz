@@ -1,9 +1,13 @@
-# RNN Encoder-Decoder
-* An **RNN Encoder-Decoder** is an [[Recurrent Neural Network]] architecture which comprises of two units, both are RNNs.
+* An **Encoder-Decoder** is a neural network architecture which comprises of two units.
 	* An **encoder** takes a variable length sequence as input and encodes it to some hidden state of fixed length
 	* A **decoder** which takes the hidden state from the encoder and the leftwards context of the target sequence, and predicts the subsequent token in the target sequence. 
+* We may think of the roles of the encoder-decoder as follows:
+	* The encoder *builds a representation of the source text*. 
+	* The decoder *uses the context from the representation to generate a target text*. 
 
-* At training time, the decoder is conditioned on the preceding tokens on the original sequence. However, at test time, we condition the decoder on the tokens already predicted. This may be achieved using [[Backpropagation through Time#Teacher Forcing|teacher forcing]].
+* *Encoder-Decoders are useful when the input sequence and output sequence can have different lengths*. 
+
+* During inference, we condition the decoder on the tokens already predicted. 
 
 ![[Encoder-Decoder RNN.png|300]]
 <figcaption> Encoder-Decoder RNN. Image taken from Zhang et al. </figcaption>
@@ -48,11 +52,17 @@
   
   In practice, we may continue generating entries using the decoder simply by feeding the shifted sequence to the model again.
 
-* Since we use softmax for the decoder, we use the cross entropy [[Loss Function]].  
+# Training
+* Since we use softmax for the decoder, we use the cross entropy [[Loss Function]].   *Training is done end to end*.
 * We perform an additional step during training and mask irrelevant entries with $0$ so that they do not affect the loss (at the current time step). The masking is necessary since we also need to pad the sequence. 
+* During training, we add a **sentence separation marker** as follows
+```
+<source text>  <SEP> <target text> 
+```
+* At training time, the decoder is conditioned on the preceding tokens on the original sequence. This may be achieved using [[Backpropagation through Time#Teacher Forcing|teacher forcing]].
 
-# Transformers
-* See [[Transformer Model]]. Transformers have the advantage that their latent space representation can be of variable dimension
+# Misc Details
+* The models for the encoder and decoder can be anything. But common picks for both are either a [[Recurrent Neural Network|RNN]] or  a [[Transformer Model|transformer]].
 
 # Links
 * [[Dive into Deep Learning by Zhang, Lipton, Li and Smola]]

@@ -7,7 +7,7 @@
 * A **Complete Matching** from $V_1$ to $V_2$ in a [[Bipartite Graph|bipartite graph]] with partitions $V_1$ and $V_2$ is a injection between the vertices in $V_1$ and a subset of vertices in $V_2$ such that corresponding vertices are joined.
 
 # Hall's Marriage Theorem
-* Let  $G$ be a bipartite graph with partitions $V_1$ and $V_2$. For each subset $A\subseteq V_1$, let $\phi(A)$ be the neighborhood of $A$.
+* Let  $G$ be a bipartite graph with partitions $V_1$ and $V_2$. For each subset $A\subseteq V_1$, let $\partial A$ be the neighborhood of $A$.
   
   Then a complete matching from $V_1$
   to $V_2$ exists if and only if 
@@ -113,15 +113,6 @@
   So there must be a complete matching that contains the vertices of $C_X$ and $C_Y$ (i.e., $C$). This is only possible when $\mu(G)\ge \tau(G)$ (i.e., the matching contains all the vertices in the cover, plus possibly extra.).
   
   Since $\mu(G)\le \tau(G)$ and $\mu(G)\ge \tau(G)$, the theorem is proven.
-
-# Menger's Theorem 
-* Can be thought of as a special case of the [[Flow Network|Max-Flow Min-Cut]] Theorem. 
-	* *Intuition*: Consider a weighted graph. For each edge with weight $w$, incident to $u,v$ delete it and create $w$ new edges.  Edge independent / Vertex independent paths now correspond flows in this flow network, while Edge / Vertex cuts now correspond to cuts in the flow network. 
-* (*Wilson 28.1*) **Edge Version** - the maximum number of edge-independent paths connecting two distinct vertices $v$ and $w$ of a connected graph is equal to the minimum number of edges in a $v,w$-edge cut.
-* (*Wilson 28.1*) **Vertex Version** - the maximum number of vertex disjoint paths connected two distinct vertices $v$ and $w$ of a connected graph is equal to the minimum number of edges in a $v,w$-vertex cut.
-* (*Wilson 28.6*) **Menger's Theorem implies Hall's Theorem**
-* (*Wilson 28.3*) - A graph is $k$-connected if and only if any two distinct vertices of $G$ are connected by at least $k$-edge disjoint paths 
-* (*Wilson 28.4*) - A graph is $k+1$-connected if and only if any two distinct vertices of $G$ are connected by at least $k$-vertex disjoint paths 
 
 # Maximum Matching
 * A matching is a **Maximum Matching** if it contains as many edges as possible. 

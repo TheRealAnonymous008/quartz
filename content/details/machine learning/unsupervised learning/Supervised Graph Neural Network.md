@@ -40,7 +40,7 @@
 * The "Convolution" comes from [[Spectral Convolution|Spectral Convolutions]].
 
 ## Graph Attention Network
-* Takes inspiration from [[Transformer Model|The Attention Mechanism]]. The **Graph Attention Network (GAT)** makes use of the following layers.
+* Takes inspiration from [[Attention Mechanism|The Attention Mechanism]]. The **Graph Attention Network (GAT)** makes use of the following layers.
 * The graph attention layer defines how new node representations attend to old node representations. 
   
   We use the shared attention mechanism $a:\mathbb{R}^{F'}\times \mathbb{R}^{F'} \to \mathbb{R}$ to derive

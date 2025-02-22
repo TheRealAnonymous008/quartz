@@ -16,7 +16,7 @@
 		  Let $C=\set{v_1,\dots, v_r}$ be a cycle. The restriction $X[C]$ on this cycle is clearly self-complementary based on how we defined $g$.  
 
 * (*Godsil e2.13*) Let $X$ be a graph such that $\text{Aut}(X)$ acts [[Vertex Transitive Graph|transitively]] on $V(X)$ and $B$ be a [[Primitive Permutation|block of imprimitivity]] for $\text{Aut}(X)$, then $X[B]$ is regular. 
-	* *Proof* To show $X[B]$ is regular, note that $g\in \text{Aut}(X)$ is an automorphism acting transitively on $B$. Because $B$ is a block of imprimitivity, either $gB=B$ or $B\cap gB = \emptyset$. In the first case If $(x,y)\in E(X[B])$ then so is $(gx,gy)\in E(X[B])$.  In the second, if $(x,y)\in E(X[B])$ then $(gx,gy)\notin E(X[B])$.  Importantly, this means that in either case the degree is preserved in the mapping since we do not connect to vertices outside of the block's image. 
+	* *Proof* To show $X[B]$ is [[Regular Graph|regular]], note that $g\in \text{Aut}(X)$ is an automorphism acting transitively on $B$. Because $B$ is a block of imprimitivity, either $gB=B$ or $B\cap gB = \emptyset$. In the first case If $(x,y)\in E(X[B])$ then so is $(gx,gy)\in E(X[B])$.  In the second, if $(x,y)\in E(X[B])$ then $(gx,gy)\notin E(X[B])$.  Importantly, this means that in either case the degree is preserved in the mapping since we do not connect to vertices outside of the block's image. 
 	  
 	  Because it is always possible to find $h$ such that $x'=hx$, we can map edges with $x$ as one end point to edges with $x'$ as one end point (i.e., $(x,y)\mapsto  (x',y')$). They share the same degree, and because they were arbitrarily chosen, all vertices of $X[B]$ share the same degree. Hence $X[B]$ is regular.  
 

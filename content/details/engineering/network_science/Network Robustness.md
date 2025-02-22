@@ -1,6 +1,6 @@
 * The breakdown of a complex [[Fundamental Constructs of Network Science|network]] is not gradual. Removing a small number of nodes only has a limited impact on integrity, but once a fraction of removed nodes reaches a critical threshold, the network abruptly breaks into disconnected components. 
 	* *Random node failures induce a phase transition* from a [[Graph Connectivity|connected]] to disconnected network. 
-	* [[Percolation Theory]] is applicable mostly for random and regular networks 
+	* [[Percolation Theory]] is applicable mostly for random and [[Regular Graph|regular]] networks 
 
 # Random Networks 
 * Let $f$ be the fraction of nodes that were removed in an inverse percolation process. 

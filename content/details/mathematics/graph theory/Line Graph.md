@@ -10,7 +10,7 @@
 	* $L(K_n) = K_{1,n}$
 	* $L(P_n) = P_{n-1}$.
 	* $L(C_n)=C_n$. 
-	* The only graphs where $L(G)\cong G$ are the $2$-regular graphs.
+	* The only graphs where $L(G)\cong G$ are the $2$-[[Regular Graph|regular]] graphs.
 		* *Proof*: Let $L(G)\cong G$. We have 
 		  $$
 		  \begin{split}

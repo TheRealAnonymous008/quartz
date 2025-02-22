@@ -1,6 +1,6 @@
 # Components
 * A **component** of a graph is a maximally connected subgraph of the particular graph. That is, we cannot add any more vertices and edges to the subgraph. The number of components is denoted $\omega(G)$
-	* (*Component-Edge Inequality*, *Wilson 5.2*) - Let $G$ be a simple graph with $n$vertices. If $G$ has $k$ components, then the number of edges $m$ satisfies:
+	* (*Component-Edge Inequality*, *Wilson 5.2*) - Let $G$ be a simple graph with $n$ vertices. If $G$ has $k$ components, then the number of edges $m$ satisfies:
 	  $$
 	  n - k \le m \le \frac{(n-k)(n-k+1)}{2}
 	  $$
@@ -32,41 +32,61 @@
     $$
     \forall x,y\in S, xy \notin E(G)
     $$
-* A **neighborhood** of a vertex $x$ is the set of all vertices that are adjacent to $x$. This is denoted as $\phi(x)$. 
+* Let $G=(V,E)$ and $S\subseteq V(G)$. The induced subgraph denoted $\partial G[S]$ is defined as 
+  $$
+  \begin{split}
+  \partial S &= \set{v_i \in V \mid v_i \notin S \wedge \exists v_j \in S \text{ s.t } v_iv_j \in E} \\
+  \partial G[S] &= (\partial S, \set{v_iv_j \in E \mid v_i, v_j \in \partial S})
+  \end{split}
+  $$
+  That is, it is the induced subgraph whose vertices are adjacent to some vertex in $S$ but are not in $S$.  We call $\partial S$ the **(outer) boundary** of $S$ or **neighborhood** of $S$. If $S=\set{x}$ then we simply denote the neighborhood by $\phi(x)$
   
-  We can generalize it to a set of vertices $A$. The neighborhood of $A$, denoted $\phi(A)$ is the set of all vertices that are adjacent to a vertex in $A$.
+  We can similarly define the **edge boundary** of the induced subgraph denoted $\partial_eS$ defined as
+  $$\partial_e S = \set{xy\in E \mid |S\cap \set{x,y}| = 1}
+  $$
+  That is, it is the set of edges where one endpoint is in $S$ and the other is not. 
+	* (*Godsil 3.3.1*) Let $A,B\subseteq V(G)$, then
+	  $$
+	  |\partial_e(A\cup B) | + |\partial_e(A\cap B) | \le |\partial_eA| + |\partial_eB|
+	  $$
+		* *Proof*:  Let $E(A,B)$ be the set of edges $xy$ such that $x\in A$ and $y\in B$.  Let us find the quantity $E(A-B,B-A)$. 
+		  
+		  For each term in the inequality, we can express them as follows. The last term in the fourth equation below is negative to account for double counting.
+		  $$
+		  \begin{split}
+		  |\partial_e A| &= E(A\cap B,B-A) + E(A-B,B-A) + E(A, \overline A -B) \\
+		  |\partial_eB| &= E(A\cap B, A-B) + E(B-A,A-B) + E(B,\overline B-A) \\
+		  |\partial_e(A\cap B)| &= E(A\cap B, A-B)+ E(A\cap B, B-A) + E(A\cap B, \overline{A\cup B}) \\
+		  |\partial_e (A\cup B) | &= E(A,\overline A - B) + E(B,\overline B - A) - E(A\cap B, \overline {A\cup B})
+		  \end{split}
+		  $$
+		  And so we have
+		  $$
+		  \begin{split}
+		  0 & \le E(A-B,B-A) + E(B-A,A-B) \\ &=2E(A-B,B-A) \\ &= |\partial_e A|+|\partial_e B| - |\partial_e(A\cap B)| - |\partial_e (A\cup B)|
+		  \end{split}
+		  $$
 
-# Connectivity
-### Vertices
-* A **separating set** also called a **vertex cut**, in a connected graph $G$ is a set of vertices whose deletion disconnects $G$.
-	* In general it is the set of vertices that increase the number of components by $1$.
-* A **cut vertex** is a separating set with only one element.
+* The **closure** of $G[S]$ is defined as the union between $G[S]$ and its boundary
+  $$
+  \text{cl} (G[S]) = G[S] \cup \partial G[S]
+  $$
+  Similarly, the closure of $S$ can be defined as
+  $$
+  \text{cl}(S) = S\cup \partial S
+  $$
+  For convenience, we will use the notation
+  $$
+  \overline{S} = \overline{\text{cl}(S)}
+  $$
 
-* If $G$ is connected, its **vertex connectivity**, denoted $\kappa(G)$ is the size of the smallest separating set in $G$.
-  
-  It is the minimum number of vertices we need to delete to disconnect $G$.
-  
-  If $\kappa(G)=n$, we say the graph is **$n$-connected**
 
-### Edges
-*  **Disconnecting set** in a connected graph $G$ is a set of edges whose removal disconnects $G$. 
-	* In general, a disconnecting set increases the number of components.
-* A **cut-set** is a disconnecting set such that no proper subset of it is a disconnecting set.
-	* (*Wilson e5.11b*) If two distinct cut-sets of $G$ contain an edge $e$, then $G$ has a cut-set that does not contain $e$  [^2]
+# Topics
+* [[Vertex Connectivity]]
+* [[Edge Connectivity]]
 
-[^2]: Each cut set partitions the graph into $S_1,T_1$ and $S_2,T_2$ respectively. Clearly $S_1\cap T_2$ and $T_2\cap S_1$ cannot be empty (show this is true). The cut-set $S_1\cap T_2$ and $T_2\cap S_1$ whichever is non-empty is the one we desire. Demonstrate $e$ cannot be in this cut-set either 
 
-* A **bridge** is a cut-set with only one edge.
-	* (*Theorem*): If $e$ is a bridge, then it appears in every [[Tree|spanning forest]]. 
-		* If it didn't then the spanning forest would not be able to cover all vertices since removing it disconnects the graph.
-
-* Let $G$ be a connected graph. The **edge connectivity** of $G$, denoted $\lambda(G)$ is the size of the smallest cut-set in $G$.
-  
-  It is the minimum number of edges we need to delete to disconnect $G$. 
-  
-  If $\lambda(G) = k$, we say that $G$ is **$k$-edge connected**
-
-### General Connectivity
+# General Connectivity
 * (*Bondy and Murty 3.1*) **Connectivity Inequality**  If $G$ is a connected graph, then
   $$
   \kappa(G) \le \lambda(G) \le \delta (G)
@@ -87,6 +107,9 @@
 
 
 # Links
+* [[Introduction To Graph Theory by Wilson]]
+* [[Graph Theory With Applications by Bondy and Murty]]
+
+
 * [[Fundamental Constructs of Graph Theory]]
-* [[Families of Graphs]]
 * [[Operations on Graphs]]

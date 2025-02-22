@@ -2,7 +2,7 @@
   $$
   \varepsilon(S,S^C) = \text{card} (\set{v_iv_j \in E \mid (v_i \in S, v_j \in S^C) \wedge (v_i\in S^C, v_j \in S)})
   $$
-  We define the **edge conductance** to be the ratio of the [[Graph Connectivity|cut]] defined above with the smaller of $S$ and $S^C$. That is 
+  We define the **edge conductance** to be the ratio of the [[Edge Connectivity|cut]] defined above with the smaller of $S$ and $S^C$. That is 
   $$
   \phi(S) = \frac{\varepsilon(S,S^C)}{\min(|S|, |S^C|)}
   $$
