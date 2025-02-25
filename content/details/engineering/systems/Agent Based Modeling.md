@@ -44,6 +44,34 @@
 	* Codify the rules of the model into code.
 	* Hyperparameters tuning and validation
 	* Model analysis
+
+* [^pangallo_2024] suggests we should also consider data driven ABMs. 
+	* The recent trend toward data-driven ABMs is helping overcome their traditional limitations of lacking mathematical rigor and feeling arbitrary because of difficulties in calibration.
+		* The data driven approach can replace unnecessary assumption
+		* They can also help make reasonable assumptions by measuring which assumptions improve results (i.e., how they match real world data).
+	* *ABMs are data driven when the parameters in the ABM are obtained based on empirical data*.
+	* Generally there are three methods for making ABMs more data driven
+		* **Calibration** involves modifying the parameters to match empirical data. For parameters where there is no source of empirical or theoretical data, we can infer the data via [[Machine Learning|a machine-learning like process]]
+			* Sampling guesses for these parameters
+			* Using summary statistics from simulated and real data
+			* Defining a loss function to compare simulated and real data.
+			* Choosing parameters to minimize loss.
+		* **Initialization** involves estimating agent-level attributes and initial conditions.
+			* Initialization requires to make disparate sources of data compatible with themselves and with the model.
+			* Some procedures include
+				* Generating synthetic populations
+				* Reconstructing a [[Network Science|network]] (if given). 
+				* Use data, if not from the target source, something analogous to the target source.
+		* **Assimilation** involves estimating the entire time series of agent-specific variables.
+			* Use a [[Kalman Filter|Kalman filter]] to combine models and observations.
+			* Use [[Probabilistic Graphical Models|PGMs]]. 
+			* Use [[Metaheuristics|heuristics]]
+
+![[Data Driven ABMs.png]]
+<figcaption> Data Driven ABM typology. Image taken from Pangallo and del Rio-Chanona (2024) </figcaption>
+
+[^Pangallo_2024]: Pangallo and del Rio-Chanona (2024) [Data Driven Economic Agent-Based Models](https://arxiv.org/html/2412.16591v1)
+
 ## Opportunities and Challenges
 *  Incorporate micro-data to the model itself.
 * Model the full population of the system.

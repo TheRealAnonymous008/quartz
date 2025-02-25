@@ -129,6 +129,8 @@
 		  ghg^{-1} y = ghx = gx = y
 		  $$
 		  So $ghg^{-1} \in G_x$. Similarly, we can show that if $h\in G_y$, then $g^{-1}hg$ fixes $x$ which proves the theorem.
+
+* The **rank** of $G$ is the number of orbits of $G_x$ on $X$. 
 # Topics
 * [[Group Action Orbital]]
 * [[Primitive Permutation]]

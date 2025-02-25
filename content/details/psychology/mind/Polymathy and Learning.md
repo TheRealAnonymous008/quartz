@@ -14,6 +14,27 @@
 	* Identify which subskills we need to learn based on our own goals.
 	* A breakthrough can only happen as a byproduct of hours of effort.
 
+* [The Fastest Way to Improve your Art](https://www.youtube.com/watch?v=AB9yTNfE3go&list=PLMBB8qLy6Ps8ncWDvxy5QUVsPEpaMHM8x) comes from practicing in a way that lets us draw, find what we can do better and making those changes, as best and efficiently as possible.
+	* *Method*: Pick a piece of art you like, study it and make three  copies on your own without looking at the reference within  one hour.
+		* Decompose the art into something you are comfortable with replicating (based on your skill level and goals). 
+		* Make one copy with the reference. Duplicate this three times. 
+		* For Copy A
+			* Compare with the original
+			* Highlight where you differ from the original
+			* Make and note down adjustments
+			* Analyze why the artist make a different move than you. 
+		* For Copy B make the adjustments you did for Copy A again without using the reference
+		* Use Copy C to measure your progress.
+		* Make a blind copy without the reference and while recalling the lessons you learnt.
+			* Perform the same analysis as we did prior (using three copies)
+			* Iterate. 
+		* *It is important to note down the principles you think the master uses. It doesn't have to be correct, it just has to be useful to you.*
+
+	* *Studying from a reference gives us a ground truth from which we can compare our own work with*.
+	* *Making it blind is a method of active recall*.
+	* Once done with the blind method, make something original but applying the principles you learnt
+	
+
 # About Learning
 * There are many kinds of learning -- some do not require conscious effort. 
 * *Humans and other animals adapt well because they are predisposed to learn*, and because they respond particularly strongly to certain types of events: 

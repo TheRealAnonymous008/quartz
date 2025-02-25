@@ -7,12 +7,14 @@
 
 * Use a **Second Brain**. The idea is to dump all of your knowledge into a repository and then organize bits of knowledge by finding connections between them.
 
-* The **Action Method**. All projects can be reduced to these three components
+* The **Action Method**. All projects can be reduced to these three components (see more [[Getting Things Done|here]]). 
 	* *Action Steps* - the specific concrete tasks that let you make progress, even if it's a little progress.
 	* *References* - any project-related documents you may wish to refer back to. They are not actionable but they serve as good references.
 	* *Backburner Ideas* - things that are not actionable now but may be someday.
 
 * *Say no to everything not aligned with your essential priorities. Prioritize what is important over what is urgent*. 
+
+* When brainstorming, just focus on the idea and let the ideas flow. 
 
 # Links
 * [How to Make Creative Ideas Happen by Organizing your Life into Projects](https://unmistakablecreative.com/make-creative-ideas-happen/) 

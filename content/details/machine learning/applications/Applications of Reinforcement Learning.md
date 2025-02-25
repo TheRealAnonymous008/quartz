@@ -70,6 +70,36 @@
 
 
 # Modeling
+* [^Yao_2024] proposes a simulation framework using a small group of representative RL agents for the context of a double auction stock market (agents buy and sell simultaneously)
+	* The framework runs all agents simultaneously. Also, all agents are heterogeneous.
+	* The paper provides a framework for analyzing whether or not simulations match real world markets by examining statistical characteristics and market responsiveness. 
+	* Testing is done with three groups of agents -- (A) agents that continue training throughout the simulation; (B) - agents pre-trained and are used in the simulation without training ; (C) - untrained agents. 
+	* *Continual learning RL agents produce the most realistic market simulation and can adapt to changing market conditions*.
+	* *Limitations*: Does not address how to calibrate the system.
+
+[^Yao_2024]: Yao, Li, Thomas, and Florescu (2024) [Reinforcement Learning in Agent-Based Market Simulation: Unveiling Realistic Stylized Facts and Behavior](https://arxiv.org/abs/2403.19781)
+
+* [^brusatin_2024] proposes **R-MABM** a rational Macroeconomic ABM to study the impact of rationality in the economy. 
+	* *Rationale*: Traditional ABM models do not account for heterogeneity, bounded rationality or nonequilibrium dynamics. RL can overcome these limitations and at the same time alleviate the burden of designing rules for the agents. 
+	* Like other [[Computational Macroeconomics|MABMs]], agents (specifically firm agents) have access to  price deltas and firm stock values. They then set price and production quantities. The reward is based on agent profit.
+	* We make use of curriculum learning where we gradually introduce RL agents into the environment.
+	* *RL agents choose and adapt their strategy according to the level of market competition and rationality*. They can outperform the profits of bounded rational firms.  In particular, RL agents have learn the following strategies in the case of shared policies
+		* **Market Power Strategy** - when competition is low, RRL agents learn to charge any desired price on goods sold. They establish [[Competition between Firms|monopolies and oligopolies]].
+		* **Dumping Strategy** - when competition is high, RL agents learn to drop the retail price below market level to undercut the competition.
+		* **Perfect Competition** - when competition is high and there are a lot of RL agents, the RL agents learn to set quantities and prices in line with the market. 
+	* RL agents with independent policies outperform RL agents with shared policies since they can adapt to the market and exploit their own niche.
+	* The impact of rationality is as follows:
+		* Increased rationality implies higher output.
+		* Increased rationality implies higher economic stability under conditions where there is perfect competition.
+		* Perfect competition gives highest output and is most responsive. 
+
+![[R-MABM.png]]
+<figcaption> R-MABM. Image taken from Brusatin et al. (2024) </figcaption>
+
+
+[^Brusatin_2024]: Brusatin et al. (2024) [Simulating the economic impact of rationality through reinforcement learning and agent-based modelling](https://arxiv.org/html/2405.02161v1#S2)
+
+
 * [^ardon_2022] propose an [[Agent Based Modeling|ABM]] network that is compatible with the use of [[Multi-Agent Reinforcement Learning|MARL]] .  The framework encodes the following
 	* Partial Observability. 
 	* A network model for inter-agent relationships.  Connectivity can either be static or stochastic. 
@@ -91,6 +121,17 @@
 	* Models the entirety of society as a high level construct due to data limitations. 
 
 	[^Kwak_2021]: Kwak, Ling, and Hui (2021): [Deep reinforcement learning approaches for global public health strategies for COVID-19 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251550)
+
+* [^Ardon_2021] presents a financial framework for replicating complex market conditions involving two agent types -- Liquidity providers and Liquidity takers via MARL.
+	* Liquidity Providers continuously quote buy and sell prices at which they are willing to take.
+	  
+	  Liquid Takers are the consumers who execute orders.
+	  
+	  A third agent -- an electronic communication network (ECN) decides which LPs trade with which LT. The ECN exposes prices on both bid and ask sides.
+	* LPs maintain an inventory of the quantity traded until an investor accepts the trade.
+	* The MARL approach is shared across agent types. The shared policy is studied to gather insights
+[^Ardon_2021]: Ardon et al. (2021) [Towards a fully RL-based Market Simulator](https://arxiv.org/abs/2110.06829)
+
 
 * [^Sert_2020] combines reinforcement learning techniques with ABM techniques to study the dynamics of segregation. 
 	* *Contribution*: Combining MARL and ABM to create an artificial environment to observe potential and existing behaviors associated to rules of interactions and rewards.  

@@ -30,7 +30,7 @@
 * $G\cup H$ - union of two graphs
 * $G \cap H$ - intersection of two graphs.
 * $\partial_e S$ - edge boundary of $S$
-* $\partial S, \phi(v), \phi(S)$  - outer boundary of $S$ or vertex $x$.
+* $\partial S, \phi(v), N(v), \phi(S)$  - outer boundary of $S$ or vertex $x$.
 * $\partial G[S]$ - induced subgraph associated with $\partial S$. 
 * $\text{cl}(G[S])$ - closure of $G[S]$  
 * $\text{cl}(S)$ - set of vertices in the closure of $G[S]$. 

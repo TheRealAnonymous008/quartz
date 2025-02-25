@@ -8,6 +8,11 @@
 	* Gain more knowledge. 
 	* Be an expert in what you do.
 
+# General Tricks
+* *The highest performing people are those who have installed the best tricks in their lives.* 
+* Much of learning how to manage workflow in a "black belt" way is about laying out the gear and practicing the moves so that the requisite thinking happens more automatically and it's a lot easier to get engaged in the game
+* See more [[Getting Things Done - Practical Tips|here]].
+
 # Goals
 * Set **SMART** goals in line with your vision. 
 	* **Specific** - Target a particular area for improvement. The goal is clear and narrow. 

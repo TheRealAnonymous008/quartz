@@ -26,6 +26,10 @@
 		* The idea of a new beginning yet to be manifested
 		* Acting like a reckless, naive fool. Remaining stagnant or blissful 
 
+| Upright                                                                                   | Reversed                                                                                    |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Beginnings<br>Freedom<br>Innocence<br>Originality<br>Adventure<br>Idealism<br>Spontaneity | Recklessness<br>Carelessness<br>Distracted<br>Naive<br>Foolish<br>Gullible<br>Stale<br>Dull |
+ 
 [^fool]: The traditional deck, the Fool had no rank and no power but can mimic any card.
 ## I - The Magician 
 * *Early*: The traveling conjurer and swindler. Usually he is either depicted performing a sleight of hand trick or conjuring illusions. The Magician was seen as a street performer who was also a deceitful conman.
@@ -48,6 +52,10 @@
 		* Unclear intentions or a lack of opportunity to realize one's "magic"
 		* Manipulation, Illusions, Deception
 
+| Upright                                                                                      | Reversed                                                                      |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Willpower<br>Desire<br>Resourcefulness<br>Skill<br>Ability<br>Concentration<br>Manifestation | Manipulation<br>Cunning<br>Trickery<br>Wasted Talent<br>Illusion<br>Deception |
+ 
 ## II - The High Priestess
 * *Early*: The High Priestess represented a Popess - a holy woman. Due to the perception of women at the time, it was also associated with secrecy, both in hiding the High Priestess' femininity to keep their position, and also to keep sacred knowledge and history.
 
@@ -69,6 +77,9 @@
 		* A private understanding of the truth without sharing or the intention to share. Being too wrapped up in one's own inner world.
 		* Dishonesty or using knowledge to harm others
 
+| Upright                                                                                | Reversed                                                                                     |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Unconsciousness<br>Intuition<br>Mystery<br>Spirituality<br>Higher Power<br>Inner Voice | Repressed Intuition<br>Hidden Motives<br>Superficiality<br>Confusion<br>Cognitive Dissonance |
 ## III - The Empress
 * *Early* : Depicted status, wealth and power. Seen as a pragmatic and powerful authority figure who is nonetheless compassionate. It is seen in both a positive light -- with the Empress' role as wife to the Emperor, and also a negative light -- in the sense of being associated with the negative aspects of femininity.  She is thus the Archetypal Mother Figure
 
@@ -88,6 +99,9 @@
 		* Healing the connection to the body and nature. Developing individuality, Reparenting oneself. Desire for Change.
 		* People pleasing, Putting others first. Fear of one's own depths. Trauma related to women. Imbalance of power.
 
+| Upright                                                                                                | Reversed                                                                                    |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Divine Feminine<br>Sensuality<br>Fertility<br>Nurturing<br>Creativity<br>Beauty<br>Abundance<br>Nature | Insecurity<br>Overbearing<br>Negligence<br>Smothering<br>Lack of Growth<br>Lack of progress |
 ## IV - The Emperor
 * *Early*: The Archetypal Patriarchal figure (i.e., kings who ruled over civilizations). If the High Priestess represented the Pope, the Emperor represented the authority of the State. 
 * *Tarot de Marseilles*: Depicted a person of highest status or someone about to pass legal judgment. The Emperor is the ultimate authority with the potential to either be tyrannical or benevolent. Confident, Rational, Strong Willed.
@@ -107,7 +121,26 @@
 		* Inner authority. Clarity around standards that come from within.
 		* Fear of external power structures or people. Trauma relating to men. Abuse of Power.
 
+| Upright                                                                                             | Reversed                                                                          |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Stability<br>Structure<br>Protection<br>Authority<br>Control<br>Practicality<br>Focus<br>Discipline | Tyranny<br>Domineering<br>Rigid<br>Stubborn<br>Lack of discipline<br>Recklessness |
+
 ## V - The Hierophant
+* *Early*: The contrast / rival to the Emperor, the Hierophant (corresponding to the Pope) was another powerful person in the Middle Ages.
+* *Tarot de Marseille*: Depicted someone who had authority over the spiritual; The pinnacle of religious authority and thus the highest authority; The bridge between man and divine who interprets the mysteries of the universe to his followers; The great teacher, but also one who has the potential to be dogmatic, judgmental, or authoritarian.
+* *Levi*: The Initiate of the Mysteries of Isis. The Pope taught the people via theology and piety. 
+  
+  Indication, Demonstration, Instruction, Law, Symbolism, Philosophy, Religion
+* *Golden Dawn*: The great teacher; channeler of occult wisdom. The one who translates divine wisdom into human terms.
+  
+  Conformity, Respect for authority, Obeying the rules, Staying within traditions and values; Aspiration
+* *Waite*: The Highest authority in any hierarchy, esp. spiritual; The religious leader channeling divine grace through institutions.  
+  
+  Conformity, Bondage to social conventions, Dogmatisms and ritual; Large social establishments; Servitude; Mercy and goodness; Inspiration
+  
+  Can become power hungry, controlling and authoritarian. 
+
+
 * *Modern* 
 	* *Upright*: Institutions. Group Identity.
 	* *Reversal*:
@@ -116,6 +149,9 @@
 		* Personal rituals and practices, intimacy with the spirit and what gives life meaning.
 		* Trauma relating to learning institutions or authority. Judgments around a perceived lack of education. Cultism.
 
+| Upright                                                                                          | Reversed                                                                    |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| Tradition<br>Social Groups<br>Conventionality<br>Conformity<br>Education<br>Knowledge<br>Beliefs | Rebellion<br>Unconventionality<br>Nonconformity<br>New methods<br>Ignorance |
 ## VI - The Lovers
 * *Modern*
 	* *Upright*: Love, Union, Bonds
@@ -125,7 +161,9 @@
 		* Self-love or struggling with self-love. A sense of disharmony with the self. 
 		* Dishonesty with the self around needs and wants. Communication breakdown. Harmful intentions in relationships.
 
-
+| Upright                                                                                  | Reversed                                                                       |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Love<br>Union<br>Partnerships<br>Relationships<br>Choices<br>Romance<br>Balance<br>Unity | Disharmony<br>Imbalance<br>Conflict<br>Detachment<br>Bad choices<br>Indecision |
 ## VII - The Chariot
 * *Modern*
 	* *Upright*: Victory, Assertion, Momentum
@@ -134,6 +172,10 @@
 		* Lack of progress. Burn out. Changing oneself forward. Inner resistance. Distraction
 		* Reaching milestones around inner or invisible goals. Inner discipline. Encountering setbacks and challenges. Need for Introspection and Growth. 
 		* Goal obsession. Productivity as distraction. Loss of control with one's life. 
+
+| Upright                                                                                  | Reversed                                                                       |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Success<br>Ambition<br>Determination<br>Willpower<br>Control<br>Self-discipline<br>Focus | Forceful<br>No direction<br>No control<br>Powelesss<br>Aggression<br>Obstacles |
 
 ## VIII - Strength 
 * *Modern*
@@ -144,6 +186,9 @@
 		* (Suppressed) Inner strength. A budding self-love journey.
 		* Self-harm. Self-loathing. Passions becoming the enemy. Vulnerability.
 
+| Upright                                                                          | Reversed                                                                            |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Courage<br>Bravery<br>Confidence<br>Compassion<br>Self-confidence<br>Inner power | Self-doubt<br>Weakness<br>Low confidence<br>Inadequacy<br>Cowardice<br>Forcefulness |
 ## IX - The Hermit
 * *Modern*
 	* *Upright*: Soul searching, Solitude
@@ -153,6 +198,9 @@
 		* The beginning towards starting a person's spiritual journey. Need for engagement 
 		* Clinging to the superficial. Fear of looking inward. Feeling  isolated. Excessive Isolation. Paranoia.  
 
+| Upright                                                                                        | Reversed                                                                                     |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Self-reflection<br>Introspection<br>Contemplation<br>Withdrawal<br>Solitude<br>Search for Self | Loneliness<br>Isolation<br>Recluse<br>Being anti-social<br>Rejection<br>Returning to society |
 ## X - The Wheel of Fortune
 * *Modern*
 	* *Upright*: Karma. Turning a cycle
@@ -162,14 +210,21 @@
 		* Introspection. Looking at one's own personal cycles. Learning through struggle. Acceptance and Adaptation.
 		* Crisis of faith. Feeling powerless. Chaos.
 
+| Upright                                                                              | Reversed                                                                          |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| Change<br>Cycles<br>Fate<br>Decisive Moments<br>Luck<br>Fortune<br>Unexpected Events | Bad luck<br>Lack of control<br>Clinging to control<br>Unwelcome changes<br>Delays |
 ## XI - Justice
 * *Modern*
-	* *Upright*: Fairness. Cause and Efect.
+	* *Upright*: Fairness. Cause and Effect.
 	* *Reversed*: 
 		* Important information missing. Being inhibited from acting on the truth.
 		* Injustice. Concealment of the truth. Dishonesty. Corruption.
 		* Dishonesty with oneself.
 		* Denying one's own responsibility for their life. Victim mindset.  Karmic retribution. Unfairness
+
+| Upright                                                                                                       | Reversed                                                                                      |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Justice<br>Karma<br>Consequence<br>Accountability<br>Law<br>Truth<br>Honesty<br>Integrity<br>Cause and Effect | Injustice<br>Retribution<br>Dishonesty<br>Corruption<br>Unfairness<br>Avoiding Accountability |
 
 ## XII - The Hanged Man
 * *Modern*:
@@ -180,6 +235,10 @@
 		* Contemplating the self. Meditation.
 		* Stagnancy. Impatience. Clinging to something. Addiction. Impulsiveness.
 
+| Upright                                                                                  | Reversed                                                                            |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Sacrifice<br>Waiting<br>Uncertainty<br>Lack of direction<br>Perspective<br>Contemplation | Stalling<br>Disinterest<br>Stagnation<br>Avoiding Sacrifice<br>Standstill<br>Apathy |
+
 ## XIII - Death
 * *Modern*: 
 	* *Upright*: Endings. Beginnings. Transformation.
@@ -188,6 +247,10 @@
 		* Returning to life in some way. 
 		* Transformation on a personal level, or the potential to transform.
 		* Depression. Concealing inner fears. Feeling dead inside. Stagnation.
+
+| Upright                                                                    | Reversed                                                                                |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Transformation<br>Endings<br>Change<br>Transition<br>Letting go<br>Release | Fear of change<br>Repeating negative patterns<br>Resisting change<br>Stagnancy<br>Decay |
 
 ## XIV - Temperance
 * *Modern*
@@ -198,6 +261,10 @@
 		* Realizing purpose through connecting forward.
 		* Lack of self-awareness. Staying stuck in an extreme. Staying stuck flipping back and forth between two options.  Overindulgence. Imbalance. Hastiness. Recklessness.
 
+| Upright                                                                                  | Reversed                                                                |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Balance<br>Peace<br>Patience<br>Moderation<br>Calm<br>Tranquility<br>Harmony<br>Serenity | Imbalance<br>Excess<br>Extremes<br>Discord<br>Recklessness<br>Hastiness |
+
 ## XV - The Devil 
 * *Modern*
 	* *Upright*: Bondage. Restriction.
@@ -206,6 +273,10 @@
 		* Breaking free of pre-existing limitations. The past coming back to haunt someone. Experimentation. Freedom and Independence. Reclaiming power. 
 		* Shame. A spiritual awakening. 
 		* Addiction. Feeling trapped in a negative cycle. 
+
+| Upright                                                                                      | Reversed                                                                                   |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Oppression<br>Addiction<br>Obsession<br>Dependency<br>Excess<br>Powerlessness<br>Limitations | Independence<br>Freedom<br>Revelation<br>Release<br>Reclaiming Power<br>Reclaiming Control |
 
 ## XVI - The Tower
 * *Modern* 
@@ -216,6 +287,9 @@
 		* Crisis of faith. Identity crisis. 
 		* Turning inward on the self. Self-destruction.
 
+| Upright                                                                 | Reversed                                                         |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Disaster<br>Destruction<br>Upheaval<br>Trauma<br>Sudden Change<br>Chaos | Averting Disaster<br>Delaying the inevitable<br>Resisting change |
 ## XVII - The Star
 * *Modern*
 	* *Upright*: Hope. Spiritual Guidance
@@ -224,6 +298,10 @@
 		* Inner demons dominating the psyche. Hopelessness. Despair.
 		* Prayer. Setting intentions. Personal rituals.  Rediscovering creativity and inspiration. Need for nourishment and self-care. 
 		* Disillusionment. Crisis of faith.  Disconnection. 
+
+| Upright                                                                           | Reversed                                                              |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Hope<br>Inspiration<br>Positivity<br>Faith <br>Renewal<br>Healing<br>Rejuvenation | Hopelessness<br>Despair<br>Negativity<br>Lack of faith<br>Despondence |
 
 ## XVIII - The Moon
 * *Modern*
@@ -234,6 +312,10 @@
 		* Deviating from the path most commonly taken and finding one's own way. Release of repressed emotions. Overcoming fears and anxieties. 
 		* Fear. Disillusionment. Addiction.
 
+| Upright                                                                                   | Reversed                                                                         |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Illusion<br>Intuition<br>Uncertainty<br>Confusion<br>Complexity<br>Secrets<br>Unconscious | Fear<br>Deception<br>Anxiety<br>Misunderstanding<br>Misinterpretation<br>Clarity |
+
 ## XIX - The Sun
 * *Modern*
 	* *Upright*: Success. Vitality. Youth.
@@ -242,6 +324,10 @@
 		* Being in the dark. Feeling isolated and alone. Uncertain and hopeless. Reduced enthusiasm and optimism.
 		* Self-love. Making amends with the inner child. Call to play and enjoy life. Call to balance realism and optimism. 
 		* False optimism. Putting up a facade. Overconfidence. Egotism. 
+
+| Upright                                                                    | Reversed                                                                                            |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Happiness<br>Success<br>Optimism<br>Vitality<br>Joy<br>Confidence<br>Truth | Blocked Happiness<br>Excessive Enthusiasm<br>Pessimism<br>Unrealistic Expectations<br>Conceitedness |
 
 ## XX - Judgment
 * *Modern*
@@ -252,7 +338,9 @@
 		* Inner calling. Judging oneself.
 		* Trying to hide from the truth. Shirking responsibility. Regret. Trauma around the concept of god or heaven. False accusations and blame.
 
-
+| Upright                                                                       | Reversed                                                                          |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Self-evaluation<br>Awakening<br>Renewal<br>Purpose<br>Reflection<br>Reckoning | Self-doubt<br>Lack of self-awareness<br>Failure to learn lessons<br>Self-loathing |
 ## XXI - The World
 * *Modern* 
 	* *Upright*: Completion. Accomplishment.
@@ -261,6 +349,11 @@
 		* Incompleteness. Trying to move forward with a shaky foundation. Burdens and disappointment.
 		* Reaching a personal milestone.
 		* Staying stuck in the past. Stagnation. 
+
+| Upright                                                                                | Reversed                                                              |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Completion<br>Achievement<br>Fulfillment<br>Sense of belonging<br>Wholeness<br>Harmony | Lack of closure<br>Lack of achievement<br>Incompleteness<br>Emptiness |
+
 # Links
 * [Tarot Heritage](https://tarot-heritage.com/)
 * [Modernmetaphysicae](https://www.modernmetaphysicae.com/feed)

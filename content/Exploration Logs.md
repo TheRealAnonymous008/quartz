@@ -1,5 +1,6 @@
-* http://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html
 
+
+* https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
 
 
 * [^miyake_2024] shows the use of MARL for analyzing and predicting the evolution of social [[Network Science|networks]].  Each node represents a rational agent in an RL setting. 

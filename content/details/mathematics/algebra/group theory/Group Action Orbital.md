@@ -17,7 +17,7 @@
   $$
   f: X^2/ G \mapsto X/G_x
   $$
-* The **rank** of $G$ is the number of orbits of $G_x$ on $X$. 
+
 * If $\Omega$ is symmetric, then the corresponding orbit of $G_x$ is said to be **self-paired**.  [^self-pairing]
 
 [^orbitals]: Note the similarities with [[Matrix|Matrices]]

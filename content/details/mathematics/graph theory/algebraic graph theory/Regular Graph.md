@@ -5,10 +5,13 @@
   $$
   \forall v\in V(G), \ \deg(v)=k
   $$
+* A **$k$-factor** of a graph is a spanning $k$-regular subgraph. A $k$-factorization partitions the edges of a graph into disjoint $k$-factors.
+	* A $1$-factor is a [[Graph Matching|perfect matching]].
+	* A $1$-factorization of a $k$-regular graph is a proper [[Graph Coloring|edge coloring]].
+
 
 # Families
 * **Cubic Graph** - a $3$-regular graph.
 * [[Trails, Walks, Paths and Cycles|Cycles]] - a connected $2$-regular graphs
 * [[Vertex Transitive Graph]]
-* [[Edge Transitive Graph]]
 * [[Cayley Digraph]]

@@ -9,7 +9,7 @@
 	  $$
 	  J(n,k) = J(n,k,k-1)
 	  $$
-	* The **Petersen Graph** is defined as a special Johnson graph $J(5,2)$
+
 
 	* The **Kneser Graph** is the graph
 	  $$
@@ -45,11 +45,21 @@
 	  |A\cap B| = |\sigma A \cap \sigma B| 
 	  $$
 
+* (*Godsil 4.1.1*) $J(n,k,i)$ is at least arc-transitive. 
+* (*Godsil 4.1.2*) $J(2k+1,k)$ is at least $2$-transitive.
+* (*Godsil 4.5.1*) $J(v,k,k-1)$ is [[Distance Transitive Graph|distance transitive]].
+* (*Godsil 4.5.2*) $J(2k+1,k+1,0)$ is distance transitive.
+
+# Petersen Graph
+* The **Petersen Graph** is defined as a special Johnson graph $J(5,2)$
+![[Petersen Graph.png|300]]
+<figcaption> The Petersen Graph By Leshabirukov - Own work by uploader based on http://en.wikipedia.org/wiki/File:Heawood_Graph.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5788203 </figcaption>
+
+
 * (*Godsil e3.2*) The Petersen graph is not a [[Cayley Digraph|Cayley graph]]. In fact, it is the smallest vertex-transitive graph that is not  a Cayley graph.
 	* *Proof*: Suppose $\text{Cay}(G,S)$ is a Cayley graph on $10$ elements isomorphic to the Petersen graph. Since $G$ must be order $10$, Either $G=\text{C}_{10}$ or $G=D_5$. In both cases, there are no $5$-cycles, which the Petersen graph contains.  
-
-* (*Godsil 4.1.1*) $J(n,k,i)$ is at least arc-transitive. 
-* (*Godsil 4.1.2*) $J(2k+1,k)$ is at least $2$-tarnsitive.
+* (*Godsil 4.4.1*) The Petersen graph cannot be $3$-edge [[Graph Coloring|colored]].
+* The Petersen graph is distance transitive.
 
 # Links
 * [[Algebraic Graph Theory by Godsil and Royle]]
