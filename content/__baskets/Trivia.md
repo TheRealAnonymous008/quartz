@@ -82,6 +82,22 @@
 
 * (*W. Somerset Maugham in "Of Human Bondage"* ): “Man performs actions because they are good for him, and when they are good for other people as well they are thought virtuous … It is for your private pleasure that you give twopence to a beggar as much as it is for my private pleasure that I drink another whiskey and soda. I, less of a humbug than you, neither applaud myself for my pleasure nor demand your admiration.”
 
+* [Encephalitis Lethargica](https://en.wikipedia.org/wiki/Encephalitis_lethargica) - a neuropathological disease that [caused people to become lethargic to the point of being human statues](https://www.youtube.com/watch?v=tib0lgpjbu8)
+
+* The **Law of Jante** from Scandinavia. It's a social attitude towards expressions of individuality. The key rule is *You are not to think you're anyone special or that you're better than us*
+	* You are not to think you are anything special
+	* You are not to think you are as good as we are.
+	* You are not to think you are smarter than we are.
+	* You are not to imagine yourself better than we are.
+	* You are not to think you know more than we do.
+	* You are not to think you are more important than we are.
+	* You are not to think you are good at anything.
+	* You are not to laugh at us.
+	* You are not to think anyone cares about you.
+	* You are not to think you can teach us anything.
+
+* [A defense lawyer's job isn't to defend the defendant per se, but to see to it that the prosecution doesn't overstep their bounds and that the defendant is given a fair trial](https://www.reddit.com/r/NoStupidQuestions/comments/1j5bqbt/do_murderers_confess_to_their_lawyers_that_they/) 
+
 
 # Research Papers
 

@@ -63,7 +63,7 @@
 
 * (*CLRS 12.4*) The expected height of a randomly built binary search tree on $n$ distinct keys is $O(\lg n)$.  [^BST_1]
 
-[^BST_1]: The proof for this relies on [[Mathematics|Jensen's Inequality]]. 
+[^BST_1]: The proof for this relies on [[Convex Optimization|Jensen's Inequality]]. 
 
 # Red-Black Trees
 * A **red-black tree** is a binary search tree with one extra bit of storage per node for the node's color.  In particular

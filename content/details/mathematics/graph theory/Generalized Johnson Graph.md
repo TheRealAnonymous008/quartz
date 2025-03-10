@@ -15,6 +15,11 @@
 	  $$
 	  K(n,k) = J(n,k,0)
 	  $$
+	* The **Odd Graph** is the Kneser graph 
+	  $$
+	  O_k= K(2k-1, k-1)
+	  $$
+		* Each edge in an odd graph has an "odd one out". 
 
 
 
@@ -23,6 +28,13 @@
   {k\choose i}{n-k\choose k-i}
   $$
 	* In fact, it's [[Edge Transitive Graph|edge transitive]]. 
+
+* For any vertex in $J(n,k,i)$ say $u=\set{1,\dots,k}$ the [[Group Action|stabilizer]] follows
+  $$
+  \text{Sym}(k) \times \text{Sym}(n-k) \le G_u
+  $$
+  Clearly, any permutation which permutes the $k$ elements in $u$ and the $n-k$ elements not in $u$ is an element of $G_u$.
+  
 
 * (*Godsil 1.6.1*) if $n\ge k \ge i$, then 
   $$
@@ -45,13 +57,39 @@
 	  |A\cap B| = |\sigma A \cap \sigma B| 
 	  $$
 
-* (*Godsil 4.1.1*) $J(n,k,i)$ is at least arc-transitive. 
-* (*Godsil 4.1.2*) $J(2k+1,k)$ is at least $2$-transitive.
-* (*Godsil 4.5.1*) $J(v,k,k-1)$ is [[Distance Transitive Graph|distance transitive]].
-* (*Godsil 4.5.2*) $J(2k+1,k+1,0)$ is distance transitive.
+* (*Godsil 4.1.1*) $J(n,k,i)$ is at least arc-transitive.
+	* *Proof*: Any two vertices in $J(n,k,i)$ that meet at a vertex $v$ can be mapped to each other via $\text{Sym}(k)\times \text{Sym}(n-k)$. 
 
+* (*Godsil 4.1.2*) $K(2k+1,k)$ is at least $2$-transitive.
+	* *Proof*: Consider two $2$-arcs $(u,x_1, x_2)$ and $(u,y_1,y_2)$. By definition, we know that WLOG, we may represent each vertex as 
+	  $$
+	  \begin{split}
+	  u&=\set{1,\dots,k}\\ 
+	  x_1&= \set{k+1,\dots 2k} \\ 
+	  y_1 &= \set{k+1,\dots,2k-1,2k+1} \\
+	  x_2 &= \set{1,\dots, k-1, 2k+1} \\
+	  y_2 &= \set{1,\dots, k-1, 2k}
+	  \end{split}
+	  $$
+	  Thus $G_u$ acts transitively on the $2$-arcs.
+
+* (*Godsil 4.5.1*) $J(n,k)$ is [[Distance Transitive Graph|distance transitive]].
+	* *Proof*: We show that $d(u,v)=i\iff |u\cap v|=k-i$.  Thus, the automorphism on $J(n,k)$ acts distance transitively. 
+	  
+	  First suppose $d(u,v)=i$.  Note that if $d(u,v)=1$, then $|u\cap v|=k-1$ by definition. Argue by induction and suppose $d(u,v)=i-1\implies |u\cap v| = k-i+1$. WLOG, $u=\set{1,\dots, k}$ and $v=\set{1,\dots,k-i+1, k + 1,\dots k+i-1}$ 
+	  
+	  Now, consider $v'$ adjacent to $v$. $|v\cap v'|=k-1$ so they only differ by exactly one element. In  fact,  $v$ and $v'$ differ by an element in $\set{1,\dots,k-i+1}$ as if they differed in $\set{k+1,\dots, k+i-1}$ we would get $d(u,v')=i-1$.  WLOG, replace $k-i+1$ with $k+i$ and clearly $d(u,v')=i$ as was to be shown.
+	  
+	  Conversely, suppose $|u\cap v|=k-i$.  Clearly if $|u\cap v|=k-1$ then $u$ is adjacent to $v$. Again, argue by induction but this time on $i$ so that $|u\cap v|=k-i+1\implies d(u,v)=i-1$. Take $v'$ such that $|u\cap v'|=k-i < |u\cap v|$Therefore, using transitivity, we can ensure that $u\cap v' \subset u\cap v$. In fact 
+	  $$
+	  u\cap v = (u\cap v') \cup \set{x}
+	  $$
+	  Therefore $v$ is adjacent to $v'$. They must differ by exactly one element. By extension $d(u,v')\ge i$.  Also, clearly $d(u,v')\le i$ since we can construct the path where we iteratively replace the last $i$ elements. Both inequalities give us the desired result.   
+ 
+* (*Godsil 4.5.2*) The odd graph $O_k$ is distance transitive.
+	* *Proof*:  Observe that any path in $O_k$ corresponds to the addition of $1$ vertex and the removal of another vertex.  Clearly, any automorphism which preserves what vertex gets added and removed works and preserves paths. Hence, they preserve distance and so $O_k$ is distance transitive.
 # Petersen Graph
-* The **Petersen Graph** is defined as a special Johnson graph $J(5,2)$
+* The **Petersen Graph** is defined as a special Kneser graph $K(5,2)$
 ![[Petersen Graph.png|300]]
 <figcaption> The Petersen Graph By Leshabirukov - Own work by uploader based on http://en.wikipedia.org/wiki/File:Heawood_Graph.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5788203 </figcaption>
 

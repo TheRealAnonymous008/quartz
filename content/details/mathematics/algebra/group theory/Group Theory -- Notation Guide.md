@@ -60,8 +60,8 @@
 ***
  * $\text{Orb}_G(x), x^G$ - the orbit of $x$ under $G$ 
  * $\text{Stab}_G(x)$, $G_x$ - the stabilizer of $x$ under $G$.
- * $X^g$ - subset of a $G$-set $X$ where $\{x\in X \mid  g x= x\}$. 
- * $\text{fix}_G(X)$ - the set of fixed points of a $G$-set $X$.
+ * $X^g$ -the fixed points of $X$ under group action $g$. 
+ * $\text{fix}_G(X)$ - the set of elements of a $G$-set $X$ that is fixed by all elements of $G$. 
  * $X/G$ - the set of orbits of $X$ under $G$. 
  * $N[H]$ - the normalizer of $H\le G$. 
  * $\Omega^T$ - the transpose of $\Omega$. 

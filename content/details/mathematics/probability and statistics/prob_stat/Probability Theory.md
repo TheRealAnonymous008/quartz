@@ -18,7 +18,7 @@
   $$
   \sqrt{\frac{\sigma^2}{N}}
   $$
-  
+
 # Topics
 * [[Fundamental Constructs of Probability Theory]]
 * [[Random Variables and Probability Distributions]] 

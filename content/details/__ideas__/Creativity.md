@@ -78,6 +78,7 @@
 * *Respect the audience's time and intelligence* lest the creative work comes off as pretentious or dull.
 * [[The Language of Patterns|Your creative power is tied to your pattern language]]. At the time of designing, we rely on the rules of thumbs that we have and these rules are expressed in this pattern language. *It helps to be precise even if it is hard.*
 * [[Productivity]] helps.
+* [[Steal Like an Artist|Steal Like an Artist]]
 
 ## Learning something Creative
 * Adapted from [here](https://www.ctrlpaint.com/library)
@@ -109,3 +110,8 @@
 [^10]: [[__books/Story by Robert McKee|McKee Ch. 3]]
 [^11]: [[Rules of Play -- Game Design Fundamentals by Salen and Zimmerman|Salen and Zimmerman Ch. 1]] - they describe it as Rules, Play and Culture respectively.
 [^12]: [[The Art of Game Design -- A Book of Lenses by Schell|Schell Ch. 7]] - begins with a recounting that changed the author's perspective on Creativity forever.
+
+# Links
+* [[details/creativity/design/DOET/Design Thinking|Design Thinking]]
+* [[Design of Everyday Things]]
+* [[__books/Story by Robert McKee|Story by Robert McKee]]

@@ -10,3 +10,7 @@
   f(\mathbb{E}[X])\le \mathbb{E}[f(x)]
   $$
   That is, the output of the average input from $X$ is smaller than the average output from $f(X)$.
+
+# Links
+
+* [Jensen's Inequality](https://www.youtube.com/watch?v=u0_X2hX6DWE) - more on Jensen's Inequality

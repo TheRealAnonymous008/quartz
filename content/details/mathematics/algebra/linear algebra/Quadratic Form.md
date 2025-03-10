@@ -16,5 +16,10 @@
   $$
   If $H$ is the symmetric bilinear form associated by $K$, then $\beta$ can be chosen to be any orthonormal basis for $V$ for which $\psi_\beta(H)$ is a diagonal matrix.
 
+* A subspace $S\subseteq V$ is **totally isotropic** if $\forall u,v\in S$ 
+  $$
+  u^THv=0
+  $$
+
 # Links
 * [[Linear Algebra by Friedberg Insel and Spence|Friedberg, Insel and Spence]]

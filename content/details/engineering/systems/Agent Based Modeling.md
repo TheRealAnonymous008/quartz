@@ -5,7 +5,7 @@
 * ABMs are primarily motivated by difficulties in modeling phenomena via mathematical or or conceptual models.
 
 # Theory
-* *Incorporate heterogeneity* within the system. Rather than having representative agents for large clusters of agents, embrace the heterogeneity.
+* *Incorporate heterogeneity* within the system. Rather than having representative agents for large clusters of agents, embrace the heterogeneity. [^axtell_2022]
 * *Matching the scale of a model to the data* can be important
 * *Move beyond rational agents*. Incorporate limited information and bounded rationality. A typology of agents can be found below:
 	* **Simple agents** - the behavior is mostly random but there is a goal. Agents do not maintain internal models and only react to the environment based on immediate self interest
@@ -99,6 +99,8 @@
 
 * [[Computational Economics]]
 
+
+[^Axtell_2022]: Axtell  and Farmer (2022) [Agent-Based Modeling in Economics and Fin ance](https://oms-inet.files.svdcdn.com/staging/files/JEL-v2.0.pdf)
 
 # Links
 * [[Game Theory]]

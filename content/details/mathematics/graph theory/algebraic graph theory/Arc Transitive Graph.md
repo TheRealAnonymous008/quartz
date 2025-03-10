@@ -1,20 +1,6 @@
 * A graph is **[[Arc Transitive Graph|Arc Transitive]]** if its [[Graph Automorphism|automorphism group]] acts transitively on its [[Directed Graph|arcs]] (i.e., ordered pairs of adjacent vertices). 
-	* An **$s$-arc** in a graph is a sequence of vertices $(v_0, \dots, v_s)$ such that consecutive vertices are adjacent and $v_{i-1}\ne v_{i+1}$. 
-	  
-	  A graph is **$s$-arc transitive** if its automorphism group is transitive on $s$-arcs. That is, the stabilizer on $u\in V(X)$ $G_u$ acts transitively on all $s$-arcs with vertices starting at $u$.
-		* Let $\alpha(v_0,\dots,v_s)$ be an arc. We define the **head** and **tail** as 
-		  $$
-		  \begin{split}
-		  \text{head}(\alpha) &= (v_1,\dots,v_{s}) \\
-		  \text{tail}(\alpha) &= (v_0,\dots,v_{s-1})
-		  \end{split}
-		  $$
-		* If $\alpha$ and $\beta$ are $s$-arcs, then $\beta$ **follows** $\alpha$ if there is an $(s+1)$-arc $\gamma$ where $\text{head}(\gamma)=\beta$ and $\text{tail}(\gamma)=\alpha$. We say that $\alpha$ can be **shunted** onto $\beta$. 
-		* $X^{(s)}$ denotes the directed graph with $s$-arcs of $X$ as its vertices such that $(\alpha,\beta)$ is an arc if and only if $\alpha$ can be shunted onto $\beta$.
-	* An $s$-arc transitive graph is also $(s-1)$-arc transitive.
-		* A $0$-arc transitive graph is a vertex transitive graph.
-		* A $1$-arc transitive graph is an arc transitive graph or a **symmetric graph**. 
-	* Arc transitive graphs are necessarily [[Vertex Transitive Graph|vertex]] and [[Edge Transitive Graph|edge]] transitive. However, the converse is not necessarily true.
+
+* Arc transitive graphs are necessarily [[Vertex Transitive Graph|vertex]] and [[Edge Transitive Graph|edge]] transitive. However, the converse is not necessarily true.
 
 
 * (*Godsil 3.2.2*) If a graph $X$ is vertex and edge transitive, but not arc transitive, the degree of all vertices is even (i.e., it is [[Eulerian Graph|Eulerian]] assuming connectivity).  [^duality] 
@@ -30,22 +16,21 @@
 [^duality]: Note how (*Godsil 3.2.1*) and (*Godsil 3.2.2*) Deal with bipartite and Eulerian graphs. Both are edge transitive but one is vertex transitive while the other not. See [[Graph Duality|graph]] and [[Matroid Duals|matroid]] duality for more on this.
 
 
-* (*Godsil 4.1.3*) **Tutte's Theorem** If $X$ is $s$-arc transitive graph with degree at least $3$ and girth $g$, then $g\ge 2s-2$
-* (*Godsil 4.1.4*) **Tutte's Theorem** If $X$ is an $s$-arc transitive graph with girth $2s-2$ it is [[Bipartite Graph|bipartite]] with diameter $s-1$.
-
-* If $X$ is $s$-arc transitive, then $X^{(s)}$ is [[Vertex Transitive Graph|vertex transitive]].
-
-* (*Godsil 4.2.1*) Let $X$ and $Y$ be directed graphs and $f:V(X)\to V(Y)$ a [[Graph Homomorphism|homomorphism]] such that every edge $Y$ is the image of an edge in $X$. Let $y_0,\dots, y_r$ be a path in $Y$. Then for each $x_0\in V(X)$ such that $f(x_0)=y_0$, there is a path $x_0,\dots, x_r$ such that $f(x_i)=y_i$
-* (*Godsil 4.2.2*) If $X$ is a connected graph with minimum degree  two that is not a cycle, then $X^{(s)}$ is strongly connected for all $s\ge 0$. 
-
-* (*Godsil 4.3.1*) Let $X$ be a strongly connected digraph and $G$ a [[Transitive Group|transitive]] subgroup in its [[Graph Automorphism|automorphism group]]. If there is a vertex $u\in V(X)$ such that $G_x$ restricted on $N(u)$ is an identity, then $G$ is [[Regular Group|regular]]. 
-
-* A graph is **$s$-arc regular** if for any two $s$-arcs, there is a unique automorphism mapping the first to the second.
-
-* (*Godsil 4.3.2*) Let $X$ be a connected cubic graph that is $s$-arc transitive but not $(s+1)$-arc transitive. Then $X$ is $s$-arc regular
-* (*Godsil 4.3.3*) **Tutte's Theorem** If $X$ is an $s$-arc regular cubic graph then $s\le 5$. 
 * (*Godsil 4.3.4*) If $X$ is an arc transitive cubic graph, $v\in V(X)$ and $G=\text{Aut}(X)$, then $|G_v|$ divides $48$ and is divisible by $3$.
 
-* (*Godsil 4.5.3*) A connected $s$-arc transitive graph with girth $2s-2$ is [[Distance Transitive Graph|distance transitive]] with diameter $s-1$.
+* (*Godsil e4.4*) Let $X$ be a vertex transitive cubic graph on $n$ vertices and $G=\text{Aut}(X)$. If $|G_u|\equiv0 \mod 3$ for $u\in V(X)$ then $X$ is arc transitive. 
+	* *Proof*:  We show that for any vertex $u$, its neighbors are preserved under automorphism. This coupled with vertex transitivity are sufficient to show arc transitivity since we can map $u$ to any vertex and its neighbors (and thus $1$-arcs) are preserved.
+	  
+	  By (*[[Group Action Orbital|Godsil 2.4.1]]*), we have $X^2/G\cong X/G_u$. It suffices, therefore, to show that $|X/G_u|=1$. By [[Group Action|Burnside's Lemma]].
+	  $$
+	  |X/G_u| = \frac{1}{|G_u|} \sum_{g\in G_u} |X^g|
+	  $$
+	  
+	 Consider the neighborhood $N(u)$ and the restriction of the automorphism group on $N(u)$. Clearly any $g\in G$ permutes these neighbors since $g$ preserves adjacency. Thus, the restriction of $G_u$ on $N(u)$ must be a subgroup of $S_3$. Because $|G_u|\equiv 0\mod 3$, the only possibilities for $G_u$ are $C_3$ and $\text{Sym}(3)$. 
+	 
+	 If $G_u\cong C_3$, $e$ fixes all $3$ neighbors while $g,g^2$ fix none. If $G_u\cong \text{Sym}(3)$, then $e$ fixes all $3$ neighbors, transpositions fix $1$ neighbor, and all other elements fix none. In either case, Burnside's lemma gives us  $|X/G_u| = 1$.
+
+
+
 # Links
 * [[Algebraic Graph Theory by Godsil and Royle]]

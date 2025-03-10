@@ -98,7 +98,7 @@
 	 * In other words, we can generalize [[Dynamic Programming for Reinforcement Learning#Generalized Policy Iteration|GPI]] for soft RL. 
 
 
-* **Soft Actor-Critic** approximates Soft Policy Iteration by using [[Function Approximation in Reinforcement Learning|Function Approximation]] using 
+* **Soft Actor-Critic** [^haarnoja_2018] approximates Soft Policy Iteration by using [[Function Approximation in Reinforcement Learning|Function Approximation]] using 
 	* A parameterized state value function $V_\psi(s_t)$ to approximate the soft value. *This helps stabilize training, even if strictly speaking there is no need for this.*
 	  
 	  Its goal is to minimize the squared residual error using the distribution of previously sampled states and actions $\mathcal{D}$.
@@ -152,6 +152,9 @@
 ![[SAC.png]]
 <figcaption> Soft Actor Critic. Image taken from Haarnoja et al. (2018) </figcaption>
 
-[^Haarnoja _2018] Haarnoja, Zhou, Abbeel, and Levine (2018). [Soft Actor Critic--Off Policy Maximum Entropy Deep Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf)
+
+[^Haarnoja_2018]: Haarnoja, Zhou, Abbeel and Levine (2018) [Soft Actor Critic--Off Policy Maximum Entropy Deep Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290)
+
+
 # Links 
 * [[Policy Gradient Method Algorithms]]

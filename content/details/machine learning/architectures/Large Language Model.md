@@ -1,5 +1,11 @@
 * A **Large Language Model** is a machine learning model for language embedding and text generation and is characterized by the large number of parameters (on the order of hundreds of billions) and being trained on very large datasets (trillions of tokens)
 * It is debatable whether or not LLMs actually learn to reason or whether they simply perform sophisticated pattern recognition.
+
+* When pre-training an LLM, we often fill the full context window with text. To make sure to separate different text snippets (i.e., separate documents), we add EOS tokens in between. 
+* For the training corpus, it is desirable to filter
+	* Sources with personal identifiable information
+	* Boilerplate text
+	* Duplicate text or documents. 
 # Key Facts
 * LLMs are capable of being fine-tuned using only a small amount of data. This makes them more economical to use (ignoring the hardware costs)
 * LLMs can be preconditioned to take or speak in certain roles or tuned for specific tasks.
@@ -17,22 +23,30 @@
   This leads to a pipeline
 	* Quick and simple prompts.
 	* Iteratively flesh out the prompt based on where the output falls short. This may lead to **mega prompts**
-	* Consider few-shot or many-shot learning, or iine tuning.
+	* Consider few-shot or many-shot learning, or ifne tuning.
 	* Breakdown the task into subtasks and use an agentic workflow
 
 [^w1]: [OpenAI's Rules for Model Behavior](https://info.deeplearning.ai/openais-rules-for-model-behavior-better-brain-controlled-robots-alphafold-3-covers-all-biochemistry-ai-oasis-in-the-desert)
 
 # Variants
-* According to Pre-train Prompt and Predict- A systematic survey of prompting methods in Natural Language Processing by Liu et. al (Jul 28, 2021)|Liu et. al (2021): 
+* According to [^Liu_2021] 
 	* Left-to-right LMs are the most commonly used. They scan in the manner of an Encoder
 	* Masked LMs are used for bidirectional contexts, similar to that of a decoder.
 	* Prefix Language Models are left-to-right LMs that decodes an output conditioned on an input, which is encoded by the same model parameters but with a fully connected mask and possibly some corruption on the input.
 	* Encoder-Decoder architectures mimic the full transformer.
+
+[^Liu_2021]: Liu et al. (2021)  [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586)
+
+
 # Topics
+* [[Language Model Sampling]]
+* [[LLM Fine Tuning]]
 * [[Prompt Engineering]] - an increasingly important technique in using LLMs  which involves tuning the input prompts.
 * [[Instruction Tuning]] - all about instruction tuning, a technique to get an NLP model to understand instructions.
 
 # Foundational Models
+* [[BERT]]
+* [[GPT]]
 * [[DeepSeek]]
 
 # Links

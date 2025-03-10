@@ -13,6 +13,17 @@
   Here $r=|A|, s=|B|$
 	* A **star** graph is a special case, $K_{1,n}$. 
 
+* [[Generalized Polygon|Generalized polygon]] - special classes of bipartite graphs. 
+
+
+* A **Bipartite Network Projection** is an operation for simplifying a [[Bipartite Graph|bipartite graph]]. 
+  
+  Let $U, V$ be bipartitions of the bipartite graph. Then, its **projection on $U$*** is defined as a graph whose nodes are the same as the vertices of $U$, and two nodes are connected if and only if they are linked to the same node in $V$. 
+  
+  A similar **projection on $V$** can also be defined.
+  
+  ![[Bipartite Projection.png]]
 
 # Links
 * [[Introduction To Graph Theory by Wilson]]
+ 

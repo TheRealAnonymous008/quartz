@@ -176,5 +176,18 @@ $$
   $$
 
 
+* **Hoeffding's Inequality** Let $X_1,\dots, X_n$ be independent random variables such that $a_i\le X_i\le b_i$ almost surely. Also let their sum be $S_n=\sum_i X_i$ . 
+  
+  For all  $t>0$
+  $$
+  \begin{split}
+  P(S_n-\mathbb E[S_n] \ge t) &\le \exp\left(-\frac{2t^2}{\sum_{i=1}^n(b_i-a_i)^2}\right) \\
+  P(|S_n-\mathbb E[S_n] |\ge t) &\le 2\exp \left(-\frac{2t^2}{\sum_{i=1}^n(b_i-a_i)^2}\right)
+  \end{split}
+  $$
+  In general, if $Y_1,\dots, Y_n$ are independent observations where $\mathbb{E}(Y_i)=0$ and $a_i\le Y_i\le b_i$ and $\epsilon >0$. Then for any $t>0$
+  $$
+  P\left(\sum_{i=1}^n Y_i\ge \epsilon\right)\le \exp\left(-t\epsilon + \frac 1 8 \sum_{i=1}^n t^2(b_i-a_i)^2\right)
+  $$
 # Links
 * [[Machine Learning - A Probabilistic Perspective by Murphy|Murphy Ch. 2]]

@@ -26,7 +26,7 @@ aliases:
   $$
 # Vertices
 * If $xy\in E$, we say that $x$ is **adjacent** to $y$. Denoted as $x\leftrightarrow y$. This is the **adjacency relation**.
-* We say that $xy$ is **incident** to the vertices $x,y\in V$. This is the **incidence relation**. 
+* We say that $xy$ is **incident** to the vertices $x,y\in V$. This is the **[[Incidence Structure|incidence relation]]**. 
 * The **degree** of a vertex $v\in V$ denotes the number of edges that are incident to it. This is denoted $\deg(v)$
 	* The minimum degree is denoted $\delta(G)$
 	* The maximum degree is denoted $\Delta(G)$

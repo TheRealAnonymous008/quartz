@@ -37,9 +37,11 @@
 * [[Vertex Transitive Graph]]
 * [[Edge Transitive Graph]]
 * [[Arc Transitive Graph]]
+* [[s-Arc Transitive Graph]]
 * [[Distance Transitive Graph]]
 * [[Cayley Digraph]]
 * [[Regular Graph]]
+* [[Moore Graph]]
 
 * The **Halin Graph** is a graph constructed as follows. Start with a [[Tree|tree]] with no vertex of degree $2$ and with at least one vertex of degree greater than $2$. Draw $T$ on the [[Graph Planarity|plane]] and then connect all leaves to form a cycle. 
 
@@ -72,6 +74,7 @@
 ![[Tutte's 8-Cage.png|300]]
 <figcaption> Tutte's 8 Cage Public Domain, https://commons.wikimedia.org/w/index.php?curid=618430 </figcaption>
 
+* [[Incidence Structure|Levi Graphs]] - $X(\mathcal I)$ for incidence structure  $\mathcal I$
 
 
 # Links

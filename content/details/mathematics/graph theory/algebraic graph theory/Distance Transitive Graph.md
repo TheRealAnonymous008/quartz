@@ -1,6 +1,6 @@
 * A [[Graph Connectivity|connected graph]] $X$ is **distance transitive** if given any two order pairs $(u,u')$ and $(v,v')$ such that $d(u,u')=d(v,v')$, there is an [[Graph Automorphism|automorphism]] $g$ of $X$ such that $(v,v')=g(u,u')$
 
-* Distance transitive graphs are at least $1$-[[Arc Transitive Graph|arc transitive]]. 
+* Distance transitive graphs are at least $1$-[[s-Arc Transitive Graph|arc transitive]]. 
 
 * An alternate characterization is provided as follows
   Let $X_i(u)$ be the set of vertices at distance $i$ from $u$ and $d$ the diameter of the graph. The partition
@@ -31,6 +31,9 @@
 * $X$ is **distance regular** if the intersection array is well defined and the same for each vertex.
 	* *Every distance transitive graph is distance regular*. But the converse is not necessarily true.
 
-
+* (*Godsil e4.14*) An $s$-arc transitive graph with girth $2s+1$ has diameter $s$ and is distance transitive. 
+	* Let $X$ be this graph, and $u,v\in V(X)$. Let $P$ be a shortest path between $u$ and $v$. If $d(u,v)>s$ then $P$ must contain an $s$-arc which can be mapped to an $s$-arc in the cycle of length $2s+1$. However, the distance between two vertices in this cycle is at most $s$ which would yield a shorter shortest path. Therefore $d(u,v)\le s$. Additionally, any two points in the cycle have distance at most $s$. Therefore, $d(u,v)\ge s$. Therefore $d(u,v)=s$. 
+	    
+	  Let $P$ be the shortest path between $u$ and $v$. Clearly $|P|\le s$ since the diameter is $s$ and so $P$ can be mapped to any other $|P|$-arc by automorphism because of $s$-arc transitivity. Therefore, shortest paths are preserved and so are distances. Therefore, $X$ is also distance transitive .
 # Links
 * [[Algebraic Graph Theory by Godsil and Royle]]

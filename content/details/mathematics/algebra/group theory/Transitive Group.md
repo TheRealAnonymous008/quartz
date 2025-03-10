@@ -2,6 +2,8 @@
   $$
   gx = y
   $$
+	* Alternatively  $|X/G|=1$. That is the entire set $X$ is the orbit.  
+
 * (*Godsil e2.3*) If $G$ is a non-trivial transitive permutation group on the set $V$, there is an element of $G$ with no fixed points. 
 	* *Proof*: If $G$ has one orbit (i.e., it  is a cycle), then any non-identity element $g\in G$ will suffice. 
 	  

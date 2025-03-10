@@ -12,6 +12,7 @@
 * [[Group Theory]]
 * [[Information Theory]]
 * [[Linear Algebra]]
+* [[Miscellaneous Problems]]
 * [[Number Theory]]
 * [[Numerical Methods]]
 * [[Probability Theory]]
@@ -37,14 +38,6 @@
 	* $C(x)$ is [[Convex Optimization|convex]] for all $x$
 	* $C$ has a closed graph. 
 
-* A **Bipartite Network Projection** is an operation for simplifying a [[Bipartite Graph|bipartite graph]]. 
-  
-  Let $U, V$ be bipartitions of the bipartite graph. Then, its **projection on $U$*** is defined as a graph whose nodes are the same as the vertices of $U$, and two nodes are connected if and only if they are linked to the same node in $V$. 
-  
-  A similar **projection on $V$** can also be defined.
-  
-  ![[Bipartite Projection.png]]
-
 * For any integer $n$, the following holds
   $$
   \lfloor n/2 \rfloor + \lceil n/2\rceil =n
@@ -59,8 +52,9 @@
   \bigg\lfloor \frac{a}{b}\bigg\rfloor & \ge \frac{a-(b-1)}{b} \\
   \end{split}
   $$
+
 # Links
 
 * [Infinite Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf) - a comprehensive explainer of high level mathematics targeted to a highschooler
-* [Jensen's Inequality](https://www.youtube.com/watch?v=u0_X2hX6DWE) - more on the Jensen's Inequality
+* [John Baez's Blog](https://math.ucr.edu/home/baez/README.html)
 

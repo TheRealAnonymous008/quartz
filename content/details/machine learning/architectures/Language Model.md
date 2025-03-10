@@ -56,8 +56,7 @@
 	* This not only reduces the parameters but also improves perplexity.
 	* This is based on the insight that for next token prediction, often the embedding matrix $E$ and the final layer (sometimes denoted $E^T$) have the same dimensions (up to transposition).
 
-* [C5W3LO4 Beam Search](https://www.youtube.com/watch?v=RLWuzLLSIgw) - beam search is an algorithm similar to BFS and DFS (but is not guaranteed to find maxima), wherein given beam length $B$, we select the top $B$ likely outputs at each step of the search. The goal is to find the likely $B$-length sentence using this search.
-* [C5W3LO4 Refining Beam Search](https://www.youtube.com/watch?v=gb__z7LlN_4) - use length normalization techniques to optimize beam search (maximize log likelihood, average based on sentence length).
+* [[Language Model Sampling]]
 # Papers
 * On Natural Language Processing and Plan Recognition by Geib and Steedman (2007)
 

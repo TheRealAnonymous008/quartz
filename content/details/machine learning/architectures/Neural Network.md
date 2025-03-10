@@ -26,7 +26,7 @@
   $$
 	* It is a natural choice since it is a smooth differentiable function. However, it is inconvenient because of the vanishing gradient problem.
 
-* The **hyperbolic tangent** is a similar function to the sigmoid  that maps to $(-1,1)$ It is defined using $\tanh(x
+* The **hyperbolic tangent** is a similar function to the sigmoid  that maps to $(-1,1)$ It is defined using $\tanh(x)$.
 
 * The **ReLU** or Rectified Linear Unit is a function defined as 
   $$

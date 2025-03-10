@@ -50,6 +50,7 @@
 * $L(X)$ - the line graph of $X$
 * $Q_n$ - the hypercube graph on $n$ vertices.
 * $\text{Cay}(G,C)$ - Cayley graph using the group $G$ and $C$, subset of a generating set of $G$. 
+* $O_k$ - the odd graph $K(2k-1,k-1)$. 
 *****
 * $G+F, G+e$ - edge addition, assuming $F$ is an edge set
 * $G/e$ - edge contraction.

@@ -6,9 +6,11 @@
 * [Final Fantasy VII - Game AI Writeup](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/31903)
 * [Predictive Aiming](https://yal.cc/simplest-possible-predictive-aiming/)
 * [Introversion Games - Subversion](https://www.youtube.com/watch?v=1giu6sMnAxY)
+* [The Tyger](https://en.wikipedia.org/wiki/The_Tyger)
 
 # Paper Queue
 * [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/abs/2211.12588)
+
 
 * [^lyu_2023] provides a theoretical and empirical analysis of the use of Centralized Critics in CTDE.
 
@@ -31,30 +33,33 @@
 	* TransferTransfo -- A [[Transfer Learning|Transfer Learning]] Approach for Neural Network based Conversational Agents by Wolf, Sanh, Chaumond, and Delangue (Feb 4, 2019)
 	* ⭐ BERT -- Pre-Training of Deep Bidirectional Transformer for Language Understanding by Devlin, Chang, Lee, and Toutanova (May 24, 2019) 
 	* Towards a Human-like Open-Domain Chatbot by Adiwardana et. al (Feb 27, 2020) 
-	* ⭐ Language Models are Few-Shot Learners by Brown et. al, (Jul. 22, 2020) 
 	* Dense Passage Retrieval for Open-Domain Question Answering by Karpukhin et. al (Sep 30, 2020) 
 	* TOD-BERT -- Pre-trained Natural Language Understanding for Task-Oriented Dialogue by Wu, Hoi, Socher, and Xiong (November 2020) 
-	* ⭐Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks by Lewis et. al., (2020) 
+	* Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks by Lewis et. al., (2020) 
 	* ⭐ LaMDA- Language Models for Dialog Applications by Thoppilan et. al (Feb 10, 2022) 
 	* Language-Agnostic BERT Sentence Embedding by Feng et. al (Mar 8, 2022) 
 	* ⭐ Training Compute-Optimal Large Language Models by Hoffmann et. al (Mar 29, 2022)
 	* Generating Training Data with Language Models- Towards Zero-Shot Language Understanding by Meng, Huang, Zhang, Han (Oct 12, 2022)
-	* ⭐ LLaMA- Open and Efficient Foundation Language Models by Touvron et. al (Feb 27, 2023) 
-	* ⭐ OpenAGI--When LLM Meets Domain Experts by Ge et. al (Apr 12, 2023) 
 * All these papers from Prompt Engineering
 	* Commonsense Knowledge Mining from Pretrained Models by Feldman, Davison and Rush (2019) 
 	* ⭐ Prefix Tuning -- Optimizing Continuous Prompts for Generation by Li and Liang (Jan 1, 2021)
 	* GPT Understands Too by Liu et. al (Mar 18, 2021) 
 	* Calibrate Before Use -- Improving Few-Shot Performance of Language Models by Zhao et. al (Jun 10, 2021)
-	*  ⭐Pre-train Prompt and Predict- A systematic survey of prompting methods in Natural Language Processing by Liu et. al (Jul 28, 2021) - A survey of different prompting techniques.
+
 	* KnowPrompt -- Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction by Zhang et. al (Jan 23, 2022)
 	* P-Tuning v2 - Prompt Tuning can be comparable to Fine-tuning Universally Across Scales and Tasks by Liu et. al (Mar 20, 2022)
-	* ⭐ Chain-Of-Thought Prompting Elicits Reasoning in Large Language Models by Wei et. al (Jan 10, 2023)
+
 	* Complexity-Based Prompting for Multi-Step Reasoning by Fu et. al (Jan 30, 2023)
+
+[^Graves_2014]: Graves, Wayne, Danihelka (2014) [Neural Turing Machines](https://arxiv.org/abs/1410.5401)
+
+[^Angelopoulos_2021]: Angelopoulos et al. (2021) [Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control](https://arxiv.org/abs/2110.01052)
+
 # Backlogs
 * Note, some entries in [[Trivia]] are also interesting.
 
 * Forms of Government
+* Beam Search
 
 * [[Theory of Computation]]
 	* Algorithmic Information Theory
@@ -99,8 +104,11 @@
 * [Mining Large Datasets](https://www.youtube.com/watch?v=xoA5v9AO7S0&list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) 
 
 * [Gwern](https://gwern.net/me)
+* https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Combinatorics_(Morris)
 
 # Bookstops
+* [[The Psychology of Money]]
+
 * [[Rigid Body Simulation]] - Nonpenetration constraints
 * [[Graph Theoretic Approaches for Swarms]] - Resume Ch. 4
 * [[Code Complete by McConnell]] - Resume Ch. 10
@@ -158,11 +166,14 @@
 * [For h in hexes](https://forhinhexes.blogspot.com/) - tabletop 
 
 * [HackerFactor](https://www.hackerfactor.com/blog/)  - Security 
+
 ## What to Learn? 
 * Universities provide curricula that can aid in the self learning process. The autodidact can either follow these curricula, figure out prerequisites needed for a field of study or simply explore what is out there
 	* [Columbus State University](https://catalog.columbusstate.edu/academic-units/)
 	* [Seoul National University](https://en.snu.ac.kr/academics/curriculum)
 	* [University of Michigan](https://catalog.umd.umich.edu/azprograms/)
+
+* Another great source [Open Syllabus](https://galaxy.opensyllabus.org/)
 
 # Curios
 * [The Library of Babel Website](https://libraryofbabel.info) 

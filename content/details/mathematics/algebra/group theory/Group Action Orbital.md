@@ -17,6 +17,9 @@
   $$
   f: X^2/ G \mapsto X/G_x
   $$
+	* *Proof*: Let $\Omega$ be an orbit of $X^2$ and $Y_\Omega=\set{y\mid (x,y)\in \Omega}$. It suffices to show that $Y_\Omega$ is an orbit of $G_x$ acting on $X$.  Each $Y_\Omega$ corresponds to an orbit of $X$ in the same way that $\Omega$ corresponds to an orbit of $X^2$. 
+	  
+	  To show $Y_\Omega$ is an orbit of $G_x$ acting on $X$, we show that if $y,y'\in Y_\Omega$ then $(x,y),(x,y')\in\Omega$.  So there is a permutation $g(x,y)=(x,y')$ so $gx=y'$ for some $g\in G_x$ (since $x$ remains fixed) .  Conversely, if $(x,y)\in\Omega$ and $y'=gy$, then $(x,y')\in\Omega$. 
 
 * If $\Omega$ is symmetric, then the corresponding orbit of $G_x$ is said to be **self-paired**.  [^self-pairing]
 

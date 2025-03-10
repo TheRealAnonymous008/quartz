@@ -38,10 +38,10 @@
 
 
 * **Law of Conservation of Momentum** In a closed system where matter is not exchanged and where external forces do not act, the total momentum remains constant. That is if we have particles numbered $1,\dots, n$
+  $$
+  \sum_{i=1}^n \vec{p}_i = k
+  $$
   
-  $$
-\sum_{i=1}^n \vec{p}_i = k
-  $$
   Where $k$ is some constant.
   
   This follows from [[Newtonian Mechanics|Newton's Third Law]]

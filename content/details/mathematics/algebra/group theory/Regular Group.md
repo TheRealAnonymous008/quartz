@@ -1,6 +1,7 @@
 
 * A permutation group $G$ acting on $X$ is **semiregular** if no non-identity element of $G$  fixes a point of $X$.
 	* If $G$ is semiregular, then all all orbits have length equal to $G$. 
+	* The above also implies that all stabilizers are trivial. 
 * A permutation group is **regular** if it is semiregular and [[Transitive Group|transitive]]. 
 	* If $G$ is regular on $X$, then $|G|=|X|$. 
 	* The group $G$ acts on itself regularly. 

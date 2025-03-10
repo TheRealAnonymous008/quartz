@@ -72,6 +72,13 @@
 	* Every strongly connected tournament is Hamiltonian.
 
 
+# Automorphisms
+* (*Godsil 4.3.1*) Let $X$ be a strongly connected digraph and $G$ a [[Transitive Group|transitive]] subgroup in its [[Graph Automorphism|automorphism group]]. If there is a vertex $u\in V(X)$ such that $G_x$ restricted on $N(u)$ is an identity, then $G$ is [[Regular Group|regular]]
+	* *Proof*: Let $u\in V(X)$ and $G_u[N(u)]$ be the restriction of $G$ on $N(u)$. Suppose further that $G_u[N(u)]=\set{e}$. Therefore if $v\in V(X)$ then by (*Godsil 2.2.3*) $G_v$ and $G_u$ are conjugates.  Thus $G_v[N(v)]=\set{e}$ for all $v\in V(X)$. 
+	  
+	  Argue by contradiction and suppose $G_u\ne \set{e}$. Thus, there is a vertex that is not fixed. Choose the shortest directed path $u\to \dots \to v \to w$ where $w$ is not fixed in $G_w$.  $v$ is, however, fixed by $G_u$. 
+	  
+	  Since $G_u$ fixes $v$, it also fixes $N(v)$ nontrivially (since $w$ isn't fixed). Therefore $G_v[N(v)]\ne \set{e}$ which is a contradiction.
 # Link
 * [[Introduction To Graph Theory by Wilson|Wilson]]
 * [[Graph Theoretic Methods in Multiagent Networks by Mesbahi and Egerstedt|Mesbahi and Egerstedt]]

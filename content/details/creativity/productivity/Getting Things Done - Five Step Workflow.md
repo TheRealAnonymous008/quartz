@@ -12,16 +12,23 @@
 			* Never put it back in.
 
 * *Process* what they mean and what to do about them
+	* Processing all the things in your world will make you more conscious of what you are going to do and what you should not be doing
 	* If no action is required, then we have three verdicts.
 		* *Trash* - no longer needed.
-		* *Incubate* - no action is needed now, but something might need to be done later.
+		* *Incubate* - no action is needed now, but something might need to be done later. 
+			* Put it here to get it out of your mind right now.
 		* *Reference* - the item is potentially useful information that might be needed for later. 
+			* Maintain a "to file" pile to track things you cannot  immediately file for reference. 
 	* If action is required, then we need to determine the following; 
 		* Is it attached to a project? If yes, then capture the outcome in a projects list.
 		* If not, what's the next action? 
 	* And if a next action has been determined, determine what to do:
 		* *Do it* - if the action will take less than two minutes, it should be done at the moment it is defined.
+			* *The two minute rule derives from the fact that beyond two minutes, it's much quicker to file than to do*. 
+			* Adjust the two minutes depending on how long it takes to file something.
 		* *Delegate it* - if the action will take longer than two minutes, and you are not the right person to do this, delegate it to the appropriate entity.
+			* If you delegate an action and care if something happens, *track the handoff*. 
+			* Keep track of the date on everything you hand off to others. 
 		* *Defer it* - the action will take longer than two minutes , and you are the right person to do it. Track it as a next action for the future.
 
 
@@ -37,9 +44,19 @@
 			* *Suspended / Tickler* - mail something to your future self. 
 		* *Reference storage* - non-actionable, file and refer to it another time. These require no actions but are valuable reference material. 
 			* Establish a good working system for categorizing material. 
+			* As a general rule, it is  best to stick with one general reference system except for a very limited number of discrete topics. 
+			* If material is purely for reference, the only issue is whether it's worth the time and space required to keep it .
 		* *Project list* - for things that require more than one action step. It is your list of open loops.
 			* We don't do projects, only the actions related to it up to the point we say the project is "done" . 
+			* Look at the contents of all projects as often as needed (typically during Weekly Review).
+			* It doesn't matter how you list projects and subprojects as long as you know where to find all the moving parts.
 		* Project plans and material
+			* *Project support materials are not for reminders.*. This should go to your action list instead. 
+			* Make project plans more accessible than pure reference materials.
+			* Consider where you're keeping tabs on a project or topic, how you might add information to it, and where you might store extensive data associated with it. 
+			* If you use attachments to keep track of specific data, remember to look at it. 
+			* *Consistently look for any action steps inherent in project notes and review the notes as often as necessary*. 
+			* Clear out stale, inactive, or unreal notes .
 		* *Calendar* - actions that need to happen at a specific time of day. 
 			* The following go in the Calendar
 				* *Time specific actions* - appointments, meetings, etc.
@@ -48,8 +65,13 @@
 			* *Don't put to-do lists in the calendar.* 
 				* Constantly shifting priorities reconfigure daily work that items in the to-do list would shift and may necessitate re-writing them for the next day.
 				* If there's something on the to-do list that doesn't have to get done that day, it dilutes the emphasis on things that truly do. 
-			* *What is put in the calendar is done at that moment in time or not at all*.
+			* *What is put in the calendar is done at that moment in time or not at all*
 		* *Next Actions list* - contains all action reminders. If there are many actions in this list, we can subdivide it further. 
+			* Organize as-soon-as-possible actions by context. *This is more efficient as it removes context switching*. 
+			* The most efficient way to track your action reminders is to add them to lists or folders as they occur to you
+			* Action reminders should be in discrete categories based on the action required. 
+			* Organize emails within the email software itself. 
+			* *Out of sight, out of mind is not really out of mind*. Know where all your actionable items are located, what they are, and that they will wait.
 		* *Waiting List* - List of reminders of things you're waiting for
 
 

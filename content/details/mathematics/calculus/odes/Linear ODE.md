@@ -46,13 +46,15 @@
 	  \ln \lambda = \int_0^T f(\xi) d\xi 
 	  $$
 	 * The multiplier $\lambda$ characterizes the stability of a limit cycle.
+	   
 	   $$
 	   \begin{cases}
-	  \lambda > 1 & \text{ limit cycle is unstable. Phase curves near a cycle diverge}\\
-	  \lambda = 1 & \text{ cannot be determined} \\
-	  \lambda < 1 & \text{ limit cycle is stable. Phase curves near a cycle wind on the cycle}
-	  \end{cases}
+	   \lambda > 1 & \text{ limit cycle is unstable. Phase curves near a cycle diverge}\\
+	   \lambda = 1 & \text{ cannot be determined} \\
+	   \lambda < 1 & \text{ limit cycle is stable. Phase curves near a cycle wind on the cycle}
+	   \end{cases}
 	   $$
+	   
 	   In other words, if $\lambda = 1$, we cannot make judgments about the behavior of limit cycles
 		* *Intuition*: Consider the function $\Phi$ such that $\Phi(\varphi(0)) = \varphi(T)$. When linearized, this function can be shown to be a monodromy. Intuitively, this maps one cycle (from $0$ to $T$, say) to another limit cycle. Thus, we can see how much the cycle diverges or stabilizes since $\Phi$ is a monodromy.
 		  	  

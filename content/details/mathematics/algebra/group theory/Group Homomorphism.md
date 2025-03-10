@@ -78,5 +78,7 @@
 
 * An [[Group Isomorphism|isomorphism]] is a homomorphism that is bijective.
 * An **endomorphism** is a homomorphism from $G$ to itself.
+
+
 # Links
 * [[A First Course in Abstract Algebra 7th Edition by Fraleigh]]

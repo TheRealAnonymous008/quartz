@@ -56,7 +56,7 @@
 		* It is also multilingual compared to prior English-centric datasets.
 
 * It is initialized from DeepSeek-Coder since it was found that coding models can aid in this task, particularly for program-aided mathematical reasoning but  also for tasks without tool use. 
-* Supervised Fine Tuning was done via an [[Instruction Tuning|instruction tuning]] dataset covering problems from different fields and complexity levels, paired with solutions in CoT, PoT and reasoning format. 
+* Supervised [[LLM Fine Tuning|Fine Tuning]] was done via an [[Instruction Tuning|instruction tuning]] dataset covering problems from different fields and complexity levels, paired with solutions in CoT, PoT and reasoning format. 
 	* Results show *ArXiv Papers seem ineffective in improving mathematical reasoning.*
 	  
 	  Though do note the following. The paper has not investigated

@@ -21,6 +21,7 @@
 * The **Fano Matroid** $F$ is the matroid defined on the set $E=\{1,2,3,4,5,6,7\}$ whose bases are all the subsets of $E$, except $\{1,2,4\}$,  $\{2,3,5\}$,  $\{3,4,6\}$,  $\{1,5,6\}$,  $\{2,6,7\}$,  $\{4,5,7\}$ and  $\{1,3,7\}$.
 	* The Fano Matroid is binary and Eulerian 
 	* The Fano Matroid is not graphic, cographic, transversal, nor regular
+	* It is based on the Fano [[Projective Plane|projective plane]]. 
 
 ## [[Graph Theory]] related
 * The **cycle matroid** also called the **graphic matroid** of a graph $G$ is an isomorphism class of matroids associated with graph $G$ denoted $M(G)$

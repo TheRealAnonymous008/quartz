@@ -72,6 +72,7 @@ $$
 	* $E(S(G)) = \set{v\in V(G), e\in E(G) \mid e \text{ incident to} v}$
 	* The subdivision graph is [[Bipartite Graph|bipartite]], with the partitions corresponding to whether a vertex in $S(G)$ belongs to $V(G)$ or $E(G)$. 
 * If $G$ is $k$-[[Regular Graph|regular]], then $S(G)$ is a semiregular bipartite graph.
+* A **$k$-fold subdivision** of a graph is defined as the graph obtained by replacing each edge with a path of length $k$. 
 
 # Vertex Operations
 * Let $F\subseteq V(G)$. The graph obtained from **vertex deletion** is denoted as $G-F$ and is the graph with all vertices and all incident edges from vertices in $F$ removed from $G$.
